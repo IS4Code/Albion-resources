@@ -1,0 +1,11 @@
+﻿{BLOK000}"Ich bin der Kneipenwirt hier. Habt Ihr schon meinen Sugo probiert? Der ist wirklich gut, Leute."
+"Kommt näher, Skeima Din! Ich hätte da eine Information für Euch. Seid Ihr daran interessiert?{BLOK012}"Nein, danke."{BLOK013}"Kommt darauf an."{BLOK014}"Auf jeden Fall."{WORDInformation}
+"Na dann nicht. Möchtet Ihr Rationen kaufen?"{BLOK010}"Ja, gerne."{BLOK011}"Nein, danke."
+"Das dürfte Euch interessieren. Es geht um den Rat in Beloveno."{BLOK015}"Warum sollte uns das interessieren?"{BLOK016}"Wir wären schon interessiert."
+"Für die Information hätte ich allerdings gerne eine Gegenleistung... An baren Goldmünzen wäre ich durchaus interessiert."
+"Ihr könntet diese Information vielleicht zu Eurem Nutzen verwenden."
+"Ich grüße Euch. Macht es Euch gemütlich. Möchtet Ihr etwas trinken?"{BLOK010}"Ja, gerne."{BLOK011}"Nein, danke."
+"Ich bin Edjirr."
+"Aus zuverlässiger Quelle habe ich erfahren, daß im 'Rat der Gerechten' in Beloveno ein Komplott geschmiedet wird. Es ist geplant, den Ratsvorsitzenden zu ermorden. Es gibt jemanden, der sehr viel Einfluß auf den Rat hat. Ich weiß selbst auch nicht, wer das ist. Jedenfalls läßt sich sein Einfluß wohl besser ohne Herras verwirklichen.^^Natürlich kann ich Euch keine Garantie geben, daß dies alles wahr ist.^^Ach ja, redet mit Arrim, der im Haus der Erntearbeiter wohnt. Von ihm kann man ebenfalls sehr wichtige Dinge erfahren."
+"Seid Ihr bereit, dafür 80 Goldmünzen zu bezahlen?"
+"Bietet nichts an, was Ihr nicht habt!"

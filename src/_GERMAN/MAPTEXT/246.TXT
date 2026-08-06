@@ -1,23 +1,23 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿-frei-
+Ein Tür.
+Die Tür klemmt, obwohl sie nicht verschlossen ist.
+Wer durch die Türen möchte, der darf durch die Türen!
+Diese Tür kann nicht von Hand geöffnet werden.
+Ein magischer Vorhang.
+Hier ist ein Loch in der Decke. Es ist aber zu hoch, um mit einem Seil hoch|zu|klettern.
+Dieses Feld sieht irgendwie anders aus, als die, die man bisher überall zu sehen bekam.
+Eine Treppe.
+"Wer stört mich hier? Was habt Ihr hier eigentlich zu suchen? Bestimmt hat Euch Zebenno den Schlüssel gegeben, dieser Taugenichts. Stört mich bitte nicht. Ich habe genug Arbeit und muß meinen Studien nachgehen. Und laßt Euch noch einen Tip vom alten Kossotto geben: Paßt auf die Dämonen auf.^^Hähä."
+"Da seid Ihr ja. Ich habe schon gehört, daß Ihr mich sucht. Und ich weiß, daß Sojekos mich beauftragt hat, Euch ein großes Geheimnis zu verraten. Aber ich werde das nicht ohne eine entsprechende Gegenleistung von Euch tun.^^Schon seit langem sind wir dabei, das Ritual nachzuvollziehen, damit wir nicht alle auf die Bergpriester angewiesen sind. Wir sind auch schon ziemlich weit, allerdings fehlt uns das entscheidende Zauberwort. Wir können uns in der Gilde der Bergleute nicht mehr sehen lassen, denn wir haben schon versucht, sie bei Ihrem Ritual zu beschatten. Leider vergeblich. Sie haben uns mehrmals ertappt.^^Wenn Ihr das Zauberwort herausbekommt und es mir sagt, werde ich Euch das Wissen vermitteln, das schwöre ich Euch bei meiner Ehre."
+"Wißt Ihr das Zauberwort bereits?"
+"Dann besorgt es bitte. Ihr könnt es schaffen, denn zu Euch haben sie noch Vertrauen. Ich finde, es ist angemessen, daß Ihr für dieses große Vertrauen, daß ich Euch entgegenbringe, indem ich Euch dieses Geheimnis verrate, mir und den anderen Gerätemachern diesen Gefallen tut."
+"Wie lautet es?"
+"Ich kann mir nicht vorstellen, daß dieses Wort das mächtige Paßwort des Rituals ist."
+"Gütige Mutter der Erde, natürlich - das ist es. Da hätte ich auch selbst drauf kommen können. Gut, versprochen ist versprochen.^^Zunächst einmal bedanke ich mich bei Euch für die Hilfe. Und dann bitte ich jemanden von Euch, zu mir herzukommen, um ihm eine Schriftrolle zu übergeben und zu erklären."
+{LEAD}{NAME} erklärt sich bereit und geht zu Kossotto. Er bekommt von ihm eine Schriftrolle überreicht, der eine ausführliche Erklärung folgt. Die anderen hören alle aufmerksam zu, aber außer {LEAD}{NAME} scheint es niemand so richtig zu verstehen.^^Nach einiger Zeit ist Kossotto fertig und {LEAD}{NAME} macht irgendwie ebenfalls einen fertigen Eindruck. Auf alle Fälle ist eine weitere wichtige Zutat zur Erschaffung des Samenkorns gefunden!
+"Ich wünsche Euch noch viel Erfolg!"
+"Ich kann jetzt nichts mehr für Euch tun."
+"Es lautet 'Gütige Erde, tu mir nichts an!'"
+"Es lautet 'Umajo Danu'"
+"Ihr könnt die Schriftrolle nicht mehr mitnehmen, weil Ihr keinen Platz mehr frei habt!"
+Ein leeres Faß.

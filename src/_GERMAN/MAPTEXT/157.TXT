@@ -52,7 +52,8 @@ In diesem Bereich herrscht eine drückende Wärme. Der Boden des Raumes glüht t
 Eine rotglühende Stelle im Boden. Eine starke Hitzestrahlung geht davon aus.
 {LEAD}{NAME} und die Gefährten treten in die rotglühende Masse! Sofort zieht ein starker Schmerz durch die Beine!
 In die Lava getreten!
-{LEAD}{NAME} tritt in die Leuchterscheinung hinein und alles um {HIM } herum versinkt in Schmerzen! Eine Entladung entsteht; sie erfaßt alle Gefährten!
+{LEAD}{NAME} tritt in die Leuchterscheinung hinein und alles um {HIM } herum versinkt in Schmerzen! Eine Entladung entsteht und sie erfaßt alle Gefährten!
 Die Leuchterscheinung gibt ein leichtes Knistern von sich. Schon in der Nähe des Leuchtfeldes macht sich ein ziehender Schmerz in den Knochen bemerkbar, schlimmer noch als in den verbotenen Bereichen der Universität der Druiden.
 "Diese riesige Flamme dort hinten gefällt mir überhaupt nicht..."
 Die Wand fährt schlagartig in die Decke!
+Unter dem Gerümpel schaut etwas Wertvolles hervor!

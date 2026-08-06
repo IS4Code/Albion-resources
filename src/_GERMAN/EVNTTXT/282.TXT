@@ -1,0 +1,15 @@
+﻿{BLOK000}"Ich bin eigentlich Gerätemacher, aber ich habe mich darauf spezialisiert, magische Lotionen und Tränke zu entwickeln."{WORDTränke}
+"Ich grüße Euch, ich bin Merdger und Mitglied in der Gerätemachergilde."{WORDGerätemacher}
+"Die sind eigentlich nur für Eingeweihte..."
+"Euch ist mein Porenöl empfohlen worden?^^Mhm, na schön, ich verkaufe Euch ein Fläschchen für 15 Münzen. Ein Fläschchen reicht übrigens für bis zu sechs Leute pro Anwendung."{BLOK010}"Nein danke, kein Interesse."{BLOK011}"Ja, wir nehmen eins."{BLOK012}"Wir hätten gerne 5 Stück für 75 Münzen."
+"Na, dann nicht."
+"Ich danke Euch. Es wird garantiert helfen. Trinkt es alle 8 Stunden, wenn Ihr in der Wüste wandert."
+"Leider habt Ihr nicht genug Goldmünzen dabei."
+"Ihr habt leider keinen Platz, um das mitzunehmen!"
+"Schaut Euch ruhig um in unserem Gildenhaus. Unsere wichtigsten und neuesten Errungenschaften werden allerdings in unserer unterirdischen Werkstatt entwickelt. Natürlich habt Ihr dorthin keinen Zutritt."{WORDWerkstatt}
+"Wie ich schon sagte, diese Werkstatt ist nicht für die Öffentlichkeit zugänglich. Weder ich noch Zebenno werden Euch den Schlüssel geben!"{WORDSchlüssel}{WORDZebenno}
+"Zebenno ist ebenfalls Gerätemacher. Er verfügt über den Zweitschlüssel. Sprecht ihn lieber erst gar nicht auf den Schlüssel an, er ist nicht immer ganz standfest.^^Mhm, ich sehe schon, Ihr werdet ihn darauf ansprechen. Aber ich habe Euch gewarnt. Wenn er Euch den Schlüssel gibt und wenn Euch dort unten irgend etwas passiert...Ihr seid selbst für Euch verantwortlich."{BLOK010}"Lieber Merdger, das sind wir sowieso."{BLOK011}"Ihr habt uns gewarnt, wir danken dafür und werden vorsichtig sein."{BLOK012}"Wir gehen da nicht runter."
+"Na gut, wie Ihr meint."
+"Besser so. Geht Euch sowieso nichts an."
+"Ich bin nicht verrückt und gebe Euch meinen Schlüssel!? Zebenno wird das hoffentlich auch nicht tun. Er ist nämlich ein netter Kerl. Besucht ihn doch mal und sagt ihm einen Gruß von mir. Ihr werdet ihn meistens bei den Bergleuten finden, dort schimpft er ständig über die Erzpreise, wenn er nichts besseres zu tun hat."{WORDErzpreise}
+"Ja, es wird auch wirklich immer teurer. Der Waffenschmied ist davon natürlich noch stärker betroffen. Denn er benötigt mehr Metall als wir. Was sollen wir nur tun? Das Erz selbst abbauen können wir wegen dem Ritual nicht. Die Bergleute nutzen ihr Wissen gegen uns aus."{WORDRitual}{WORDBergleute}

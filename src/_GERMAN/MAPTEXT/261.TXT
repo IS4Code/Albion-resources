@@ -1,7 +1,7 @@
 ﻿-frei-
 Äste und Wurzeln.
 Ein geflochtener Korb.
-Ein Glasgefäß für Wein und andere Getränke.
+Ein Glasgefäß für Wasser und andere Getränke.
 Ein Faß.
 Ein prächtiges Tierfell.
 Ein Eimer.
@@ -41,7 +41,7 @@ Ein zusammengeklappter Hocker.
 Ein massiver Eßtisch.
 Ein Baumstumpf.
 Zwei gekreuzte Speere.
-Ein großes Faß mit Wasser, Bier oder Wein.
+Ein großes Faß mit fremdartigen Getränken.
 Ein Zapfhahn.
 Eine Bettdecke.
 Ein komfortables und hübsch verziertes Bett.
@@ -124,3 +124,7 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
+"Wie Ihr seht, bin ich mit Kochen beschäftigt.^^Beim besten Willen kann ich Euch aber nicht alle mitversorgen. Für so viele Münder reicht's dann doch nicht aus."
+"Die Jagd-Saison ist eröffnet. So bin ich meistens den ganzen Tag unterwegs, um Tiere zu jagen. Das ist ziemlich anstrengend, denn ich erlege nicht nur für unsere Familie Tiere, sondern beliefere zusätzlich den Lebensmittelladen.^^Stellt Euch vor, oft liege ich stundenlang im Gebüsch und warte auf eine passende Gelegenheit. Wenn ich dann einmal einen lohnenden Fang gemacht habe, muß ich die schweren Tiere noch in die Stadt schaffen. Zur Zeit habe ich nachts also einen tiefen Schlaf."
+"Hoffentlich muß ich nicht bald wieder Sugo aus dem Keller holen. Dort unten sind nämlich eklige Flugtiere. Ich werde natürlich locker mit denen fertig, aber irgendwie fürchte ich mich doch vor ihnen. Mit Euch würde ich mich natürlich viel sicherer fühlen."
+"Schaut, daß ist mein neues Kleid, was mir meine Mami genäht hat. Gefällt es Euch? Ich darf es nur anziehen, wenn wir Besuch haben."

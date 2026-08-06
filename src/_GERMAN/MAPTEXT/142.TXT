@@ -1,7 +1,7 @@
 ﻿-frei-
 Äste und Wurzeln.
 Ein geflochtener Korb.
-Ein Glasgefäß für Wein und andere Getränke.
+Ein Glasgefäß für Wasser und andere Getränke.
 Ein Faß.
 Ein prächtiges Tierfell.
 Ein Eimer.
@@ -41,7 +41,7 @@ Ein zusammengeklappter Hocker.
 Ein massiver Eßtisch.
 Ein Baumstumpf.
 Zwei gekreuzte Speere.
-Ein großes Faß mit Wasser, Bier oder Wein.
+Ein großes Faß mit fremdartigen Getränken.
 Ein Zapfhahn.
 Eine Bettdecke.
 Ein komfortables und hübsch verziertes Bett.
@@ -125,9 +125,10 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 --- coming soon: long dialogue ---
-"Togi Din. Ich habe Bero gewarnt, nach XXXX hinabzusteigen! So ein Leichtsinn!"
-"Togi Din. Verzeiht, ich bin beschäftigt."
+"Togi Din. Ich habe Bero gewarnt, nach Drinno hinabzusteigen! So ein Leichtsinn!"
+"Togi Din. Besucht doch einmal den Wächter des Hains, nördlich der Eingangshütte.^^Er freut sich bestimmt über Besuch. Er würde es nicht zugeben, aber manchmal fühlt er sich dort ein wenig einsam. Er blüht richtig auf, wenn ihn beispielsweise ein Musikant besucht, denn er ist ein großer Musikliebhaber!"
 "Togi Din. Ob Bero wohl noch lebt? Nun, er ist für seine Handlungen selbst verantwortlich, so wie wir alle."
-"Togi Din! Es gibt doch noch Heldenstücke in der Welt, ihr seid ein Beispiel dafür."
+"Togi Din! Es gibt doch noch Heldenstücke in der Welt, Ihr seid ein Beispiel dafür."
 "Togi Din, Togi Din. Muß über etwas nachdenken, entschuldigt mich."
-{INK 001}{LEAD}{NAME}s potentieller Gesprächspartner murmelt nur konzentiert unverständliches Zeug vor sich hin. Er antwortet nicht.
+{INK 001}{LEAD}{NAME}s potentieller Gesprächspartner murmelt nur konzentriert unverständliches Zeug vor sich hin. Er antwortet nicht.
+{INK 001}Mellthas gibt durch Gesten und Schrift zu verstehen, das dies der Eingang in den verbotenen Teil Arjanos ist. Die Tür wurde bereits aufgeschlossen.

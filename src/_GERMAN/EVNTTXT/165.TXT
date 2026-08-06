@@ -1,0 +1,5 @@
+﻿{BLOK000}"Ich handele mit Früchten, Brot und Fleisch." {WORDFrüchte}{WORDBrot}{WORDFleisch}
+"Togi Din, meine hungrigen Reisenden. Kann ich Euch meinen vorzüglichen Proviant anbieten?" {BLOK010}"Ja, wir könnten etwas Verpflegung gebrauchen."
+"Für die Reise empfehle ich getrocknete Früchte. Ich habe hier besonders gute Ware von den berühmten Feldern von Aballon!"{WORDAballon}
+"Ja, hervorragendes Dauerbrot von hier und aus Vanello."{WORDVanello}
+"Ich habe gepökeltes Fleisch und geräucherten Fisch, hier aus dem Dorf."

@@ -1,0 +1,9 @@
+﻿{BLOK000}"Ich gehe noch zur Schule. Mein Vater hat wenig Verwandte, deshalb bin ich nicht in die Pflegschaft gegangen."{WORDSchule}{WORDVater} {WORDPflegschaft}
+"Togi Din! Ihr seid Besucher aus fernen Ländern, nicht wahr? Und Ihr wollt mit MIR sprechen? Oh, bei den Göttern, das ist das erste Mal, daß ich einen Pelzig..., ähm, ich meine, Iskai mit eigenen Augen sehe! Seid ihr groß!" {WORDGötter}{WORDIskai}
+"Togi Din! Ihr seid Besucher aus fernen Ländern, nicht wahr? Und Ihr wollt mit MIR sprechen?"
+"Togi Din! Ihr wollt Euch nochmal mit mir unterhalten?"
+"Ja, es kommt ein Druide aus Arjano und gibt den Kindern Unterricht. Manchmal ist es langweilig, aber oft erzählt er auch ganz tolle Geschichten." {WORDDruiden}{WORDArjano}
+"Nun, wie gesagt, es kommt ein Druide aus Arjano und unterrichtet uns." {WORDDruiden}{WORDArjano}
+"Ich habe schon viel von ihnen gehört. Manche bei uns sprechen abfällig von ihnen, aber einige auch mit Respekt und etwas Furcht, denn sie sollen gute Krieger sein."{WORDKrieger}
+"Mein Vater ist einer der besten Krieger des Dorfes und dient unserem König!"{WORDKönig}
+"Na ja, ich wäre nicht gern von meinen Eltern weggegangen, aber dafür hätte ich auch eine zweite Familie gehabt. Eigentlich ist es mir aber lieber, so wie es ist."

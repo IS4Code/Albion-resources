@@ -47,3 +47,20 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
+Keine Antwort.
+Das Schiff hat eine kleine Besatzung ungewöhnlich schweigsamer Iskai, die Frill gut zu kennen scheinen.
+Frill selbst übernimmt die Navigation des Bootes, und so beginnt eine mehrtägige Reise in südlicher Richtung.
+Schließlich kommt am Horizont ein Dunstvorhang in Sicht, dem sich das kleine Schiff schnell nähert...
+Wegen Einsturzgefahr gesperrt.
+Ein Höhleneingang.
+Das Tor im Gatter ist fest verschlossen. Es ist kein Schlüsselloch vorhanden.
+Von dieser Seite aus erkennt man einen Schieber, mit dem man das Gatter öffnen kann. {LEAD}{NAME} öffnet das Tor.
+Nach Srimalinar und Kounos über den Gebirgspaß in Richtung Westen.
+Zugang zum Gebirgspaß über die Schlingpflanzen.
+frei
+frei
+Hier ist ein augenförmiges Symbol in den Felsen eingelassen.
+"Diese Felssymbole existieren schon seit sehr langer Zeit. Man findet sie an manchen Orten auf dem ganzen Planeten, aber niemand weiß etwas genaues über ihren Ursprung."
+{LEAD}{NAME} legt das Amulett mit dem Symbol der Göttin an den Felsen.^^Knirschend öffnet sich ein Portal und die Gefährten betreten die Höhle dahinter.
+"Um den Eingang der Höhle zu öffnen, kann ich das Amulett der Göttin benutzen, das ich bei mir trage."
+Ein kleiner Busch mit Samen|körnern.

@@ -1,0 +1,17 @@
+﻿{BLOK000}"Ich erleche wilde Tiere in den Wäldern, schlachte sie und verkaufe das Fleisch. Sochesehen könnt Ihr mich als Jächer, Metzcher und Verkäufer bezeichnen, newe."
+"Skeima Din, habt Ihr Interesse an einer Karte?"{WORDKarte}{WORDKontos}
+"Und nochmal einen schönen Tach. Wir haben uns ja schon kennenchelernt." {WORDKarte}{WORDKontos}
+"Ich kenne den Kontos schon sehr lange. Früher war das ein netter Kerl und man konnte sich richtich chut mit ihm unterhalten. Aber das ist schon lange nicht mehr möchlich. Vor vielen Jahren hat er damit bechonnen, sich mit schwarzer Machie und mit Relichion zu beschäftichen, und inzwischen hält er sich wohl für den allertollsten Druiden überhaupt. Ursprünglich hat er übrichens mal hier in Beloveno chelebt. Dann hat er sich mit Riko anchefreundet und seitdem hat er sich immer weiter von mir entfernt, newe. Inzwischen hat er in Kounos viele Anhänger für seine Theorien chefunden. Naja, soll er nur machen. Ich denke, die meisten werden mit der Zeit schon dahinter kommen, daß er nicht mehr chanz normal ist."{WORDKounos}{WORDKontinent}{WORDMagie}{WORDTheorien}
+"Nun, ich meine das chanze Chebiet hier, newe. Beloveno, Srimalinar, Kounos, alles. Die chanze Nord- und Südseite von Maini."{WORDMaini}
+"Ihr wart doch sicher schon da, oder? Das ist das Dörfchen auf den Plateaus, in dem noch ein recht traditioneller Lebensstil besteht, newe. Außerdem treibt Kontos dort sein Unwesen. Ihr merkt schon - ich halte nichts von ihm."
+"Ich verstehe nicht viel von Machie. Ich habe auch noch nie welche chebraucht, newe."
+"Ach, da möchte ich char nicht weiter drauf einchehen. Aber so ein intellichenter Kerl wie Kontos ist schon im Stande, einiches auszuhecken, newe."
+"Chefällt sie Euch nicht? Ich kann dazu nicht viel sachen, bin kein Spezialist für sowas, newe. Jedenfalls hatte ich die schon viele Jahre auf dem Speicher."
+"Beim besten Willen. Ich kann Euch keine näheren Hinweise dazu cheben..."
+"Nun, ich habe da seit vielen Jahren eine Landkarte auf dem Speicher rumliechen. Mein Chroßvater hat fest behauptet, daß es sich dabei um eine Schatzkarte handelt. Ancheblich haben seine Vorfahren an der markierten Stelle ihre Habselichkeiten verchraben, herher...Naja, zuchecheben, ich chlaub nicht dran, aber ich weiß auch, daß Leute wie Ihr auf sowas chanz scharf sind! Zum absoluten Spottpreis von 200 Choldmünzen würde ich Euch die Karte überlassen. Habt Ihr Interesse?"{BLOK010}"Ja, wir nehmen sie."{BLOK011}"Interesse haben wir schon, aber nicht bei dem Preis!"{BLOK012}"Wir zahlen Euch 175 Goldmünzen!"{BLOK013}"Nein danke, kein Interesse."
+"Na wunderbar, sicher werdet Ihr den Kauf nicht bereuen."
+"Chut, sachen wir 175 für Euch. Einverstanden?"{BLOK014}"Na chut!"{BLOK015}"Nein, das ist zu viel!"
+"Also eichentlich wollte ich sie verkaufen, nicht verschenken!"
+"Ihr könnt es Euch ja noch einmal überlechen. Das Angebot chilt noch, newe."
+"Das bin ich."
+"Ich glaube, Ihr habt nicht genügend Goldmünzen?!"

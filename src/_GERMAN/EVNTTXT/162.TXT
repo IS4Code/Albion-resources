@@ -1,0 +1,3 @@
+﻿{BLOK000}"Ich bin ein Händler in gewöhnlichen und in außer|gewöhnlichen Dingen, ja, hm."{WORDHändler}
+"Togi Din. Ahh, Reisende, wie ich sehe, hm? Gut, sehr gut! Kennen wir uns? Oder nicht? Ach, egal, hm? Ihr braucht sicher etwas, das Euch die Reisen erleichtert, hm? Oder habt Ihr dem alten Rifrako etwas Schönes aus fernen Ländern mitgebracht, hm?" {BLOK010}"Zeigt uns bitte Euer Angebot, mein guter Rifrako."
+"Ja, ich handle mit schönen Sachen, mit nützlichen Sachen und manchmal mit magischen Sachen, ja!"

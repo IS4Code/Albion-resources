@@ -12,9 +12,9 @@ Eine Säule mit einer gräßlichen Fratze.
 Ein Kämpferbett. Wie die meisten Möbel hier, wirkt es etwas abschreckend.
 Ein Faß.
 Eine Art von Teppich, der aus getrockneten Pflanzenhalmen geknüpft ist.
-Eine Glaskrug.
+Ein Glaskrug.
 Vorhänge.
-Ein Kiste.
+Eine Kiste.
 Ein Schrank.
 Eine Fackel.
 Eine Menge unwichtiger Kleinkram liegt in den Regalen.
@@ -24,7 +24,7 @@ Dieses Bett wird derzeit wohl nicht benutzt.
 Verschiedene Hieb-, Stich- und Schußwaffen, die alle äußerst gefährlich aussehen.
 Ein Waffenregal.
 Ein Schild.
-Ein aufgespießter Schädel. Ein unangenehmer Verwesungsgeruch deutet darauf hin, daß die Greueltat noch nicht allzu lange zurück liegt.
+Ein aufgespießter Schädel. Ein unangenehmer Verwesungsgeruch deutet darauf hin, daß die Greueltat noch nicht allzulange zurückliegt.
 An diesen Strohpuppen werden kriegerische Fähigkeiten trainiert und erprobt.
 Ein mit Stroh umwickelter Holzpfahl. Dient zur Übung von Schlagtechniken.
 Eine Zielplatte für Pfeil und Bogen.

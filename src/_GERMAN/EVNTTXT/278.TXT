@@ -1,0 +1,15 @@
+﻿{BLOK000}"Ich bin Magier der Kenget Kamulos, doch ich habe mich von ihnen klar distanziert und führe nun mein eigenes Leben."
+"Skeima Din,^^Ihr sprecht mit Khunag. Was möchtet Ihr von mir? Ich werde nicht so gerne gestört. Es sei denn, Ihr möchtet mich in einer wichtigen Angelegenheit sprechen."{WORDAngelegenheit}
+"Skeima Din,^^bitte stört mich nur, wenn Ihr mich wirklich braucht." {WORDAngelegenheit}
+"In welcher Angelegenheit wünscht Ihr mich zu sprechen?" {BLOK010}"Könnt Ihr uns wertvolle Informationen beschaffen?" {BLOK011}"Ihr seht aus, wie ein Gelehrter der Magie." {BLOK012}"Wir suchen einen Trainer." {BLOK013}"Was haltet Ihr von der politischen Lage in dieser Gegend?" {BLOK014}"Wir möchten nicht länger stören."
+"Nein. Warum sollte ich?"
+"Dann sucht weiter. Ich bin kein Trainer."
+"Ich sehe keine großen Probleme. Gelegentliche Unstimmigkeiten sind doch völlig normal. Oder habt Ihr eine andere Definition von Problemen?"
+"Skeima Din."
+"Gut beobachtet. Ich will es auch nicht verbergen, ich bin wirklich ein Magier. Doch die Zeiten, als ich noch in meinem Beruf stand, sind vorbei. Gleichwohl sind meine magischen Fähigkeiten so gut wie nie zuvor. Warum interessiert Ihr Euch so sehr dafür?" {BLOK010}"Jemanden mit Fähigkeiten, wie Ihr sie habt, könnten wir auf unserer Reise gut gebrauchen."
+"Auf was für einer Reise befindet Ihr Euch denn?" {BLOK010}"Nun..."
+So erzählt Tom über die wichtigsten Stationen der bisherigen Reise und die zukünftigen Ziele.^^"Ein reizvoller Gedanke, dieses Mutterschiff einmal besichtigen zu können. Ich würde mich Eurer Gesellschaft anschließen, zumindest für eine bestimmte Zeit, wenn Ihr möchtet, daß ich mit Euch komme." {BLOK010}"Davor würden wir aber gerne noch etwas mehr von Euch erfahren." {BLOK011}"Wir freuen uns, wenn Du mit uns kommst." {BLOK012}"Wir denken über Euer Angebot noch einmal nach."
+"Ihr müßt nicht unbedingt alles über mich wissen. Ich bin hier aufgewachsen und war dann eine ganze Zeit lang bei den Kenget Kamulos. Aus dieser Zeit kommen auch meine magischen Fähigkeiten. Seit langem lebe ich aber hier mein eigenes Leben und kann tun und lassen, was ich möchte.^^Ich werde Euch natürlich mit meiner Magie helfen, wenn ich mitkomme." {BLOK010}"Wenn Du möchtest, kannst Du mit uns kommen!" {BLOK011}"Wir denken über Euer Angebot noch einmal nach."
+"Laßt mich wissen, wie Ihr Euch entschieden habt."
+"Gut, ich komme mit Euch."
+"Ich glaube, Eure Gruppe ist schon groß genug."

@@ -1,0 +1,6 @@
+﻿{BLOK000}"Ich arbeite bei den Dji-Kas, meistens bin ich unterwegs zum Einkaufen von allem möglichen."{WORDDji-Kas}
+"Dsarii-ma, Besucher der Stadt!"
+"Ihr müßt wissen, daß Dji-Kas der Name der Magiergilde Jirinaars ist. Ihr findet sie im südwestlichen Teil der Stadt. Dort üben die magischen Talente unseres Volkes zahlreiche Experimente aus. Die Dji-Kas - Magie ist eine vielfältige Kunst: sie heilt, erschafft und zerstört.^ Ihr solltet das Gildenhaus unbedingt besuchen und mit Fasiir sprechen. So seltene Besucher will er bestimmt kennenlernen!"{WORDFasiir}{WORDJirinaar} {WORDMagie}
+"Wart Ihr schon dort? Ihr wißt doch noch, das große Haus im Südwesten der Stadt."
+"Ich hoffe, Ihr findet den Meuchelmörder und klärt das Ganze auf. Ich kenne doch die Leute der Dji-Kas. Sie würden niemals einen so hinterhältigen Plan schmieden."
+"Ihr seid nun sicher sehr beliebt bei den Gildeleuten der Dji-Kas, nicht wahr?"

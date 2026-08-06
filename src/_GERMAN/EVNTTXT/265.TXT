@@ -1,0 +1,5 @@
+﻿{BLOK000}"Ich bin der Kneipenwirt hier."
+"Ihr glaubt doch nicht im Ernst, daß ich Euch auch noch bewirten werde? Ich würde mich an Eurer Stelle hier nicht mehr blicken lassen. Inzwischen habe ich sogar handfeste Beweise gegen Kontos."
+"Beweisstück geben"
+"Ich habe Euch das Dokument doch schon gegeben."
+"Ich bin Edjirr."

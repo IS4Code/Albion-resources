@@ -1,7 +1,7 @@
 ﻿-frei-
 Äste und Wurzeln.
 Ein geflochtener Korb.
-Ein Glasgefäß für Wein und andere Getränke.
+Ein Glasgefäß für Wasser und andere Getränke.
 Ein Faß.
 Ein prächtiges Tierfell.
 Ein Eimer.
@@ -41,7 +41,7 @@ Ein zusammengeklappter Hocker.
 Ein massiver Eßtisch.
 Ein Baumstumpf.
 Zwei gekreuzte Speere.
-Ein großes Faß mit Wasser, Bier oder Wein.
+Ein großes Faß mit fremdartigen Getränken.
 Ein Zapfhahn.
 Eine Bettdecke.
 Ein komfortables und hübsch verziertes Bett.
@@ -125,3 +125,7 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Das ist der Ausgang.
+"Ihr seht irgendwie anders als die meisten Leute aus, die immer regelmäßig zu Mami kommen."
+"Macht Ihr auch immer so komische Geräusche, wenn Ihr mit meiner Mami zusammen seid? Erwachsene sind irgendwie komisch."
+"Habt Ihr schon mit Onkel Khunag gesprochen? Er ist nicht immer da, aber wenn er da ist, herrscht im Haus immer so eine gruselige Atmosphäre. Er ist immer nett zu mir, aber ich habe manchmal trotzdem Angst vor ihm.^^Onkel Khunag kann ganz tolle Sachen machen. Ich habe ihn schon einmal beobachtet, als er eine Tasse über den Tisch schweben ließ. Aber wenn ich ihn frage, führt er mir so etwas nie vor."
+"Ich bin hier nur angestellt. Ich koche für die Kinder und halte die Wohnung sauber. Ich bin bestimmt die falsche Gesprächspartnerin für Euch. Wenn Ihr Fragen habt, dann wendet Euch an Madame Kariah."

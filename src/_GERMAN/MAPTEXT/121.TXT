@@ -155,11 +155,11 @@ Eine kräftige Holztür.
 {INK 001}Dieser Iskai schwankt leicht hin und her. Er sagt:^^ {INK 002}"Dsarii-ma! IIhrr solltet den Zoomi prrobiiern! Köstliich, sage ich Euch!"
 "Dsarii-ma. Verzeiht, ich bin nicht zu einem Gespräch aufgelegt."
 "Dsarii-ma und viel Spaß hier im Haus der Winde!"
-"Dsarii-ma, Fremde. Vorsicht, wenn Euch Zirr oder Viri, die Besitzer dieses hauses, Ihren Zoomi probieren lassen. Es ist das stärkste Getränk der Stadt!"
+"Dsarii-ma, Fremde. Vorsicht, wenn Euch Zirr oder Viri, die Besitzer dieses Hauses, ihren Zoomi probieren lassen. Es ist das stärkste Getränk der Stadt!"
 "Dsarii-ma. Es geht doch nichts über ein gutes Essen zu dieser Stunde. Wenn man's recht bedenkt, eigentlich zu jeder Stunde, hir, hir!"
 "Dsarii-ma. Ah, ich genieße die gute Küche hier, besonders nach einer tagelangen Jagd."
 "Dsarii-ma! Ich verbringe viel zuviel Zeit hier! Was soll's.^ "Einmal gut gelebt, gereut Dich nie", wie man so schön sagt!"
 {INK 001}{LEAD}'s Gegenüber wirkt leicht unsicher und stützt sich ab und zu mit dem Greifschwanz ab. Sie meint:^^ {INK 002}"Einen Grrund zuum Feiern gibt es iimmerrr."
-"Dsarii-ma. Ah, die Menschen, hier an diesem Ort! Gute Idee: Eine fremde kultur lernt man auch durch Ihre Küche kennen!"
+"Dsarii-ma. Ah, die Menschen, hier an diesem Ort! Gute Idee: Eine fremde Kultur lernt man auch durch Ihre Küche kennen!"
 "Dsarii-ma! Nur noch einen Becher, und dann geht's nach Hause!"
 Diese Tür führt nach draußen.

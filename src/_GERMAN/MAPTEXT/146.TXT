@@ -1,7 +1,7 @@
 ﻿leer
 Ein mechanischer Schalter.
 An der Wand befindet sich eine kleine, mechanische Taste.
-Leicht zu übersehen, ist en winziger Schlter in die Wand eingelassen.
+Leicht zu übersehen, ist ein winziger Schalter in die Wand eingelassen.
 Eine Bodenplatte. Es scheint, als würde sie beim darüberlaufen einsinken können.
 Eine Tür.
 Die Tür ist fest verriegelt, es ist kein Schloß zu erkennen.
@@ -53,12 +53,16 @@ Blitzartig hebt sich die transparente Wand in die Höhe.
 In der nordwestlichen Ecke des Raumes hat sich etwas bewegt!
 {CNTR}{HIGH}Die roten Wände verschwinden und lassen die Bestien frei!
 "Schaut Euch das an! Die Bestien hinter den roten Wänden! Wir sind erledigt, wenn die freikommen sollten. Achtet darauf, wo ihr hintretet!"
-"Sieh an! Blaue Bodenplatten. Das man die roten mit Gefahr verbinden kann, und die grünen eher positive Effekte haben, sollte mittlerweile klar sein.^ Was mag aber die Farbe blau zu bedeuten haben? Laßt es uns ausprobieren..."
+"Sieh an! Blaue Bodenplatten. Daß man die roten mit Gefahr verbinden kann, und die grünen eher positive Effekte haben, sollte mittlerweile klar sein.^ Was mag aber die Farbe blau zu bedeuten haben? Laßt es uns ausprobieren..."
 "Ich weiß nicht recht. Wir sollten lieber vorsichtig sein. Wer weiß, was wir damit wieder auslösen."
 "Ich weiß nicht recht. Wir sollten lieber vorsichtig sein. Wer weiß, was wir damit wieder auslösen. Wenn ich an Deinen letzten Versuch mit einer dieser Platten denke, Drirr..."
-"Nun, interessant wäre es ja schon zu wissen, was passieren würde. Aber wir..."
+"Nun, interessant wäre es ja schon, zu wissen, was passieren würde. Aber wir..."
 "Sehr richtig! Haltet Euch fest, gleich bricht das ganze Gebäude über unseren Köpfen zusammen!"^^ {INK 001}Mit dieser Bemerkung setzt Dirr einen Fuß auf eine der blauen Platten.
 {CNTR}{HIGH}Mit einem Krachen verschwindet der Boden in einem großen Teil des Raumes!
 "Ach was. Es wird schon nicht das ganze Gebäude einstürzen!"
 Dieses Gitter läßt sich nicht bewegen, es ist blockiert.
-{LEAD}{NAME} hört noch wie jemand von den Gefährten sagt:  {INK 002}"Sehr geistreich, {LEAD}{NAME}! Machen Dir diese Stürze etwa Spaß?"{INK 001}, da beginnt auch schon der Sturz in die Tiefe!
+{LEAD}{NAME} hört noch, wie jemand von den Gefährten sagt: {INK 002}"Sehr geistreich, {LEAD}{NAME}! Machen Dir diese Stürze etwa Spaß?"{INK 001}, da beginnt auch schon der Sturz in die Tiefe!
+Unter dem Gerümpel meint {LEAD}{NAME}, etwas Interessantes zu sehen!
+Eine ätzende Flüssigkeit schießt {LEAD}{NAME} ins Gesicht!
+"Diese... Kreatur hinter der grünen Wand! Bei Ihrem Anblick bricht mir der kalte Schweiß aus! Es ist, als ob alte, längst vergessen geglaubte Ängste wiederkehren."
+"Das ist ein Dämon, eine magische Kreatur, ein Symbol der Angst."

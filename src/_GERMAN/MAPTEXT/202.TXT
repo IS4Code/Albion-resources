@@ -54,6 +54,12 @@ Platzhalter für weitere Cutmap-Events.
 {CNTR}"Oink?"
 {CNTR}"Rriik?"
 "Togi Din, junges Volk! Ja, jung und auf Reisen wäre ich auch gern noch einmal!"
-"Herumtreiber! Habt ihr nichts besseres zu tun, als mich von der Arbeit abzuhalten?"
+"Rifrako, der komische Kauz, hat eine Art Amulett bekommen, das einen warnt, wenn man von einem wilden Tier oder etwas noch Schlimmeren gejagt wird. Welch ein wunderliches Ding!"
 "Togi Din, Reisende. Schaut doch einmal in Bennos Laden herein, die Ernte war so gut, daß er die Preise gesenkt hat!"
-"Togi Din, große Leute! Meine Mutter sagt, ich soll nicht mit Fremden sprechen. Ich tus aber doch!"
+"Togi Din, große Leute! Meine Mutter sagt, ich soll nicht mit Fremden sprechen. Ich tu's aber doch!"
+{CNTR}Auf dem Schild steht geschrieben:^^{INK 006} Nach Aballon: Haltet Euch südwestlich
+Hier ist ein augenförmiges Symbol in den Felsen eingelassen.
+"Diese Felssymbole existieren schon seit sehr langer Zeit. Man findet sie an manchen Orten auf dem ganzen Planeten, aber niemand weiß etwas genaues über ihren Ursprung."
+{LEAD}{NAME} legt das Amulett mit dem Symbol der Göttin an den Felsen.^^Knirschend öffnet sich ein Portal und die Gefährten betreten die Höhle dahinter.
+"Um den Eingang der Höhle zu öffnen, kann ich das Amulett der Göttin benutzen, das ich bei mir trage."
+Aus einem Hinterhalt springen plötzlich ein paar verwegen aussehende Gestalten hervor!^^Sie greifen an!

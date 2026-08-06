@@ -1,0 +1,8 @@
+﻿{BLOK000}"Meine Funktion ist es, den 'Rat der Gerechten' zu leiten und zu koordinieren."
+"Ahaaa, ich freue mich jedesmal, wenn ich Euch sehe. Wenn nur die Umstände etwas glücklicher wären. Es sieht nämlich alles so aus, als ob es an der heiligen Stätte von Srimalinar zu einem Krieg zwischen den Menschen und den Iskai kommt. Ich werde auch gleich dorthin gehen. Vielleicht kann ich irgendwie beruhigend auf die Parteien einwirken und einige Dinge richtig stellen, was Kontos und uns betrifft."{WORDKontos}{WORDKrieg}{WORDHeiligtum}
+"Die meisten Iskai glauben, daß alle Menschen vereint hinter Kontos stehen würden, aber das ist nicht so."
+"Wenn wir es nicht schaffen, Kontos zu stoppen, wird es zu einem Krieg kommen. Ich weiß nicht, was Kontos dadurch erreichen will, aber er bezweckt ganz bestimmt irgendetwas. Wenn Ihr irgendwelche Beweise gegen Kontos habt, dann geht dorthin und benutzt sie."
+"Inzwischen sind dort Iskai-Krieger und Menschen-Krieger versammelt. Ich hoffe, daß ich irgendwie einen Krieg verhindern kann. Wenn Ihr irgendwelche Beweise gegen Kontos habt, dann geht dorthin und benutzt sie."
+"Ich denke, die werden sich hier nicht mehr sehen lassen."
+"Das Rathaus ist das schönste Gebäude in Beloveno. Ihr dürft Euch hier ruhig umschauen, es wird Euch niemand hindern."
+"Das bin ich."

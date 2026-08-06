@@ -1,0 +1,5 @@
+﻿{BLOK010}"Ich bin Kämpferin oder Kriegerin, wie manche sagen. Wenn Ihr möchtet, reise ich mit Euch, denn ich bin ständig auf der Suche nach Anschluß und außerdem reise ich gerne um die Welt, um neue Dinge zu sehen und um Erfahrung zu sammeln."
+"Skeima Din,^^wenn Ihr Verstärkung für Eure Gruppe sucht, dann biete ich Euch hiermit meine Dienste an. Es kann vorteilhaft für Euch sein, wenn Ihr eine Kriegerin dabei habt. Ich bin zwar noch kein Meisterkämpfer, aber ich habe schon viel Erfahrung gesammelt, und man lernt ja ständig mit dazu. Jedenfalls würde ich mich Euch gerne anschließen.^^Es ist mir ganz gleich, wohin Ihr reist und welche Ziele Ihr verfolgt, solange ich dabei in der Welt herumkomme, neue Dinge kennenlerne und mich im Kämpfen üben kann." {BLOK010}"Ihr könnt gerne mit uns kommen." {BLOK011}"Danke für das Angebot, aber wir kommen ganz gut zurecht."
+"Gut, ich komme mit Euch."
+"Vielleicht könnt Ihr zu einem späteren Zeitpunkt Verstärkung gebrauchen."
+"Ich glaube, Eure Gruppe ist bereits groß genug."

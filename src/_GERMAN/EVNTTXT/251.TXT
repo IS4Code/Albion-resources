@@ -1,0 +1,10 @@
+﻿{BLOK000}"Meine Funktion ist es, den 'Rat der Gerechten' zu leiten und zu koordinieren."
+"Skeima Din, wir kennen uns noch nicht. Ich bin der neue Ratsvorsitzende. Ihr habt ja sicher die schreckliche Geschichte mitbekommen, die meinem Vorgänger widerfahren ist."{WORDGeschichte}{WORDLage}
+"Skeima Din."{WORDGeschichte}{WORDLage}{WORDRathaus}
+"Ich bin der Nachfolger von Herras. Ich weiß nicht, ob Ihr die Geschichte mitbekommen habt. Herras ist nachts in seinem Bett ermordet worden. Wir vermuten, daß Gard und Riko die Schuldigen sind, denn sie haben sich seitdem nicht mehr blicken lassen. Außerdem hatte Perron schon länger den Verdacht, daß man Ihnen nicht vertrauen kann."{WORDGard}{WORDRiko}
+"Ich bin Zerruma."
+"Ich denke, die werden sich hier nicht mehr sehen lassen."
+"Perron ist einer meiner Ratsmitglieder."
+"So heißt unsere Stadt hier."
+"Kontos hat seine Pläne in die Tat umgesetzt und den Keller und das Gelände mit seinen Kriegern besetzt. Es ist doch erstaunlich, wie sehr die Bewohner von Kounos hinter ihrem Führer stehen. Er hat einen erheblichen Einfluß auf sie. Ich finde es sehr fragwürdig, ob es wirklich die Schuld der Iskai ist, daß diese schrecklichen Kreaturen entstehen. Kontos behauptet es jedenfalls, und seine Anhänger glauben es. Auf alle Fälle kann man es den Iskai nicht verübeln, wie sie auf diese Kriegserklärung reagieren. Sie sind im Moment dabei, ebenfalls Krieger zur heiligen Stätte zu senden, und was dann passiert, könnt Ihr Euch sicher denken. Aber das ist ja auch klar, schließlich ist ihr Tabu, ihr Stolz und ihre Religion mißachtet und verletzt worden. Da Ihr ja eine recht gemischte Gruppe seid, kann es durchaus passieren, daß Ihr in einigen Läden nicht mehr bedient werdet. Das Verhältnis zwischen Iskai und Menschen ist momentan sehr gespannt!"
+"Das Rathaus ist das schönste Gebäude in Beloveno. Ihr dürft Euch hier ruhig umschauen, es wird Euch niemand hindern."

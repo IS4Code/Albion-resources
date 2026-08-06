@@ -1,0 +1,43 @@
+﻿frei
+"Beloveno ist die große Hafenstadt. Sie liegt südlich des Gebirges. Folgt dem Gebirgspaß."{WORDGebirgspaß}
+"Sie ist in der Hütte, in der Kontos untergebracht ist."
+"Darüber weiß ich nichts."
+"Darüber weiß ich nichts."
+"Sugo ist eines unserer beliebtesten Getränke. Ihr müßt es unbedingt einmal versuchen. Vielleicht sollte ich Euch fairerweise sagen, daß Sugo ein vergorener Obstsaft mit einer stark anregenden Wirkung ist. Wer Sugo nicht kennt, sollte ihn mit Vorsicht genießen! Ihr wärt nicht die ersten Fremden, die nach zwei Gläsern Sugo zu keiner weiteren Konver|sation mehr im Stande wären."
+"Darüber weiß ich nichts."
+"Wir mögen unser Dorf und lieben das Leben auf den hohen Plateaus."
+"Kontos ist unser Führer! Wir folgen ihm alle. Was würden wir nur ohne ihn tun."
+"Ja, es gibt zahlreiche Höhlen in der Gegend hier. In manchen von ihnen leben Einsiedler, die meisten sind einfach leer. Es gibt eine besonders große Höhle, die wir allerdings meiden. Sie ist so groß, daß man sich endlos verlaufen kann und das ist leider schon vorge|kommen. Bereits drei Bürger aus Beloveno sind in der Höhle verschollen. Wenn ihr dennoch eine Expedition in die Höhlen machen wollt, nehmt ausreichend Proviant und ein Seil mit. Die Eingänge findet Ihr entlang des Gebirges."
+"Vielleicht habt Ihr nachts schon einmal kleine schwarze Tiere gesehen, die herumhuschen. Wir nennen sie Kritahs, und abgesehen davon, daß sie die Angewohn|heit haben, glitzernde Gegenstände zu stehlen, sind sie eigentlich ziemlich harmlos. Die Kritahs leben irgendwo in den Höhlen der Gebirgsmassive, aber wo genau, weiß ich auch nicht."
+"Srimalinar ist ein schönes kleines Iskai-Dorf. Es liegt nördlich von Kounos, auf der anderen Seite des Gebirges."
+"Das ist ein Gewölbe nahe des Dorfes Srimalinar."
+"Das ist richtig, es gibt tatsächlich einen Paß über das Gebirge, der die Süd- und die Nordseite unseres Kontinents verbindet. Eigentlich ist das ein ganz schmaler Pfad, der teilweise kaum noch zu erkennen ist, weil er recht selten benutzt wird. Er geht von Beloveno an unserem Dorf vorbei und führt dann weiter nördlich nach Srimalinar."{WORDNordseite}{WORDSüdseite}{WORDKounos} {WORDSrimalinar}{WORDBeloveno}
+"Wir lieben die Tradition und sind stolz auf unsere Vergangenheit."
+"Darüber weiß ich nichts."
+"Das ist der Teil nördlich des großen Gebirges. Dort liegt Srimalinar. Man kommt dort über den Gebirgspaß hin."{WORDPaß}
+"Alles was südlich des großen Gebirges liegt, bezeichnen wir als Südseite. Dazu gehört auch Beloveno und der Hafen. Wart Ihr schon auf der Nord|seite?"{WORDHafen}
+"Das Tabu bezieht sich auf das Heiligtum von Srima|linar. Die Iskais in diesem Dorf nehmen es mit diesem aus alten Zeiten kommenden Tabu ziemlich ernst und fühlen sich ange|griffen, wenn jemand gegen das Tabu verstößt!"
+"Wenn ihr Leute mit hohen magischen Fähig|keiten sucht, dann wendet Euch an unseren Führer oder versucht es einmal in Srimalinar."{WORDSrimalinar}
+"Darüber weiß ich nichts."
+"Religion ist für uns sehr wichtig. Wir sind froh, daß wir von Kontos so viel lernen konnten."
+"Srimalinar ist ein Dorf auf der Nord|seite des Kon|tinents, in dem Iskais leben. Dort gibt es auch eine Magier-Gilde."{WORDMagie}{WORDIskai}{WORDGilde}
+"Die nächste Magier-Gilde ist in Srimalinar."{WORDMagie}{WORDSrimalinar}
+"Darüber weiß ich nichts."
+"Darüber weiß ich nichts."
+"Wenn Ihr Läden sucht, dann geht nach Beloveno oder nach Srimalinar."
+"Das anerkannte Zahlungsmittel sind Gold|stücke. Bei manchen Leuten kann man aller|dings auch mit anderen Mitteln sehr viel erreichen, aber darauf gehe ich jetzt nicht genauer ein...hihi."
+"Es gibt drei Klimazonen auf Albion. Gemäßigt, warm und Wüste. Mir per|sönlich gefällt es hier, im gemäßigten Teil, am aller|besten."
+"Die Metallmacher leben auf dem Ost-Konti|nent und haben ein Monopol für die Herstellung von Metall. Vielleicht werdet Ihr im Laufe Eurer Reise noch auf sie stoßen."
+"Über die Kenget Kamulos kann ich Euch auch nicht viel sagen. Sie sind ausgesprochen mächtig und beherrschen schwarze Magie. Ich bin froh, wenn ich mit denen nichts zu tun habe... Sie leben im Osten des Kontinents."
+"In Beloveno gibt es einen Hafen."
+"Schiffe gibt es nur in Beloveno."
+"Ich meine den Weg über den Gebirgspaß!"{WORDPaß}
+"Ich bin froh, wenn ich gesund bin."
+"Das gibt's in Beloveno."
+"Ja, schönes Wetter zur Zeit, was meint Ihr?"
+"Darüber weiß ich nichts."
+"Darüber weiß ich nichts."
+"Skeima Din. Achso, nun, das bedeutet bei uns in etwa 'Ein prächtiger Tag'."
+"So heißt unser Land."
+"Glücklicherweise habt Ihr ihn umgebracht."
+"Religion ist für uns sehr wichtig."

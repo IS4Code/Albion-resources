@@ -1,0 +1,9 @@
+﻿{BLOK000}"Ich bin Händler und im Auftrage Wanias unterwegs."{WORDWania}
+"Dsarii-ma! Ihr seid also die Menschen, von denen ich gehört habe!" {WORDMenschen}
+"Dsarii-ma. So treffen wir uns also einmal wieder."{WORDWaren}
+"Ich kaufe Waren für ihren Laden ein."{WORDWaren}
+"Alles, was von Nutzen für jemanden sein könnte. Ach ja, habt Ihr vielleicht etwas anzubieten?" {BLOK010}"Ja, ich glaube, ich habe da etwas für Euch." {BLOK011}"Nein, nein. Im Augenblick nicht."
+"Schade. Ich bin für meine guten Preise bekannt. Ich möchte, daß die Leute wiederkommen, wißt Ihr."
+"Dsarii-ma. So treffen wir uns also einmal wieder." {BLOK010}"Wir hätten Euch etwas anzubieten, Rabir."
+"Ihr findet Wanias Laden in der Hafengegend, im Südosten der Stadt. Ein Besuch lohnt sich!"
+"Nun, was habt Ihr mir denn anzubieten, {LEAD}{NAME}?"

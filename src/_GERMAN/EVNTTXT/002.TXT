@@ -1,1 +1,39 @@
-﻿
+﻿{SUBJ}{NAME} leert ein Fläschchen mit grüner Medizin und fühlt sich danach etwas besser!
+Dieser Text ist nicht interessant.
+{SUBJ}{NAME} leert ein Fläschchen mit türkis|farbener Medizin und {HE  } fühlt sich sehr viel besser!
+{SUBJ}{NAME} leert ein Fläschchen mit blauer Medizin und {HE  } fühlt sich sofort fast völlig gesund!
+{SUBJ}{NAME} trinkt die rote Flüssigkeit.^^{HIS } Kopf klärt sich, und ein wenig geistige Energie kehrt zurück.
+{SUBJ}{NAME} trinkt die violette Flüssigkeit.^^Eine beträchtliche Menge an Konzentrations|fähigkeit kehrt zurück!
+{SUBJ}{NAME} trinkt die blaue Flüssigkeit.^^ Sofort kehrt ein Großteil  {HIS }er geistigen Energie zurück!
+{SUBJ}{NAME} trinkt die silberhelle Flüssigkeit und spürt, wie das Gift in {HIS }em Körper neutralisiert wird!
+Als {SUBJ}{NAME} den bronzenen Trank zu sich nimmt, klärt sich {HIS } verwirrter Geist und {HE  } ist endlich wieder bei sich!
+Eine Welle der Wohltat geht durch {SUBJ}{NAME}'s Körper, als {HE  } die goldene Flüssigkeit schluckt. Die Krankheit weicht aus {HIS }em Körper!
+Die Wirkstoffe des Stimdrinks lassen {SUBJ}{NAME} sich besser fühlen!
+Als {INVE}{NAME} den weißen Ring auf den Finger steckt, bemerkt {HE  }, daß er nicht mehr zu lösen ist! {INVE}{NAME} fühlt sich schwächer!
+{CNTR}Auf dem Fetzen eines Schaltplanes hat jemand zwei Ziffern notiert:^^ {INK 006}12
+{CNTR}Auf dem Fetzen eines Schaltplanes hat jemand eine Ziffer notiert:^^ {INK 006}3
+{CNTR}Auf dem Fetzen eines Schaltplanes hat jemand eine Ziffer notiert:^^ {INK 006}4
+{CNTR}Auf dem Zettel hat jemand hastig eine Ziffernfolge notiert:^^ {INK 006}1001
+{CNTR}Es fehlt der andere Teil des Dokuments!
+Die beiden Dokumententeile passen genau aneinander. Das ursprüngliche Schriftstück ist wiederhergestellt!
+{INVE}{NAME} nimmt das Schwert aus schwarzen Obsidian in die Hand. Es läßt sich nicht mehr aus der Hand legen und {INVE}{NAME} spürt, wie die Waffe an {HIS }er Lebenskraft und Ausdauer zehrt!
+Das rote Schwert ist verflucht! {INVE}{NAME} kann es nicht mehr loswerden und spürt, wie es die Stärke und Angriffskraft aus {HIS }em Körper saugt!
+Der Kristallgriff des Dolches verbindet sich untrennbar mit {INVE}{NAME}'s Hand und {HE  } spürt, wie die Kraft aus {HIS }em Körper weicht!
+{INVE}{NAME} merkt, daß ein Fluch auf der blauen Klinge liegt: Der Dolch erschwert {INVE}{NAME}'s Zugang zur Magie!
+Der schwarze Stein des Helmes raubt die Kraft aus {INVE}{NAME}'s Körper, er ist verflucht!
+"Dieses Amulett ist Zeichen meiner Zugehörigkeit zu den Dji Cantos. Ich möchte es nicht aus der Hand geben."
+"Ich sollte das Amulett lieber an seinem Platz lassen, es ist zu wertvoll, um es abzulegen."
+{INK 001}Harriet erwacht zu schwacher Gegenwehr, als das Amulett berührt wird und sagt:{INK 002}^^"Bitte nicht! Dieses Amulett ist mein persönliches Eigentum!"
+Der kleine rote Stein ist fest mit Toms Haut verbunden. Er läßt sich nicht lösen.
+"Sorry, aber ich behalte das Ding lieber. Brauche ich noch!"
+{INK 001}Mellthas schüttelt den Kopf, er möchte das Schreibzeug nicht herausgeben. Es ist sein Kommunikationsmittel.
+"Das Ding ist ungeheuer wichtig. Lassen wir es lieber, wo es ist, bevor etwas damit passiert."
+{INVE}{NAME} erwacht aus der Bewußtlosigkeit und sagt:
+Aus dem Dokument gehen interessante Informationen hervor. Es weist auf einen Vertrag zwischen Kontos, Gard und Riko hin. Die Gefährten verstehen nicht alles, was hier vermerkt ist, denn manches ist in einer Art Codesprache notiert. Vermutlich geht es um eine Art von Aufteilungsvertrag von wertvollen Materialien. Genaueres läßt sich im Moment allerdings nicht sagen.^^Man könnte dieses Beweisstück vielleicht dazu benutzen, den Konflikt zwischen Iskai und Mahinos zu schlichten!
+Es widerstrebt Tom, das Samenkorn, das Ergebnis aller Mühen und Gefahren, aus der Hand zu geben.
+Die Aufzeichnungen über das hohe Wissen sind wohl nur für wahre Meister der Magie verständlich. Kompilzierte Beschreibungen und Reime in komplexen Versmaßen bedecken das Pergament.
+Eine seltsame Mischung aus magisch klingendem Kauderwelsch und technischen Beschreibungen sind hier zu lesen. Die Dji Cantos können sicher mehr damit anfangen.
+{INK 001}Auf dem Pergamentstück steht geschrieben:^^{INK 003}Nicht immer wird Mut belohnt. Fahre trotzdem fort, mutig zu sein.
+{LEAD}{NAME} ißt die Kräuter und spürt, wie sie eine reinigende Wirkung auf Körper und Geist ausüben!
+{INK 001}{LEAD}{NAME}:{INK 002}^^ "Lassen wir den Schlüssel lieber, wo er ist. Ich möchte ihn hier nicht verlieren."
+{INK 001}{LEAD}{NAME}:{INK 002}^^ "Lassen wir das Dokument lieber, wo es ist. Ich möchte es hier nicht verlieren."

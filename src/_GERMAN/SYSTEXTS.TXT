@@ -1,149 +1,525 @@
 ﻿	ALBION System texts (GERMAN)
 
-	Party member on-line help
-[0000:%s (LP:%u, SP:%u)]
+I assume you have played the game for a while and have read the translation
+manual.
 
-	Party member pop-up menu
+	*** Party member portraits ***
+
+	On-line help
+	Normal
+	Member name, LP and SP
+[0000:%s (LP:%d, SP:%d)]
+
+	On-line help
+	Item is dragged over portrait
+	Item name, member name
+[0593:%s an %s geben]
+
+	On-line help
+	Gold is dragged over portrait
+	Member name
+[0594:Gold %s geben]
+
+	On-line help
+	Food is dragged over portrait
+	Member name
+[0595:Nahrung %s geben]
+
+	On-line help
+	Item is dragged, but member has no free slot in backpack
+	Member name
+[0596:{INK 006}%s hat keine Plätze mehr frei!]
+
+	On-line help
+	Gold is dragged, but member cannot carry this much gold
+	Member name
+[0597:{INK 006}%s kann soviel Gold nicht tragen!]
+
+	On-line help
+	Food is dragged, but member cannot carry this much food
+	Member name
+[0598:{INK 006}%s kann soviel Rationen nicht tragen!]
+
+
+	*** Party member pop-up menu ***
+
+	PUM entry
+	Go to character screen
 [0070:Charakterbildschirm]
+
+	PUM entry
+	Use magic
 [0010:Zaubern]
+
+	PUM entry
+	Make leader
 [0004:Zum Anführer machen]
+
+	PUM entry
+	Speak to
 [0005:Ansprechen]
 
-[0425:{INK 006}{PUM }{NAME} doesn't know any spells yet!]
+	PUM entry
+	Toggle (for debug purposes only)
+[0701:Toggle]
 
-	Map pop-up menu
+	On-line help
+	Use magic selected, but the party member doesn't know any spells yet
+[0425:{INK 006}Kennt noch keine Zauber!]
+
+	On-line help
+	Speak to selected, but the party member cannot speak
+[0512:{INK 006}Kann im Moment nicht sprechen!]
+
+	On-line help
+	Speak to selected, but Mellthas cannot speak
+[0735:{INK 006}Mellthas kann nicht reden.]
+
+	On-line help
+	Make leader selected, but the party member cannot lead the party
+[0542:{INK 006}Kann jetzt nicht die Party führen!]
+
+	On-line help
+	Go to character screen selected, but is not possible right now
+[0757:{INK 006}Dieses Gepäck ist jetzt nicht zugänglich!]
+
+
+	*** New active member selector ***
+
+	Requester
+	New party leader is selected
+[0545:Wer soll nun die Party führen?]
+
+	On-line help
+	The selected party member cannot lead the party
+[0544:{INK 006}Diese Person kann nicht die Party führen!]
+
+	On-line help
+	The player tried to abort the requester
+[0541:{INK 006}Jemand MUSS die Party führen!]
+
+
+	*** Map pop-up menu ***
+
+	PUM entry
+	Speak to
 [0006:Ansprechen]
+
+	PUM entry
+	Examine
 [0007:Anschauen]
+
+	PUM entry
+	Manipulate
 [0008:Manipulieren]
+
+	PUM entry
+	Use item
 [0009:Gegenstand benutzen]
+
+	PUM entry
+	Take
 [0074:Aufnehmen]
 
+	PUM entry
+	Travel on foot (not used)
 [0011:{INK 002}Zu Fuß gehen]
-[0130:{INK 002}Übersichtskarte]
-[0012:{INK 002}Rasten]
-[0013:{INK 002}Party status]
 
+	PUM entry
+	Automapper (3D maps only)
+[0130:{INK 002}Übersichtskarte]
+
+	PUM entry
+	Build camp
+[0012:{INK 002}Rasten]
+
+	PUM entry
+	Wait
+[0723:{INK 002}Warten]
+
+	PUM entry
+	Go to main menu
+[0696:{INK 002}Hauptmenü]
+(this one also appears in the combat pop-up menu)
+
+	PUM title
+	When not clicking on a person
 [0014:Umgebung]
 
-	Inventory item pop-up menu
+	PUM title
+	When clicking on a person
+[0513:Person]
+
+	On-line help
+	Take selected, but the active party member is overweight
+[0489:{INK 006}Kann nicht soviel tragen!]
+
+	On-line help
+	Take selected, but the active party member has no more free slots in
+	his or her backpack
+[0490:{INK 006}Hat keine Plätze mehr frei!]
+
+	On-line help
+	Build camp or wait selected, but monsters are in the vicinity
+[0601:{INK 006}Es ist hier zu gefährlich!]
+
+	Requester
+	Player selects the item which will be used
+[0430:Welchen Gegenstand benutzen?]
+
+	Permanent text area
+	Used item had no effect
+[0431:Dieser Gegenstand bewirkt hier nichts.]
+
+	Permanent text area
+	Spoken word had no effect
+[0432:Dieses Wort bewirkt nichts.]
+
+	On-line help
+	3D-map : selected object is too far away
+[0532:{INK 006}Zu weit weg.]
+
+	On-line help
+	3D-map : selected object is too far away for speaking
+[0533:{INK 006}Zu weit weg zum ansprechen.]
+
+	On-line help
+	3D-map : selected object is too far away for touching
+[0534:{INK 006}Zu weit weg zum berühren.]
+
+	On-line help
+	3D-map : selected object cannot be reached
+[0535:{INK 006}Nicht erreichbar.]
+
+	On-line help
+	3D-map : selected object is too far away
+[0536:{INK 006}Zu weit weg.]
+
+	On-line help
+	3D-map : selected object cannot be reached
+[0537:{INK 006}Gesperrt.]
+
+	On-line help
+	Player tried to talk to a sleeping person
+[0539:Diese Person schläft!]
+
+	On-line help
+	Player tried to a person who does not speak the same language as the
+	 party leader
+	Party leader name
+[0540:Diese Person spricht eine Sprache, die {LEAD}{NAME} nicht kennt.]
+
+	On-line help
+	Player tried to make a party member active who does not speak the
+	 same language as the dialogue partner
+[0543:Diese Personen sprechen nicht die gleiche Sprache.] NEW
+
+	Requester
+	Wait for how many hours?
+[0724:Wieviele Stunden warten?]
+
+	Requester
+	Really build camp?
+[0726:Wirklich rasten?]
+
+
+	*** Inventory item pop-up menu ***
+
+	PUM entry
+	Drop the item
 [0015:Wegwerfen]
+
+	PUM entry
+	Learn the spell from the item (spell scrolls only)
 [0016:Spruch lernen]
+
+	PUM entry
+	Examine the item
 [0017:Untersuchen]
+
+	PUM entry
+	Drink the item (drinkables only)
 [0018:Trinken]
+
+	PUM entry
+	Activate the spell inside the item (magical items only)
 [0019:Spruch aktivieren]
+
+	PUM entry
+	Read the item (readables only)
 [0020:Lesen]
+
+	PUM entry
+	Activate the item (special items only)
 [0131:Aktivieren]
 
-	Inventory exit button on-line help
+	PUM entry
+	Sell the item (only in merchant screens)
+[0574:Verkaufen]
+
+	PUM entry
+	Use the item (certain items only)
+[0607:Benutzen]
+
+	On-line help
+	Player tried to execute some action on an item which cannot be performed during combat
+[0760:{INK 006}Nicht im Kampf!]
+
+	On-line help
+	Player tried to use an item, generating a new item for which there is no place
+	Character name
+[0752:%s hat keinen Platz frei!]
+
+
+	*** Inventory screen ***
+
+	On-line help
+	Exit button
 [0021:Charakterbildschirm verlassen]
 
-	Item on-line help
-[0022:%s]
-
-	Item types
-[0023:Armour]
-[0024:Helmet]
-[0025:Shoes]
-[0026:Shield]
-[0027:Short-range weapon]
-[0028:Long-range weapon]
-[0029:Ammunition]
-[0030:Text scroll]
-[0031:Spell scroll]
-[0032:Drink]
-[0033:Amulet]
-[0034:Brooch]
-[0035:Ring]
-[0036:Valuable]
-[0037:Tool]
-[0038:Key]
-[0039:Normal]
-[0040:Magic]
-[0041:Special]
-[0042:Transportation]
-
-	Damage display on-line help
-[0043:Schaden : %u]
-
-	Protection display on-line help
-[0044:Schutz : %u]
-
-	Weight display
-[0045:Gewicht : %u Kg]
-
-	Weight display on-line help
-[0046:Carried weight : %u g]
-
-	Backpack description
+	"Button"
+	Backpack area title
 [0047:Rucksack]
 
-	Gold display on-line help
-[0048:%u gold coins]
-
-	Food rations on-line help
-[0049:%u food rations]
-
-	Inventory gold pop-up menu
-[0050:Wegwerfen]
-
-[0051:Gold]
-
-	Inventory food pop-up menu
-[0052:Wegwerfen]
-
-[0053:Rationen]
-
-	Left inventory radio buttons on-line help
+	On-line help
+	Left inventory radio buttons
 [0054:Charakterbildschirm 1]
 [0055:Charakterbildschirm 2]
 [0056:Charakterbildschirm 3]
 
+	Button
 	Left inventory radio buttons text
 [0057:I]
 [0058:II]
 [0059:III]
 
-	Number input window buttons text
-[0064:OK]
+	On-line help
+	Damage (that a character can cause)
+	Amount of damage
+[0677:Schaden : %d]
 
-	Number input window buttons on-line help
-[0069:Accept number]
+	On-line help
+	Protection (of a character against damage)
+	Amount of protection
+[0678:Schutz : %d]
 
-	Lock pop-up menu
-[0071:Lock]
+	Button
+	Weight display
+	Carried weight in kilogrammes
+[0679:Gewicht : %d Kg]
 
-[0072:Pick the lock]
+	On-line help
+	Weight display
+	Actual and maximum weight in grammes
+[0680:Getragenes Gewicht : %ld von %ld g]
 
-	Lock on-line help
-[0073:Lock]
 
-	High-level text commands
+	*** Items ***
+
+	On-line help
+	Normal
+	Item name
+[0022:%s]
+
+	On-line help
+	Item is dragged and can be dropped in a free slot
+	Item name
+[0517:Ablegen %s]
+
+	On-line help
+	Item is dragged and can be swapped with an item in another slot
+	Item name, second item name
+[0518:Vertausche %s mit %s]
+
+	On-line help
+	Item is dragged and cannot be added to another slot because it is
+	full
+[0519:{INK 006}Dieser Platz ist belegt!]
+
+	On-line help
+	Item is dragged and can be added to another slot
+[0520:Hinzufügen]
+
+	On-line help
+	Merchant item which is too expensive
+	Item name, price
+[0577:{INK 006}%s (%d.%u gold)]
+
+	On-line help
+	Merchant item
+	Item name, price
+[0579:%s (%d.%u gold)]
+
+
+	*** Item types ***
+
+	Name
+[0023:Rüstung]
+[0024:Helm]
+[0025:Schuhe]
+[0026:Schild]
+[0027:Nahkampfwaffe]
+[0028:Fernkampfwaffe]
+[0029:Munition]
+[0030:Schriftstück]
+[0031:Spruchaufzeichnung]
+[0032:Getränk]
+[0033:Amulett]
+[0034:Brosche]
+[0035:Ring]
+[0036:Wertgegenstand]
+[0037:Werkzeug]
+[0038:Schlüssel]
+[0039:Normal]
+[0040:Magischer Gegenstand]
+[0041:Spezieller Gegenstand]
+[0042:Transport]
+[0043:Leucht-Gegenstand]
+[0044:]
+[0045:]
+[0046:]
+
+
+	*** Gold / food ***
+
+	On-line help
+	Gold display
+	Amount of gold
+[0048:%d.%u Gold]
+
+	On-line help
+	Food display
+	Amount of food rations
+[0049:%d Rationen]
+
+	PUM titles
+[0051:Gold]
+[0053:Rationen]
+
+	PUM entry
+	Drop (gold or food)
+[0050:Wegwerfen]
+
+	Requester
+	Drop how much gold?
+[0727:Wieviel Gold wegwerfen?]
+
+	Requester
+	Really drop the gold?
+[0728:Das Gold wirklich wegwerfen?]
+
+	Requester
+	Drop how many rations?
+[0729:Wieviele Rationen wegwerfen?]
+
+	Requester
+	Really drop the rations?
+[0730:Die Rationen wirklich wegwerfen?]
+
+	Requester
+	Take how much gold?
+[0052:Wieviel Gold nehmen?]
+
+	Requester
+	Take how many rations?
+[0515:Wieviel Rationen nehmen?]
+
+
+	*** Locks ***
+
+	PUM title
+[0071:Schloß]
+
+	PUM entry
+	Pick the lock
+[0072:Schloß knacken]
+
+	On-line help
+	Lock display
+[0073:Aufschließen]
+
+	Permanent text area
+	Party leader picked the lock
+	Party leader name
+[0522:{LEAD}{NAME} hat das Schloß geknackt!]
+
+	Permanent text area
+	Player tried to pick an unpickable lock
+[0523:Dieses Schloß kann nicht geknackt werden!]
+
+	Permanent text area
+	Party leader triggered a trap, but managed to evade it
+	Party leader name
+[0524:{LEAD}{NAME} hat eine Falle ausgelöst, konnte ihr aber ausweichen!]
+
+	Permanent text area
+	Party leader triggered a trap
+	Party leader name
+[0525:{LEAD}{NAME} hat eine Falle ausgelöst!]
+
+	Permanent text area
+	Party leader unlocked the lock with the right key/item
+	Party leader name
+[0526:{LEAD}{NAME} hat das Schloß geöffnet!]
+
+	Permanent text area
+	Party leader picked the lock with a lockpick
+	Party leader name
+[0527:{LEAD}{NAME} hat das Schloß mit einen Dietrich geöffnet!]
+
+	Permanent text area
+	Player tried to unlock the lock with the wrong KEY
+[0528:Das ist nicht der richtige Schlüssel.]
+
+	Permanent text area
+	Player tried to unlock the lock with the wrong ITEM
+[0529:Damit kann man das Schloß nicht öffnen.]
+
+	Permanent text area
+	Party leader was unable to pick the lock
+	Party leader name
+[0538:{LEAD}{NAME} schafft es nicht, das Schloß zu knacken!]
+
+
+	*** High-level text commands ***
+
+	Name
+	{HE  }-command (see translation manual)
 [0075:er]
 [0076:sie]
 [0077:es]
 
-[0078:ihm]
+	Name
+	{HIM }-command (see translation manual)
+[0078:ihn]
 [0079:ihr]
 [0080:es]
 
+	Name
+	{HIS }-command (see translation manual)
 [0081:sein]
 [0082:ihr]
 [0083:sein]
 
+	Name
+	{MAN }-command (see translation manual)
 [0084:Mann]
 [0085:Frau]
 [0086:Wesen]
 
-	Race names
-[0456:Irdling]
-[0457:Iskai]
-[0458:Ur-Kelt]
-[0459:Dunkle Druide]
 
-[0460:Erleuchtete]
-[0461:Normalo]
-[0462:Dekadent]
-[0463:Metalmacher]
+	*** Race names ***
+
+	Name
+[0456:Erdenmensch]
+[0457:Iskai]
+[0458:Kelte]
+[0459:Kenget Kamulos]
+
+[0460:Dji Cantos]
+[0461:Mahino]
+[0462:Dekadenter]
+[0463:Umajo]
 
 [0464:]
 [0465:]
@@ -155,19 +531,22 @@
 [0470:]
 [0471:Monster]
 
-	Class names
-[0095:]
-[0096:]
-[0097:]
-[0098:]
 
-[0099:]
-[0100:]
-[0101:]
+	*** Class names ***
+
+	Name
+[0095:Pilot]
+[0096:Wissenschaftler]
+[0097:Krieger]
+[0098:Dji-Kas Magierin]
+
+[0099:Druide]
+[0100:Erleuchtete]
+[0101:Techniker]
 [0102:]
 
-[0103:]
-[0104:]
+[0103:Oqulo Kamulos]
+[0104:Kriegerin]
 [0105:]
 [0106:]
 
@@ -196,16 +575,19 @@
 [0125:]
 [0126:]
 
-	Racist insults
-[0472:Irdling]
-[0473:Iskai]
-[0474:Ur-Kelt]
-[0475:Dunkle Druide]
 
-[0476:Erleuchtete]
-[0477:Normalo]
-[0478:Dekadent]
-[0479:Metalmacher]
+	*** Racist insults ***
+
+	UNUSED
+[0472:]
+[0473:]
+[0474:]
+[0475:]
+
+[0476:]
+[0477:]
+[0478:]
+[0479:]
 
 [0480:]
 [0481:]
@@ -215,9 +597,12 @@
 [0484:]
 [0485:]
 [0486:]
-[0487:Monster]
+[0487:]
 
-	Class insults
+
+	*** Class insults ***
+
+	UNUSED
 [0135:]
 [0136:]
 [0137:]
@@ -258,92 +643,222 @@
 [0165:]
 [0166:]
 
-	Found a goto-point
-[0167:Found a goto-point!]
 
-	Automapper icon on-line help (2...17)
-[0168:Riddlemouth]
+	*** Automapper icons (2...17) ***
+
+	On-line help
+	Automapper icons
+[0168:Rätselmund]
 [0169:Teleporter]
 [0170:Spinner]
-[0171:Trap]
-[0172:Trapdoor]
-[0173:Special]
+[0171:Falle]
+[0172:Falltür]
+[0173:Spezial]
 [0174:Monster]
-[0175:Closed door]
-[0176:Open door]
-[0177:Merchant]
-[0178:Inn]
-[0179:Closed chest]
-[0180:Map exit]
-[0181:Open chest]
-[0182:Trashpile]
+[0175:Geschlossene Tür]
+[0176:Offene Tür]
+[0177:Händler]
+[0178:Kneipe]
+[0179:Geschlossene Kiste]
+[0180:Exit]
+[0181:Offene Kiste]
+[0182:Gerümpel]
 [0183:Person]
+  (Message 184 in this sequence is the Goto-point, which is a special case.)
+[0185:Event]
 
-	Inventory messages
-[0184:No charges left]
-[0185:Wrong class]
-[0186:Wrong spell area]
-[0187:Wrong spell class]
-[0188:Already know this spell]
-[0189:Level of spell too high]
-[0190:Yay! Learned the spell!]
-[0191:Item is broken]
+
+	*** Inventory messages ***
+
+	On-line help
+	Tried to use a magical item without charges
+[0184:Hat keine Ladungen mehr!]
+
+	On-line help
+	Character that tried to use an item has the wrong class
+[0599:Falsche Klasse!]
+
+	On-line help
+	Tried to use an item in the wrong spell area
+[0186:Falscher Spruchbereich!]
+
+	On-line help
+	Tried to learn a spell from an unknown spell class
+[0187:Keiner kennt diese Spruchklasse!]
+
+	On-line help
+	Tried to learn a spell that is already known
+[0188:Dieser Spruch ist schon bekannt!]
+
+	On-line help
+	Tried to learn a spell with a level that's too high
+[0189:Spruchstufe ist zu hoch!]
+
+	On-line help
+	Successfully learned the spell
+	Member name
+[0190:{SUBJ}{NAME} hat den Spruch gelernt!]
+
+	On-line help
+	Tried to use a broken item
+[0191:Gegenstand ist kaputtgegangen!]
+
+	Requester
+	Drop how many items?
 [0192:Wieviele Gegenstände wegwerfen?]
-[0193:{INK 006}Don't drop this!]
-[0062:Really drop that item?]
-[0063:{INK 006}This item is cursed!]
-[0065:{INK 006}This item cannot be un-equipped in combat!]
+
+	On-line help
+	Tried to drop a vital item
+[0193:{INK 006}Dieser Gegenstand ist wichtig!]
+
+	Requester
+	Really drop THIS item?
+[0062:Wirklich wegwerfen?]
+
+	Requester
+	Really drop THESE itemS ?
+[0531:Wirklich wegwerfen?]
+
+	Permanent text area
+	Tried to unequip a cursed item
+[0063:{INK 006}Dieser Gegenstand ist verflucht!]
+
+	Permanent text area
+	Tried to unequip an item in combat for which this is impossible
+[0065:{INK 006}Kann nicht während des Kampfes entfernt werden!]
+
+	Requester
+	Clicked on item slot with more than one item
 [0066:Wieviele Gegenstände aufnehmen?]
-[0067:{INK 006}This item cannot be equipped in combat!]
-[0068:{INK 006}This item cannot be equipped!]
-[0194:{INK 006}This item is broken!]
-[0195:{INK 006}Wrong class to use this item!]
-[0196:{INK 006}Wrong sex to use this item!]
-[0197:{INK 006}Not enough hands free!]
-[0132:{INK 006}You already have this item!]
 
-	Boolean requester
-[0060:Yes]
-[0061:No]
+	Permament text area
+	Tried to unequip an item in combat for which this is impossible
+[0067:{INK 006}Kann nicht während des Kampfes entfernt werden!]
 
-	Tactical window pop-up menu
-[0001:Attack]
-[0002:Move]
-[0003:Use magic]
-[0198:Flee]
-[0199:Use magic item]
+	Permanent text area
+	Tried to equip an unequippable item
+[0068:{INK 006}Kann nicht am Körper getragen werden!]
 
-[0200:Advance party]
+	Permanent text area
+	Tried to equip a broken item
+[0194:{INK 006}Dieser Gegenstand ist kaputt!]
 
-[0202:{INK 002}Start round]
-[0488:{INK 002}View]
+	Permanent text area
+	Character that tried to equip the item has the wrong class
+[0195:{INK 006}Falsche Klasse, um Gegenstand zu benutzen!]
 
-	Spell names for class 0
-[0203:Lame monster]
-[0204:De-curse organic items]
-[0205:Poison]
-[0206:Hurry]
-[0207:Show LP]
+	Permanent text area
+	Character that tried to equip the item has the wrong sex
+[0196:{INK 006}Wrong gender to use this item!]
 
-[0208:Freeze bomb single]
-[0209:Freeze bomb row]
-[0210:Freeze bomb all]
-[0211:Weak healing single]
-[0212:Blind monster single]
+	Permanent text area
+	Character that tried to equip the item doesn't have enough hands free
+[0197:{INK 006}Nicht genügend Hände frei!]
 
-[0213:Blind monster row]
-[0214:Blind monster all]
-[0215:Make monster sleep]
-[0216:Trap]
-[0217:Remove trap]
+	Permanent text area
+	Tried to activate an item that is already acticated (don't ask)
+[0132:{INK 006}Dieser Gegenstand existiert schon!]
 
-[0218:Heal lamed]
-[0219:Heal stoned]
-[0220:Heal blindness]
-[0221:Heal poisoning]
-[0222:Fungification]
+	Requester
+	Tried to drink an item
+[0719:Wer soll das trinken?]
 
-[0223:Light]
+
+	*** Tactical window ***
+
+	PUM title
+	Combat
+[0697:Kampf]
+
+	PUM entry
+	Do nothing
+[0746:Nichts tun]
+
+	PUM entry
+	Attack
+[0001:Angreifen]
+
+	PUM entry
+	Move
+[0002:Bewegen]
+
+	PUM entry
+	Use magic
+[0003:Magie anwenden]
+
+	PUM entry
+	Flee
+[0198:Flüchten]
+
+	PUM entry
+	Use magic item
+[0199:Magischer Gegenstand]
+
+	PUM entry
+	Advance party
+[0200:Party vorrücken]
+
+	PUM entry
+	Observe
+[0488:{INK 002}Beobachten]
+
+	PUM entry
+	End combat (cheat only)
+[0546:{INK 002}Kampf beenden]
+
+	Button
+	Start combat round
+[0202:{INK 002}Runde starten!]
+
+	On-line help
+	Character cannot attack
+[0437:{INK 006}Kann nicht angreifen!]
+
+	On-line help
+	Character cannot cause damage
+[0438:{INK 006}Kann keinen Schaden anrichten!]
+
+	On-line help
+	Character cannot move
+[0439:{INK 006}Kann sich nicht bewegen!]
+
+	On-line help
+	Character cannot flee
+[0440:{INK 006}Kann nicht fliehen!]
+
+	On-line help
+	Party cannot advance twice in a row
+[0755:{INK 006}Die Party ist schon einmal vorgerückt!]
+
+
+	*** Spell names for class 0 ***
+
+	Name
+[0203:Dornenschlinge]
+[0204:DELETED]
+[0205:DELETED]
+[0206:Hast]
+[0207:Lebenssicht]
+
+[0208:Frostsplitter]
+[0209:Frostkristall]
+[0210:Frostlawine]
+[0211:Leichte Heilung]
+[0212:Blendfunke]
+
+[0213:Blendstrahl]
+[0214:Blendsturm]
+[0215:Schlafsporen]
+[0216:Dornenfalle]
+[0217:Falle entfernen]
+
+[0218:DELETED]
+[0219:Heile Rausch]
+[0220:Heile Blindheit]
+[0221:Heile Vergiftung]
+[0222:Verpilzung]
+
+[0223:Licht]
 [0224:]
 [0225:]
 [0226:]
@@ -355,20 +870,22 @@
 [0231:]
 [0232:]
 
-	Spell names for class 1
-[0233:Heal party member]
-[0234:Automap spell]
-[0235:Heal party
-[0236:Blink]
-[0237:Gateway spell]
+	*** Spell names for class 1 ***
 
-[0238:Flee]
-[0239:Levitation]
-[0240:Monster knowledge]
-[0241:Mega killer spell]
-[0242:Irritate]
+	Name
+[0233:Regeneration]
+[0234:Kartensicht]
+[0235:Lebensbringer]
+[0236:Teleport]
+[0237:Heilung]
 
-[0243:Nourish]
+[0238:Schneller Rückzug]
+[0239:DELETED]
+[0240:DELETED]
+[0241:Zorn der Göttin]
+[0242:Irritation]
+
+[0243:Erholung]
 [0244:]
 [0245:]
 [0246:]
@@ -392,20 +909,22 @@
 [0261:]
 [0262:]
 
-	Spell names for class 2
+	*** Spell names for class 2 ***
+
+	Name
 [0263:Berserker]
-[0264:Expel ghosts single]
-[0265:Expel ghosts row]
-[0266:Expel ghosts all]
-[0267:Long-range fire]
+[0264:Dämon vertreiben]
+[0265:Dämonen vertreiben]
+[0266:Dämonenexodus]
+[0267:Kleiner Feuerball]
 
-[0268:Magical defense]
-[0269:Medium healing]
-[0270:Scare one]
-[0271:Scare row]
-[0272:Scare all]
+[0268:Magischer Schild]
+[0269:Heilung]
+[0270:Prahlen]
+[0271:Schreck]
+[0272:Panik]
 
-[0273:Strength sucker]
+[0273:DELETED]
 [0274:]
 [0275:]
 [0276:]
@@ -429,24 +948,26 @@
 [0291:]
 [0292:]
 
-	Spell names for class 3
-[0293:Long-range single]
-[0294:Long-range single 2]
-[0295:Long-range row]
-[0296:Long-range row 2]
-[0297:Long-range all]
+	*** Spell names for class 3 ***
 
-[0298:Long-range all 2]
-[0299:Energy trap single]
-[0300:Energy trap row]
-[0301:Magical mine single]
-[0302:Magical mine row]
+	Name
+[0293:Feuerball]
+[0294:Blitzschlag]
+[0295:Feuerregen]
+[0296:Blitzstrahl]
+[0297:Feuerhagel]
 
-[0303:LP-sucker]
-[0304:SP-sucker]
-[0305:Personal defense]
-[0306:Dissolve monster]
-[0307:Remove traps]
+[0298:Blitzsturm]
+[0299:Blitzfalle]
+[0300:Große Blitzfalle]
+[0301:Blitzmine]
+[0302:Große Blitzmine]
+
+[0303:Leben stehlen]
+[0304:Magie stehlen]
+[0305:Persönlicher Schutz]
+[0306:Kamulos Blick]
+[0307:Falle entfernen]
 
 [0308:]
 [0309:]
@@ -466,7 +987,9 @@
 [0321:]
 [0322:]
 
-	Spell names for class 4
+	*** Spell names for class 4 ***
+
+	UNUSED
 [0323:]
 [0324:]
 [0325:]
@@ -503,17 +1026,31 @@
 [0351:]
 [0352:]
 
-	Spell names for class 5
-[0353:Sword Energy]
-[0354:De-curse metal items]
-[0355:Curse metal items]
-[0356:Identify items]
-[0357:Cause rust]
+	*** Spell names for class 5 ***
 
-[0368:Improve metallic weapons]
-[0369:Metallic items burn]
-[0370:Repair item]
-[0371:Make metallic items lighter]
+	Name
+[0353:Panik]
+[0354:Gifthauch]
+[0355:Irritation]
+[0356:Pesthauch]
+[0357:]
+
+[0358:]
+[0359:]
+[0360:]
+[0361:]
+[0362:]
+
+[0363:]
+[0364:]
+[0365:]
+[0366:]
+[0367:]
+
+[0368:]
+[0369:]
+[0370:]
+[0371:]
 [0372:]
 
 [0373:]
@@ -528,6 +1065,9 @@
 [0381:]
 [0382:]
 
+	*** Spell names for class 6 ***
+
+	UNUSED
 [0383:]
 [0384:]
 [0385:]
@@ -540,7 +1080,6 @@
 [0391:]
 [0392:]
 
-	Spell names for class 6
 [0393:]
 [0394:]
 [0395:]
@@ -565,92 +1104,1127 @@
 [0411:]
 [0412:]
 
-[0413:]
-[0414:]
-[0415:]
-[0416:]
-[0417:]
+	*** Magic spell selector messages ***
 
-[0418:]
-[0419:]
-[0420:]
-[0421:]
-[0422:]
+	Permanent text area
+	Tried to cast spell in wrong spell area
+[0423:{INK 006}Ist hier und jetzt nicht möglich!]
 
-	Magic spell selector messages
-[0423:{INK 006}Wrong area for this spell]
-[0424:Requires %u spell-points]
-[0426:{INK 006}Not strong enough to cast spell]
-[0427:{INK 006}Requires %u SP and %u LP]
+	On-line help
+	Shows amount of spell-points needed
+	Spell-points
+[0424:Erfordert %u Spruchpunkte]
 
-	Map pop-up menu prompts
-[0430:Which item do you want to use here?]
-[0431:This item cannot be used here.]
-[0432:This word has no effect.]
+	On-line help
+	Character that tries to use magic is not strong enough to cast this spell
+[0426:{INK 006}Nicht stark genug für diesen Spruch!]
 
-	Tactical window pop-up menu prompts
-[0437:{INK 006}{PUM }{NAME} can't attack!]
-[0438:{INK 006}{PUM }{NAME} can't do damage!]
-[0439:{INK 006}{PUM }{NAME} can't move!]
-[0440:{INK 006}{PUM }{NAME} can't flee!]
+	On-line help
+	Shows amount of spell-points and life-points needed
+	Spell-points, life-points
+[0427:{INK 006}Erfordert %u SP und %u LP]
 
-	Combat action prompts
-[0433:{INK 006}No ammo for long-range weapon!]
-[0434:Attack what?]
-[0435:{INK 006}There's nothing for you to attack!]
-[0436:{INK 006}There are no targets in range!]
-[0441:Move where?]
-[0442:{INK 006}There's nowhere you can move to!]
-[0443:{INK 006}Move was blocked!]
-[0444:{COMB}{NAME} moves.]
-[0445:{COMB}{NAME} flees.]
-[0446:{COMB}{NAME} attacks {VICT}{NAME} with {WEAP}!]
-[0447:{VICT}{NAME} cannot be damaged!]
-[0448:The attack was deflected!]
-[0449:{COMB}{NAME} made a critical hit!]
-[0450:{COMB}{NAME} does {DAMG} damage!]
-[0451:No damage done!]
-[0452:{COMB}{NAME}'s attack failed!]
-[0453:{COMB}{NAME} missed!]
-[0454:{COMB}{NAME} used the last ammo!]
-[0455:{COMB}{NAME} attacks {VICT}{NAME}!]
 
-[0087:Cast on which party member?]
-[0088:Cast on which monster?]
-[0089:Cast on which row?]
-[0090:Which member's item?]
-[0091:Cast spell on what item?]
-[0092:%s casts %s!]
-[0093:{INK 006}This is not a magical item.]
-[0094:{INK 006}Item has no charges left.]
-[0127:{INK 006}This member is unconscious.]
-[0128:{INK 006}This item is not organic.]
-[0129:{INK 006}This item is fully charged.]
-[0133:Cast on which square?]
-[0134:%s casts %s from %s!]
-[0428:Blink whom?]
-[0429:Blink where?]
+	*** Combat messages ***
 
-[0201:Enter a number]
+	Permanent text area
+	Long-range weapon has no ammo
+[0433:{INK 006}Keine Munition für Fernkampfwaffe!]
 
-[0496:Give which item?]
-[0497:I've got nothing to say about that.]
-[0498:I don't know what you are talking about.]
-[0499:I don't want this item.]
-[0501:I don't want to join your party.]
-[0502:Very well. I shall leave.]
-[0503:OK, bye!]
+	Requester
+	Attack whom?
+[0434:Wen angreifen?]
 
-[0489:{INK 006}Cannot carry this much.]
-[0490:{INK 006}No slots free!]
+	Permanent text area
+	No attack targets
+[0435:{INK 006}Hier kann nichts angegriffen werden!]
 
-	Default dialogue multiple-choice entries
-[0491:What do you know about... ?]
-[0492:Would you like to have... ?]
-[0493:Would you like to join us?]
-[0494:I'd like you to go away. Now.]
-[0495:Thanks for talking.]
+	Permanent text area
+	No attack targets in range
+[0436:{INK 006}Keine Ziele in Reichweite!]
 
-	FAQ dialogue multiple-choice entries
-[0500:What do you do for a living?]
+	Requester
+	Move where?
+[0441:Wohin bewegen?]
+
+	Permanent text area
+	No possible move targets
+[0442:{INK 006}Kann nirgendwo hin!]
+
+	Permanent text area
+	Move target already occupied
+[0443:{INK 006}Bewegung wurde blockiert!]
+
+	Permanent text area
+	Combat participant moves
+	Participant name
+[0444:{COMB}{NAME} bewegt sich.]
+
+	Permanent text area
+	Combat participant flees
+	Participant name
+[0445:{COMB}{NAME} flieht!]
+
+	Permanent text area
+	Combat participant attacks with weapon
+	Participant name, victim name, weapon name
+[0446:{COMB}{NAME} attackiert {VICT}{NAME} mit {WEAP}!]
+
+	Permanent text area
+	Combat participant is attacked, but cannot be damaged
+	Victim name
+[0447:{VICT}{NAME} kann nicht verletzt werden!]
+
+	Permanent text area
+	Attack was deflected
+[0448:Angriff wurde abgewehrt!]
+
+	Permanent text area
+	Combat participant makes critical hit
+	Participant name
+[0449:{COMB}{NAME} hat einen kritischen Treffer erzielt!]
+
+	Permanent text area
+	Combat participant is attacked and receives damage
+	Victim name, amount of damage
+[0450:{VICT}{NAME} bekommt {DAMG} Schaden!]
+
+	Permanent text area
+	Combat participant is attacked but no damage was done
+	Victim name, amount of damage
+[0451:Kein Schaden erzielt!]
+
+	Permanent text area
+	Combat participant attacks but misses
+	Participant name
+[0452:{COMB}{NAME} verfehlt {HIS }en Gegner!]
+
+	Permanent text area
+	Combat participant attacks but target has already moved
+	Participant name
+[0453:{COMB}{NAME} attackiert in's Leere!]
+
+	Permanent text area
+	Combat participant attacks and uses the last ammo for long-range weapon
+	Participant name
+[0454:{COMB}{NAME} hat {HIS }e Munition verbraucht!]
+
+	Permanent text area
+	Combat participant attacks without weapon
+	Participant name, victim name
+[0455:{COMB}{NAME} attackiert {VICT}{NAME}!]
+
+	Permanent text area
+	Combat participant triggered a trap
+	Participant name
+[0414:{COMB}{NAME} hat eine Falle ausgelöst!]
+
+	Text window
+	An item has broken
+	Item name
+[0736:%s ist gebrochen!]
+
+
+	*** Magic ***
+
+	Requester
+	Cast combat spell on which party member?
+[0087:Auf welche(n) Gefährten(in)?]
+
+	Requester
+	Cast combat spell on which party monster?
+[0088:Auf welches Monster richten?]
+
+	Requester
+	Cast combat spell on which row of monsters?
+[0089:Auf welche Reihe richten?]
+
+	Requester
+	Cast combat spell on item belonging to which party member?
+[0090:Wessen Gegenstand?]
+
+	Requester
+	Cast combat spell on which item?
+[0091:Auf welchen Gegenstand anwenden?]
+
+	Permanent text area
+	Someone casts a spell
+	Character name, spell name
+[0092:%s zaubert %s!]
+
+	On-line help
+	Player tried to cast magic from a non-magical item
+[0093:{INK 006}Dies ist kein magischer Gegenstand!]
+
+	On-line help
+	Player tried to use a magical item without charges
+[0094:{INK 006}Gegenstand hat keine Ladungen mehr.]
+
+	Requester
+	Cast combat spell on which tactical square?
+[0133:Auf welches Feld anwenden?]
+
+	Permanent text area
+	Someone casts a spell from an item
+	Character name, spell name, item name
+[0134:%s beschwört %s aus %s!]
+
+	Requester
+	Cast teleport spell on whom?
+[0428:Wen transportieren?]
+
+	Requester
+	Teleport where?
+[0429:Wohin transportieren?]
+
+	Permanent text area
+	Player tried to teleport a monster that can not be teleported
+[0721:Dieses Monster kann nicht teleportiert werden!]
+
+	Permanent text area
+	Teleportation target is already occupied
+[0722:Das Teleportationsziel ist schon belegt!]
+
+	Permanent text area
+	Player tried to cast automap spell in a 2D map
+[0600:{INK 006}Dieser Spruch funktioniert nur in 3D-Karten!]
+
+	Text window
+	Player tried to cast recuperate spell although no-one is tired
+[0413:{INK 006}Niemand ist müde!]
+
+	Permanent text area
+	Magic victim could deflect the magic completely
+	Victim name
+[0731:%s hat den Zauber komplett abwehren können!]
+
+	Permanent text area
+	Magic victim could not deflect the magic at all
+	Victim name
+[0418:%s hat den Zauber nicht abwehren können!]
+
+	Permanent text area
+	Magic victim could partially deflect the magic
+	Victim name
+[0630:%s hat den Zauber nur teilweise abwehren können!]
+
+	Permanent text area
+	Magic has no effect on victim
+	Victim name
+[0774:Der Spruch hat keinen Effekt auf %s!]
+
+	Permanent text area
+	Party member used life-points for casting spell
+	Party member name
+[0725:{SUBJ}{NAME} hat Lebenspunkte für das Zaubern verbraucht!]
+
+	Permanent text area
+	Spell doesn't hit anyone
+	Spell caster's name
+[0698:{COMB}{NAME}'s Spruch trifft niemanden!]
+
+
+	*** Requesters ***
+
+	Button
+	Leave a window
+[0064:OK]
+
+	On-line help
+	OK button
+[0695:Fenster schließen]
+
+	Requester
+	Enter a number
+[0201:Nummer eingeben:]
+
+	Requester
+	Enter a word
+[0507:Wort eingeben:]
+
+	Button
+	Yes-button
+[0060:Ja]
+
+	Button
+	No-button
+[0061:Nein]
+
+
+	*** Dialogue ***
+	(all references to "character" in this part are to the person the
+	 player is talking to)
+
+	Text window
+	Player invited a character to join the party, but the party is full
+[0508:{INK 002}"Eure Gruppe scheint mir bereits komplett zu sein!"]
+
+	Requester
+	Player wants to offer an item
+[0496:Welchen Gegenstand anbieten?]
+
+	On-line help
+	Player tried to offer a vital item
+[0511:{INK 006}Dieser Gegenstand ist wichtig!]
+
+	Text window
+	Character cannot say anything about a subject
+[0497:{INK 002}"Darüber kann ich nicht viel sagen."]
+
+	Text window
+	Party member cannot say anything about a subject
+[0498:{INK 002}"Darüber kann ich nicht viel sagen, Tom."]
+
+	Text window
+	Character is not interested in offered item
+[0499:{INK 002}"Dieser Gegenstand interessiert mich nicht."]
+
+	Text window
+	Character does not want to join the party
+[0501:{INK 002}"Danke, aber ich möchte euch nicht begleiten."]
+
+	Text window
+	Party member is asked to leave
+[0502:{INK 002}"Nun gut. Ich werde gehen."]
+
+	Text window
+	Character says good-bye (end of dialogue)
+[0503:{INK 002}"Lebt wohl!"]
+
+	Text window
+	Party member says good-bye (end of dialogue)
+[0504:{INK 002}"Alsdann, Tom."]
+
+	Text window
+	Character says hello (start of dialogue)
+[0505:{INK 002}"Seid gegrüßt!"]
+
+	Text window
+	Party member says hello (start of dialogue)
+[0506:{INK 002}"Hallo, Tom. Was gibt's?"]
+
+	Text window
+	Character reacts to unknown word
+[0509:{INK 002}"Das sagt mir überhaupt nichts."]
+
+	Text window
+	Party member reacts to unknown word
+[0510:{INK 002}"Das sagt mir überhaupt nichts, Tom."]
+
+	Requester
+	Ask character about subject
+[0491:Was wißt Ihr über...?]
+
+	Requester
+	Ask character about item
+[0492:Was sagt Ihr zu diesem Gegenstand...?]
+
+	Requester
+	Ask character to join the party
+[0493:Möchtet Ihr mit uns reisen?]
+
+	Requester
+	Ask party member to leave the party
+[0494:Ich möchte gern, daß Du uns verläßt.]
+
+	Requester
+	Thank character for conversation
+[0495:Danke für das Gespräch!]
+
+	Requester
+	Ask character about occupation
+[0500:Was ist Euer Beruf?]
+
+
+	*** Chest screen ***
+
+	On-line help
+	Exit button
+[0514:Behälterbildschirm verlassen]
+
+	"Button"
+	Chest item area title
+[0530:Behälter]
+
+	On-line help
+	Player tried to put an item back in a junkpile
+[0516:Zurück ins Gerümpel nicht möglich!]
+
+
+	*** Door screen ***
+
+	On-line help
+	Exit button
+[0521:Türbildschirm verlassen]
+
+
+	*** Apres combat screen ***
+
+	On-line help
+	Exit button
+[0547:Kampfbildschirm verlassen]
+
+	"Button"
+	Item area title
+[0548:Hinterlassene Gegenstände]
+
+[0549:Auf den Rest der Gegenstände verzichten?]
+
+[0550:{INK 006}Es gibt hier noch einen wichtigen Gegenstand!]
+
+
+	*** After combat ***
+
+	Text window
+	None of the party members gained any experience points
+[0551:Niemand hat an Erfahrung gewonnen.]
+
+	Text window
+	Each party member gained some experience points
+	Amount of experience points per member
+[0552:Jeder der Gefährten erhält %u Erfahrungspunkte.]
+
+
+	*** Places (shops etc.) ***
+
+	Text window
+	Party member without training points tried to train
+[0553:Es sind keine Trainingspunkte mehr übrig.]
+
+	Text window
+	Party member with maximum skill tried to train
+[0554:{INK 002}"Im Moment kann ich Euch nicht mehr beibringen."]
+
+	Requester
+	Train a skill how many points?
+[0556:{INK 002}"Um wieviel wollt Ihr Eure Fähigkeit verbessern?"]
+
+	Text window
+	Default training message
+	Party leader name
+[0558:{LEAD}{NAME} unterzieht sich einem intensiven Training.]
+
+	Requester
+	Heal which party member?
+[0563:{INK 002}"Wen soll ich heilen?"]
+
+	On-line help
+	Player tried to heal a healthy person
+[0559:{INK 002}"Diese Person ist völlig gesund!"]
+
+	Requester
+	Heal how many life-points?
+[0560:{INK 002}"Wieviele Lebenspunkte soll ich heilen?"]
+
+	Text window
+	Default healing message
+	Character name
+[0561:{SUBJ}{NAME}'s Lebenspunkte wurden regeneriert.]
+
+	Requester
+	Remove cursed items of which party member?
+[0745:{INK 002}"Wessen verfluchte Gegenstände soll ich entfernen?"]
+
+	On-line help
+	Player selected someone without cursed items
+[0718:{INK 002}"Diese Person trägt keine verfluchte Gegenstände!"]
+
+	Text window
+	None of the party members carries any cursed items
+[0744:{INK 002}"Keiner von euch trägt verfluchte Gegenstände!"]
+
+	Text window
+	Default removing cursed items message
+	Character name
+[0562:{SUBJ}{NAME}'s verfluchte Gegenstände wurden entfernt!]
+
+	Requester
+	Examine which item?
+[0564:{INK 002}"Welchen Gegenstand soll ich für Euch untersuchen?"]
+
+	On-line help
+	Player tried to select an item that has already been examined
+[0565:{INK 006}Dieser Gegenstand ist schon einmal untersucht worden!]
+
+	Text window
+	Default item examined message
+[0566:Der Gegenstand ist untersucht worden, die Informationen können nun abgerufen werden.]
+
+	Requester
+	Re-charge which magical item?
+[0569:Welcher Gegenstand soll mit neuer Energie versehen werden?]
+
+	On-line help
+	Player tried to select a fully charged item
+[0567:{INK 006}Der Gegenstand ist bereits voll geladen!]
+
+	On-line help
+	Player tried to select an item that can not be recharged anymore
+[0568:{INK 006}Dieser Gegenstand kann nicht mehr regeneriert werden!]
+
+	Requester
+	Re-charge how many charges?
+[0570:Um wieviele Ladungen soll der Gegenstand regeneriert werden?]
+
+	Text window
+	Default item recharge message
+[0571:Der Gegenstand ist mit magischer Energie geladen worden.]
+
+	Requester
+	Buy how many rations?
+[0588:{INK 002}"Wieviele Rationen möchtet Ihr kaufen?"]
+
+	Text window
+	Default buy rations message
+[0589:Die Rationen wurden gekauft.]
+
+	Requester
+	Repair which item?
+[0591:Welcher Gegenstand soll repariert werden?]
+
+	On-line help
+	Player tried to select an unbroken item
+[0590:{INK 006}Dieser Gegenstand ist nicht defekt!]
+
+	Text window
+	Default item repaired message
+[0592:Der Gegenstand ist repariert.]
+
+	On-line help
+	Exit button
+[0420:Händlerbildschirm verlassen]
+
+	"Button"
+	Merchant item area title
+[0572:Händler]
+
+	Requester
+	Buy how many items?
+[0575:Wieviele Gegenstände kaufen?]
+
+	Text window
+	Default items bought message
+[0576:Die Gegenstände wurden gekauft.]
+
+	On-line help
+	Item is too expensive for the party
+[0578:{INK 006}Das ist zu teuer!]
+
+	On-line help
+	Inventory character has no free slots
+	Inventory character name
+[0580:{INK 006}{INVE}{NAME} hat keine Plätze mehr frei!]
+
+	On-line help
+	Player tried to sell an item, but the merchant has no free slots
+[0581:{INK 006}Der Händler hat keinen Lagerplatz mehr!]
+
+	Requester
+	Sell how many items?
+[0582:Wieviele Gegenstände verkaufen?]
+
+	Text window
+	Default items sold message
+[0583:Die Gegenstände wurden verkauft.]
+
+	On-line help
+	Player tried to sell a useless item
+[0587:{INK 006}Dieser Gegenstand ist wertlos.]
+
+	On-line help
+	Player tried to sell a broken item
+[0751:{INK 006}Zerbrochenes ist unverkäuflich!]
+
+	PUM entry
+	Merchant item
+[0573:Kaufen]
+
+	Requester
+	This'll cost you x coins. Do you want to buy this?
+	Price (e.g. 5.2 gold)
+[0557:{INK 002}"Das wären dann %d.%u Goldstücke. Einverstanden?"]
+
+	Requester
+	I will give you x coins. Do you want to sell this?
+	Price (e.g. 5.2 gold)
+[0584:{INK 002}"Dafür biete ich Euch %d.%u Goldstücke. Einverstanden?"]
+
+	Text window
+	The party does not have enough gold
+[0555:Das Gold reicht nicht aus!]
+
+	Button
+	Party gold
+[0585:Gold(Alle)]
+
+	On-line help
+	Party gold
+	Amount of gold
+[0586:Gesamtes Gold der Gefährten: %ld.%u]
+
+	Text window
+	Default rent room message
+	Party leader name
+[0602:{LEAD}{NAME} und die Gefährten werden in Ihr Zimmer geführt und verbringen eine erholsame Ruhepause.]
+
+	Requester
+	Heal which condition (=ailment) ?
+[0608:Welche Kondition heilen?]
+
+	Text window
+	Default condition healed message
+	Character name
+[0625:{SUBJ}{NAME} wurde geheilt!]
+
+	Text window
+	No-one in the party needs healing
+[0626:{INK 002}"Mir scheint, daß alle von Euch völlig gesund sind!"]
+
+	Text window
+	No-one in the party knows this magic teacher's spell class
+[0628:{INK 002}"Niemand von Euch kann meine Art der Magie lernen."]
+
+	Requester
+	Learn which spell?
+[0631:{INK 002}"Was soll ich lehren?"]
+
+
+	*** Camp screen ***
+
+	On-line help
+	No-one in the party needs a rest
+[0603:Niemand fühlt sich bereits wieder müde!]
+
+	Text window
+	The party rests until dawn
+[0604:Die Gefährten ruhen bis zum Morgengrauen.]
+
+	Text window
+	The party rests for eight hours
+[0605:Die Gefährten ruhen für acht Stunden.]
+
+	Text window
+	Party member cannot recuperate, because there isn't any food left
+	Character name
+[0606:{SUBJ}{NAME} erholt sich nicht, weil {HE  } keine Nahrung mehr hat!]
+
+
+	*** Conditions ***
+
+	Name
+[0609:Bewußtlos]
+[0610:Vergiftet]
+[0611:Krank]
+[0612:Erschöpft]
+[0613:Bewegungsunfähig]
+[0614:Auf der Flucht]
+[0615:Berauscht]
+[0616:Blind]
+[0617:In Panik]
+[0618:Schlafend]
+[0619:Verrückt]
+[0620:Irritiert]
+[0621:]
+[0622:]
+[0623:]
+[0624:]
+
+
+	*** Left Inventory 1 ***
+
+	Special text area
+	Party member description
+	Inventory character name, gender symbil, age, race name, class name,
+	 character level
+[0632:{INVE}{NAME} ({SEXC}), %u Jahre alt, {RACE}, {CLAS}, Stufe %d.]
+
+	Button
+	Life-points
+[0633:Lebenspunkte]
+
+	Button
+	Spell-points
+[0634:Spruchpunkte]
+
+	Button
+	Experience points
+[0667:Erfahrungspunkte]
+
+	Button
+	Training points
+[0668:Trainingspunkte]
+
+
+	*** Left Inventory 2 ***
+
+	"Button"
+	Attribute list title
+[0647:Attribute]
+
+	"Button"
+	Skill list title
+[0648:Fähigkeiten]
+
+
+	*** Left Inventory 3 ***
+
+	"Button"
+	Condition list title
+[0661:Konditionen]
+
+	"Button"
+	Language list title
+[0662:Sprachen]
+
+	"Button"
+	Temporary spell list title
+[0669:Temporäre Sprüche]
+
+	"Button"
+	Temporary spell data (MUST be short)
+	Strength, percentage sign, duration
+[0673:%d%% (%u Std.)]
+
+	Button
+	Combat position
+[0013:Kampfpositionen]
+
+	On-line help
+	Combat position button
+[0666:Kampfpositionen ändern]
+
+	On-line help
+	Swap two party members in combat position window
+	Party member name, party member name
+[0069:Tausche %s mit %s]
+
+	On-line help
+	Position party member in combat position window
+	Party member name
+[0674:%s positionieren]
+
+
+	*** Attributes ***
+
+	Name
+[0635:Stärke]
+[0636:Intelligenz]
+[0637:Geschicklichkeit]
+[0638:Schnelligkeit]
+[0639:Ausdauer]
+[0640:Glück]
+[0641:Magieresistenz]
+[0642:Magietalent]
+
+
+	*** Skills ***
+
+	Name
+[0643:Nahkampf]
+[0644:Fernkampf]
+[0645:Kritischer Treffer]
+[0646:Schlösser knacken]
+
+
+	*** Attribute abbreviations ***
+
+	Name
+[0649:STÄ]
+[0650:INT]
+[0651:GES]
+[0652:SCH]
+[0653:AUS]
+[0654:GLÜ]
+[0655:M-R]
+[0656:M-T]
+
+
+	*** Skill abbreviations ***
+
+	Name
+[0657:N-K]
+[0658:F-K]
+[0659:KRI]
+[0660:S-K]
+
+
+	*** Game languages ***
+
+	Name
+[0663:Irdisch]
+[0664:Iskai]
+[0665:Keltisch]
+
+
+	*** Temporary spell names ***
+
+	Name
+	(must be short)
+[0670:Angriff]
+[0671:Schutz]
+[0672:Anti-Magie]
+
+
+	*** Examine item 1 window ***
+
+	Button
+	Examine item 2 window
+[0683:Mehr...]
+
+	On-line help
+	More button
+[0694:Mehr Informationen]
+
+	"Button"
+	Item type
+[0676:Typ]
+
+	"Button"
+	Item weight
+[0675:Gewicht]
+
+	"Button"
+	Actual item weight
+	Weight in grammes
+[0684:%d g]
+
+	"Button"
+	Damage value of item
+	Amount of damage
+[0681:Schaden]
+
+	"Button"
+	Protection value of item
+	Amount of protection
+[0682:Schutz]
+
+
+	*** Examine item 2 window ***
+
+	"Button"
+	Skill tax 1
+[0685:Fähigkeiten-Malus 1]
+
+	"Button"
+	Skill tax 2
+[0686:Fähigkeiten-Malus 2]
+
+	"Button"
+	None (used for various entries)
+[0687:Keiner]
+
+	"Button"
+	Maximum life-points bonus
+[0688:LP-Maximum Bonus]
+
+	"Button"
+	Maximum spell-points bonus
+[0689:SP-Maximum Bonus]
+
+	"Button"
+	Attribute bonus
+[0690:Attribut-Bonus]
+
+	"Button"
+	Skill bonus
+[0691:Fähigkeiten-Bonus]
+
+	"Button"
+	Spell contained in items
+[0692:Zauberspruch]
+
+	"Button"
+	Number of times a magical item was enchanted
+[0693:Verzauberungen]
+
+
+	*** Main menu ***
+
+	PUM title
+[0700:Hauptmenü]
+
+	PUM entry
+	Start new game
+[0702:Neues Spiel]
+
+	PUM entry
+	Continue game
+[0703:Spiel fortsetzen]
+
+	PUM entry
+	Load game
+[0704:Spielstand laden]
+
+	PUM entry
+	Save game
+[0705:Spielstand speichern]
+
+	PUM entry
+	Options
+[0706:Optionen]
+
+	PUM entry
+	View intro
+[0707:Vorspann]
+
+	PUM entry
+	View credits
+[0708:Credits]
+
+	PUM entry
+	Quit
+[0709:Spiel beenden]
+
+	Requester
+	Do you really want to quit?
+[0710:Spiel wirklich beenden?]
+
+	Requester
+	Load which saved game?
+[0711:Welchen Spielstand möchten Sie laden?]
+
+	Requester
+	Save on which position?
+[0712:Welchen Spielstand möchten Sie speichern?]
+
+	Requester
+	Do you really want to overwrite this saved game?
+[0713:Möchten Sie diesen Spielstand wirklich überschreiben?]
+
+	Requester
+	Please enter the name of this saved game?
+[0714:Bitte geben Sie einen Namen für den Spielstand ein:]
+
+	Requester
+	Do you really want to start a new game?
+[0715:Möchten Sie wirklich ein neues Spiel starten?]
+
+	"Button"
+	Empty saved game slot
+[0716:(Leerer Platz)]
+
+	Text window
+	Player tried to load a saved game, but there aren't any saved games
+[0717:Es konnten keine Spielstände gefunden werden!]
+
+	Text window
+	Player tried to save a game, but there wasn't enough room on the hard drive
+[0775:{INK 006}{BIG }{CNTR}Es ist nicht mehr genügend Platz auf dem Datenspeicher vorhanden!]
+
+
+	*** Options ***
+
+	"Button"
+	Music volume
+[0741:Lautstärke der Musik]
+
+	"Button"
+	Sound effect volume
+[0742:Lautstärke der digitalen Effekte]
+
+	"Button"
+	3D window size
+[0743:Größe des 3D-Fensters]
+
+	"Button"
+	Combat detail level
+[0415:Kampfdetailstufe]
+
+	"Button"
+	Combat text delay
+[0416:Textverzögerung Kampf]
+
+
+	*** Special item activation texts ***
+
+	Text window
+	Player activated compass
+[0753:Der Kompass ist jetzt aktiv!]
+
+	Text window
+	Player activated monster eye
+[0754:Das Monsterauge ist jetzt aktiv!]
+
+	Text window
+	Player activated clock
+[0756:Die Uhr ist jetzt aktiv!]
+
+
+	*** Combat effect texts ***
+
+	Permanent text area
+	Combat participant has magically become faster
+	Combat participant name
+[0419:%s ist magisch beschleunigt!]
+
+	Permanent text area
+	Combat participant is no longer faster
+	Combat participant name
+[0737:%s magische Beschleunigung ist vorüber!]
+
+	Permanent text area
+	Combat participant has been frozen
+	Combat participant name
+[0739:%s ist eingefroren!]
+
+	Permanent text area
+	Combat participant is no longer frozen
+	Combat participant name
+[0740:%s ist nicht mehr einfroren!]
+
+	Permanent text area
+	Combat participant has been blinded
+	Combat participant name
+[0627:%s ist geblendet!]
+
+	Permanent text area
+	Combat participant is no longer blind
+	Combat participant name
+[0629:%s ist nicht mehr geblendet!]
+
+	Permanent text area
+	Combat participant has gone berserk
+	Combat participant name
+[0422:%s ist im Berserkerstadium!]
+
+	Permanent text area
+	Combat participant is no longer berserk
+	Combat participant name
+[0738:%s ist nicht mehr im Beserkerstadium!]
+
+
+	*** Condition texts ***
+
+	Permanent text area
+	Character is unconscious
+	Character name
+[0762:{INK 006}{SUBJ}{NAME} ist bewußtlos!]
+
+	Permanent text area
+	Character has been poisoned
+	Character name
+[0763:{INK 006}{SUBJ}{NAME} ist vergiftet!]
+
+	Permanent text area
+	Character is ill
+	Character name
+[0764:{INK 006}{SUBJ}{NAME} ist krank!]
+
+	Permanent text area
+	Character is exhausted
+	Character name
+[0765:{INK 006}{SUBJ}{NAME} ist erschöpft!]
+
+	Permanent text area
+	Character is lamed
+	Character name
+[0766:{INK 006}{SUBJ}{NAME} ist bewegungsunfähig!]
+
+	Permanent text area
+	Character is fleeing
+	Character name
+[0767:{INK 006}{SUBJ}{NAME} ist auf der Flucht!]
+
+	Permanent text area
+	Character is stoned
+	Character name
+[0768:{INK 006}{SUBJ}{NAME} ist berauscht!]
+
+	Permanent text area
+	Character is blind
+	Character name
+[0769:{INK 006}{SUBJ}{NAME} ist blind!]
+
+	Permanent text area
+	Character is panicked
+	Character name
+[0770:{INK 006}{SUBJ}{NAME} ist in Panik!]
+
+	Permanent text area
+	Character is asleep
+	Character name
+[0771:{INK 006}{SUBJ}{NAME} schläft!]
+
+	Permanent text area
+	Character is insane
+	Character name
+[0772:{INK 006}{SUBJ}{NAME} ist verrückt!]
+
+	Permanent text area
+	Character is irritated
+	Character name
+[0773:{INK 006}{SUBJ}{NAME} ist irritiert!]
+
+
+	*** Various messages ***
+
+	On-line help
+	Player tried to heal an unconscious party member in combat
+[0759:{INK 006}Ist zu sehr verletzt!]
+
+	Text window
+	A party member is diseased and feels the consequences
+	Party member name
+[0761:{INK 006}{CNTR}{BIG }{SUBJ}{NAME} ist krank,^^{NORS}und {HE  } spürt, wie {HIS } Körper dauerhaften Schaden nimmt!]
+
+	Text window
+	Game over
+[0417:{INK 006}{CNTR}{BIG }Der Tod beendet die Reise.^^{NORS}Alle Gefährten sind so schwer verletzt, daß sie bewußtlos werden und kurz darauf sterben.]
+
+	On-line help
+	Exit button
+[0421:Bildschirm verlassen]
+
+	Permanent text area
+	Found a goto-point
+[0167:Wegmarkierung gesetzt!]
+
+	Permanent text area
+	Someone in the party is carrying too much
+	Party member name
+[0699:{INK 002}{SUBJ}{NAME} trägt zuviel!]
+
+	Text window
+	A party member was lucky and escaped a trap
+	Party member name
+[0720:{SUBJ}{NAME} hatte Glück und ist der Falle entkommen!]
+
+	On-line help
+	Player tried to select an unconscious party member
+[0127:{INK 006}Ist bewußtlos!]
+
+	Text window
+	The party is getting tired
+[0732:Alle werden müde!]
+
+	Text window
+	The party is exhausted
+[0733:Alle sind nun erschöpft!]
+
+	Text window
+	The party is attacked by a monster
+[0734:{INK 006}{CNTR}{BIG }Ein Angriff!]
+
+	Text window
+	A party member capable of magic has reached the next character level
+	Character name, level, new life-points, new spell-points,
+	 additional training points, attacks per round
+[0748:{INK 002}{CNTR}{BIG }%s hat Stufe %u erreicht!^{NORS}^Lebenspunkte : %u^Spruchpunkte : %u^Zusätzliche Trainingspunkte : %u^Angriffe pro Runde : %u]
+
+	Text window
+	A party member incapable of magic has reached the next character level
+	Character name, level, new life-points, additional training points,
+	 attacks per round
+[0749:{INK 002}{CNTR}{BIG }%s hat Stufe %u erreicht!^{NORS}^Lebenspunkte : %u^Zusätzliche Trainingspunkte : %u^Angriffe pro Runde : %u]
+
+	Text window
+	A party member has reached the maximum character level
+	Character name
+[0750:%s hat die höchste Stufe erreicht!]
+
+
+	*** UNUSED ***
+[0128:]
+[0129:]
+[0758:]
 

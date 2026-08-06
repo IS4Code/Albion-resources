@@ -1,7 +1,7 @@
 ﻿-frei-
 Äste und Wurzeln.
 Ein geflochtener Korb.
-Ein Glasgefäß für Wein und andere Getränke.
+Ein Glasgefäß für Wasser und andere Getränke.
 Ein Faß.
 Ein prächtiges Tierfell.
 Ein Eimer.
@@ -41,7 +41,7 @@ Ein zusammengeklappter Hocker.
 Ein massiver Eßtisch.
 Ein Baumstumpf.
 Zwei gekreuzte Speere.
-Ein großes Faß mit Wasser, Bier oder Wein.
+Ein großes Faß mit fremdartigen Getränken.
 Ein Zapfhahn.
 Eine Bettdecke.
 Ein komfortables und hübsch verziertes Bett.
@@ -124,7 +124,7 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
-{CNTR}Auf dem Schild steht:^{INK 006}Heilerin Rinjap.
+{CNTR}Auf dem Schild steht:^{INK 006}Heilerin Ramina.
 Das ist der Ausgang.
 Seht Ihr denn nicht, daß ich beschäftigt bin? Raus hier!
 Ich habe Klüstern bekommen. Haltet Euch lieber fern von mir, sonst stecke ich Euch noch an. Das ist eine schreckliche Krankheit. Man fühlt sich schlaff, mies und bekommt Pusteln an den Beinen. Es dauert sehr lange, bis das vorüber geht.

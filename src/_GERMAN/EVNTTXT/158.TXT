@@ -1,0 +1,5 @@
+﻿{BLOK000}"Ich bin Kunsthandwerkerin."{WORDKunsthandwerkerin}
+"Togi Din, Fremde."
+"Ja, ich verziere und bemale Tongefäße und andere Gegenstände. Ihr werdet die verschlungenen Formen, die wir so lieben, überall finden."{WORDFormen}
+"Am wichtigsten für uns sind Farben und Symbole. Geschwungene Linien, die symmetrisch wirken, es aber bei genauerem Hinsehen nicht sind, und rätselhafte Formen, die zugleich Ornamente in einem Augenblick und Dämonenfratzen im nächsten Moment sein können. Es hängt alles vom Licht und vom Betrachter ab! Die Größten unserer Kunst können Gegenständen durch ihre Symbole geradezu magische Kräfte verleihen! Solche Gegenstände sind natürlich sehr begehrt." {WORDMagie}{WORDmagische Gegenstände}
+"Es gibt in Vanello und, so glaube ich, auch in Aballon Händler, die manchmal so kostbare Gegenstände anbieten."{WORDVanello}{WORDAballon}

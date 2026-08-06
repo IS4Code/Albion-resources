@@ -1,7 +1,7 @@
 ﻿-frei-
 Äste und Wurzeln.
 Ein geflochtener Korb.
-Ein Glasgefäß für Wein und andere Getränke.
+Ein Glasgefäß für Wasser und andere Getränke.
 Ein Faß.
 Ein prächtiges Tierfell.
 Ein Eimer.
@@ -41,7 +41,7 @@ Ein zusammengeklappter Hocker.
 Ein massiver Eßtisch.
 Ein Baumstumpf.
 Zwei gekreuzte Speere.
-Ein großes Faß mit Wasser, Bier oder Wein.
+Ein großes Faß mit fremdartigen Getränken.
 Ein Zapfhahn.
 Eine Bettdecke.
 Ein komfortables und hübsch verziertes Bett.
@@ -128,8 +128,32 @@ Dieses Faß ist schon ziemlich morsch und wird wohl nicht mehr benutzt.
 Das ist der Ausgang.
 Hier werden kleine Vesper und kalte Speisen zubereitet.
 Die Gruppe hat soeben das Wirtshaus "Zum offenen Zapfhahn" betreten. In der Kneipe ist es schwül und warm und reges Geschwätz der zahlreichen Gäste macht eine normale Unterhaltung fast unmöglich.
-Auf dem Schild steht: {INK 006}Anmeldung zwischen 18 und 24 Uhr.
+{CNTR}Auf dem Schild steht:^{INK 006}Anmeldung.
 {CNTR}Auf dem Schild steht:^{INK 006}Herberge zum Stadtpark^^Übernachtungen mit und^ohne Badezimmerbenutzung.
 Das Schloß ist präzise verarbeitet. Diese Türe muß nicht unbedingt geöffnet werden. Sie dient als Durchgang zwischen der Kneipe und der Pension. Beide Gebäude können aber auch von der Stadt aus erreicht werden.
 Tom mischt sich schon ins Getümmel...
-Ich glaube da hinten ist die Bar!
+Ich glaube, da hinten ist die Bar!
+"Ich mag es nicht, von fremden Menschen angesprochen zu werden. Ich werde weder Eurer Glaubensgemeinschaft beitreten, noch irgendwelche Schriften von Euch erwerben, also stört mich bitte nicht länger."
+"Ich bitte um eine kleine Spende. Habt Ihr ein paar Münzen für mich übrig?"
+{LEAD}{NAME} gibt dem Bettler 0.8 Goldmünzen.^^"Ich danke Euch vielmals!"
+{LEAD}{NAME} gibt dem Bettler 0.8 Goldmünzen.^^"Oh, das ist wirklich großzügig. Zum Dank möchte ich Euch ein kleines Geheimnis anvertrauen:^^Der Wirt bewahrt sein ganzes Geld in der Küche unter einem Handtuch im Regal auf. Natürlich dürft Ihr Euch nicht erwischen lassen! Ihr wißt es nicht von mir..."
+"Schade."
+"Ich rate Euch, Fackeln und ein Seil mitzunehmen, wenn Ihr eine der vielen Höhlen besucht, die es im großen Gebirge gibt. Ich habe mich dort schon einmal verlaufen."
+"Pah - was seid Ihr für aufgeblasene Gestalten? Meint wohl, Ihr könnt mich beeindrucken, wie? Aber da liegt Ihr falsch.^^Beeindrucken lasse ich mich durch andere Leute - vielleicht durch Khunag, wenn er mir eines seiner spektakulären Zauberkunststückchen vorführt. Habt Ihr ihn schon einmal besucht? Ein etwas komischer Kauz. Ein abtrünniger Druide der Kenget Kamulos, glaube ich. Man wird nicht so recht schlau aus ihm. Er wohnt bei Kariah."
+"Wart Ihr schon in unserem Freudenhaus? Das wird von allen Reisenden beiderlei Geschlechts gerne besucht. Vielleicht habt Ihr ja Kariah schon einmal getroffen, sie arbeitet dort. Kariah ist überhaupt sehr freundlich und gesprächig. Das ist nicht immer ganz unproblematisch. Ihr könnt Euch denken, daß die Kundschaft keinen großen Wert darauf legt."
+"Wie die Zeit vergeht - als ich noch so jung war wie Ihr, konnte ich das Leben noch auf eine ganz andere Art und Weise genießen. Aber auch das Alter hat seine Vorzüge. Das werdet Ihr noch merken."
+"Muß eben zum Tisch, laßt mich da mal durch.^^Mhm,Ihr seid nicht von hier, stimmt's? Es treiben sich immer mehr fremde Menschen hier herum. Aber das geht nicht gegen Euch. Mir fällt das nur auf."
+"Ich bin Gato Mork, Behüter der heiligen Rechte und fordere Euch hiermit auf: Spendet 1000 Goldmünzen für einen guten Zweck - oder laßt mein Messer Eure Haut ritzen, herher.^^Im Ernst, ich lese gerade ein Buch über den berühmten Gato Mork, der die Armen unterstützt und über die Reichen wacht. Er hat sein Leben stets für die Gerechtigkeit eingesetzt. Ich finde, das war ein toller Kerl."
+(Hustet) "Ich halte es hier drin kaum aus. Die Luft ist einfach schrecklich. Es stinkt, es ist heiß und so laut, daß man schreien muß, um sich unterhalten zu können. Wenn mich mein Freund nicht immer hierher schleifen würde, dann würde es meiner Lunge noch besser gehen. Aber er ist für sein Leben gern in solchen Kneipen und ich hab' ihn einfach lieb."
+"Möchtet Ihr ein Zimmer zum Übernachten mieten?"
+Vor {LEAD}{NAME} und den Gefährten steht plötzlich ein alter Bekannter aus Jirinaar:^^Es ist Frill, der Geschichtsgelehrte des Rates, der mit seinem Wissen über Bradirs Dolch geholfen hat, den Mordkomplott aufzudecken.
+"Dsarii-ma! Welch' ein Glück, daß ich Euch endlich gefunden habe!"
+"Dsarii-ma, Drirr! Welch' eine Überraschung, Euch wiederzusehen. Warum seid Ihr auf der Suche nach uns?"
+"Ich möchte Euch an einen Ort einladen, wo es ein paar Leute gibt, die sehr an einem Gespräch mit Euch interessiert sind. Mehr möchte ich erst sagen, wenn wir dort sind."
+"Klingt ja sehr geheimnisvoll, verehrter Frill. Aber wir sind gerne dazu bereit, wenn wir dadurch unserem Ziel näherkommen."
+"Oh, dafür kann ich garantieren!"
+"Zuvor müssen wir jedoch versuchen, in einem Streit zu vermitteln, der sich zwischen den Iskai von Srimalinar und einem Keltendorf anbahnt.^Ihr müßt wissen, daß gerade Mellthas und ich ein besonderes Interesse am friedlichen Zusammenleben von Menschen und Iskai haben."^^{INK 001}Sira berichtet, wie sie und Mellthas sich nähergekommen sind, und über die sich anbahnende Konfrontation zwischen Kelten und Iskai.
+"Ich stimme Euch voll und ganz zu, Ihr müßt versuchen, das Schlimmste zu verhindern! Das letzte, was wir brauchen können, ist ein Krieg zwischen unseren Rassen.^^ Ich werde hier im Gasthaus warten, bis Ihr Euer Möglichstes versucht habt. Viel Glück!"
+"Mir etwas versprechen und dann nichts geben, das mag ich gerade!"
+"Hier sind 90 Goldstücke versteckt. Sollen Tom und die anderen zu Dieben werden?"
+"Ihr müßt unbedingt Kariah von Zeit zu Zeit ansprechen. Durch ihren Beruf weiß sie immer tolle Geschichten zu erzählen. Ihr findet sie meistens in ihrem Haus."

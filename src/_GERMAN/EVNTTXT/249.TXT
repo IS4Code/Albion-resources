@@ -1,0 +1,14 @@
+﻿{BLOK000}"Meine Funktion ist es, den 'Rat der Gerechten' zu leiten und zu koordinieren."
+"Da seid Ihr ja! Ich kann es immer noch nicht fassen, aber Ihr habt mit Eurer These leider recht gehabt. Es ist tatsächlich ein Attentat auf mich verübt worden. Ich weiß nicht, wie ich Euch danken soll, Ihr habt mir das Leben gerettet!. Auf jeden Fall wartet eine großzügige Belohnung auf Euch."{WORDBelohnung}{WORDAttentat}{WORDUnstimmigkeiten}{WORDGerüchte} {WORDWarnung}
+"Es geschah mitten in der Nacht, ich hörte Schreie der Wachen, die ich dank Eurer Warnung vor meiner Türe aufgestellt hatte. Hätte ich nicht den dicken Säbel unter meinem Kopfkissen liegen gehabt, hätte ich mich bestimmt nicht rechtzeitig zur Wehr setzen können. So waren meine Angreifer über die heftige Gegenwehr so erstaunt, daß sie die Flucht ergriffen. Sie waren vermummt und ich konnte sie nicht erkennen, aber es ist gut möglich, daß es Gard und Riko waren. Die haben sich seit diesem Vorfall übrigens auch nicht mehr blicken lassen. Das ist natürlich kein Beweis, aber es deutet schon ziemlich konkret auf einen Zusammenhang hin. Jedenfalls möchte ich mich noch vielmals bei Euch für den Tip bedanken. Wäre ich nicht so gut darauf vorbereitet gewesen, würde ich jetzt vielleicht nicht mehr hier stehen! Ich hoffe, daß Ihr zum Dank meine Belohnung annehmt."{WORDBelohnung}{WORDPerron}{WORDWarnung}
+"Ihr habt es Euch wirklich verdient! Nehmt diesen Schlüssel und geht damit in die Schatzkammern des Rathauses von Beloveno. Nehmt Euch alles, was Ihr haben möchtet!"{WORDSchlüssel}
+"Ihr habt den Schlüssel doch schon erhalten? Ich meine es ernst mit meinem Angebot: Nehmt Euch, was Ihr haben möchtet!"{WORDSchlüssel}
+"Der Schlüssel paßt zur Schatzkammer. Die Schatzkammer werdet Ihr ja wohl finden?!"
+"Was erwartet Ihr? Wir müssen zunächst mal für neue Ratsmitglieder sorgen, da nun ja doch fast erwiesen ist, daß Gard und Riko an der Verschwörung beteiligt waren. Momentan kann ich die wichtigsten Angelegenheiten weiterführen und wir werden uns nach neuen Ratsmitgliedern umsehen."
+"Ich denke, die werden sich hier nicht mehr sehen lassen."
+"Perron ist sehr offen und ich weiß, woran ich bei ihm bin. Manchmal reagiert er vielleicht ein bißchen übertrieben, aber das ist nicht so schlimm."
+"So heißt unsere Stadt hier."
+"Das bin ich."
+"Naja, ich bin mir noch nicht sicher, ob da etwas dran ist, aber ich habe gehört, daß dort immer mehr schreckliche Wesen aus der Stätte kommen sollen. Geht dort aber besser nicht hin. Es gibt ein Tabu, das es Menschen untersagt, diesen Ort zu betreten, und außerdem ist das Heiligtum im Besitz der Iskai."
+"Das Rathaus ist das schönste Gebäude in Beloveno. Ihr dürft Euch hier ruhig umschauen, es wird Euch niemand hindern."
+"Ja, vielen Dank nochmal für Euren Hinweis. Habt Ihr schon die Belohnung erhalten?"

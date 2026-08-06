@@ -1,0 +1,4 @@
+﻿{BLOK000}"Ich verkaufe Nahrung und Gewürze aller Art."{WORDNahrung}{WORDGewürze}
+"Dsarii-ma! Mit welchen Köstlichkeiten kann ich Euch dienen?" {BLOK010}"Dsarii-ma. Wir sind an haltbarem Reiseproviant interessiert."
+"Nun, haltbar gemachtes Fleisch und vielerlei Früchte des Waldes."
+"Die Krönung jeder Speise! Für Euch als Reisende sind sie jedoch wohl weniger interessant."

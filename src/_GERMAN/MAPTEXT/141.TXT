@@ -1,7 +1,7 @@
 ﻿-frei-
 Äste und Wurzeln.
 Ein geflochtener Korb.
-Ein Glasgefäß für Wein und andere Getränke.
+Ein Glasgefäß für Wasser und andere Getränke.
 Ein Faß.
 Ein prächtiges Tierfell.
 Ein Eimer.
@@ -41,7 +41,7 @@ Ein zusammengeklappter Hocker.
 Ein massiver Eßtisch.
 Ein Baumstumpf.
 Zwei gekreuzte Speere.
-Ein großes Faß mit Wasser, Bier oder Wein.
+Ein großes Faß mit fremdartigen Getränken.
 Ein Zapfhahn.
 Eine Bettdecke.
 Ein komfortables und hübsch verziertes Bett.
@@ -126,7 +126,7 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 {CNTR}Auf dem Schild ist zu lesen:^^ {INK 006}Makaio, Meister der Heilung
 {CNTR}Hier steht:^^ {INK 006}Torko, Meister des Wissens
-{CNTR}Das Schild besagt:^^ {INK 006}Ouktero, Meister der Lehre
+{CNTR}Das Schild besagt:^^ {INK 006}Ouktero, Meister der Lehre der Druidenmagie
 {CNTR}Auf dem Schild ist zu lesen:^^ {INK 006}Nemos, Meister der Druiden
 {CNTR}Die Inschrift bedeutet:^^ {INK 006}Zu den Hallen der Bücher
 {CNTR}Auf dem Schild steht:^^ {INK 006}Allgemeiner Arbeitsraum
@@ -138,7 +138,43 @@ Platzhalter für weitere Cutmap-Events.
 "Togi Din! Ihr habt doch Bero gerettet, nicht wahr? Eine große Tat!"
 "Togi Din. Dies ist der Arbeitsraum. Bedient Euch nur, wenn Euch etwas für Beros Rettung nützlich erscheint!"
 "Togi Din, Retter Beros! Ha, ha, der Ärmste wird sich noch einige Zeit lang Seitenhiebe wegen seiner fehlgeschlagenen Expedition anhören müssen!"
-"Togi Din. Als ein Schüler Beros fällt es mir schwer, meine Studien zu betreiben, im Gedanken daran daß er jetzt vielleicht gerade mit dem Tode ringt."
-"Togi Din! Ich bin froh, daß ihr meinen Meister Bero wohlbehalten gerettet habt. Meinen Dank dafür!"
-"Togi Din. Ich habe Bero gewarnt, nach XXXX herabzusteigen! So ein Leichtsinn!"
+"Togi Din. Als ein Schüler Beros fällt es mir schwer, meine Studien zu betreiben, im Gedanken daran, daß er jetzt vielleicht gerade mit dem Tode ringt."
+"Togi Din! Ich bin froh, daß Ihr meinen Meister Bero wohlbehalten gerettet habt. Meinen Dank dafür!"
+"Togi Din. Ich habe Bero gewarnt, in den verbotenen Teil herabzusteigen! So ein Leichtsinn!"
 "Togi Din. Verzeiht, ich bin beschäftigt."
+"Willkommen in Arjano, Reisende, der zweitausend|jährigen Schule der Druiden."
+"Togi Din, Nemos. Verzeiht, wenn ich Euch mit meiner Neugierde überfalle, aber Eure Geschichte reicht wirklich schon zweitausend Jahre zurück?"
+"In der Tat. Unsere Aufzeichnungen reichen zurück bis in die Zeit, da uns der große Canto aus dem Land unserer Vorfahren hierher führte."
+"Ist es gestattet, zu fragen, wo das Land der Vorfahren war, und wie die Reise vonstatten ging?"
+"Canto führte die Auserwählten mit der Hilfe Danus durch das Reich der Nebel hierher nach Albion, als das Land der Vorfahren von den Kreuzern zerstört wurde."
+"Doch nun sagt mir bitte, was Euch hierher führt, und warum Ihr mit Bero sprechen wollt."
+"Wir sind um die Beschaffung eines bestimmten Amulettes gebeten worden. Es hieß, Bero wäre derjenige, an den wir uns wenden sollten."
+"Ich verstehe. Nun, leider ist Bero nicht zu sprechen, nicht einmal für mich selbst."
+"Ist er denn krank, oder ist ihm etwas passiert?"
+"Nein. Er ist verschollen."
+"Er hat eine Reise unternommen?"
+"Mitnichten. Er ist noch in diesem Gebäude.^^Ich sehe, ich muß etwas weiter ausholen. Wie schon gesagt, ist dieses Gebäude sehr alt. Es ist kurz nach Eintreffen der Auserwählten begründet worden, und die Göttin Danu hat als Beweis ihrer Gunst gestattet, das Gebäude in der Erde, ihrem Leib, zu errichten.^^Nun gibt es zahllose Teile des Gebäudes, weit mehr Platz, als wir benötigen. Ein großer Teil davon ist versiegelt worden, seit vor fast 400 Jahren eine Auseinander|setzung mit einer Gruppe von Druiden stattfand, die wir die Feuer|anbeter nennen, und aus denen schließlich die Kenget Kamulos hervorgingen. ^^Damals wurde eine erbitterte Auseinander|setzung geführt, die schließlich zum Auszug der Abtrünnigen führte. Zurück blieben Anlagen voller Spuren des Krieges, erfüllt von Verteidigungs|mechanismen und bewohnt von Dämonen.^^ In diesen Teil, genannt Drinno, ist Bero zu unser aller Entsetzen herabgestiegen, um nach einem magischen Artefakt zu suchen."
+"Und nun glaubt Ihr, daß wir die richtigen wären, um nach ihm zu forschen?"
+"Richtig."
+"Wäre es nicht sinnvoller, aus einer gut ausgerüsteten Gruppe von Kriegern aus der Umgebung einen Suchtrupp zusammenzustellen?"
+"Ihr müßt wissen, daß Drinno, der verbotenen Teil, schon seit Jahrhunderten tabu ist. Niemand würde dort hinabgehen.^^Aber Ihr scheint mir Leute, die nicht von unseren Tabus betroffen sind, und von den Iskai habe ich gehört, daß sie furchtlose Krieger sind."
+{INK 001}Tom wirft einen Blick in die Runde.{INK 002}^^"Unsere Weiterreise hängt von diesem Amulett ab. Was sagt Ihr, sollen wir den Job übernehmen?"
+"Jobb? Wenn Ihr meint, ob wir uns dort unten einmal umschauen sollen, ich bin dabei!"
+"Ich werde nicht vor dem ersten Anzeichen der Gefahr zurückweichen. Ich bleibe bei Euch, Tom."
+"Nun, ich würde alle vermeintlichen Gefahren als Aberglauben abtun, wenn ich nicht schon einige seltsame Dinge hier gesehen hätte.^^Erwartet keine Heldentaten von mir, aber ich mache mit."
+"Nun, ich bin froh, daß Ihr zu helfen bereit seid. Ich kann Euch sogar jemanden als Verstärkung zur Verfügung stellen. Wir hatten Mühe, ihn davon abzuhalten, sich allein nach Drinno hinabzustürzen.^^Darf ich vorstellen, der Ziehsohn von Bero, ein junger Druide namens Mellthas. Er ist taubstumm, aber sein Geist ist hell wie die Sonne. Er wird Euch begleiten."
+{INK 001}Mellthas Gesicht zeigt ein gestreßtes Lächeln, als er sich kurz verbeugt und hastig etwas auf einen Zettel kritzelt:{INK 002}^^ "Freue mich! Schnell aufbrechen, bin in großer Sorge!"
+"Bero hat sich gut verproviantiert, bevor er hinabgestiegen ist. Er ist kein Narr. Ich denke, wenn er Schwierigkeiten hat, wird er sich irgendwo verbarrikadieren.^^Es besteht wohl kein Anlaß zu überstürztem Handeln, aber laßt Euch nicht zu lange Zeit.^^Die Druiden Arjanos werden Euch unterstützen, wie sie es vermögen. Ich wünsche Euch Lughs Segen bei der Rettung.^^Solltet Ihr mich sprechen wollen, ich bin in meinem Zimmer im Ostteil dieses Stockwerkes."
+{INK 001}Mellthas schreibt und hält einen Zettel hoch:{INK 002}^^ "Sagt, wenn Ihr zum Abstieg bereit seid. Führe Euch zum Eingang. Bitte Beeilung."
+Entsetzt sehen die Druiden, daß jemand verletzt ist. Sie erteilen erste Hilfe.
+Der Rückweg verläuft einigermaßen problemlos. Bero wird mit großem Hallo und einigen geharnischten Sprüchen von den anderen Druiden ampfangen.^^Man trifft sich im Zimmer Nemos, des Oberhauptes der Druiden.
+"Bero, ich denke, ich kann mir eine Zurechtweisung ersparen. Du weißt, was Du auf's Spiel gesetzt hast."
+"Es war sicherlich ein Fehler, nach Drinno hinabzusteigen. Doch ich bereue lediglich, Mellthas und seine Gefährten durch meine Unbesonnenheit in Gefahr gebracht zu haben.^^Ich möchte allen meinen Rettern nochmals danken."
+"Dem möchte ich mich anschließen. Bero ist zwar oft eine sturköpfige Plage, aber ich bin froh, ihn wieder heil bei uns zu haben.^^^Nun, wie ich verstanden habe, ist es zwischen Mellthas und äh, Sira, zu einem, hm, ungewönlichen Vorfall gekommen?"
+"Wir waren selbst überrascht, Nemos, wie Ihr Euch denken könnt. Wir möchten die Reise gern zusammen fortsetzen."
+{INK 001}Mellthas nickt zustimmend.
+"Nun, warum auch nicht. Ich wünsche Dir, Mellthas, viel Glück.^^Nicht jeder hier in Gratogel hätte Verständnis für eine Verbindung zwischen Mensch und Iskai, und so ist es vielleicht besser, wenn Ihr eine Weile zusammen unterwegs seid."
+"Wo wir gerade über die Weiterreise sprechen: Bero, ich möchte Euch um ein bestimmtes Amulett bitten, dessen Besorgung uns aufgetragen wurde."
+"Selbstverständlich, Tom. Folgt mir bitte in mein Arbeitszimmer."
+"Hier habt ihr das Stärkungsamulett. Es ist das Mindeste, was ich für Euch tun kann.^^Ich wünsche Euch allen, und besonders Euch, Mellthas und Sira, Danus Segen für Eure Reisen."
+{LEAD}{NAME} füllt einen Eimer mit Wasser.

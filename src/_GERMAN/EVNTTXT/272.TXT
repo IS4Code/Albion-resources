@@ -1,0 +1,2 @@
+﻿{BLOK000}"Ich bin Verkäuferin."
+"Skeima Din,^^bestimmt findet Ihr bei mir alles, was Euer Herz begehrt. Von der Fackel bis zum Heiltrank kann ich Euch allerlei anbieten. Solche Spezialitäten wie Ringe könnt Ihr außerdem sonst nirgendwo in Beloveno kaufen."{BLOK010}"Wir würden gerne etwas kaufen."{BLOK011}"Wir würden gerne etwas verkaufen."{WORDBeloveno}

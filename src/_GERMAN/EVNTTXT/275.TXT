@@ -1,0 +1,2 @@
+﻿{BLOK000}"Ich bin die oberste Gelehrte in unserer Gilde."
+"Skeima Din.^^Wenn Ihr möchtet, unterrichte ich Euch in Iskai-Magie."{BLOK010}"Wir möchten gerne Zaubersprüche lernen."{WORDIskai} {WORDRitual}

@@ -1,0 +1,10 @@
+﻿{BLOK000}"Ich mache alle möglichen Metallarbeiten. Aber hauptsächlich bin ich Waffenschmied."{WORDWaffenschmied}
+"Skeima Din, Gerwad ist mein Name. Ich hoffe, es gefällt Euch in Umajo-Kenta."{WORDUmajo-kenta}
+"Skeima Din. Nun, ich habe mich Euch ja schon vorgestellt. Wie Ihr seht, arbeite ich den ganzen Tag mit Metall."{WORDMetall}
+"Ich rede nicht mit Leuten, die mich beklauen wollen!"
+"Waffenschmiede müssen ziemlich hart ran. Ist wirklich keine einfache Arbeit, und den ganzen Tag steht man direkt neben dem Feuer. Dabei verdiene ich mir nicht mal eine goldene Nase."{WORDVerdienst}
+"Nun, ich bekomme zwar einen guten Preis für meine Waren, aber der Gewinn ist nicht besonders hoch, denn die Bergleute verlangen immer höhere Preise für das Metallerz."{BLOK010}"Können Sie das denn so einfach?"{BLOK011}"Dann holt Euch Euer Erz doch selbst."
+"Ja, leider können sie das, denn niemand außer den Bergpriestern beherrscht das Ritual und kann Erz abbauen. Ich komme trotzdem noch ganz gut über die Runden. Nebenher repariere ich noch Waffen."{WORDRitual}{WORDBergleute}{WORDReparaturen}
+"Das ist nicht so einfach. Wer das Ritual nicht kennt, der darf kein Erz abbauen, denn sonst kommt Unglück über ihn. Mutter Erde ist in dieser Beziehung sehr streng."{WORDRitual}{WORDMutter}{WORDUnglück}
+"{UNKN}???^^Was um alles in der Welt ist denn jetzt schon wieder {UNKN}?
+"Wenn Ihr möchtet, könnt Ihr gerne meine Dienste in Anspruch nehmen. Die meisten Sachen sind danach fast wie neu."{BLOK010}"Könnt Ihr uns etwas reparieren?"

@@ -1,0 +1,5 @@
+﻿{BLOK000}"Ich bin König von Vanello".{WORDKönig}{WORDVanello}
+"Togi Din, Reisende. Ihr möchtet mich sprechen?" {BLOK010}"Wir sind auf der Suche nach einem großen Metallkörper, der vom Himmel kam. Habt Ihr von etwas von einem solchen Ereignis gehört?"
+"Nein, ich muß Euch enttäuschen. Von einer derartigen Begebenheit auf Gratogel hätte ich bestimmt erfahren."{WORDGratogel}
+"Togi Din. Was kann ich sonst noch für Euch tun?"
+"Ja, ich bin das Oberhaupt der Menschen von Vanello."

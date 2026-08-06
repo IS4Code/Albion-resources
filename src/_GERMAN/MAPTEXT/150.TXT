@@ -1,12 +1,12 @@
 ﻿!
-Beim Betreten der Bodenplatte vor der Tür leuchtet diese auf. Gleichzeitig öffnet sich die TÜr.
+Beim Betreten der Bodenplatte vor der Tür leuchtet diese auf. Gleichzeitig öffnet sich die Tür.
 Bodenplatte leuchtet auf.
 Hier befindet sich eine Bodenplatte mit einer transparenten Leuchtfläche.
 Nachdem diese Bodenplatte aufleuchtet, öffnet sich im "Westen" des Raumes die Tür.
 Ein Schalter.
 Die Stellung des Schalters ändert sich beim nochmaligen Drücken nicht mehr.
 Die Tür versucht sich zu schließen, bleibt aber offen. Offenbar hat ein Sensor bemerkt, daß noch jemand in der Tür steht.
-An der "nördlichen" Wand befindet sich ein Wandschrank.
+An der nördlichen Wand befindet sich ein Wandschrank.
 Der Wandschrank ist leer, bereit zur Aufnahme von Gegenständen.
 Ein Wandschrank.
 Das Geräusch kam von rechts, aus einiger Entfernung.
@@ -24,6 +24,6 @@ Die Zahlenkombination war offenbar korrekt: Die Tür neben der Tastatur hat sich
 Nichts passiert.
 Yeah! Made it!
 Eine Leiter. Sie führt nach oben.
-Das rhytmische Blinken der Bodeplatte deutet wohl auf eine besondere Funktion hin.
-Eine defekte Leuchtstoffr"hre.
+Das rhythmische Blinken der Bodenplatte deutet wohl auf eine besondere Funktion hin.
+Eine defekte Leuchtstoffröhre.
 {INK 001}Tom deponiert die Waffe in dem Wandschrank.{INK 002}^^ "So. Wenn ich jetzt von der anderen Seite dieser Schleuse hier wieder an den Schrank drankomme, hab' ich die Secus gelinkt und die Waffe gehört mir!"

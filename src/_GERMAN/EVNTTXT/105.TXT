@@ -1,0 +1,7 @@
+﻿{BLOK000}"Ich bin einer der Jäger dieses Clans.{WORDJäger}{WORDClan}"
+"Dsarii-ma, Gäste des Hauses. Wie ich sehe, hat Giria Euch wieder in die Senkrechte bekommen.{WORDGiria}" {BLOK010}"Dsarii-ma. Sagt bitte, was ist der Zweck dieses Teil des Hauses?"
+"Dies hier ist der Ruhebereich des Hauses. Ich werde hier wohl noch einige Zeit zubringen, denn ich bin bei einer Jagd verletzt worden.{WORDJagd}"
+"Dsarii-ma. Was kann ich noch für Euch tun?"
+"Giria versorgt die Verwundeten unseres Clans, so wie sie Euch geholfen hat. Sie ist eine wunderbare Frau, aber recht leicht zu beleidigen, nehmt Euch in acht.{WORDClan}"
+"Ja, wir waren unserer Beute dicht auf den Fersen, es war im nordwestlichen Teil Nakiridaanis, als ich auf eine Gruppe Krondir stieß. Bis mir die anderen zur Hilfe eilten, hatten mich die Krondir schon ganz nett angeknabbert.{WORDNakiridaani}{WORDKrondir}"
+"Die Krondir sind gefährliche Raubtiere von riesiger Gestalt. Sie sind als Gegner gefürchtet, die Weibchen gelten als besonders wild. Sie tragen eine Trii-ähnliche Struktur in ihrem Stirnhorn, das als Schmuckstück sehr beliebt ist.^^Aber wenn Ihr Euch für die Jagd interessiert, solltet Ihr ein Wort mit Krinn, dem Stri der Jagd wechseln. Ihr erkennt ihn an seinem graubraunen Fell."{WORDTrii}{WORDStri}

@@ -156,6 +156,18 @@ Aus dem angestrebten Gespräch wird nichts, {LEAD}{NAME}'s Gesprächs|partner is
 "Dsarii-ma. Entschuldigt mich, ich habe noch Arbeit zu erledigen."
 "Dsarii-ma, Besucher. Ich bin ganz neu hier, jemand anderes kann Euch sicher besser Auskunft geben."
 "Dsarii-ma. Habe leider wenig Zeit, verehrte Besucher. Der Brunnen in unserem letzten Gebäude macht schon wieder Schwierig|keiten. Wäre ich bloß Jäger geworden!"
-"Dsarii-ma, Gäste des Gildenhauses. Ich hoffe, unsere Kunst gefällt Euch und ihr berichtet davon in Eurer fernen Heimat!"
+"Dsarii-ma, Gäste des Gildenhauses. Ich hoffe, unsere Kunst gefällt Euch und Ihr berichtet davon in Eurer fernen Heimat!"
 "Dsarii-ma. Ich bin erst vor kurzem in die Gilde aufgenommen worden. Ist dies nicht ein herrliches Gebäude?"
 Diese Tür führt nach draußen.
+Die Tür ist verriegelt.
+"Hier seht ihr ein Becken, in dem wir die Abwässer eines Hauses, eingeleitet durch Rohrsysteme im Boden, sammeln. Die Pflanzen darin reinigen das Wasser, bevor es durch ein unterirdisches Kanalsystem dem Fluß zurückgegeben wird."
+"Dies ist eine Toilette, gebildet aus einer riesigen Pflanze. Die Pflanze verarbeitet die Fäkalien schnell und fast ohne Geruchs|belästigung. Man muß nur darauf achten, daß sie bei der regelmäßigen Düngung nicht zu groß wird."
+"Sehr beliebt bei größeren Familien sind diese Sitzmöbel. Auch sie bestehen aus lebendem Pflanzengewebe.^^Die Oberfläche ist weich und elastisch und wenn sie beschädigt wird, wächst die betroffene Stelle von selbst wieder zu."
+"Wenn Ihr möchtet, könnt ihr Euch gern noch den Brunnen des Hauses anschauen, ein begehrtes Objekt in größeren Clanhäusern. Ihr findet ihn im Südteil des Gebäudes. Ich lasse Euch nun alleine unser Gildenhaus erforschen."
+"Vielen Dank für Eure Führung, Aliis. Ihr habt sicher Verständnis dafür, daß wir Euch keines der Werke Eurer Gilde abkaufen können."
+"Hir, hir! Ja, das kann ich mir vorstellen!^^Vielleicht solltet Ihr jedoch ein paar Worte mit Akiir, unserem Oberhaupt, oder Bradir, seinem Stellvertreter, wechseln.^^Ihr findet sie im Nordteil des Gebäudes.^^Lebt wohl!"
+!
+Verletzt sinkt Bradir nach dem Kampf in die Knie. Der Schmerz vertreibt den wirren Ausdruck von seinem Gesicht und seine Augen werden wieder klar.
+"Wir müssen ihn schnell zur Heilerin bringen, sonst erfahren wir nie, warum er uns angegriffen hat!"
+Schnell wird Bradir zur Heilerin transportiert.^^Sobald er versorgt ist, gibt es im Ratsgebäude eine Versammlung im Raum der Sebainah, bei der Bradir sein Verhalten erklären soll.^^ Neben Tom, Rainer und Drirr ist auch Sira als Tochter des Ermordeten Akiirs herbeigerufen worden.
+{CNTR}Auf dem Schild steht:{INK 006}^^Norden: Leitung der Gilde^Osten: Demonstrationsflügel^Süden: Brunnenbereich^Westen: Lehrbereich

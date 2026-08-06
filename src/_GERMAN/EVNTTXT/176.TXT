@@ -1,0 +1,5 @@
+﻿{BLOK000}"Ich bin der Leiter der Bibliothek Arjanos."{WORDBibliothek} {WORDArjano}
+"Togi Din. Willkommen in der Bibliothek Arjanos. Haltet bitte Eure Stimme gesenkt, um die Studierenden nicht abzulenken."{WORDBibliothek}{WORDArjano} {WORDSpruchrollen} {BLOK010}"Habt Ihr vielleicht Aufzeichnungen zum Thema Magie zu verkaufen?"
+"Hier ist das Wissen vieler Jahrhunderte versammelt. Seit vor 400 Jahren die Kunst des Buchdruckes erfunden wurde, benötigt die Bibliothek nicht mehr so viel Platz wie in den alten Zeiten. Die Pergamentrollen müssen enormen Platz eingenommen haben. Wie dem auch sei, alles hier sind Bücher über die Magie, philosophische Gedanken oder Lehrmaterial für Kinder und Novizen. Ihr werdet für Euch nicht viel Interessantes finden, fürchte ich."
+"Nun, ich hätte hier in der Tat einige Spruchrollen, die interessant für Euch sein könnten."
+"Spruchrollen erlauben es auch dem für die Magie Unbegabten, einen Zauber auszuführen.^^Wird eine solche Spruchrolle jedoch von jemandem gelesen, der etwas von der Art der Magie versteht, um die es sich handelt, kann der- oder diejenige den Spruch dauerhaft lernen und anwenden."

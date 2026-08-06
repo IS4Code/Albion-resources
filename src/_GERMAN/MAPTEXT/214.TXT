@@ -1,44 +1,44 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿-frei-
+Gräser.
+Steine.
+Niedrige Bodengewächse.
+Kleine Äste und Wurzeln.
+Schilfgräser.
+Ein kleiner Obstbaum.
+Ein Kugelbaum.
+Ein Laubbaum.
+Eine Stromschnelle.
+Ein Wasserstrudel.
+Eine Wasserpflanze.
+Das Wasser ist sehr tief und die Strömung scheint stark zu sein.
+Wasserpflanzentriebe.
+Eine blühende Pflanze.
+Ein Schirmbaum.
+Diese Pflanze leuchtet in faszinierenden Farbtönen.
+Gemüse.
+Ein Felsblock.
+An dieser Stelle ist das Wasser sehr flach und klar, so daß man auf den Grund schauen kann. Zahlreiche Steinbrocken liegen dort und es gibt fast keine Strömung.
+Ein Obstbaum.
+Ein Zaun.
+Eine Stengelpflanze.
+Eine Schlinggraspflanze.
+Ein Busch.
+Eine großblättrige Pflanze.
+Ein Wasserfall.
+Ein Felsvorsprung.
+Eine Pflanze, die auf den Felsen wächst.
+Diese Schlingpflanze hat sich mit Tausen|den von Wur|zeln in der unregel|mäßigen Fels|struk|tur ver|ankert. Sie macht einen sehr sta|bilen Ein|druck und durch ihre mannig|fal|tige Ver|äste|lungen bie|tet sie zahl|reiche Möglich|kei|ten, an denen man sich fest|hal|ten kann.
+Eine Holzbrücke.
+Getreidefelder.
+Pilze.
+Eine Urkeltenhütte.
+Ein Eingang in eine Urkeltenhütte.
+Ein Zaun, der das Tiergehege abgrenzt.
+Ein Tor im Gatter.
+Eine Stadtmauer.
+Ein Tor in der Stadtmauer.
+Ein verschlossener Höhleneingang.
+Ein offener Höhleneingang.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
@@ -47,64 +47,64 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-frei-
+210
+211
+212
+213
+214
+215
+216
+217
+218
+219
+220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269

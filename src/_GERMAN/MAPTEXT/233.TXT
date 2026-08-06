@@ -1,192 +1,192 @@
-﻿
-
-
-
-
-
-
-
-
+﻿-frei-
+Äste und Wurzeln.
+Ein geflochtener Korb.
+Ein Glasgefäß für Wasser und andere Getränke.
+Ein Faß.
+Ein prächtiges Tierfell.
+Ein Eimer.
+Eine Tonschale.
+Ein Trinkhorn.
 Ein Teller.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Ein Tonkrug.
+Ein Krug.
+Ein Tischmesser.
+Eine Gabel.
+Ein Löffel.
+Ein Tonbehälter.
+Steine.
+Eine Schale.
+Ein Ackergerät.
+Eine Axt.
+Ein Kistendeckel.
+Eine Holzkiste.
+Eine kunstvoll beschlagene Holzkiste.
+Das stille Örtchen.
+Ein Deckel.
+Ein großer Holzbottich.
+Ein großer Metallkessel.
+Ein Regal.
+In diesem Regal ist allerhand unwichtiges Zeug zu sehen.
+Eine Kommode.
+Ein Besen.
+Ein Bratrost.
+Darauf kann man Fleisch braten.
+Eine Feuerstelle.
+Eine umgefallene Karaffe.
+Ein Kochlöffel.
+Ein dekoratives Wandschwert.
+Ein Holztisch.
+Ein Hocker.
+Ein zusammengeklappter Hocker.
+Ein massiver Eßtisch.
+Ein Baumstumpf.
+Zwei gekreuzte Speere.
+Ein großes Faß mit fremdartigen Getränken.
+Ein Zapfhahn.
+Eine Bettdecke.
+Ein komfortables und hübsch verziertes Bett.
+Dieses Bett ist schlicht aber zweck|mäßig.
+Eine Anrichte.
+Ein Kamin.
+Das Kaminfeuer strahlt eine angenehme Wärme ab.
+Ein kunstvoll angefertigter Topf.
+Getrocknete Kräuter.
+Ein menschlicher Schädel.
+Ein Schmuckschild.
+Ein Metalltopf.
+Ein Zierschwert.
+Eine Türe.
+Ein Kessel.
+Ein Messer.
+Ein Kurzdolch.
+Ein Dolch.
+Ein großer Dolch.
+Ein Kurzschwert.
+Ein Schwert.
+Ein Stich.
+Ein Wurfdolch.
+Eine kleine Axt.
+Eine Axt.
+Ein kleiner Bogen.
+Ein Bogen.
+Ein Pfeil.
+Ein kleiner Lederschild.
+Ein Lederschild.
+Ein Rundschild.
+Ein großer Schild.
+Eine Lederkappe.
+Eine beschlagene Kappe.
+Eine Metallhalbschale.
+Eine Lederweste.
+Eine Lederrüstung.
+Ein beschlagenes Leder.
+Ein Paar Schuhe.
+Ein Paar Stiefel.
+Eine leere Flasche.
+Ein grüner Heiltrank.
+Ein türkisener Heiltrank.
+Ein blauer Heiltrank.
+Ein Schlüssel.
+Ein Seil.
+Ein Ring.
+Eine Fackel.
+Ein flacher Hammer.
+Eine Treppe. Sie führt nach oben.
+Eine Treppe. Sie führt nach unten.
+Eine Theke.
+Eine teppichartige Matte.
+Eine Zimmerpflanze.
+Ein Blumentopf.
+Ein kunstvoll gefertigtes, in den Boden eingelassenes Ornament.
+Ein kunstvoll gefertigtes, in den Boden eingelassenes Ornament, auf dem ein großer Kristall steht.
+Ein Metalltisch.
+Ein Amboß.
+Ein Metallschild.
+Eine Metalltruhe.
+Eine Esse zum Schmieden.
+Ein Wandbehang.
+Ein leeres Kissen. Es ist ein sehr schönes Exemplar, das man normalerweise für Auslagen verwendet.
+Einige wertvolle Schmuckstücke.
+Ausstelltafeln mit Waffen und Schilder.
+Eine leere Ausstelltafel.
+Eine Feuerschale.
+Eine erloschene Feuerschale.
+Ein loser Hebel.
+Ein Hebel.
+Eine Wasserstelle.
+Ein Hammer.
+Ein kleiner Hammer.
+Ein flacher Hammer.
+Ein Spezialhammer.
 Eine Zange.
-
-
-
+Eine Feile.
+Eine kleine Feile.
+Ein Durchstich.
 Ein Schraubenzieher.
-
-
-
+Ein kleiner Schraubenzieher.
+Eine Metallsäge.
+Ein feines Werkzeug.
 Ein Becher.
 Ein Schraubenschlüssel.
-
-
-
+Eine Schere.
+Eine Schale.
+Eine feine Schere.
 Eine Flasche.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Mehrere Flaschen.
+Eine Phiole.
+Eine rote Phiole.
+Ein Metallkästchen.
+Ein Metallgebilde.
+Ein Drahtgebilde.
+Eine Metallschale.
+Messingkugeln.
+Eine Schale mit Wasser.
+Eine Schale.
+Ein Mörser.
+Ein Vergrößerungsglas.
+Eine Pinzette.
+Ein schweres Kurzschwert.
+Ein verziertes Schwert.
+Ein Zweistich.
+Ein Langschwert.
+Ein Ausstellungsschrank.
+Regale mit wertvollen Metall|schmiede|arbeiten, Schmuck und Edel|steinen.
+Eine Lore.
+Schienen.
+Ein Prellbock.
+Ein Stuhl.
+Eine Diamantenschleifmaschine.
+Der Ausgang.
+Ein Eingang in die Stollen.
+"Bisher bin ich jedesmal ertappt worden. Ich habe rechts eine Nische gesehen. Ich werde versuchen, mich dort zu verstecken."
+"Meine Güte, immer dieser Staub in den Lungen. Das ist wirklich fürchterlich, wenn man lange Zeit unter Tage arbeitet. Ich sollte mir irgend etwas vor die Nase binden, wenn ich in die Stollen hinabsteige - andererseits kann ich dann nicht vernünftig atmen.^^Wir leben wirklich nicht gesund, und dann beschweren sich noch alle möglichen Leute, daß wir Erze und Edelsteine zu teuer verkaufen würden."
+"Ich reinige die Wasch- und Baderäume für unsere Bergleute."
+"Skeima Din, Bekkina ist mein Name.^^Ihr macht einen Besuch hier?^^Ja schön, schaut Euch ruhig um. Vielleicht trefft Ihr auch meinen Mann. Er ist Bergpriester und hat deshalb immer viel tun. Er hat ja auch nur einen Kollegen und kann sich nicht viele Pausen leisten.^^Es geht hart zu bei uns. Die Gerüchte, daß wir zu viel Gold verlangen, sind völlig übertrieben. Hier bekommt keiner etwas geschenkt."
+"Ich bin ein wenig müde - mußte gestern leider den ganzen Tag durcharbeiten. Bitte entschuldigt mich."
+"Habt Ihr Zebenno hier gesehen? Er fällt mir fürchterlich auf die Nerven. Ständig jammert er über unsere Preise. Er hat wohl wirklich nichts Besseres zu tun. Na gut, ich werde ihn schon finden.^^Euch noch einen schönen Tag."
+"Erstaunlich, normalerweise verirrt sich ganz selten Besuch in meine Küche. Aber willkommen, ich bin Rekkejos und arbeite hier als Koch."
+"Fleischsuppe mit Klößchen."
+"Fischstückchen in Kräutersauce."
+"Gemüseauflauf mit Sugo."
+"Frisches Grödgebäck und Gemüsebrei."
+"Gebackene Akarven und dazu gibt's leckere Gehlhupfen."
+"Heute mache ich quergelegten Rippenfisch mit Doppelblattkräutern."
+"Ich bin noch etwas unschlüssig - wahrscheinlich werde ich mal wieder einen großen Haustopf machen."
+"Früchteauflauf mit Ziegensauce."
+"Beerenküchle mit Fleischsauce."
+"Bratwürste und dazu Baumsalat."
+"Heute gibt es kalte Platte."
+"Mir fällt nichts mehr ein? Was soll ich heute nur kochen?"
+"Skeima Din. Ich helfe Rekkejos beim Kochen. Er muß immer sehr viel machen, weil ja alle Bergleute und Bergpriester hier essen. Ihr glaubt gar nicht, in was für Kochorgien das immer ausartet. Mein Meister ist nämlich ein richtiger Feinschmecker."
+"Skeima Din, wenn Ihr hier Besucher seid, kann ich Euch eine Über|nach|tungs|mög|lich|keit anbieten."
+"Habt Ihr schon vom großen 'Stein der 1000 Visionen' gehört? Mykonou, der alte Diamantschleifer hat mir einmal davon erzählt. Ich muß zugeben, das hat sich sehr spannend angehört."
+"Hallo! Bei Euch sagt man doch Hallo, oder?"
+"Ich spiele gerade. Wollt Ihr mitmachen?"
+"Hihi, was habt Ihr denn für komische Anzüge an?"
+"Weißt Du mein Kleiner, wenn Du einmal größer bist, wird Deine Mami Dir das erklären. Wir kommen nicht von hier und da, wo wir herkommen, ist das ganz normale Bekleidung."
+"Bähhhhhh - ich habe Durst."
+"Möchtet Ihr wissen, was es heute zu Essen gibt?"
+"Ich glaube, es ist besser, wenn ich da alleine reingehe. Die Bergleute haben uns sowieso verboten, den Stollen zu betreten. Alleine habe ich bestimmt eine Chance, mich gut zu verstecken."
+"Ich habe das geheime Wort der Zeremonie herausgefunden. Ich hoffe, es ist das richtige."
+Eine Metallkanne.
+"Möchtet Ihr hier eine Nacht verbringen?"

@@ -1,0 +1,7 @@
+﻿{BLOK000}"Ich bin die Königin von Aballon."{WORDAballon}
+"Togi Din, Besucher Aballons. Willkommen im Obstgarten Gratogels." {BLOK010}"Wir sind auf der Suche nach einem großen Metallkörper, der vom Himmel kam. Habt Ihr von etwas von einem solchen Ereignis gehört?" {WORDAballon}{WORDGratogel}
+"Ihr sprecht im Ernst? Nein, niemand hat mir von solch einem Wunder berichtet."
+"Togi Din. Was wünscht Ihr von mir?"
+"Hier wachsen die schönsten Früchte Gratogels. Danu und Lugh lieben unser Land wohl genauso sehr wie ich, und so haben wir Jahr um Jahr gute Ernten." {WORDDanu}{WORDLugh}
+"Wie ich schon sagte, wir sind stolz darauf, daß hier die schönsten Früchte Gratogels wachsen. Danu und Lugh lieben unser Land wohl genauso sehr wie ich, und so haben wir Jahr um Jahr gute Ernten."{WORDDanu}{WORDLugh}
+"Ihr steht vor der rechtmäßigen Königin von Aballon.{WORDAballon}"

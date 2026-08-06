@@ -1,7 +1,7 @@
 ﻿-frei-
 Äste und Wurzeln.
 Ein geflochtener Korb.
-Ein Glasgefäß für Wein und andere Getränke.
+Ein Glasgefäß für Wasser und andere Getränke.
 Ein Faß.
 Ein prächtiges Tierfell.
 Ein Eimer.
@@ -41,7 +41,7 @@ Ein zusammengeklappter Hocker.
 Ein massiver Eßtisch.
 Ein Baumstumpf.
 Zwei gekreuzte Speere.
-Ein großes Faß mit Wasser, Bier oder Wein.
+Ein großes Faß mit fremdartigen Getränken.
 Ein Zapfhahn.
 Eine Bettdecke.
 Ein komfortables und hübsch verziertes Bett.
@@ -124,3 +124,11 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
+"Was wollt Ihr hier?^^Wenn Ihr nach Beloveno reisen wollt, dann geht nach Süden. Wollt Ihr nach Srimalinar, geht nach Norden."
+"Habt Ihr schon mit Kontos gesprochen? Er ist der mächtige Anführer in unserem Dorf. Er ist sehr intelligent. Von ihm könnt Ihr was lernen!^^Im Keller unseres mächtigen Führers gibt es einen großen Raum, in dem wir regelmäßig Versammlungen abhalten. Dort experimentiert Kontos auch mit Feuermagie. Er ist ein hervorragender Magier. Seine Versuchsbereiche sind aber abgesichert."
+"Skeima Din,^^bestimmt habt Ihr etwas dabei, daß ich Euch für gutes Gold abkaufen kann. Ich lebe davon. Ich kaufe den Leuten Gegenstände ab und verkaufe sie wieder. Man kann gut davon leben. Ziemlich gut - ich bin nicht arm..."
+"Tut mir nichts, sonst rufe ich meinen großen Bruder!"
+"Skeima Din,^^wart Ihr schon bei Kontos, unserem großen Anführer? Er kann alle Eure Probleme lösen, vorausgesetzt, daß er für Euch Zeit hat."
+"Wißt Ihr schon das Neuste? Es ist jetzt erwiesen, daß im Heiligtum von Srimalinar nach schwarzer Magie geforscht wird. Der Verdacht besteht ja schon lange, aber nun haben wir auch handfeste Beweise. Die Iskai sind also tatsächlich bestrebt, die Weltherrschaft zu erlangen. Diese Biester!^^ Klammheimlich forschen sie schon viele Jahre nach mächtigen Wunderwaffen. Die schrecklichen Kreaturen, die man immer häufiger in der Nähe des Heiligtums antrifft, sind der beste Beweis dafür. Sie zeigen an, daß große, dunkle Magie an diesem Ort angewendet und ausprobiert wird. Kontos hat ganz recht. Unsere einzige Chance ist es jetzt, Stärke zu zeigen und Schlimmeres zu verhindern. Die Einwohner von Beloveno glauben zwar nicht, daß wir recht haben. Aber wenn wir solange warten würden, bis sie sehen, daß wir recht haben, dann ist es zu spät. Also werden wir tun, was getan werden muß!^^Achja, wenn Ihr mir nicht glaubt, dann besucht diese verrückten Iskai doch einmal selbst und überzeugt Euch davon. Ich garantiere Euch: Sie werden Euch nicht in ihr ominöses Heiligtum hereinlassen, weil dann nämlich jeder sehen würde, was dort vor sich geht. So arbeiten sie unter dem Deckmantel eines Tabus und führen die Welt an der Nase herum. Wir werden darauf nicht hereinfallen! Mögen sie die anderen einlullen!"
+"Der Zeitpunkt ist gekommen. Wir werden nun der Iskai-Magie ein Ende bereiten und Ihr angebliches Heiligtum besetzen. Dann werden wir auch das Problem mit den Wesen in den Griff bekommen, die von den Iskai ständig gerufen werden. Jetzt ist der genau der richtige Zeitpunkt dazu. Wenn wir länger warten würden, wäre es womöglich zu spät. Also unterstützt unser Vorhaben und kämpft mit uns auf der Seite von Kontos gegen das Böse und gegen die Iskai. Wir werden jetzt auch zum Heiligtum ziehen. Wir müssen die Iskai besiegen und gegen das Böse an diesem Ort vorgehen. Kommt doch mit und helft uns!"
+"Habt Ihr etwas zu verkaufen?"

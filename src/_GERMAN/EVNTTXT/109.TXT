@@ -1,0 +1,12 @@
+﻿{BLOK000}"Mein Name ist Krinn, ich bin der Stri der Jagd im Südwind-Clan und somit für die Aus|bildung der jungen Jäger verantwortlich." {WORDJagd}{WORDAusbildung}{WORDStri}
+"Dsarii-ma, Gäste des Hauses."
+"Dsarii-ma, Besucher. Möchtet Ihr noch etwas von mir wissen?"
+"Die meisten unserer Clanmitglieder befinden sich ständig auf der Jagd nach wilden Weidetieren oder Raubtieren, wie dem Krondir oder dem Warniak. Ich selbst nehme schon seit drei Jahren nicht mehr daran teil, ich bin zu alt dafür. Bedenkt, daß ich schon das acht|unddreißigste Jahr erreicht habe. Der Clan hat mir vor kurzem angeboten, mich beim Rat zum Sebai-Ritual vorzu|schlagen. Es hat mich sehr geehrt, aber ich habe abgelehnt." {WORDRat}{WORDSebai}{WORDClan}{WORDWarniak}{WORDKrondir} {BLOK010}"Ihr würdet das Ritual ablehnen, Krinn? Darf man fragen, warum?"
+"Es ist eine Frage der persönlichen Einstellung. Es wird allgemein angenommen, daß ein Neuge|borenes über keine eigene Persön|lichkeit verfügt. Mir würde es trotzdem so vorkommen, als ob ich ein Leben einnehmen, ja auslöschen würde.^ Abgesehen davon: Ich hatte ein erfülltes Leben und fürchte das Ende nicht."
+"Wie ich Euch erläutert habe, bleibe ich aus Gründen des Alters lieber in diesem schönen Haus."{WORDHaus}
+"Aufgrund meiner langen Erfahrung bringe ich den jungen Jägern alles bei, was sie zum Überleben und zur erfolgreichen Jagd wissen müssen, bis hin zur Jagd auf Raubtiere, wie Krondir und Warniak."{WORDKrondir}{WORDWarniak}
+"Wie Ihr bereits wißt, bringe ich den jungen Jägern alles bei, was sie zum Überleben und zur erfolgreichen Jagd wissen müssen."
+"Ach ja: Auch ich habe von dem Mord an Akiir gehört. Viel Glück bei Eurer Jagd!"
+"Lebt wohl."
+"Das Warniak ist ein riesiges, geflügeltes Knochentier. Es hat einen gefürchteten Giftstachel am Hinterleib, das Gift kann bis zur Lähmung führen oder den Getroffenen in den Wahnsinn treiben.^^Trotzdem wird manchmal Jagd auf Warniaks gemacht, denn ihr Körper enthält einen kugelförmigen Mineralvorrat, der für heilende Medizin gebraucht wird. Die Händler zahlen hohe Preise für die Warniak-Kugeln!"
+"Ein Krondir ist ein riesiges Raubtier, das vornehmlich auf zwei Beinen läuft. Es hat große Kraft und ist ein fürchterlicher Gegner. Zum Glück sind die Krondir meist Einzelgänger.^^Ihr Fleisch ist fast ungenießbar und wird höchstens als Köder für andere Raubkreaturen zu gebrauchen sein. Die Krondir tragen jedoch eine Struktur, ähnlich unserem Trii, auf ihrem Stirnhorn, das als Schmuckstück sehr begehrt ist. Man erzielt gute Preise dafür."{WORDTrii}

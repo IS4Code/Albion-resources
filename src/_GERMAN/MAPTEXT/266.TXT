@@ -1,7 +1,7 @@
 ﻿-frei-
 Äste und Wurzeln.
 Ein geflochtener Korb.
-Ein Glasgefäß für Wein und andere Getränke.
+Ein Glasgefäß für Wasser und andere Getränke.
 Ein Faß.
 Ein prächtiges Tierfell.
 Ein Eimer.
@@ -41,7 +41,7 @@ Ein zusammengeklappter Hocker.
 Ein massiver Eßtisch.
 Ein Baumstumpf.
 Zwei gekreuzte Speere.
-Ein großes Faß mit Wasser, Bier oder Wein.
+Ein großes Faß mit fremdartigen Getränken.
 Ein Zapfhahn.
 Eine Bettdecke.
 Ein komfortables und hübsch verziertes Bett.
@@ -125,3 +125,8 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Das ist der Ausgang.
+"Wundert Euch nicht über diese Schädel, die bei uns überall an der Wand hängen. Sie sind zwar nicht mehr ganz zeitgemäß, aber es sind für uns doch wertvolle Erbstücke von unseren Vorfahren. Man hängt eben an Traditionen."
+"Skeima Din.^^Was schaut Ihr denn so? Ach so, also 'Skeima Din' ist bei uns eine gängige Begrüßungsformel. Sie heißt in Eurer Sprache ungefähr 'Was für ein schöner Tag'. Wäre schön, wenn Ihr den Gruß auch verwendet.^^Wie Ihr seht, leben wir in bescheidenen Verhältnissen. Aber was bedeutet schon Gold und Reichtum; Wichtiger ist doch, ein zufriedenes Leben zu führen."
+"Mami und Papi sind Zuhause. Ich habe kein Geld und darf nichts unterzeichnen. Ihr müßt sie schon selbst ansprechen."
+"Was nützt einem die Weisheit im Alter, wenn sie niemand haben möchte? Die Jungen interessieren sich nicht mehr genügend für die alten Traditionen."
+"Möchtet Ihr ein Lied hören? Ich habe es gestern gelernt, aber den Text vergesse ich immer wieder. Aber wenn ich groß bin, werde ich Musik machen."

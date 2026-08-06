@@ -1,0 +1,7 @@
+﻿{BLOK000}"Ich bin der Kneipenwirt hier. Habt Ihr schon meinen Sugo probiert? Der ist wirklich gut, Leute."{WORDSugo}
+"Willkommen im 'großen Faß'. Ihr seid fremd hier in der Stadt. Naja, vielleicht werdet Ihr trotzdem ein paar nette Gesprächspartner finden. Kommt Ihr aus Beloveno?"{WORDBeloveno}
+"Ich grüße Euch. Leider ist meine Stimmung schlecht! Das liegt daran, daß ich Gerüchte über Kontos gehört habe, die mich frustriert haben. Ich weiß aber nicht, ob ich den Informationen glauben darf. Also redet lieber selbst mit Kontos, wenn Ihr etwas darüber erfahren möchtet. Er ist der druidische Anführer der Mahinos in Kounos.^^Ich möchte Euch aber nicht die Stimmung verderben. Macht es Euch gemütlich. Möchtet Ihr Rationen kaufen?"{BLOK010}"Ja, gerne."{BLOK011}"Nein, danke."
+"Ich habe mir fast gedacht, daß Ihr von dort kommt. Dann wart Ihr sicher schon in Kounos. Das ist ein kleines Dörfchen auf den Plateaus des Gebirges."
+"Nicht? Da müßt Ihr unbedingt mal hingehen. Bestimmt trefft Ihr dort viele interessante Leute."
+"Ich bin Edjirr."
+{BLOK010}"Wir würden gerne Rationen kaufen."

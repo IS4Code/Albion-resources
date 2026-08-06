@@ -1,0 +1,6 @@
+﻿{BLOK000}"Sagte ich das nicht? Ich arbeite in den Ratskreisen als Schreiberin."
+"Dsarii-ma, Besucher. Ich bin Schreiberin hier in den Ratskreisen. Kann ich Euch helfen?" {BLOK010}"Was genau ist die Aufgabe einer Schreiberin?" {BLOK011}"Schöne Kleidung, die Ihr da tragt."
+"Dsarii-ma, Besucher."
+"Hier in den Ratskreisen werden täglich viele große und kleine Entschei|dungen getrof|fen. All das muß schriftlich festgehalten werden, und genau das tue ich. Es ist keine besonders aufregende Arbeit, aber sie steht in hohem Ansehen."
+"Es verwundert mich, daß Ihr als Mensch einen Blick dafür habt. Oh, Verzeihung, das ist mir nur so heraus|gerutscht. Ich freue mich über Eure Bemerkung. Wißt ihr, früher bin ich meistens nackt unterwegs gewesen, aber seit kurzem steht mir der Sinn nach etwas Provokation, deshalb trage ich nun Kleidung."{WORDNackt}
+"Oh, vielen Dank. Wißt ihr, früher bin ich meistens nackt unterwegs gewesen, aber seit kurzem steht mir der Sinn nach etwas Provokation, deshalb trage ich nun Kleidung."{WORDNackt}

@@ -1,0 +1,2 @@
+﻿{BLOK000}"Ich verkaufe Nahrungsmittel."
+"Hereinspaziert und eingekauft!^^Ich hoffe, Ihr habt großen Hunger! Ich habe zur Zeit sehr viel frisches Obst aus Srimalinar."{BLOK010}"Ja, wir würden gerne Rationen kaufen."{WORDSrimalinar}

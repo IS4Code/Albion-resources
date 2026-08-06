@@ -1,0 +1,39 @@
+﻿{BLOK000}"Ich bin Gildenmitglied der Dji-Kas."
+"Ja, Tom? Was hast Du auf dem Herzen?"{WORDDji-Kas}{WORDDji-Fadh} {BLOK010}"Ich würde gern etwas von Deiner Vergangenheit hören, Sira."
+"Aber gerne, Tom. Ich bin als einziges Kind meines Vaters aufgewachsen. Was immer Du für einen Eindruck von meinem Vater erhalten hast, laß' Dir gesagt sein, daß er eigentlich ein sehr guter Iskai war. Ich hätte mir keinen besseren Vater wünschen können, er hat mich sehr geliebt. Meine Mutter habe ich nie kennengelernt, wegen des unglückseligen Jagdausflugs meines Vaters mit meiner Mutter und der Schwester Fasiirs. Ihr habt ja darüber gehört.^ Trotzdem hatte ich eine wunderbare Kindheit. Vater war sehr wohlhabend und ich bekam eine erstklassige Ausbildung, in deren Verlauf auch meine magischen Talente zum Vorschein kamen.^Das führte dann auch zum ersten größeren Konflikt in meinem Leben und mit meinem Vater. Er sah es als selbstver|ständlich an, daß ich meine Talente in den Dienst seiner Gilde stelle, ich fühlte mich jedoch viel mehr zu den Dji-Kas hingezogen. Vor anderthalb Jahren, kaum daß ich volljährig war, zog ich in das Gildenhaus der Dji-Kas, um meine Selbstän|digkeit zu beweisen. Hätte ich bloß gewußt, daß daraus diese Tragödie wird...^ Jedenfalls ist es gut, nun auf Reisen zu sein, um zu all dem Abstand zu gewinnen."
+"Du möchtet meine Geschichte ein weiteres mal hören, Tom? Dein Interesse ist lieb gemeint. Also: Ich bin als einziges Kind meines Vaters aufgewachsen. Was immer Du für einen Eindruck von meinem Vater erhalten hast, laß' Dir gesagt sein, daß er eigentlich ein sehr guter Iskai war. Ich hätte mir keinen besseren Vater wünschen können, er hat mich sehr geliebt. Meine Mutter habe ich nie kennengelernt, wegen des unglückseligen Jagdausflugs meines Vaters mit meiner Mutter und der Schwester Fasiirs, Ihr habt ja darüber gehört.^^ Trotzdem hatte ich eine wunderbare Kindheit. Vater war sehr wohlhabend und ich bekam eine erstklassige Ausbildung, in deren Verlauf auch meine magischen Talente zum Vorschein kamen.^Das führte dann auch zum ersten größeren Konflikt in meinem Leben und mit meinem Vater. Er sah es als selbstver|ständlich an, daß ich meine Talente in den Dienst seiner Gilde stelle, ich fühlte mich jedoch viel mehr zu den Dji-Kas hingezogen. Vor anderthalb Jahren, kaum daß ich volljährig war, zog ich in das Gildenhaus der Dji-Kas, um meine Selbstän|digkeit zu beweisen. Hätte ich bloß gewußt, daß daraus diese Tragödie wird...^^ Jedenfalls ist es gut, nun auf Reisen zu sein, um zu all dem Abstand zu gewinnen."
+"Die Gilde meines Vaters hat große Künstler in Ihren Reihen, aber die strenge, zielgerichtete Art ihrer Magie liegt mir leider nicht."
+"Wie gesagt: Die Gilde meines Vaters hat große Künstler in Ihren Reihen, aber die strenge, zielgerichtete Art ihrer Magie liegt mir leider nicht."
+"Ich empfinde für wenige Dinge in meinem Leben so viel Leidenschaft wie für die Dji-Kas - Magie."
+{BLOK000}Was kannst Du sagen über... {BLOK004}Danke für das Gespräch!
+"Ja, Tom? Was hast Du auf dem Herzen?"{WORDDji-Kas}{WORDDji-Fadh} {BLOK010}"Ich würde gern etwas von Deiner Vergangenheit hören, Sira." {BLOK011}"Ein tolles Ding, daß Du und Mellthas sich verliebt haben!"
+"Ja, finde ich auch! Ich hatte schon früher Kontakt mit einem anderen Verstand, aber normalerweise funktioniert das nur, wenn ich mein Trii gegen das eines anderen Iskai lege. Mellthas muß wohl über eine besondere Begabung verfügen.^^Jedenfalls war ich vollkommen überrascht von dem Kontakt, so wie er auch. In ein paar Sekunden wußten wir mehr voneinander, als man normalerweise in vielen Jahren des Zusammenlebens über einen anderen erfährt. Sein Geist ist klar und ehrlich, und ich... mag ihn einfach sehr."
+"Triifalai-Körner brauche ich zur Ausübung meiner Magie, Tom. Wir sollten immer einen ausreichenden Vorrat davon mitführen."
+{BLOK000}Was kannst Du sagen über... {BLOK003}Ich möchte gern, daß Du uns vorerst verläßt, Sira. {BLOK004}Danke für das Gespräch!
+"Oh. Schade. Doch bedenke: Wenn ich gehe, geht Mellthas natürlich mit mir. Möchtest Du wirklich, daß wir gehen?" {BLOK000}"Ja, bitte." {BLOK001}"Nein, entschuldige."
+"Nun, ich bin sicher, daß es für das Gelingen unserer Mission wichtig ist, und keine persönlichen Gründe uns entzweien.^^Wenn Du uns suchst, findest Du uns wieder im Gasthaus Srimalinars.^^Alles Gute, lebt wohl, ihr alle!"
+"Gut! Ich hatte schon befürchtet, Dich irgendwie verärgert zu haben."
+"Wie schön, Euch wiederzusehen. Mellthas und ich haben eine schöne Zeit hier gehabt.^^Möchtest Du, daß wir uns Dir wieder anschließen, Tom?"
+"Ah. Sollen wir nun doch mitkommen, hm?"
+Sollen Sira und Mellthas sich den Gefährten anschließen?
+"Oh, ich glaube, Ihr seid zu viele Personen, um Mellthas und mich noch aufzunehmen. Bis später einmal."
+"Ein bißchen Aufregung wird Mellthas und mir nach unserer Ruhepause guttun." {INK 001}Sira und Mellthas reihen sich in die Gruppe ein.
+"Wie Du meinst. Bis später einmal."
+"Oh, Göttin! Ich habe keine Triifalai-Samenkörner mehr! Ohne sie kann ich keine Magie ausüben!"
+"Du brauchst diese Samenkörner wirklich unbedingt?"
+"Ja, es ist eine der Eigenheiten der Dji-Kas-Magie. Wir konzentrieren unsere geistige Kraft in diese Körner hinein."
+"Wo bekommen wir diese Körner her, Sira?"
+"Sie werden in meiner Gilde in Jirinaar verkauft. Manchmal findet man aber auch einen der seltenen Triifalai-Büsche in freier Natur."
+Die Gefährten lassen sich zu einer Ruhepause nieder. Man macht es sich gemütlich und kommt ins Gespräch. Auch Mellthas beteiligt sich daran, er liest von den Lippen ab und schreibt kurze Notizen.^^Besonders interessiert zeigt er sich an den Iskai, er bemüht sich, von ihrer anders gebauten Mundpartie abzulesen und läßt sich von ihrer Kultur und ihren Eigenheiten berichten.^^Als die Sprache auf das Stirnorgan der Iskai kommt, berührt Mellthas neugierig Sira's Trii.^^Beide erstarren plötzlich wie vom Blitz getroffen!
+"Da ist... ich kann HÖREN. Ihre Lippen sind stumm, aber ich verstehe..."
+"Unmöglich. Kein Mensch kann das Trii lesen. Aber...ich kann ihn.... Sag mir, was Du hörst!"
+"Hört sich gut an, wie Sympathie, nein, mehr: Zuneigung. Etwas, das ich noch von keinem Menschen hörte. Auch mein Ziehvater Bero liebt mich. Aber das hier ist anders... beunruhigend...ich verstehe es noch nicht."
+{INK 001}Sira berührt fast automatisch Mellthas' Stirn. {INK 002}"Seltsam. Es macht keinen Unterschied, ob ich Dich berühre oder nicht. Du besitzt kein Trii. Und doch ist es, als hättest Du eins. Wer bist Du, Mellthas?"
+"Wer ich bin? Was weiß ich? Taubstumm. Ängstlich...Wie soll ich's beschreiben? Alle meine Worte, selbst die feinsten, sind nur der Versuch, einen bestimmten Tropfen Wasser im Meer zu finden. Sei vorsichtig, Sira, daß ich uns nicht in Worten ertränke!"
+"Ach, Mellthas! "
+"Schlechtes Bild?"
+"Nicht schlecht, wenn Du ein Gedicht schreibst. Aber das hier ist kein Gedicht.^^Gedanken.^Unsere.^Laß' sie einfach zusammenfließen!"
+"Dann sind wir ein Fluß?"
+"Hirhirhir, ja, und wir sollten demnächst ein Flußbett finden..."
+Sira und Mellthas teilen den verblüfften Gefährten mit, daß es zu einem geistigen Kontakt zwischen den beiden gekommen ist, etwas, daß zwischen Mensch und Iskai nicht für möglich gehalten wurde.^^Innerhalb weniger Sekunden sind sich Sira und Mellthas sehr nahe gekommen...^^Noch lange sorgt die Begebenheit für Gesprächsstoff zwischen den Gefährten, bis endlich alle die Müdigkeit übermannt, und man sich zur Ruhe begibt.
+"Ach, der Gedanke an meinen Vater schmerzt mich noch immer und wird es wohl noch lange. Er war kein schlechter Iskai, hoffentlich hat er seinen Frieden in der Göttin gefunden."{WORDGöttin}

@@ -1,0 +1,6 @@
+﻿{BLOK000}"Dsarii-ma. Mein Name ist Nisrii, Ratsmitglied und Tri-Nadh. Ich bin verantwortlich für die Pflege und Auslegung der Gesetze." {WORDGesetze}{WORDTri-Nadh}
+"Dsarii-ma. Kann ich Euch helfen?"
+"Ich darf annehmen, daß Du diese Frage für Deine menschlichen Gefährten stellst, {LEAD}{NAME}."
+"Tri-Nadh werden Personen genannt, die bei der Berührung mit dem Trii eines Anderen nicht nur dessen Gefühle erspüren können, sondern auch ganze Gedanken. Meist stellen sich diese besonders Begabten dem Ratskreis der Gesetze zur Verfügung. Sie überprüfen zum Beispiel bei wichtigen Vereinbarungen die Redlichkeit der Vertragspartnern."{WORDGesetze}{Trii}
+"Ich wünsche Euch Glück für die Jagd nach Akiirs Mördern."
+"Viel Glück auf Euren Reisen."

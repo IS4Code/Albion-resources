@@ -114,39 +114,46 @@ Ein kurzer Schreibstift.
 Eine Sitzbank.
 Auch dieses Sitzmöbel ist förmlich aus dem Boden gewachsen und stellt eine bequeme Sitzbank dar.
 Ein Holzpfahl. An seinem oberen Ende befindet sich ein Schild.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
 {INK 006}{CNTR}Beste Hieb-, Stich- und Wurfwaffen.^Günstige Preise!
+"Bitte nicht vordrängeln. Wir werden alle bedient."
+"Ich grüße meine Brüdern und Schwestern unter Euch."
+"Skeima Din."
+"Ich komme gerade von einer Reise aus dem Osten. Dort habe ich eine kleine Gruppe von Kenget Kamulos getroffen. Sie haben sofort ihre Magie gegen mich eingesetzt. Ich werde jetzt nur noch gut bewaffnet reisen. Normalerweise ist das hier eine sichere Gegend und deshalb ist so ein Ereignis höchst ungewöhnlich. Kenget Kamulos sind eben mit Vorsicht zu genießen. Sie mögen es auch nicht, wenn man in ihre Gebiete reist."
+"Skeima Din. Ich bin Mitglied in der Magier-Gilde. Kommt doch einfach einmal vorbei, wenn Ihr Euch dafür interessiert."
+"Was möchtet Ihr wissen? Das hier ist der größte Laden in Srimalinar. Wenn Ihr ein größeres Angebot sucht, müßt Ihr nach Beloveno reisen."
+"Hinter der Theke brüllt jemand laut hervor, daß Tom und die Gefährten sofort den Laden verlassen sollen."

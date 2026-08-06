@@ -1,0 +1,18 @@
+﻿{BLOK000}"Ich denke mir Mechanismen aus, die ich in unserem Testgewölbe ausprobiere."{WORDMechanismen}{WORDTestgewölbe}
+"Tut mir leid, bin im Moment sehr in Eile. Die Erzpreise sind wieder fürchterlich angestiegen und ich muß hier erst einmal einige wichtige Dinge klären.^^Ein anderes Mal rede ich gerne mit Euch."
+"Skeima Din. Es ist schrecklich, Metallerz wird ständig teurer."{BLOK010}"Skeima Din Zebenno, wir möchten Dir einen Gruß von Merdger übermitteln."
+"Ein Gruß von Merdger?^^Schönen Dank auch, woher kennt Ihr denn Merdger?"{BLOK010}"Wir haben ihn zufällig getroffen."{BLOK011}"Er ist ein alter Freund von uns."{BLOK012}"Wir haben ihn besucht, weil wir Euer Testgewölbe besichtigen wollen."
+"Ja, Merdger ist ein angenehmer Mensch. Und er hat schon tolle Sachen entwickelt."{WORDEntwicklungen}
+"Das glaube ich kaum. Ich kenne alle seine Freunde. Wenn Ihr jemanden Märchen erzählen wollt, sucht Euch ein anderes Opfer."
+"Was möchtet Ihr denn in unserem Testgewölbe. Möchtet Ihr etwa meine zahlreichen Mechanismen testen?"{WORDTestgewölbe}{WORDMechanismen}
+"Ja, er hat viele tollen Sachen entwickelt. Seine neueren Erfindungen sind Tränke mit besonderen Wirkungen. Habt Ihr schon einmal etwas von Porenöl gehört?"{WORDPorenöl}
+"Fragt doch mal Agida danach. Sie wohnt im Süden und weiß die Wirkungen dieses Öls zu schätzen. Sie kann Euch auch ein paar gute Reisetips geben."
+"Eigentlich ist das nicht für die Öffentlichkeit bestimmt. Wir testen dort unsere Entwicklungen. Es ist erstaunlich, was man alles anstellen kann, wenn man Technik konsequent weiter|ent|wickelt. Auf meine vielen Mechanismen, die ich entwickelt habe, bin ich auch sehr stolz. Aber den Schlüssel kann ich Euch natürlich nicht geben."
+"Ich entwickle konsequent weiter und baue immer neue Schutzmechanismen, die dann später als Schlösser, Absperrungen und anderweitig eingesetzt werden. Nur mit den Testpersonen mangelt es noch ein bißchen."{WORDTestpersonen}
+"Ich finde nicht genügend Leute, die meine Errungenschaften kompetent testen können. Es dürfen ja auch nicht meine Kollegen sein, denn die waren schließlich bei der Entwicklung dabei und kennen die meisten Erfindungen schon."{BLOK010}"Wir würden uns bereit erklären, einige Dinge zu testen."{BLOK011}"Ihr findet bestimmt jemanden."
+"Ich hoffe auch."
+"Hmmm, ich darf das eigentlich nicht, aber ich würde Euch den Schlüssel überlassen, wenn Ihr das einmal tun möchtet. Aber Ihr müßt vorsichtig sein. Nicht alles ist ganz ungefährlich!"{BLOK010}"Nein, lieber doch nicht."{BLOK011}"Ja gerne, wir passen auf."
+"Das kann ich verstehen. Ich bin Euch deswegen auch nicht böse."
+"Na gut. Ich gebe ihn Euch. Aber erzählt es niemanden weiter."
+"Ihr könnt ihn ja gar nicht mehr mitnehmen!"
+"So, ich muß jetzt aber dringend weiter. Merdger wartet schon auf mich. Euch noch alles Gute."

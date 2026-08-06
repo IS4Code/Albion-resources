@@ -1,7 +1,7 @@
 ﻿-frei-
 Äste und Wurzeln.
 Ein geflochtener Korb.
-Ein Glasgefäß für Wein und andere Getränke.
+Ein Glasgefäß für Wasser und andere Getränke.
 Ein Faß.
 Ein prächtiges Tierfell.
 Ein Eimer.
@@ -41,7 +41,7 @@ Ein zusammengeklappter Hocker.
 Ein massiver Eßtisch.
 Ein Baumstumpf.
 Zwei gekreuzte Speere.
-Ein großes Faß mit Wasser, Bier oder Wein.
+Ein großes Faß mit fremdartigen Getränken.
 Ein Zapfhahn.
 Eine Bettdecke.
 Ein komfortables und hübsch verziertes Bett.
@@ -126,5 +126,5 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 --- coming soon: long dialogue ---
 "Togi Din. Mein Mann, Garris, ist ein weiteres Mal sicher nach Hause gekehrt, Lugh sei es gedankt."
-"Togi Din, Reisende. Garris, mein Mann, ist aufs Meer hinaus gefahren, ihr müßt später wiederkommen, wenn ihr eine Reise mit ihm vorhabt."
-"Togi Din! Wollt ihr mit meinem Vater übers Meer fahren? Ach, ich wünschte, er würde mich einmal mitnehmen."
+"Togi Din, Reisende. Garris, mein Mann, ist aufs Meer hinaus gefahren, Ihr müßt später wiederkommen, wenn Ihr eine Reise mit ihm vorhabt."
+"Togi Din! Wollt ihr mit meinem Vater über's Meer fahren? Ach, ich wünschte, er würde mich einmal mitnehmen."

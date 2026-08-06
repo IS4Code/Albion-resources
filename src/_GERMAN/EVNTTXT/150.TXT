@@ -1,0 +1,36 @@
+﻿
+"Viehbesitz ist die Grundlage allen Reichtums. Wer bei uns einen hohen Rang hat, ist meist auch im Besitz von Vieh, das er zum Teil an seine Ceile verpachtet."{WORDCeile}
+"Ein Ceile, oder Begleiter, gehört zur Gefolgschaft des Mannes, von dem er seinen Ehrenpreis ausgezahlt bekommen hat. Er verzichtet also gegen eine Geldsumme und günstige Pacht von Vieh auf einen Teil seiner gesetzlichen Rechte, wie beispiels|weise das Tragen von Waffen, und ist verpflichtet, bei Versammlungen seine Stimme an den Pächter abzugeben, der dadurch an Rang und Einfluß gewinnt."{WORDVieh}{WORDGesetz}
+"Es ist üblich, seine Kinder im Alter von etwa 7 oder 8 Jahren in die Pflegschaft zu einer anderen Familie zu geben, der Ziehvater wird Attio genannt. Dort lernt das Kind einen Beruf, und die Pflegschaft fördert die Verbindung zwischen den Familien. Die Pflegschaft endet schließlich bei Mädchen im Alter von 14 und bei Jungen von 17 Jahren."
+"Oh, es gibt eine Vielzahl von Göttern, doch die Größten unter ihnen sind Lugh, der große Gott des Tatendrangs, der Reisenden und des Handels sowie Danu, die große Göttin und Mutter, deren Verkörperung Albion, unsere Welt, ist.^ Daneben gibt es die Götter von Bauern, Handwerkern, Dichtern und Kriegern sowie eine Menge geringerer Gottheiten, verehrt von den Bewohnern ihrer Landstriche.^ Über das Leben nach dem Tode wird gelehrt, daß wir in einem anderen, wunder|schönen Land weiterleben."{WORDKrieger}{WORDHandwerker}{WORDDichter} {WORDAlbion}
+"Der Tuath oder Stamm ist die Gemeinschaft aller Clans und Ihrer Familien und wird vom Stammeskönig geleitet."{WORDStammeskönig}
+"Der König ist unser oberster Herrscher, der das Wohl des Tuath bestimmt, auch wenn er sich bei wichtigen Angelegen|heiten mit der Versammlung der waffen|tragenden Männer berät.^Er ist die Verkörperung des Tuath, und seine wichtigste Aufgabe ist es, für Harmonie zwischen uns Menschen und dem Land zu sorgen. Denn nur, wenn Einklang mit dem Land besteht, können wir auf gute Ernte, gesundes Vieh, wenige Krankheiten und Erhaltung des Friedens hoffen." {WORDTuath}{WORDVieh}
+"Jeder Mann bei uns ist auch ein Krieger, wenn der Frieden gebrochen wird. Männer, die sich ausschließlich der Waffenkunst widmen, ohne einen anderen Beruf auszuüben, gibt es im Moment bei uns nicht viele, denn es herrscht Friede im Land.
+"Dichter stehen bei uns in hohem Ansehen und werden sogar von mächtigen Kriegern gefürchtet, denn ein treffender Spottvers kann dem Ruf des Betroffenen ebenso schaden wie eine unrühmliche Niederlage."{WORDKrieger}
+"Es gibt viele ehrbare Handwerksberufe, die des Töpfers, des Grob|schmiedes, des Tuchwebers oder des Korbflechters. Eine besondere Stellung nehmen die Waffenschmiede ein, die alle der Gilde der Umajo angehören."{WORDUmajo}
+"Die Gilde der Umajo ist in einem großen, heißen Land weit im Osten von hier beheimatet. Sie hüten das Geheimnis, wie man Erz aus dem Leib von Danu gewinnt, ohne sie zu erzürnen. Sie produzieren Schmuck und vor allem Waffen und beanspruchen das Vorrecht, diese Waffen als einzige herstellen zu dürfen.^^ Nur sie lehren die Kunst der Waffen|herstellung. So sind alle Waffenschmiede entweder aus dem Land der Umajo oder Leute von hier, die ihr Handwerk dort oder bei einem Gilden|mitglied lernten und nun selbst zur Gilde gehören. Es soll in alter Zeit sogar einen Krieg mit den Umajo gegeben haben.^^Seitdem sind sie etwas großzügiger in ihren Preisen und in der Ausbildung von örtlichen Waffenschmieden. Doch man sagt, sie verfolgen noch heute Abtrünnige, die, ohne Mitglied der Gilde zu sein, das Waffen|schmiede|handwerk ausüben."{WORDDanu}
+"Die Rechtsprechung zwischen zwei Parteien wird zumeist von einem dafür ausgebildeten Druiden übernommen."{WORDDruiden}
+"Die Druiden sind unsere Gelehrten. Sie beherrschen die Schrift, bewahren das Wissen unserer Vorfahren und mehren es. Ihre Aufgaben sind vielfältig. Es gibt diejenigen, die Recht sprechen oder die ausgeschickt werden, die Kinder zu lehren, und welche, die Mittler zwischen den Göttern und den Menschen sind. ^Es sind Heiler und Beherrscher der magischen Künste unter ihnen. Ihr Zentrum ist die Schule von Arjano, dort leben und lehren die größten von ihnen." {WORDMagie}{WORDArjano}{WORDGötter}{WORDHeiler}
+"Magie ist die Kunst der Götter. Sie wird von besonders dafür begabten Druiden ausgeübt, die in hohem Ansehen stehen und als gesegnet gelten." {WORDDruiden}{WORDGötter}
+"In Arjano werdet Ihr Heilung für Eure Wunden finden."
+"So nennen wir die Welt, auf der wir leben."
+"Der Kopf ist der Sitz aller Kraft, Macht und der Persönlichkeit eines Menschen. Viele von uns bewahren daher die Schädel großer, besiegter Feinde oder heldenhafter Vorfahren auf, damit sie ihnen Glück bringen."
+"Die Legenden besagen, daß unsere Vorfahren vor langer, langer Zeit dort zum ersten Mal Albion betreten haben. Manche bezweifeln das, weil der Ort mitten im Land und nicht am Meer liegt. Aber dort wächst ein uralter Baum, den es nirgendwo sonst auf der ganzen Welt gibt. Er wird von uns und besonders von den Druiden als Heiligtum verehrt."{WORDAlbion}{WORDDruiden}
+"So wird der verbotene Teil Arjanos genannt. Vor langer Zeit ist dort etwas Schlimmes passiert, und nun hausen dort Dämonen! Drinno ist fest verschlossen, der Aufenthalt dort ist ein Tabu."
+"Canto ist ein legendärer Held, fast schon ein Gott! Er hat unsere Vorfahren hierher in dieses Land geführt und war der weiseste und mächtigste aller Druiden!"
+"Ah, die Pelzträger. Nun, manche sprechen abfällig über sie, andere respektieren sie besonders als Krieger."
+"Darüber weiß ich nicht viel."
+"Darüber weiß ich nicht viel."
+"Darüber weiß ich nicht viel."
+"Darüber weiß ich nicht viel."
+"Wißt Ihr nicht, daß das Dorf, in dem Ihr Euch befindet, so heißt? Es trägt den gleichen Namen wie der Fluß, an dem es liegt."
+"Das ist der Name der Schule der Druiden hier auf Gratogel. Sie liegt nordwestlich von unserem Dorf, Ihr müßt nur dem Fluß Klouta aufwärts folgen."{WORDGratogel}{WORDDruiden}
+"So heißt das Land, in dem Ihr Euch befindet."
+"Vanello ist das Dorf in der Nähe von Arjano."{WORDArjano}
+"Aballon ist ein Dorf südlich vom großen Gebirge."
+"Gratogel wird von einem großen Gebirgszug in einen Nord- und einen Südteil getrennt. Es führt nur ein Weg durch eine tiefe Schlucht hindurch und man sagt, daß die Passage nicht ganz ohne Gefahr ist."{WORDGefahr}
+"Man hört von Überfällen auf Reisende, die durch das große Gebirge gehen."
+"Tharnos ist unser Stammeskönig, er lebe lang und gesund."{WORDStammeskönig}
+"Das ist der Name des Königs von Vanello."{WORDVanello}
+"Ich glaube, so heißt die Königin von Aballon."{WORDAballon}
+"Nemos ist das Oberhaupt der Druiden von Arjano, ein sehr geachteter Mann." {WORDDruiden}{WORDArjano}

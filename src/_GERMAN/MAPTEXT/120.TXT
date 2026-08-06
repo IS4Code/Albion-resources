@@ -149,11 +149,19 @@ Paltzhalter für weitere Cut-Map-Events.
 Paltzhalter für weitere Cut-Map-Events.
 Paltzhalter für weitere Cut-Map-Events.
 Paltzhalter für weitere Cut-Map-Events.
-"Dsarii-ma. Ich liebe es, in Wania's Laden zu stöbern. Man findet meistens etwas Nützliches."
+"Dsarii-ma. Ich liebe es, in Wanias Laden zu stöbern. Man findet meistens etwas Nützliches."
 "Dsarii-ma. Ich werde mal wieder Fackeln für einige romantische Nachtausflüge besorgen..."
 "Dsarii-ma. Ich bringe eine Lieferung für Wania."
 "Dsarii-ma. Mal sehen, ob ich heute etwas Interessantes hier finde."
-"Ich kömme oft hierher. Manchmal schenkt Wania mir was!"
-"Dsarii-ma. Wania ist eine tüchtige Geschäftsfrau, wißt Ihr. Sie setzt Ihre Preise immer auf's richtige Maß fest."
-"Dsarii-ma! Wania's Angebot ist offenbar so vielfältig, daß es sogar für Menschen interessant ist, was?"
+"Ich komme oft hierher. Manchmal schenkt Wania mir was!"
+"Dsarii-ma. Wania ist eine tüchtige Geschäftsfrau, wißt Ihr. Sie setzt ihre Preise immer auf's richtige Maß fest."
+"Dsarii-ma! Wanias Angebot ist offenbar so vielfältig, daß es sogar für Menschen interessant ist, was?"
 Diese Tür führt nach draußen.
+{INK 001}{LEAD}{NAME} wirft einen Blick in die Kiste und entdeckt Waffen und Rüstungs|teile, die im Gegen|satz zu den meisten Iskai-Waffen auch einem Menschen passen würden.^^Wania, die Laden|besitzerin, bemerkt das Interesse und ruft hinter ihrer Theke hervor:
+"Ach ja, die seltsamen Waffen! Für 45 Goldstücke gehören sie Euch!"
+{CNTR}45 Gold an Wania für die Waffen bezahlen?
+{INK 001}{LEAD}{NAME} und die anderen überprüfen ihre Geldmittel und kommen zu der Erkenntnis, daß sie sich diese Ausgabe noch nicht leisten können.
+"Tut mir leid, Wania, das können wir uns nicht leisten."
+"Nun, das ist nicht so schlimm. Vielleicht später einmal. Diese exotischen Waffen werden bestimmt nicht so schnell gekauft."
+{LEAD}{NAME} wirft Wania die Summe zu.
+"Vielen Dank! Bedient Euch!"

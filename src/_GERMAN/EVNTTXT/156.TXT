@@ -1,0 +1,23 @@
+﻿{BLOK000}"Ich bin Fischer und Seefahrer."{WORDSeefahrer}
+"Togi Din, Fremde. Was kann ein einfacher Seefahrer für Euch tun?" {BLOK010}"Togi Din, Garris! Wir suchen eine Passage nach Maini, dem Land im Osten."{WORDSeefahrer}{WORDSchiffsreise}
+"Aber natürlich. Der Preis für eine Überfahrt beträgt 200 Goldstücke. Allerdings benötigt jeder Reisende eine Genehmigung von Tharnos, unserem König. Sprecht ihn auf Eure Schiffsreise an, Ihr findet ihn in seinem Haus in der Mitte des Dorfes."{WORDTharnos}{WORDSchiffsreise}
+"Habt Ihr eine Erlaubnis von Tharnos für Eure Reise?"
+"Es ist alles für Eure Reise bereit, es kann losgehen, sobald ich die 200 Goldstücke von Euch bekommen habe."
+"Ah, Tharnos' Erlaubnis, vorzüglich. Sowie Ihr jetzt noch 200 Goldstücke bei Euch habt, wird die Reise beginnen!"
+"Ich kann mit Stolz sagen, daß ich noch nie einen Passagier verloren habe und außerdem der beste Fischer des Dorfes bin!"
+"Togi Din, Fremde. Seid Ihr bereit für die Schiffsreise?^^Ihr wißt, für 200 Goldstücke und mit Tharnos' Erlaubnisdokument kann es losgehen!"
+"Togi Din! Daß ich Euch noch mal wieder sehe! Wenn Ihr noch eine Schiffsreise benötigt, stehe ich Euch gerne zur Verfügung!"
+"Bevor ich das Geld für die Reise akzeptiere, muß ich erst um Tharnos' Erlaubnis bitten."
+"Sehr gut. Laßt uns sofort aufbrechen!"
+"Togi Din, Fremde. Seid Ihr bereit für die Schiffsreise?^^Ihr wißt: Für 200 Goldstücke und mit Tharnos' Erlaubnisdokument kann es losgehen!" {BLOK010}"Ja, wir haben Gold und Erlaubnis. Die Reise kann beginnen." {BLOK011}"Wir haben alles, aber wir möchten noch ein wenig warten."
+"Togi Din, Fremde. Seid Ihr bereit für die Schiffsreise?^^Ihr wißt: Für 200 Goldstücke und mit Tharnos' Erlaubnisdokument kann es losgehen!" {BLOK010}"Wir haben leider noch keine Erlaubnis von Tharnos. Lebt wohl."
+"Togi Din, Fremde. Seid Ihr bereit für die Schiffsreise?^^Ihr wißt: Für 200 Goldstücke und mit Tharnos' Erlaubnisdokument kann es losgehen!" {BLOK010}"Uns fehlt nur noch das Gold. Wir kommen wieder, sobald wir genug Gold haben. Lebt wohl.."
+"Wie Ihr meint. Bis bald."
+"Sprecht mit Tharnos. Für einen kleinen Gefallen gibt er Euch bestimmt eine Erlaubnis."
+"Viel Glück beim Verdienen des Goldes."
+"Togi Din! Daß ich Euch noch mal wieder sehe! Wenn Ihr noch eine Schiffsreise benötigt, stehe ich Euch gerne zur Verfügung!" {BLOK010}"Ja, warum nicht. Hier habt Ihr die 200 Goldstücke." {BLOK011}"Nein, danke. Vielleicht später."
+"Togi Din! Daß ich Euch noch mal wieder sehe! Wenn Ihr noch eine Schiffsreise benötigt, stehe ich Euch gerne zur Verfügung!" {BLOK010}"Nein, danke. Wir haben im Augenblick das Gold nicht."
+Die Reise mit Garris verläuft ein weiteres Mal ruhig und problemlos.^^Bald sind {LEAD}{NAME} und die Gefährten sicher in Beloveno angekommen.
+"Aber natürlich. Der Preis für eine Überfahrt beträgt 200 Goldstücke. Allerdings benötigt jeder Reisende eine Genehmigung von Tharnos, unserem König. Sprecht ihn auf Eure Schiffsreise an, Ihr findet ihn in seinem Haus in der Mitte des Dorfes." {BLOK010}"Wir haben das Gold und die Erlaubnis bereits! Die Reise kann beginnen." {BLOK011}"Wir haben alles, aber wir möchten noch ein wenig warten."
+"Aber natürlich. Der Preis für eine Überfahrt beträgt 200 Goldstücke. Allerdings benötigt jeder Reisende eine Genehmigung von Tharnos, unserem König. Sprecht ihn auf Eure Schiffsreise an, Ihr findet ihn in seinem Haus in der Mitte des Dorfes." {BLOK010}"Wir haben Tharnos Erlaubnis noch nicht!"
+"Aber natürlich. Der Preis für eine Überfahrt beträgt 200 Goldstücke. Allerdings benötigt jeder Reisende eine Genehmigung von Tharnos, unserem König. Sprecht ihn auf Eure Schiffsreise an, Ihr findet ihn in seinem Haus in der Mitte des Dorfes." {BLOK010}"Wir haben das Gold noch nicht, wir kommen später noch einmal wieder."

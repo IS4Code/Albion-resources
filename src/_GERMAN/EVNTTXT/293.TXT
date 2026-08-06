@@ -1,0 +1,4 @@
+﻿-frei-
+"Skeima Din,^^ich hoffe, Ihr seid geschäftlich hier."{BLOK010}"Wir sind an Schmuck und Edelsteinen interessiert."{BLOK011}"Was ist Euer Beruf?"{BLOK012}"Vielen Dank für das Gespräch."
+"Lebt wohl!"
+"Ich schleife rohe Edelsteine und mache daraus dann Schmuckstücke, oder ich verkaufe sie direkt."

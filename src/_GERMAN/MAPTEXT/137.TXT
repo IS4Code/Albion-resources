@@ -1,7 +1,7 @@
 ﻿-frei-
 Äste und Wurzeln.
 Ein geflochtener Korb.
-Ein Glasgefäß für Wein und andere Getränke.
+Ein Glasgefäß für Wasser und andere Getränke.
 Ein Faß.
 Ein prächtiges Tierfell.
 Ein Eimer.
@@ -41,7 +41,7 @@ Ein zusammengeklappter Hocker.
 Ein massiver Eßtisch.
 Ein Baumstumpf.
 Zwei gekreuzte Speere.
-Ein großes Faß mit Wasser, Bier oder Wein.
+Ein großes Faß mit fremdartigen Getränken.
 Ein Zapfhahn.
 Eine Bettdecke.
 Ein komfortables und hübsch verziertes Bett.
@@ -126,8 +126,8 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 --- coming soon: long dialogue ---
 "Togi Din, Besucher von Arethas Haus."
-"Togi Din. Seid willkommen, wenn ihr Euch gebührlich betragt."
+"Togi Din. Seid willkommen, wenn Ihr Euch gebührlich betragt."
 "Togi Din, Reisende. Aretha, meine Gattin und ich empfangen gerne Besuch aus fernen Ländern."
 "Togi Din. Oh, entschuldigt, ich muß auf die Kinder Arethas achten! Besonders der Junge macht mich noch verrückt!"
-"Togi Din! Oh, müßt ihr aber von weither kommen! Ich habe von den pelzigen Leuten bisher nur in Geschichten gehört."
-"Nein, nein, ich bins nicht gewesen!"
+"Togi Din! Oh, müßt Ihr aber von weit her kommen! Ich habe von den pelzigen Leuten bisher nur in Geschichten gehört."
+"Nein, nein, ich bin's nicht gewesen!"

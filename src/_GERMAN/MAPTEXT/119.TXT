@@ -153,6 +153,6 @@ Paltzhalter für weitere Cut-Map-Events.
 "Dsarii-ma! Ich habe Früchte im Wald gesammelt und sie gerade an Frinja, die Besitzerin dieses Ladens, verkauft."
 "Dsarii-ma. Mal sehen, was heute frisch herein|gekommen ist!"
 "Das Ernten der Waldfrüchte hat sich gelohnt! Frinja hat mir einen guten Preis gemacht."
-"Dsarii-ma, Reisende. Hier seid Ihr richtig. Frinja ist berühmt für Ihren haltbaren Reiseproviant1"
+"Dsarii-ma, Reisende. Hier seid Ihr richtig. Frinja ist berühmt für ihren haltbaren Reiseproviant1"
 "Meiner Mutter gehört dieses Geschäft!"
 Diese Tür führt nach draußen.

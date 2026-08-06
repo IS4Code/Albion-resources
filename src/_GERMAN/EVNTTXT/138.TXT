@@ -1,0 +1,12 @@
+﻿{BLOK000}"Ich bin freier Jäger und Abenteurer und mache, was mir gerade in den Sinn kommt."
+"Dsarii-ma! Welch fremde Gesichter in der Stadt! Kaum ist man eine Weile auf Reisen, sind interessante, äh, Leute in der Stadt!" {BLOK010}"Ich hoffe, Eure Reise war erfolgreich?"
+"Oh, ich bin froh, mit dem Leben davon gekommen zu sein. Ich war zu Beginn der Reise in der Nähe des verwunschenen Ortes unterwegs, wo der alte Argim sein Unwesen trieb.^^ Sehr seltsame Raubtiere gibt es dort."{WORDArgim}{WORDRaubtiere}
+"Ja, die meisten davon recht aggressiv. Am schlimmsten war eine Kreatur, von der man nur das Maul im Boden sah, mit ein paar leuchtenden Fangarmen daran. Unersättlich, sage ich Euch! Zum Glück habe ich eine Fruchtsorte entdeckt, die diese Reißmäuler in eine Lähmung versetzt."{WORDFruchtsorte}
+"Sie sind eigentlich ungenießbar, aber in einer Begegnung mit den Reißmäulern sehr nützlich. Für einen anständigen Preis trete ich Euch gerne welche ab." {BLOK010}"Ja, die Früchte könnten von Nutzen für uns sein." {BLOK011}"Nein, danke. Ich wüßte nicht, was wir damit sollten."
+"Wie ihr meint. Ich muß zugeben, daß es diese Tiere nicht allzu häufig gibt."
+"Dsarii-ma!"
+"Dsarii-ma! Nun, habt Ihr noch Bedarf an den Früchten zur Betäubung der Reißmäuler?" {BLOK010}"Ja, die Früchte könnten von Nutzen für uns sein." {BLOK011}"Nein, danke. Ich wüßte nicht, was wir damit sollten."
+"Für 40 Goldstücke überlasse ich Euch 5 Früchte. Einverstanden?"
+"Tut mir leid, aber Ihr habt nicht genug Gold dabei."
+{INK 001}Vrik holt einige Früchte hervor.^^{INK 002} "Hier, bitte."
+"He, Ihr habt nicht mehr genug Platz, um die Früchte unterzubringen. Kommt doch wieder, wenn Ihr etwas weniger beladen seid."

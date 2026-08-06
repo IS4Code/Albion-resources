@@ -47,3 +47,21 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
+Der kräftig gebaute Mann schaut {LEAD}{NAME} nur mit einem finsteren Blick an, ohne etwas zu erwidern.
+{INK 001}Der rechte Wächter wirft {LEAD}{NAME} einen scharfen Blick zu, als {HE } versucht, das Tor zu untersuchen. Er sagt:^^{INK 002} "Fremde, ihr wandelt auf gefährlichen Pfaden. Ihr seid sicher nicht des Lebens müde, daß ihr Euch Zugang zu den Kenget Kamulos verschaffen wollt, ohne uns zu beachten, nicht wahr?"
+Kaum sichtbar, befinden sich hier feine Spalten im Fels.^^Alle Öffnungs|versuche bleiben jedoch vergeblich: Hier ist kein Zugang zu öffnen.
+"Mein Gott. Wir haben überlebt!"
+Erschöpft lassen sich die Gefährten an Ort uns Stelle zur Rast nieder, um sich ein wenig zu erholen.
+"Khunagh, wir müssen über das, was bei den Kenget Kamulos vorgefallen ist, sprechen.^^Du hast uns als Werkzeug für Deine Rache benutzt und unser aller Leben auf Spiel gesetzt."
+"Ich werde mich nicht für das Vorgefallene entschuldigen. Arghagh, der Cuain vor dem Schwein von Cairnain, war der einzige Mensch, den ich je geliebt habe. Der einzigen Zeit in meinem Leben, in der ich glücklich war, hat Cairnain ein Ende gesetzt. Sein Tod hat meinem Leben einen Rest von Erfüllung gegeben.^^Ihr wußtet, daß ich mich Euch aus meinen eigenen Motivationen heraus angeschlossen habe.^^Mein einziges Zugeständnis an das Vorgefallene ist es, Dir weiter meine Dienste als Kämpfer zur Verfügung zu stellen. Wenn Du meinst, auf meine Talente verzichten zu können, werde ich gehen. Laß' uns nun Klarheit schaffen. Wie lautet Deine Entscheidung?"
+Soll Khunag die Gruppe verlassen?
+"Ich kann nicht zusammen mit jemanden weitermachen, der das Leben seiner Gefährten für seine persönlichen Zwecke zu opfern bereit ist.^^Ich möchte, daß Du uns verläßt, Khunag."
+"Es fällt mir schwer, Deine Motivationen zu verstehen, Khunag.^^Sicher ist jedoch, daß wir Deine Fähigkeiten im Kampf noch dringend brauchen werden.^^Du kannst bleiben. Hintergehe uns jedoch nicht noch einmal."
+"Wie Du wünscht. Lebt wohl."
+"Meine Rache ist erfüllt. Ich stelle mich in den Dienst Deiner Aufgabe, bis ich einen neuen Inhalt im Leben gefunden habe."
+Hier ist ein augenförmiges Symbol in den Felsen eingelassen.
+"Diese Felssymbole existieren schon seit sehr langer Zeit. Man findet sie an manchen Orten auf dem ganzen Planeten, aber niemand weiß etwas genaues über ihren Ursprung."
+{LEAD}{NAME} legt das Amulett mit dem Symbol der Göttin an den Felsen.^^Knirschend öffnet sich ein Portal und die Gefährten betreten die Höhle dahinter.
+"Um den Eingang der Höhle zu öffnen, kann ich das Amulett der Göttin benutzen, das ich bei mir trage."
+"Dies ist also der Eingang zur Heimat der Kenget Kamulos.^^Ich denke, bevor wir uns an einen Ort wie diesen begeben, sollten wir jemanden dabei haben, der sich dort drin auskennt.^^Gibt es in Beloveno nicht diesen Khunag? Es heißt ja, daß er einstmals ein Mitglied dieses Kultes war.^^Laßt ihn uns fragen, ob er uns dort hinein begleitet."
+Ein kleiner Busch mit Samen|körnern.

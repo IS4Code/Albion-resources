@@ -1,0 +1,3 @@
+﻿{BLOK000}"Ich bin der Kneipenwirt hier."
+"Skima Din! Kommt herein, und trinkt eine Runde auf Kosten des Hauses. Laßt uns den Streit vergessen und gemütlich zusammensitzen."
+"Ich bin Edjirr."

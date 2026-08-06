@@ -1,0 +1,10 @@
+﻿{BLOK000}"Tja, Ihr Lieben...an meiner aufreizenden Kleidung solltet Ihr eigentlich schon erkennen, wo ich arbeite. Oh, Ihr könnt mich dort gerne mal besuchen. Allerdings geben die meisten männlichen Wesen nur ungern zu, daß sie ab und zu ein Freudenhaus aufsuchen."
+"Skeima Din, Kariah grüßt Euch. Ich habe eine dringende Information für Euch! Es ist wirklich sehr eilig!"{WORDInformation}
+"Skeima Din, habt Ihr über meine Information nachgedacht? Bitte handelt schnell, solange das noch möglich ist. Habt Ihr denn überhaupt darüber nachgedacht?"{WORDInformation}{WORDJa}{WORDNein}
+"Man hat es nicht leicht als Hure! Vor einigen Tagen bekam ich nachts von einem Kunden den konkreten Hinweis, daß Herras, Vorstand des 'Rates der Gerechten', umgebracht werden soll. Natürlich stecken Riko und Gard dahinter.^^Bitte! Ich kann es Euch nicht beweisen, aber helft! Tut etwas dagegen. Mir glaubt sonst keiner, Ihr seid meine letzte Hoffnung. Bitte! Verhindert das Attentat!^^Ich weiß jetzt auch, daß das Attentat unmittelbar bevorsteht. Aber Ihr könnt es jetzt noch verhindern!"{WORDAttentat}{WORDHinweis}
+"Dann tut es bitte!"
+"Und zu welchem Ergebnis seid Ihr gekommen?"{BLOK010}"Wir müssen abwarten."{BLOK011}"Wir werden schauen, was sich machen läßt."
+"Wartet nicht zu lange! Die Zeit läuft davon, und Gard und Riko werden Ihre Tat mit Sicherheit ausführen!"
+"Ihr müßt verstehen, daß ich Euch nicht sagen kann, von wem ich den Hinweis bekam. Ich bringe mich durch die Informationen, die ich Euch gebe, ohnehin schon in eine große Gefahr. Ich habe noch einen neuen Hinweis erhalten, daß das Attentat unmittelbar bevorsteht!"
+"Das Attentat steht unmittelbar bevor! Vielleicht glaubt Herras Euch, wenn Ihr ihn warnt. Oder versucht Gard und Riko aufzuhalten. Wenn Herras tot ist, hat die böse Seite im Rat das Übergewicht! Bitte versucht, das zu verhindern. Die meisten Leute hier in der Stadt sind so blind, daß sie die Gefahr nicht sehen oder nicht sehen wollen."
+"Das bin ich."

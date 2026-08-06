@@ -1,0 +1,72 @@
+﻿"leer"
+"So nennen wir uns selbst."
+"Ein geübter Former läßt eine der großen Sitzpflanzen in weniger als 4 Tagen heranwachsen. Man sitzt wundervoll auf ihnen, und die Kinder lieben es, darauf herumzutoben.{WORDFormer}"
+"Ja, wir haben eine Menge leckerer Sachen. Das meiste stammt von den Tieren des Waldes. Die Leute bevorzugen Wild, obwohl die Herdenzüchter Ihr Fleisch etwas billiger anbieten."
+"In großen Häusern wird das Abwasser durch Rohre in den Wänden in ein Becken geleitet. Die Pflanzen darin säubern das Wasser, bevor wir es dem Fluß zurückgeben."
+frei
+"Wer es sich leisten kann, läßt sich sein Wasser offen durchs ganze Haus verlegen. Es sieht wunderschön aus, man muß nur auf die Kinder aufpassen, damit sie keinen Unfug mit dem Wasser treiben..."{WORDHaus}
+"Wir lieben es, die Schönheit der Natur mit dem Komfort eines Hauses zu verbinden. Die Former der Dji-Fadh-Gilde können komplette Bauwerke aus Pflanzen wachsen lassen! Allerdings ist dies nicht billig; es gibt Häuser, die nur aus Stein und Sand gebaut sind, oder nur zum Teil aus den Pflanzen der Dji-Fadh bestehen. Vor allem ärmere Leute wohnen in "toten Häusern", wie wir sagen." {WORDDji-Fadh}
+frei
+frei
+frei
+frei
+frei
+frei
+frei
+frei
+frei
+"Mit dem zehnten Lebensjahr ist die Volljährigkeit erreicht und man ist von den Entscheidungen seiner älteren Geschwister oder Eltern unabhängig."
+"Es ist so, daß die Frauen nur drei Monate im Jahr fruchtbar sind, dies ist die Zeit des Fadhiim und ihr Beginn wird mit einem großen Fest gefeiert. In dieser Zeit treten für Eheleute und Ihre Nebenpartner Tabus in Kraft."
+"Das Sebai-Ritual stellt die mächtigste magische Handlung dar, derer wir fähig sind, und sie kann von jedem durchgeführt werden, sei sein magisches Talent auch noch so gering.^ Dazu müßt Ihr wissen, daß das Trii eines Neugeborenen in der ersten Woche ganz besondere Eigenschaften hat. Berührt ein Erwachsener mit seinem Trii das des Neugeborenen, kann er sein gesamtes Selbst in den Geist des Kindes übertragen. Er oder sie kann das Leben neu beginnen, der Körper des Erwachsenen stirbt bei der Zeremonie.^ Natürlich ist es verboten, das Ritual ohne Genehmigung des Ratskreises durchzuführen. Zusammen mit der Entführung eines Neugeborenen ist dies das schlimmste Verbrechen, das es gibt! Der Verbrecher und seine gesamte Familie werden nach unseren Gesetzen mit dem Tode bestraft.^ Nur wenige Personen mit besonderen Verdiensten, die Auserwählten, dürfen das Ritual durchführen. Ferner darf das Ritual selbstverständlich nur mit Zustimmung der Mutter des Neugeborenen durchgeführt werden. Meist ist es die Partnerin des Auserwählten oder eine Schwester einer Auserwählten.^ Ist das Ritual durchgeführt, bekommt der oder die Auserwählte den Titel Sebai, gefolgt von einem Zusatz, der darauf hinweist, wie oft der Sebai das Ritual schon durchführen durfte."{WORDMagie}{WORDTrii}{WORDAuserwählter}
+"In den Status eines Auserwählten, also des Berechtigten auf ein Sebai-Ritual, zu gelangen ist sehr schwer und hängt letztendlich immer von den Stimmen im zuständigen Ratskreis ab.^ Es gibt verschiedene Möglichkeiten, der Ehre des Rituals zuteil zu werden. Beispielsweise, wenn sich jemand durch besonderen Mut oder Opferbereitschaft ausgezeichnet hat. Kommt er oder sie dabei um, darf ein Bruder oder eine Schwester im Gedenken an diese Person zum Sebai werden. ^Oft kommt es auch vor, daß jemand, der einen hohen Rang bei den Stiriik hat, auserwählt wird. Generell kommen Personen mit einzigartigen Talenten und Wissen in Frage, wenn sie diese Kenntnisse zum Wohle vieler benutzt haben." {WORDSebai}
+"Das Trii, das jeder von uns auf der Stirn trägt, ist ein ganz besonderes Organ. Es wird als Sitz des Geistes angesehen, und Verletzungen führen von Persönlichkeitsveränderungen und Gedächtnisverlust bis zum Tode.^ Legen zwei Leute ihre Trii aneinander, können sie die Emotionen des Anderen spüren und besonders Begabte erfassen sogar ganze Gedankengänge."
+frei
+frei
+frei
+frei
+"Die meisten von uns glauben, daß sie nach dem Tode dorthin zurückkehren, woher wir alle kommen: das große Bewußtsein, daß von allen unseren Ahnen gebildet wird und daß oft auch als die Göttin bezeichnet wird. Man sagt, je vorbildlicher man sein Leben gestaltet, desto mehr bleibt man sich selbst, wenn man in der Göttin aufgeht."
+"Die große Stadt der Iskai. Dort leben unsere Ahnen."
+frei
+frei
+"Ich finde, Menschen sind interessante Wesen. Sie wirken wie kräftige kleine Bäume, und jeder Schritt wirkt, als ob sie kurz im Boden Wurzeln schlagen würden. Ich habe gehört, daß sie sehr kräftig sein sollen und unglaublich alt werden können."
+frei
+frei
+frei
+frei
+frei
+frei
+frei
+frei
+frei
+"Oh, Kleidung hat bei uns eine eher schmückende Bedeutung. Es gilt als provokant, mit viel Kleidung aufzutreten, denn was könnte die Neugier mehr erregen, als das Verhüllen von Körperteilen?"
+frei
+"Ich habe Gerüchte gehört, daß Ihr Menschen Euren Schmerzen völlig ausgeliefert seid! Nun, wir können unsere Schmerzen bewußt kontrol|lieren, zumindest im wachen Zustand. Den Kindern wird diese Technik aber erst spät beigebracht, damit sie den Ernst von Verletz|ungen erkennen."
+"Dieses Wort bedeutet "Anfänger, Lernender" und wird als Namenszusatz gebraucht."
+"Meistens findet man dieses Wort im Zusammenhang mit Namen. Es bedeutet, daß der Betreffende ein Meister seines Faches ist."
+frei
+frei
+frei
+frei
+frei
+frei
+frei
+frei
+frei
+"Darüber weiß ich nichts."
+"Derer gibt es viele, aber dies ist wohl kaum die Zeit zum Geschichten|erzählen, verzeiht."
+"Ihr wollt mich beleidigen? Ach, die Bedeutung des Wortes? Ach so, hir, hir! Nun, es handelt sich um den Namen eines Tieres, das nicht gerade in hohem Ansehen steht, weil es sich vorwiegend von Exkrementen ernährt!"
+"Darüber weiß ich nichts."
+"Sie sind normalerweise scheu und greifen nicht an. Obwohl ich schon gehört habe, daß sie aggressiv werden, wenn sie im Rudel auftreten. In der Nähe von Kounos gibt es einen Eingang in ein Höhlensystem. Dort gibt es angeblich ziemlich viele Kritahs."{WORDKounos}
+"Ihr müßtet auf Eurer Reise hierher eigentlich an Kounos vorbeigekommen sein. Das ist ein kleines Dörfchen, in dem noch recht traditionell orientierte Menschen leben. Es liegt auf den Plateaus des großen Gebirges."
+"Sugo ist eines unserer beliebtesten Getränke. Ihr müßt es unbedingt einmal versuchen. Vielleicht sollte ich Euch fairerweise sagen, daß Sugo vergorener Obstsaft mit einer stark anregenden Wirkung ist. Wer Sugo nicht kennt, sollte ihn mit Vorsicht genießen. Ihr wärt nicht die ersten Fremden, die nach zwei Gläsern Sugo zu keiner weiteren Konver|sation mehr im Stande wären."
+"So heißt unser Land."
+"Unser Heiligtum hat für uns eine große religiöse Bedeutung. Es verstößt gegen unsere Religion, wenn Fremde dort hingehen, denn sie können das ewige Bewußtsein unserer Toten stören."{WORDBewußtsein}{WORDTote}
+"Alle unsere Brüder und Schwestern, die in ihrem Leben fair und gütig waren, erlangen dort das ewige Bewußtsein, nachdem sie zu Grabe getragen wurden."
+"Das ist die große Hafenstadt in Maini. Sie liegt auf der Südseite des großen Gebirges."{WORDMaini}
+"Unsere heilige Stätte befindet sich südlich von Srimalinar, vor dem großen Gebirge. Das Bewußtsein eines jeden guten Iskai findet dort seine ewige Ruhe. Bitte geht dort nicht hin. Es gibt ein Tabu, welches es Fremden verbietet, das Heiligtum aufzusuchen, und wir betrachten es als ernsten Angriff auf unsere Rechte, wenn sich jemand nicht daran hält."{WORDTabu}{WORDBewußtsein}
+"Kontos ist der druidische Anführer der Mahinos in Kounos. Ganz undurchsichtiger Charakter. Ich mag ihn nicht!"
+"Hier wohnen wir Iskai auf Maini. Obwohl Srimalinar flächenmäßig recht groß ist, so sind wir doch recht wenig Einwohner. Es gibt eine Kneipe und wir haben eine Magier-Gilde hier."
+Glücklicherweise habt Ihr ihn umgebracht.
+"Ja, meine liebe Frau. Sie macht sich immer viel zu viele Sorgen um mich. Aber Ihr könnt Ihr ja sagen, daß ich heute nicht so lange arbeiten werde."
+"Das ist Edjirrs Frau."
+"Es gibt hier eine Gilde der Magier. Mitten in Srimalinar. Kann man eigentlich nicht verfehlen."

@@ -1,6 +1,12 @@
 ﻿ 
 Ein Loch in die Tiefe...
 Hier kann man hochklettern.
-Hier scheint es noch tiefer zu gehen, allerdings ist der Stollen mit  Wasser gefüllt.
+Hier scheint es noch tiefer zu gehen, allerdings ist der Stollen mit Wasser gefüllt.
 Unzählige Kristalle blinken in dieser riesigen Höhle und geben dem Licht einen merkwürdigen Charakter. Irgendwie herrscht hier eine anmutige Atmosphäre. Die Edelsteine sind natürlich alle ungeschliffen, aber vielleicht besitzen sie aufgrund ihrer außergewöhnlichen Größe trotzdem einen hohen Wert.
 Eine Truhe.
+Der Ausgang.
+"Achtung!^^Vor uns befindet sich ein großes Loch im Boden. Ich glaube wir sollten nur mit einem Seil da runter gehen. Wer weiß, ob wir da sonst wieder rauskommen! Hat jemand von Euch ein Seil dabei?"
+Alle durchsuchen Ihr Gepäck und schließlich findet sich ein Seil.
+Alle durchsuchen Ihr Gepäck aber niemand hat ein Seil dabei.
+"Ich glaube, ohne Seil ist es wirklich zu gefährlich! Ich möchte besser nicht da runter gehen."
+"Gut, mit Seil sollte das Risiko eigentlich kalkulierbar sein."

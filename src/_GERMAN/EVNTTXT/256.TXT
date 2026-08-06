@@ -1,0 +1,7 @@
+﻿{BLOK000}"Ich baue Häuser aus Pflanzen, wie Ihr hier bestimmt schon mehrere davon gesehen habt."
+"Nanu? Fremde Gesichter in unserer Stadt? Mein Name ist Arrim, ich begrüße Euch in Srimalinar."{WORDSrimalinar}
+"Ah, ich habe Euch schon getroffen. Ich bin mir nicht sicher, ob ich Euch irgendwie helfen kann."{WORDSrimalinar}
+"Was gibt es denn Wissenswertes über unsere Stadt...mhm, Ihr solltet nicht in die Nähe unseres Heiligtums kommen. Es gibt ein Tabu, welches das Betreten des Heiligtums durch Menschen und Fremde verbietet. Ihr müßt Euch auf alle Fälle daran halten, denn das Tabu wurde bisher immer respektiert, und der Ort hat für uns eine große Bedeutung. Wenn Ihr irgendwelche glänzenden Gegenstände dabei habt, müßt Ihr darauf besonders achten. Auf keinen Fall solltet Ihr sie unbeaufsichtigt liegen lassen. Es gibt hier viele kleine Tiere, wir nennen sie Kritahs. Die stehlen wirklich alles, was glänzt und blinkt. Die Kritahs leben in den Höhlen des Gebirges. Eigentlich sind es ziemlich scheue Tiere, aber manchmal könnt Ihr trotzdem eins sehen."{WORDTabu}{WORDHeiligtum}{WORDKritahs}
+"Ja, geht da besser nicht hin. Unsere religiösen Feiern finden dort statt. Es ist für uns ein sehr würdevoller Ort."
+"Dieses Tabu gibt es schon, solange ich zurückdenken kann. Das hat historische Gründe, die ich Euch jetzt aber nicht erklären möchte."
+"Ja?"

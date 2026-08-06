@@ -1,7 +1,7 @@
 ﻿-frei-
 Äste und Wurzeln.
 Ein geflochtener Korb.
-Ein Glasgefäß für Wein und andere Getränke.
+Ein Glasgefäß für Wasser und andere Getränke.
 Ein Faß.
 Ein prächtiges Tierfell.
 Ein Eimer.
@@ -41,7 +41,7 @@ Ein zusammengeklappter Hocker.
 Ein massiver Eßtisch.
 Ein Baumstumpf.
 Zwei gekreuzte Speere.
-Ein großes Faß mit Wasser, Bier oder Wein.
+Ein großes Faß mit fremdartigen Getränken.
 Ein Zapfhahn.
 Eine Bettdecke.
 Ein komfortables und hübsch verziertes Bett.
@@ -126,7 +126,14 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Das Faß ist leer und relativ leicht. Die Gruppe kann es verschieben.
 Die Tafeln sind nicht beschriftet.
-{INK 006}{CNTR}Rathaus von Dunollos^Geöffnet von:^8-22 Uhr
+{INK 006}{CNTR}Rathaus von Beloveno.
 Das ist eine Türe.
 Die Türe ist verriegelt. Offensichtlich ist es auch nicht notwendig, diese Türe zu öffnen.
 Das ist der Ausgang.
+"Skeima Din,^^wenn Ihr mit friedlichen Absichten kommt, dürft Ihr das Rathaus gerne betreten."
+"Hoffentlich findet Ihr Euch hier zurecht. Das Rathaus ist ein sehr großes Gebäude, man kann sich leicht in den vielen Gängen, Sälen und Be|sprechungs|zimmern verlaufen. Merkt Euch einfach, daß der Ausgang und die Empfangshalle im Norden liegen.^^Im Mittelbau findet Ihr Besprechungszimmer und Korridore, die zu den Vesperstuben führen. Im Südbau befindet sich die große Aula und dahinter das Besprechungszimmer des Rates. Ich meine natürlich den 'Rat der Gerechten'. Ich helfe Euch gerne später noch einmal weiter und erkläre Euch das ganze noch einmal, wenn Ihr möchtet."
+"Findet Ihr nicht, daß etwas angemessenere Kleidung vorteilhaft wäre, wenn Ihr den 'Rat der Gerechten' besucht?^^Das hier sind heilige Hallen und wir haben es gern, wenn Fremde unsere Bräuche respektieren."
+"Skeima Din.^^Ich finde es schön, daß man sich nach an|streng|enden Be|spre|chung|en hier etwas entspannen kann. Das werdet Ihr nicht überall finden!"
+"Skeima Din. Ich bin einer der neuen Ratsmitglieder. Dann seid Ihr Tom und seine Freunde? Freut mich, Euch kennenzulernen."
+"Skeima Din. Ich ersetze Riko, das alte Ratsmitglied."
+"Sollten wir Herras nicht warnen? An dem Hinweis von Kariah ist bestimmt etwas dran, und wenn nicht, dann besser einmal zuviel gewarnt, als einmal zu wenig."

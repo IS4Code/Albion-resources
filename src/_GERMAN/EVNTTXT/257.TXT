@@ -1,0 +1,9 @@
+﻿{BLOK000}"Ich baue Häuser aus Pflanzen, wie Ihr hier bestimmt schon mehrere davon gesehen habt."
+"Skeima Din, kennen wir uns nicht schon? Habt Ihr auch schon von den Gerüchten über Kontos gehört?"{WORDGerüchte}
+"Wir wissen hier alle nicht so recht, was wir davon halten sollen. Kontos erzählt den Bewohnern seines Dorfes, daß wir für die schrecklichen Wesen verantwortlich seien, die in der Nähe unserer heiligen Stätte entstehen. Wir können wohl nicht länger leugnen, daß wir dieses Problem haben. Aber es ist einfach eine Frechheit, zu erzählen, daß dies unsere Absicht wäre. Kontos stellt uns ja richtig bösartig dar. Fragt Edjirr, den Kneipenwirt. Er denkt da wie ich.^^Habt Ihr davon auch schon gehört?"{BLOK010}"Ja, gelegentlich."{BLOK011}"Nein."{WORDHeiligtum}{WORDWesen} {WORDTabu}
+"Seht Ihr. Wir wissen nicht, warum er so etwas erzählt. Wem will er damit helfen?"
+"Nicht? Na, vielleicht ist es ja auch nicht so wichtig..."
+"Ja, geht da besser nicht hin. Unsere religiösen Feiern finden dort statt. Es ist für uns ein sehr würdevoller Ort."
+"Dieses Tabu gibt es schon, solange ich zurückdenken kann. Das hat historische Gründe, die ich Euch jetzt aber nicht erklären möchte."
+"Ja?"
+"Wir wissen alle nicht, woher diese Wesen kommen. Sie scheinen magischen Ursprungs zu sein, und die meisten davon trifft man ganz in der Nähe unseres Heiligtums. Wir haben aber noch nie erlebt, daß sie AUS unserem Heiligtum kommen."

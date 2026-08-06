@@ -1,3 +1,6 @@
 ﻿ 
 Eine Türe.
 Die Türe hat kein Schloß. Sie kann weder von Hand, noch mit einem Schlüssel geöffnet werden.
+Wer das Amulett sieht, muß sterben!
+{LEAD}{NAME} findet 10 Goldmünzen.
+"Unglaublich, diese Wand muß eine Täuschung sein - wir können einfach hindurchgehen."

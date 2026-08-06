@@ -149,8 +149,8 @@ Paltzhalter für weitere Cut-Map-Events.
 Paltzhalter für weitere Cut-Map-Events.
 Paltzhalter für weitere Cut-Map-Events.
 Paltzhalter für weitere Cut-Map-Events.
-Die Inschrift lautet:{INK 006} Raum der Stri Dji-Kas
-Auf dem Schild steht:{INK 006} Raum der Dra Dji-Kas
+{CNTR}Die Inschrift lautet:^^{INK 006} Raum der Stri Dji-Kas
+{CNTR}Auf dem Schild steht:^^{INK 006} Raum der Dra Dji-Kas
 Der Baum bietet einen seltsamen Anblick: Seine Wurzeln liegen auf dem Steinboden auf, trotzdem erfreut er sich bester Gesundheit. Was ihn am Leben erhält, ist nicht zu erkennen.
 "Dsarii-ma. Was auch passieren mag, ich muß mich auf meine Studien konzentrieren. Die anderen Dra halten mich für verrückt, aber die Magie ist mir wichtiger als ihre kleinen Streiche."
 "Dsarii-ma. Bitte sucht Euch einen anderen Gesprächs|partner, ich muß nachdenken."
@@ -160,3 +160,45 @@ Der Baum bietet einen seltsamen Anblick: Seine Wurzeln liegen auf dem Steinboden
 {INK 001}Der Angesprochene wirkt reichlich abwesend. Mit einem Blick auf Tom meint er:^^ {INK 002}"Sagt, Mensch, gibt es bei Euch auch Zeiten, wo Ihr nur an eine bestimmte Frau denken könnt? Ach, egal..."
 "Dsarii-ma, Dsarii-ma. Ich suche mal wieder nach meinen Prüfungs|unterlagen. Diese jungen Dra haben nichts als Unsinn im Kopf, irgendwie schaffen sie es immer wieder... Entschuldigt mich."
 Diese Tür führt nach draußen.
+{FAHI}- S C R I P T S E Q U E N Z -{NORS}^^ Der flüchtige Mörder wird hier im Haus gesehen, der bestochene Dji-Kas Kriis bezichtigt Fasiir, den Mord in Auftrag gegeben zu haben. Sira ist entsetzt und verschwindet.
+Beim Versuch {LEAD}{NAME}s, den Inhalt der Kiste zu untersuchen, wird der anwesende Lagerverwalter aufmerksam und sagt:
+"Verehrte Gäste, dies ist kein Selbstbedienungsladen!^^Ich muß Euch bitten, unsere Besitztümer in Ruhe zu lassen!"
+In den Moosboden ist hier eine Steinfläche eingelassen worden.
+Fasiir führt seine Besucher in ein Zimmer des Hauses, wo eine Steinfläche im Mossboden zu sehen ist.
+"Der schönste Teil der Magie ist sicherlich derjenige, welcher Dinge erschafft, und sei es auch nur etwas Alltägliches.^^Seht her!"
+"Driscoll, ich... Haben Sie das gesehen? Das ist doch..., ich meine... ^^ Ich schnappe über! Der Baum ist real! Das war doch kein Taschen|spieler|trick!"
+"Das ist schon 'n Ding, zugegeben! Die Jungs hier sind keine Scharlatane, soviel steht fest. Mit Wachstums|beschleu|nigern hat das jedenfalls nichts mehr zu tun."
+"Ein Königreich für ein paar Meßgeräte! Die können sich hier doch nicht über die Naturgesetze lustig machen!"
+"Ich sehe, zugegebenermaßen mit Befriedigung, daß ich einige Zweifel ausräumen konnte.^^Ich hoffe, Ihr denkt nun etwas anders über unsere Kunst.^^ Es war mir eine Ehre, mit Euch zu sprechen, {LEAD}{NAME}. Schaut Euch ruhig noch etwas bei uns um, ich muß mich jedoch nun wieder meinen Aufgaben widmen."
+"Vielen Dank jedenfalls für diese beeindruckende Demonstration Eures Könnens, Fasiir."
+"Dsarii-ma, Jäger von Akiir's Mörder!^^Laßt mich Euch versichern, daß wir nichts mit der Ermordung Akiirs zu tun haben! Kriis, dieser Verräter, ist mit Sicherheit bestochen worden, um Fasiir, unser Oberhaupt, in Verdacht zu bringen!"
+"Dsarii-ma. Ihr seid auf der Jagd nach Akiirs Mörder, nicht wahr? Findet die Wahrheit heraus, und Ihr werdet feststellen, daß Fasiir und unsere Gilde unschuldig an dem Verbrechen sind!"
+"Dsarii-ma, Jäger des Mörders. Ich kann Euch zu dem ganzen Vorfall leider nicht mehr sagen, als daß wir niemals ein solches Verbrechen begehen würden. Kriis, dieser Verräter, hat gelogen!"
+Tom und Rainer sowie ihr neuer Begleiter, Drirr, betreten das Gildenhaus der Dji-Kas-Magier zusammen mit zwei Stiriik, den hiesigen Polizisten. Sie begegnen als erstes Sira, der Tochter des ermordeten Akiir, die zu der Gilde der Dji-Kas "übergelaufen" ist.
+"Habt Ihr schon die Nachricht vom Tode Eures Vaters erhalten, Sira?"
+"Ja. Ich... hatte nicht einmal die Gelegenheit, noch einmal mit ihm zu sprechen. Oh, Göttin, es ist... ^^Wißt ihr, wer hinter dem Mord steckt?"
+"Ich trauere mit Euch, Sira.^^Nein, wir haben noch keine Spur. Es hieß aber, der flüchtige Mörder sei in der Nähe dieses Gebäudes gesehen worden."
+Fasiir, das Oberhaupt der Dji-Kas-Magier, kommt hinzu.
+"Dsarii-ma. Ich habe bereits von dem Mord an Akiir erfahren. Was führt Euch zu uns?"
+"Der Mörder ist in der Nähe Eures Gildenhauses gesehen worden. Dürfen wir uns hier ein wenig umschauen?"
+"Aber selbstverständlich. Wir haben nichts zu verbergen.^^Kommt!"
+Plötzlich taucht im Gang ein Iskai in Begleitung eines Menschen auf.^^ {FAT }Es ist der flüchtige Mörder!^^{NORS} Als der Iskai seiner Beobachter gewahr wird, wirft er ein leuchtendes Korn!
+Als das blendende Licht vergeht, ist nur noch der Iskai zu sehen, der Mörder ist verschwunden!
+"Ich glaube, der Mörder ist nach Süden verschwunden! Hinterher! Stiriik, nehmt diesen Komplizen fest!"
+"Verdammt! Er ist wieder durch ein Fenster entkommen!"
+Drirr wendet sich an den Iskai, der die Blendung herbeigeführt hat.
+"Nun gut. Wer seid Ihr und warum habt Ihr dem Mörder zur Flucht verholfen?"
+{INK 001}Fasiir, der Chef der Dji-Kas, mischt sich ein:^^{INK 002} "Sein Name ist Kriis, er ist, er WAR, ein Angehöriger unserer Gilde.^^Kriis, widerlicher Skorrek, wie kommst Du dazu, dem Mörder bei uns Einlaß zu gewähren?"
+"Aber Fasiir, Ihr selbst habt mir doch den Auftrag gegeben! Und nun wollt Ihr mich opfern? Daraus wird nichts! Ihr selbst habt doch den Mörder bezahlt!"
+"WAS?^^Bist Du von Sinnen? Drirr, glaubt Ihm kein Wort! Ich habe mit der Sache nichts zu tun!"
+"Ich kenne die Ursache der Feindschaft zwischen Euch, Fasiir, und dem verstorbenen Akiir recht gut. Ein Motiv für den Mord habt Ihr allemal!"
+"Nach all' den Jahren soll ich ausgerechnet jetzt..."
+"Stiriik, nehmt bitte Kriis und Fasiir in Gewahrsam, bis wir den Mörder gefaßt und die Wahrheit herausgebracht haben."
+"Drirr, ich möchte mich zurückziehen. Ich kann nicht länger hierbleiben, ich muß allein sein und über alles nachdenken."
+{INK 001}Drirr wendet sich an Tom und Rainer:{INK 002}^^ "Wir hätten den Mörder fast gehabt, verdammt. In diesem Haus ist er jedenfalls nicht mehr. Vielleicht erwischen wir ihn noch irgendwo in der Stadt."
+Alle brauchen einige Zeit, um nach dem blendenden Licht wieder etwas zu erkennen.
+"Gut, Drirr, gehen wir. Nur noch eins:^ Was ist das für eine alte Geschichte zwischen Fasiir und dem ermordeten Akiir?"
+"Nun, kurz gesagt, Akiir war einst mit Fasiir's Schwester verheiratet. Auf einem Jagdausflug von Akiir, Fasiir und seiner Schwester, auf dem Akiir trotz schlechten Wetters bestand, kam sie ums Leben. Fasiir gab Akiir die Schuld an dem Tod seiner Schwester, und das ist die Wurzel ihrer alten Feindschaft.^^Laßt uns nun die Stadt absuchen."
+{CNTR}Auf dem Schild steht:^^{INK 006} Westen: Rejira, die Heilerin
+{CNTR}Auf dem Schild steht:^^{INK 006} Lager der Dji-Kas. Verkauf nur von der 7. bis zur 21. Stunde durch Stri Krai
+{CNTR}Auf dem Schild steht:^^{INK 006} Arbeitszimmer von Fasiir, Oberhaupt der Dji-Kas

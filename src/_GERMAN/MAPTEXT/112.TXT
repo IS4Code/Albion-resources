@@ -149,10 +149,10 @@ Paltzhalter für weitere Cut-Map-Events.
 Paltzhalter für weitere Cut-Map-Events.
 Paltzhalter für weitere Cut-Map-Events.
 Paltzhalter für weitere Cut-Map-Events.
-Hier, im Kellergeschoß des Hauses, ist es ein wenig kühler als oben.
+Hier im Kellergeschoß des Hauses ist es ein wenig kühler als oben.
 "Dsarii-ma. Ach, ich könnte den ganzen Tag schlafen. Hoffentlich habe ich mir keine Krankheit eingefangen."
-"Ich soll schon wieder in's Bett, dabei bin ich gar nicht müde!"
-"Die Iskaikinder sind Ihren menschlichen Pendants ähnlicher, als man glauben sollte, nicht wahr?"
-"Dsarii-ma, ihr breiten Leute!"
+"Ich soll schon wieder ins Bett, dabei bin ich gar nicht müde!"
+"Die Iskaikinder sind ihren menschlichen Pendants ähnlicher, als man glauben sollte, nicht wahr?"
+"Dsarii-ma, Ihr breiten Leute!"
 {INK 001}{LEAD}{NAME}'s Gegenüber macht einen mißmutigen Eindruck und spricht in nuschelndem Tonfall:^^ {INK 002}"Dsri-mh. Kieferentzündg ausheiln. Drf nich sprchn."
 Test

@@ -1,0 +1,8 @@
+﻿{BLOK000}"Hier gilt mein Titel als Oberhaupt der Druiden nicht viel, und ich bin froh darum. Ich bin hier Gleicher unter Gleichen."
+"Togi Din. Ich hoffe, Ihr genießt Euren Aufenthalt hier. Dies hier ist eine Insel des Friedens, wo man meditieren kann, um neue Kraft aus Animebona zu schöpfen."{WORDAnimebona}{WORDmeditieren}
+"Der Segen der Entität liegt auf diesem Ort. Hier tritt ihre Kraft am stärksten auf ganz Albion hervor. Es gibt bestimmte Orte auf dieser Insel, wo man durch längere, ruhige Meditation an Körper und Geist zu wachsen vermag."{WORDAlbion}{WORDEntität}{WORDOrte}
+"Ihr werdet diese Orte finden, wenn Ihr nach den Blumen der Göttin Ausschau haltet."{WORDBlumen der Göttin}
+"So werden kleine Blüten in leuchtenden Farben genannt, von denen man sagt, daß sie an von der Entität besonders gesegneten Stellen wachsen."
+"Dsarii-ma, Freunde. Ich hoffe, Ihr kommt gut voran bei der Beschaffung der Kenntnisse zur Erschaffung des Samenkorns."{WORDSamenkorn}
+"Dsarii-ma, Freunde. Wie ich sehe, seid Ihr noch nicht zum Zentrum der Gefahr, der Toronto, aufgebrochen. Bitte beeilt Euch!"{WORDTORONTO}
+"Ach, Bero! Dem geht es gut. Er ist schon wieder ganz der Alte!"

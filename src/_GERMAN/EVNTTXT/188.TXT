@@ -1,6 +1,6 @@
-﻿{BLOK000}"Ich bin für die Lebenserhaltung|systeme an Bord verantwortlich." {WRNR0215}
-"Hallo Driscoll, Du H"llenpilot. Schon die Sache mit Snoopy geh"rt?" {WRNR0193}
+﻿{BLOK000}"Ich bin für die Lebenserhaltung|systeme an Bord verantwortlich." {WORDLebenserhaltung}
+"Hallo Driscoll, Du Höllenpilot. Schon die Sache mit Snoopy gehört?" {WORDSnoopy}
 "Hallo, Driscoll. Was gibt's denn noch?"
-"Alles im grünen Bereich, ich erwarte keine Probleme. Wenn's bei der Landung 'n bißchen von den F"kalien in's Frischwassersystem schleudert, wirst Du's schon merken!"
-{BLOK000}Was kannst Du sagen über... {BLOK001}Schau Dir mal dies hier an... {BLOK004}Bis demn"chst! {BLOK005}Was ist Dein augenblicklicher Job?
-
+"Alles im grünen Bereich, ich erwarte keine Probleme. Wenn's bei der Landung 'n bißchen von den Fäkalien ins Frischwassersystem schleudert, wirst Du's schon merken!"
+{BLOK000}Was kannst Du sagen über... {BLOK001}Schau Dir mal dies hier an... {BLOK004}Bis demnächst! {BLOK005}Was ist Dein augenblicklicher Job?
+"Tschüß dann."

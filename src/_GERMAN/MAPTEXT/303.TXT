@@ -1,15 +1,15 @@
 ﻿!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Vom Betäubungsgas benebelt, kommt Tom langsam wieder zu sich. Er wird von zwei Sicherheitsleuten in die Mitte genommen und in die TORONTO geführt.
+Das Gas übt noch seine Wirkung auf Tom aus.^^Mit verschwommenem Blick und benebeltem Kopf sieht er sein Empfangs|kommando: Kapitän Brandt, Christine, Joe, einige Besatzungs|mitglieder sowie den künstlichen Körper von Ned, des AI-Bordrechners.
+"Driscoll! Wir haben Sie tatsächlich noch lebend gefunden! Was müssen Sie durchgemacht haben!"
+"Tom, Du bist doch nicht draufgegangen! Mann, bin ich froh, Dich zu sehen!"
+"{FAT }Tom!{NORS} Mein Gott, daß ich Dich noch mal wiedersehe! Wie geht es Dir? Was ist passiert? Und wo..."
+"Verzeihen Sie, Mrs. Mocci, aber wie Sie sehen, ist Mr. Driscolls Allgemeinzustand sehr schlecht. Er muß dringend in medizinische Behandlung."
+"Gas... Kpn' Brandt, warum... Der Planet ist..."
+"Ich denke auch, daß wir Mr. Driscoll sofort in die medizinische Abteilung bringen sollten. Es ist ein Wunder, daß er so lange auf dieser lebens|feindlichen Oberfläche überleben konnte."
+"Aber, Sir, der Planet ist doch... Sie müssen doch wissen das...^^{FAT }Der Planet ist voller Leben!{NORS}"
+"Wie ich befürchtet hatte! Mr. Driscoll halluziniert. Er muß sofort auf die Krankenstation."
+Die beiden Secus nehmen Tom wieder in die Mitte und schleifen ihn fort.
+"Tom!"
+"Gedulden sie sich einige Tage, Mrs. Mocci. Sie werden Mr. Driscoll besuchen können, sobald er sich ein wenig erholt hat."
+"Aber..."

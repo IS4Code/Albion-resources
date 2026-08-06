@@ -1,7 +1,7 @@
 ﻿leer
 Ein mechanischer Schalter.
 An der Wand befindet sich eine kleine, mechanische Taste.
-Leicht zu übersehen, ist en winziger Schlter in die Wand eingelassen.
+Leicht zu übersehen, ist ein winziger Schalter in die Wand eingelassen.
 Eine Bodenplatte. Es scheint, als würde sie beim darüberlaufen einsinken können.
 Eine Tür.
 Die Tür ist fest verriegelt, es ist kein Schloß zu erkennen.
@@ -52,3 +52,9 @@ Platzhalter
 Ein Geräusch ist aus westlicher Richtung gekommen.
 In der südwestlichen Ecke des Raumes hat sich die Tür geöffnet!
 Das Tor rechts von den Schaltern hat sich geöffnet!
+Neben einer Menge Bodenplatten sind hier große Flammen zu sehen, die sich unberechenbar über den Boden bewegen.
+"Hm! Eine recht wirkungsvolle Mechanik!"
+Die Steinwand verschwindet zügig im Boden!
+Hinter dem Gitter ist ein großer Schalter zu erkennen. Leider kommt man durch die Stäbe nicht heran.
+Eine verschlossene Kiste.
+Unter diesem Gerümpel meint {LEAD}{NAME} etwas Interessantes zu sehen!

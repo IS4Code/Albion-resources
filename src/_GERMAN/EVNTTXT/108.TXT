@@ -1,0 +1,6 @@
+﻿{BLOK000}"Na ja, ich lerne und manchmal helfe ich Zerlegen der Jagdbeute, wenn ich mich nicht davor drücken kann."
+"Oh, die Menschen! Ähm, ich meine, Dsarii-ma!" {BLOK010}"Dsarii-ma. Wie alt bist Du denn?"
+"Dsarii-ma. Ihr möchtet noch etwas von mir?"
+"Ich bin schon 4 Jahre alt. Bald bekomme ich beigebracht, wie man Schmerzen unterdrückt. Aber es ist noch solange hin, bis ich volljährig bin!" {WORDSchmerzen}{WORDVolljährigkeit}
+"Ich weiß nicht, ob Menschen das auch können, aber bei uns gibt es eine Methode, wie man Schmerzen irgendwie wegdenken kann. Demnächst lerne ich, wie das geht. Meine älteren Geschwister können es schon.{WORDGeschwister}"
+"Hab' ich doch schon gesagt. Bald lerne ich, wie man Schmerzen wegdenkt."

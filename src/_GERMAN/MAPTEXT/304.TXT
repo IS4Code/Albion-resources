@@ -3,7 +3,7 @@ Ein Sicherungskasten.
 Ein Sessel.
 Eine Liege.
 Das Steuerpult für den Atomreaktor.
-
+Ein Servicepanel.
 Eine Steuerungskonsole.
 Eine Flugsteuerungskonsole.
 Ein Kontrollpult.
@@ -15,17 +15,17 @@ Zahnputzzeug.
 Eine Anzeige für die Korridor-Überwachung.
 Kontroll-Anzeigen.
 Ein Teil des Reaktors.
-F"sser mit Müll, Wasser, Gift- und Rohstoffen.
+Fässer mit Müll, Wasser, Gift- und Rohstoffen.
 Eine ausgeschaltete Konsole.
 Eine Lampe.
 Ein Teller.
 Ein Glas.
 Ein Becher.
-Ein Beh"lter.
+Ein Behälter.
 Eine Flasche.
 Eine Kanne.
 Eine Dose.
-Ein Gef"ß.
+Ein Gefäß.
 Ein Pfeffer- und ein Salzstreuer.
 Sojasoße.
 Ein Topf.
@@ -35,7 +35,7 @@ Ein Spaten.
 Ein Schraubenschlüssel.
 Ein Schraubenzieher.
 Eine Handkonsole.
-
+Ein PDA. (Personal Digital Assistent)
 Eine Zange.
 Besteck und ein Becher.
 Geschirr.
@@ -44,7 +44,7 @@ Ein Shuttle.
 Container.
 Eine Dusche.
 Ein Fahrzeug.
-
+Bodenmarkierungen.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
@@ -60,89 +60,89 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Kaum sind die Secus mit Tom in der Mitte außer Sichtweite der anderen, spürt Tom einen kurzen, scharfen Schmerz am Hals. Die Injektion läßt alles um ihn herum in Dunkelheit versinken.
+Unbestimmte Zeit später kommt Tom in einem Krankenzimmer wieder zu sich.
+"Verdammt! Mein Kopf!^^Was soll das ganze bescheuerte Theater? Sind die hier alle übergeschnappt?"
+"Die Tür ist gesperrt! Driscoll, Du bist in Schwierigkeiten. Irgendwas ist hier faul."
+Die Tür ist gesperrt und läßt sich nicht öffnen.
+Eine Konsole zur Überwachung von Körperfunktionen.
+"Sie haben dieses Krankenzimmer in eine Gefängniszelle verwandelt!"
+"Tom! Warte, ich versuche, reinzukommen!"
+Plötzlich öffnet sich die Tür und Toms alter Freund Joe kommt herein!
+"Joe! Endlich eine Menschenseele! Was ist hier eigentlich los? Warum werde ich hier wie ein Verbre..."
+"Stop, stop! Beruhige Dich, Mann.^^Erstmal: Schön, daß Du noch am Leben bist. Wir hatten Dich und Hofstedt schon abgeschrieben."
+"Sorry, Alter. Ich freu' mich auch, Dich zu sehen."
+"O.K. Ich weiß nicht, wie lange wir hier Zeit haben. Vielleicht merken sie, daß ich die Tür mit einer manipulierten Karte aufbekommen habe."
+"Ich habe mir schon gedacht, daß Dein Besuch hier inoffiziell ist. Sag' mir endlich, was hier passiert ist!"
+"Nichts da! Zuerst bist Du dran. Leg' los, kurz und knapp."
+"Kurz und knapp? Mann, Du hast ja keine Ahnung..."
+Tom schildert so kompakt wie möglich seine unglaublichen Erlebnisse. Er berichtet von den Iskai und Menschen und seinen Abenteuern auf einer vor Leben strotzenden Welt.^^Joe wird immer fassungsloser.
+"Wow. Das muß ich im Sitzen verdauen.^^ Wenn ich dich nicht so lange kennen würde, würde ich tatsächlich glauben, daß Du 'n bißchen Nebenluft ziehst.^^Das ist wirklich alles passiert?"
+"Du weißt, daß ich mir sowas nicht aus den Fingern saugen würde. Hofstedt könnte Dir alles bestätigen, wenn er nicht bei den Dji Cantos geblieben wäre."
+"Immerhin würde das einiges erklären. Aber daß diese Welt so..."
+"Jetzt bist Du dran, mein Freund. Was ist hier passiert."
+"Alles geht seinen normalen Gang. Und genau das ist das Problem."
+"Du willst mir doch nicht erzählen, daß hier keiner was davon gemerkt hat, was mit diesem Planeten los ist!"
+"Überleg' mal! Wenn Du auf der Erde inmitten der Wüste Gobi gelandet wärst, und weiter vom Planeten nichts gesehen hast, was würdest Du dann denken?"
+"Der Landeplatz ist geschickt gewählt, schon wahr. Das läßt nur den Schluß zu, daß falsche Daten von der AI und Käpt'n Brandt an die Besatzung weitergegeben wurden."
+"Offenbar. Aber davon mal abgesehen, einige Dinge sind schon passiert.^^Das die Atmosphäre besser atembar ist, als im voraus vermutet, ist schwer zu ignorieren.^^Außerdem sind wir bei den ersten Abbauarbeiten auf verdammt seltsame und wehrhafte Viecher gestoßen. Solch hoch entwickelten Lebensformen kann es auf einem fast leblosen Planeten kaum geben."
+"Und niemand ist mißtrauisch geworden?"
+"Na ja. Die Kreaturen wurden von den Secus abgewehrt. Am Anfang gab es ein völlig verrückte Serie von unerklärlichen Einstürzen und Unfällen. Das hat uns so in Trab gehalten, daß wir kaum Zeit zum Schlafen, geschweige denn zum Nachdenken hatten.^^Der Käpt'n ist nach der "Brute Force" - Methode vorgegangen. Hat eine Menge Munition und Material gekostet, aber mit der Ausrüstung, die uns mitgegeben wurde, haben wir alle Probleme einfach niedergewalzt.^^Schließlich haben all die Vorfälle langsam nachgelassen. Die Prämien wurden glatt auf's Doppelte erhöht und viele an Bord haben dadurch ihre Neugier verloren. Die anderen haben keine Möglichkeit, irgend etwas über diese Welt in Erfahrung zu bringen. Du weißt, es ist untersagt, den Bereich der Anlage zu verlassen."
+"Paßt alles hervorragend zusammen. Jetzt ist mir klar, warum sie mich kaltgestellt haben.^^Ich war wohl etwas naiv. Aber daß es DDT auf die dreiste Methode versucht, hätte ich nie gedacht. Irgend jemand wird dahinterkommen!"
+"Vielleicht. Vielleicht nicht.^^Der Tod von Inspektor Beegle erscheint dadurch natürlich ebenfalls in einem neuen Licht."
+"Richtig. Er könnte was von der Manipulation der Sondendaten gemerkt haben und hat versucht, einen Kontakt zu seiner Dienststelle herzustellen, als es ihn erwischte."
+"Das gezielte Überladen der over-c - Konsole kann eigentlich nur von Ned, dem Bordrechner herbeigeführt werden. Wenn die AI tatsächlich aktiv bei der ganzen Sache mitmischt, und davon müssen wir ausgehen, sollten wir verdammt vorsichtig sein. Es gibt nicht viel an Bord der TORONTO, was nicht von der AI gesteuert werden kann."
+"Wir müssen trotzdem hier heraus und mit den Leuten an Bord reden! Ich kenne doch viele der Leute. Wenn sie alles über diese Welt wissen, kann ich mir nicht vorstellen, daß alle weiter an der Zerstörung des Planeten weiterarbeiten, Prämie oder nicht."
+"Mag sein. Es würde jedenfalls für genug Trubel sorgen, um den Betrieb hier zum Erliegen zu bringen.^^Aber das ist nicht das Problem. Das Problem ist die AI."
+"Was soll das Ding machen? Uns den Strom abstellen? Ned mag Kameras haben, aber es sind keine Maschinenpistolen daran geschraubt."
+"Ich habe vor ein paar Wochen etwas entdeckt, was an Bord wohl nur wenige wissen dürften: Es gibt nicht nur einen der künstlichen Körper, durch die die AI mit uns kommuniziert. Es gibt Dutzende!^^Und die Dinger sind gefährlich, gerade in dieser Anzahl. Wenn Ned in der Lage ist, alle Körper gleichzeitig zu steuern und Ernst macht, gibt es an Bord ein Gemetzel!"
+"Ach du Scheiße. Du meinst, DDT würde Gewalt gegen die eigenen Leute anwenden?"
+"Das kannst Du Dir ausrechnen. Wenn ein Schiff dieser Größe seine Mission nicht erfüllt, ist das kein herber Verlust für die Bilanzen.^^Es wäre das Ende der Firma.^^Das motiviert zu außergewöhnlichen Anstrengungen und Maßnahmen, sage ich Dir."
+"Also gut.^^Ich könnte Dir jetzt lang und breit erzählen, wie auf der langen Reise hierher dieser Planet und seine Bewohner zu einem Teil von mir wurden und so weiter und so fort.^^Ich sage zu dem Thema nur das Eine:^^Diese Welt wird nur über meine Leiche umgegraben, O.K.?"
+Joe schaut Tom eine Weile schweigend an. Nach einer Denkpause sagt er:
+"Muß ja tolle Gegenden auf dieser Welt geben. Ich würde sie gerne mal kennenlernen.^^Also: Ich werd's bestimmt bereuen, aber...^^Ich bin dabei."
+"Was soll ich sagen? Ich..."
+"Wie wär's mit: 'Danke'?^^Ha, vergiß' es!"
+"Hast Du 'ne Idee, wie's weitergehen könnte?"
+"Wir müßten versuchen, die Energieversorgung der AI lahmzulegen. Dann könnten wir mit der ganzen Besatzung sprechen, auch mit den Sicherheits|leuten. Ich gehe davon aus, daß die Secus nicht alle über Leichen gehen. Es könnte dann eine kleine Palastrevolution geben, ohne daß das Risiko eines Blutbades durch die AI-Körper besteht."
+"Ich gehe mal davon aus, daß wir der AI nicht einfach den Stecker 'rausziehen können, oder?"
+"Ich wußte, daß die Frage kommt.^^Der Zentralrechner, der Neds künstliches Bewußtsein enthält, ist in einem Spezialgehäuse untergebracht, dem selbst Weltraum|bedingungen nichts ausmachen. Die Energie|versorgung geschieht drahtlos. Unsere einzige Chance liegt im zentralen Steuerraum des Fusions|kraftwerkes. Dort müßte eine Konsole stehen, die in der Lage ist, die Energie|übertragung zur AI zu unterbrechen."
+"Wie stehen unsere Chancen, dorthin zu gelangen?"
+"Normalerweise beschissen.^^Zwei Dinge könnten uns jedoch helfen. Erstens ist das Kraftwerk in dem Segment, in dem wir uns gerade befinden.^^Zweitens konferiert die AI gerade mit dem Kapitän, vermutlich über Dich, übrigens. Die verbale Kommunikation Neds mit einem Menschen beansprucht immer noch mehr Rechenzeit als alle anderen Aufgaben. Das heißt, die TORONTO wird zwar weiter gesteuert, aber andere rechenzeit|intensive Dinge werden unterdrückt.^^Dazu gehört zum Beispiel die visuelle Auswertung von Kamerabildern.^^Lange Rede, kurzer Sinn: Wir könnten versuchen, unbemerkt durch die Service-Ebene zum Kraftwerks|raum zu gelangen, die AI abklemmen und die Leute an Bord über diesen Planeten aufzuklären."
+"Klingt gut. Auf geht's zum Kraftwerk."
+"Das ist alles, was Dir dazu einfällt?^^Was soll's, wir müssen erstmal hier einen Zugang zum Servicedeck finden. Es ist dafür gesorgt worden, daß in dieser Abteilung sonst niemand ist, wir sollten aber diesen Bereich nicht verlassen, sonst haben wir gleich die Secus am Hals. Die sperren uns wieder ein, bevor Du einen Pieps von Deiner Story ablassen konntest."
+"Auf die Gefahr hin, mich zu wiederholen: Auf geht's!"
+Ein Türöffner.^^ Neben der Tastatur befindet sich ein Schlitz zum Einführen von Codekarten.^^ Hier ist bereits geöffnet worden.
+Ein Türöffner.^^ Neben der Tastatur befindet sich ein Schlitz zum Einführen von Codekarten.
+"Hinter dieser Tür müßte sich ein Servicepanel befinden, durch das wir in die Service-Ebene hinabsteigen können."
+"Diese Schleuse führt nach draußen. Hat bestimmt eine hohe Alarmpriorität. Wenn wir die öffnen, haben wir sofort die AI und die Secus am Hals."
+"Hier geht es in den Hauptbereich der Krankenstation und zu den Unterkünften der Secus. Viele Leute dort, wir sollten, wie gesagt, lieber versuchen, hier den Einstieg in die Service-Ebene zu finden."
+"Kannst Du die Tür knacken? Sollte nicht schwieriger als vorhin bei meiner Tür sein, oder?"
+"Schon wahr. Ich hatte jedoch nur {FAT }eine{NORS} programmierbare Karte. Weißt Du, wie schwierig es ist, an die Dinger ranzukommen? Außerdem sieht es so aus, als sei diese Tür auch mit einem Code zu öffnen."
+"Und wo sollen wir den Code herbekommen?"
+"Keine Ahnung."
+Hier liegt ein Zettel mit einer Codenummer darauf.
+"Ha! Es geht doch nichts über menschliches Versagen!^^Wie gut, daß es so viele Leute gibt, die ihre Codenummern nicht behalten können. Laß' uns die Nummer ablesen und ausprobieren!"
 Eine Tastatur zur Eingabe von Zahlencodes.
 {TECF}{CNTR}ÖFFNUNGSCODE EINGEBEN:
 {TECF}{CNTR}FALSCHER CODE. ÖFFNUNG VERWEIGERT.
 {TECF}{CNTR}CODE KORREKT. ÖFFNE SERVICEPANEL.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Ah, das Servicepanel. Der Code für diesen Zugang lautet 1712."
+"Der Öffnungscode ist 1712"
+{TECF}{CNTR}CODE KORREKT. ÖFFNE TÜR.
+Die Tür ist verschlossen.
+In diesem Schrank liegt eine grüne Codekarte!
+Als Tom die Schleuse näher untersucht, meint Joe:
+"Ich sag's nochmal: Laß' das Ding lieber in Ruhe. Wir würden einen Alarm auslösen."
+Hier lagern eine Menge Stimdrinks!
+"Natürlich von dem Zettel, den wir oben gefunden haben, Mann!"
+Eine Leiter. Sie führt nach unten.
+Auf dem Weg durch das Servicedeck können Tom und Joe den Secus knapp entkommen.^^Eilig rennen sie durch den Krankenbereich, um die Schleuse nach draußen zu finden.
+Tom und Joe haben die Schleuse nach draußen schon fast erreicht, da sehen sie einen der Körper der AI den Weg in die Freiheit blockieren!
+"Tom Driscoll, Joe Bernard, Ihr Widerstand gegen die Bordregeln und Ihre offensichtliche Bereitschaft, gegen Firmeninteressen vorzugehen, machen drastische Maßnahmen leider unumgänglich.^^Tut mir leid."
+Der AI-Körper hebt eine Waffe!
+Durch den Feuerball beschädigt, torkelt der AI-Körper hilflos umher.
+"Mein Gott!^^Was war {FAT }das{NORS}? Wie hast Du das gemacht, verdammt?"
+"Ein kleines Geschenk, das man mir auf der Insel der Dji Cantos überreicht hat.^^Noch Fragen?"
+"Dutzende. Aber keine Zweifel mehr an Deinem Bericht."
+"Wie schön.^^O.K., laß' uns abhauen. Es wird schwer genug, sich unentdeckt durch die Wüste zu schlagen."

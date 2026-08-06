@@ -153,8 +153,8 @@ Die Tür ist fest verschlossen.
 "Dsarii-ma. Ich könnte ein paar neue Jagdwaffen gebrauchen. Mal sehen, was Snird in letzter Zeit hergestellt hat."
 "Dsarii-ma. Ich glaube, ich werde meine Ausrüstung ein wenig auf eigene Rechnung aufbessern."
 {INK 001}{LEAD}{NAME} erkennt in {HIS } Gesprächspartner ein Mitglied des Jägerclans.^^ {INK 002}"Ah, die Menschen, Sinnbilder der Undankbarkeit!"
-{INK 001}{LEAD}{NAME} erkennt in {HIS } Gesprächspartner ein Mitglied des Jägerclans.^^ {INK 002}"Dsarii-ma, Gäste des Südwind-Clans! Schaut euch nur Snird's Auswahl an, er hat so manches, was eine lange Reise sicherer macht!"
-"Dsarii-ma. Eine meiner Waffen ist schon wieder gebrochen. Ein altes Familienstück, ich hoffe Snird kann es noch einmal reparieren."
+{INK 001}{LEAD}{NAME} erkennt in {HIS } Gesprächspartner ein Mitglied des Jägerclans.^^ {INK 002}"Dsarii-ma, Gäste des Südwind-Clans! Schaut Euch nur Snirds Auswahl an, er hat so manches, was eine lange Reise sicherer macht!"
+"Dsarii-ma. Eine meiner Waffen ist schon wieder gebrochen. Ein altes Familienstück, ich hoffe, Snird kann es noch einmal reparieren."
 "Dsarii-ma. Snird hat ein gutes Angebot, aber ich weiß nicht, ob etwas dabei ist, das auch für Menschenhände geeignet ist."
 "Dsarii-ma. Snird ist für seine gute Arbeit bekannt, er stellt nicht nur vorzügliche Waffen und Rüstungsteile her, sondern er hat auch eine sichere Hand in der Reparatur zerstörter Teile."
 Diese Tür führt nach draußen.

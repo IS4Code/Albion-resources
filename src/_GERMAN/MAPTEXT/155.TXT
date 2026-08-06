@@ -50,3 +50,7 @@ Platzhalter
 Platzhalter
 Ein modriger Geruch hängt hier in der Luft. Dieser Teil der Anlage ist von Moos überwuchert und wirkt verfallen.
 "Hier war seit langer Zeit niemand mehr, dessen bin ich mir gewiß."
+Eine metallbeschlagene Kiste.
+Die Tore sind fest verschlossen.
+
+Unter diesem Gerümpel meint {LEAD}{NAME} etwas Interessantes zu entdecken!

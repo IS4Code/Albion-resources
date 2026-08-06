@@ -1,10 +1,22 @@
 ﻿!
 Ein großes Tongefäß. Es befindet sich nichts von besonderem Wert darin.
-Ein Faß. Es enthält nichts interessantes.
+Ein Faß. Es enthält nichts Interessantes.
 Eine Ansammlung von altem Gerümpel. {LEAD}{NAME} stöbert ein wenig darin herum, kann aber nichts von Wert entdecken.
-Dieser Metallhaufen stammt offensichtlich von den Überresten des Shuttles. Es gelingt {LEAD}{NAME} allerdings nicht, darin noch etwas funktionstüchtiges zu entdecken.
+Dieser Metallhaufen stammt offensichtlich von den Überresten des Shuttles. Es gelingt {LEAD}{NAME} allerdings nicht, darin noch etwas Funktions|tüchtiges zu entdecken.
 Eine Vorratskiste. Sie enthält nichts, was das Mitnehmen lohnen würde.
 Ein kräftiges, pilzähnliches Gewächs.
-An dieser Stelle scheint die pflanzliche Wand brüchig zu sein: Tiefe Risse durchziehen das organische Material.
+An dieser Stelle scheint die pflanzliche Wand brüchig zu sein: Tiefe Risse durchziehen das organische Material. Mit einem geeigneten Werkzeug könnte man hier sicher etwas ausrichten.
 {LEAD}{NAME} setzt zu einem kräftigen Schlag mit der Spitzhacke an. Die Wand stürzt zusammen und gibt einen Durchgang frei!
-Plötzlich passieren mehrere Dinge gleichzeitig:^ Hinten stürzt die Decke ein, als rechts die Wände in Bewegung geraten und von scharfen Klauen niedergerissen werden! Raubtierhafte Kreaturen kommen aus der neugeschaffenen Öffnung und greifen an!
+Plötzlich passieren mehrere Dinge gleichzeitig:^ Hinten stürzt die Decke ein, als vorne die Wände in Bewegung geraten und von scharfen Klauen niedergerissen werden! ^^Raubtierhafte Kreaturen kommen aus der neugeschaffenen Öffnung und greifen an!
+In dieser Vase befinden sich haltbar gemachte Lebensmittel.
+{LEAD}{NAME} findet hier einige Essensrationen.
+Unter diesem Gerümpel meint {LEAD}{NAME}, etwas Interessantes zu sehen!
+Eine Vorratskiste.
+Unter den scharfen Metalltrümmern erblickt {LEAD}{NAME} etwas, das {HIS } Aufmerksamkeit auf sich zieht!
+In dieser Kiste findet {LEAD}{NAME} etwas Brauchbares.
+{INK 001}{LEAD}{NAME} findet einen Chronometer in den Metalltrümmern. Tom meint:{INK 002}^^ "Unglaublich! Diese Uhr ist noch funktionstüchtig!"
+{INK 001}Tom:{INK 002}^^ "Sieh an! Hier sind noch ein paar Patronen heilgeblieben!"
+{INK 001}Tom:{INK 002}^^ "Glück gehabt! Diese Stimdrinks sind zwar verschrammt, aber noch einsatzbereit!"
+Unter all dem alten Zeug findet sich etwas Interessantes.
+"Ein Einsturz!^Und was sind das für Tiere? Sehen aggressiv aus, passen Sie auf, Driscoll!"
+"Hier irgendwo ist die Stelle, wo die Wand eingestürzt ist. Mit der Spitzhacke aus der Kiste könnten wir den Einsturz vielleicht beseitigen."

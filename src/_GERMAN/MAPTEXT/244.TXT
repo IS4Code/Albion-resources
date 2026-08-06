@@ -1,30 +1,30 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿-frei-
+Der Ausgang.
+"Besonders weit ist der Stollen wohl noch nicht ausgearbeitet!" meint {LEAD}{NAME} und deutet auf den Boden. Erst jetzt fällt auch den anderen auf, daß die Gleise gleich beim Eingang aufhören. Zu Fuß ist der Tunnel allerdings gut passierbar.
+"Ich glaube, wir sind gerade durch eine Wand gelaufen! Das war wohl eine Illusionswand, aber sie sah verdammt echt aus."
+Eine Truhe.
+Eine Treppe.
+Dort ist ein Loch in der Decke.
+Das Loch, durch welches Tom und die anderen gefallen sind, ist zu hoch, um mit einem Seil wieder hochklettern zu können.
+Eine Türe.
+Ein Tisch mit einer Truhe.
+Eine heiße Flamme.
+"Autsch!"
+"Die Türe hat sich geöffnet!"
+Diese Türe kann nicht durch einen Schlüssel geöffnet werden.
+Ein Knopf an der Wand.
+Eine Fallgrube.
+Ein schillernder magi|scher Vor|hang.
+Diese Türe ist mit einem Schlüssel nicht zu öffnen.
+Der Hebel klemmt!
+Eine Kontaktplatte.
+{CNTR}Eine Inschrift in der Wand:^{INK 006}{FAT }Zurück mit Euch!
+Ein Hebel.
+{LEAD}{NAME} entdeckt einen versteckten Knopf an der Wand!
+Es ist kein Schloß, keine Klinke und kein Schalter zu sehen. Vermutlich ist die Türe nur über einen Mechanismus zu öffnen. Die Farben von den Flammen spiegeln sich in der Türe ganz unterschiedlich. Rot- und Grüntöne sind sehr gut, Blautöne dagegen gar nicht zu sehen. Vielleicht ist die Türe licht|empfind|lich.
+"Seht!^^Diese Wand hat irgend eine Art von Schienen|mechanismus an den Kanten. Sie sieht wirklich merk|würdig aus. Ich könnte mir vorstellen, daß sie durch einen der Hebel in den Boden versenkt werden kann. Zu allem Überfluß hat sie auch noch eine Kaminnische. Vielleicht kann ein entsprechendes Feuer den Mechanismus mit Energie versorgen.^^Ich glaube wirklich, daß solche Wände über die vielen Hebel gesteuert werden können."
+"Was dieser Hebel jetzt wohl wieder bewirkt hat? Vielleicht hängt er mit einer dieser Schienenwände zusammen."
+"Hier befindet sich wohl eine Quelle."
+Aus dem Norden hört man ein furchtbares Geräusch, das sich ungefähr so anhört, wie wenn man mit einem riesigen Bohrer ein Loch in den Boden bohrt.
+"Habt Ihr das Knirschen gehört? Ich glaube, es kam aus der Richtung des Raumes, über den wir in diese Ebene gekommen sind."
+Eine Schienenwand.

@@ -1,11 +1,11 @@
-﻿
-
-
-
-
-
-
-
-
-
-
+﻿frei
+Hinter diesen Gitterstäben befinden sich Gefangene. Da die Gittertüren aber sehr stabil aussehen, besteht sicher keine Gefahr.
+Durch diese Türe kommt man wieder in den Vorraum. Sie ist verschlossen.
+Durch diese Türe kommt man wieder in den Vorraum. Sie ist geöffnet.
+Ein leeres Schlüsselbrett.
+An diesem Schlüsselbrett hängt ein Schlüssel.
+{INK 006}Kein freier Platz für Gepäck.
+"Ich will hier raus! Laßt mich raus!!!"
+"Die Welt ist ungerecht und frustrierend! Aber was bedeuten wir schon. Wir sind ja auch nur kleine Sandkörner."
+"Laßt mich nur in Ruhe, wenn ihr nicht darauf erpicht seid, mit einem Messer zwischen den Rippen rauszugehen."
+"Grüßt die Welt von mir. Ich habe schon lange keine Sonne mehr gesehen. Aber ich darf hier glücklicherweise bald wieder raus. Ich freue mich schon darauf, wieder frische, warme Luft einatmen zu können."

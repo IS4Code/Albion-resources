@@ -1,0 +1,3 @@
+﻿{BLOK000}"Hrrmm... na ja, ich LEBE!"
+"Dsari... Ohh, seid Ihr breit! Ihr seht ja wirklich so komisch aus, wie man sagt."{WORDGeschwister}{WORDJirinaar}{WORDSebainah}
+"Dsarii-ma! Da seid Ihr ja wieder!"

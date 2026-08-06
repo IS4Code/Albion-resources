@@ -1,0 +1,9 @@
+﻿{BLOK000}"Ich baue Häuser aus Pflanzen, wie Ihr hier bestimmt schon mehrere davon gesehen habt."
+"Menschen??? Ihr traut Euch noch hier her? Paßt gut auf Euch auf, wir haben in diesen Tagen nicht die beste Meinung von Euch! Aber unsere Krieger werden die heilige Stätte verteidigen. Sie sind schon dort. An Eurer Stelle würde ich hier schnell verschwinden. Ihr könnt ja mitkämpfen, oder möchtet Ihr lieber zuschauen?"{WORDMeinung}
+"Wir hören nur Schlechtes über die Menschen. Wundert Euch das etwa? Was würdet Ihr denn sagen, wenn man Euch Euer Wertvollstes nimmt. Und dann auch noch auf eine schandvolle Art und Weise. Mit Kriegern haben sie den ganzen Ort umstellt und, ich weiß es nicht, vielleicht sind sie schon in unser Heiligtum eingebrochen und haben es entweiht. Dabei kommen diese Wesen woanders her, soviel ist sicher. Ihr irrt Euch! Aber wir werden uns wehren. Das nehmen wir nicht so einfach hin. Und wenn es einen Krieg bedeutet! Wundert Euch nicht, wenn Ihr hier keine Waren mehr erhaltet. Wir unterstützen unsere Feinde schließlich nicht auch noch.^^Übrigens hat Edjirr mittlerweile handfeste Be- weise gegen Kontos in der Hand."{WORDMenschen} {WORDKrieger}{WORDTabu}{WORDWesen}
+"In Eurer Gruppe sind nun einmal Menschen dabei!"
+"Wir werden es verteidigen, soviel steht fest! Unsere Krieger sind bereits losgezogen. Ihr sollt nicht denken, daß Ihr alles tun könnt, was Ihr für richtig haltet."
+"Dieses Tabu gibt es schon, solange ich zurückdenken kann. Das hat historische Gründe, die ich Euch jetzt aber nicht erklären möchte. Und Kontos und seine Anhänger aus Kounos haben es gebrochen!"
+frei
+"Ja?"
+"Wir wissen alle nicht, woher diese Wesen kommen. Sie scheinen magischen Ursprungs zu sein, und die meisten davon trifft man ganz in der Nähe unseres Heiligtums. Wir haben aber noch nie erlebt, daß sie AUS unserem Heiligtum kommen."

@@ -1,0 +1,5 @@
+﻿{BLOK000}"Ich bin der Kneipenwirt hier."
+"Ihr glaubt doch nicht im Ernst, daß ich Euch auch noch bewirten werde? Ich würde mich an Eurer Stelle hier nicht mehr blicken lassen. Geht lieber zur heiligen Stätte und versucht, Kontos und seine Anhänger von Ihren Plänen abzuhalten. Inzwischen habe ich ja sogar handfeste Beweise gegen Kontos!"{WORDBeweise}
+"Die könnt Ihr gerne haben, damit Ihr seht, mit wem Ihr es zu tun habt. Ich habe außerdem noch Abschriften davon. Es ist leider nur ein Teil eines Dokumentes, welches Kontos vernichten wollte. Man kann aber noch eine ganze Menge lesen!"
+"Ich habe Euch das Dokument doch schon gegeben."
+"Ich bin Edjirr."

@@ -1,7 +1,7 @@
 ﻿-frei-
 Äste und Wurzeln.
 Ein geflochtener Korb.
-Ein Glasgefäß für Wein und andere Getränke.
+Ein Glasgefäß für Wasser und andere Getränke.
 Ein Faß.
 Ein prächtiges Tierfell.
 Ein Eimer.
@@ -41,7 +41,7 @@ Ein zusammengeklappter Hocker.
 Ein massiver Eßtisch.
 Ein Baumstumpf.
 Zwei gekreuzte Speere.
-Ein großes Faß mit Wasser, Bier oder Wein.
+Ein großes Faß mit fremdartigen Getränken.
 Ein Zapfhahn.
 Eine Bettdecke.
 Ein komfortables und hübsch verziertes Bett.
@@ -127,6 +127,7 @@ Platzhalter für weitere Cutmap-Events.
 --- coming soon: special dialog ---
 "Mein Vater ist der beste Schmied der Welt!"
 "Tori Din. Tamno hat vor kurzem mal wieder die Preise erhöht. Na ja, wenigstens leistet er gute Arbeit."
-"Tori Din, Reisende! Seid froh, daß ihr noch Junggesellen seid. Meine Frau schickt mich schon wieder nach einem neuen Zierschild für unsere Hütte. Sie wird mich noch ruinieren!"
-"Tori Din, Besucher. Ihr seid an Waffen interessiert? Da seit ihr hier richtig. Man kann ja auf einer Reise nie vorsichtig genug sein."
-"Tori Din, verehrte Kunden. Wendet Euch bitte an Tamno, meinen Mann, er wird euch fachkundig beraten!"
+"Tori Din, Reisende! Seid froh, daß Ihr noch Junggesellen seid. Meine Frau schickt mich schon wieder nach einem neuen Zierschild für unsere Hütte. Sie wird mich noch ruinieren!"
+"Tori Din, Besucher. Ihr seid an Waffen interessiert? Da seit Ihr hier richtig. Man kann ja auf einer Reise nie vorsichtig genug sein."
+"Tori Din, verehrte Kunden. Wendet Euch bitte an Tamno, meinen Mann, er wird Euch fachkundig beraten!"
+Die Tür ist verriegelt.

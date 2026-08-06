@@ -67,9 +67,31 @@ Platzhalter für weitere Cutmap-Events
 Platzhalter für weitere Cutmap-Events
 Hier befindet sich eine Öffnung, die in das unterirdische Innere des verfallenen Gebäudes führt.
 Der Eingang in die Stadt Jirinaar.
-Eine Planke der verotteten Brücke bricht unter {LEAD}{NAME} zusammen und verletzt {HIM }! Die anderen umgehen die Stelle.
+Eine Planke der verrotteten Brücke bricht unter {LEAD}{NAME} zusammen und verletzt {HIM }! Die anderen umgehen die Stelle.
 Dies müssen die Überreste des einstigen Dji-Fadh Gebäudes sein!
 "Hier muß die Stelle sein, wo wir aufgeschlagen sind! Hier wurde ja wirklich gründlich aufgeräumt, keine Spur mehr von dem Shuttle..."
-Unter dem Geröll findet sich tatsächlich noch etwas brauchbares aus dem Shuttle!
+Unter dem Geröll findet sich tatsächlich noch etwas Brauchbares aus dem Shuttle!
 Der Erdboden ist hier aufgewühlt. Dies ist die Absturzstelle des Shuttles.
-Das schlanke Herdentier schaut {LEAD}{NAME} verwundert an, ignoriert {HIM } dann aber bald.
+"Rriik?"^^{INK 001} Das schlanke Herdentier schaut {LEAD}{NAME} verwundert an, ignoriert {HIM } dann aber bald.
+Ein Schwarm von insektenähnlichen Flugtieren.
+Die kleinen Flugtiere stechen auf äußerst schmerzhafte Weise!
+Ein Krondir!
+Ein kleines, gut gepanzertes Tier. Es ignoriert {LEAD}{NAME} und die Gefährten.
+Ein großes Flugtier. Es macht keinen aggressiven Eindruck.
+Ein Busch, dessen reife Samenkörner leicht zu funkeln scheinen.
+Dieser Busch ist abgeerntet, es sind keine Samen mehr daran zu finden.
+"Das ist ein Triifalai-Busch, eine sehr seltene Pflanze. Die Samenkörner werden von den Dji-Kas für ihre Magie benutzt. Wir sollten die Samen mitnehmen, sie erzielen bei den Dji-Kas - Magieren gute Preise!"
+Als die stechenden Fluginsekten zu nahe kommen, hilft ein Fläschchen des speziellen Duftmittels, sie für kurze Zeit zu vertreiben!
+Janiis geleitet Tom und die Gefährten zum Hafen. Tatsächlich steht dort ein Schiff zur sofortigen Abreise bereit.^^Man verabschiedet sich und schon bald ist das Schiff aus dem Hafen heraus und sticht in See...
+"Ich bin gespannt, was uns noch alles erwartet, bis wir den Landeplatz der TORONTO gefunden haben."
+"Hoffentlich keine weiteren Gefahren."
+"Oh, wir haben unseren Kriminalfall doch ganz gut gelöst.^^Nach all dem, was passiert ist, würde ich übrigens vorschlagen, die Förmlichkeiten ganz beiseite zu lassen. Was meinst Du, Rainer? Und Du, Drirr? Sira?"
+Alle halten es für selbstverständlich, zum Du überzugehen.
+Die Überfahrt dauert viele Tage.^^Man nutzt die Zeit, um von Drirr die Sprache der Menschen auf der nächsten Insel zu lernen.
+Schließlich kommt wieder Land in Sicht...
+Hier ist ein augenförmiges Symbol in den Felsen eingelassen.
+"Diese Felssymbole existieren schon seit sehr langer Zeit. Man findet sie an manchen Orten auf dem ganzen Planeten, aber niemand weiß etwas genaues über ihren Ursprung."
+{LEAD}{NAME} legt das Amulett mit dem Symbol der Göttin an den Felsen.^^Knirschend öffnet sich ein Portal und die Gefährten betreten die Höhle dahinter.
+"Um den Eingang der Höhle zu öffnen, kann ich das Amulett der Göttin benutzen, das ich bei mir trage."
+{INK 006}{CNTR}{BIG }Ende des ALBION-Demos{INK 003}{NORS}^^ {JUST}Wir hoffen, daß Ihnen das Demo Spaß gemacht hat. Wenn Sie Ihre Reise mit Tom Driscoll und seinen Gefährten fortsetzen möchten, können Sie dies mit der Vollversion von ALBION jederzeit tun.^^Um Ihnen einen Eindruck der Abenteuer zu vermitteln, die noch vor Ihnen liegen, folgen nun ein paar Schnappschüsse aus den weiteren Kapiteln...
+{INK 002}{CNTR}{BIG }ALBION{INK 001}{NORS}^^^Jetzt überall erhältlich!

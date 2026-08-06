@@ -1,0 +1,7 @@
+﻿{BLOK000}"Ich bin Mitglied im 'Rat der Gerechten'. Ich sorge dafür, daß alles reibungslos abläuft."
+"Willkommen in Beloveno. Ich bin Gard, Mitglied im 'Rat der Gerechten'."{WORDRat}{WORDRathaus}
+"War noch etwas? Ich bin ziemlich beschäftigt, wir haben bald wieder eine Ratssitzung."{WORDRathaus}{WORDRat}
+"Ich bin eines der drei Ratsmitglieder. Mein Kollege heißt Riko und dann gibt es noch Perron. Riko ist etwas wortkarg, aber ein lieber Kerl. Außerdem sollte ich vielleicht erwähnen, daß Perron ziemlich sensibel ist und alle möglichen Gespenster sieht. Laßt Euch von ihm nicht verunsichern. Schließlich ist da noch Herras, der Ratsvorsitzende. Ihr könnt ja mal alle besuchen. Ich hoffe, Ihr genießt den Aufenthalt in unserer schönen Stadt. Wir werden versuchen, es Euch so angenehm wie möglich zu machen. Wenn Ihr etwas braucht, laßt es mich wissen. Ich bin immer für Euch da."{WORDRiko} {WORDPerron}{WORDGard}
+"Riko und Perron sind die beiden anderen Ratsmitglieder im Rat."
+"Das bin ich."
+"Schaut Euch ruhig um. Unser Rathaus ist ziemlich groß."

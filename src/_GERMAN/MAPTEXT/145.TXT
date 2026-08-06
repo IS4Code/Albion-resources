@@ -1,7 +1,7 @@
 ﻿leer
 Ein mechanischer Schalter.
 An der Wand befindet sich eine kleine, mechanische Taste.
-Leicht zu übersehen, ist en winziger Schlter in die Wand eingelassen.
+Leicht zu übersehen, ist ein winziger Schalter in die Wand eingelassen.
 Eine Bodenplatte. Es scheint, als würde sie beim darüberlaufen einsinken können.
 Eine Tür.
 Die Tür ist fest verriegelt, es ist kein Schloß zu erkennen.
@@ -55,3 +55,9 @@ Das Loch im Boden erweist sich als recht tief: Es folgt ein Sturz in darunterlie
 In südöstlicher Richtung scheint etwas passiert zu sein.
 Das Geräusch kam aus südöstlicher Richtung.
 Hinten haben sich die Feuerschalen entzündet!
+Aus dem messingumfassten Loch im Boden kommt eine Flamme!
+Die Flamme erfaßt die Gruppe!
+Der Schalter läßt sich nicht mehr bewegen.
+"Schaut Euch dieses Biest an! Es wirkt irgendwie... nicht natürlich.^^Eher wie eine Verkörperung dessen, was wir an Raubtieren fürchten."
+Unter dem Gerümpel meint {LEAD}{NAME}, etwas Interessantes zu sehen!
+Diese Tür ist mit einem kräftigen Schloß gesichert.

@@ -1,7 +1,7 @@
 ﻿-frei-
 Äste und Wurzeln.
 Ein geflochtener Korb.
-Ein Glasgefäß für Wein und andere Getränke.
+Ein Glasgefäß für Wasser und andere Getränke.
 Ein Faß.
 Ein prächtiges Tierfell.
 Ein Eimer.
@@ -41,7 +41,7 @@ Ein zusammengeklappter Hocker.
 Ein massiver Eßtisch.
 Ein Baumstumpf.
 Zwei gekreuzte Speere.
-Ein großes Faß mit Wasser, Bier oder Wein.
+Ein großes Faß mit fremdartigen Getränken.
 Ein Zapfhahn.
 Eine Bettdecke.
 Ein komfortables und hübsch verziertes Bett.
@@ -127,8 +127,8 @@ Platzhalter für weitere Cutmap-Events.
 --- coming soon: merchant ---
 "Togi Din. Bragona ist bekannt für ihren haltbaren Reiseproviant."
 {INK 002}"Togi Din, Fremde."
-{INK 002}"Togi Din, Fremde. He, ihr Pelzträger! Könnt ihr überhaupt unser Essen vertragen?"
-"Nein, mein Guter. Wir fressen bevorzugt vorlaute Nackärsche!"
+{INK 002}"Togi Din, Fremde. He, Ihr Pelzträger! Könnt Ihr überhaupt unser Essen vertragen?"
+"Nein, mein Guter. Wir fressen bevorzugt vorlaute Nacktärsche!"
 Der Kelte stellt eine beleidigte Miene zur Schau und antwortet nicht.
-"Hier bei meiner Oma kriege ich immer was leckeres zu Essen!"
-"Togi Din, Reisende! Ich sorge für Herstellung und Einlagerung unserer Spezialitäten. Meine Frau hingegen ist das Verkaufstalent, wendet Euch an sie, wenn ihr Proviant erwerben möchtet."
+"Hier bei meiner Oma kriege ich immer was Leckeres zu Essen!"
+"Togi Din, Reisende! Ich sorge für Herstellung und Einlagerung unserer Spezialitäten. Meine Frau hingegen ist das Verkaufstalent, wendet Euch an sie, wenn Ihr Proviant erwerben möchtet."

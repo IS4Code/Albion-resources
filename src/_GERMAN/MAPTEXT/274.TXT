@@ -1,7 +1,7 @@
 ﻿-frei-
 Äste und Wurzeln.
 Ein geflochtener Korb.
-Ein Glasgefäß für Wein und andere Getränke.
+Ein Glasgefäß für Wasser und andere Getränke.
 Ein Faß.
 Ein prächtiges Tierfell.
 Ein Eimer.
@@ -41,7 +41,7 @@ Ein zusammengeklappter Hocker.
 Ein massiver Eßtisch.
 Ein Baumstumpf.
 Zwei gekreuzte Speere.
-Ein großes Faß mit Wasser, Bier oder Wein.
+Ein großes Faß mit fremdartigen Getränken.
 Ein Zapfhahn.
 Eine Bettdecke.
 Ein komfortables und hübsch verziertes Bett.
@@ -124,3 +124,20 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
+"Wenn Ihr hier mit Leuten reden wollt, geht in die Kneipe. Das ist der Treffpunkt in unserem Dorf. Auch Kontos lebt dort in seinen Kellern unter der Hütte."
+"Mellthas!^^MELLTHAS! Schön, daß Du mich besuchst! Wie kommst Du denn hierher?"
+Mellthas ist die Freude ebenfalls ins Gesicht geschrieben, als er eifrig auf seinem Zettel zu schreiben beginnt.
+"Du hast Deine Freunde alle mitgebracht? Das ist schön, Ihr seid in meinem Haus willkommen."
+"Skeima Din. Ihr seid die Freunde von Mellthas?^^Das ist schön, ich habe schon von Euch gehört. Ich hoffe, daß es Mellthas gut geht und richtet ihm doch bitte einen schönen Gruß aus, wenn Ihr ihn wieder trefft."
+"Das werden wir tun, wenn wir ihn wieder treffen."
+"Ich danke Euch. Jedenfalls seid Ihr hier willkommen."
+"Ich freue mich wirklich sehr, daß Ihr mich besucht. Allerdings bin ich im Moment in Eile, da Kontos bald eine Ansprache hält, zu der ich unbedingt hin muß. Aber kommt doch ein andermal wieder vorbei. Dann erzähle ich Euch gerne mehr über unser Dorf und über mich."
+"Schön, daß Ihr vorbeischaut. Allerdings bin ich im Moment nicht in bester Stimmung. Die letzte Ansprache von Kontos hat mir zu denken gegeben. Ich zweifle ja nicht an seiner Intelligenz, aber manchmal stelle ich fest, daß er mir zu radikal ist."
+"Wir haben zur Zeit eine brisante Stimmung hier. Kontos will das Heiligtum von Srimalinar besetzen. Aber Ihr wißt das nicht von mir. Wir stehen ja schon alle hinter Kontos, aber manchmal bin ich mir nicht sicher, ob seine Entscheidungen richtig sind. Die meisten sind davon überzeugt. Ich bin es aber leider nicht. Über die komischen Wesen weiß ich nichts und das Heiligtum gibt es schon, solange ich lebe. Warum soll das plötzlich gefährlich werden?^^Vielleicht ist das ganze ja auch nur vorübergehend. Die meisten von uns stehen jedenfalls voll hinter unserem Anführer. Vielleicht sind meine Zweifel ja auch unberechtigt."
+"Ich weiß nicht, ob Ihr das mitbekommen habt, aber die meisten in unserem Dorf sind schon zum Heiligtum von Srimalinar gezogen. Wir haben beschlossen, es zu besetzen und das Böse darin zu vernichten. Kontos sagt, daß die Iskai dort mit schwarzer Magie experimentieren. Hoffentlich hat er recht, denn wenn er sich irrt, bedeutet das unweigerlich einen Krieg.^^Ich werde auch bald nachkommen und meinen Stammesbrüdern zur Seite stehen."
+"Schön, daß Ihr noch einmal vorbeischaut. Vielen Dank für alles, was Ihr für uns getan habt."
+"Für Kontos werde ich alles tun! Auch wenn ich dabei mein Leben auf's Spiel setze. Ich weiß dann wenigstens, für was."
+"Denkt nicht, daß wir alle unfreundlich sind. Aber Fremde müssen sich hier erst einmal beweisen, bevor sie unseren Respekt verdienen."
+"Skeima Din. Ich heiße Kleronna. Ich bin jetzt bald so alt wie mein Bruder. Obwohl Mami sagt, daß ich ihn nicht einholen kann. Kann ich doch!"
+In einiger Entfernung unterhalten sich zwei Leute und es gelingt {LEAD}{NAME} einige Wortfetzen aufzuschnappen:^^"...auch schon gehört, daß Herras in Beloveno umgebracht worden...vermutlich aus den eigenen Reihen...sehr tragische Angelegenheit..."^^Mehr kann man durch Störgeräusche leider nicht hören. Als die Mahinos merken, daß die Gefährten das Gespräch belauschen, brechen sie die Unterhaltung sofort ab.
+"Ich muß Euch noch etwas Wichtiges sagen!"

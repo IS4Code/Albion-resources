@@ -1,7 +1,7 @@
 ﻿-frei-
 Äste und Wurzeln.
 Ein geflochtener Korb.
-Ein Glasgefäß für Wein und andere Getränke.
+Ein Glasgefäß für Wasser und andere Getränke.
 Ein Faß.
 Ein prächtiges Tierfell.
 Ein Eimer.
@@ -41,7 +41,7 @@ Ein zusammengeklappter Hocker.
 Ein massiver Eßtisch.
 Ein Baumstumpf.
 Zwei gekreuzte Speere.
-Ein großes Faß mit Wasser, Bier oder Wein.
+Ein großes Faß mit fremdartigen Getränken.
 Ein Zapfhahn.
 Eine Bettdecke.
 Ein komfortables und hübsch verziertes Bett.
@@ -124,3 +124,14 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
+{CNTR}Ich kann Euch nur mit Einladung empfangen.^Wendet Euch an Nodd.^gez. Kontos.
+"Die Welt ist schöööön, tralalala."
+"Bestimmt wißt Ihr nicht, daß jeden Morgen Otikro hier vorbei kommt. Er ist ein hervorragender Kampftrainer."
+"Skeima Din."
+"Als das letzte Mal Besuch in unser Dorf kam, brach danach eine schreckliche Krankheit aus, die zwei unserer Stammesbrüder das Leben kostete.^^Hoffentlich bringt Ihr nicht auch so eine schlimme Krankheit mit."
+"Einkaufen wie in Beloveno könnt Ihr bei uns nicht. Denn wir kennen uns alle untereinander und tauschen die Dinge, die wir brauchen aus. Deshalb brauchen wir keine Läden."
+"Skeima Din,^^Ihr könnt mich jeden Tag hier zwischen 8 und 9 Uhr finden. In dieser Zeit gebe ich immer Unterricht. Ich glaube ich habe mich noch gar nicht vorgestellt: Garadd ist mein Name. In meinem Spezialgebiet bin ich wohl der Beste. Ich habe mich auf tödliche, exakt plazierte Schläge spezialisiert. Im Kampf sehr gut zu gebrauchen."
+"Jetzt sehe ich erst, Siobhan, ich hätte Dich nach all den Jahren fast nicht mehr wiedererkannt. Du bist eine richtige Frau geworden! Freut mich sehr, daß Du mich mal wieder besuchst."
+"Möchtet Ihr meine Dienste in Anspruch nehmen?"
+"Habt Ihr vielleicht noch Interesse Euch im Nahangriff zu üben?"
+"Wie sieht es mit Euren Fähigkeiten aus, was den Fernangriff angeht? Möchtet Ihr euch trainieren?"

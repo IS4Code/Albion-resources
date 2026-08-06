@@ -1,0 +1,3 @@
+﻿frei
+"Skeima Din,^^bitte seid leise und nehmt Rücksicht auf die Kranken in den Betten. Wenn Ihr verletzt seid, kann ich Eure Wunden heilen. Ich kenne mich auch mit Flüchen aus und kann oft helfen, wenn Ihr an irgendeiner Be|ein|träch|tigung leidet.^^Was kann ich für Euch tun?"{BLOK010}"Bitte heilt unsere Ver|letzungen."{BLOK011}"Wir leiden unter schweren Beein|träch|tigungen." {BLOK012}"Könnt Ihr einen Gegenstand entfluchen?"{BLOK013}"Was ist Euer Beruf?"{BLOK014}"Vielen Dank für das Gespräch."
+"Ich kann heilen und Menschen wieder gesund pflegen."

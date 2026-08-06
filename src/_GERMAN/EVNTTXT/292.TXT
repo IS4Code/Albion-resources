@@ -1,0 +1,8 @@
+﻿{BLOK000}"Ich verkaufe die Waffen und Rüstungen. Außerdem könnt Ihr hier davon ausgehen, eine kompetente Beratung von einem erfahrenen Jägersmann zu erhalten. Ich kaufe auch gerne Sachen auf, wenn Ihr etwas interessantes dabei habt."{WORDJägersmann}
+{WORDAngebot}"Skeima Din,^^Ihr werdet hier alles finden, was Reisende brauchen, um sich wirkungsvoll zu verteidigen und zu schützen. Oder habt Ihr etwas interessantes anzubieten?"{WORDVerteidigen} {BLOK010}"Können wir die Waffen und Rüstungen einmal sehen?"{BLOK011}"Wir würden gerne etwas verkaufen."{WORDSchmiede}
+"Aber es ist doch so, überall lauern Gefahren. Besonders auf Leute, die wertvolle Gegenstände dabei haben.^^Ihr seht so aus, wie wenn Ihr mit Waffen umgehen könnt. Am besten, Ihr werft mal einen Blick auf das Sortiment. Ihr werdet begeistert sein, denn mir ist sonst kein Laden bekannt, der ein ebenso großes wie hochwertiges Angebot hat."
+"Ich muß zugeben, daß das schon lange zurückliegt, aber trotzdem habe ich in dieser Zeit viele Erfahrungen gesammelt, und so kenne ich mich mit Waffen aller Art bestens aus."
+"Die Schmiede ist nebenan. Ihr könnt den Schmied ruhig besuchen. Er kann Euch Waffen reparieren. Und natürlich könnt Ihr ihm bei der Arbeit zusehen, wenn Ihr das möchtet."
+"Oh, das Angebot ist ausgesprochen reichhaltig. Wir haben Munition in großen Mengen und große, schwere Waffen. Wenn ich mich nicht irre, haben wir im Moment sogar ein paar magische Waffen im Verkauf."{WORDMagische Waffen}
+"Das sind echte Raritäten. Ich glaube, so etwas werdet Ihr sonst nirgendwo kaufen können. Und das noch zu einem überaus günstigen Preis."
+"Nein danke, Geschenke nehme ich keine an."

@@ -1,0 +1,5 @@
+﻿{BLOK000}"Ich bin Handwerkerin und stelle Tongefäße her."{WORDTongefäße}
+"Dsarii-ma! Euch gibt es also wirklich! Ich hatte Eure Anwesenheit hier schon für ein Gerücht gehalten."{WORDGerücht}
+"Dsarii-ma! Möchtet Ihr noch etwas von mir?"
+"Ja, viele von den Töpfen und Schalen, die Ihr in Jirinaar seht, stammen von mir."{WORDJirinaar}
+"Nun, die Leute erzählen ja manchmal viel und übertreiben noch mehr."

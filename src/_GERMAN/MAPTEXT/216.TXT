@@ -24,7 +24,7 @@ Solche Steppenbäume gedeihen auf sehr trockenem Boden.
 Eine Steppenblume.
 Ein Turmfelsen.
 Kies.
-Eine Felsbrücke.
+Eine große Felsbrücke.
 Platzhalter für weitere Events.
 Platzhalter für weitere Events.
 Platzhalter für weitere Events.
@@ -56,3 +56,8 @@ Platzhalter für weitere Events.
 Platzhalter für weitere Events.
 Platzhalter für weitere Events.
 Platzhalter für weitere Events.
+{LEAD}{NAME} sagt plötzlich:^"Irgendwie ist mir schon wieder so komisch zumute. Vielleicht sollten wir jetzt das Zeug nehmen, das wir in Umajo-Kenta gekauft haben."
+{LEAD}{NAME} sagt plötzlich:^"Irgendwie ist mir schon wieder so komisch zumute. Hätten wir doch nur das Zeug in Umajo-Kenta gekauft. Vielleicht würde es jetzt helfen."
+Die Gruppe ist durch das viele Wandern in der Wüste sehr erschöpft. Die Fähigkeiten der einzelnen Mitglieder sinken drastisch...
+Die Gruppe erhält durch das viele Wandern in der Wüste Schaden.
+Ssssss...

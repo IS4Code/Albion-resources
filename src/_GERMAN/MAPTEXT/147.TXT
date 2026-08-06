@@ -29,7 +29,7 @@ Die Wand sieht an dieser Stelle sehr brüchig aus.
 {LEAD}{NAME} tritt in die Flamme und verbrennt sich!
 {LEAD}{NAME} kippt einen Eimer Wasser über die Flammen und löscht sie!
 Eine weitere Flamme ist gelöscht.
-{LEAD}{NAME} tritt in das Kraftfeld hinein und sofort durchzieht ein furchtbarer Schmerz {HIS } Körper! Nach unendlich erscheinenden Sekunden bricht die Leucht|erscheinung in sich zusammen.
+{LEAD}{NAME} tritt in das Kraftfeld hinein und sofort durchzieht ein furchtbarer Schmerz {HIS } Körper! Das Kraftfeld dehnt sich aus und erfaßt alle!^^ Nach unendlich erscheinenden Sekunden bricht die Leucht|erscheinung in sich zusammen.
 Bei der Berührung mit dem Stab bricht das Kraftfeld in sich zusammen! Der Stab zerfällt dabei zu Staub.
 Mit Hilfe des Seiles können sich alle nach oben ziehen!
 Ein durch die Luft schwebender Feuerball. Er strahlt eine unerträgliche Hitze aus.
@@ -52,7 +52,7 @@ Blitzschnell verschwindet die Wand in der Decke!
 Die roten Wände verschwinden und lassen die Kreaturen dahinter frei!
 Das Tor rechts von den Schaltern hat sich geöffnet!
 Das Tor läßt sich nicht bewegen, es ist blockiert.
--Wenn das Dialogsystem tut, bietet Drirr hier an, die Kraftfelder zu berühren!-
+"Freunde, es ist mein Verschulden, daß wir hier heruntergefallen sind. {FAT }Ich{NORS} werde durch diese Leuchtfelder gehen, damit wir weiterkommen."
 Die Decke hat sich bereits wieder geschlossen, als alle krachend auf dem Boden des darunterliegenden Stockwerks landen!
 "Drirr! Du wirst uns noch alle umbringen! Verdammt, laß Deine voreiligen Finger weg von irgendwelchen Schaltern, bevor wir alle einverstanden sind!"
 "Au, verflucht, das hat weh getan! Ja, ihr mögt ja recht haben. Ich werde versuchen, mich zusammenzureißen. Bevor ihr mich auffreßt, laßt uns herausfinden, wo wir hier gelandet sind."
@@ -64,5 +64,16 @@ Oh, mein Gott! Nichts wie raus hier! Vielleicht können wir die Bestien einsperr
 Alle stürzen durch das Loch im Boden!
 Das Tor zur Rechten schließt sich.
 Rechts öffnet sich das Tor.
-"Ich habe ein ungutes Gefühl. Schaut euch die Biester hinter den Wänden an: Alles hier richt nach einer Falle!"
+"Ich habe ein ungutes Gefühl. Schaut euch die Biester hinter den Wänden an: Alles hier riecht nach einer Falle!"
 "Stimmt. Aber die Schaltplatte dort vorne ist grün. Bisher haben diese Dinger immer positive Effekte gehabt."
+Ein Fallgitter. Es scheint beweglich zu sein.
+Drirr's Angebot zustimmen?
+"Dein Mut ist bemerkenswert, Drirr. Ich sehe auch keine andere Möglichkeit. Viel Glück."
+"Auf gar keinen Fall! Es muß auch einen anderen Weg geben. Durch all diese Leuchtfelder zu gehen, ist purer Wahnsinn."
+Drirr atmet kurz durch und sprintet durch alle Leuchtfelder!^^Er schreit vor Schmerzen auf und bricht beim letzten Leuchtfeld zusammen.
+"Oh, Göttin! Der arme Kerl! Laßt ihn uns so schnell wie möglich verarzten!"
+Gedämpft ertönt das Geräusch eines sich öffnenden Fallgitters.
+Unter dem Gerümpel meint {LEAD}{NAME} etwas Interessantes zu sehen!
+Eine kleine, giftbestrichene Klinge ritzt {LEAD}{NAME}'s Finger!
+{LEAD}{NAME} und die anderen benutzen ein Seil, um sich in die Tiefe zu lassen.
+"Was für ein Haufen Geröll hier liegt! Sieht ja aus wie im Steinbruch."

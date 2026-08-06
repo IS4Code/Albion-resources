@@ -1,0 +1,9 @@
+﻿{BLOK000}"Ich erleche wilde Tiere in den Wäldern, schlachte sie und verkaufe das Fleisch. Sochesehen könnt Ihr mich als Jächer, Metzcher und Verkäufer bezeichnen, newe."
+"Skeima Din, man hört ja viel von Euch. Chefällt Euch Maini? Wart Ihr schon in Kounos? Habt Ihr mal Kontos besucht? Ist ein bißchen komisch, der Kerl, newe."{WORDKontinent}{WORDKounos}{WORDKontos}{WORDMaini}
+"Und nochmal einen schönen Tach. Wir haben uns ja schon kennenchelernt."{WORDKontinent}{WORDKounos}{WORDKontos}
+"Ich kenne den Kontos schon sehr lange. Früher war das ein netter Kerl und man konnte sich richtich chut mit ihm unterhalten. Aber das ist schon lange nicht mehr möchlich. Vor vielen Jahren hat er damit bechonnen, sich mit schwarzer Machie und mit Relichion zu beschäftichen, und inzwischen hält er sich wohl für den allertollsten Druiden überhaupt. Ursprünglich hat er übrichens mal hier in Beloveno chelebt. Dann hat er sich mit Riko anchefreundet und seitdem hat er sich immer weiter von mir entfernt, newe. Inzwischen hat er in Kounos viele Anhänger für seine Theorien chefunden. Naja, soll er nur machen. Ich denke, die meisten werden mit der Zeit schon dahinter kommen, daß er nicht mehr chanz normal ist." {WORDKontinent}{WORDKounos}{WORDMagie}{WORDTheorien}
+"Nun, ich meine chanz Maini hier, newe. Beloveno, Srimalinar, Kounos, alles. Die chanze Nord- und Südseite des Kontinents."
+"Ihr wart doch sicher schon da, oder? Das ist das Dörfchen auf den Plateaus, in dem noch ein recht traditioneller Lebensstil besteht, newe. Außerdem treibt Kontos dort sein Unwesen. Ihr merkt schon - ich halte nichts von ihm."
+"Ich verstehe nicht viel von Machie. Ich habe auch noch nie welche chebraucht, newe."
+"Ach, da möchte ich char nicht weiter drauf einchehen. Aber so ein intellichenter Kerl wie Kontos ist schon im Stande, einiches auszuhecken, newe."
+"Das bin ich."

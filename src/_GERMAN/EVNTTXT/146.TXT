@@ -1,0 +1,8 @@
+﻿{BLOK000}"Mein Handwerk ist das Herstellen von Waffen."{WORDHandwerk}
+"Dsarii-ma. Ich begrüße Euch im Haus der Waffen." {BLOK010}"Dsarii-ma. Bitte zeigt uns eine Auswahl Eurer Stücke." {BLOK011}"Dsarii-ma. Wir möchten gerne etwas reparieren lassen."
+"Ich bin Waffenschmied aus Leidenschaft. Ich liebe es, etwas mit den Händen herzustellen, besonders, wenn ich mit etwas so wertvollem wie Metall arbeite."{WORDMetall}
+"Seltsam, daß Metall auf einem so rohstoffreichen Planeten wertvoll ist."
+"Wie gesagt, ich bin Schmied aus Leidenschaft."
+"Ja, unscheinbare Stücke aus dem Leib der Göttin, die sich unter der fachkundigen Hand in glänzende Kostbarkeiten verwandeln! Metall kommt oberirdisch leider recht selten vor, und das Wühlen im Inneren der Erde würde bedeuten, der Göttin Gewalt anzutun. So kommt es, das beispielsweise Himmelsmetall besondere Kraft hat."{WORDGöttin}{WORDHimmelsmetall}
+"Ein faszinierendes Material, ja."
+"Wenn Metallkörper aus den Himmeln über uns herabfallen und nicht in der Luft verbrennen, bevor sie aufschlagen, enthalten sie oft Metalle. Dieses Metall hat besondere Kraft. Man kann, unter Mithilfe eines begabten Dji-Kas, Gegenstände mit besonderer Macht daraus schmieden."{Dji-Kas}

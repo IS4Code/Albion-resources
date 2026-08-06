@@ -1,0 +1,12 @@
+﻿{BLOK000}"Ich schenke Getränke aus und serviere Speisen."
+"Skeima Din und willkommen im fröhlichen Wirtshaus Erzmine."{WORDErzmine}{WORDUmajo-Kenta}{WORDGetränke}{WORDÜbernachtung}
+"Danke, ich brauche keinen Gegenstand von Euch, {FAT }aber{NORS} wenn Ihr schon etwas hergeben möchtet, darf ich Euch vielleicht darauf hinweisen, daß es hier so üblich ist, daß Fremde eine Runde ausgeben. Was haltet Ihr davon?"{BLOK010}"Wir möchten eine Runde spendieren."
+"So heißt unser Gasthaus hier, und es gibt auch noch eine richtige Erzmine. Besucht doch mal die Gilde der Bergleute ganz im Nordwesten der Stadt."{WORDBergleute}
+"Das würdet Ihr tun? Das kostet allerdings 5 Goldstücke. Bleibt Ihr dabei?"
+"Schade."
+"Das mache ich bei Euch nur gegen Vorkasse."
+"Das ist eine großzügige Geste - schönen Dank auch. Sprecht mich doch nach dem Servieren der Runde noch einmal an."
+"Skeima Din Freunde,^^soll ich Euch ein kleines Geheimnis verraten?"{WORDGeheimnis}
+"Unsere Taschenspielerin ist fürchterlich eitel, hehe. Sprecht sie mal mit 'Schön|heits|königin' an. Ihr werdet sehen, daß sich Tore öffnen."
+"Möchtet Ihr etwas zu trinken oder zu essen?"{BLOK010}"Ja, gerne."{BLOK011}"Nein, danke."
+"Hier könnt Ihr leider nicht übernachten, aber geht doch ins Haus der Bergleute. Sie sind sehr gastfreundlich und nehmen fremde Besucher der Stadt gerne für eine Nacht auf."

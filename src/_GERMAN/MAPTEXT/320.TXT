@@ -1,1 +1,56 @@
-﻿test
+﻿-frei-
+Ein Laubbaum.
+Eine Schlinggraspflanze.
+Blattpflanzen.
+Ein Kaktus.
+Kleine Bodengewächse.
+Felsen.
+Ein Dach aus Ziegeln.
+Brückengeländer.
+Eine Treppe.
+Ein alter umgestürzter Baumstamm.
+Laub, das von den Bäumen herabgefallen ist.
+Diese Pflanze pumpt mit ihren pulsierenden Bewegungen Wasser aus dem Boden an die Ober|fläche.
+Ein Wasserfall.
+Felsbrocken.
+Eine Türe.
+Eine Säule.
+Eine abgebrochene Säule.
+Hier fließt Wasser aus.
+Eine Ölfackel.
+Ein Schild.
+Eine wehende Fahne.
+Ein Hocker.
+Stromschnellen.
+Ein Tisch.
+Ein aufgeschlagenes Buch.
+Ein Buch.
+Wasser.
+Große Pilzgewächse.
+Eine Wasserpflanze.
+Eine blühende Wasserpflanze.
+Eine Metallstange.
+Eine Steinplatte.
+{CNTR}Auf dem Schild steht:^^{INK 006} Kleiner Weg.^Cantos Haus: Norden
+Nach einer Weile ruhigen Verharrens und tiefer Konzentration spürt {LEAD}{NAME} plötzlich, wie sich {HIS }e Gedanken ordnen und {HIS } Geist schärfer als zuvor arbeitet.
+Die Meditation bleibt erfolglos.^^ {LEAD}{NAME} spürt, daß die Energie, die diesen Ort umgab, nun erschöpft ist.
+{LEAD}{NAME}'s Meditation ist erfolglos.^^Es hat den Anschein, daß sich die Energien dieses Ortes erst wieder regenerieren müssen.
+{CNTR}Auf dem Schild steht:^^{INK 006} Großer Weg.^Cantos Haus: OSTEN
+{CNTR}Auf dem Schild steht:^^{INK 006} Großer Weg.^Cantos Haus: NORDEN
+{CNTR}Auf dem Schild steht:^^{INK 006} WESTEN: Großer Rundweg
+{LEAD}{NAME} konzentriert sich eine Weile und geht gestärkt aus der Meditation hervor!
+Nach {HIS }er Meditation fühlt sich {LEAD}{NAME}, als ob {HE  } {HIS }en Körper besser unter Kontrolle hat.
+{LEAD}{NAME} meditiert eine Weile und bemerkt danach, daß {HE  } sich flinker bewegen kann!
+Ein schwer beschreibbares Gefühl überkommt {LEAD}{NAME} nach {HIS }er Meditation. {HE  } fühlt sich optimistischer, als ob {HIM } im Leben weniger zustoßen könne.
+{LEAD}{NAME} spürt nach {HIS }er Meditation, daß {HIS } Geist standfester geworden ist.
+{LEAD}{NAME} fühlt sich nach {HIS }er Meditation besser mit den Kräften der Magie verbunden als zuvor.
+Aus dem Nebel schält sich eine kleine Insel. Den Blicken Toms und seiner Gefährten offenbart sich ein Ort von unglaublicher Schönheit. Die Insel ist von Wasserläufen durchzogen und mit majestätischen Bäumen bewachsen. Elegante Brücken überspannen die Landschaft, kleine Gebäude fügen sich in die Umgebung ein und im Hintergrund ist ein großes Haus zu erkennen.^^Eine friedvolle, geborgene Atmosphäre liegt über dem Ort.^^Frill verläßt das Boot und die anderen folgen ihm. Das kleine Schiff legt sofort wieder ab, und Frill wendet sich an seine Gäste:
+"Willkommen auf der Insel der Dji Cantos, oder Erleuchteten. Was Ihr nun sehen werdet, haben nicht viele auf dieser Welt erblickt. Folgt mir in unser Versammlungshaus, wo Ihr einen weiteren Bekannten treffen werdet."
+Sprachlos folgen die Gefährten Frill und nehmen den Anblick der Natur in sich auf...
+Vor dem überraschten Tom steht Nemos, den er als das Oberhaupt der Druiden von Gratogel kennengelernt hat.^^Auch er gehört offenbar zu der geheimnisvollen Gemeinschaft, die diese Insel beherbergt.
+"Willkommen, Tom Driscoll, und willkommen seien auch Deine Begleiter."
+"Togi Din, Nemos. Schön, Euch wiederzusehen. Auch wenn, wie ich zugeben muß, mich die Umstände etwas überraschen."
+"Das ist verständlich. Wir haben Euch einiges mitzuteilen."
+"So wie Ihr, Tom Driscoll, uns so manches mitteilen solltet.^^Folgt mir nun bitte ins Innere des Hauses. Dort werden wir eine Menge Informationen auszutauschen haben."
+{LEAD}{NAME} fühlt sich nach {HIS }er Meditation körperlich ausdauernder!
+Blumen der Göttin.

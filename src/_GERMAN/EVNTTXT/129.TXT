@@ -1,0 +1,32 @@
+﻿"{BLOK000}Ich bin nun das Oberhaupt der Gilde und kann mich doch nicht daran freuen."
+
+"Was wir tun, sehen wir als Mischung von Magie, Kunst und Handwerk an. Wir sind eine der ältesten Gilden Jirinaars und wie Ihr sicher wißt, können wir mit Hilfe unserer Magie Pflanzen erschaffen, verändern und dauerhaft in eine gewünschte Form bringen. So sind wir in der Lage, komplette Häuser aus lebendem Pflanzen|material erstehen zu lassen, die nicht nur schön anzusehen sind, sondern auch alle Funktionen erfüllen, die für das Wohlbefinden ihrer Bewohner notwendig sind."
+"Ich trauere tief um den besten Freund, den ich hatte. Ich weiß im Augenblick nicht, wie ich mit dem Verlust zurechtkommen soll."
+!
+!
+"Sira ist die einzige Tochter Akiirs. Sie ist zu den Dji-Kas gegangen, was Akiir sehr getroffen hat."
+
+"Ich konnte einige meiner Gildegenossen nur mit Mühe davon abhalten, sich zu bewaffnen und in das Haus der Dji-Kas zu stürmen."
+"Unser Gildenhaus konkurriert mit dem Ratsgebäude um den Titel des schönsten Bauwerks Jirinaars. Es wird von uns ständig gepflegt und verändert und auch zur Vorführung unseres Könnens benutzt, wie Ihr im östlichen Flügel sehen könnt."
+!
+"Kann es wirklich sein, daß er Akiir gedungene Mörder geschickt hat? Ich weiß es nicht."
+!
+dummy
+dummy
+dummy
+dummy
+dummy
+"Ihr habt davon gehört? Nun, um ehrlich zu sein, Argims Geschichte ist ein wunder Punkt in der Geschichte unserer Gilde. Er war vor fast 150 Jahren das Oberhaupt der Dji-Fadh. Damals war das Gildenhaus der Dji-Fadh außerhalb der Stadt zu finden, ein prächtiges Gebäude mitten im Wald nahe eines Han. Nun, Argim war ein großartiges Talent, aber von wankelmütigem Charakter. Dies war der Grund für die Ablehnung seines größten Zieles: ein Auserwählter zu werden. Als er von der Abweisung erfuhr, verlor er völlig die Kontrolle über sich. Er schwor, trotzdem die Unsterblichkeit erlangen zu wollen. In einem wahnwitzigem Ausbruch seiner Macht zerstörte er das ganze Gebäude und verwandelte es in einen seltsamen Ort, der heute von allen gemieden wird. Man sagt sogar, er hätte seinen Geist diesem Ort aufgeprägt."
+"Es gibt Orte, wo die Kraft der Göttin besonders zu spüren ist und magische Handlungen verstärkt werden, aber oft auch schwieriger sind. Ein solches Energiezentrum nennt sich Han."
+dummy
+"Dsarii-ma. Bitte fragt mich nicht nach Akiir, er war mein Freund und ich kann seinen Tod immer noch nicht fassen." {BLOK010}"Verzeiht, aber wir sind mit der Suche nach seinen Mördern beauftragt. Könnt Ihr uns etwas Hilfreiches sagen?"
+"Dsarii-ma. Ihr seid immer noch auf der Suche nach dem flüchtigen Mörder, nehme ich an." {BLOK010}"Das ist richtig, Bradir. Ist Euch vielleicht noch etwas eingefallen?"
+"Oh, Göttin! So, wie die Gesetze stehen, seid ja auch Ihr Menschen in diese Angele|genheit hinein|gezogen worden. Dabei tragt Ihr doch nun überhaupt keine Schuld an den Gescheh|nissen!^ Aber, um Eure Frage zu beantworten, ich kann Euch leider nicht weiterhelfen. Ich weiß wirklich nicht, was in Fasiir gefahren ist."{WORDFasiir}{WORDMord}
+"Nichts, was mit dieser Sache zu tun hat, werde ich je vergessen können. Ihr ahnt nicht, wie sehr ich mir wünschte, Euch etwas sagen zu können, aber ich kann Euch nichts Neues offenbaren."
+"Ich wünschte wirklich, ich hätte Euch helfen können. Lebt wohl."
+{INK 001}Als {LEAD}{NAME} wortlos den Dolch vor Bradirs Augen hält, zuckt er zusammen und auch die Menschen erkennen den gequälten Ausdruck, der in seine Augen tritt. Er tritt näher und sagt:^^ {INK 002}"Es ist seltsam. Nun, in diesem Augenblick, vor den ich mich am meisten fürchtete, fühle ich eine seltsame Erleichterung. Verzeihe mir, Akiir!"^^ {INK 001}{FAT }Bradir greift an!
+Nun folgt ein Kampf, in dessen Verlauf man Bradir zum Aufgeben bringt oder "tötet". "Tötet" man ihn, wird anschließend davon ausgegangen, daß er noch lebt. Er erklärt dann den Plan Akiirs. Anschließend kommt ein Map-Exit zur Sebainah und Erklärung des Vorgefallenen.
+Verletzt sinkt Bradir nach dem Kampf in die Knie. Der Schmerz vertreibt den wirren Ausdruck von seinem Gesicht und seine Augen werden wieder klar.
+"Wir müssen ihn schnell zur Heilerin bringen, sonst erfahren wir nie, warum er uns angegriffen hat!"
+Schnell wird Bradir zur Heilerin transportiert.^^Sobald er versorgt ist, gibt es im Ratsgebäude eine Versammlung im Raum der Sebainah, bei der Bradir sein Verhalten erklären soll.^^ Neben Tom, Rainer und Drirr ist auch Sira als Tochter des Ermordeten Akiirs herbeigerufen worden.
+NUR FÜR DEBUGGING! ENCOUNTER BRADIR AUSFÜHREN?

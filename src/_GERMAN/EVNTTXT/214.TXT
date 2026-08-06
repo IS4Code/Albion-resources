@@ -1,0 +1,9 @@
+﻿{BLOK000}"Oh, ich führe das Lebensmittelgeschäft hier in der Stadt."
+"Nanu? Ihr seid hier? Bitte helft uns doch. Wir können Eure Hilfe derzeit wirklich gut gebrauchen! Durchleuchtet diesen ominösen Kontos - vielleicht kann damit das Schlimmste verhindert werden. Ihr könnt die Bewohner von Kounos überzeugen, daß sie sich in Kontos geirrt haben! Wir können es nicht, denn sie würden sofort denken, daß wir versuchen, sie aufzuhetzen. Ihr habt keinen Grund, so etwas zu tun. Bestimmt seid Ihr mittlerweile besser über Kontos informiert, als ich?"{BLOK010}"Wir glauben, daß Kontos im Recht ist!"{BLOK011}"Wir sind uns da selbst noch nicht ganz im Klaren."{BLOK012}"Kontos ist eine Gefahr, aber wir können nicht gegen ihn vorgehen!"{WORDKontos}{WORDHeiligtum}
+"Seid Ihr Eurer Sache da sicher??? Nach allem, was ich gehört habe, hat Kontos ganz andere Ziele. Aber ich gehe davon aus, daß er Euch inzwischen auch überzeugt hat."
+"Dann sammelt weiter Informationen über ihn. Natürlich werdet Ihr nicht überall nur die Wahrheit hören, aber wenn Ihr sorgfältig zuhört, könnt Ihr Euch ganz bestimmt ein umfassendes Bild über ihn machen."
+"Ihr könnt! Sammelt Beweise gegen ihn, befragt die Leute und zeigt den Mahinos, daß sie sich in Kontos geirrt haben! Ich habe schon von einigen Komplotten gehört, an denen Kontos beteiligt war. Ihr müßt nur hartnäckig suchen!"{WORDBeweise}
+"Unternehmt etwas!"
+"Ich glaube, dort eskaliert der Konflikt ziemlich! Vielleicht könnt Ihr noch das Schlimmste verhindern, wenn Ihr Beweise gegen Kontos findet!"
+"Ja unbedingt. Wir müssen so viele Beweise wie möglich gegen Kontos finden! Besucht alle möglichen Leute und fragt sie danach! Ihr müßt einfach etwas finden! Und zeigt den Bewohnern von Kounos das wahre 'Ich' von Kontos!"
+"Das bin ich."

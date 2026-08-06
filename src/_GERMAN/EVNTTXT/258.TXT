@@ -1,0 +1,9 @@
+﻿{BLOK000}"Ich baue Häuser aus Pflanzen, wie Ihr hier bestimmt schon mehrere davon gesehen habt."
+"Skeima Din, vermittelt Ihr im Konflikt zwischen den Völkern, der ja wohl bald entstehen wird?"{BLOK010}"Was gibt es denn da für einen Konflikt?"{BLOK011}"Wenn es Euch hilft, tun wir das gerne"{BLOK012}"Wir haben leider keine Zeit dafür."{WORDKonflikt}
+"Das ist eine gefährliche Einstellung, wenn Ihr Euch auf diesen Standpunkt stellt. Immerhin seid Ihr hier Gäste und wenn es wirklich zu einem Konflikt kommen sollte, dann wird Euch das ganz bestimmt auch betreffen."
+"Das würde uns allen helfen, da bin ich ganz sicher. Es ist immer gut, wenn man ein paar diplomatische Freunde hat, die eine neutrale Einstellung haben."
+"Momentan gibt es noch keine sicheren Aussagen, aber wenn sich herausstellt, daß Kontos seine Anhänger wirklich davon überzeugt, daß unser Heiligtum gefährlich ist, dann werden sie bestimmt etwas dagegen unternehmen. Und das bedeutet, daß sie entweder unser Tabu verletzen, oder sie gehen noch weiter und greifen uns direkt an. Das sind bis jetzt alles nur Spekulationen, aber wer weiß. Unser Heiligtum ist nicht gefährlich! Leider kann ich Euch das aufgrund des Tabus nicht beweisen, aber diese komischen Wesen kommen irgendwo anders her. Allerdings muß ich zugeben, daß ich auch noch nicht weiß, woher sie genau kommen."{WORDWesen} {WORDHeiligtum}{WORDTabu}
+"Ja, geht da besser nicht hin. Unsere religiösen Feiern finden dort statt. Es ist für uns ein sehr würdevoller Ort."
+"Dieses Tabu gibt es schon, solange ich zurückdenken kann. Das hat historische Gründe, die ich Euch jetzt aber nicht erklären möchte."
+"Ja?"
+"Wir wissen alle nicht, woher diese Wesen kommen. Sie scheinen magischen Ursprungs zu sein und die meisten davon trifft man ganz in der Nähe unseres Heiligtums. Wir haben aber noch nie erlebt, daß sie AUS unserem Heiligtum kommen."

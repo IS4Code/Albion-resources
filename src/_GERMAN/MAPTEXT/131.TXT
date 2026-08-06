@@ -1,7 +1,7 @@
 ﻿-frei-
 Äste und Wurzeln.
 Ein geflochtener Korb.
-Ein Glasgefäß für Wein und andere Getränke.
+Ein Glasgefäß für Wasser und andere Getränke.
 Ein Faß.
 Ein prächtiges Tierfell.
 Ein Eimer.
@@ -41,7 +41,7 @@ Ein zusammengeklappter Hocker.
 Ein massiver Eßtisch.
 Ein Baumstumpf.
 Zwei gekreuzte Speere.
-Ein großes Faß mit Wasser, Bier oder Wein.
+Ein großes Faß mit fremdartigen Getränken.
 Ein Zapfhahn.
 Eine Bettdecke.
 Ein komfortables und hübsch verziertes Bett.
@@ -126,6 +126,6 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 ---coming soon: long dialog---
 {INK 001}Der Krieger schaut {LEAD}{NAME} nur grimmig an und erwidert nichts.
-"Togi Din, Reisende. Ich hoffe, Eure Angelegenheit ist wichtig genug, das ihr das Haus des Königs betretet."
+"Togi Din, Reisende. Ich hoffe, Eure Angelegenheit ist wichtig genug, daß Ihr das Haus des Königs betretet."
 "Togi Din. Im Vertrauen, ich glaube, ein Problem belastet König Tharnos. Er ist nicht mehr ganz der fröhliche Mann von früher."
-"Togi Din, ihr Reisenden. Seid Eurem letzen Besuch hat sich Tharnos Stimmung erheblich gebessert!"
+"Togi Din, Ihr Reisenden. Seid Eurem letzen Besuch hat sich Tharnos Stimmung erheblich gebessert!"

@@ -1,0 +1,4 @@
+﻿{BLOK000}"Ich bin der oberste Heiler von Arjano."{WORDHeiler}{WORDArjano}
+"Togi Din, Reisende. Kann ich Euch helfen? Da Ihr auf der Suche nach dem verschollenen Bero seid, sind meine Dienste als Heiler für Euch natürlich kostenlos."{WORDBero}{WORDHeiler} {BLOK010}"Ja, Makaio. Wir haben Verwundete unter uns." {BLOK011}"Wir brauchen Heilung von einer Art Krankheit." {BLOK012}"Ein verfluchter Gegenstand macht uns Probleme."
+"Togi Din! Ah, die Retter Beros, des alten Starrkopfes! Kann ich Euch behilflich sein?" {BLOK010}"Ja, Makaio. Wir haben Verwundete unter uns." {BLOK011}"Wir brauchen Heilung von einer Art Krankheit." {BLOK012}"Ein verfluchter Gegenstand macht uns Probleme."
+"Mein Talent zur Heilung von Wunden zeigte sich schon in meiner Kindheit. Seitdem gibt mir diese Segnung Danus jeden Tag die Erfüllung und die Freude, anderen helfen zu können."{WORDDanu}

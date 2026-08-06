@@ -1,7 +1,7 @@
 ﻿leer
 Ein mechanischer Schalter.
 An der Wand befindet sich eine kleine, mechanische Taste.
-Leicht zu übersehen, ist en winziger Schlter in die Wand eingelassen.
+Leicht zu übersehen, ist ein winziger Schalter in die Wand eingelassen.
 Eine Bodenplatte. Es scheint, als würde sie beim darüberlaufen einsinken können.
 Eine Tür.
 Die Tür ist fest verriegelt, es ist kein Schloß zu erkennen.
@@ -49,6 +49,8 @@ Platzhalter
 Platzhalter
 Platzhalter
 Platzhalter
-Als {LEAD}{NAME} die Tür öffnet, stürmt Mellthas nach vorne, denn dahinter in einem kleinen Raum hat sich Bero, sein Attio, vor den Angriffen der Kreaturen geflüchtet.
+Als {LEAD}{NAME} die Tür öffnet, stürmt Mellthas nach vorne, denn dahinter, in einem kleinen Raum, hat sich Bero, sein Attio, vor den Angriffen der Kreaturen geflüchtet.
 In der südwestlichen Ecke des Raumes hat sich die Tür geöffnet!
 Das Tor rechts von den Schaltern hat sich geöffnet!
+Unter dem Gerümpel meint {LEAD}{NAME} etwas Interessantes zu sehen!
+Auf der gegenüberliegenden Seite des Raumes haben sich einige Kreaturen um eine Tür versammelt. Als sie {LEAD}{NAME} und die Gefährten sehen, wenden sie sich ihren neuen Opfern zu...

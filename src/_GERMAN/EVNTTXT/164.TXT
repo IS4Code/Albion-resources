@@ -1,0 +1,4 @@
+﻿{BLOK000}"Ich bin ein Krieger in Diensten von Tharnos und ich bin ohne anderen Beruf!"{WORDTharnos}{WORDKrieger}{WORDBeruf}
+"Togi Din, Besucher."
+"Nun, die meisten waffentragenden Männer üben einen Beruf wie Handwerker oder gar Dichter aus. Ich hingegen bin stolz darauf, ausschließlich meinem König mit den Waffen zu dienen."{WORDDichter}{WORDHandwerker}
+"Wenn Ihr Euch für Waffen interessiert, solltet Ihr nach Vanello gehen. Dort gibt es einen Umajo, der viel von seiner Kunst versteht."{WORDVanello}{WORDUmajo}

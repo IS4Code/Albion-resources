@@ -36,7 +36,7 @@ Ein durch die Luft schwebender Feuerball. Er strahlt eine unerträgliche Hitze a
 Plötzlich spüren alle einen unerträglichen, brennenden Schmerz: ein Feuerball ist zu nahe gekommen!
 "Unglaublich. Ich verstehe nicht ganz, was diese Feuerkugel in der Luft hält. Ist es eine brennende Gasblase? Aber wie kann sie dann so stabil sein? Rätselhaft."
 "Ich beginne an meinem Verstand zu zweifeln! Dieses Feld scheint nicht elektrischen Ursprungs zu sein und es ist auch keine Energiequelle zu erkennen. Was um alles in der Welt erhält es aufrecht? Dieser Planet scheint erschaffen worden zu sein, um das Weltbild von Naturwissen|schaftlern ins Wanken zu bringen."
-Seht Euch vor! Diese gläsernen Strukturen werden zu vielfältigen Zwecken eingesetzt. Sie lösen, oft im Zusammenhang mit Feuer|erscheinungen, verborgene Mechanismen aus.
+"Seht Euch vor! Diese gläsernen Strukturen werden zu vielfältigen Zwecken eingesetzt. Sie lösen, oft im Zusammenhang mit Feuer|erscheinungen, verborgene Mechanismen aus."
 Bodenstruktur ausgelöst.
 Diese Wand ist von vielen tiefen Rissen durchzogen.
 Fuck 
@@ -48,4 +48,8 @@ Platzhalter
 Platzhalter
 Platzhalter
 Platzhalter
-"Dies hier sind also die Hallen Kamulos. Sie sind ursprünglich als Verteidigungs|anlagen für den inneren Bereich erbaut worden und erfüllen auch heute noch diesen Zweck. Manche Gebiete werden auch als Prüfungsgebiete für Novizen und Fortgeschritten benutzt.^ Hier unten werden ständig Änderungen vorgenommen, nicht zuletzt, um den inneren Bereich vor Abtrünnigen wie meiner Wenigkeit zu schützen. Ich melde mich, wenn mir etwas bekannt vorkommt, aber allzuviel Hilfe werde ich wohl nicht geben können."
+"Dies hier sind also die Hallen Kamulos. Sie sind ursprünglich als Verteidigungs|anlagen für den inneren Bereich erbaut worden und erfüllen auch heute noch diesen Zweck. Manche Gebiete werden auch als Prüfungsgebiete für Novizen und Fortgeschritten benutzt.^^ Hier unten werden ständig Änderungen vorgenommen, nicht zuletzt, um den inneren Bereich vor Abtrünnigen wie meiner Wenigkeit zu schützen. Ich melde mich, wenn mir etwas bekannt vorkommt, aber allzuviel Hilfe werde ich wohl nicht geben können.^^Jeder Kenget Kamulos, der uns jetzt begegnet, wird uns kommentarlos angreifen. Wir können aus unseren Absichten nun keinen Hehl mehr machen."
+Unter dem Gerümpel meint {LEAD}{NAME} etwas Interessantes zu sehen!
+Die Flamme beginnt {LEAD}{NAME} und die Gefährten zu jagen!
+Eine fratzenbesetzte Säule.
+Als die Flamme die rote Bodenstruktur erreicht, verlöscht sie. Gleichzeitig öffnet sich die Tür daneben!

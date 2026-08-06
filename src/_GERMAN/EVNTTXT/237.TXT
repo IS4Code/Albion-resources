@@ -1,0 +1,8 @@
+﻿{BLOK000}"Ich bin Mitglied im 'Rat der Gerechten'. Ich sorge dafür, daß alles reibungslos abläuft."
+"Mhm, ich habe Euch doch schon hier gesehen? Habt Ihr eigentlich nichts anderes zu tun, außer hier herumzuschnüffeln?"{BLOK010}"Es ist wichtig für uns, mit Leuten zu reden."{BLOK011}"Wir dachten nicht, daß Euch das stört."{WORDRat}{WORDRathaus}{WORDRiko}{WORDPerron} {WORDGard}
+"Steckt Eure Nasen nicht überall hinein, das ist ungesund."
+"Was mich stört ist, daß Ihr überall Unwahrheiten erfahrt und Euch ein falsches Bild macht."
+"Ich bin beschäftigt und kann Euch leider nicht ständig Auskünfte geben. Außerdem sollten Fremde nicht gleich überall mitmischen."
+"Riko und Perron sind die beiden anderen Ratsmitglieder im Rat."
+"Das bin ich."
+"Ich glaube, Ihr seid lange genug hier gewesen."

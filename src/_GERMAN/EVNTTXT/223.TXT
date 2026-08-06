@@ -1,0 +1,9 @@
+﻿{BLOK000}"Tja, Ihr Lieben...an meiner aufreizenden Kleidung solltet Ihr eigentlich schon erkennen, wo ich arbeite. Oh, Ihr könnt mich dort gerne mal besuchen. Allerdings geben die meisten männlichen Wesen nur ungern zu, daß sie ab und zu ein Freudenhaus aufsuchen."
+"Oh, da seid Ihr ja. Erst einmal Tausend Dank an Euch! Ich bin, wie wir wohl alle, wirklich sehr froh, daß durch Eure Hilfe das Schlimmste verhindert wurde. Ganz bestimmt wird Euch der neue Rat dafür fürstlich belohnen. Und ich wäre sogar bereit, kostenlos... Aber was habt Ihr denn??? Ist Euch nicht gut? Ihr seht so komisch aus?"{BLOK010}"Ich glaube, das war die Aufregung der letzten Tage."{BLOK011}"Das ist gleich wieder besser..."{BLOK012}"Nein, alles in Ordnung."{WORDRat}{WORDHerras}
+"Mhm, manchmal benehmt Ihr Euch wirklich komisch... Jedenfalls freue ich mich, daß es noch Leute wie Euch gibt. Und das ist wirklich ein ernst gemeintes Lob."{WORDLob}
+"Ihr habt es verdient!"
+"Da würde ich jetzt unbedingt mal hingehen. Es hat sich ja jetzt einiges geändert."
+"Achje, da seid Ihr ja wieder. Nun ist's also doch so gekommen, wie ich gesagt habe. Und ich habe es wirklich oft gesagt. Herras ist tot und ich bin der Meinung, daß Ihr ganz maßgebend Mitschuld daran habt. Was hätte es Euch schon gekostet, das zu verhindern? Was denn?^^Na schön, Herras ist tot und das läßt sich nun mal nicht mehr rückgängig machen. Verzeiht, aber ich bin gerade nicht in der Stimmung für ein weiteres Gespräch."{WORDRat}{WORDHerras}
+"Ich möchte mit Euch nicht mehr darüber reden. Hättet Ihr etwas unternommen, würde er jetzt noch leben!"
+"Das bin ich."
+"Was ist mit Herras?"

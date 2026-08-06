@@ -15,17 +15,17 @@ Zahnputzzeug.
 Eine Anzeige für die Korridor-Überwachung.
 Kontroll-Anzeigen.
 Ein Teil des Reaktors.
-F"sser mit Müll, Wasser, Gift- und Rohstoffen.
+Fässer mit Müll, Wasser, Gift- und Rohstoffen.
 Eine ausgeschaltete Konsole.
 Eine Lampe.
 Ein Teller.
 Ein Glas.
 Ein Becher.
-Ein Beh"lter.
+Ein Behälter.
 Eine Flasche.
 Eine Kanne.
 Eine Dose.
-Ein Gef"ß.
+Ein Gefäß.
 Ein Pfeffer- und ein Salzstreuer.
 Sojasoße.
 Ein Topf.
@@ -35,7 +35,7 @@ Ein Spaten.
 Ein Schraubenschlüssel.
 Ein Schraubenzieher.
 Eine Handkonsole.
-
+Ein PDA. (Personal Digital Assistent)
 Eine Zange.
 Besteck und ein Becher.
 Geschirr.
@@ -44,7 +44,7 @@ Ein Shuttle.
 Container.
 Eine Dusche.
 Ein Fahrzeug.
-
+Bodenmarkierungen.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
@@ -60,125 +60,125 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
-"Schon wieder dieser Traum. Muß das zehnte Mal sein; was soll das nur?^^ Kann mich auch nicht erinnern, je in Farbe getr"umt zu haben...^^ Na ja, werde mir noch ein wenig die Füße vertreten. Hoffentlich wird bald durchgegeben, wann ich das Shuttle zu unserem Vorausflug starten soll."
-"Hallo, Großer! Na, ausgeschlafen?"
-"Christine! Sch"n, Dich zu sehen, Schatz!^ Ich fühle mich wie ger"dert. Du hattest mal wieder recht, gestern abend. H"tte doch bei Dir schlafen sollen. Ich hatte wieder diesen verrückten Traum. Er wird jedesmal... deutlicher."
-"Ist schon verrückt. Du bist doch sonst kein Sensibelchen. Hat bestimmt was mit dem over-c - Sprung zu tun. Bleib heute Nacht bei mir, und ich werde Dir die Alptr"ume schon austreiben!"
-"Der Traum begann schon vorher, und es ist eigentlich auch kein Alptraum. Er ist nur so intensiv!^^ Ach egal, was soll's. Ich werde mal 'ne Runde drehen. Vielleicht treffe ich K"ptn Brandt und bekomme heraus, wann ich mit Snoopy starten soll."
+"Schon wieder dieser Traum. Muß das zehnte Mal sein; was soll das nur?^^ Kann mich auch nicht erinnern, je in Farbe geträumt zu haben...^^ Na ja, werde mir noch ein wenig die Füße vertreten. Hoffentlich wird bald durchgegeben, wann ich das Shuttle zu unserem Vorausflug starten soll."
+"Hallo Großer! Na, ausgeschlafen?"
+"Christine! Schön, Dich zu sehen, Schatz!^ Ich fühle mich wie gerädert. Du hattest mal wieder recht, gestern abend. Hätte doch bei Dir schlafen sollen. Ich hatte wieder diesen verrückten Traum. Er wird jedesmal... deutlicher."
+"Ist schon verrückt. Du bist doch sonst kein Sensibelchen. Hat bestimmt was mit dem over-c - Sprung zu tun. Bleib' heute Nacht bei mir, und ich werde Dir die Alpträume schon austreiben!"
+"Der Traum begann schon vorher, und es ist eigentlich auch kein Alptraum. Er ist nur so intensiv!^^ Ach egal, was soll's. Ich werde mal 'ne Runde drehen. Vielleicht treffe ich Käpt'n Brandt und bekomme heraus, wann ich mit Snoopy starten soll."
 "Snoopy? Hast Du denn nicht...? Junge, Du mußt einen guten Schlaf haben. Die Explosion war durch das ganze Segment zu spüren!"
 "Explosion? Mach's nicht so spannend! Von was redest Du, Chris? Was ist mit Snoopy?"
-"Der Inspektor hat w"hrend des Sprunges an der over-c - Comanlage gesessen. Das Ding hat sich überladen und ist f"rmlich explodiert. Snoopy's Bestandteile waren im ganzen Raum zu finden, heißt es."
+"Der Inspektor hat während des Sprunges an der over-c - Comanlage gesessen. Das Ding hat sich überladen und ist förmlich explodiert. Snoopy's Bestandteile waren im ganzen Raum zu finden, heißt es."
 "Was für'n Hammer! Junge, das muß ich erstmal verdauen! Dann ist Hofstedt nun der einzige Regierungs|beauftragte an Bord."
-"Ja, ich habe geh"rt, daß Du den Vorausflug nun mit ihm anstatt Snoopy unternehmen sollst."
-"Der Tag f"ngt ja hervorragend an. Na ja, Hofstedt ist ganz in Ordnung, und an meinem Flugplan "ndert sich durch den Unfall sicher nichts. Ich werde mal eine Runde mit Joe über die Sache quatschen."
-"Dein Kumpel ist heute im "Nordosten" des Segmentes eingeteilt, in der N"he des Zugangs zum Comraum.^^ O.K. Ich werde mich auch mal auf'n Weg machen. Hab' noch viel Arbeit. Bis dann, Süßer."
+"Ja, ich habe gehört, daß Du den Vorausflug nun mit ihm anstatt Snoopy unternehmen sollst."
+"Der Tag fängt ja hervorragend an. Na ja, Hofstedt ist ganz in Ordnung, und an meinem Flugplan ändert sich durch den Unfall sicher nichts. Ich werde mal eine Runde mit Joe über die Sache quatschen."
+"Dein Kumpel ist heute im Nordosten des Segmentes eingeteilt, in der Nähe des Zugangs zum Comraum.^^ O.K. Ich werde mich auch mal auf'n Weg machen. Hab' noch viel Arbeit. Bis dann, Süßer."
 "Tschüß, Christine."
 Diese Tür ist verschlossen.
-"Ähem, Driscoll: Sei mir nicht b"se, aber ich h"tte jetzt gern etwas Privatsph"re. Bitte bleib draußen."
+"Ähem, Driscoll: Sei mir nicht böse, aber ich hätte jetzt gern etwas Privatsphäre. Bitte bleib' draußen."
 "Hier gibt es nichts zu sehen. Gehen Sie bitte weiter."
-{INK 001}Dies ist Rainer Hofstedt, Physiker und Xenobiologe und Aufsichts|beauf|tragter der Regierung. Aufgeregt beginnt er ein Gespr"ch.
-"Dricoll! Gut, daß ich Sie treffe! Haben sie schon vom Tod Inspektor Beegles geh"rt?"
-"Hallo, Hofstedt. Ja, meine Lebensgef"hrtin hat mir gerade von der Sache berichtet. Muß ja ein scheußlicher Anblick gewesen sein!"
-"Dieser sture britische Dicksch"del! Er war zwar kein Techniker, aber das der Betrieb der Comanlage w"hrend des over-c - Sprunges nicht problemlos ist, h"tte er eigentlich wissen müssen. Diese ganze Überlichttechnik ist noch lange nicht v"llig unter Kontrolle. Der arme Teufel!"
-"Das macht sie nun zum einzigen Regierungs|repr"sentanten an Bord, nicht wahr?"
-"Der einzige Schnüffler, ja. Erinnern Sie mich bloß nicht daran!^^ Wie dem auch sei: Ich hatte gerade ein Gespr"ch mit Kapit"n Brandt. Er will den Vorausflug trotzdem durchführen, mit meiner Wenigkeit anstelle von Beegle.^^ Sieht aus, als h"tten Sie einen neuen Passagier, Driscoll."
-"Ich m"chte nicht piet"tslos erscheinen, aber dem Shuttle ist es gleich, welche zwei Personen es bef"rdert. Von mir aus kann der Flug planm"ßig stattfinden."
-"Ich muß zugeben, daß ich mich sehr auf den Flug freue. Der Abflug sollte in den n"chsten Tagen stattfinden. Wir müssen wohl auf die Durchsage des Kapit"ns warten."
+{INK 001}Dies ist Rainer Hofstedt, Physiker und Xenobiologe und Aufsichts|beauf|tragter der Regierung. Aufgeregt beginnt er ein Gespräch.
+"Driscoll! Gut, daß ich Sie treffe! Haben sie schon vom Tod Inspektor Beegles gehört?"
+"Hallo, Hofstedt. Ja, meine Lebensgefährtin hat mir gerade von der Sache berichtet. Muß ja ein scheußlicher Anblick gewesen sein!"
+"Dieser sture britische Dickschädel! Er war zwar kein Techniker, aber daß der Betrieb der Comanlage während des over-c - Sprunges nicht problemlos ist, hätte er eigentlich wissen müssen. Diese ganze Überlichttechnik ist noch lange nicht völlig unter Kontrolle. Der arme Teufel!"
+"Das macht Sie nun zum einzigen Regierungs|repräsentanten an Bord, nicht wahr?"
+"Der einzige Schnüffler, ja. Erinnern Sie mich bloß nicht daran!^^ Wie dem auch sei: Ich hatte gerade ein Gespräch mit Kapitän Brandt. Er will den Vorausflug trotzdem durchführen, mit meiner Wenigkeit anstelle von Beegle.^^ Sieht aus, als hätten Sie einen neuen Passagier, Driscoll."
+"Ich möchte nicht pietätlos erscheinen, aber dem Shuttle ist es gleich, welche zwei Personen es befördert. Von mir aus kann der Flug planmäßig stattfinden."
+"Ich muß zugeben, daß ich mich sehr auf den Flug freue. Der Abflug sollte in den nächsten Tagen stattfinden. Wir müssen wohl auf die Durchsage des Kapitäns warten."
 "So ist es.^ Wir sehen uns sicher noch vorher. Bis dann, Hofstedt!"
 "Ja, bis dahin, Driscoll."
 "Grüß' Sie, Driscoll. Viel Glück bei ihrem Flug."
 {INK 001}Der Sicherheitsmann wirft Tom nur einen mißmutigen Blick zu. Er antwortet nicht.
-"Hallo, Driscoll! Habe geh"rt, Du hast 'nen neuen Passagier, jetzt, wo sie den Inspektor von der Wand gekratzt haben.^Ich drück Dir jedenfalls die Daumen für den Flug."
-"Hi, Tom. Sorry, bin 'n bißchen in Eile. Voller Dienstplan! Bis sp"ter."
-"Hallo, Tom. M"chte zu gern wissen, wie es jetzt im Comraum aussieht, wo es Snoopy erwischt hat. Zu bl"d, das die Secus davor Wache schieben."
+"Hallo, Driscoll! Habe gehört, Du hast 'nen neuen Passagier, jetzt, wo sie den Inspektor von der Wand gekratzt haben.^Ich drück' Dir jedenfalls die Daumen für den Flug."
+"Hi, Tom. Sorry, bin 'n bißchen in Eile. Voller Dienstplan! Bis später."
+"Hallo, Tom. Möchte zu gern wissen, wie es jetzt im Comraum aussieht, wo es Snoopy erwischt hat. Zu blöd, das die Secus davor Wache schieben."
 {INK 001}Tom versucht, die letzten Nachrichten von der Konsole abzurufen. Vor den Meldungen erscheint folgendes:{TECF}^^ {CNTR}{INK 002}***Videodaten nicht verfügbar***^ ***Comverbindung nicht aktiv***^^ Textmodus aktiviert.
 "Hallo, Driscoll. Na, noch einen Blick auf Ihr Shuttle werfen? Ist alles in bester Ordnung mit dem Ding."
-{TECF}NEWSFLASH (Textmodus):^^{LEFT} 18- Europ"ische Union: Der 14. Versuch der Einführung einer einheitlichen offiziellen W"hrung ist am Widerstand Deutschlands gescheitert.
-{TECF}NEWSFLASH (Textmodus):^^{LEFT} 19- McCartney-Erben rufen Inter|nationalen Gerichts|hof an. Bedroht der Enteignungs|versuch Brasiliens an den McCartney-Erben die letzten zusammen|h"ngenden Regen|wald|gebiete? Besitz der Erben|gemein|schaft soll durch Eingreifen der Schutztruppen gesichert werden, fordern einige Staaten.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{TECF}NEWSFLASH (Textmodus):^^{LEFT} 19- McCartney-Erben rufen Inter|nationalen Gerichts|hof an. Bedroht der Enteignungs|versuch Brasiliens an den McCartney-Erben die letzten zusammen|h"ngenden Regen|wald|gebiete? Besitz der Erben|gemein|schaft soll durch Eingreifen der Schutztruppen gesichert werden, fordern einige Staaten.
-{TECF}NEWSFLASH (Textmodus):^^{LEFT} 18- Europ"ische Union: Der 14. Versuch der Einführung einer einheitlichen offiziellen W"hrung ist am Widerstand Deutschlands gescheitert.
+{TECF}NEWSFLASH (Textmodus):^^{LEFT} "Europäische Union: Der 14. Versuch der Einführung einer ein|heit|lichen, offi|ziellen Währung ist am Widerstand Deutschlands gescheitert."
+{TECF}NEWSFLASH (Textmodus):^^{LEFT} "McCartney-Erben rufen Inter|nationalen Gerichts|hof an. Bedroht der Enteignungs|versuch Brasiliens an den McCartney-Erben die letzten zusammen|hängenden Regen|wald|gebiete? Besitz der Erben|gemein|schaft soll durch Eingreifen der Schutztruppen gesichert werden, fordern einige Staaten."
+{TECF}NEWSFLASH (Textmodus):^^{LEFT} "Rom. Papst Johannes Paul der 14. veröffentlichte heute seine Enzyklika zum Schutz des ungeborenen Lebens. Darin bekräftigt der Vatikan seine Standpunkte gegenüber der Geburtenkontrolle und der Frage der Abtreibung. Auch weiterhin haben der Enzyklika zufolge Werden und Schutz des ungeborenen Lebens absoluten Vorrang vor 'individualistischen Partikularinteressen', wie es in dem Papier heißt. Abtreibung sei auch weiterhin nur erlaubt, wenn das Leben der Mutter nicht anders erhalten werden kann. Die Schwangerschaftsverhütung bezeichnete der Papst als 'verdammenswerten Eingriff in die biologischen Hoheitsrechte Gottes'. Auch eine ständig wachsende Überbevölkerung könne kein Grund sein, von diesem Zivilisationsprinzip abzurücken."
+{TECF}NEWSFLASH (Textmodus):^^{LEFT} "Brüssel. Der Innenminister der Vereinigten Staaten von Europa, John McDermott, bezeichnete die jüngste Enzyklika des Vatikans als 'weitere, für diese Sekte kennzeichnende Verleugnung aller Realitäten dieser Welt.' In diesem Zusammenhang wies McDermott auf die ständig steigenden Mitgliederzahlen religiöser Sekten hin, hinter denen in der Regel nichts anderes stehe, als der Versuch, mit Hilfe von Gehirnwäsche an die Vermögen der Mitglieder zu gelangen. Erschreckend sei insbesondere die hohe Anzahl Jugendlicher und junger Erwachsener, die Opfer dieser Methoden würden. McDermott kündigte eine verschärfte Beobachtung des Vatikans durch europäische Agenten an. Insbesondere wolle man die enorm angewachsene Rüstungsindustrie des Vatikan unter Beobachtung halten. In jüngster Zeit vermehren sich die Anzeichen, daß der Vatikan auch über biologische Waffensysteme verfügt."
+{TECF}NEWSFLASH (Textmodus):^^{LEFT} "Stuttgart-Tokio. Ein Sprecher des DDT-Konzerns trat heute an die Öffentlichkeit, um erstmals auf Gerüchte zu reagieren, ein Fabrikschiff des Konzerns, die 'Toronto', sei auf einer Mission im All verschollen. Tatsache sei, so der Konzernsprecher, daß die Funkanlage des Schiffs ausgefallen sei. Das Schiff selbst sende allerdings weiterhin Ortungssignale von einem Wüstenplanet namens Nugget im Sektor HR-13- 4198. Man gehe davon aus, daß die Systeme des Schiffes normal arbeiten und in wenigen Jahren die ersten Frachtschiffe der Toronto auf der Erde eintreffen werden. Eine Bergungsmission sei deshalb unnötig und käme für den mit absoluter Sicherheit ausschließbaren Katastrophenfall auch zu spät, da eine Reise zu diesem Planeten mindestens drei Jahre in Anspruch nähme. An der Börse erholte sich in Folge dieser Pressemitteilung der Kurs der Wert der DDT-Aktien nur wenig."
+{TECF}NEWSFLASH (Textmodus):^^{LEFT} "Straßburg. Auf der Jahrestagung europäischer Sozialpädagogen wurde heute eine Resolution verabschiedet, in der die europäische Staatsregierung aufgefordert wird, das Beten mit Minderjährigen ab sofort unter Strafe zu stellen. Es könne nicht angehen, so die 1. Vorsitzende der ESP, Annagret Bergmann-Lampe, daß wehrlose Kinder den oft brutalen Weltuntergangs- oder Erlösungsszenarien beinahe aller Religionen schutzlos ausgeliefert seien. In jüngster Zeit, so die Vorsitzende, sei es an europäischen Schulen vermehrt zu religiös motivierten Graffitos gekommen. Es reiche nicht aus, so Bergmann-Lampe, die Übeltäter hart zu bestrafen. Man müsse sie vielmehr als Suchtkranke erkennen und behandeln."
+{TECF}NEWSFLASH (Textmodus):^^{LEFT} "Genf. Die Außenminister der europäischen, amerikanischen und asiatischen Staatengemeinden trafen sich heute zu ihrer halbjährlichen Routinekonferenz über die weitere friedliche Zusammenarbeit, RwfZ. Unübersehbar im Vordergrund stand dabei der Handelskrieg zwischen den Amerikanern und Asien. Gegenseitige Vorwürfe über zu hohe Schutzzölle prägten das Bild. Die Drohung des asiatischen Kaisers, man werde das gemeinsam geplante Tunnelprojekt unter der Beringsee platzen lassen, war aber nicht Thema der Tagung. Mit einer gemeinsamen Abschlußerklärung wird nicht vor morgen abend gerechnet."
+{TECF}NEWSFLASH (Textmodus):^^{LEFT}"Den diesjährigen Gatespreis für Plasmaphysik errang der Chinese Huo Wong Gang für eine bahnbrechende Arbeit auf dem Gebiet der Grundlagenforschung. Wong Gang erhielt den mit 470 Millionen Credits dotierten Preis als erster Chinese. Der Gatespreis wird seit 154 Jahren an herausragende Wissenschaftler und Geschäftsleute verliehen."
+{TECF}NEWSFLASH (Textmodus):^^{LEFT} "Eine Meldung vom Sport. Golf. Im Nationscupspiel zwischen Irak und den USA steht die Partie nach 3 von 5 Runden 2:1 für den hohen Favoriten aus Amerika."
+{TECF}NEWSFLASH (Textmodus):^^{LEFT} "Die Erdbebenwarnung für morgen, den 9. September 2230. Im Bereich des Sankt Andreas Grabens kommt es zu keinen nennenswerten Erschütterungen. Nach dem großen Beben vom vergangenen Jahr bauen sich erneute Spannungen zwischen der amerikanischen Festlandsplatte und der pazifischen Platte nur sehr langsam wieder auf. Lediglich im Bereich von Los Angeles kann es zu einigen kleineren Erschütterungen kommen, die allerdings den Wert von 3.5 auf der nach oben offenen Richterskala nicht überschreiten dürften. Ruhig verhalten sich auch die japanischen Küstenregionen, dort ist mit keinen Beben zu rechnen. Ein wenig unruhig könnte es aber im nördlichen Mittelmeer, westlich von Athen werden. Die Messungen der internationalen Bebenwarten rechnen mit einem Beben etwa der Stärke 5, das allerdings kaum Auswirkungen auf die griechische Provinzhauptstadt haben wird."
+{TECF}NEWSFLASH (Textmodus):^^{LEFT} "Im Tarifkonflikt zwischen Raumfahrergewerkschaft und den supranationalen Raumzentren konnte auch heute keine entscheidende Annäherung der unterschiedlichen Positionen erreicht werden. Die Arbeitnehmervertreter drohten mit Warnstreik, wenn die Arbeitgeber nicht bis zur nächsten Verhandlungsrunde ein akzeptables Angebot vorgelegt hätten. In der Hauptsache geht es in diesem Konflikt um eine Beteiligung der raumfahrenden Wissenschaftler an den durch ihre Experimente entstandenen Patenten. Während die Arbeitgeberseite jede Beteiligung kategorisch 'in den Bereich der Utopie' verweist, so ein Firmensprecher, rechnet die Gegenseite vor, daß alleine dieses Jahr aus den Patenten von im Weltraum erzielten Forschungsergebnissen 400 Milliarden Credits Tantiemen verteilt würden. 'Von diesem Kuchen', so ein Gewerkschaftssprecher, 'hätten wir gerne ein Stückchen ab.'"
+{TECF}NEWSFLASH (Textmodus):^^{LEFT} "Nürnberg. Der Präsident der europäischen Anstalt für Arbeit, Jagoda, legte heute seinen Bericht für den Monat August vor. Demnach waren im August 76 Millionen Menschen in Europa ohne Arbeit, das entspricht einer Arbeitslosenquote von 16,7%. Der Sprecher der sozialökologischen Opposition im Europaparlament, Guiseppe Piscator, verurteilte in diesem Zusammenhang die, so Piscator, hemmungslos unsoziale Politik der Unionsregierung, die den supranationalen Konzernen Rekordgewinne gestatte und gleichzeitig einer zunehmenden Verslumung der europäischen Großstädte tatenlos zusähe. Wörtlich sagte Piscator: 'Ganz offensichtlich hat die Regierung ein persönliches Interesse daran, daß in Europa bald amerikanische Verhältnisse herrschen. Die Opposition wird diesem Rückfall in den Thatcher- Kapitalismus nicht tatenlos zusehen!'"
+{TECF}NEWSFLASH (Textmodus):^^{LEFT} "Am morgigen Montag beginnt in weiten Teilen Europas wieder die Schule nach den großen Sommerferien. Das Unionsverkehrsministerium bat heute deshalb alle Indipiloten, in den nächsten Tagen besonders rücksichtsvoll zu fliegen, da wie jedes Jahr viele Erstklässler unterwegs seien. Seien Sie also bitte vorsichtig."
+"{TECF}NEWSFLASH (Textmodus):^^{LEFT} 3.Oktober und kein Ende. Der Vorschlag der Arbeitgeberverbände, den deutschen Nationalfeiertag 3.Oktober zugunsten der allgemeinen Ausbildungspflichtversicherung zu streichen, stößt weiterhin auf Widerstand. Heute meldete sich die Sudetendeutsche Landsmannschaft zu Wort, deren Vorsitzender, Herbert Hupka VI., davor warnte, diesen Tag aus dem Gedächtnis der Deutschen zu streichen, bevor das Sudetenland nicht wieder deutsch sei. Gestern hatte schon die deutsche Landesregierung Bedenken gegen die Pläne geäußert. Eine Reaktion der Unionsregierung steht noch aus."
+{TECF}NEWSFLASH (Textmodus):^^{LEFT} "Die Erdbebenwarnung für morgen, den 9. September 2195. Im Bereich des Sankt Andreas Grabens kommt es zu keinen nennenswerten Erschütterungen. Nach dem großen Beben vom vergangenen Jahr bauen sich erneute Spannungen zwischen der amerikanischen Festlandsplatte und der pazifischen Platte nur sehr langsam wieder auf. Lediglich im Bereich von Los Angeles kann es zu einigen kleineren Erschütterungen kommen, die allerdings den Wert von 3.5 auf der nach oben offenen Richterskala nicht überschreiten dürften. Ruhig verhalten sich auch die japanischen Küstenregionen, dort ist mit keinen Beben zu rechnen. Ein wenig unruhig könnte es aber im nördlichen Mittelmeer, westlich von Athen werden. Die Messungen der internationalen Bebenwarten rechnen mit einem Beben etwa der Stärke 5, das allerdings kaum Auswirkungen auf die griechische Provinzhauptstadt haben wird."
+{TECF}NEWSFLASH (Textmodus):^^{LEFT}"Den diesjährigen Gatespreis für Plasmaphysik errang der Chinese Huo Wong Gang für eine bahnbrechende Arbeit auf dem Gebiet der Grundlagenforschung. Wong Gang erhielt den mit 470 Millionen Credits dotierten Preis als erster Chinese. Der Gatespreis wird seit 154 Jahren an herausragende Wissenschaftler und Geschäftsleute verliehen."
+{TECF}NEWSFLASH (Textmodus):^^{LEFT} "Rom. Papst Johannes Paul der 14. veröffentlichte heute seine Enzyklika zum Schutz des ungeborenen Lebens. Darin bekräftigt der Vatikan seine Standpunkte gegenüber der Geburtenkontrolle und der Frage der Abtreibung. Auch weiterhin haben der Enzyklika zufolge Werden und Schutz des ungeborenen Lebens absoluten Vorrang vor 'individualistischen Partikularinteressen', wie es in dem Papier heißt. Abtreibung sei auch weiterhin nur erlaubt, wenn das Leben der Mutter nicht anders erhalten werden kann. Die Schwangerschaftsverhütung bezeichnete der Papst als 'verdammenswerten Eingriff in die biologischen Hoheitsrechte Gottes'. Auch eine ständig wachsende Überbevölkerung könne kein Grund sein, von diesem Zivilisationsprinzip abzurücken."
+{TECF}NEWSFLASH (Textmodus):^^{LEFT} "Im Tarifkonflikt zwischen Raumfahrergewerkschaft und den supranationalen Raumzentren konnte auch heute keine entscheidende Annäherung der unterschiedlichen Positionen erreicht werden. Die Arbeitnehmervertreter drohten mit Warnstreik, wenn die Arbeitgeber nicht bis zur nächsten Verhandlungsrunde ein akzeptables Angebot vorgelegt hätten. In der Hauptsache geht es in diesem Konflikt um eine Beteiligung der raumfahrenden Wissenschaftler an den durch ihre Experimente entstandenen Patenten. Während die Arbeitgeberseite jede Beteiligung kategorisch 'in den Bereich der Utopie' verweist, so ein Firmensprecher, rechnet die Gegenseite vor, daß alleine dieses Jahr aus den Patenten von im Weltraum erzielten Forschungsergebnissen 400 Milliarden Credits Tantiemen verteilt würden. 'Von diesem Kuchen', so ein Gewerkschaftssprecher, 'hätten wir gerne ein Stückchen ab.'"
+{TECF}NEWSFLASH (Textmodus):^^{LEFT} "Genf. Die Außenminister der europäischen, amerikanischen und asiatischen Staatengemeinden trafen sich heute zu ihrer halbjährlichen Routinekonferenz über die weitere friedliche Zusammenarbeit, RwfZ. Unübersehbar im Vordergrund stand dabei der Handelskrieg zwischen den Amerikanern und Asien. Gegenseitige Vorwürfe über zu hohe Schutzzölle prägten das Bild. Die Drohung des asiatischen Kaisers, man werde das gemeinsam geplante Tunnelprojekt unter der Beringsee platzen lassen, war aber nicht Thema der Tagung. Mit einer gemeinsamen Abschlußerklärung wird nicht vor morgen abend gerechnet."
+{TECF}NEWSFLASH (Textmodus):^^{LEFT} "McCartney-Erben rufen Inter|nationalen Gerichts|hof an. Bedroht der Enteignungs|versuch Brasiliens an den McCartney-Erben die letzten zusammen|hängenden Regen|wald|gebiete? Besitz der Erben|gemein|schaft soll durch Eingreifen der Schutztruppen gesichert werden, fordern einige Staaten."
+{TECF}NEWSFLASH (Textmodus):^^{LEFT} "Europäische Union: Der 14. Versuch der Einführung einer ein|heit|lichen, offi|ziellen Währung ist am Widerstand Deutschlands gescheitert."
 Eine Konsole zum Abruf von Nachrichten.
 Ein riesiges Schott.
 "Guten Abend, Tom! Komm rein und laß uns einen gemütlichen Abend verbringen."
-In dieser Nacht bleibt Tom von seinem Traum unbehelligt...^^ Einige Zeit sp"ter, Tom verl"ßt Christines Kabine.
-Dies ist die Tür zu Christine's Kabine. Sie ist im Moment nicht anwesend.
-Dies ist die Tür zu Christine's Kabine.^ Chris scheint anwesend zu sein.
+In dieser Nacht bleibt Tom von seinem Traum unbehelligt...^^ Einige Zeit später, Tom verläßt Christines Kabine.
+Dies ist die Tür zu Christines Kabine. Sie ist im Moment nicht anwesend.
+Dies ist die Tür zu Christines Kabine.^ Chris scheint anwesend zu sein.
 {CNTR}An die Tür klopfen?
-"Hallo, Tom! Sch"n, Dich zu sehen. Komm rein, wir machen es uns gemütlich."
+"Hallo, Tom! Schön, Dich zu sehen. Komm rein, wir machen es uns gemütlich."
 Eine Tastatur zur Eingabe von Zahlencodes.
 {TECF}{CNTR}FALSCHER CODE. ÖFFNUNG VERWEIGERT.
 {TECF}{CNTR}ÖFFNUNGSCODE EINGEBEN:
 Tom steigt in die Service-Ebene hinab.
 {TECF}{CNTR}CODE KORREKT. ÖFFNE SERVICEPANEL.
 Die Leiter führt hinab in die Service-Ebene.
-Dies ist tats"chlich der Comraum! Tom sieht sich vorsichtig um, aber niemand ist hier. In der Luft h"ngt der Geruch nach verschmorter Elektronik.
+Dies ist tatsächlich der Comraum! Tom sieht sich vorsichtig um, aber niemand ist hier. In der Luft hängt der Geruch nach verschmorter Elektronik.
 Das sind also die Überreste der Comanlage. Die Explosion muß in der Tat verheerend gewesen sein.
-Tom will sich gerade abwenden, da f"llt sein Blick auf einen Gegenstand, der unter der zerst"rten Konsole liegt. Es ist eine Waffe!
-"Wie um alles in der Welt kommt die Kanone hier her? Außer für Secus sind Waffen an Bord strengstens verboten!^^ Ein interessanter Fund jedenfalls..."
-Die zerst"rte Comanlage. Es ist nichts weiter Interessantes dort zu finden.
-Die zerst"rte Comanlage. Darunter liegt etwas!
-Scherben der zerst"rten Comanlage.
+Tom will sich gerade abwenden, da fällt sein Blick auf einen Gegenstand, der unter der zerstörten Konsole liegt. Es ist eine Waffe!
+"Wie um alles in der Welt kommt die Kanone hierher? Außer für Secus sind Waffen an Bord strengstens verboten!^^ Ein interessanter Fund jedenfalls..."
+Die zerstörte Comanlage. Es ist nichts weiter Interessantes dort zu finden.
+Die zerstörte Comanlage. Darunter liegt etwas!
+Scherben der zerstörten Comanlage.
 Auf den Gesichtern der Sicherheitsoffiziere ist erst Verblüffung, dann Zorn zu sehen, als sie jemanden aus dem von ihnen bewachten Bereich spazieren sehen!
 "Bleiben Sie stehen, Driscoll! Wie kommen Sie in den abgesperrten Bereich?^^ Rühren Sie sich nicht, wir werden eine Leibesvisitation durchführen!"
 Colonel Priver tastet Tom ab...
-"In Ordnung. Sie k"nnen gehen. Aber das wird Folgen für Ihre Personalakte haben, das kann ich ihnen versprechen!"
-"Eine Waffe! Driscoll, sind Sie wahnsinnig? Das wird Folgen für Ihre Personalakte haben, darauf k"nnen Sie sich verlassen!^^ Verziehen Sie sich, Sie werden von uns h"ren!"^^{INK 001} Colonel Striver hat die Waffe konfisziert!
+"In Ordnung. Sie können gehen. Aber das wird Folgen für Ihre Personalakte haben, das kann ich ihnen versprechen!"
+"Eine Waffe! Driscoll, sind Sie wahnsinnig? Das wird Folgen für Ihre Personalakte haben, darauf können Sie sich verlassen!^^ Verziehen Sie sich, Sie werden von uns hören!"^^{INK 001} Colonel Priver hat die Waffe konfisziert!
 "Schon wieder Sie! Sagen Sie, suchen Sie Ärger, oder was?"
 "Bleiben Sie ruhig!"^^{INK 001} Colonel Priver durchsucht Tom gründlich.
-Dies ist Toms Aufbewahrungsort für private Gegenst"nde.
+Dies ist Toms Aufbewahrungsort für private Gegenstände.
 Dies war der Raum Inspektor Beegles.
 In diesem Schrank sind eine Menge Patronen!
-Medipacs. Eine abgestimmte Mischung hochwirksamer Medikamente.
-Spezialwerkzeuge dieser Art lassen sich hervor|ragend zum Knacken von mecha|nischen Schl"ssern zweck|entfremden!
-Hier ist Nahrung in Form von Konzentratriegeln zu finden.
-Eine defekte Leuchtstoffr"hre.
+Stimdrinks. Eine abgestimmte Mischung hochwirksamer Medikamente.
+Spezialwerkzeuge dieser Art lassen sich hervor|ragend zum Knacken von mecha|nischen Schlössern zweck|entfremden!
+Hier ist Nahrung in Form von Konzentrat-Riegeln zu finden.
+Eine defekte Leuchtstoffröhre.
 Dies ist der Shuttlehangar der TORONTO. Von hier aus werden alle Flüge der kleinen Raumfahrzeuge gestartet.
-{INK 001}Eine Lautsprecherdurchsage hallt durch die G"nge des Schiffes:^^ {INK 002}"Durchsage für Pilot Driscoll: Shuttle zum Start vorbereitet. Startaufruf folgt in Kürze."
+{INK 001}Eine Lautsprecherdurchsage hallt durch die Gänge des Schiffes:^^ {INK 002}"Durchsage für Pilot Driscoll: Shuttle zum Start vorbereitet. Startaufruf folgt in Kürze."
 {INK 001}Eine Lautsprecherdurchsage:^^{INK 002} "Durchsage für Pilot Driscoll: Bitte melden Sie sich zum Start des Erkundungsfluges."
 {INK 001}Eine Lautsprecherdurchsage:^^{INK 002} Letzter Aufruf an Pilot Driscoll. Finden Sie sich sofort zum Start im Shuttlehangar ein!
 "Also gut. Ich muß mich wohl auf den Weg machen."
-Tom l"uft mit eiligen Schritten zum Shuttlehangar. Er wird dort bereits erwartet.
+Tom läuft mit eiligen Schritten zum Shuttlehangar. Er wird dort bereits erwartet.
 {FAHI}{CNTR}Nun folgt eine dicke Scriptsequenz: Tom & Rainer fliegen los und stürzen ab!
-Im Shuttlehangar wird Tom bereits erwartet. Schnell l"uft er zu dem vorbereiteten Shuttle.
-Dieses Schott führt zu den Kabinen des Führungspersonals und des Kapit"ns. Der Zutritt ist für andere Crewmitglieder nicht m"glich.
-Hier geht es in das Segment der TORONTO, das die Krankenstation und die Unterkünfte des Sicherheits|personals enth"lt. Regul"re Besatzungs|mitglieder haben hier keinen Zutritt.
-"Aha, endlich ist es soweit. Ich sollte nicht vergessen, alles mitzunehmen, was ich auf diesem Flug dabei haben m"chte, wenn es losgeht."
+Im Shuttlehangar wird Tom bereits erwartet. Schnell läuft er zu dem vorbereiteten Shuttle.
+Dieses Schott führt zu den Kabinen des Führungspersonals und des Kapitäns. Der Zutritt ist für andere Crewmitglieder nicht möglich.
+Hier geht es in das Segment der TORONTO, das die Krankenstation und die Unterkünfte des Sicherheits|personals enthält. Reguläre Besatzungs|mitglieder haben hier keinen Zutritt.
+"Aha, endlich ist es soweit. Ich sollte nicht vergessen, alles mitzunehmen, was ich auf diesem Flug dabei haben möchte, wenn es losgeht."
 Yep.
-
-Das Schott zur Kommandobrücke. Nur wenige Besatzungs|mitglieder haben hier Zutritt, Tom geh"rt nicht zu ihnen.
+Dies ist der Shuttlehangar.
+Das Schott zur Kommandobrücke. Nur wenige Besatzungs|mitglieder haben hier Zutritt, Tom gehört nicht zu ihnen.
 Dies ist die Messe des Schiffes, Treffpunkt und Verpfleg|ungsraum für die Besatzung.
 Vor dem Eingang zum Comraum, wo die Kommuni|kations|anlagen des Schiffes unter|gebracht sind, stehen zwei Sicherheits|beauftrage Wache.
-Hinter der unteren Tür ist der Raum, in dem Joe, ein alter Freund Tom's, gerade arbeitet.
+Hinter der unteren Tür ist der Raum, in dem Joe, ein alter Freund Toms, gerade arbeitet.
 Zum Start des Shuttlefluges melden? {BLOK000}Ja, starten {BLOK001}Nein, noch warten
 Tom geht zu einer Konsole und gibt seine Startbereitschaft durch.^^ Kurz darauf im Shuttlehangar...
 Tom beschließt, den Aufruf vorerst zu ignorieren.
-{CNTR}{INK 002}Bitte bedenken Sie: dies ist eine Preview-Version. Wir bitten, Bugs, fehlende Teile und mangelnde Feinabstimmung zu entschuldigen.^^^^ {JUST}{INK 001} KURZINFO FÜR PREVIEWVERSION:^^ Sie sind TOM DRISCOLL, ein Shuttlepilot an Bord der TORONTO. Die TORONTO ist ein Fabrik|raumschiff eines irdischen Konzerns, dessen Aufgabe der Abbau von Rohstoffen in großem Stil ist. Das Ziel der TORONTO ist ein Planet, der NUGGET genannt wurde, eine Wüstenwelt mit großen Rohstoffvorkommen.^^ Sie sollen in Kürze mit einem Regierungs|kontolleur, Mr. BEEGLE, genannt SNOOPY, einen Vorausflug in einem kleinen Shuttle unternehmen, um den Zielplaneten vorab n"her zu untersuchen.^^{LEFT} Ihnen n"her bekannte Personen:^ CHRISTINE - Technikerin und ihre derzeitige Partnerin.^ RAINER HOFSTEDT - Wissenschaftler und zweiter Regierungs|beauftragter an Bord.^ JOE - Techniker und ein alter Freund von ihnen.^^{JUST} Dieses Szenario dient zur Einführung in die Handlung, es gibt noch keine K"mpfe. Sprechen Sie mit Personen, um n"here Informationen zu Ihrer Situation zu erhalten. Es gibt auch ein Puzzle zu l"sen; bei Erfolg kann man einen Gegenstand behalten, der einem das sp"tere Vorankommen erleichtert.^^ Die Handlung setzt direkt nach dem Intro (siehe CD) ein. TOM erwacht aus seinem seltsamen Traum und beginnt seinen Tag.^^^ {CNTR}LOS GEHTS!
-Als Tom auf den Gang hinaustritt, sieht er von rechts Christine, seine Lebens|gef"hrtin, auf sich zukommen.^^Freudig geht er ihr entgegen, um mit ihr zu sprechen.
+{CNTR}{INK 002}Bitte bedenken Sie: dies ist eine Preview-Version. Wir bitten, Bugs, fehlende Teile und mangelnde Feinabstimmung zu entschuldigen.^^^^ {JUST}{INK 001} KURZINFO FÜR PREVIEWVERSION:^^ Sie sind TOM DRISCOLL, ein Shuttlepilot an Bord der TORONTO. Die TORONTO ist ein Fabrik|raumschiff eines irdischen Konzerns, dessen Aufgabe der Abbau von Rohstoffen in großem Stil ist. Das Ziel der TORONTO ist ein Planet, der NUGGET genannt wurde, eine Wüstenwelt mit großen Rohstoffvorkommen.^^ Sie sollen in Kürze mit einem Regierungs|kontolleur, Mr. BEEGLE, genannt SNOOPY, einen Vorausflug in einem kleinen Shuttle unternehmen, um den Zielplaneten vorab näher zu untersuchen.^^{LEFT} Ihnen näher bekannte Personen:^ CHRISTINE - Technikerin und ihre derzeitige Partnerin.^ RAINER HOFSTEDT - Wissenschaftler und zweiter Regierungs|beauftragter an Bord.^ JOE - Techniker und ein alter Freund von ihnen.^^{JUST} Dieses Szenario dient zur Einführung in die Handlung, es gibt noch keine Kämpfe. Sprechen Sie mit Personen, um nähere Informationen zu Ihrer Situation zu erhalten. Es gibt auch ein Puzzle zu lösen; bei Erfolg kann man einen Gegenstand behalten, der einem das spätere Vorankommen erleichtert.^^ Die Handlung setzt direkt nach dem Intro (siehe CD) ein. TOM erwacht aus seinem seltsamen Traum und beginnt seinen Tag.^^^ {CNTR}LOS GEHTS!
+Als Tom auf den Gang hinaustritt, sieht er von rechts Christine, seine Lebens|gefährtin, auf sich zukommen.^^Freudig geht er ihr entgegen, um mit ihr zu sprechen.
 {FAHI}- S C R I P T S E Q U E N Z - {NORS}^^ Hier wird eine Scriptsequenz beginnen, die den Flug nach Albion, den Absturz, die ersten Schritte auf dem Planeten, die Explosion des Shuttles und das Erwachen bei den Iskai darstellt.
 "Driscoll, es ist alles bereit für ihren Flug."
-"Alle erforderlichen Daten zur Kursbestimmung stehen ihnen in den Systemen des Shuttles zur Verfügung, Mister Driscoll.^^W"hrend des Fluges werde ich direkt mit Ihnen kommunizieren, um Ihnen die Auswertung der übertragenen Daten sofort miteilen zu k"nnen."
+"Alle erforderlichen Daten zur Kursbestimmung stehen Ihnen in den Systemen des Shuttles zur Verfügung, Mister Driscoll.^^Während des Fluges werde ich direkt mit Ihnen kommunizieren, um Ihnen die Auswertung der übertragenen Daten sofort mitteilen zu können."
 "Sie kennen Ihren Auftrag: Durchführung von Meßreihen im Orbit und vor Ort zur Verifizierung der Sondendaten. Bringen Sie Mister Hofstedt gut hinunter, Driscoll.^ Viel Glück."
 "Danke, Sir. Ich werde mich bemühen.^^Sind Sie bereit, Hofstedt?"
 "Aber sicher! Geben Sie Gas, Driscoll!"
-Neben dem Shuttle trifft Tom auf Kapit"n Brandt, den Androidenk"rper von Ned, dem AI-System des Schiffes und natürlich auf Rainer Hofstedt, seinen Passagier.
-Tom bringt das Shuttle sicher aus dem riesigen Mutterschiff.^^Das kleine Raumfahrzeug hat einen kr"ftigen Antrieb, und so sind die beiden schon nach ein paar Stunden in der N"he des Zielplaneten...
+Neben dem Shuttle trifft Tom auf Kapitän Brandt sowie den Androidenkörper von Ned, dem AI-System des Schiffes, und natürlich auf Rainer Hofstedt, seinen Passagier.
+Tom bringt das Shuttle sicher aus dem riesigen Mutterschiff.^^Das kleine Raumfahrzeug hat einen kräftigen Antrieb, und so sind die beiden schon nach ein paar Stunden in der Nähe des Zielplaneten...
 "Am Ende dieses Ganges dort oben arbeitet Joe, das alte Haus, im Augenblick.^^Ich sollte ihn bald mal besuchen."
-
-
+{CNTR}{INK 003}Willkommen zum^^^ {INK 006}{BIG }ALBION-DEMO{NORS}{INK 003}
+{INK 003}Dieses Demo enthält die unveränderten ersten beiden Szenarien des kompletten Spiels.^^In Albion finden sich sehr viele unterschiedliche Features wie z.B. Kampfzauber, Händler und Trainer, die aber erst nach einiger Spielzeit auftauchen. Wollen Sie schnell in ein paar Kämpfe und einen 3D-Dungeon hineinschnuppern, können Sie den Spielstand "DEMO" laden: Westlich von Ihnen ist ein Höhleneingang, ein Stück im Südwesten eine Stadt. Probieren Sie im Kampf mal den Feuerring aus, den Rainer Hofstedt bei sich hat! ^^Zur Steuerung:^STEUERN Sie, indem Sie die linke Maustaste drücken; wenn Sie etwas TUN wollen, drücken Sie die rechte Maustaste oder halten Sie sie gedrückt.^^ Zur Story:^Sie sind Tom Driscoll, Pilot an Bord eines riesigen Fabrik|raum|schiffes, der TORONTO. Ihr Job ist es, mit einem Regierungs|beamten einen Voraus|flug zum Zielplaneten an Bord eines kleinen Shuttles zu unternehmen. Sprechen Sie mit den Menschen in der TORONTO, um mehr über Ihre Situation zu erfahren. TIP: Es gibt in diesem ersten Szenario eine Waffe und Munition zu finden, die Ihnen spätere Kämpfe erleichtern.^^Viel Spaß beim Antesten von Albion. Sie können übrigens Ihren Demo-Spielstand weiterführen, wenn Sie Albion kaufen sollten (einfach den Spielstand in das neue SAVES - Verzeichnis kopieren).^^ Das komplette Spiel ist jetzt erhältlich!

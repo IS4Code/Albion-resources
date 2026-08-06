@@ -170,3 +170,13 @@ REMARK: It's possible to do some simple puzzle-solving in the next 3D-szenario. 
 REMARK: The next 2D-szenario allows you to do some puzzles based on the functions of the program that are already included. There are a lot of hints by one of the members of your party since this is still a beginners scenario, but alas, they're in German, too.
 REMARK: This is one of the game's areas, where we began to "fill it with life". The persons who dont answer if you try to speak to them, will come up with a special dialogue screen shortly.
 REMARK: To leave the next room, step on the green plate on the floor, and watch the greenish transparent walls!
+An Isle of Peace: The Dji Cantos place
+Rainer
+
+Sira
+Mellthas
+Harriet
+Joe
+Khunag
+Kriegerin
+{BIG }{CNTR}Bit "Entlassen möglich" getoggelt!

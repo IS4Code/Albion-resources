@@ -1,164 +1,164 @@
-﻿
-
-
-
-
-
-
-
-
+﻿leer
+Kein Mitglied der Gruppe ist besonders erpicht darauf, dort hinzufassen.
+Ein großes Sofa.
+Ein großer Schrank.
+Ein Bratrost.
+Ein Bett.
+Eine Feuerstelle.
+Die Bettdecke.
+Iskai-Besteck.
 Ein Teller.
-Ein Beh"lter.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Ein Behälter.
+Eine Wurst.
+Ein schinkenähnliches Fleischstück.
+Ein Kochlöffel.
+Diverse Kräuter.
+Früchte.
+Eine Fleischspezialität.
+Ein Trinkbecher.
+Eine Schale.
+Ein Gewürz.
+Kleine Gewürzdosen.
+Ein kleiner Becher.
+Ein Küchenmesser.
+Gebäck.
+Einige kleinere Würstchen.
+Dies ist dem Geruch nach ein Fläschchen mit einer Würzflüssigkeit.
+Ein Stofftuch.
+Ein Handtuch.
+Ein Eimer.
+Eine Bratpfanne.
 Ein Topf.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Innerhalb dieses Kessels befindet sich auf einem Gestänge ein kleiner Topf, in dem Speisen besonders schonend erwärmt werden können.
+Ein Kissen.
+Eine große Bratpfanne.
+Eine Fell-Bürste.
+Eine Wasserrinne.
+Ein Wasserbecken.
+Eine Wassersperre.
+Ein großer Tonkrug.
+Eine Kommode.
+In den Fächern der Kommode liegt allerhand unwichtiges Kleinzeug.
+Eine Kiste.
+Das ist ein ziemlich großer Kessel. Vielleicht dient er zur Lagerung von Vorräten, von Wasser oder Speisen.
+In diesem Wasserbecken steht eine fremdartige Pflanze, die mit ihren pulsierenden Bewegungen Grundwasser aus dem Boden pumpt. Diese Quelle dient ganz offensichtlich der Wasserversorgung.
+Das Wasser in diesem Tümpel riecht schlecht und faulig. Vermutlich sammeln sich hier die Abwässer.
+Wasserpflanzen.
+Bodengewächse.
+Eine exotische Pflanze.
+Schlinggraspflanze.
 Platzhalter für weitere Cutmap-Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Eine Treppe. Sie führt durch den Boden nach unten.
+Diese Treppe geht durch die Decke nach oben.
+Es handelt sich hier offenbar um eine Art Bett. Die Füllung besteht aus Sand, der durch seine groben, aber rundgeschliffenen Körner erstaunlichen Komfort bietet.
+Das enorme Gebilde scheint eine Art Sitzmöbel zu sein. Es wirkt pflanzlich und ist offenbar gewachsen. Die Oberfläche ist weich und elastisch.
+Der Brunnen des Hauses.
+Die Wasserrinnen dienen wohl der Versorgung mit Trinkwasser. Sie durchziehen das Haus wie kleine Bäche.
+Der muffige Geruch und die Löcher in dem Gebilde lassen nur den Schluß zu, daß es hier um eine Toilette handelt. Auch dieses "Möbel" ist pflanzlichen Ursprungs und gedeiht prächtig; sicher eine Folge der regelmäßigen Düngung.
+An diesem Ort finden die wirklich dringenden Geschäfte der Welt statt.
+In dieser Pfanne brutzelt ein süßlich-scharf riechendes Gericht.
+Eine Sitzgelegenheit.
+Ein massiver Holztisch.
+Eine kräftige Blattpflanze.
+Eine Türe.
+Ein Messer.
+Ein Kurzdolch.
+Ein Dolch.
+Ein großer Dolch.
+Ein Kurzschwert.
+Ein Iskai-Messer.
+Ein Iskai-Dolch.
+Ein Iskai-Stilett.
+Ein Iskai-Kurzschwert.
+Ein großes Iskai-Stilett.
+Ein Iskai-Schwert.
+Ein großes Iskai-Schwert.
+Ein Iskai-Langschwert.
+Eine Iskai-Lanze.
+Ein großer Iskai-Dolch.
+Ein Iskai-Kurzstilett.
+Ein großes Iskai-Stilett.
+Ein großes Iskai-Schwert.
+Kleiner Bogen.
+Ein Bogen.
+Ein Pfeil.
+Ein langer Pfeil.
+Ein Lederschild.
+Ein kleiner Iskai-Schild.
+Ein Iskai-Schild.
+Ein großer Iskai-Schild.
+Eine Lederkappe.
+Eine Iskai-Lederkappe.
+Eine Iskai-Metallkappe.
+Ein Iskai-Metallhelm.
+Ein Iskai-Brustschutz.
+Ein Iskai-Metall-Brustschutz.
+Eine leichte Iskairüstung.
+Eine Iskairüstung.
+Eine leere Flasche.
+Ein grüner Heiltrank.
+Ein türkisener Heiltrank.
+Ein blauer Heiltrank.
+Ein roter Trank.
+Ein violetter Trank.
+Ein blauer Trank.
+Ein Schlüssel.
+Ein Seil.
+Eine Fackel.
+Ein Iskai-Notizblock.
+Ein Zettel.
+Ein Iskai-Ringbuch.
+Ein Iskai-Ringblock.
+Ein Schreibstift.
+Ein kurzer Schreibstift.
+Eine Sitzbank.
+Auch dieses Sitzmöbel ist förmlich aus dem Boden gewachsen und stellt eine bequeme Sitzbank dar.
+Ein Holzpfahl. An seinem oberen Ende befindet sich ein Schild.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Das ist der Ausgang.
+"Die Wand!^^Die Wand!!^^Oh Mächtiger, die Wand dreht sich. Ich glaube, ich habe zuviel getrunken."
+"Skeima Din, habt Ihr zufällig irgend etwas dabei, was Ihr verkaufen möchtet? Ich bin fliegender Händler und derzeit wieder auf der Suche nach interessanten Gegenständen. Ich zahle gute Preise, denn mein Sortiment ist momentan sehr klein. Wenn Ihr etwas interessantes habt, nur zu."
+"Wart Ihr schon bei Jikraii? Sie ist die Vorsitzende der Magier-Gilde. Ein Besucht dort lohnt sich für Euch bestimmt."
+"Erntearbeit ist anstrengend. Da hilft nur eine entspannender, ausgedehnter Kneipenbesuch. Aber vor allem ausgedehnt, hirhir."
+"Wenn Ihr jemanden sucht, mit dem Ihr reden könnt, dann wendet Euch an Edjirr. Er ist hier der Wirt und bekommt so ziemlich alles mit, was sich in Srimalinar und der näheren Umgebung abspielt. Edjirr kennt auch viele Leute in Beloveno und Kounos. Und jeder in Srimalinar kennt Edjirr. Und außerdem ist er sowieso ziemlich gesprächig. Er freut sich bestimmt, wenn Ihr ihn ansprecht."
+"Wenn Ihr Euch in der Gegend hier nicht auskennt, will ich Euch gerne weiterhelfen: Reist nach Norden, um über Kounos und das Gebirge nach Beloveno zu gelangen. Reist nach Osten, wenn Ihr mit den Kenget Kamulos Bekanntschaft machen möchtet. Und haltet Euch von unserem Heiligtum fern, denn es gibt ein Tabu, das es Fremden verbietet, dort hinzugehen. Wir akzeptieren keine Ausnahmen und achten streng darauf, daß das Tabu eingehalten wird."
+"Skeima Din, ich möchte im Moment nicht gestört werden."
+"Skeima Din,^^Jirra. Freut mich, Euch kennenzulernen. Habt Ihr irgendwelche Neuigkeiten aus Beloveno mitgebracht? Ihr kommt doch aus Beloveno, nicht wahr?^^Ich bin politisch nämlich sehr interessiert und möchte immer gerne informiert sein, wenn etwas Wichtiges vorgeht. Und es ändert sich viel mehr, als man denkt. Ist Euch nicht auch schon aufgefallen, wie oft schon die Leute die Meinungen ändern? Probiert das einfach mal aus. Redet mit irgendwelchen Leuten über etwas und sprecht sie zu einem viel späteren Zeitpunkt noch einmal darauf an. Meistens hört sich dann alles schon ganz anders an.^^Davon einmal abgesehen, wenn Ihr neu hier seid, gebe ich Euch vielleicht erst mal ein paar Tips, wie Ihr Euch hier möglichst gut eingliedert und unsere Gesellschaft und Kultur respektiert. Wichtig wäre da zum Beispiel, daß Ihr das berühmte Heiligtum von Srimalinar nicht betretet. Es gibt ein Tabu, daß es Fremden verbietet, diese Stätte aufzusuchen. Wir betrachten es als grobe Verletzung unserer Religion, wenn jemand gegen das Tabu verstößt.^^Dieser Ort ist für uns eine Gedenk- und Gebetsstätte, die schon seit vielen Generationen besteht. Das Betreten durch Fremde hat für uns fast die selbe Bedeutung wie eine Entweihung. Also respektiert das Tabu bitte und haltet Euch von diesem Ort fern."
+"Skeima Din,^^Jirra ist mein Name. Ich glaube, wir haben uns schon gesehen. Habe ich Euch nicht schon von unserem Heiligtum erzählt? Es gibt ein Tabu, daß es Fremden verbietet, diese Stätte aufzusuchen. Wir betrachten es als grobe Verletzung unserer Religion, wenn jemand gegen das Tabu verstößt.^^Dieser Ort ist für uns eine Gedenk- und Gebetsstätte, die schon seit vielen Generationen besteht. Das Betreten durch Fremde hat für uns fast die selbe Bedeutung wie eine Entweihung. Also respektiert das Tabu bitte und haltet Euch von diesem Ort fern.^^Nun habe ich schon von verschiedenen Seiten Gerüchte über unser Heiligtum gehört, die völlig unbegründet sind. Da ist von einer magischen Versuchswerkstatt die Rede, in der wir nach schwarzer, böser Magie forschen. Das ist genau so unsinnig wie diese Legende mit den schrecklichen Wesen, die dabei aus unserem Heiligtum herauskommen sollen. Diese Wesen gibt es zwar tatsächlich und ich habe leider auch keine Erklärung für ihren Ursprung, sie kommen aber definitiv nicht aus unserem Heiligtum. Fast ständig ist jemand aus unserem Dorf dort und noch nie haben wir im Heiligtum ein solches Wesen angetroffen. Ich hoffe, daß Ihr Euch von diesem Geschwätz nicht auch den Kopf verdrehen laßt, wie das im Urkeltendorf Kounos der Fall ist. Ich habe gehört, daß Kontos diese Gerüchte verbreitet. Ich weiß beim besten Willen nicht warum und welche Ziele er damit verfolgt, aber vielleicht finde ich das auch noch heraus. Wenn Ihr näheres darüber wißt, vielleicht könnt Ihr mich ja informieren. Vielleicht habe auch ich dann neue Informationen für Euch. Am besten, Ihr besucht mich mal wieder, wenn Ihr weitergekommen seid. Sprecht doch auch mal alle wichtigen Leute in Kounos und Beloveno darauf an, um mehr darüber herauszufinden!"
+"Ihr wagt Euch noch hierher? Nach allem, was vorgefallen ist? Ich verstehe das alles sowieso nicht. Die Gerüchte und die fadenscheinigen Begründungen der Urkelten sind einfach lächerlich. Dieser Ort ist nicht gefährlicher als jede Höhle, die es in dieser Gegend gibt. Und ihn besetzen zu wollen und damit unser Tabu zu entweihen, das ist ein direkter Angriff auf unser Volk, auf den wir nur mit Wut, Haß und Unverständnis reagieren können. Ich weiß nicht, wie Ihr zu der Sache steht, aber ich finde es unglaublich, was sich da zur Zeit abspielt. Das wird einen Krieg geben, dessen Ziele und Gründe wohl nur wenige kennen. Jedenfalls müssen wir uns wehren, und das werden wir auch tun. Die meisten unserer Krieger sind bereits losgezogen, um Widerstand zu leisten. Jetzt kann eigentlich nur noch ein Wunder das Schlimmste verhindern."
+{CNTR}HIER^Neuer Sugo.
+Mellthas gestikuliert, um der Party anzudeuten, daß er etwas wichtiges mitzuteilen hat. Dann schreibt er eifrig auf seinen Zettel:^^Wir sollten meinen Freund Darios in Kounos besuchen. Vielleicht bringt uns das der Wahrheit ein Stück näher.

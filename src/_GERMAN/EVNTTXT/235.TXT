@@ -1,0 +1,6 @@
+﻿{BLOK000}"Ich bin Mitglied im 'Rat der Gerechten' und muß dafür sorgen, daß die Interessen des Volkes berücksichtigt werden, was leider keine einfache Aufgabe ist."
+"Willkommen, schön Euch wieder zu sehen."{WORDHeiligtum}{WORDRathaus}
+"Wißt Ihr eigentlich, daß alle Leute zu Euch aufschauen? Vielleicht spricht es nicht gerade für uns, aber ohne Eure Anwesenheit wären manche Dinge in diesem Konflikt ganz anders und bestimmt nicht besser abgelaufen. Eure diplomatischen Fähigkeiten waren für uns in diesem Moment sehr wertvoll und ich möchte mich im Namen des Rates und von Beloveno bei Euch für die Mithilfe herzlich bedanken."{WORDKontos}
+"Es ist wirklich gut, daß Ihr Kounos und uns von ihm befreit habt."
+"Der Rat tagt regelmäßig im Rathaus, und manchmal, wenn es einen besonders wichtigen Anlaß gibt, dann laden wir die ganze Stadt in unseren großen Veranstaltungssaal ein. Aber das passiert nur, wenn es etwas wirklich wichtiges ist. Wir haben hier eine ganze Menge an kleinen Zimmern, in denen wir über Probleme reden können und die auch für die unterschiedlichsten Zwecke gemietet werden können. Im Südflügel des Hauses ist der große Veranstaltungssaal, von dem ich Euch erzählt habe, und ein Beratungszimmer. Im Nordflügel findet Ihr die Besprechungszimmer und im Mittelbau befinden sich Küche und Brotzimmer. Ihr dürft Euch gerne umschauen."
+"Das bin ich."

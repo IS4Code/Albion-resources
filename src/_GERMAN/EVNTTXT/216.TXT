@@ -1,0 +1,10 @@
+﻿{BLOK000}"Ich erleche wilde Tiere in den Wäldern, schlachte sie und verkaufe das Fleisch. Sochesehen könnt Ihr mich als Jächer, Metzcher und Verkäufer bezeichnen, newe."{WORDJäger}
+"Skeima Din, Fremde. Ich bin Aurino und freue mich, Eure Bekanntschaft zu machen. Na, wie schmeckt Euch unser Sucho?"{BLOK010}"Skeima Din, danke der Nachfrage. Wir wissen ihn zu schätzen, ein prächtiges Getränk!"{BLOK011}"Skeima Din Aurino. Die Freude liegt ganz auf unserer Seite. Dieser Sugo ist allerdings ein extrem widerliches Gesöff."
+-frei-
+"Mhm, normalerweise dauert es eine chanze Zeit lang, bis man sich an den besonderen Cheschmack chewöhnt hat, newe. Aber ich chlaube Euch mal. Solange Ihr damit nicht Euren Kummer runterspült..."{WORDKummer}
+"Herherher, Ihr chefällt mir. Seid wenichstens chrundehrlich, newe. Wenn alle so ehrlich wäre, chäb's manchen Kummer wenicher in Beloveno."{WORDKummer}
+"Achje, was würdet Ihr denn sachen, wenn man sich auf die wichtichsten Leute in der Stadt nicht verlassen kann?"{BLOK010}"Könnt Ihr da vielleicht etwas konkreter werden?"
+"Naja, der 'Rat der Cherechten' sollte eichentlich für das Volk da sein. Nun habe ich schon zum zweiten Male einen Streit mit meinem Nach|barn chehabt. Es ching dabei um ein Chrund|stück und wir haben uns um die Besitz|ansprüche chestritten, newe. In solchen Fällen sollte unser weiser Rat eichent|lich eine cherechte Entschei|dung fällen. Aber in beiden Fällen ist ein Urteil chefällt worden, das weder zu meinen Chunsten, noch zu Chunsten meines Nach|barns ausching. Der Rat hat die Chrund|stücke einfach verpfändet, newe. Dabei dürfen sie auch nicht mehr von der Allche|meinheit benutzt werden. Ich verstehe das wirklich nicht, newe. Irchendwie ist da im Rat auch nicht alles in bester Ordnung."{WORDGrundstück}
+"Mir macht mein Beruf Spaß, danke!"
+"Das tut nichts zur Sache, ich habe das nur als Beispiel aufcheführt, newe."
+"Das bin ich."

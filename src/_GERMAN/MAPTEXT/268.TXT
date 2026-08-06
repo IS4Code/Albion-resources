@@ -1,7 +1,7 @@
 ﻿-frei-
 Äste und Wurzeln.
 Ein geflochtener Korb.
-Ein Glasgefäß für Wein und andere Getränke.
+Ein Glasgefäß für Wasser und andere Getränke.
 Ein Faß.
 Ein prächtiges Tierfell.
 Ein Eimer.
@@ -41,7 +41,7 @@ Ein zusammengeklappter Hocker.
 Ein massiver Eßtisch.
 Ein Baumstumpf.
 Zwei gekreuzte Speere.
-Ein großes Faß mit Wasser, Bier oder Wein.
+Ein großes Faß mit fremdartigen Getränken.
 Ein Zapfhahn.
 Eine Bettdecke.
 Ein komfortables und hübsch verziertes Bett.
@@ -127,7 +127,7 @@ Platzhalter für weitere Cutmap-Events.
 Hinter dieser Türe liegt der Verkaufs- und Lagerbereich. Die Türe ist verschlossen und ganz bestimmt gibt der Händler den Schlüssel nicht an fremde Personen ab. Glücklicherweise gibt es ja auch noch legale Methoden, um Waren zu erwerben.
 {CNTR}Auf dem Schild steht:^{INK 006}Schilde, Helme und Panzer.^Allerbeste Qualität.
 Das ist der Ausgang.
-Laßt mich bitte in Ruhe!
-Ahh, die Reisenden. Ich wünsche Euch viel Glück auf Eurer großen Reise.
-Was meint Ihr? Ob mir die Lederkappe oder ein richtiger Metallhelm besser steht? Leider ist das auch eine Frage des Preises...
-Rüstet Euch gut aus, wenn Ihr weit reisen wollt.
+"Laßt mich bitte in Ruhe!"
+"Habt Ihr schon mit Khunag gesprochen? Er ist ein abtrünniger Magier und ich glaube, unter Euch befinden sich ebenfalls Magier. Khunag ist in der ganzen Stadt bekannt für seinen eigensinnigen und starken Charakter. Er wohnt bei Kariah. Besucht ihn doch einmal."
+"Was meint Ihr? Ob mir die Lederkappe oder ein richtiger Metallhelm besser steht? Leider ist das auch eine Frage des Preises..."
+"Rüstet Euch gut aus, wenn Ihr weit reisen wollt."

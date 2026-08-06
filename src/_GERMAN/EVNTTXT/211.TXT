@@ -1,0 +1,11 @@
+﻿{BLOK000}"Oh, ich führe das Lebensmittelgeschäft hier in der Stadt."
+"Skeima Din, wißt Ihr zufällig etwas Neues über das böse Heiligtum der Iskais?"{BLOK010}"Nein, wir wissen auch nur das, was man sich überall erzählt!"{BLOK011}"Was ist denn mit dem Heiligtum?"{WORDHeiligtum}
+"Bei der momentanen Situation ist es ja schon fast positiv, wenn man keine Neuigkeiten mehr über das Heiligtum erfährt. Denn die letzten Neuigkeiten waren allesamt Hiobsbotschaften."{WORDHiobsbotschaften}
+"Ihr habt noch nichts davon gehört? Haltet Euch von dem Ort fern! Mir haben jetzt schon ganz verschiedene Personen über die schrecklichen Wesen berichtet, die sich dort herumtreiben. Es werden immer mehr. Und sie entstehen dort, in diesem komischen Keller, den außer diesen komischen Iskai sowieso niemandbetreten darf. Irgendwie waren die mir schon immer unheimlich. Macht doch einmal einen Besuch in Srimalinar und redet mit den wichtigen Leuten wie Edjirr, dem Kneipenwirt und Arrim, der im Erntehaus wohnt. Redet mit ihnen, je eher, desto besser."{WORDTabu}
+"Waaas? Was heißt hier 'komische Iskai'??? Iskai sind definitiv nicht komischer oder unheimlicher als die Menschen! Wenn ich etwas hasse, dann sind es Vorurteile! Und jetzt lassen wir dieses Thema besser..."
+"Das gilt natürlich nicht für alle Iskai - aber was rede ich. Reist nach Srimalinar und überzeugt Euch selbst. Am besten, Ihr wagt Euch nicht in die Nähe Ihres Heiligtums, denn zum einen gibt es da dieses Tabu, das Ihr nicht verletzen solltet, und zum anderen immer mehr dieser furchtbaren Monster."{WORDTabu}
+"Damit ist nicht zu spaßen! Sie nehmen es sehr ernst, wenn Ihr Euch nicht daran haltet. Es existiert schon, seit ich mich erinnern kann."
+"Was habt Ihr denn mit dem Tabu? Ich kann Euch dazu nicht mehr sagen."
+"Ja, die Bewohner von Srimalinar sind sehr religiös orientiert und suchen ihr Heiligtum regelmäßig auf. Ich weiß nicht, was sie dort tun, ich weiß auch nicht, ob sie überhaupt noch dorthin gehen, nachdem es dort nur noch so von Monstern wimmelt. Kontos behauptet ja felsenfest, daß die Menschen eingreifen müssen, bevor es zu spät ist und eine ganze Invasion von Monstern das Land überflutet."{WORDKontos}
+"Fragt ihn am besten selbst. Er ist der Führer im Dorf Kounos."
+"Das bin ich."

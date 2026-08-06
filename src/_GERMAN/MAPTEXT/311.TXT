@@ -1,84 +1,84 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿frei
+Ein Kamin.
+Ein Kerzenleuchter.
+Ein geflochtener Korb.
+Ein Holztisch.
+Ein Hocker.
+Ein Himmelbett. Mit den Totenschädeln könnte man es gar als "Höllenbett" bezeichnen.
+Ein Schreibtisch.
+Ein Stuhl.
+Ein loderndes Feuer brennt in dieser Säule, welches die Fratze in einem schummerigen Licht erscheinen läßt und beim Betrachter einen beklemmenden Zustand erweckt.
+Eine Säule mit einer gräßlichen Fratze.
+Ein Bett. Wie die meisten Möbel hier, wirkt es etwas abschreckend.
+Ein Faß.
+Eine Art von Teppich, der aus getrockneten Pflanzenhalmen geknüpft ist.
+Ein Glaskrug.
+Vorhänge.
+Eine Kiste.
 Ein Schrank.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Eine Fackel.
+Eine Menge unwichtiger Kleinkram liegt in den Regalen.
+Ein großer hölzerner Zuber.
+Große Holzregale.
+Dieses Bett wird derzeit wohl nicht benutzt.
+Verschiedene Hieb-, Stich- und Schußwaffen, die alle äußerst gefährlich aussehen.
+Ein Waffenregal.
+Ein Schild.
+Ein aufgespießter Schädel. Ein unangenehmer Verwesungsgeruch deutet darauf hin, daß die Greueltat noch nicht allzulange zurückliegt.
+An diesen Strohpuppen werden kriegerische Fähigkeiten trainiert und erprobt.
+Ein mit Stroh umwickelter Holzpfahl. Dient zur Übung von Schlagtechniken.
+Eine Zielplatte für Pfeil und Bogen.
+Ein Tablett mit Nahrungsmitteln.
+Kräuter.
+Eine Truhe.
+Eine Karaffe.
+Ein Kochlöffel.
+Ein Eimer.
+Ein Löffel.
+Ein Löffel und eine Gabel.
+Ein Trinkbecher.
+Zwei Trinkbecher.
+Eßbesteck.
 Ein Teller.
-Ein Beh"lter.
-
-
-
-
-
-
-
-
-
+Ein Behälter.
+Gemüse.
+Gebäck.
+Ein Gewürz.
+Ein Metallteller.
+Ein Tonbehälter.
+Ein großer Glastopf.
+Ein Glasbehälter.
+Eine Holzdose.
+Eine große Glasdose.
 Eine Flasche.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Notizblätter.
+Ein Buch.
+Mehrere Bücher.
+Ein in Leder gebundenes Buch. Es sieht wertvoll aus.
+Schreibutensilien.
+Ein aufgeschlagenes Buch. Auf der linken Seite ist eine technische Skizze zu sehen, die rechte Seite enthält Beschreibungen dazu.
+Ein kurzer Schreibstift.
+Ein schweres Kurzschwert.
+Ein schwerer Dolch.
+Eine Türe.
+Dieser mächtige Küchenherd dient zum Erhitzen von Speisen und Getränken.
+Ein Wandbehang.
+Zerrissene Vorhänge.
+Schäbige Holzbetten.
+Eine verzierte Säule.
+Ein Tierfell.
+Eine Treppe nach oben.
+Eine Treppe nach unten.
+Offene Schubladen mit Kleinkram.
 Ein Becher.
-
-
-
-
-
-
-
-
+Eine feine Schere.
+Eine Phiole.
+Ein Streitkolben.
+Phiolen.
+Ein Vergrößerungsglas.
+Große Tücher.
+Ein Tuch.
+Ein Teppich.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
@@ -127,90 +127,90 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Khunag:{INK 002}^ "Dies ist der Eingangs|bereich."
+Khunag:{INK 002}^ "Wir sind in der Nähe der Küche."
+Khunag:{INK 002}^ "Wir sind bei den Zellen der Novizen."
+Khunag:{INK 002}^ "Der Gang zum Gäste|zimmer und den Novizenzellen".
+Khunag:{INK 002}^ "Der Übungsraum der Druiden-Novizen."
+Khunag:{INK 002}^ "Der Übungsraum der Krieger-Novizen."
+Khunag:{INK 002}^ "Dies ist ein Gebetsraum."
+Khunag:{INK 002}^ "Ein Vorratsraum."
+Khunag:{INK 002}^ "Wir kommen hier zu den Sklaven|räumen."
+Khunag:{INK 002}^ "Der Empfangsraum für Besucher."
+Khunag:{INK 002}^ "Der Aufenthalts|raum für Novizen."
+Khunag:{INK 002}^ "Die zentrale Säulenhalle."
+Khunag:{INK 002}^ "Die Halle der Novizenzellen."
+"Kommt nicht auf dumme Gedanken, Besucher!^^Wie Ihr seht, ist unser Eingangs|bereich leicht zu verteidigen!"
+"Grüße, Besucher. Ihr dürft die Anlage nur in Begleitung eines Kenget verlassen."
+"Das heißt, daß wir erst den Beschluß der Kenget über den Kauf des hohen Wissens abwarten müssen.^^Aber glaubt mir, sie werden ablehnen."
+{INK 001}Ein Sklave:{INK 002}^^ "Wir haben selten Besucher. Ich habe mich manchmal gefragt, ob es tatsächlich Menschen außerhalb Khamulons gibt."
+{INK 001}Ein Sklave:{INK 002}^^ "Es ist uns nicht erlaubt, mit Besuchern zu sprechen."
+{INK 001}Eine Sklavin:{INK 002}^^ "Mein Sohn wird bald Novize der Kledo. Er wird der mutigste Krieger von allen sein!"
+{INK 001}Eine Sklavin:{INK 002}^^ "Sprecht lieber mit Kredos, dem obersten Sklaven. Er ist meist in der Küche zu finden."
+{INK 001}Ein Sklave:{INK 002}^^ "Bitte haltet mich nicht von der Arbeit ab. Ich bin schon oft genug bestraft worden."
+{INK 001}Ein Sklave:{INK 002}^^ "Ich war einmal ein Kledo Kamulos. Aus Liebe zu meiner Frau bin ich zurück zu den Sklaven gegangen."
+"Ich verehre den Fechtmeister Cuarnainn sehr. Er beherrscht seinen Körper wie kein anderer."
+"Ich brauche ein wenig Ruhe, Besucher. Meine ersten Schwertlektionen haben ihre Spuren hinterlassen."
+"Ich bin froh, aus den Sklaven|quartieren in die Reihen der Novizen aufgestiegen zu sein."
+"Ich wüßte nicht, was ich mit Besuchern zu besprechen hätte.^^Lebt wohl."
+"Das Studium der Magie ist mein Lebensinhalt. Endlich kann ich trotz meines schwächlichen Körpers kämpfen, zur Ehre Kamulos!"
+"Vor kurzem habe ich die ersten Kampfzauber gelernt. Ein herrliches Gefühl, die Energie durch meinen Geist strömen zu spüren!"
+"Ich übe hier mit den Novizen. Sie müssen lernen, Angst und Schmerz zu akzeptieren und zu beherrschen."
+"Grüße, Besucher. Ich war schon zu Kämpfen außerhalb Khamulons unterwegs. Hoffentlich seid ihr wegen eines Auftrages für uns hier, ich zeige der Welt dort draußen jederzeit gern die Überlegenheit der Kampfkunst der Kledo Kamulos!"
+"Meine Ausbildung mit Fernwaffen ist fast beendet. Bald werde ich die höchsten Stufe der Kriegskunst erlernen: den waffenlosen Kampf."
+"Wendet Euch an Rhunagh, unseren Zaubermeister, wenn ihr ein Gespräch führen wollt. Er ist meist im Gebetsraum im Osten des Komplexes zu finden."
+"Wir haben dieses Jahr einige sehr talentierte Novizen, die Ausbildung geht gut voran. Kamulos wird zufrieden sein."
+"Einen Gegner im Feuer meines Geistes zu verbrennen, ist die reine Form der Verehrung Kamulos' !"
+"Ich durfte gestern einen Feuerzauber von einer Spruchrolle ablesen!^^Ein phantastisches Erlebnis, denn die Spruchrollen erlauben es auch dem Ungeübten, Zauber auszuführen, die er noch gar nicht beherrscht!"
+"Besucher haben hier nichts verloren!"
+"Die Bereiche der Kledo und Oqulo Kamulos dürfen nicht durch Außenstehende entweiht werden. Bleibt hier, in den Bereichen der Novizen."
+"Die Treppe hinter dieser Tür führt in die Wohnbereiche der ausgebildeten Kledo Kamulos und Oqulo Kamulos. Wir haben hier keinen Zutritt."
+Die Tür ist verschlossen. Ein Wächter spricht {LEAD}{NAME} an:{INK 002}^^ "Besucher haben hier keinen Zutritt!"
+Dies ist die Tür nach draußen. Sie ist verriegelt. Einer der Wächter bemerkt {LEAD}{NAME} und spricht {HIM } an:
 Diese Tür ist verschlossen.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+In dieser offenen Schublade liegt eine Spruchrolle!
+Hier wird allerlei Kleinkram aufbewahrt. Einiges davon sieht interessant aus.
+Hier hat jemand eine Spruchrolle liegenlassen!
+In dieser Kiste liegt ein funkelnder Ring!
+Diese Kiste enthält nützliche Dinge.
+Hier liegen eine Menge Nahrungsmittel.
+{LEAD}{NAME} sieht ein schön gearbeitetes Amulett!
+Hier stehen einige Heiltränke!
+Ein Schrank mit einigen Flaschen.
+Auf der Innenseite der Flammenschale ist ein kleiner Schalter zu erkennen!
+In der Feuerschale ist ein kleiner Hebel versteckt.^^ {LEAD}{NAME} betätigt vorsichtig den heißen Schalter!
+Eine Öffnung in der Wand entsteht!
+"Na, also! Durch den Geheimgang werden wir in die inneren Bereiche gelangen!"
+In der Kiste sind einige Tränke!
+"Bitte stört mich nicht bei meinen Studien! Es wäre mir lieber, wenn Ihr mein Zimmer verlassen würdet."
+{INK 002}"Grüße, Besucher. Verzeiht, ich muß mich auf meine Studien konzentrieren."
+{INK001}Der anwesende Novize ruft:^^{INK 002} "He! Laßt bitte die Finger davon! Ich würde es begrüßen, wenn Ihr mein Zimmer verlaßt!"
+Plötzlich erschallt ein Ruf aus einem verdeckten Nebengang!
+{CNTR}{INK 002}"Was habt Ihr hier zu suchen?"^^{FAHI}ALARM!
+{INK 002}"Ihr habt versucht, die inneren Bereiche Khamulons zu entweihen!"
+{INK 002}"Ergebt Ihr Euch in die Gefangenschaft?"
+{INK 002}"Ihr wollt Euch die Ehre des Kampfes erweisen? Sehr gut!"^^ {INK 001}Die Kenget Kamulos greifen an!
+Weitere Kenget Kamulos erscheinen!
+Die Kenget Kamulos greifen sofort wieder an!
+"Bringt sie in den Kerkerbereich!"
+Die Wache leitet die Gefährten in den Berg hinein. Weite Gänge in schummerigem Zwielicht durchziehen den Berg. Die Anlage muß riesig sein!
+"Grüße. Es passiert nicht oft, daß wir in Khamulon Besuch bekommen.^^Erklärt den Grund Eures Hierseins. Keine Höflichkeits|floskeln, bitte! Kommt sofort zur Sache."
+Wie Ihr wünscht. Wir sind gekommen, um Euch ein Geschäft vorzuschlagen.^^Wir möchten für einen hohen Goldbetrag eine Aufzeichnung über einen speziellen Aspekt Eurer magischen Kunst erwerben. Es handelt sich um das Wissen, wie große Energiemengen magisch gebändigt werden können."
+"{FAT }Ihr wollt das hohe Wissen?{NORS}^^Ihr habt die Stirn, uns um einen Kernbereich unseres magischen Wissens zu bitten?"
+"Das ist wahr. {FAT }Ihr{NORS} habt um Offenheit gebeten. Wir haben eine wichtige Mission zu erfüllen."
+"Wir kümmern uns nie um die Beweggründe unserer Besucher. Ihr habt recht, Eure Offenheit ist bemerkenswert.^^Bevor ich voreilig ablehne, werde ich diese Sache mit dem Cuain, unserem Oberhaupt, zu besprechen haben.^^Ich lasse Euch zu unseren Gästequartieren bringen. Ihr dürft Euch in diesem Teil Khamulons, dem Bereich der Novizen und Sklaven, frei bewegen. Versucht nicht, in andere Teile vorzudringen.^^Ich lasse Euch in einiger Zeit wissen, wie unsere Entscheidung lautet."
+Die Gefährten werden durch lange Gänge und Hallen in ein geräumiges Zimmer geführt.
+"Hm, der Kenget Kamulos hat besser reagiert, als ich dachte. Zumindest hat er uns nicht gleich hinausgeworfen oder in Ketten gelegt."
+"Glaubt mir, sie werden irgend etwas planen, das uns nicht gefällt.^^Niemals werden die Kenget das hohe Wissen preisgeben."
+"Nun, es bleibt uns wohl nichts anderes übrig, als aufmerksam zu bleiben und abzuwarten.^^Laßt uns hier ein wenig umschauen, je mehr wir über diesen Ort in Erfahrung bringe können, desto besser."
+"Mir ist gerade etwas eingefallen, was Euch sicher interessieren wird.^^Wie Ihr wißt, bin ich der Meinung, daß die Kenget Kamulos das hohe Wissen niemals freiwillig herausgeben werden. Wir müssen es uns daher ohne ihre Zustimmung holen.^^Aus meiner Novizenzeit ist mir eine Zelle bekannt, die einen Durchgang in einen Gang öffnet, der uns Zugang zu den inneren Bereichen erlaubt. Mit etwas Glück finde ich den Raum, in dem unter anderem Aufzeichnungen über das hohe Wissen verwahrt werden.^^Was meint Ihr?"
+Soll Khunag alle zu der Zelle mit dem geheimen Zugang führen? {BLOK000}Ja, sofort. {BLOK001}Nein, noch warten.
+"Wie Ihr meint. Ich halte es für die einzige Möglichkeit, an das hohe Wissen zu gelangen."
+Khunag führt die Gefährten zu einer Zelle im nördlichen Bereich der Novizen|räume.
+"Hier ist es. Irgendwo muß ein versteckter Schalter sein."
+"Verdammt. Es ist jemand in der Zelle."
+"In dieser Zelle ist, wenn ich mich recht erinnere, der geheime Zugang zu den inneren Bereichen. Es muß hier irgendwo einen versteckten Schalter geben."
+"Mir ist gerade etwas eingefallen, was Euch sicher interessieren wird.^^Wie Ihr wißt, bin ich der Meinung, daß die Kenget Kamulos das hohe Wissen niemals freiwillig herausgeben werden. Wir müssen es uns daher ohne ihre Zustimmung holen.^^Aus meiner Novizenzeit ist mir eine Zelle bekannt, die einen Durchgang in einen Gang öffnet, der uns Zugang zu den inneren Bereichen erlaubt. Dies hier ist die Zelle."
+"Die Kenget lassen uns lange warten. Ich möchte nochmal dringend raten, den geheimen Zugang zu benutzen. Wir haben eine gute Chance, das hohe Wissen zu stehlen!"
+"Ich werde Euch ab und zu kurze Hinweise geben, wo wir uns befinden.^^ Khamulon ist sehr groß, fast der ganze Berg wurde mit Hilfe von Sklaven und Magie ausgehöhlt."
+Khunagh führt die anderen in eine Zelle am nördlichen Ende des Bereiches der Novizenzellen.

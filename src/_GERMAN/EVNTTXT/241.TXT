@@ -1,0 +1,7 @@
+﻿{BLOK000}"Ich bin ein Mitglied im 'Rat der Gerechten'. Mehr kann ich Euch dazu nicht sagen und mehr müßt Ihr auch nicht wissen."
+"Skeima Din, habt Ihr ein dringendes Anliegen?"
+"Skeima Din, ich habe viel zu tun. Bitte stört mich nur, wenn Ihr etwas wirklich Wichtiges habt."
+"Leider bin ich zu beschäftigt und kann mir keine Zeit für Euch nehmen."
+"Dann stört mich bitte nicht weiter."
+"Das ist mein Name."
+"Bitte fragt nicht mich, ich bin zu beschäftigt."

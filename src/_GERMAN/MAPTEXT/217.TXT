@@ -24,7 +24,7 @@ Solche Steppenbäume gedeihen auf sehr trockenem Boden.
 Eine Steppenblume.
 Ein Turmfelsen.
 Kies.
-Eine Felsbrücke.
+Eine große Felsbrücke.
 Platzhalter für weitere Events.
 Platzhalter für weitere Events.
 Platzhalter für weitere Events.
@@ -56,3 +56,24 @@ Platzhalter für weitere Events.
 Platzhalter für weitere Events.
 Platzhalter für weitere Events.
 Platzhalter für weitere Events.
+Eine Stadtmauer.
+Das Stadttor.
+{LEAD}{NAME} sagt plötzlich:^"Irgendwie ist mir schon wieder so komisch zumute. Vielleicht sollten wir jetzt das Zeug nehmen, das wir in Umajo-Kenta gekauft haben."
+{LEAD}{NAME} sagt plötzlich:^"Irgendwie ist mir schon wieder so komisch zumute. Hätten wir doch nur das Zeug in Umajo-Kenta gekauft. Vielleicht würde es jetzt helfen."
+Die Gruppe ist durch das viele Wandern in der Wüste sehr erschöpft. Die Fähigkeiten der einzelnen Mitglieder sinken drastisch...
+Die Gruppe erhält durch das viele Wandern in der Wüste Schaden.
+Ich wandere zwischen dem Gefängnis und Umajo-Kenta hin und her, um Nahrungsmittel zu holen.
+Ein versteckter Eingang.
+Ssssssss...
+"So, mal schauen ob Ohl wirklich kommt..."
+"Schön, daß Ihr gekommen seid. Dann hätte ich gerne einen Edelstein dafür, daß ich Euch den Gefallen tu."
+"Darf ich mir einen Edelstein in Eurem Gepäck aussuchen?"
+"In dem Fall bin ich nicht bereit, Euch zum Eingang zu führen!"
+"Leider habt Ihr keinen Edelstein dabei. Ohne Edelstein zeige ich Euch den Ein|gang nicht! Aber wir können uns gerne noch einmal hier treffen, wenn Ihr mir einen Stein anbie|ten könnt."
+"Vielen Dank, daß ist ein sehr schöner Stein. Außerdem be|sitze ich erst 27 von dieser Gattung, wäh|rend ich bei|spiels|wei|se schon 235 Ru|bi|ne habe. Ihr könnt Euch ja gar nicht vor|stellen, wie ich mich freue! Den wer|de ich nachher gleich in meine Sammlung ein|fü|gen.^^Schön, dann folgt mir. Ich werde Euch nun den Eingang zeigen! Bleibt immer hinter mir, man kann sich in den Felsen leicht ver|lau|fen."
+"Hier wären wir. Links in diesem großen Felsen könnt Ihr die Tü|re sehen. Sie ist di|rekt hin|ter der Blü|te der insek|ten|fressen|den Pflanze.^^Nochmal vielen Dank für den Edel|stein und alles Gute auf Eurer Rei|se! Ich muß jetzt lei|der dringend wie|der zu|rück. Ihr ver|steht sicher, man be|kommt schließ|lich nicht je|den Tag ei|nen neu|en Edel|stein. Das ist alles sehr viel Ar|beit. Ich muß ihn po|lieren, be|trach|ten, be|stau|nen, mei|nen Freun|den zei|gen, beleuch|ten, aus|stellen u.s.w. Be|stimmt bin ich bis über|mor|gen be|schäftigt!^^Macht es gut, Skeima Din!"
+Hier ist ein augenförmiges Symbol in den Felsen eingelassen.
+"Diese Felssymbole existieren schon seit sehr langer Zeit. Man findet sie an manchen Orten auf dem ganzen Planeten, aber niemand weiß etwas Genaues über ihren Ursprung."
+{LEAD}{NAME} legt das Amulett mit dem Symbol der Göttin an den Felsen.^^Knirschend öffnet sich das Portal und die Gefährten betreten die Höhle dahinter.
+"Um den Eingang der Höhle zu öffnen, kann ich das Amulett der Göttin benutzen, das ich bei mir trage."
+"Welch eine Hitze!^^Dies ist also das Land der Umajo, der Metallschmiede. Unseren Informationen zufolge ist das große Metallschiff irgendwo südlich von der Gebirgskette, in der wir uns gerade befinden, niedergegangen.^^Die Mauer, die man im Westen sieht, gehört zu Umajo Kenta, der Stadt des Metalls und der Edelsteine."

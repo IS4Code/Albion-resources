@@ -1,5 +1,5 @@
 ﻿!
-Beim Betreten der Bodenplatte vor der Tür leuchtet diese auf. Gleichzeitig öffnet sich die TÜr.
+Beim Betreten der Bodenplatte vor der Tür leuchtet diese auf. Gleichzeitig öffnet sich die Tür.
 Bodenplatte leuchtet auf.
 Hier befindet sich eine Bodenplatte mit einer transparenten Leuchtfläche.
 Nachdem diese Bodenplatte aufleuchtet, öffnet sich im "Westen" des Raumes die Tür.
@@ -11,7 +11,7 @@ Der Wandschrank ist leer, bereit zur Aufnahme von Gegenständen.
 Ein Wandschrank.
 Das Geräusch kam von rechts, aus einiger Entfernung.
 Sowie sich die Tür mit den roten Leuchten öffnet, schließt sich hinten diejenige mit der grünen Markierung. Der Rückweg ist versperrt!
-Dies muß einer der Serviceroboter sein, von denen Joe gesprochen hat.
+Ein Serviceroboter.
 Eine Tür. Es ist kein Öffnungsmechanismus zu erkennen.
 Eine Leuchtstoffröhre. Sie strahlt kaltes, weißes Licht ab.
 Ein Stahlträger.
@@ -20,26 +20,29 @@ Eine Zehnertastatur zum eingeben von Zahlencodes.
 Eine Tür mit roten Markierungsleuchten an der Seite. Es ist kein Öffnungsmechanismus zu erkennen.
 Eine Tür mit grünen Markierungsleuchten an der Seite. Es ist kein Öffnungsmechanismus zu erkennen.
 Eine Tür mit blauen Markierungsleuchten an der Seite. Es ist kein Öffnungsmechanismus zu erkennen.
-"So weit, so gut. Laß uns versuchen, von hier bis zum Reaktorbereich vorzudringen, ohne etwas zu zerstören, sonst hätten wir Ned und die Secus sofort am Hals. Hier unten gibts ne Menge seltsamer Steuerungs|einrichtungen, die wir irgendwie verscheißern müssen, um durchzukommen."
+"So weit, so gut. Laß uns versuchen, von hier bis zum Reaktorbereich vorzudringen, ohne etwas zu zerstören, sonst hätten wir Ned und die Secus sofort am Hals. Hier unten gibt's 'ne Menge seltsamer Steuerungs|einrichtungen, die wir irgendwie verscheißern müssen, um durchzukommen."
 Ein Serviceroboter. Er scheint deaktiviert zu sein.
-Tom fingert ein wenig an dem Roboter herum, bis Joe ihm zu Hilfe kommt. Einige Handgriffe später erwacht die Servicemaschine tätsächlich zu elektronischem Leben und beginnt, unkontrolliert hin- und herzulaufen.
+Tom fingert ein wenig an dem Roboter herum, bis Joe ihm zu Hilfe kommt. Einige Handgriffe später erwacht die Servicemaschine tatsächlich zu elektronischem Leben und beginnt, sich zu bewegen.
 Joe führt einige Handgriffe an dem Roboter aus. Tatsächlich erwacht der Automat zu elektronischem Leben und beginnt, unkontrolliert hin- und herzulaufen.
 Ein Schalter, der auf eine mit Stahlstreben versehenen Plexiglaswand montiert wurde.
 Der Schalter leuchtet kurz auf, aber sonst passiert nichts.
 Sobald {LEAD}{NAME} den Schalter betätigt, verschwindet die Wand blitzschnell in der Decke!
-Eine große Kontrolllampe.
+Eine große Kontrollampe.
 Eine blinkende Bodenplatte.
-"Diese Art von Bodenplatten werden meistens von Servicerobs gesteuert und lösen irgendetwas aus, wenn die Dinger darüberfahren. In diesem Fall würden wir dann wohl die Tür aufbekommen."
-Beim Betätigen des Schalters gehen hinten die Kontrolllampen und Deckenleuchten an.
+"Diese Art von Bodenplatten werden meistens von Servicerobs gesteuert und lösen irgend etwas aus, wenn die Dinger darüber fahren. In diesem Fall würden wir dann wohl die Tür aufbekommen."
+Beim Betätigen des Schalters gehen hinten die Kontrollampen und Deckenleuchten an.
 Schlagartig erlöschen alle roten Leuchtkörper.
 "Wir haben es hier offenbar mit einer zeitabhängigen Steuerung zu tun!"
-Ein Schalter mit einer Kontrollleuchte daneben.
+Ein Schalter mit einer Kontrolleuchte daneben.
 "Ha! Das Geräusch ist Musik in meinen Ohren! Wenn jetzt nicht die Tür aufgegangen ist, werde ich sauer. Ich möchte mal wissen, welche Spinner die Systeme hier unten programmiert haben!"
 "Shit. Jede Wette, daß wir es wieder mit einer verdammten Zeitschaltung zu tun haben."
 Die Leuchtplatten erlöschen.
 "Zum Henker! Ich nehme an, daß wir die 4 Schalter in den Korridoren aktivieren müssen, um weiter|zukommen. Das schaffen wir nie in der kurzen Zeit, die Wegstrecke ist zu groß. Dem Typ, der das hier installiert hat, gehören die Finger abgehackt!"
-"Ja! Das wars! Dort hinten sind die Plexiglaswände hochgegangen! Jetzt müßten wir die Zeitschaltung schaffen!"
-"Ich schätze, hier geht es in die Halle, die dem Reaktorkern vorgelagert ist. Mit dieser Codeeingabe haben wir allerdings ein fettes Problem. Schlag mich tot, aber ICH weiß den Code nicht!"
+"Ja! Das war's! Dort hinten sind die Plexiglaswände hochgegangen! Jetzt müßten wir die Zeitschaltung schaffen!"
+"Ich schätze, hier geht es in die Halle, die dem Reaktorkern vorgelagert ist. Mit dieser Codeeingabe haben wir allerdings ein fettes Problem. Schlag' mich tot, aber ICH weiß den Code nicht!"
 "Ich schätze, hier geht es in die Halle, die dem Reaktorkern vorgelagert ist. Mit dieser Codeeingabe haben wir allerdings ein Problemchen. Aber warte mal, wir haben doch diese Zettel gefunden! Wenn DIE nicht auf diesen Code hinweisen, soll mich der Blitz beim Scheißen treffen!"
-"Ein Zettel mit ner Nummer drauf, so, so. Du weißt, es ist strengstens verboten, irgendwelche Zugangscodes zu notieren, von wegen Sicherheits|vorschriften und so. Allerdings kenne ich n paar Alzheimer-Kandidaten, die sich beim Anlagenbau ihre Codes trotzdem notiert und in der Anlage deponiert haben. Sie kamen sich zu dämlich dabei vor, zum fünften Mal zur Aufsicht zu rennen und zuzugeben, daß sie ihre Codes schon wieder vergessen haben. Ich schätze, dies hier ist so ein Fall. Der Code scheint allerdings nicht ganz vollständig zu sein, der Zettel wurde zerteilt."
+"Ein Zettel mit 'ner Nummer drauf, so, so. Du weißt, es ist strengstens verboten, irgendwelche Zugangscodes zu notieren, von wegen Sicherheits|vorschriften und so weiter.^^Allerdings kenne ich 'n paar Alzheimer-Kandidaten, die sich beim Anlagenbau ihre Codes trotzdem notiert und in der Anlage deponiert haben. Sie kamen sich zu dämlich dabei vor, zum fünften Mal zur Aufsicht zu rennen und zuzugeben, daß sie ihre Codes schon wieder vergessen haben. Ich schätze, dies hier ist so ein Fall, ähnlich wie oben.^^Der Code scheint allerdings nicht ganz vollständig zu sein, der Zettel wurde zerteilt."
 "Sag mal, mein Alter, was soll das denn werden? Wir sind kurz vor dem Ziel! Warum um alles in der Welt willst Du jetzt wieder umkehren?"
+Ein Wandschrank.
+In dem Schrank hat jemand ein kleines Stück Papier vergessen.
+Nichts passiert.

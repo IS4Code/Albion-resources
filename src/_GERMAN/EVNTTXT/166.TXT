@@ -1,0 +1,3 @@
+﻿{BLOK000}"Ich handele mit Werkzeug und Gebrauchs|gegen|ständen."{WORDGebrauchsgegenstände}
+"Togi Din, verehrte Kunden. Kann ich Euch mein Angebot zeigen?" {BLOK010}"Ja, gerne. Was habt Ihr uns anzubieten?"
+"Nun, ich kann Euch gerne meine Waren zeigen..."

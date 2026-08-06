@@ -50,4 +50,4 @@ Platzhalter
 Platzhalter
 Die Flamme strahlt trotz ihrer seltsamen Farbe eine große Hitze aus.
 Die Flamme erfaßt {LEAD}{NAME} und {HIS } Gefährten!
-Noch machen: ne Kiste mit Falle, darin ein Zettel:^ "Nicht immer wird Mut belohnt. Fahre trotzdem fort, mutig zu sein."
+!

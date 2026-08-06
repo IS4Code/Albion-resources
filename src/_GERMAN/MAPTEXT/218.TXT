@@ -24,7 +24,7 @@ Solche Steppenbäume gedeihen auf sehr trockenem Boden.
 Eine Steppenblume.
 Ein Turmfelsen.
 Kies.
-Eine Felsbrücke.
+Eine große Felsbrücke.
 Platzhalter für weitere Events.
 Platzhalter für weitere Events.
 Platzhalter für weitere Events.
@@ -56,3 +56,4 @@ Platzhalter für weitere Events.
 Platzhalter für weitere Events.
 Platzhalter für weitere Events.
 Platzhalter für weitere Events.
+Ssssss...

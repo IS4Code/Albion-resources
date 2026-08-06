@@ -1,0 +1,11 @@
+﻿{BLOK000}"Oh, ich führe das Lebensmittelgeschäft hier in der Stadt."
+"Wißt Ihr schon, daß ganz Kounos das Heiligtum von Srimalinar besetzen wird?"{BLOK010}"Woher wißt Ihr das?"{BLOK011}"Seid Ihr sicher?"{BLOK012}"Wir werden das verhindern!"{WORDHeiligtum}
+"Tja - die Sache wird ernst. Kontos hat seine Anhänger davon überzeugt, die heilige Stätte in Srimalinar zu besetzen und das Böse dort zu vernichten! Sprecht mit ihm, er kann Euch sein Handeln erklären." {WORDBöses}{WORDHeiligtum}
+"Das ist mittlerweile in ganz Beloveno bekannt. Ein Kurier von Kounos hat es uns mitgeteilt. Geht hin und fragt Kontos."
+"Jeder weiß das. So etwas spricht sich herum?!?"
+"Ganz sicher, ein Kurier hat uns das mitgeteilt."
+"Warum denn das? Wenn das Heiligtum wirklich gefährlich ist, ist es doch gut, daß dagegen etwas unternommen wird!"
+"Ich glaube schon, daß man unbedingt dagegen vorgehen muß!"
+"Es wird immer schlimmer mit den bösen Kreaturen, die dort herauskommen! Jeder spricht davon! Aber glücklicherweise unternimmt Kontos etwas dagegen! Fragt ihn doch einfach, er erklärt Euch das Problem besser wie ich." {WORDKontos}{WORDBöses}
+"Gut, daß es Leute wie ihn gibt!"
+"Das bin ich."

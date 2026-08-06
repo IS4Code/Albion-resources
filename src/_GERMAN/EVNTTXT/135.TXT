@@ -1,0 +1,25 @@
+﻿{BLOK000}"Ich bin eine Dra Dji-Fadh. Das Talent liegt in unserer Familie." {WORDDra}{WORDDji-Fadh}
+
+"Was wir tun, sehen wir als Mischung von Magie, Kunst und Handwerk an. Wir sind eine der ältesten Gilden Jirinaars und wie Ihr sicher wißt, können wir mit Hilfe unserer Magie Pflanzen erschaffen, verändern und dauerhaft in eine gewünschte Form bringen. So sind wir in der Lage, komplette Häuser aus lebendem Pflanzen|material erstehen zu lassen, die nicht nur schön anzusehen sind, sondern auch alle Funktionen erfüllen, die für das Wohlbefinden ihrer Bewohner notwendig sind."{WORDMagie}{WORDJirinaar}
+"Stri Akiir ist das Oberhaupt unserer Gilde. Er ist ein hervor|ragender Künstler und Magier, der sich sehr für die Belange unserer Gilde einsetzt. Wir alle hoffen, daß er eines Tages ein Ausgewählter wird." {WORDAuserwählter}
+"Wir alle sind völlig geschockt. Akiirs Tod ist ein wirklich großes Unglück für unsere Gilde. Ich hätte den Dji-Kas ja so manches zugetraut, aber das? Unvorstellbar! Hoffentlich greift die Sebainah hart durch!" {WORDDji-Kas}
+"Welch eine Tragödie! Akiir's Verhalten ist beschämend, aber wir vermuten, daß das Wissen um seinen bevor|stehenden Tod seinen sonst so klaren Verstand getrübt hat."
+"Sira ist die einzige Tochter Akiirs. Sie ist zu den Dji-Kas gegangen, was Akiir sehr getroffen hat."{WORDDji-Kas}
+
+"Ach ja, die Körnerwerfer! Ihr bemerkt sicher, daß die meisten von uns den Dji-Kas nicht unbedingt freund|schaftliche Gefühle entgegen|bringen. Sie werben mit Ver|sprechungen oftmals unsere größten Talente ab. Ihrer Kunst fehlt die Zielrichtung, die Hingabe und, abgesehen von ihren Heilern, der Nutzen für die Gemeinschaft."
+"Unser Gildenhaus konkurriert mit dem Ratsgebäude um den Titel des schönsten Bauwerks Jirinaars. Es wird von uns ständig gepflegt und verändert und auch zur Vorführung unseres Könnens benutzt, wie Ihr im östlichen Flügel sehen könnt."{WORDRatsgebäude}{WORDJirinaar}
+"Nun, er ist der Anführer der Dji-Kas."{WORDDji-Kas}
+"Dieser Mörder! Er verdient nichts Geringeres als den Tod!"
+"Seit Ihr ihn gerechterweise von den Anschuldi|gungen gegen ihn befreit habt, ist er wieder Oberhaupt der Dji-Kas."
+"Er ist Akiirs Stellvertreter, ein freundlicher und bescheidener Iskai." {WORDIskai}
+"Er leidet wirklich stark unter Akiirs Tod. Vielleicht lenken ihn seine zahlreichen Aufgaben ab, nun, da er das Oberhaupt unserer Gilde ist."
+"Man merkt, daß eine große Last von Bradir abgefallen ist, seit Ihr die ganze komplizierte Sache mit Akiirs Tod aufgeklärt habt."
+"Die Körnerwerfer haben den Mordanschlag gewiß gemeinsam ausgeheckt! Wer hätte geglaubt, daß Ihre geistige Verwahr|losung so weit geht!"
+"Nun ja, ich muß zugeben, daß die Vorfälle gezeigt haben, wie schnell man zu vorschnellen Schlüssen gegenüber den Dji-Kas gelangen kann."
+"Ihr habt davon gehört? Nun, um ehrlich zu sein, Argims Geschichte ist ein wunder Punkt in der Geschichte unserer Gilde.^^ Er war vor fast 150 Jahren das Oberhaupt der Dji-Fadh. Damals war das Gildenhaus der Dji-Fadh außerhalb der Stadt zu finden, ein prächtiges Gebäude mitten im Wald nahe eines Han. Nun, Argim war ein großartiges Talent, aber von wankelmütigem Charakter. Dies war der Grund für die Ablehnung seines größten Zieles: ein Auserwählter zu werden.^^ Als er von der Abweisung erfuhr, verlor er völlig die Kontrolle über sich. Er schwor, trotzdem die Unsterblichkeit erlangen zu wollen. In einem wahnwitzigem Ausbruch seiner Macht zerstörte er das ganze Gebäude und verwandelte es in einen seltsamen Ort, der heute von allen gemieden wird. Man sagt sogar, er hätte seinen Geist diesem Ort aufgeprägt."{WORDHan}
+"Es gibt Orte, wo die Kraft der Göttin besonders zu spüren ist und magische Handlungen verstärkt werden, aber oft auch schwieriger sind. Ein solches Energiezentrum nennt sich Han."{WORDGöttin}
+dummy
+"Dsarii-ma. Ihr seid also die Menschen, die der Jägerclan gefunden hat. Ich bin froh, einmal mit jemand anderem zu sprechen." {BLOK010}"Sind Eure Gildegenossen denn keine angenehmen Gesprächs|partner?"
+"Oh, eigentlich schon. Doch Ihr müßt wissen, daß mein Talent zur Kunst der Dji-Fadh aus meiner Familie stammt. Ich bin eine Nachfahrin von Argim und das veranlaßt viele zu einer gewissen Scheu. Habt Ihr schon von der Geschichte gehört?" {BLOK010}"Nein, erzählt uns doch bitte davon." {BLOK011}"Ach ja, die Sache mit dem, verzeiht, verrückten Former!"
+"Ja, genau. Deswegen sind manche hier etwas mißtrauisch mir gegenüber. Aber meine Freude an meinem Talent zur Dji-Fadh - Magie ist so groß, daß mir das nicht viel ausmacht."
+"Dsarii-ma. Ihr habt noch einmal Lust auf ein Gespräch?"

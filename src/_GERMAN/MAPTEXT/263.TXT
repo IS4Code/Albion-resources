@@ -1,7 +1,7 @@
 ﻿-frei-
 Äste und Wurzeln.
 Ein geflochtener Korb.
-Ein Glasgefäß für Wein und andere Getränke.
+Ein Glasgefäß für Wasser und andere Getränke.
 Ein Faß.
 Ein prächtiges Tierfell.
 Ein Eimer.
@@ -41,7 +41,7 @@ Ein zusammengeklappter Hocker.
 Ein massiver Eßtisch.
 Ein Baumstumpf.
 Zwei gekreuzte Speere.
-Ein großes Faß mit Wasser, Bier oder Wein.
+Ein großes Faß mit fremdartigen Getränken.
 Ein Zapfhahn.
 Eine Bettdecke.
 Ein komfortables und hübsch verziertes Bett.
@@ -124,3 +124,8 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
+"Wart Ihr schon einmal in unserem schönen Rathaus? Das ist auf jeden Fall eine Besichtigung wert. Zum einen, weil es ein wunderschönes historisches Bauwerk ist, und zum anderen, weil Ihr dort auch wichtige Leute treffen könnt."
+"Irgendwie fühle ich mich seit einiger Zeit nicht mehr richtig wohl. Wenn das so weiter geht, werde ich Ramina aufsuchen müssen. Sie ist unsere Heilerin.^^Sie hilft auch Euch gerne, wenn Ihr einmal ähnliche Probleme habt. Ich glaube, ich ruhe mich jetzt erst einmal ein bißchen aus. Viel sitzen kann nicht schaden. Das denkt Ihr doch auch? Heute morgen bin ich dort drüben gesessen, jetzt sitze ich hier noch ein Weilchen, bis es Abend wird. Dann setze ich mich wieder dort drüben hin und dann ist auch schon wieder Zeit zum Schlafen gehen."
+"Das ist doch nicht normal. Mein Papi sitzt den ganzen Tag nur noch rum und jammert. Hoffentlich geht's ihm bald wieder besser."
+"Skeima Din, ich bin die Rukko. Ich wohne hier. Gefällt Euch das Haus? Also ich finde es schön. Aber ich darf auch in die anderen Häuser nicht reingehen. Das stört die, die in den anderen Häusern wohnen nämlich. Und wenn ich die störe, dann werden die ärgerlich. Und das mag ich nicht."
+"Ich muß die Betten machen. Wenn ich das heute ohne Falten schaffe, bekomme ich ein Stück süßen Fladen. Also bitte nichts berühren. Mami ist furchtbar kleinlich."

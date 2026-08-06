@@ -1,0 +1,6 @@
+﻿{BLOK000}"Ich bin der Hüter des Hains."
+"Togi Din. Verhaltet Euch hier bitte, der Heiligkeit des Hains entsprechend, ruhig."{WORDHain}
+"Dies ist der Ort, wo unsere Vorfahren zum ersten Mal diese Welt betraten. Was Ihr hier seht, ist der Qrenno, der uralte Baum aus dem Land unserer Vorfahren. Er ist unser größtes Heiligtum und gilt als Symbol von Danus Gunst. Mir ist die große Ehre zuteil geworden, sein Wächter zu sein und ihn vor Gefahr zu schützen."{WORDDanu}{WORDGefahr}
+"Mir stehen Mittel und Wege zur Verfügung, den Hain gegen Schändungen zu verteidigen, auch wenn ich allein hier bin."
+"Ein Musikkristall, welch eine Kostbarkeit! Ich gestehe, Ihr führt mich in Versuchung, denn auch ich bin nur ein Mensch, der sich hier manchmal ein wenig einsam vorkommt. Behaltet es für Euch, aber ich würde Euch dafür eine meiner Waffen anbieten, es ist ein mächtiges magisches Artefakt, das manche Gefahr von Euch abwenden kann."^^{INK 001}Frinos übergibt {LEAD}{NAME} eine magische Waffe im Austausch für den Musikkristall!
+"Danke, aber ein Musikkristall ist mir genug, um ab und an die Einsamkeit zu vertreiben."

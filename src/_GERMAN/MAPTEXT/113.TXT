@@ -153,8 +153,73 @@ Paltzhalter für weitere Cut-Map-Events.
 "Dsarii-ma. Ich bin nur ein Schreibergehilfe mit viel zuviel Arbeit. Bitte entschuldigt mich, werte Besucher."
 "Dsarii-ma. Ich gehöre dem Ratskreis für Flußwirtschaft an. Ich glaube nicht, daß wir etwas zu besprechen haben."
 "Dsarii-ma. Entschuldigt mich, die Sebainah hat mir etwas aufgetragen, was keinen Aufschub duldet."
-"Dsarii-ma. Verzeiht, ich bin gerade etwas in Gedanken."
+"Dsarii-ma. Falls ihr, wie viele Fremde, mit Sebai-Giz Frill sprechen wollt, findet ihr sein Arbeitszimmer im Ostflügel des Gebäudes.^^Er ist allerdings oft auf Reisen."
 "Ich gehöre dem Ratskreis für Familien|angelegen|heiten an. Manchmal ist es eine schwierige Arbeit, denn Argumente kommen oft nicht gegen Emotionen an. Aber entschuldigt, ich rede zuviel, Ihr habt sicher wichtigeres zu tun."
 "Dsarii-ma. Ich kann Euch sicher nur wenig von Nutzen sein. Ich bin ein Gehilfe Vris' und kümmere mich um den guten Zustand des Gebäudes."
 "Dsarii-ma. Achtet auf die prächtigen Pflanzen im Versamm|lungsraum, sie unterliegen meiner Pflege!"
 Diese Tür führt nach draußen.
+{FAHI}- S C R I P T S E Q U E N Z -{NORS}^^ Tom und Rainer laufen in den Versammlungsaal, dort wird die Feier durch die Ermordung Akiirs jäh unterbrochen. Die Party bekommt den Auftrag, den Mord aufzuklären.^^Es werden jetzt die Bits gesetzt, die den Zustand nach dem Mordanschlag signalisieren! ^^Drirr tritt der Party bei! ^^Anschließend wird mitgeteilt, daß der flüchtige Mörder in der Nähe des Dji-Kas-Gildenhauses gesehen wurde. Alle machen sich dorthin auf den Weg...
+Dem angeschlagenen Tom wird bei der Ankunft im Ratsgebäude erste Hilfe zuteil...
+Dem angeschlagenen Rainer wird bei der Ankunft im Ratsgebäude erste Hilfe zuteil...
+Bradir macht einen ruhigen, gefaßten Eindruck, als die Sebainah ihn anspricht.
+"Bradir, erklärt uns bitte Eure ungewöhnliche Reaktion beim Anblick der antiken Waffe, die der Mörder bei sich hatte."
+"Sebainah, der Dolch ist Teil der Bezahlung des Mörders gewesen. Er gehört mir. Bei seinem Anblick verlor ich den Rest meiner Nerven.^^ Ich bin geradezu froh, daß nun alles vorbei ist."
+"Ihr wollt sagen, daß IHR der Auftraggeber wart? IHR habt Akiir, Euren bewunderten Freund, ermorden lassen?"
+"Nein, bei der Göttin! Ich war es nicht, der den Mörder gedungen hat!"
+"Aber Ihr kennt den Auftraggeber?"
+"Ja, Sebainah.^^Es war... Akiir selbst."
+{CNTR}"WAS?"
+{CNTR}"UNMÖGLICH!"
+{CNTR}"Das kann doch nicht sein!"
+"Ich weiß, daß Bradir der engste und ehrlichste Freund war, den mein Vater je hatte. Lassen wir ihn weiterreden."
+"Akiir wußte seit fast einem Jahr, daß er an einer unheilbaren Krankheit litt. Er hatte noch höchstens ein halbes Jahr zu leben. Als er dann noch von Sira die Entscheidung erfuhr, zur Gilde der Dji-Kas zu wechseln, veränderte er sich zusehends, wurde immer unberechen|barer.^^ Vor einiger Zeit kam er mit dem Plan seines inszenierten Mordes auf mich zu. Neben der Rache an Fasiir wollte er damit erreichen, daß Sira die Gilde der Dji-Kas wieder verläßt.^^Ich habe tagelang versucht, ihm den Plan auszureden, aber er war nicht davon abzubringen. Er hat an meine Ehre als Freund appelliert, ihm seinen letzten Wunsch zu erfüllen. Ich... mir blieb nicht anderes übrig!^^ Er hat den Dji-Kas Kriis mit einer absurden Summe bestochen und einen Assassinen des Menschen|volkes der Kenget Kamulos mit dem Mord beauftragt. Um den Mörder zu beseitigen, wurde als Treffpunkt nach der Tat das alte Zentrum unserer Gilde ausgemacht, in der Hoffnung, daß die Raubtiere dort den letzten Zeugen beseitigen.^^ Die letzten Wochen waren die schlimmsten meines Lebens. Ich bin gerne bereit, mich der Prüfung durch einen Tri-Nadh zu stellen, um meine Aufrichtigkeit zu belegen."
+Eine lange Pause entsteht, als alle das Gehörte zu verdauen versuchen.^^ Sira, Akiir's Tochter, findet als erste wieder Worte:
+"Ich kenne Bradir seit meiner Kindheit als Freund unserer Familie. Er hat sich dies alles meiner Meinung nach nicht ausgedacht. Ich habe meinen Vater geliebt, aber ich weiß, wie starrsinnig er sein konnte. Unter diesen extremen Bedingungen...^^ Er könnte wirklich so reagiert haben. Und das wegen MIR, oh, Göttin.^^ Ich glaube Bradirs Worten."
+"Auch ich bin bereit, Bradir Glauben zu schenken. Er ist von dem Verdacht des Mordes befreit.^^Kehrt zurück zu Eurer Gilde, Bradir, Ihr habt dort sicherlich einiges zu erklären.^^Der zu Unrecht beschuldigte Fasiir wird sofort rehabilitiert.^^Kriis, der bestochene Dji-Kas, wird sich für seinen Verrat verantworten müssen."
+"Ist damit unserer Pflicht, den Mord aufzuklären, Genüge getan, Sebainah Janiis?"
+"So ist es. Ich danke Euch Menschen, und auch Euch, Drirr, für die Aufklärung dieser Tat.^^Eurer Weiterreise steht nun nichts mehr im Wege."
+"Wir waren ein gutes Team. Tom und Rainiir, wenn Ihr es wünscht, werde ich Euch auf der Reise begleiten. Mir steht der Sinn nach ein wenig Aufregung."
+"Aber gerne, Drirr! Ich bin froh, Euch dabeizuhaben!"
+"Tom und Rainiir, ich habe Entscheidungen schon immer impulsiv getroffen.^^ Auch ich möchte mich Euch gern für eine Weile anschließen. Nach dem, was hier passiert ist, möchte ich ein wenig Abstand von allem gewinnen.^^Eine Reise wird mir gut tun, und meine bescheidenen magischen Talente können Euch sicher nützlich sein. Was sagt Ihr?"
+"Ihr seid uns natürlich willkommen, Sira! Wir haben wahrscheinlich noch eine weite Reise vor uns, und je mehr unsere Gruppe umfaßt, desto besser!"
+"Obwohl Akiir's tragischer Plan ein Gefühl der Trauer hinterläßt, bin ich doch froh, daß nun alles aufgeklärt ist.^^Tom und Rainiir, Ihr seid weiterhin willkommene Gäste in Jirinaar. Wenn Ihr zur Weiterreise bereit seid, so sprecht mich an.^^Ich erkläre die Versammlung nun für beendet."
+Tom, Rainer, Drirr und Sira verlassen den Raum der Sebainah.
+Tom und Rainer treffen gerade rechtzeitig im Ratsgebäude ein.^^ Im Versammlungsraum treffen Tom und Rainer auf eine kleine Gruppe Iskai.^^ Die Sebainah begrüßt sie:
+"Dsarii-ma, Tom und Rainiir, willkommen zu unserer kleinen Zusammen|kunft.^^ Darf ich Euch vorstellen: Akiir. Er ist das Oberhaupt der Gilde der Former, oder Dji-Fadh, wie wir sagen."
+"Dsarii-ma."
+"Und dies hier ist Ratsmitglied..."
+Die Sebainah wird jäh unterbrochen, als plötzlich eine maskierte Gestalt in den Raum stürmt.^^Geschockt erkennen Tom und Rainer, daß es sich um einen Menschen handelt!
+Bevor jemand reagieren kann, schießt der Mensch einen kleinen Pfeil auf Akiir ab, der getroffen zu Boden sinkt!
+"Stiriik! Ergreift den Menschen!"
+"Akiir ist tot. Möge er in der Göttin leben."
+"Der Mörder ist durch ein Fenster geflohen, Sebainah! Wir durchsuchen die Stadt!"
+"Wir müssen schnell handeln. Schickt nach Drirr, dem Stiriik für Menschen|angelegen|heiten!^^ Verehrte Ratsmitglieder, Briid, mein Neffe: ich muß Euch bitten, nun zu gehen. Es tut mir leid, daß die Feier einen zu tragischen Ausgang nahm. ^^Tom und Rainiir, ich muß mit Euch sprechen."
+"Dsarii-ma, Sebainah Janiis."
+"Dsarii-ma, Drirr. Ihr seid bereits über den Mordanschlag auf Akiir unterrichtet?"
+"Ich bin im Bilde. Welch ein Schock!"
+"In der Tat!^^Drirr, Ihr habt sicher schon von Tom und Rainiir, unseren Besuchern, gehört. Sie sind fremd auf dieser Welt und bedürfen Eurer Hilfe bei der Auf|klärung dieses Verbrechens besonders."
+"Ich werde ihnen nach Kräften zur Seite stehen, Sebainah.^^Tom und Rainiir, es tut mir leid, daß wir uns unter diesen Umständen kennenlernen müssen."
+"Dsarii-ma, Drirr. Wir sind ein wenig überwältigt vom Ablauf der Ereignisse."
+"Das glaube ich Euch gerne. Wir sollten zuerst vielleicht ein paar Worte mit Sebai-Giz Frill wechseln. Er kann uns sicher etwas über die Menschen|rasse erzählen, welche der Mörder angehört.^^Laßt uns in seinen Raum gehen, er ist bestimmt schon unterrichtet worden."
+"Drirr! Der Mörder ist in der Nähe des Gildenhauses der Dji-Kas-Magier gesehen worden!"
+"Eine Spur! Laßt uns sofort zu den Dji-Kas gehen!"
+Eilig machen sich alle auf den Weg zum Gildenhaus der Magier.
+"Diese Tür führt zum Raum des Oberhauptes der Stadt, der Sebainah Janiis.^^ Ich werde mich nun von Euch verabschieden."
+"Tom und Rainir, dies ist eine schwere Stunde. Manche werden vorschnell urteilen, daß Ihr etwas mit dem Mord zu tun habt, nur weil Ihr Menschen seid. Ich kenne Eure Rasse nicht genau, bin aber der Meinung, daß Euer Entsetzen über dieses Ereignis genauso groß ist wie meines."
+"Janiis, niemand hat uns überhaupt gesagt, daß es auf dieser Welt einheimische MENSCHEN gibt! Wir versuchen gerade, uns von dem Schock zu erholen!"
+"Ihr wußtet es nicht? Aber ich dachte...^ Ihr müßt die Worte unseres ersten Gespräches anders aufgefaßt haben, als ich sie gemeint hatte. Ihr hättet Eure Artgenossen auf der Insel kennengelernt, zu der wir Euch fahren wollten."
+"Ihr sprecht, als ob Ihr Euer Angebot durch diese Tat nicht mehr aufrecht erhalten könntet."
+"So ist es. Ich muß Euch leider mit einem Teil der Gesetze unseres Volkes bekannt machen, die durch diese Tat Bedeutung für Euch erlangen. Um dem oft undiszipli|nierten Charakter vieler Iskai Rechnung zu tragen, gibt es das Gesetz der Sippenhaftung. Es ist so, daß bei uns die gesamte Familie eines Verbrechers für seine Vergehen haftet, um so vor Verstößen abzuschrecken.^Werden die Stiriik des Übeltäters nicht sofort habhaft, ist es die Aufgabe der Familie, Ihr abtrünniges Mitglied zu finden oder das Verbrechen sonstwie aufzuklären. Dabei werden sie allerdings von mindestens einem Stiriik unterstützt und kontrolliert.^^Da Ihr die einzigen Menschen in Jirinaar seid, nehmt Ihr den Platz der Familie ein. Ihr seid nun verpflichtet, diesen Mord aufzuklären und die Schuldigen ausfindig zu machen. Erst dann kann ich Euch die Weiterreise gestatten."
+"Aber wir sind immer noch Fremde auf dieser Welt. Wie sollen wir die Schuldigen an dieser Tat finden?"
+"Deshalb habe ich bereits nach einem fähigen Stiriik schicken lassen. Er wird Euch bei Eurer Aufgabe helfen."
+"Es sieht nicht so aus, als ob wir eine andere Wahl hätten, oder?"
+"Das stimmt leider. Ich kann mich nicht über die Gesetze hinwegsetzen. Ich kann Euch nur viel Glück bei der Jagd nach dem flüchtigen Mörder und seiner Auftraggeber wünschen."
+"Ihr seid sicher, daß dies von jemandem beauftragt wurde?"
+"Zweifellos. Die Mörder gehören einem Menschen|volk an, daß für ihre Meuchelmörder berühmt ist. Diese Leute töten selten aus eigenem Interesse.^Ihr solltet Euch mit Frill unterhalten, er ist wieder im Palast, wie ich gehört habe. Er ist sicher schon auf dem Weg hierher.^^Ah, ich sehe, hier kommt Drirr, der Stiriik, der Euch begleiten wird."
+{CNTR}{INK 001}Auf dem Schild steht:{INK 006}^^Arbeitszimmer von Sebai-Giz Frill {INK006}
+{CNTR}{INK 001}Auf dem Schild steht:{INK 006}^^Arbeitsraum der Sebainah Janiis, Oberhaupt Jirinaars
+Drirr schließt sich Tom und Rainer an.^^Gemeinsam gehen sie in das Arbeits|zimmer des Gelehrten Frill, der gerade von einer längeren Reise zurückgekommen ist.^^Drirr erzählt, daß er als der älteste Iskai Nakiridaanis gilt und über einen großen Wissensschatz verfügt.
+"Hoffentlich finden die Stiriik der Stadtwache bald eine Spur des Mörders.^^ Vielleicht sollten wir ebenfalls die Straßen der Stadt absuchen."
+Eiligen Schrittes laufen alle zum Gildenhaus der Magier von Jirinaar, den Dji-Kas.^^ Der Mörder ist nicht mehr auf der Straße zu finden, und so betritt man das Haus...
+"Bei dieser Sebainah scheint es sich um die Chefin hier zu handeln. Bin gespannt, was sie von uns will."
+Schnell wird Bradir zur Heilerin transportiert.^^Sobald er versorgt ist, gibt es im Ratsgebäude eine Versammlung im Raum der Sebainah, bei der Bradir sein Verhalten erklären soll.^^ Neben Tom, Rainer und Drirr ist auch Sira als Tochter des Ermordeten Akiirs herbeigerufen worden.

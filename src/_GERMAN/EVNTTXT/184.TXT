@@ -1,21 +1,21 @@
-﻿{BLOK000}"Ich simuliere ein paar Fehler, um den Reservesystemen ein bißchen auf den Zahn zu fühlen."{WRNR0209}
-"Hallo, mein Alter! Willst mich von der Arbeit abhalten, hm? Gute Idee!" {BLOK010}"Grüß' dich, Joe! Hast du die Secus im Nachbarraum gesehen?" {BLOK011}"Joe! Das letzte Mal, daß Du so fertig ausgesehen hast, war nach der Tour durch Osaka kurz vor dem Start!"
-"Ja, sie sperren den Zugang zum Comraum ab. Arrogante Typen." {BLOK010}"Das stimmt. Du weißt, ich war schon immer ein bißchen neugierig. Würde zu gern mal einen Blick auf den Schrott im Comraum werfen!"
-"Mhm, ich wüßte, wie wir diese Geheimniskr"mer linken. Ich k"nnte Dir einen Zugang zum Servicedeck zeigen. Dort müßtest Du die Typen unterlaufen k"nnen und in den Comraum kommen. Wie sieht's aus?"{WRNR0208} {BLOK010}"Gute Idee! Schieß' los!" {BLOK011}"Ach, es ist den Ärger wohl doch nicht wert. Ich laß' es bleiben."
-"O.K. Paß auf, die Wandpanels mit den grünen Lichtketten verkleiden Zug"nge zum Servicedeck. Du findest einen dieser Zug"nge rechts oben in dem Raum n"rdlich von diesem hier. Der Code, den Du bei den Dingern eingeben mußt, lautet für dieses Deck "1042". Dahinter findest Du eine Leiter nach unten und kannst Dir dann einen Weg bis zum Serviceaufgang in den Combereich suchen."{WRNR0208}
+﻿{BLOK000}"Ich simuliere ein paar Fehler, um den Reservesystemen ein bißchen auf den Zahn zu fühlen."{WORDReservesysteme}
+"Hallo, mein Alter! 'willst mich von der Arbeit abhalten, hm? Gute Idee!" {BLOK010}"Grüß' dich, Joe! Hast du die Secus im Nachbarraum gesehen?" {BLOK011}"Joe! Das letzte Mal, daß Du so fertig ausgesehen hast, war nach der Tour durch Osaka, kurz vor dem Start!"
+"Ja, sie sperren den Zugang zum Comraum ab. Arrogante Typen." {BLOK010}"Das stimmt. Du weißt, ich war schon immer ein bißchen neugierig. 'würde zu gern mal einen Blick auf den Schrott im Comraum werfen!"
+"Mhm, ich wüßte, wie wir diese Geheimniskrämer linken. Ich könnte Dir einen Zugang zum Servicedeck zeigen. Dort müßtest Du die Typen unterlaufen können und in den Comraum kommen. Wie sieht's aus?"{WORDServicedeck} {BLOK010}"Gute Idee! Schieß' los!" {BLOK011}"Ach, es ist den Ärger wohl doch nicht wert. Ich laß' es bleiben."
+"O.K. Paß auf, die Wandpanels mit den grünen Lichtketten verkleiden Zugänge zum Servicedeck. Du findest einen dieser Zugänge rechts oben in dem Raum nördlich von diesem hier. Der Code, den Du bei den Dingern eingeben mußt, lautet für dieses Deck "1042". Dahinter findest Du eine Leiter nach unten und kannst Dir dann einen Weg bis zum Serviceaufgang in den Combereich suchen."{WORDServicedeck}
 "He, so kenne ich Dich ja gar nicht, Alter! Na ja, sag' mir Bescheid, wenn Du es Dir anders überlegst."
-"Das Servicedeck liegt unterhalb des Hauptdecks, wo wir uns gerade befinden. Es gibt Zugang zu den Einrichtungen des Schiffes und wird haupts"chlich von Service|robotern benutzt und von uns Technikern, wenn die Kübel mit etwas nicht zurecht|kommen. ^^Du mußt Dich darauf einstellen, daß es dort unten haupts"chlich für die Robots eingerichtet wurde. Es gibt 'ne Menge Bodenschalt|platten und "hnlichen Schnickschnack, der die Schleusen steuert. Schau' Dich dort unten genau nach Schaltern um, wenn Du mal nicht weiterkommst, Dir ist ja kein Brot auf'n Kopf gefallen."
-"H"r bloß auf. So kurz vor dem Ziel ertrinke ich in Arbeit! Unser Sake|marathon in Osaka war's wenigstens Wert, har, har!"
-"Hi, Tom. Na, willst Du doch 'nen Tip, wie Du die Secus umgehen kannst?" {BLOK010}"O.K., O.K.! Du hast mich. Was schl"gst Du vor?"
-"Na, hast Du was Interessantes gesehen?"{WRNR0208} {BLOK010}"Bin noch nicht durchgekommen. Ich versuch's sp"ter nochmal." {BLOK011}"Wie war noch mal die Codenummer für die Servicezug"nge?"
+"Das Servicedeck liegt unterhalb des Hauptdecks, wo wir uns gerade befinden. Es gibt Zugang zu den Einrichtungen des Schiffes und wird hauptsächlich von Service|robotern benutzt und von uns Technikern, wenn die Kübel mit etwas nicht zurecht|kommen. ^^Du mußt Dich darauf einstellen, daß es dort unten hauptsächlich für die Robots eingerichtet wurde. Es gibt 'ne Menge Bodenschalt|platten und ähnlichen Schnickschnack, der die Schleusen steuert. Schau' Dich dort unten genau nach Schaltern um, wenn Du mal nicht weiterkommst. Dir ist ja kein Brot auf'n Kopf gefallen."
+"Hör' bloß auf. So kurz vor dem Ziel ertrinke ich in Arbeit! Unser Sake|marathon in Osaka war's wenigstens Wert, har, har!"
+"Hi, Tom. Na, willst Du doch 'nen Tip, wie Du die Secus umgehen kannst?" {BLOK010}"O.K., O.K.! Du hast mich. Was schlägst Du vor?"
+"Na, hast Du was Interessantes gesehen?"{WORDServicedeck} {BLOK010}"Bin noch nicht durchgekommen. Ich versuch's später nochmal." {BLOK011}"Wie war noch mal die Codenummer für die Servicezugänge?"
 "Denk dran, mit den Schaltern zu experimentieren und Dich an die Servicerobs zu halten, dann wird's schon klappen."
-"Wow! Zeig das Ding niemandem, sonst kassieren sie's sofort ein! 'Ne Knarre, ist ja heiß!"
-"Shit. H"ttest Du das Ding nicht im Servicedeck deponieren k"nnen, um es sp"ter von der anderen Seite abzuholen oder so? Na ja, jetzt ist es zu sp"t."
-"Ach, Routinekrempel, aber jede Menge davon. Ich simuliere die unwarschein|lichsten Ausf"lle, aber die Systeme des Schiffes stecken alles locker weg."
-"Na, hast Du was Interessantes gesehen?" {BLOK010}"Nun, das over-c - Com sieht tats"chlich übel aus. Aber das Beste ist, ich hab' dort 'ne Kanone gefunden!"
-"Na, hast Du was Interessantes gesehen?" {BLOK010}"Nun, das over-c - Com sieht tats"chlich übel aus. Aber das Beste ist, ich hab' dort 'ne Kanone gefunden! Die S"cke von der Secu haben mir das Ding allerdings abgenommen, weil der Rückweg durch das Servicedeck versperrt war."
+"Wow! Zeig' das Ding niemandem, sonst kassieren sie's sofort ein! 'ne Knarre, ist ja heiß!"
+"Shit. Hättest Du das Ding nicht im Servicedeck deponieren können, um es später von der anderen Seite abzuholen oder so? Na ja, jetzt ist es zu spät."
+"Ach, Routinekrempel, aber jede Menge davon. Ich simuliere die unwahrschein|lichsten Ausfälle, aber die Systeme des Schiffes stecken alles locker weg."
+"Na, hast Du was Interessantes gesehen?" {BLOK010}"Nun, das over-c - Com sieht tatsächlich übel aus. Aber das Beste ist, ich hab' dort 'ne Kanone gefunden!"
+"Na, hast Du was Interessantes gesehen?" {BLOK010}"Nun, das over-c - Com sieht tatsächlich übel aus. Aber das Beste ist, ich hab' dort 'ne Kanone gefunden! Die Säcke von der Secu haben mir das Ding allerdings abgenommen, weil der Rückweg durch das Servicedeck versperrt war."
 "Ah, kleiner Alzheimer-Anfall, hm? Der Code lautet "1042". Viel Glück!"
-"Na, hast Du was Interessantes gesehen?" {BLOK010}"Das over-c - Com ist v"llig hinüber. Snoopys Überreste haben sie aber schon beseitigt."
-"Sonst nichts Aufregendes gefunden? Ist ja direkt entt"uschend."
-{BLOK000}Was kannst Du sagen über... {BLOK001}Schau Dir mal dies hier an... {BLOK004}Bis demn"chst! {BLOK005}Was ist Dein augenblicklicher Job?
-
+"Na, hast Du was Interessantes gesehen?" {BLOK010}"Das over-c - Com ist völlig hinüber. Snoopys Überreste haben sie aber schon beseitigt."
+"Sonst nichts Aufregendes gefunden? Ist ja direkt enttäuschend."
+{BLOK000}Was kannst Du sagen über... {BLOK001}Schau Dir mal dies hier an... {BLOK004}Bis demnächst! {BLOK005}Was ist Dein augenblicklicher Job?
+"Mach's gut, Tom."

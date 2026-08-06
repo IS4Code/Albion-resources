@@ -1,0 +1,2 @@
+﻿{BLOK000}"Ich bin Verkäuferin."
+"Skeima Din,^^hoffentlich findet Ihr bei mir , was Ihr sucht. In Srimalinar gibt es nämlich keinen anderen Laden. Ihr müßtet dann nach Beloveno reisen. Nahrungsmittel könnt Ihr aber auch beim Wirt in der Kneipe kaufen."{WORDBeloveno}{BLOK010}"Wir würden gerne etwas kaufen."

@@ -49,7 +49,8 @@ Platzhalter
 Platzhalter
 Platzhalter
 "Dieser Bereich kommt mir bekannt vor. Ich glaube, dies ist das Reich des Tiermeisters und seiner Gehilfen. Hier unten werden Raubtiere für Prüfungskämpfe der Novizen gezüchtet. Laßt uns sehen, daß wir hier verschwinden."
-"Wenn ich mich recht erinnere, ist dies der Ausgang der Raubtierbereiche. Ein Schlüssel befindet sich im Besitz des Tiermeisters. Ich denke, wir werden nicht umhin kommen, ihn zur Herausgabe des Schlüssels zu bewegen."
+"Wenn ich mich recht erinnere, ist dies der Ausgang der Raubtierbereiche. Ein Schlüssel befindet sich im Besitz des Tiermeisters.^^Ich denke, wir werden nicht umhin kommen, ihn zur Herausgabe des Schlüssels zu bewegen.^^Er muß sich irgendwo in diesem Bereich befinden, denn er verläßt die Biester hier unten so gut wie nie."
 Ein überwältigender Gestank hängt hier in der Luft.
-Vor der gegenüberliegenden Wand steht eine Gruppe Kenget Kamulos. Einer von ihnen spricht, ohne aufzublicken:^ {INK 002}"Wir sind bereit für die Prüfung, Meister."^ {INK 001}Dann bemerken sie, wer vor ihnen steht.^ {INK 002}"Eindringlinge! Ihr wagt es! Gepriesen sei Kamulos für diese Gelegenheit!"^ {INK 001}Sie greifen an!
-In diesem Raum ist endlich der Tiermeister! Er fährt herum, und greift ohne zu zögern oder ein Wort zu sprechen an. Seine Assistenten und die Tiere, um die er sich gerade gekümmert hat, unterstützen ihn dabei!
+Vor der gegenüberliegenden Wand steht eine Gruppe Kenget Kamulos. Einer von ihnen spricht, ohne aufzublicken:^^^ {INK 002}"Wir sind bereit für die Prüfung, Meister."^^ {INK 001}Dann bemerken sie, wer vor ihnen steht.^^ {INK 002}"Eindringlinge! Ihr wagt es! Gepriesen sei Kamulos für diese Gelegenheit!"^^^ {INK 001}Sie greifen an!
+In diesem Raum ist endlich der Tiermeister! Er fährt herum und greift ohne zu zögern oder ein Wort zu sprechen an. Seine Assistenten und die Tiere, um die er sich gerade gekümmert hat, unterstützen ihn dabei!
+Unter diesem Gerümpel ist etwas Interessantes zu sehen!

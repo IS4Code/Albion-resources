@@ -1,0 +1,9 @@
+﻿{BLOK000}"Oh, ich führe das Lebensmittelgeschäft hier in der Stadt."
+"Skeima Din, habt Ihr inzwischen Beweise gegen Kontos gefunden?"{BLOK010}"Nein."{BLOK011}"Ja."{BLOK012}"Wir haben die Unschuld von Kontos bewiesen!"{WORDKontos}{WORDBeweise}
+"Dann sucht weiter!"
+"Der Konflikt am Heiligtum von Srimalinar eskaliert ständig weiter. Ihr könnt ihn aufhalten, indem Ihr das wahre Gesicht von Kontos zeigt. Ihr habt die Beweise dazu. Ihr könntet dem Land dadurch enorm helfen und ich bitte Euch darum! Geht zum Heiligtum von Srimalinar und setzt dem Ganzen ein Ende!"{WORDHeiligtum}
+"Ihr habt was??? Ich glaube, ich sollte hier einigen Leuten in der Stadt von Euren Ansichten erzählen. Das dürfte für manche interessant sein..."
+"Er ist in der heiligen Stätte von Srimalinar und es wird nicht mehr lange dauern, bis es zu einem Krieg kommt!"
+"Es ist ziemlich schlimm - geht hin und schaut selbst. Vielleicht kann man Kontos noch stoppen, aber wenn das nicht gelingt, ist ein Krieg wohl unumgänglich!"
+"Wenn Ihr Beweise habt, dann benutzt Sie, um Kontos zu entlarven."
+"Das bin ich."

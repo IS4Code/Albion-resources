@@ -1,0 +1,29 @@
+﻿{BLOK000}"Ich bin nun das Oberhaupt der Gilde, aber meiner Meinung nach nur ein ungenügender Ersatz für Akiir."
+
+"Was wir tun, sehen wir als Mischung von Magie, Kunst und Handwerk an. Wir sind eine der ältesten Gilden Jirinaars und wie Ihr sicher wißt, können wir mit Hilfe unserer Magie Pflanzen erschaffen, verändern und dauerhaft in eine gewünschte Form bringen. So sind wir in der Lage, komplette Häuser aus lebendem Pflanzen|material erstehen zu lassen, die nicht nur schön anzusehen sind, sondern auch alle Funktionen erfüllen, die für das Wohlbefinden ihrer Bewohner notwendig sind."
+"Ich betrachte ihn noch immer als meinen Freund. Wer weiß, welche Reaktionen ich zeigen würde, wenn ich um meinen baldigen Tod wüßte."
+!
+!
+"Sira ist die einzige Tochter Akiirs. Sie ist zu den Dji-Kas gegangen, was Akiir sehr getroffen hat."
+
+"Ich befürchte, die Vorfälle um Akiirs Ende haben unser Verhältnis nicht gerade verbessert. Sehen wir, was die Zukunft bringt, an mir soll eine Annäherung nicht scheitern."
+"Unser Gildenhaus konkurriert mit dem Ratsgebäude um den Titel des schönsten Bauwerks Jirinaars. Es wird von uns ständig gepflegt und verändert und auch zur Vorführung unseres Könnens benutzt, wie Ihr im östlichen Flügel sehen könnt."
+!
+"Ich habe noch nicht den Mut aufgebracht, mich bei ihm persönlich zu entschuldigen, aber ich werde es tun, sobald sein Zorn sich etwas gelegt hat."
+"So heiße ich, richtig."
+"Mir fällt es noch immer sehr schwer, über all' das zu reden. Ich versuche, Akiir als Freund in Erinnerung zu behalten, dessen Geist in seinen letzten Wochen getrübt war."
+dummy
+dummy
+dummy
+dummy
+"Ihr habt davon gehört? Nun, um ehrlich zu sein, Argims Geschichte ist ein wunder Punkt in der Geschichte unserer Gilde. Er war vor fast 150 Jahren das Oberhaupt der Dji-Fadh. Damals war das Gildenhaus der Dji-Fadh außerhalb der Stadt zu finden, ein prächtiges Gebäude mitten im Wald nahe eines Han. Nun, Argim war ein großartiges Talent, aber von wankelmütigem Charakter. Dies war der Grund für die Ablehnung seines größten Zieles: ein Auserwählter zu werden. Als er von der Abweisung erfuhr, verlor er völlig die Kontrolle über sich. Er schwor, trotzdem die Unsterblichkeit erlangen zu wollen. In einem wahnwitzigem Ausbruch seiner Macht zerstörte er das ganze Gebäude und verwandelte es in einen seltsamen Ort, der heute von allen gemieden wird. Man sagt sogar, er hätte seinen Geist diesem Ort aufgeprägt."
+"Es gibt Orte, wo die Kraft der Göttin besonders zu spüren ist und magische Handlungen verstärkt werden, aber oft auch schwieriger sind. Ein solches Energiezentrum nennt sich Han."
+dummy
+"Dsarii-ma! Oh, Göttin, was soll ich Euch bloß sagen? Ich kann Euch nur um Verzeihung bitten, daß ich nicht eher mit der Wahrheit herausgekommen bin. Nun erscheint mir die Zeit seit Akiirs Tod als ein einziger Alptraum.^ Ich danke Euch, daß Ihr mich daraus geweckt habt." {BLOK010}"Wie haben Eure Gildegenossen reagiert, Bradir?" {BLOK011}"Macht Euch keine Sorgen mehr, Bradir. Ihr wart in einer ausweglosen Situation und Euer Sinn für Freundschaft ehrt Euch."
+"Dsarii-ma, Reisende. Seid willkommen in der Gilde."{WORDAkiir}{WORDFasiir}
+"Mir fehlen dazu die Worte. Sie haben Ihr Verständnis damit ausgedrückt, mich als Oberhaupt der Gilde zu bestätigen. Es war ein unbeschreib|lich gutes Gefühl, das zu hören."
+"Habt Dank für Eure tröstenden Worte, {LEAD}{NAME}. Ich bin froh, daß Ihr mir nichts nachtragt."
+"Bevor Ihr geht, möchte ich Euch bitten, dies als Ausdruck meiner Reue anzunehmen. Nein, wirklich, bitte nehmt es, mir liegt viel daran, es Euch zu geben."^^ {INK 001}Er drückt den Gefährten einen großen Goldbetrag und den magischen Zierdolch, der als Beweisstück diente, in die Hand.^^ {INK 002}"Das Gold stammt aus Akiirs Nachlaß für mich und der Dolch trägt nun schlechte Erinnerungen für mich. Außerdem, daß ich nicht zum Kämpfer geboren bin, habt ihr ja gesehen."
+"Dsarii-ma. Ach, Sira! Laß' mich Dir noch einmal sagen, wie leid mir die ganze Geschichte tut. Du mußt Schreckliches durchgemacht haben."^^ {INK 001}Sira:^ {INK 002}"Es war nicht einfach, Bradir, zu wissen, daß mein Vater all das wegen mir angezettelt hat. Aber Du weißt so gut wie ich, daß er kein schlechter Iskai war. Er hat Schwäche angesichts seines Todes gezeigt und wem wäre das nicht zu verzeihen. Und Du hast lediglich versucht, ihm einen letzten Dienst als Freund zu erweisen."{WORDAkiir}{WORDFasiir}
+"Lebt wohl."
+"Ein altes Erbstück, aber nun gehört er Euch. Ich verbinde zu viele schlechte Erinnerungen damit."

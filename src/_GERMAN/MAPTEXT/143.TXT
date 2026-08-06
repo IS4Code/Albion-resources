@@ -1,7 +1,7 @@
 ﻿-frei-
 Äste und Wurzeln.
 Ein geflochtener Korb.
-Ein Glasgefäß für Wein und andere Getränke.
+Ein Glasgefäß für Wasser und andere Getränke.
 Ein Faß.
 Ein prächtiges Tierfell.
 Ein Eimer.
@@ -41,7 +41,7 @@ Ein zusammengeklappter Hocker.
 Ein massiver Eßtisch.
 Ein Baumstumpf.
 Zwei gekreuzte Speere.
-Ein großes Faß mit Wasser, Bier oder Wein.
+Ein großes Faß mit fremdartigen Getränken.
 Ein Zapfhahn.
 Eine Bettdecke.
 Ein komfortables und hübsch verziertes Bett.
@@ -125,13 +125,13 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 "Ich denke, diese Bodenplatten müssen in einer bestimmten Reihenfolge begangen werden, um etwas zu erreichen."
-"Wißt ihr, ich kann mich täuschen, aber ich habe den Eindruck, die kreuzförmige Anordnung der Klingen im Boden ist nicht zufällig gewählt worden..."
-"Seht euch mal die grauen Steinplatten an der Wand an. Ich bin neugierig, ob sie etwas bewirken, wenn man darauf tritt!"
+"Wißt Ihr, ich kann mich täuschen, aber ich habe den Eindruck, die kreuzförmige Anordnung der Klingen im Boden ist nicht zufällig gewählt worden..."
+"Seht Euch mal die grauen Steinplatten an der Wand an. Ich bin neugierig, ob sie etwas bewirken, wenn man darauf tritt!"
 {INK 001}{LEAD}{NAME} wirft einen Blick auf die Steinplatte. Sie hat eine versenkbare Platte in Ihrer Mitte. Bevor jemand einen Vorschlag machen kann, meint Drirr:^^ {INK 002}"Was soll das ganze Anschauen? Ich probiere das Ding mal aus!^^ {INK 001}Drirr tritt ohne zu zögern auf die Steinplatte. Kurz darauf schießen ein Stück weiter unten Klingen aus dem Boden und versperren den Weg!
 "Großartig, Drirr, mein neugieriger Freund! Kannst Du uns nun noch verraten, wie wir weiterkommen sollen?"
 "Nun ja. Immerhin sind die Klingen nicht unter unseren Füßen herausgekommen. Was ist mit der Platte dort oben? Sie hat sich gehoben, als ich auf die untere getreten bin."
 {INK 001}{LEAD}{NAME}:{INK 002} "Aarh, verdammt! Eigentlich hättest DU Dir den Pelz verbrennen sollen, Drirr!"
-"Seht, dort unten! Die Klingen haben sich wieder in den Boden geschoben! Wer sagts denn! Laßt uns gehen!"
+"Seht, dort unten! Die Klingen haben sich wieder in den Boden geschoben! Wer sagt's denn! Laßt uns gehen!"
 "Das Ding hat einen Mechanismus ausgelöst! Dort hinten sind Klingen aus dem Boden gekommen!"
 Das Geräusch reibender Steinplatten kam aus südwestlicher Richtung.
 In dieser Truhe befinden sich einige Goldmünzen und ein schön gearbeiteter Ring.

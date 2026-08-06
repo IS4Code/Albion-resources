@@ -1,7 +1,7 @@
 ﻿-frei-
 Äste und Wurzeln.
 Ein geflochtener Korb.
-Ein Glasgefäß für Wein und andere Getränke.
+Ein Glasgefäß für Wasser und andere Getränke.
 Ein Faß.
 Ein prächtiges Tierfell.
 Ein Eimer.
@@ -41,7 +41,7 @@ Ein zusammengeklappter Hocker.
 Ein massiver Eßtisch.
 Ein Baumstumpf.
 Zwei gekreuzte Speere.
-Ein großes Faß mit Wasser, Bier oder Wein.
+Ein großes Faß mit fremdartigen Getränken.
 Ein Zapfhahn.
 Eine Bettdecke.
 Ein komfortables und hübsch verziertes Bett.
@@ -125,8 +125,8 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 ---coming soon: Merchant---
-"Togi Din. Ich gehe oft und gerne hierhin. Man findet immer wieder etwas nützliches."
-"Togi Din. Mein Pflegesohn hat schon wieder etwas zerbrochen. Welch eine Last, der Attio eines solchen Teufels zu sein!"
+"Togi Din. Ich gehe oft und gerne hierhin. Man findet immer wieder etwas Nützliches."
+"Togi Din. Mein Pflegesohn hat schon wieder etwas zerbrochen. Welch' eine Last, der Attio eines solchen Teufels zu sein!"
 "Togi Din, Fremde. Kauft ruhig vor mir etwas ein, ich habe Zeit."
 "Togi Din, Fremde! Wenn ich groß bin, reise ich auch durch die Welt!"
-"Togi Din. Wendet Euch an meine Frau, wenn ihr etwas kaufen wollt. Ich bin müde von der Feldarbeit."
+"Togi Din. Wendet Euch an meine Frau, wenn Ihr etwas kaufen wollt. Ich bin müde von der Feldarbeit."

@@ -51,7 +51,7 @@ Platzhalter für weitere Cutmap-Events.
 {CNTR}"Oink?"
 {CNTR}"Rrriick?"
 ------ An extended dialog screen will appear here ------
-"Togi Din, Reisende. Besucht meinen Onkel, den Waffenschmied. Er ist der beste Schmied Gratogels. Sein Haus ist das Große, im Südosten des Dorfes."
+"Togi Din, Reisende. Besucht meinen Onkel, den Waffenschmied. Er ist der beste Schmied Gratogels. Sein Haus ist das große, im Südosten des Dorfes."
 "Laßt mich zufrieden, Fremde. Ich habe Arbeit zu tun."
 "Togi Din! He, ihr langen Pelzträger seht aber lustig aus!"
 "La, laa-la! Zicke, Zacke, Hühnerkacke!"
@@ -67,8 +67,26 @@ Platzhalter für weitere Cutmap-Events.
 {CNTR}In geschwungenen Buchstaben ist hier zu lesen:^^ {INK 006}Arjano, Wächterin des Wissens^ Schule und Zentrum der Druiden Albions
 "Diese Hütte soll ein so bedeutendes Wissenszentrum beherbergen? Das kann doch nicht möglich sein!"
 Im Eingangsbereich der Hütte versperrt eine verschlossenen Tür den Zugang.
-"Togi Din! Mal wieder Besuch aus fernen Ländern, wie aufregend!"
+"Togi Din! Endlich einmal wieder Besuch aus fernen Ländern, wie aufregend!"
 "Togi Din, Reisende. Ist das nicht ein herrlicher Tag?"
 "Togi Din. Verzeiht, ich möchte nicht mit Euch sprechen. Mein Mann ist vor kurzem ertrunken und ich..."^ {INK 001}Tränen laufen der jungen Frau über das Gesicht."
-"Togi Din! Macht Platz für die große Kriegerin! Hejaaa!"
-"Togi Din! Wollt ihr mit meinem Vater übers Meer fahren? Ach, ich wünschte, er würde mich einmal mitnehmen."
+{INK 001}Ein kleines Mädchen rennt hier ausgelassen umher. Sie ruft:^^ {INK 002}"Togi Din! Macht Platz für die große Kriegerin! Hejaaa!"
+"Togi Din! Wollt ihr mit meinem Vater über's Meer fahren? Ach, ich wünschte, er würde mich einmal mitnehmen."
+Endlich spüren Tom und seine Gefährten wieder festen Boden unter den Füßen.^^ Sie verabschieden sich von der Besatzung und schauen sich um...
+"Schau Dir das an, Tom! Ich bin nicht sehr bewandert in Geschichte, aber diese Hütten sehen aus wie keltische Rundhütten!^^Wie um alles in der Welt kann es sein, daß auf diesem Planeten nicht nur Menschen leben, sondern anscheinend auch noch Nachfahren der Kelten? Das ist doch völlig unmöglich!"
+"So unmöglich wie die seltsamen Phänomene, die wir bei den Iskai beobachtet haben? Die Magie?^^Schau mich nicht so an, einmal muß es doch ausgesprochen werden! Dieser Planet richtet sich offenbar nicht ganz nach unserem Weltbild, wie ausgesprochen unverschämt von ihm, was?^^Komm schon, laß' uns ein wenig pragmatisch an die Sache herangehen. Wenn wir die TORONTO gefunden haben, haben wir genug Zeit und Mittel, allen Rätseln dieser Welt auf den Grund zu gehen."
+"Vielleicht hast Du recht. Es ist wohl an der Zeit, mein naturwissen|schaftliches Weltbild ein wenig zu erweitern. Ich sollte mich nicht dagegen sträuben, etwas Neues dazuzulernen.^^Apropos Pragmatismus: Ich denke, wir sollten am besten mit dem Oberhaupt dieses Dorfes sprechen, er weiß wohl am ehesten, ob etwas Riesiges wie die TORONTO irgendwo im Land gesehen wurde. Wenn die Leute hier wirklich etwas mit den Kelten zu tun haben, müßte es einen Stammeskönig oder etwas in der Art geben."
+"Falls man hier nichts von Euerem riesigen Luftschiff gehört hat, könnten wir versuchen, gleich eine Passage nach Maini, der großen Landmasse östlich von hier, zu bekommen."
+"Das ist ein ganz normales, irdisches Schwein!"
+"Nun, wenn es Menschen irgendwie geschafft haben, hierher zu kommen, werden sie sicher auch Ihre Nutztiere mitgebracht haben."
+Vor {LEAD}{NAME} und den Gefährten öffnet sich ein Canyon durch die hohen Plateauberge. Der Wind pfeift durch den schmalen, unübersichtlichen Durchgang.
+Tom und die Gefährten besteigen das Schiff und wenig später beginnt auch schon die Reise nach Beloveno, der großen Hafenstadt.
+Wieder wird die Zeit der Überfahrt dazu genutzt, von Drirr die Sprache der Menschen von Maini, der nächsten Landmasse, zu lernen.^^So vergeht die Zeit wie im Flug, bis schließlich Maini am Horizont auftaucht.^^Bald bietet sich ein großartiger Ausblick auf das neue Land und auf Beloveno, die Hafenstadt.
+Garris manövriert das Schiff geschickt in den Hafen und verabschiedet sich von seinen Passagieren.
+"Das wäre also geschafft. Laßt uns einen Blick auf die Stadt werfen!"
+Plötzlich kommen aus einem Hinterhalt einige verwegene Gestalten gesprungen! ^^Sie greifen an!
+Ein gut gepanzertes, kleines Tier. Es ignoriert seine Umwelt.
+Ein großes, insektenähnliches Flugtier. Es ignoriert {LEAD}{NAME} und die anderen.
+Ein Busch, dessen reife Samenkörner leicht zu funkeln scheinen.
+Ein abgeernteter Busch.
+Dieser Baum ist eine irdische Eiche!

@@ -1,0 +1,7 @@
+﻿{BLOK000}"Ich bin eines der neuen Mitglieder im 'Rat der Gerechten'. Die Arbeit ist für mich eine echte Herausforderung. Will hoffen, daß ich alles schaffe."
+"Willkommen und Skeima Din. Ich glaube, ich stelle mich Euch erst einmal kurz vor. Mein Name ist Mellthar, und ich bin eines der beiden neuen Ratsmitglieder. Wer hätte gedacht, daß Garp und Riko zwei verschlagene Übeltäter sind und mit Kontos gemeinsame Sache machen?"{BLOK010}"Nun, es gab schon Leute, die das geglaubt haben..."{BLOK011}"Man steckt in den Menschen nicht drin."{WORDRathaus}{WORDMelthar}
+"Ah, da seid ihr ja wieder."{WORDRathaus}{WORDMelthar}
+"Ihr meint Perron. Ja, wir haben ihn nicht ernst genommen."
+"Wem sagt Ihr das..."
+"Das bin ich."
+"Mittlerweile dürftet Ihr es ja schon gut kennen."

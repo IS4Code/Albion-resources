@@ -1,0 +1,2 @@
+﻿{BLOK000}"Ich bin der Waffenschmied von Vanello."
+"Togi Din, Reisende. Was kann ich Euch anbieten, um Eure Fahrten etwas sicherer zu machen?" {BLOK010}"Bitte zeigt uns eine Auswahl Eurer Waffen." {BLOK011}"Könnt Ihr folgendes reparieren..." {BLOK012}"Lebt wohl."

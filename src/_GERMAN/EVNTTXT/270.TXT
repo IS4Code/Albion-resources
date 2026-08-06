@@ -1,0 +1,2 @@
+﻿{BLOK000}"Ich bin Verkäuferin für Schilde, Panzer und sonstige schützende Kleidung."
+"Skeima Din.^^Sucht Ihr etwas bestimmtes? Ich kann Euch alles mögliche verkaufen, mit dem Ihr Euch schützen könnt: Panzer, Westen, Helme, Kappen, Schilde, Stiefel, u.s.w. Wenn Ihr natürlich bereits verwundet seid, dann geht besser zu Ramina und laßt Euch heilen."{WORDRamina}{BLOK010}"Was gibt es hier denn so alles?"

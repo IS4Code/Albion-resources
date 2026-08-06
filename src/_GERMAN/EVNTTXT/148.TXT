@@ -1,0 +1,22 @@
+﻿{BLOK000}"Ich verwalte die Lagerbestände der Dji-Kas."{WORDLagerbestände}
+"Dsarii-ma! Benötigt Ihr Material zur Ausübung der Kunst der Dji-Kas?" {BLOK010}"Dsarii-ma. Ja, bitte zeigt uns Euer Angebot."
+"Unsere Magie ist tief mit dieser Welt verwurzelt. Ihr könnt das zum Beispiel daran erkennen, daß wir für fast alle unsere Sprüche eine bestimmte Sorte von Samenkörnern benutzen, um unsere geistigen Kräfte darin zu konzentrieren. Wir sind ferner Stolz auf die Vielseitigkeit unserer Kunst. Wir kennen Magie zum Erschaffen und Zerstören, zum Verletzen und zum Heilen.^ Als Kennzeichen unserer Gilde tragen wir eingefärbte Muster im Fell. Der Anführer der Dji-Kas ist Sebai-fre Fasiir. Er verbringt seine gesamte Zeit im Gildenhaus."{WORDSamenkorn}{WORDHeilung}{WORDFasiir}{WORDGildenhaus}
+"Sebai-fre Fasiir leitet unsere Gilde schon seit über 120 Jahren. Er ist eine lebende Legende unter den Dji-Kas und ein hervorragender Lehrmeister, der seinen Schülern schnell neue Kenntnisse beibringt, sowie sie dafür bereit sind."
+"Nicht das Samenkorn selbst entfaltet die magische Wirkung, aber der Geist des Dji-Kas verwendet Sie, um darin seinen Fokus zu finden. Die Körner stammen von einer seltenen Pflanze namens Triifalai, das bedeutet "Trii der Göttin". Die Samen kann ich Euch im Übrigen verkaufen, wenn Ihr wollt." {WORDTrii} {WORDGöttin}
+"Gleich neben dem Eingang zum Gildenhaus findet Ihr Stri Rejira, eine Meisterin der Heilkunst. Sie wird Euch besser helfen können als ich. Mein Wissen ist auf Verletzungen des Trii spezialisiert.{WORDTrii}"
+"Dies ist der Name einer Pflanze, deren Samenkörner von uns sehr begehrt sind.{WORDSamenkorn}"
+
+"Oh, die Baumeister. Das Verhältnis unserer Gilden ist nicht immer ungetrübt. Manche ihrer besten Talente fühlen sich von unserer vielseitigen Kunst angezogen und wechseln über zu unserer Gilde. Aber wer soll es Ihnen übelnehmen? Wer hat schon Lust, all seine Kräfte in den Bau von Behausungen zu stecken, und seinen sie noch so schön? Vielleicht sind die Dji-Fadh auch erzürnt, daß wir so in der Lage waren, unser Gildenhaus ohne ihre Hilfe zu erschaffen."{WORDGilde}
+"Das Gildenhaus hat schon seit langer Zeit seinen Platz im südwestlichen Viertel Jirinaars. Es ist von den Dji-Kas selbst erbaut worden und beherbergt viele Gildenmitglieder und alle Dra."{WORDDra}
+"Der Mord an Akiir ist niemals von uns in Auftrag gegeben worden! Kriis hat gelogen, weiß die Göttin, warum er das getan hat! Wir haben keinen Grund, um so etwas Schändliches zu tun!"{WORDGöttin}
+"Laßt mich Euch noch einmal persönlich dafür danken, daß Ihr uns von dem Mordverdacht an Akiir befreit habt!"
+"Akiir ist das Oberhaupt der Former, einer Gilde, die meist ein etwas gespanntes Verhältnis zu der unseren hat. Besonders Akiir geht keinem Konflikt aus dem Wege."{WORDFormer}
+"Ihr kennt Fasiir nicht so gut wie wir, die wir täglich mit ihm umgehen. Er würde niemals ein solches Verbrechen in Auftrag geben! Aber ich schätze, Ihr werdet den Worten eines Mitglieds seiner Gilde wenig Glauben schenken."
+"Ich bin Euch aufrichtig dankbar, daß Ihr seinen Namen reingewaschen habt."
+"Über einen Mord weiß ich nichts."
+dummy
+dummy
+dummy
+dummy
+dummy
+"Nun, obwohl die Kraft des Geistes der wichtigste Faktor unserer Magie ist, gibt es doch Verwendung für allerlei Kräuter und andere Hilfsmittel. Am wichtigsten sind jedoch zweifellos die Samenkörner der Triifalai-Pflanze." {WORDSamenkorn}

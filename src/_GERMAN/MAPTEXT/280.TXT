@@ -114,39 +114,48 @@ Ein kurzer Schreibstift.
 Eine Sitzbank.
 Auch dieses Sitzmöbel ist förmlich aus dem Boden gewachsen und stellt eine bequeme Sitzbank dar.
 Ein Holzpfahl. An seinem oberen Ende befindet sich ein Schild.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
 Das ist der Ausgang.
+"Leider kann ich mir für Euch nicht viel Zeit nehmen. Es gibt noch eine Menge Arbeit zu tun. Meine Söhne ernten das Obst an den Plantagen vor der Stadt. Bestimmt habt Ihr dort unsere zahlreichen Gärten schon gesehen. Wenn sie zurückkommen, muß ich diese ganzen Früchte weiterverarbeiten. Dazu muß ich schon mal die ganzen Gefäße vorbereiten."
+"Gefällt Euch unser Haus? Es ist sehr geräumig. Ja, wir haben auch Platz für Gäste. Wenn Ihr möchtet, könnt Ihr ein wenig hierbleiben. Aber bestimmt habt Ihr andere Sachen zu tun."
+"Wißt Ihr, etwas Wasser könnte Euch auch nicht schaden. Ihr habt, gelinde gesagt, einen etwas strengen Geruch an Euch."
+"Wenn Ihr Edjirr in der Kneipe trefft, sagt ihm einen Gruß von Drirra. Sagt ihm, er soll etwas früher nach Hause kommen. Schließlich hat er auch noch eine Familie."
+"Huch! Ihr habt mich vielleicht erschreckt."
+"Ich erhole mich gerade von der Ernteschicht - beim nächsten Mal bin ich wieder mit dabei und muß in guter Form sein."
+"Skeima Din. Ich heiße Errid und bin die schnellste Läuferin in ganz Srimalinar. Wer das nicht glaubt, kann gerne mit mir um die Wette laufen."
+"Skeima Din."
+Mellthas gestikuliert, um der Party anzudeuten, daß er etwas wichtiges mitzuteilen hat. Dann schreibt er eifrig auf seinen Zettel:^^Wir sollten meinen Freund Darios in Kounos besuchen. Vielleicht bringt uns das der Wahrheit ein Stück näher.

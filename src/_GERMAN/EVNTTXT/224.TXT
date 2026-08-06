@@ -1,0 +1,6 @@
+﻿{BLOK000}"Tja, Ihr Lieben...an meiner aufreizenden Kleidung solltet Ihr eigentlich schon erkennen, wo ich arbeite. Oh, Ihr könnt mich dort gerne mal besuchen. Allerdings geben die meisten männlichen Wesen nur ungern zu, daß sie ab und zu ein Freudenhaus aufsuchen."
+"Skeima Din - was soll ich sagen. Die Dinge spitzen sich zu und es sieht nicht besonders gut aus. Die Krieger von Srimalinar und Kounos haben sich mittlerweile am Heiligtum versammelt, um sich zu bekriegen. Das Geschäft läuft entsprechend schlecht. Überhaupt bin ich in letzter Zeit von den Ereignissen ziemlich deprimiert worden."{WORDHerras}
+"Entschuldigt bitte, ich bin derzeit wirklich nicht in der Verfassung, Euch Dinge zu erklären."
+"Ich möchte mit Euch nicht mehr darüber reden. Hättet Ihr etwas unternommen, würde er jetzt noch leben!"
+"Das bin ich."
+"Was ist mit Herras?"

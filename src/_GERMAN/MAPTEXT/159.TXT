@@ -50,3 +50,5 @@ Platzhalter
 Platzhalter
 Plötzlich versinkt die Glaskuppel an dieser Stelle im Boden. Ein großes Loch tut sich auf!
 Ein Loch im Boden entsteht!
+Ein großer Steinhaufen.
+Der Boden an dieser Stelle bricht krachend ein!

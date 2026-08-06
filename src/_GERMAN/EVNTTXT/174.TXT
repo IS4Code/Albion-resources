@@ -1,0 +1,10 @@
+﻿{BLOK000}"Ich bin, wie Ihr wissen solltet, Druide und besonders bewandert im Wissen über Amulette."{WORDAmulette}
+"Togi Din, meine Retter! Schön, Euch wieder zu sehen und besonders Dich, Mellthas und auch Dich, Sira!"{WORDMellthas}{WORDSira}
+"Togi Din, meine Retter! Schön, Euch wieder zu sehen!"
+"Meine große Leidenschaft, wie Ihr wißt. Hätte ich wenigstens Cantos Amulett gefunden, wäre mir die Schmach des völligen Fehlschlags meiner Expedition erspart geblieben." {BLOK010}"Wäre denn Cantos Amulett wirklich das Risiko dieser Suche Wert gewesen?"
+"Ein interessantes Volk, allein, wenn ich an die faszinierenden Aspekte ihres Stirnorgans bedenke. Ich würde mich gerne einmal mit einem ihrer Gelehrten unterhalten. Vielleicht unternehme ich einmal eine Reise nach Jirinaar."
+"Eine liebenswerte, ähm, Person, {LEAD}{NAME}. Kein Wunder, daß man sich auch als Mensch in sie verlieben kann..."
+"Ich bin froh und dankbar für das, was Du für Mellthas getan hast, Sira." {WORDIskai}
+"{LEAD}{NAME}, ich könnte einen leiblichen Sohn nicht mehr lieben als Mellthas. Ich bin stolz auf seine Kenntnisse und froh, daß er eine gefunden hat, Mensch oder nicht, die er liebt und die ihm seine Behinderung zu überwinden hilft."
+"Mellthas, Du weißt, das ich Dich wie einen Sohn liebe. Gib auf Dich acht, wenn Du Dich nun auf Reisen mit Deinen Gefährten begibst."{WORDIskai}
+"Canto ist der geistige Urahn aller Druiden und eine legendäre Gestalt. Es heißt, daß er derjenige war, der die Menschen in dieses Land geführt hat, vor Hunderten oder Tausenden von Jahren. Seine Weisheit und seine Kenntnisse waren groß, so groß, daß er von manchen schon fast wie ein Gott verehrt wird. In alten Büchern wird ein Amulett erwähnt, das er getragen hat. Es soll ihm von Danu selbst übergeben worden sein. Man sagt Cantos Amulett viele wundervolle Dinge nach, so soll es den Träger vor allen Waffen und Zaubern schützen. Es ist natürlich nur eine Legende, aber es war mir das Risiko wert, danach zu suchen."

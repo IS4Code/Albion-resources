@@ -3,7 +3,7 @@ Ein Sicherungskasten.
 Ein Sessel.
 Eine Liege.
 Das Steuerpult für den Atomreaktor.
-
+Ein Servicepanel.
 Eine Steuerungskonsole.
 Eine Flugsteuerungskonsole.
 Ein Kontrollpult.
@@ -15,17 +15,17 @@ Zahnputzzeug.
 Eine Anzeige für die Korridor-Überwachung.
 Kontroll-Anzeigen.
 Ein Teil des Reaktors.
-F"sser mit Müll, Wasser, Gift- und Rohstoffen.
+Fässer mit Müll, Wasser, Gift- und Rohstoffen.
 Eine ausgeschaltete Konsole.
 Eine Lampe.
 Ein Teller.
 Ein Glas.
 Ein Becher.
-Ein Beh"lter.
+Ein Behälter.
 Eine Flasche.
 Eine Kanne.
 Eine Dose.
-Ein Gef"ß.
+Ein Gefäß.
 Ein Pfeffer- und ein Salzstreuer.
 Sojasoße.
 Ein Topf.
@@ -35,7 +35,7 @@ Ein Spaten.
 Ein Schraubenschlüssel.
 Ein Schraubenzieher.
 Eine Handkonsole.
-
+Ein PDA. (Personal Digital Assistent)
 Eine Zange.
 Besteck und ein Becher.
 Geschirr.
@@ -44,7 +44,7 @@ Ein Shuttle.
 Container.
 Eine Dusche.
 Ein Fahrzeug.
-
+Bodenmarkierungen.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
@@ -60,65 +60,65 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Eine riesige Schleuse.
+Dieses Sichtfenster mit starkem Filter erlaubt einen direkten Blick in das Herz der TORONTO: den Fusionsreaktor. Die gezähmten Kräfte einer Sonne versorgen den ungeheuren Energiebedarf der Anlage.
+Das Steuerpult des Reaktors.
+"Diese Konsole habe ich gemeint, Tom. Wenn Du mir kräftig die Daumen drückst, könnte ich einen Versuch starten, Ned, die AI, von der Energieversorgung abzuklemmen. Soll ich's gleich probieren?"
+Soll Joe jetzt versuchen, die Konsole zu manipulieren? {BLOK000}Ja, probieren wir's! {BLOK001}Nein, Moment noch.
+"Laß' uns nicht zu lange warten. Hab' keine Lust, erwischt zu werden."
+"Bis hierhin hätten wir es geschafft. Laßt uns nun versuchen, das Samenkorn zum Reaktor zu bringen. Bin wirklich gespannt, was dann passiert..."
+"Soll ich jetzt loslegen?"
+"Das ist der Reaktor! Schau' Dir dieses Licht an! Sie haben eine Art Sichtscheibe eingebaut, die nur ungefähr ein Tausendstel des Lichtes durchläßt, das bei der Fusion entsteht. Ein phantastischer Anblick!"
+Joe macht sich an die Arbeit.
+"Mal schau'n. Ich bin kein Spezialist für diese Konsolen, aber das hier müßte..."
+Plötzlich wird Joe von einer Lautsprecherstimme unterbrochen!
+"Tom Driscoll, Joe Bernard, ich muß Sie auffordern, sofort ihre Aktivitäten an der Steuerkonsole einzustellen.^^Einige Sicherheits|beauftragte befinden sich bereits auf dem Weg. Ich muß Sie beide in Gewahrsam nehmen lassen. Leisten Sie keinen Widerstand, die Sicherheits|beauftragten sind bewaffnet."
+"Scheii-ße! Die AI!"
+"Ned! Bilden Sie und Brandt sich wirklich ein, die Wahrheit über diesen Planeten verschleiern zu können?"
 !
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Vereinfacht gesagt: Ja.^^Die Voraussetzungen sind günstig, die Chancen stehen gut. Die Existenz der Firma rechtfertigt einen gewissen Einsatz."
+"{FAT }WAS?{NORS} Sie sagen uns ins Gesicht, daß Sie diese Welt bewußt zerstören wollen?^^Ich..."
+"Was ist mit Käpt'n Brandt? Wenn er nicht belegen kann, was auf dem Flug genau passiert ist, ist er seine Lizenz auf Lebenszeit los!"
+"Das ist zutreffend. Kapitän Brandt wird sich anschließend einer Untersuchung stellen. DDT ist dann natürlich gezwungen, ihn zu entlassen.^^Er wird sein Leben als der reichste Arbeitslose der jüngeren Zeitrechnung beschließen müssen.^^Sie beide muß ich leider unter Verschluß halten, bis die Mission beendet ist. Keine Sorge, es wird für alle Bequemlichkeiten gesorgt sein."
+"Aber sicher. Und der Mond besteht aus Emmentaler.^^Joe?"
+"Ja?"
+"Abgang. Hurtig."
+Tom und Joe stürmen aus dem Kraftwerksraum! Das Ziel ihrer Flucht ist eine Schleuse im Krankenbereich, die nach draußen führt.
+Eine automatische Türe.
+"He, wir haben hier etwas zu erledigen, weißt du noch? Du willst doch nicht etwa schon wieder hier raus?"
+Teile des Reaktor|systems.
+Tom berappelt sich ein wenig, als die Gefährten den Reaktorraum betreten.
+"Bis hierhin hätten wir es geschafft. Laßt uns nun versuchen, das Samenkorn zum Reaktor zu bringen. Bin wirklich gespannt, was dann passiert..."
+"Daraus wird wohl nichts. Der Zwergenaufstand ist zu Ende, Driscoll. Legen Sie die Waffen nieder!"
+"Colonel Priver! Lassen Sie mich erklären..."
+Die Secus greifen sofort wieder an.
+"Verdammt.^^Mit einigen dieser Männer habe ich nächtelang Karten gespielt.^^ Verdammt."
+"Gehen wir in den Reaktorraum."
+"Mann, bin ich froh, daß es wenigstens diesmal zu keinem Kampf gekommen ist. Einige von den Männern kannte ich persönlich.^^O.K., laßt uns in den Reaktorraum gehen."
+Colonel Priver und seine Männer verlassen den Raum.
+Die Gefährten wähnen sich schon am Ziel, da sehen sie einen tiefschwarzen Zylinder vor dem Reaktorkern stehen. Nur eine rote Kontrolleuchte und ein offenbar provisorisch angebrachtes Gerät an seiner Seite unterbrechen die polierte Oberfläche.
+"Das ist das eigentliche Gehäuse der AI!"
+"Sehr richtig. Nachdem Sie durch den Angriff auf Colonel Priver und seine Männer Ihre Gewalt|bereitschaft und terroristische Gesinnung unter Beweis gestellt haben, sehe ich mich gezwungen, selbst die weitere mutwillige Zerstörung von Privateigentum zu verhindern."
+"Sehr richtig. Nachdem Colonel Priver und seine Männer in gesetzes|widriger Weise gegen ihre Arbeits|verträge verstoßen haben, sehe ich mich gezwungen, selbst die weitere mutwillige Zerstörung von Privat|eigentum zu verhindern."
+"Dieses... Faß soll uns gefährlich werden? Das kann ich nicht glauben!"
+"Ich weiß nicht, das Ding an der Seite des Zylinders scheint mir ein Hochleistungslaser..."
+{CNTR}{FAHI}Die AI greift an!
+Nun folgt ein Kampf der Party mit der laserbewehrten AI in ihrem unzerstörbaren Gehäuse. Wenn 2 Partymitglieder bewußtlos sind, und bereits Verzweiflung in der Party aufkommt, beginnt das SAMENKORN zu leuchten. Wendet man es nun an, kommt die folgende Endsequenz.^^Die Endsequenz wird noch vertont und debugt!
+Die AI greift sofort wieder an!
+Verzweifelt wirft Tom das glühende Samenkorn in Richtung des Reaktorkerns!
+{INK 001}Das Samenkorn wird zum Zentrum eines gleißenden Leuchtens!
+Ein Zittern geht durch die riesige Struktur der TORONTO. Erst unhörbar, dann immer lauter, beginnt das Metall der Anlage zu schwingen und fahle Leucht|erscheinungen laufen über das Schiff.^^Plötzlich brechen überall aus dem Metall Ranken und Blüten in unzähligen Farben hervor!^^Der Stahl protestiert kreischend, als er von der Kraft der Pflanzen zerrissen und verformt wird!
+Entsetzt flüchten auch diejenigen Besatzungsmitglieder aus dem Schiff, die sich nicht von der Dokumentation überzeugen ließen.^^Als sie ins Freie treten, bietet die TORONTO einen unglaublichen Anblick...
+Die Wirkung des Samenkorns ist einfacher, als von seinen Erschaffern geglaubt, und doch stärker, als es jemand für möglich gehalten hatte:^^Innerhalb von Minuten ist die gigantische Anlage der TORONTO zerstört worden.^^Zerstört? Oder neu erschaffen? Dort, wo vorher die gigantische Manifestation irdischer Technik war, befindet sich jetzt eine Oase inmitten der Wüste.^^Dieses eine Mal hat sich das Irrationale und Magische gegen die Macht der berechnenden Vernunft durchgesetzt.
+"Wir..."^^"Wir leben noch!"^^"{FAT }Wir leben noch!{NORS}"
+Die verwundeten Gefährten wachen bei Toms Schrei auf...
+"Schaut Euch das an! Alles ist von Pflanzen überwuchert!"
+"Ja! Der Metallkoloss ist tot!"
+"Nein. Er lebt nun."
+"Die Energie ist weg, die AI ist hinüber!^^Ich kann immer noch nicht fassen, daß wir überlebt haben.^^Laßt uns versuchen, hier hinaus|zukommen. Wie mag die TORONTO erst von außen aussehen?"
+"{FAT }Wow!{NORS}"^^Das Samenkorn hat seinen Job ziemlich wörtlich aufgefaßt! Welch' ein Anblick!"
+"Ha! Das nenne ich Magie! Phantastisch! Daß ich davon erzählen kann, war allein schon die Gefahren wert!"
+"Es ist wunderschön! Welch' eine Ironie: Ohne die unermeßliche Energie, die dem Metallschiff innewohnte, wäre eine solche Wirkung nie möglich gewesen.^^Die Wunde in Animebonas Seite hat sich geschlossen, der Schmerz ist vorüber."
+"Das große Abenteuer ist vorüber, Freunde. Ich schätze, wir müssen uns nun mit dem Alltag beschäftigen. Dort drüben stehen eine Menge Männer und Frauen, unter ihnen eine, an der mir viel liegt, denen ich klarmachen muß, daß diese Welt nun ihr neues Zuhause und ihre einzige Zukunft ist.^^Laßt uns gehen..."
+{FAHI}{INK 003}{CNTR}T H E E N D
+"Das Korn bringt den Reaktor zur Detonation! Wir sind {FAT }TOT{NORS}!"

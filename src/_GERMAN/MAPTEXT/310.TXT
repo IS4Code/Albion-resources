@@ -1,84 +1,84 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿frei
+Ein Kamin.
+Ein Kerzenleuchter.
+Ein geflochtener Korb.
+Ein Holztisch.
+Ein Hocker.
+Ein Himmelbett. Mit den Totenschädeln könnte man es gar als "Höllenbett" bezeichnen.
+Ein Schreibtisch.
+Ein Stuhl.
+Ein loderndes Feuer brennt in dieser Säule, welches die Fratze in einem schummerigen Licht erscheinen läßt und beim Betrachter einen beklemmenden Zustand erweckt.
+Eine Säule mit einer gräßlichen Fratze.
+Ein Kämpferbett. Wie die meisten Möbel hier, wirkt es etwas abschreckend.
+Ein Faß.
+Eine Art von Teppich, der aus getrockneten Pflanzenhalmen geknüpft ist.
+Ein Glaskrug.
+Vorhänge.
+Eine Kiste.
 Ein Schrank.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Eine Fackel.
+Eine Menge unwichtiger Kleinkram liegt in den Regalen.
+Ein großer hölzerner Zuber.
+Große Holzregale.
+Dieses Bett wird derzeit wohl nicht benutzt.
+Verschiedene Hieb-, Stich- und Schußwaffen, die alle äußerst gefährlich aussehen.
+Ein Waffenregal.
+Ein Schild.
+Ein aufgespießter Schädel. Ein unangenehmer Verwesungsgeruch deutet darauf hin, daß die Greueltat noch nicht allzulange zurückliegt.
+An diesen Strohpuppen werden kriegerische Fähigkeiten trainiert und erprobt.
+Ein mit Stroh umwickelter Holzpfahl. Dient zur Übung von Schlagtechniken.
+Eine Zielplatte für Pfeil und Bogen.
+Ein Tablett mit Nahrungsmitteln.
+Kräuter.
+Eine Truhe.
+Eine Karaffe.
+Ein Kochlöffel.
+Ein Eimer.
+Ein Löffel.
+Ein Löffel und eine Gabel.
+Ein Trinkbecher.
+Zwei Trinkbecher.
+Eßbesteck.
 Ein Teller.
-Ein Beh"lter.
-
-
-
-
-
-
-
-
-
+Ein Behälter.
+Gemüse.
+Gebäck.
+Ein Gewürz.
+Ein Metallteller.
+Ein Tonbehälter.
+Ein großer Glastopf.
+Ein Glasbehälter.
+Eine Holzdose.
+Eine große Glasdose.
 Eine Flasche.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Notizblätter.
+Ein Buch.
+Mehrere Bücher.
+Ein in Leder gebundenes Buch. Es sieht wertvoll aus.
+Schreibutensilien.
+Ein aufgeschlagenes Buch. Auf der linken Seite ist eine technische Skizze zu sehen, die rechte Seite enthält Beschreibungen dazu. Nichts besonderes.
+Ein kurzer Schreibstift.
+Ein schweres Kurzschwert.
+Ein schwerer Dolch.
+Eine Türe.
+Dieser mächtige Küchenherd dient zum Erhitzen von Speisen und Getränken.
+Ein Wandbehang.
+Zerrissene Vorhänge.
+Schäbige Holzbetten.
+Eine verzierte Säule.
+Ein Tierfell.
+Eine Treppe nach oben.
+Eine Treppe nach unten.
+Offene Schubladen mit Kleinkram.
 Ein Becher.
-
-
-
-
-
-
-
-
+Eine feine Schere.
+Eine Phiole.
+Ein Streitkolben.
+Phiolen.
+Ein Vergrößerungsglas.
+Große Tücher.
+Ein Tuch.
+Ein Teppich.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
@@ -127,21 +127,21 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Die Kenget nehmen den Gefährten das Gold ab, mit dem sie für das hohe Wissen bezahlen wollten!^^ Unsanft werden {LEAD}{NAME} und die anderen in eine feuchte Zelle gestoßen.^^Es dauert eine Weile, dann haben sich alle etwas berappelt.
+"Bravo, Khunag! Eine brillante Idee, den Geheimgang zu benutzen!"
+"Zu meiner Zeit wurde der Durchgang noch nicht überwacht!"
+"Was sollen wir nun Deiner Meinung nach tun? Außer, uns auf all' die exklusiven Foltermaßnahmen zu freuen, die uns Deine ehemaligen Glaubens|genossen versprochen haben..."
+"Die höherrangigen Kenget, zu denen ich gehörte, wenn ich daran erinnern darf, sind im Besitz einiger Kenntnisse, die sie vor unüberlegten Maßnahmen ihrer niedrigeren Brüder schützen sollen.^^Dazu gehört auch folgendes..."
+Khunag manipuliert hinter einem Steinbogen längere Zeit herum...
+"Damit müßte unsere Zellentür geöffnet sein. Probiert es aus!"
+"Tatsächlich! Die Tür ist nicht mehr verriegelt!^^Ich frage mich nur, wie wir jetzt noch an die Aufzeichnung des hohen Wissens gelangen sollen."
+"Es muß hier irgendwo einen Zugang zu den Anlagen geben, die dem inneren Bereich vorgelagert sind. Da wir in der Abkürzung erwischt wurden, bleibt uns nichts anderes übrig, als den Weg dort hindurch zu nehmen. Es ist nicht ungefährlich, aber es bleibt uns keine Wahl."
+"Zunächst müssen wir aus diesem Kerkerflur entkommen."
+Als {LEAD}{NAME} die Tür öffnet, kommt Bewegung in die dahinter befindlichen Kenget!^^Erst überrascht, dann wütend stürzen sie sich auf ihre ehemaligen Gefangenen!
+Diese Tür ist mit einem soliden Schloß versehen worden. Sie ist verriegelt.
+Hier lagern einige Flaschen mit Tränken und ein Schlüssel!
+Verborgen unter einigen Lumpen, liegt hier ein wundervolles Schwert!
+Hier lagern getrocknete Lebensmittel.
+"Genau! Hier ist es. Hier kommen wir in die Bereiche Khamulons, die als Verteidigungs|anlagen gebaut wurden. Teilweise dienen sie auch heute noch diesem Zweck.^^Es wird nicht leicht werden. Laßt uns gehen."
+Eine massive Steintreppe.
+Die Tür ist fest verriegelt.

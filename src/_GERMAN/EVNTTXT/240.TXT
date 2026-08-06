@@ -1,0 +1,5 @@
+﻿{BLOK000}"Ich bin eines der neuen Mitglieder im 'Rat der Gerechten'. Die Arbeit ist für mich eine echte Herausforderung. Will hoffen, daß ich alles schaffe."
+"Schön, daß Ihr noch einmal vorbeischaut. Mittlerweile habe ich mich ganz gut eingearbeitet. Es war ja auch wirklich genügend los, in letzter Zeit."{WORDZeit}{WORDRathaus}
+"Ich glaube, Ihr wißt schon, was ich meine, hehe."
+"Das bin ich."
+"Mittlerweile dürftet Ihr es ja schon gut kennen."

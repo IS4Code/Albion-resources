@@ -1,0 +1,12 @@
+﻿{BLOK000}"Meine Funktion ist es, den 'Rat der Gerechten' zu leiten und zu koordinieren."
+"Da seid Ihr ja wieder. Skeima Din, schön, daß Ihr mal wieder vorbei schaut. Momentan gibt es einige Unstimmigkeiten im Rat, die es zu klären gilt, daher habe ich nicht ganz so viel Zeit für Euch."{WORDUnstimmigkeiten} {WORDGerüchte}
+"Wie soll ich Euch das erklären. Unser Ratsmitglied Perron ist der Meinung, daß Gard und Riko nicht zum Wohle des Volkes entscheiden würden. Nun sind Gard und Riko manchmal wirklich etwas steif, aber dennoch ist das ein gewaltiger Vorwurf von Perron, der manchmal etwas zu vorschnell reagiert und handelt.^^Da Perron aber keine Ruhe läßt, haben wir uns alle zusammengesetzt und das Thema angesprochen. Leider ist die Stimmung dadurch nicht besser geworden. Gard und Riko haben nun eine völlig sture Haltung angenommen und behaupten, daß sie mit Perron nicht mehr zusammenarbeiten könnten und möchten. Sie schätzen ihn nicht, dabei ist er wirklich ein grundehrlicher Mensch, und da bin ich mir bei Gard und Riko nicht so sicher. Jedenfalls stehe ich eher auf der Seite von Perron, aber wenn Gard und Riko auf stur schalten, können wir im Rat nicht mehr vernünftig arbeiten. Naja, irgendwie müssen wir das Problem eben in den Griff bekommen."{WORDGard}{WORDRiko}{WORDPerron}{WORDHaltung} {WORDStimmung}
+"Es ist manchmal wirklich schwer, mit ihnen zusammenzuarbeiten."
+"Perron ist sehr offen und ich weiß, woran ich bei ihm bin. Manchmal reagiert er vielleicht ein bißchen übertrieben, aber das ist nicht so schlimm."
+"Vielleicht lenken Riko und Gard ja noch ein, ansonsten muß ich mir da eine Lösung überlegen."
+"Die ist nach der letzten Aussprache natürlich nicht so gut."{WORDAussprache}
+"Leider hat dieses Gespräch wenig brauchbare Resultate erzielt."
+"So heißt unsere Stadt hier."
+"Das bin ich."
+"Naja, ich bin mir noch nicht sicher, ob da etwas dran ist, aber ich habe gehört, daß dort immer mehr schreckliche Wesen aus der Stätte kommen sollen. Geht dort aber besser nicht hin. Es gibt ein Tabu, das es Menschen untersagt, diesen Ort zu betreten, und außerdem ist das Heiligtum im Besitz der Iskai."
+"Das Rathaus ist das schönste Gebäude in Beloveno. Ihr dürft Euch hier ruhig umschauen, es wird Euch niemand hindern."

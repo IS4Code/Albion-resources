@@ -1,0 +1,7 @@
+﻿{BLOK000}"Ich bin, wie viele unseres Clans, Jägerin. Aber da die letzte Fadhiim sehr glücklich verlief und ich ein Kind erwarte, bleibe ich vorerst im Hause. Ich koche sehr gerne, und deshalb helfe ich in der Küche aus."{WORDFadhiim}{WORDKind}{WORDKüche}
+"Dsarii-ma, verehrte Gäste."
+"Dsarii-ma. Ihr möchtet Euch unterhalten?"
+"Dsarii-ma. Wie ich höre, seid Ihr den Mördern von Akiir auf der Spur. Ich wünsche Euch viel Glück bei der Jagd!"
+"Ja, ich arbeite mit Gridri zusammen. Er ist ein meisterhafter Koch, und ich kann bei ihm eine Menge lernen."{WORDGridri}
+"Nun, wie gesagt, Gridri ist der Koch unseres Clans und ein Meister wohl|schmeckender Gerichte."
+"Ja, ich liebe Kinder! Sie halten einen tüchtig auf Trab, aber das nehme ich gerne in Kauf."

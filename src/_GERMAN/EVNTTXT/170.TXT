@@ -1,0 +1,9 @@
+﻿{BLOK000}"Ich bin das Oberhaupt der Druiden Gratogels."{WORDDruiden}{WORDGratogel}
+"Togi Din. Oh, ihr Götter! Ich sehe, ihr habt schwer Verwundete unter Euch! Geht rasch zu Makaio, in der Nähe des Eingangs. Ihr wißt, er wird Eure Wunden gerne behandeln! Danach können wir uns weiter unterhalten."
+"Togi Din, meine hilfreichen Besucher. Ich hoffe, Ihr kommt mit Euren Nachforschungen in Drinno voran."{WORDDrinno}{WORDBero}
+"Ich habe davon gelesen. Eine schreckliche Vorrichtung. Es soll aber Gegenstände geben, mit denen man ein solches Feld neutralisieren kann. In dem Buch war die Rede von einem regenbogenfarbenen Stab."
+"Die meisten Fallensysteme dort unten sind für Angreifer, die sich in großer Eile befinden, gebaut worden. Ich denke, viele von den Flammen lassen sich einfach durch Wasser löschen. Füllt Euch doch ein paar Eimer!"
+"Achtet auf eure Schritte, meine Freunde. Viele der Dämonen sind gefangen, um sie auf unvorsichtige Besucher loszulassen, die einen Mechanismus ausgelöst haben."
+"Das alte Symbol, hmm. Seine Bedeutung ist im Grau der Vorzeit verlorengegangen, ich kann Euch leider nicht viel darüber sagen."
+"Togi Din! Schön, Euch wieder zu sehen. Kann ich noch etwas für Euch tun?"
+"Lebt wohl. Ich denke, wir werden uns bald wiedersehen."

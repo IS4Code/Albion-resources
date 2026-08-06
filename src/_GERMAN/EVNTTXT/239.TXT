@@ -1,0 +1,10 @@
+﻿{BLOK000}"Ich bin eines der neuen Mitglieder im 'Rat der Gerechten'. Die Arbeit ist für mich eine echte Herausforderung. Will hoffen, daß ich alles schaffe."
+"Himmel, ich glaube, er fällt uns auf den Kopf!"{WORDWer?}{WORDRathaus}
+"Na der Himmel...! Ich meine, ich glaube, der Himmel fällt uns auf den Kopf. Mhm, entschuldigt bitte meine Hysterie. Ich bin nur völlig durcheinander, weil so vieles schiefläuft und sich ein Krieg anbahnt."{WORDKrieg}
+"Sagt nur, Ihr wißt darüber nicht Bescheid? Aber das ist doch das Gesprächsthema überhaupt! Ich verstehe überhaupt nicht..."{BLOK010}"Jetzt beruhigt Euch bitte wieder."{BLOK011}"Habt Ihr irgendwelche Neuigkeiten?"
+"ABER ICH BIN DOCH VÖLLIG RUHIG! Oh bitte, ich glaube, ich bin dem Regierungsstreß noch nicht so ganz gewachsen. Vielleicht liegt es auch an den schrecklichen Neuigkeiten, die man so hört."
+"Es wird wohl nicht mehr lange dauern, bis wir hier Krieg haben. Es sind bereits bewaffnete Iskai- und Menschenkrieger am Heiligtum von Srimalinar versammelt. Und dabei ist es gar nicht so, daß die ganze Bevölkerung hinter Kontos Plänen steht. Zumindest kann ich das für Beloveno sagen. Aber das wissen die Iskai leider nicht. Und sie glauben den Menschen auch nicht mehr. Wer weiß, vielleicht würden sie Euch glauben. Zumindest könntet Ihr einige Wahrheiten über Kontos preisgeben..."{WORDHeiligtum}{WORDKontos}
+"Leider wird es wohl auf einen Krieg hinauslaufen, wenn sich nichts mehr ändert. An Eurer Stelle würde ich da mal hinreisen."
+"Ich glaube, die allerwenigsten wissen im Moment, was Kontos wirklich vorhat!"
+"Das bin ich."
+"Mittlerweile dürftet Ihr es ja schon gut kennen."

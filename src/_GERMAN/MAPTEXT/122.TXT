@@ -6,9 +6,9 @@ Sobald {LEAD}{NAME} die Pflanze berührt, beginnt sie in allen Regenbogenfarben 
 {LEAD}{NAME} berührt einen Regenbogenbusch.
 Hier hängt ein strenger Geruch in der Luft.
 "Das ist die Witterung von Raubtieren. Wir sollten vorsichtig sein!"
-Ein wurzelartiges Gebilde. Es ist zwar beweglich, macht aber keinen agressiven Eindruck.
+Ein wurzelartiges Gebilde. Es ist zwar beweglich, macht aber keinen aggressiven Eindruck.
 Leuchtende, bewegliche Fangarme ragen hier aus dem Boden und versuchen, etwaige Beute in Richtung des Schlundes am unteren Ende zu befördern.
-"Ein interessante Kreatur. Beachten Sie den starken Selbstleuchteffekt der Fangarme. Es läßt sich nicht ohne weiteres sagen, ob wir hier ein Exemplar der Flora oder der Fauna dieser Welt vor uns sehen. Auf jeden Fall erscheint mir die Lebensform den Carnivoren zugehörig zu sein."
+"Eine interessante Kreatur. Beachten Sie den starken Selbstleuchteffekt der Fangarme. Es läßt sich nicht ohne weiteres sagen, ob wir hier ein Exemplar der Flora oder der Fauna dieser Welt vor uns sehen. Auf jeden Fall erscheint mir die Lebensform den Carnivoren zugehörig zu sein."
 "Was Ihr, verehrter Rainiir, in wohlklingende Worte gehüllt habt, ist wohl die Empfehlung, uns vor diesen Krallenarmen zu hüten? Eine scharfsinniger Rat, dem ich mich anschließen möchte!"
 Sowie {LEAD}{NAME} den Fangarmen zu nahe kommt, wird {HE  } von ihnen gepackt und in Richtung des Mauls gezogen!
 "Das Leuchten der Fangarme scheint mir kein Zufall zu sein. Ich denke, daß die Kreatur damit vielleicht ihre Beute anlockt. Licht scheint in der Tierwelt hier unten eine große Rolle zu spielen."
@@ -20,20 +20,20 @@ Dies ist ein Regenbogenbusch. Seltsamerweise leuchtet er, obwohl er nicht berüh
 "Seht Euch mal um! Dort, wo wir entlang gelaufen sind, fängt der Boden an zu leuchten! Faszinierend."
 Im Boden klafft ein riesiges, zahnbewehrtes Maul, von dem ein starker Verwesungs|gestank ausgeht.
 "Was für ein entsetzliches Ding! Da sollten wir einen großen Bogen drum machen."
-"Jede Lebensform hat ihre Daseins|berechtigung, Driscoll. Das heißt jedoch nicht, daß wir uns aus Liebe zur Kreatur als Futter bereitstellen sollten, da stimme ich ihnen zu."
+"Jede Lebensform hat ihre Daseins|berechtigung, Driscoll. Das heißt jedoch nicht, daß wir uns aus Liebe zur Kreatur als Futter bereitstellen sollten, da stimme ich Ihnen zu."
 "So etwas habe ich selbst noch nie gesehen. Sieht tödlich aus, in der Tat."
 {LEAD}{NAME} kommt dem Maul zu nahe und gerät in den riesigen Schlund! Die Kraft, mit der die Kiefer zubeißen, ist entsetzlich!
 {LEAD}{NAME} wirft ein Stück Fleisch in den hungrigen Rachen. Sofort zeigt sich eine Wirkung: Offenbar gesättigt, schließt sich das riesige Maul!
 Der Schlund ist fest verschlossen.
-Ein sehr fremdartiger Anblick bietet sich hier den Augen von {LEAD}{NAME} und {HIS } Gefährten:^ Die pulsierenden Wände scheinen zu leben, mehr noch als die schon gewohnten, grünen, pflanzlichen Mauern. Ein intensiver, heu- und kräuterartiger Duft macht sich bemerkbar.
-Alle spüren, daß diese Stelle etwas besonderes ist. Ein schwer beschreib|bares Gefühl bemächtigt sich {LEAD}{NAME} und seiner Gefährten. Alle Sinne scheinen sich zu schärfen und jeder Herzschlag erschüttert den ganzen Körper. Es ist einer der seltenen Momente, in denen bewußt und intensiv zu spüren ist, daß man {FAT }lebt{NORS}.^^ Der Raum wird von seltsamen Leuchterscheinungen durchwandert und am anderen Ende ist eine große transparente Struktur sichtbar.
-{LEAD}{NAME} und die anderen geraten in den Einflußbereich der Leuchterscheinung!^ Alle werden von einem lustvollen Gefühl durchströmt, daß sich bis zu einer fast schmerzhaften Intensität steigert. Eine Mischung aud Wohlbefinden und Beunruhigung entsteht. Bei den Menschen hinterläßt der Kontakt Kopfschmerzen und eine starke Verwirrung.
+Ein sehr fremdartiger Anblick bietet sich hier den Augen von {LEAD}{NAME} und {HIS }en Gefährten:^ Die pulsierenden Wände scheinen zu leben, mehr noch als die schon gewohnten, grünen, pflanzlichen Mauern. Ein intensiver heu- und kräuterartiger Duft macht sich bemerkbar.
+Alle spüren, daß diese Stelle etwas Besonderes ist. Ein schwer beschreib|bares Gefühl bemächtigt sich {LEAD}{NAME} und seiner Gefährten. Alle Sinne scheinen sich zu schärfen und jeder Herzschlag erschüttert den ganzen Körper. Es ist einer der seltenen Momente, in denen bewußt und intensiv zu spüren ist, daß man {FAT }lebt{NORS}.^^ Der Raum wird von seltsamen Leuchterscheinungen durchwandert und am anderen Ende ist eine große transparente Struktur sichtbar.^^ Hinter dem rotierenden Gebilde sind die Überreste eines menschlichen Körpers zu erkennen.
+{LEAD}{NAME} und die anderen geraten in den Einflußbereich der Leuchterscheinung!^ Alle werden von einem lustvollen Gefühl durchströmt, daß sich bis zu einer fast schmerzhaften Intensität steigert. Eine Mischung aus Wohlbefinden und Beunruhigung entsteht. Bei den Menschen hinterläßt der Kontakt Kopfschmerzen und eine starke Verwirrung.
 Die große Struktur hat eine entfernte Ähnlichkeit mit dem Stirnorgan der Iskai. Es strahlt förmlich ein Gefühl der Vitalität und der Lebenskraft aus, ein Gefühl des Schwindels macht sich im Kopf {LEAD}{NAME}s und {HIS } Begleiter breit.
 Hinter dem rotierenden Gebilde sind die Überreste eines menschlichen Körpers zu erkennen.
 Eine Leuchterscheinung. Ihre Nähe löst leichte Schwindelgefühle aus.
 {LEAD}{NAME} berührt vorsichtig die Oberfläche der Struktur...
-"AIIEE!^^ Oh, Scheiße! Mann, das war ein Gefühl, als ob mir jemand die Wirbelsäule angezündet hätte. Oh, Gott, mein Kopf!"
-"Oh, ich spüre etwas! ^Es ist, als ob ich das Trirr eines anderen berühren würde, nur viel stärker!^ Ich... ich bekomme einen verständlichen Kontakt..."
+{INK 001}{LEAD}{NAME} berührt vorsichtig die Oberfläche der Struktur... {INK 002}^^ "AIIEE!"^^ "Oh, Scheiße! Mann, das war ein Gefühl, als ob mir jemand die Wirbelsäule angezündet hätte. Oh, Gott, mein Kopf! Verdammt, das tut WEH!"
+{INK 001}{LEAD}{NAME} berührt vorsichtig die Oberfläche der Struktur...^^ {INK 002} "Oh, ich spüre etwas! ^Es ist, als ob ich das Trirr eines anderen berühren würde, nur viel stärker!^ Ich... ich bekomme einen verständlichen Kontakt..."
 "Das also hat Argim, oder was aus ihm geworden ist, gemeint!"
 An dieser Stelle beeinträchtigen tiefe Risse die Struktur der Wand.
 {LEAD}{NAME} führt einige kräftige Hiebe gegen die schwache Stelle aus. Die Wand zerbröckelt und gibt einen Durchgang frei!
@@ -42,3 +42,27 @@ Eine Leuchterscheinung. Ihre Nähe erzeugt ein angenehmes Kribbeln auf der Haut.
 "Welch ein wunderbares Gefühl! Aber was um alles in der Welt war das?"
 "Es gibt Geschichten über die "Lichter der Göttin", die an besonders gesegneten Stellen der Welt existieren. Sie erhöhen den Entdecker und bringen ihm Glück. Es ist das erste Mal, daß ich ein solches Licht gesehen habe, welch ein Erlebnis!"
 "Eine nette Erzählung, verehrter Drirr. Ich wünschte jedoch, eine Reihe von Meßgeräten zu meiner Verfügung zu haben, um die Erscheinung zu untersuchen..."
+Hier schweben seltsam aussehende Flugtiere in der Luft. Sobald sie ihren Besuch erblicken, kommen sie näher...
+Das schwebende Tier erreicht {LEAD}{NAME}. Seine Neugier ist damit offenbar befriedigt, es stößt einen seltsamen Ton aus, und fliegt anschließend weiter.
+"Diese Tiere sind harmlos, es sind Pflanzenfresser. Sie erzeugen ein Leuchtgas, mit dessen Hilfe sie schweben."
+{CNTR}Die Struktur angreifen?
+"Welch ein Erlebnis! Stellt Euch vor: ..."^^ {INK 001}{LEAD}{NAME} berichtet den anderen über den Kontakt mit Argims Bewußtsein.
+{LEAD}{NAME} untersucht den Haufen alten Gerümpels, kann aber nichts von Wert entdecken.
+Dies könnten die Überreste eines Unglücklichen sein, der in der Höhle den Raubtieren zum Opfer fiel.^^ {LEAD}{NAME} erspäht etwas Interessantes!
+Eine Nadel schießt vor und dringt in {LEAD}{NAME}s tastende Finger! Ein starker Schmerz ist die Folge!
+Eine alte Kiste, die wohl noch aus der Zeit stammt, als dieses Gebäude bewohnt war. Sie hat ein filigranes Schloß.
+{LEAD}{NAME} und die anderen sehen vor sich die Leiche des zweiten Meuchelmörders. Die Raubtiere haben ganze Arbeit geleistet.^^ Zwischen den Überresten funkelt {LEAD}{NAME} jedoch etwas entgegen!
+{INK 001}Drirr:{INK 002}^^ "Der Kenget Kamulos hat einen antiken Zierdolch unseres Volkes bei sich gehabt, ein einzigartiges Stück! ^Endlich eine Spur. Vielleicht weiß der alte Gelehrte Frill etwas damit anzufangen. Wir sollten ihn im Ratsgebäude aufsuchen."
+{INK 001}Rainer:{INK 002}^^ "Der Kerl war im Besitz eines verzierten Iskai-Dolches. Sieht aus wie ein besonderes Stück.^ Endlich eine Spur! Vielleicht weiß der alte Gelehrte Frill etwas damit anzufangen. Wir sollten ihn im Ratsgebäude aufsuchen."
+{INK 001}Tom:{INK 002}^^ "Der Kerl war im Besitz eines verzierten Iskai-Dolches. Sieht aus wie ein besonderes Stück.^ Endlich eine Spur! Vielleicht weiß der alte Gelehrte Frill etwas damit anzufangen. Wir sollten ihn im Ratsgebäude aufsuchen."
+Eine massive Pflanze. Sie fängt mit ihrer Oberfläche Wasser auf, das von der Decke tropft.
+Als {LEAD}{NAME} die Pflanze berührt, geraten die Wurzeln unter ihr in Bewegung. Die Pflanze läuft weg!
+Pflanze berührt.
+Dies scheinen weitere Überreste des Meuchelmörders zu sein.
+Offenbar gehörte dies zur Ausrüstung des Mörders von Akiir.
+Ein seltsames Flugtier.
+{LEAD}{NAME} wirft eine der seltsamen Früchte in den Schlund. Sofort erlahmen die Tentakel und das Maul verschwindet im Boden!
+Alle fühlen sich etwas kräftiger!
+Alle können ihren Körper etwas schneller bewegen!
+Alle spüren, daß ihre Ausdauer gestiegen ist!
+Als die brennende Fackel näher kommt, werden die Bewegungen der Tentakel kurz intensiver. Die Fangarme reagieren offenbar auf die Helligkeit der Fackel!

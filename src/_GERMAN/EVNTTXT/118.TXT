@@ -1,0 +1,9 @@
+﻿{BLOK000}"Ich bin ein Sebai-li des Clans des Rotholzes und Ratsmitglied." {WORDClan}
+"Dsarii-ma."
+"Dsarii-ma, Jäger von Akiirss Mördern."
+"Unser Clan ist vorwiegend mit dem Handel beschäftigt."{WORDHandel}
+"Habt Ihr ein schlechtes Gedächtnis? Ich sagte, unser Clan betreibt Handel."
+"Wir handeln mit Waren innerhalb Nakiridaanis, aber auch mit entfernten Städten wie Beloveno."{WORDBeloveno}{WORDNakiridaani}
+"Schon vergessen? Wir handeln mit Waren innerhalb Nakiridaanis, aber auch mit entfernten Städten wie Beloveno."{WORDBeloveno}{WORDNakiridaani}
+"Das ist eine Hafenstadt, weit im Osten von hier."
+"Wie ich bereits sagte: Das ist eine Hafenstadt, weit im Osten gelegen."

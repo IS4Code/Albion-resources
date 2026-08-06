@@ -1,0 +1,16 @@
+﻿{BLOK000}"Ich bin, wie ich Euch schon sagte, der König von Klouta."
+"Togi Din, Reisende. Ich bin der Stammeskönig von Klouta." {BLOK010}"Togi Din, Tharnos. Wir sind auf der Suche nach einem riesigen Metallschiff, das vom Himmel gekommen ist. Habt Ihr vielleicht von einem solchen Vorfall gehört?"{WORDKlouta}{WORDStammeskönig}
+"Ha, ha, ha, seid Ihr noch ganz bei Sinnen? Verzeiht, aber solch einen Unfug habe ich schon lange nicht mehr gehört. Ihr solltet Euch in die Behandlung der Druiden von Arjano begeben, haha, ha!"{WORDDruiden}{WORDArjano}
+"Togi Din. Ah, die Späße machenden Reisenden wieder!"{WORDSchiffsreise}
+"Ich bin das Oberhaupt des Tuath von Klouta und der wichtigste Mann hier. Was ich entscheide, geschieht!"{WORDTuath}
+"Seid Ihr schwer von Begriff? Ich bin der Anführer der Leute hier!"
+"So, Ihr möchtet Klouta also schon wieder verlassen? Garris, der Fischer, ist ein erfahrener Seemann, der Euch sicher nach Maini bringen würde. Doch er, und somit auch Ihr, braucht dazu meine Erlaubnis. Nun, ich könnte Euch natürlich eine solche Genehmigung erteilen. Es gibt da allerdings einen kleinen Gefallen, den Ihr mir erweisen könntet. Ihr als Fremde seid dazu besser geeignet als jemand aus dieser Gegend, denn es handelt sich um eine Angelegenheit, die große Diskretion erfordert. Ihr müßt mir versprechen, über dieses Gespräch Stillschweigen zu bewahren!^^ Also, es geht um folgendes: Von einem König wird bei uns erwartet, daß er im Vollbesitz seiner geistigen und vor allem seiner körperlichen Kräfte ist, da er sonst dem Tuath Unglück bringt. Nun ist es so, daß meine Frau und ich schon seit geraumer Zeit auf Nachwuchs warten. Wir, und auch die Versammlung waffen|tragender Männer, werden langsam ungeduldig.^^Ich möchte daher ein Amulett von den Druiden in Arjano erwerben, das meine Manneskraft zu unterstützen vermag. Ihr versteht, daß ich diesen Auftrag nur ungern einem meiner Männer übertrage oder selbst nach Arjano reise. Geht zu Bero, dem Druiden und fragt ihn nach einem Stärkungs|amulett. Bringt es mir, und ich werde Euch die Weiterreise gestatten."{WORDDruiden}{WORDArjano}{WORDTuath}
+"Nein, nein, Fremde! Wir haben eine Abmachung! Bringt mir erst das Amulett von Bero, dem Druiden, dann sehen wir weiter!"{WORDDruiden}
+"Ha, ha, wollt Ihr schon wieder Späße mit mir treiben? Ich habe Euch meine Erlaubnis doch längst erteilt! Geht damit zum Beispiel zu Garris, dem Fischer, und Eurer Reise steht nichts mehr im Wege!"
+"Ah, wie erfreulich! Ihr habt das Amulett bekommen! Auch ich werde Wort halten und Euch eine Erlaubnis ausschreiben. Seht ihr, ein gutes Geschäft habt Ihr gemacht, für diesen kleinen Botengang!"
+"Richtig, ein solches Amulett sollt Ihr mir besorgen."
+"Ein vorzügliches Amulett! Ich spüre bereits, wie mich neue Kraft durchströmt!"
+"So lautet mein Name."
+"Nun, wenn das so ist, sollten wir schnellst|möglichst nach Maini, der großen Insel im Osten von hier, weiter|reisen. Könnt Ihr uns sagen, ob wir von hier aus eine solche Schiffsreise unternehmen können, o Tharnos?"
+"Er ist der beste Seefahrer des Dorfes. Ihr findet ihn in seiner Hütte am nordwestlichen Rand von Klouta."
+"So ist der Name des großen Landes östlich von uns."

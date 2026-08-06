@@ -1,0 +1,6 @@
+﻿{BLOK000}"Ich bin Navigatorin zur See, zur Zeit auf Landurlaub." {WORDNavigatorin}{WORDLandurlaub}
+"Dsarii-ma. Kann ich Euch helfen?"
+"Ja, ich habe schon viele Häfen angefahren, bin aber meist zwischen hier und Beloveno unterwegs."{WORDBeloveno}
+"Unser Schiff wird zur Zeit überholt. Das kann eine Weile dauern, und so suche ich etwas Spaß in der Stadt."{WORDSpaß}
+"Recht lustig geht es meist im Haus des Windes zu, ein öffentliches Haus im Hafengebiet. Schaut doch mal 'rein."{WORDHafen}
+"Eine Hafenstadt im Osten, wo viel gehandelt wird."

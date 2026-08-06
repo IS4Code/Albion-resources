@@ -1,0 +1,9 @@
+﻿{BLOK000}"Ich bin eine Kriegerin."{WORDKriegerin}
+"Togi Din, Fremde. Ihr wünscht?"
+"Sagt es nicht! Ich weiß, daß Ihr dies für einen ungewöhnlichen Beruf für eine Frau haltet! Auch wenn es bei uns meist so ist, daß die Frauen Haus, Kinder und Herd hüten, so ist es doch für eine Frau, die den Willen und die Kraft hat, möglich, alle Berufe zu ergreifen. Seht mich an, ich kann es im Kampf mit jedem Mann aufnehmen und ich habe schon so manchen zum Heiler geschickt, der sich überlegen fühlte!" {BLOK010}"Ferina, habt ihr vielleicht Lust, mich im Nahkampf zu trainieren?"
+"Ich mag es nicht besonders, mich zu wiederholen!"
+"Togi Din! Ihr möchtet noch ein wenig trainieren?" {BLOK010}"Ja, ich könnte noch Übung im Nahkampf gebrauchen!"
+{INK 002}"Also gut, {LEAD}{NAME}, gebt mir {PRIC} Gold und ich werde Euch Kampftricks beibringen, von denen Ihr nicht einmal wußtet, daß es sie gibt!"
+Ferina mag großspurig klingen, aber sie versteht ihr Handwerk. Nach einigem Training mit ihr spürt {LEAD}{NAME}, wie sich {HIS }e Nahkampf|fähigkeiten verbessert haben.
+"Schaut wieder vorbei, wenn Ihr was dazulernen wollt, {LEAD}{NAME}.^^Lebt wohl!"
+{LEAD}{NAME} übergibt den Betrag. Das Training mit Ferina beginnt.

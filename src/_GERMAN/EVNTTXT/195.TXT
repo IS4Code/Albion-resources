@@ -1,0 +1,23 @@
+﻿{BLOK000}"Existieren. Leben. Fühlen. Riechen. Hören. Sehen."
+"Ahh, ein komplexer Verstand. So lange her, so lange. Schön. Reden." {BLOK010}"Wer oder was bist Du?"
+"Ich bin... hier. Ich bin nun dieser Ort. Vor langer Zeit... war ich klein, war ich einzeln, allein." {BLOK010}"Du warst einmal jemand anderes?"
+"Ja... Einst war ich... war ich wie Du. Iskai." {BLOK010}{FAT }"Oh, Göttin!{NORS} Du... Ihr wart einmal... {FAT }ARGIM{NORS} !"
+"Ja."
+"Es ist schön, zu reden." {BLOK010}"Was ist damals passiert?" {BLOK011}"Könnt Ihr mir etwas über Euer jetziges Leben erzählen, Argim?" {BLOK012}"Wir sind auf der Suche nach einem Menschen, der hier eingedrungen ist." {BLOK013}"Ich möchte den Kontakt nun abbrechen, Argim".
+"Es ist so lange her, es ist... schwer. Ich bin nicht mehr gewohnt auf diese Art zu... denken, mich zu erinnern. Ich wollte leben. Mein Leben war so kurz. Ich wurde... heiß. So zornig. Alles... floß aus mir heraus. Ich breitete mich aus. Es ist... schwierig zu vermitteln.^^ Aber alles wurde gut. Ich lebe."
+"Ich lebe. Das ist schön. Ich lebe in diesem Ort. Ich bin dieser Ort. Ich lebe in den Tieren hier. Ich erlebe alles, was sie erleben.^^ Ich bin in ihnen. Ich spüre, wie sie leben, wie sie jagen und gejagt werden, wie sie lieben und sterben.^^ Es ist wundervoll. Ich bin glücklich. Ich vermisse nur wenig. Gespräche wie dieses. Und Musik."
+"Ja. Es war ein Mensch hier. Er war ein gutes Raubtier. Doch er war nicht das einzige Raubtier hier. Er ist im Kreislauf aufgegangen. Er lebt nicht mehr." {BLOK010}"Dürfen wir einen Blick auf seine Überreste werfen? Wir haben sie im Raum hinter der Struktur, durch die wir kommunizieren, gesehen."
+"Aber ja, {LEAD}{NAME}. Ich werde nach unserem Kontakt diese Struktur bewegen."
+"Das ist schade. Ich fand diesen Kontakt sehr schön. Kommt bitte wieder.^^ Und ich... ich möchte Euch um etwas bitten. Ich erinnere mich an Musik, herrliche Musik. Ich vermisse Musik. Ich träume oft von Musik aus dem Kristall. Bitte bringt mir einen Musikkristall. Versprecht Ihr mir das?" {BLOK010}"Wir versprechen es Euch, Argim. Wir bringen Euch einen Musikkristall." {BLOK011}"Wir bezweifeln, daß wir ein solches Kleinod besorgen können, Argim."
+"Ich freue mich sehr. Laßt mich Euch Dankbarkeit zeigen.^^ In dem großen Raum stehen zwei Quellen der Farbe. Verbindet sie mit einem Weg des Lichtes.^Erfreut euch anschließend an den Quellen der Kraft. ^^Nun lebt wohl. Ich warte auf Eure Wiederkehr."
+"Das ist sehr traurig. Ich sehne mich sehr nach Musik. Lebt wohl."
+"Es ist schön, zu reden." {BLOK001}"Wir haben Euch einen Musikkristall mitgebracht, Argim!" {BLOK011}"Was ist damals passiert?" {BLOK012}"Könnt Ihr mir etwas über Euer jetziges Leben erzählen, Argim?" {BLOK013}"Ich möchte den Kontakt nun abbrechen, Argim."
+"Ihr seid wieder da! Ich freue mich."
+"Es ist schön, zu reden." {BLOK010}"Was ist damals passiert?" {BLOK011}"Könnt Ihr mir etwas über Euer jetziges Leben erzählen, Argim?" {BLOK012}"Hat Euch der Musikkristall gefallen?" {BLOK013}"Ich möchte den Kontakt nun abbrechen, Argim."
+"Oh, ja! Die Musik hat mir viel Freude bereitet! Ich bin Euch dankbar."
+"Ich habe mich sehr über Euren Besuch gefreut. Möge die Göttin über Eure Wege wachen."
+"Die Musik ist in mein Leben zurückgekehrt! Ich freue mich! Ich bin glücklich. Habt Dank."
+"Wolltet Ihr mir nicht einen Musikkristall geben, {LEAD}{NAME}?"
+"Es ist schön, zu reden." {BLOK010}"Was ist damals passiert?" {BLOK011}"Könnt Ihr mir etwas über Euer jetziges Leben erzählen, Argim?" {BLOK013}"Ich möchte den Kontakt nun abbrechen, Argim".
+{INK 001}{LEAD}{NAME} richtet einen kurzen Satz an die anderen:^^{INK 002} "Das ist unglaublich. Ich habe Kontakt mit dem Bewußtsein, daß einmal Argim war!"^^ {INK 001}Dann konzentriert {HE  } sich wieder auf Argims Gedanken.
+"Welch ein Erlebnis! Stellt euch vor: ..."^^ {INK 001}{LEAD}{NAME} berichtet den anderen von dem Kontakt mit Argims Bewußtsein."

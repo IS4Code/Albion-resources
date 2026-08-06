@@ -1,0 +1,14 @@
+﻿{BLOK000}"Ich habe noch keinen Beruf."
+Das Gesicht des Mädchens ist völlig verquollen. Tränen rinnen aus den Augen, und als sie Euch anspricht, redet sie leise und mit zittriger Stimme:^^"Habt Ihr die böse Frau gesehen, die meine Mutti erstochen haben?^^Zuerst hat sie ihr das ganze Gold geraubt. Als Mami sich dann gewehrt hat, hat sie einfach ein Messer genommen und es ihr in den Rücken gesteckt!"{WORDAufruhr}{WORDBeileid}
+"Das ganze Dorf sucht nach der Frau. Sie sagen alle, daß Nelly zurückgekehrt sei. Nelly ist eine böse Frau. Alle suchen sie nun. Sogar der Orts|vorste|her."{WORDNelly}{WORDSuche}
+"Das ist die böse Frau, die meine Mami erstochen hat, huuuhhhhh."{WORDMami}
+"Sie war immer da, wenn ich sie gebraucht habe. Und nun habe ich niemanden mehr."{WORDEltern}
+"Die Leute sagen, ich kann im Haus des Ortsvorstehers wohnen. Mein Papi lebt schon seit einiger Zeit nicht mehr."
+"Ich soll hier allen Leuten Bescheid sagen, damit alle bei der Suche nach Nelly helfen. Bestimmt tut sie noch mehr Böses! Ohl hat sie vorher bereits gesehen. Sie ist bestimmt noch in der Stadt."{WORDOhl}
+"Ja, der hilft beim Suchen.^^Helft Ihr auch?"{BLOK010}"Ja, sicher."{BLOK011}"Vielleicht später."{BLOK012}"Nein, wohl kaum."
+"Das ist schön. Aber Ihr müßt aufpassen. Sie ist sehr gefährlich!"{WORDGefahr}
+"Bitte helft uns doch."
+"Das ist schade."
+"Ja, sie hat ein scharfes Messer. Und Ohl sagt, daß sie noch andere Waffen hat. Ihr müßt vorsichtig sein."
+"Danke!^^Bitte helft doch mit beim Suchen. Sonst tut Nelly noch mehr Böses."{WORDBöses}{WORDSuche}
+"Nelly muß ins Gefängnis, weil sie böse Dinge tut. Irgendwie ist sie da raus|gekommen."

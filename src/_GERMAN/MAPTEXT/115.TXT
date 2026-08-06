@@ -149,9 +149,12 @@ Paltzhalter für weitere Cut-Map-Events.
 Paltzhalter für weitere Cut-Map-Events.
 Paltzhalter für weitere Cut-Map-Events.
 Paltzhalter für weitere Cut-Map-Events.
-"Dsarii-ma. Dies sind die Schlafräume der Dra. Ihr werdet hier nicht viel interessantes finden."
+"Dsarii-ma. Dies sind die Schlafräume der Dra. Ihr werdet hier nicht viel Interessantes finden."
 "Dsarii-ma, Besucher des Hauses. Wenn Ihr den Toilettenraum sucht: Er befindet sich im Süden des Stockwerks."
 "Dsarii-ma. Ich werde mich bald zur Ruhe begeben. Lernen ermüdet mehr als ein Tag des Laufens in den Wäldern!"
 "Dsarii-ma. Kennt man auch bei der Rasse der Menschen das Gefühl der Aufregung, wenn eine Prüfung des Gelernten kurz bevorsteht? Es ist furchtbar, ich kann an nichts anderes denken und finde keine Ruhe. Hoffentlich schaffe ich den Schritt zum Stri Dji-Kas!"
-"Dsarii-ma. Hier unten sieht man selten Besucher. All' die wichtigen Stri findet ihr oben."
-"Dsarii-ma. Entschuldigt, kurz nach dem Erwachen bin ich nicht sehr geprächig."
+"Dsarii-ma. Hier unten sieht man selten Besucher. All' die wichtigen Stri findet Ihr oben."
+"Dsarii-ma. Entschuldigt, kurz nach dem Erwachen bin ich nicht sehr gesprächig."
+"Dsarii-ma, Jäger von Akiir's Mörder!^^Laßt mich Euch versichern, daß wir nichts mit der Ermordung Akiirs zu tun haben! Kriis, dieser Verräter, ist mit Sicherheit bestochen worden, um Fasiir, unser Oberhaupt, in Verdacht zu bringen!"
+"Dsarii-ma. Ihr seid auf der Jagd nach Akiir's Mörder, nicht wahr? Findet Ihr die Wahrheit heraus, so werdet Ihr feststellen, daß Fasiir und unsere Gilde unschuldig an dem Verbrechen sind!"
+"Dsarii-ma, Jäger des Mörders. Ich kann Euch zu dem ganzen Vorfall leider nicht mehr sagen, als daß wir niemals ein solches Verbrechen begehen würden. Kriis, dieser Verräter, hat gelogen!"

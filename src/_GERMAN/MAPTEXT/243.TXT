@@ -1,190 +1,190 @@
-﻿
-
-
-
-
-
-
-
-
+﻿-frei-
+Äste und Wurzeln.
+Ein geflochtener Korb.
+Ein Glasgefäß für Wasser und andere Getränke.
+Ein Faß.
+Ein prächtiges Tierfell.
+Ein Eimer.
+Eine Tonschale.
+Ein Trinkhorn.
 Ein Teller.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Ein Tonkrug.
+Ein Krug.
+Ein Tischmesser.
+Eine Gabel.
+Ein Löffel.
+Ein Tonbehälter.
+Steine.
+Eine Schale.
+Ein Ackergerät.
+Eine Axt.
+Ein Kistendeckel.
+Eine Holzkiste.
+Eine kunstvoll beschlagene Holzkiste.
+Das stille Örtchen.
+Ein Deckel.
+Ein großer Holzbottich.
+Ein großer Metallkessel.
+Ein Regal.
+In diesem Regal ist allerhand unwichtiges Zeug zu sehen.
+Eine Kommode.
+Ein Besen.
+Ein Bratrost.
+Darauf kann man Fleisch braten.
+Eine Feuerstelle.
+Eine umgefallene Karaffe.
+Ein Kochlöffel.
+Ein dekoratives Wandschwert.
+Ein Holztisch.
+Ein Hocker.
+Ein zusammengeklappter Hocker.
+Ein massiver Eßtisch.
+Ein Baumstumpf.
+Zwei gekreuzte Speere.
+Ein großes Faß mit fremdartigen Getränken.
+Ein Zapfhahn.
+Eine Bettdecke.
+Ein komfortables und hübsch verziertes Bett.
+Dieses Bett ist schlicht aber zweck|mäßig.
+Eine Anrichte.
+Ein Kamin.
+Das Kaminfeuer strahlt eine angenehme Wärme ab.
+Ein kunstvoll angefertigter Topf.
+Getrocknete Kräuter.
+Ein menschlicher Schädel.
+Ein Schmuckschild.
+Ein Metalltopf.
+Ein Zierschwert.
+Eine Türe.
+Ein Kessel.
+Ein Messer.
+Ein Kurzdolch.
+Ein Dolch.
+Ein großer Dolch.
+Ein Kurzschwert.
+Ein Schwert.
+Ein Stich.
+Ein Wurfdolch.
+Eine kleine Axt.
+Eine Axt.
+Ein kleiner Bogen.
+Ein Bogen.
+Ein Pfeil.
+Ein kleiner Lederschild.
+Ein Lederschild.
+Ein Rundschild.
+Ein großer Schild.
+Eine Lederkappe.
+Eine beschlagene Kappe.
+Eine Metallhalbschale.
+Eine Lederweste.
+Eine Lederrüstung.
+Ein beschlagenes Leder.
+Ein Paar Schuhe.
+Ein Paar Stiefel.
+Eine leere Flasche.
+Ein grüner Heiltrank.
+Ein türkisener Heiltrank.
+Ein blauer Heiltrank.
+Ein Schlüssel.
+Ein Seil.
+Ein Ring.
+Eine Fackel.
+Ein flacher Hammer.
+Eine Treppe. Sie führt nach oben.
+Eine Treppe. Sie führt nach unten.
+Eine Theke.
+Eine teppichartige Matte.
+Eine Zimmerpflanze.
+Ein Blumentopf.
+Ein kunstvoll gefertigtes, in den Boden eingelassenes Ornament.
+Ein kunstvoll gefertigtes, in den Boden eingelassenes Ornament, auf dem ein großer Kristall steht.
+Ein Metalltisch.
+Ein Amboß.
+Ein Metallschild.
+Eine verzierte Metalltruhe.
+Eine Esse zum Schmieden.
+Ein Wandbehang.
+Ein leeres Kissen. Es ist ein sehr schönes Exemplar, das man normalerweise für Auslagen verwendet.
+Einige wertvolle Schmuckstücke.
+Ausstelltafeln mit Waffen und Schilder.
+Eine leere Ausstelltafel.
+Eine Feuerschale.
+Eine erloschene Feuerschale.
+Ein loser Hebel.
+Ein Hebel.
+Eine Wasserstelle.
+Ein Hammer.
+Ein kleiner Hammer.
+Ein flacher Hammer.
+Ein Spezialhammer.
 Eine Zange.
-
-
-
+Eine Feile.
+Eine kleine Feile.
+Ein Durchstich.
 Ein Schraubenzieher.
-
-
-
+Ein kleiner Schraubenzieher.
+Eine Metallsäge.
+Ein feines Werkzeug.
 Ein Becher.
 Ein Schraubenschlüssel.
-
-
-
+Eine Schere.
+Eine Schale.
+Eine feine Schere.
 Eine Flasche.
+Mehrere Flaschen.
+Eine Phiole.
+Eine rote Phiole.
+Ein Metallkästchen.
+Ein Metallgebilde.
+Ein Drahtgebilde.
+Eine Metallschale.
+Messingkugeln.
+Eine Schale mit Wasser.
+Eine Schale.
+Ein Mörser.
+Ein Vergrößerungsglas.
+Eine Pinzette.
+Ein schweres Kurzschwert.
+Ein verziertes Schwert.
+Ein Zweistich.
+Ein Langschwert.
+Ein Ausstellungsschrank.
+Regale mit wertvollen Metall|schmiede|arbeiten, Schmuck und Edel|steinen.
+Eine Lore.
+Schienen.
+Ein Prellbock.
+Ein Stuhl.
+Eine alte Diamantenschleifmaschine.
+Eine Ölfackel.
+Ein Hebel.
+Der Hebel läßt sich nicht bewegen. {LEAD}{NAME} zieht mit seiner ganzen Kraft, aber er kann nichts ausr|ich|ten. Es scheint, als wäre der Hebel irgend|wie blockiert.
+Der Hebel wurde schon umgeschaltet. Er sitzt jetzt wieder fest.
+Das ist eine Art von Kabelkanal. Vermutlich befinden sich dahinter irgend|welche Ver|bin|dungen zwischen dem Hebel und den Messern im Boden.
+Das sind sehr scharfe Messer, die aus dem Boden kommen. Sie scheinen alle mit|einan|der ver|bun|den zu sein, denn sie führen ketten|artig durch die Gänge.
+Die Messer geben beim Einschlagen mit dem Hammer zwar nach, aber irgend etwas unter dem Boden scheint sie noch zu blockieren.
+Die Messer sind in den Öffnungen versenkt.
+Mit dem Hammer kann man die Messer bequem zurück|schla|gen und so den Weg frei|machen.
+Ein Raum voller Klingen und Messer. Manche wur|den be|reits ein|geschla|gen.
+Das sind sehr scharfe Messer, die aus dem Boden kommen. Sie sind rein zu|fällig ange|ord|net und schei|nen irgend|welchen Ver|suchen gedient zu haben.
+{CNTR}Auf dem Schild steht:^{INK 006}{FAT }Achtung Lebensgefahr!^Mechanismus wird überlastet, wenn alle drei Hebel gleich|zeitig schal|ten!^Aktuellen Schaltplan beachten!
+Messerheber für Verbindungsraum im Südwesten.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Messerheber für Bergwerk im Nordwesten.
+Der Mechanismus wurde überlastet.
+Diese Messer sehen besonders stabil aus. Zweifellos sind sie einfahrbar, aber man kann nicht er|kennen, wo|durch und auf wel|che Art und Wei|se.
+Ahh, die Messer laufen hier links hinter der Mauer weiter! Scheint eine gan|ze Kette zu sein.
+Das Schloß ist schon ziemlich rostig. Es ist quali|tativ eher min|der|wer|tig.
+Irgend etwas im Schloß ist zerbrochen. Es ist offen.
+Eine Kontaktplatte.
+Zentralhalle.
+Es scheint sich nichts getan zu haben.
+Vermutlich ist die Zauberkraft erschöpft, denn die Gegenstände ver|än|dern sich nicht mehr.
+Der Gegenstand hat sich tatsächlich verändert.
+Ein Amboß.
+Meine Erfindung kann Klingen wandeln,^Ihr müßt nur richtig Handeln!^^Akka.
+8:00-11:00
+Die Tür ist verschlossen und das Schlüsselloch ist durch einen Metall|bol|zen ver|sperrt. Wenn es eine Möglich|keit gibt, diese Türe zu öff|nen, dann ist dazu sicher kein Schlüssel not|wen|dig.
+Ein Eingang in eine Mine.
+Ein Schaltplan.
+Ein Metalltrittschalter.

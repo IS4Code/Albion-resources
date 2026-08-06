@@ -1,0 +1,9 @@
+﻿{BLOK000}"Ich bin Taschenspielerin."
+"Skeima Din.^^Habt Ihr vielleicht Lust auf ein kleines Spiel|chen? Wenn Ihr gut seid, könnt Ihr sehr viel Gold gewinnen. Aber Ihr könnt auch viel ver|lieren, wenn Ihr Pech habt."{WORDSpiel}
+"Es ist ein Würfelspiel:^^Ich würfel zuerst mit 3 Würfeln und dann würfelt Ihr mit drei Würfeln. Wenn Ihr meine Punkt|zahl erreicht oder über|bietet, ge|hört der Ein|satz Euch, an|sonsten ge|hört er mir. Ist das nicht fair?"{WORDEinsatz}
+"Ich steu're 10 Münzen bei und Ihr gebt noch einmal 10 dazu. Wenn Ihr spielen möchtet, dann sagt mir, daß ich würfeln soll."{WORDWürfeln}
+"Ihr habt ja gar nicht genügend Gold!"
+"Diesmal habt Ihr kein Glück gehabt. Ich habe gewonnen. Der Einsatz gehört mir. Danke für das Spiel!"
+"Gratuliere! Ihr habt gewonnen. Der Einsatz gehört Euch."
+"Ihr findet mich hübsch, ist das wahr? Ihr seid aber wirklich schmeichelhaft. Ach, das ist doch gar nicht zu fassen. Und das meint Ihr wirklich ganz ehrlich?^^Ich weiß gar nicht was ich sagen soll. Kommt, ich lade Euch zu einem Freispiel ein."{WORDFreispiel}
+"Ich denke, ein Freispiel genügt!"

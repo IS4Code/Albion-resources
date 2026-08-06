@@ -1,0 +1,6 @@
+﻿{BLOK000}"Ich arbeite hier im Haus und verwalte die Bestände der Erleuchteten."{WORDBestände}{WORDErleuchteten}
+"Ah, Besucher! Seid gegrüßt. Willkommen im Haus der Erleuchteten."
+"Hier im Haus werden zwar keine großen Schätze aufbewahrt, aber ein großer Wissenschatz existiert schon. Es gibt zum Beispiel viele interessante Spruchrollen. Einige davon darf ich verkaufen. Ich bemühe mich, ein wenig Geld in den Haushalt zu bringen, denn um solch' profanen Dinge kümmern sich die Leute hier nur ungern."{WORDSpruchrollen}
+"Nun, soviel ich davon verstehe, erlauben sie auch dem Ungeübten die Ausübung von Magie. Allerdings lösen sich die Spruchrollen nach Gebrauch auf. Jemand, der etwas von der Magie auf den Spruchrollen versteht, kann den Zauber darauf jedoch dauerhaft lernen." {BLOK010}"Zeigt uns doch bitte Euer Angebot an Spruchrollen."
+"Wie alle hier, arbeite ich gerne für diese Leute. Sie sind nur oftmals ein wenig weltfremd, und so versuche ich durch den Verkauf von Spruchrollen unsere Haushaltskasse ein wenig aufzubessern." {WORDSpruchrollen}
+"Grüße, Besucher! Möchtet ihr einen Blick auf unser Angebot an Spruchrollen werfen?" {BLOK010}"Ja, gerne. Zeigt uns Euer Angebot."

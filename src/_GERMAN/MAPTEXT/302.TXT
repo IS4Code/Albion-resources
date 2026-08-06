@@ -3,7 +3,7 @@ Ein Sicherungskasten.
 Ein Sessel.
 Eine Liege.
 Das Steuerpult für den Atomreaktor.
-
+Ein Servicepanel.
 Eine Steuerungskonsole.
 Eine Flugsteuerungskonsole.
 Ein Kontrollpult.
@@ -15,17 +15,17 @@ Zahnputzzeug.
 Eine Anzeige für die Korridor-Überwachung.
 Kontroll-Anzeigen.
 Ein Teil des Reaktors.
-F"sser mit Müll, Wasser, Gift- und Rohstoffen.
+Fässer mit Müll, Wasser, Gift- und Rohstoffen.
 Eine ausgeschaltete Konsole.
 Eine Lampe.
 Ein Teller.
 Ein Glas.
 Ein Becher.
-Ein Beh"lter.
+Ein Behälter.
 Eine Flasche.
 Eine Kanne.
 Eine Dose.
-Ein Gef"ß.
+Ein Gefäß.
 Ein Pfeffer- und ein Salzstreuer.
 Sojasoße.
 Ein Topf.
@@ -35,7 +35,7 @@ Ein Spaten.
 Ein Schraubenschlüssel.
 Ein Schraubenzieher.
 Eine Handkonsole.
-
+Ein PDA. (Personal Digital Assistent)
 Eine Zange.
 Besteck und ein Becher.
 Geschirr.
@@ -44,7 +44,7 @@ Ein Shuttle.
 Container.
 Eine Dusche.
 Ein Fahrzeug.
-
+Bodenmarkierungen.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
@@ -60,41 +60,41 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Auf der Konsole dort ist ein Grundriß dieses Bereiches zu sehen!"
+Eine Konsole mit großer Bildfläche.
+"Am Ende des L-förmigen Abschnitts im Westen sollte ein Zugang zur Service-Ebene sein. Das ist unser Ziel."
+Die Tür ist verschlossen.
+"Die Tür führt sowieso nicht zu unserem Ziel. Gehen wir weiter."
+"Alles ist ruhig. Wir scheinen keinen Alarm ausgelöst zu haben."
+"Wir sind noch immer nicht entdeckt worden. Hoffentlich läuft alles weiter so glatt."
+"Noch immer kein Alarm. Fast zu schön, um wahr zu sein."
+"Mist. Dahinter müßte sich das Servicepanel befinden, das wir suchen."
+"Ah, in der Nische dort steht eine Konsole mit Zugriff auf das Kommu|nikations|netz."
+Eine Codeeingabetastatur.
+Hier liegt ein Spezial-Schraubenzieher.
+Deaktivierte Lasersperren.
+Aktivierte Lasersperren.
+"Wir müssen höllisch vorsichtig mit diesen Lasersperren sein! Die kleinste Berührung ist tödlich!"
+Eine deaktivierte Kommunikations|konsole.
+"O.K. Ich versuche jetzt, Joe's Dokumentation über Albion in das Bordnetz einzuspeisen.^^Danach haben wir natürlich die AI und die Sicherheitskräfte am Hals. Bereitet Euch auf einen harten Kampf vor."
+Tom legt das Speichermedium mit den Videodaten über das Leben auf dieser Welt in die Konsole ein und setzt den von Joe mitgegebenen Chip ein, um die Übertragung möglichst lange vor dem Zugriff der AI zu schützen.
+"Laßt mich mal an das Ding. Ich werde versuchen, die Konsole so zu manipulieren, daß die Übertragung möglichst lange vor dem Zugriff der AI gesperrt bleibt."
+"Danach haben wir natürlich die AI und die Sicherheitskräfte am Hals. Bereitet Euch auf einen harten Kampf vor."
+Joe legt das Speichermedium mit den Videodaten über das Leben auf dieser Welt in die Konsole ein und manipuliert eine Weile daran herum.
+"Das wär's! Die Übertragung unserer Dokumentation auf alle Videoschirme und Lautsprecher der TORONTO beginnt... jetzt!"
+{INK 001}Die Wiedergabe der Aufzeichnung beginnt und Joe's Stimme hallt plötzlich aus allen Lautsprechersystemen:^^{INK 002} "An die Besatzung der gesamten TORONTO-Anlage. Dies sind Aufzeichnungen, die gegen den Willen der Schiffsführung in die Bordsysteme eingespeist werden. Sie dokumentieren, daß auf es diesem Planeten hochentwickeltes Leben und sogar Zivilisationen intelligenter Bewohner gibt.^^Wir, Tom Driscoll, Joe Bernard und eine Gruppe hier Beheimateter, sind in diesem Augenblick in die TORONTO eingedrungen. Alle sind dringend aufgefordert, das Schiff zu verlassen. Wir sind entschlossen, alle notwendigen Maßnahmen zu ergreifen, um der Zerstörung dieser Welt durch die TORONTO zuvorzukommen. Es wird von der Schiffs|führung versucht werden, diese Übertragung vorzeitig zu unterbrechen. Hört und seht nun, wie es auf dieser Welt wirklich aussieht..."^^ {INK 001}Die Dokumentation läuft, bislang unbehelligt, und zeigt Szenen der Natur und der Bewohner Albions.
+Eine Alarmsirene mischt sich unter Joe's Lautsprecherstimme!
+Sicherheitsleute erscheinen!
+{INK 002}"Dort sind die Terroristen!"{INK 001}^^Die Secus greifen an!
+Die Secus greifen sofort wieder an!
+Eine Leiter nach unten.
 Eine Tastatur zur Eingabe von Zahlencodes.
 {TECF}{CNTR}ÖFFNUNGSCODE EINGEBEN:
 {TECF}{CNTR}FALSCHER CODE. ÖFFNUNG VERWEIGERT.
 {TECF}{CNTR}CODE KORREKT. ÖFFNE SERVICEPANEL.
-
-
-
-
-
-
+"Ah, das Servicepanel. Der Code für diesen Zugang lautet 1712."
+"Der Öffnungscode für dieses Segment war... Ach ja, 1712!"
+{TECF}{CNTR}CODE KORREKT. ÖFFNE TÜR.
+Das Schott nach draußen.
+"Nur dieser Abschnitt des Servicedecks liegt noch zwischen uns und dem Fusionskraftwerk.^^Laßt uns gehen."
+"Geschafft! Laßt uns zuerst eine Konsole suchen, bei der wir unsere Dokumentation über Albion einspeisen können; das wird erstmal für einigen Trubel an Bord sorgen."

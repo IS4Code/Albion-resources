@@ -1,10 +1,10 @@
-﻿
-
-
-
-
-
-
-
-
-
+﻿frei
+Diese Steinsäulen sperren einen Teil der Höhle ab. Sie sehen porös aus. Zwischen den Säulen kann man in einen Gang schauen und sieht, daß es dort noch weitergeht.
+Von Fußtritten und Faustschlägen lassen sich diese großen Säulen leider nicht beeindrucken. {LEAD}{NAME}s Hand hat sich davon wesentlich mehr beeindrucken lassen. Sie tut jetzt nämlich weh!
+Diese Säule ist wohl zu hart. Sie läßt sich mit dem Werkzeug kaum bearbeiten.
+Mit diesem Gegenstand kann die Steinsäule nicht wirkungs|voll bear|bei|tet werden.
+"Was für ein Schlag!^^Ich glaube, wir können hier durchkriechen, wenn wir uns etwas dünn machen."
+Die Steinsäule ist eingestürzt. Auf dem Boden ist noch ein großer Stumpf und von der Decke hängt ein stalaktitähnliches Objekt. Alles ist mit Sand und Steinen bedeckt. Aber der Durchgang ist etwas größer geworden. Mit Mühe kann man sich dort vielleicht durchzwängen.
+Eine Truhe.
+Die Truhe ist nicht verschlossen. Wer sie hier wohl abgestellt hat?
+Diese Türe führt zu einem Felsportal.

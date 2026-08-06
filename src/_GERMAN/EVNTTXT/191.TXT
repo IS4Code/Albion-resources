@@ -1,8 +1,8 @@
-﻿
+﻿{BLOK000}"Ich bin der technische Leiter für alle Segmente."{WORDSegmente} {WORDLeiter}
 "Hallo, Driscoll."
-"Wann immer es irgendwo klemmt, kommen die Techniker zu mir und erwarten wundert"tige L"sungen. Na, ich will mich nicht beschweren, dieser Flug ist bisher v"llig reibungslos verlaufen. Die TORONTO ist wirklich ihr Geld wert."{WRNR0182}
-"Nun, wie ich schon sagte: Wann immer es irgendwo klemmt, kommen die Techniker zu mir und erwarten wundert"tige L"sungen. Na, ich will mich nicht beschweren, dieser Flug ist bisher v"llig reibungslos verlaufen. Die TORONTO ist wirklich ihr Geld wert."{WRNR0182}
-"Die TORONTO hat von ihren acht Segmenten ja nur zwei, in denen Lebenserhalt|ungsysteme installiert sind: Dieses hier und das Segment, in dem die Secus, die Krankenstation und der Kraftwerkskern untergebracht wurden. Die übrigen Segmente beinhalten Maschinen und Material zum Rohstoffabbau und müssen w"hrend des Fluges nicht gewartet werden, machen mir also auch keinen Trouble."{WRNR0201}
-"Nicht verstanden? Also nochmal: Die TORONTO hat von ihren acht Segmenten zwei, in denen Lebenserhalt|ungsysteme installiert sind: Dieses hier und das Segment, in dem die Secus, die Krankenstation und der Kraftwerkskern untergebracht wurden. Die übrigen Segmente enthalten Maschinen und Material zum Rohstoffabbau und müssen w"hrend des Fluges nicht gewartet werden."{WRNR0201}
-{BLOK000}Was kannst Du sagen über... {BLOK001}Schau Dir mal dies hier an... {BLOK004}Bis demn"chst! {BLOK005}Was ist Dein augenblicklicher Job?
-
+"Wann immer es irgendwo klemmt, kommen die Techniker zu mir und erwarten wundertätige Lösungen. Na, ich will mich nicht beschweren, dieser Flug ist bisher völlig reibungslos verlaufen. Die TORONTO ist wirklich ihr Geld wert."{WORDTORONTO}
+"Nun, wie ich schon sagte: Wann immer es irgendwo klemmt, kommen die Techniker zu mir und erwarten wundertätige Lösungen. Na, ich will mich nicht beschweren, dieser Flug ist bisher völlig reibungslos verlaufen. Die TORONTO ist wirklich ihr Geld wert."{WORDTORONTO}
+"Die TORONTO hat von ihren acht Segmenten ja nur zwei, in denen Lebenserhalt|ungsysteme installiert sind: Dieses hier und das Segment, in dem die Secus, die Krankenstation und der Kraftwerkskern untergebracht wurden. Die übrigen Segmente beinhalten Maschinen und Material zum Rohstoffabbau und müssen während des Fluges nicht gewartet werden, machen mir also auch keinen Trouble."{WORDSecus}
+"Nicht verstanden? Also nochmal: Die TORONTO hat von ihren acht Segmenten zwei, in denen Lebenserhalt|ungsysteme installiert sind: Dieses hier und das Segment, in dem die Secus, die Krankenstation und der Kraftwerkskern untergebracht wurden. Die übrigen Segmente enthalten Maschinen und Material zum Rohstoffabbau und müssen während des Fluges nicht gewartet werden."{WORDSecus}
+{BLOK000}Was kannst Du sagen über... {BLOK001}Schau Dir mal dies hier an... {BLOK004}Bis demnächst! {BLOK005}Was ist Dein augenblicklicher Job?
+"Bis irgendwann mal!"

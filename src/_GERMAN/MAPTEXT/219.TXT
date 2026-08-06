@@ -24,7 +24,7 @@ Solche Steppenbäume gedeihen auf sehr trockenem Boden.
 Eine Steppenblume.
 Ein Turmfelsen.
 Kies.
-Eine Felsbrücke.
+Eine große Felsbrücke.
 Platzhalter für weitere Events.
 Platzhalter für weitere Events.
 Platzhalter für weitere Events.
@@ -56,3 +56,19 @@ Platzhalter für weitere Events.
 Platzhalter für weitere Events.
 Platzhalter für weitere Events.
 Platzhalter für weitere Events.
+Ssssss...
+Ein versteckter Eingang.
+"Ich denke, es ist zu risikoreich, sich jetzt in die Nähe der Toronto zu begeben. Laßt uns lieber umkehren."
+Tom berappelt sich mühsam ein wenig.
+"So weit, so gut. Laßt uns versuchen, uns im Schutze der Nacht an die Toronto anzuschleichen."
+Den Arbeitsmaschinen und Tagebauanlagen ausweichend, gelangen die Gefährten tatsächlich unbemerkt an die Toronto heran. Tom gelingt es, einen Seiteneinstieg zu öffnen, ohne Alarm auszulösen. Er schließt das Schott, sobald alle im Innern sind.
+Als die Gefährten aus der Höhle kommen, stößt Tom einen Schrei aus:
+"Seht doch! Dort hinten fliegt ein Shuttle der Toronto!"
+Das Shuttle kommt näher, offenbar sind die Gefährten bemerkt worden.^^Es setzt zur Landung an!
+{INK 001}An seine Begleiter gewandt, sagt Tom:^^{INK 002} "Kommt! Nur keine Angst! Es wird ein wenig eng dort drinnen, aber es ist ja nur für eine kurze Zeit."
+Tom steigt ein und bemerkt, daß kein Pilot in der Kanzel sitzt. Das Shuttle ist ferngesteuert.
+Plötzlich schlägt die Tür des Shuttles zu! Tom ist eingesperrt und das Shuttle startet, ohne die Gefährten!^^ Schon während des Startes flutet ein Gas die Kabine des Fahrzeugs. Tom sinkt betäubt zu Boden! Er bekommt nichts von dem folgenden Flug mit...
+Tom und Joe gelingt es, sich vor den Suchtrupps der Toronto zu verbergen. Tom's Ziel ist die Höhle, die unter den Bergen nach Umajo Kenta führt. Im Morgengrauen erreichen die beiden die Stelle.
+Begeistert fällt man sich in die Arme. Nach der ersten Wiedersehens|freude stellt Tom Joe vor und berichtet in groben Zügen, was passiert ist.
+"Etwas derartiges hatten wir schon befürchtet, Tom. Ich habe bereits Rücksprache mit den anderen Dji Cantos gehalten, bevor ich wieder hierher zurückkam.^^Laßt uns zur Insel zurückkehren, um zu beraten, was zu tun ist!"
+Was Tom kaum zu hoffen gewagt hatte, erfüllt sich:^^Die Gefährten haben auf seine Rückkehr gewartet!

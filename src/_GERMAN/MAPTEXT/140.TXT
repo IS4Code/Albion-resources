@@ -1,7 +1,7 @@
 ﻿-frei-
 Äste und Wurzeln.
 Ein geflochtener Korb.
-Ein Glasgefäß für Wein und andere Getränke.
+Ein Glasgefäß für Wasser und andere Getränke.
 Ein Faß.
 Ein prächtiges Tierfell.
 Ein Eimer.
@@ -41,7 +41,7 @@ Ein zusammengeklappter Hocker.
 Ein massiver Eßtisch.
 Ein Baumstumpf.
 Zwei gekreuzte Speere.
-Ein großes Faß mit Wasser, Bier oder Wein.
+Ein großes Faß mit fremdartigen Getränken.
 Ein Zapfhahn.
 Eine Bettdecke.
 Ein komfortables und hübsch verziertes Bett.
@@ -126,4 +126,11 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 "Togi Din, Reisende. Ihr habt selbstverständlich Zutritt zu Arjano."
 "Togi Din. Ich hoffe, Ihr findet Bero noch lebend. Ich muß zugeben, daß ICH mich nicht in den verbotenen Teil hinabwagen würde!"
-"Togi Din, o Retter Beros. Euere Tat wird Stoff für viele Geschichten abgeben!"
+"Togi Din, o Retter Beros. Eure Tat wird Stoff für viele Geschichten abgeben!"
+"Togi Din, Reisende. Dies ist Arjano, die Wächterin des Wissen. Willkommen im Zentrum der Druiden Gratogels.^^Jeder kann sehen, daß Ihr von weit her kommt. Darf ich fragen, was Euer Anliegen hier ist?"
+"Togi Din. Wir kommen, um den Druiden Bero um ein spezielles Amulett zu bitten."
+"Ihr wollt zu Bero, hm?^^Ich bitte Euch um ein wenig Geduld. Ich bin gleich wieder bei Euch."
+"Dies ist also das Zentrum der Druiden. Dem Zugang nach unten nach zu urteilen ist die Anlage unterirdisch erbaut worden.^^Ich war schon schockiert, als ich die kleine Hütte sah."
+"Ah, da ist der Mensch im weißen Gewand wieder!"
+"Ich habe mit Nemos, unserem Oberhaupt, Rücksprache gehalten, Fremde.^^Er ist bereit, eine Unterredung mit Euch zu führen."
+{LEAD}{NAME} und {HIS } Begleiter folgen dem Druiden unter die Erde...

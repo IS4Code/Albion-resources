@@ -1,0 +1,31 @@
+﻿{BLOK000}"Meine größtes Talent, für das ich der Göttin sehr dankbar bin, liegt in der Heilkunst."{WORDHeilung}
+
+"Unsere Magie ist tief mit dieser Welt verwurzelt. Ihr könnt das zum Beispiel daran erkennen, daß wir für fast alle unsere Sprüche eine bestimmte Sorte von Samenkörnern benutzen, um unsere geistigen Kräfte darin zu konzentrieren. Wir sind ferner Stolz auf die Vielseitigkeit unserer Kunst. Wir kennen Magie zum Erschaffen und Zerstören, zum Verletzen und zum Heilen.^ Als Kennzeichen unserer Gilde tragen wir eingefärbte Muster im Fell. Der Anführer der Dji-Kas ist Sebai-fre Fasiir. Er verbringt seine gesamte Zeit im Gildenhaus."{WORDSamenkorn}{WORDHeilung}{WORDFasiir}{WORDGildenhaus}
+"Sebai-fre Fasiir leitet unsere Gilde schon seit über 120 Jahren. Er ist eine lebende Legende unter den Dji-Kas und ein hervorragender Lehrmeister, der seinen Schülern schnell neue Kenntnisse beibringt, sowie sie dafür bereit sind."
+"Nicht das Samenkorn selbst entfaltet die magische Wirkung, aber der Geist des Dji-Kas verwendet sie, um darin seinen Fokus zu finden. Die Körner stammen von einer seltenen Pflanze namens Triifalai, das bedeutet "Trii der Göttin". Die Samen werden übrigens auch im Gildenhaus verkauft."{WORDTrii} {WORDGöttin}
+"Ich bin dankbar für meine Begabung, auch wenn sie oft dazu führt, daß ich kaum noch ein Privatleben habe. Manchmal komme ich tagelang nicht aus dem Gildenhaus heraus." {WORDGildenhaus}
+"Dies ist der Name einer Pflanze, deren Samenkörner von uns sehr begehrt sind.{WORDSamenkorn}"
+
+"Oh, die Baumeister. Das Verhältnis unserer Gilden ist nicht immer ungetrübt. Manche ihrer besten Talente fühlen sich von unserer vielseitigen Kunst angezogen und wechseln über zu unserer Gilde. Aber wer soll es Ihnen übelnehmen? Wer hat schon Lust, all seine Kräfte in den Bau von Behausungen zu stecken, und seinen sie noch so schön? Vielleicht sind die Dji-Fadh auch erzürnt, daß wir so in der Lage waren, unser Gildenhaus ohne ihre Hilfe zu erschaffen."{WORDGilde}
+"Das Gildenhaus hat schon seit langer Zeit seinen Platz im südwestlichen Viertel Jirinaars. Es ist von den Dji-Kas selbst erbaut worden und beherbergt viele Gildenmitglieder und alle Dra."{WORDDra}
+"Der Mord an Akiir ist niemals von uns in Auftrag gegeben worden! Kriis hat gelogen, weiß die Göttin, warum er das getan hat! Wir haben keinen Grund, um so etwas Schändliches zu tun!"{WORDGöttin}
+"Laßt mich Euch noch einmal persönlich dafür danken, daß Ihr uns von dem Mordverdacht an Akiir befreit habt!"
+"Akiir ist das Oberhaupt der Former, einer Gilde, die meist ein etwas gespanntes Verhältnis zu der unseren hat. Besonders Akiir geht keinem Konflikt aus dem Wege."{WORDFormer}
+"Ihr kennt Fasiir nicht so gut wie wir, die wir täglich mit ihm umgehen. Er würde niemals ein solches Verbrechen in Auftrag geben! Aber ich schätze, Ihr werdet den Worten eines Mitglieds seiner Gilde wenig Glauben schenken."
+"Ich bin Euch aufrichtig dankbar, daß Ihr seinen Namen reingewaschen habt."
+"Über einen Mord weiß ich nichts."
+dummy
+dummy
+dummy
+dummy
+dummy
+"Dsarii-ma, Reisende. Sucht Ihr Heilung für Eure Wunden?" {BLOK010}"Ja, Rejira, wir bedürfen Eurer Hilfe." {BLOK011}"Eigentlich nicht, aber wir hätten gerne Medizin." {BLOK012}"Nein, vielen Dank. Wir wollten nur mal hereinschauen."
+"Wie schön! Es passiert nur allzu selten, daß mich die Leute nur für ein Gespräch aufzusuchen." {BLOK010}"Ja, laßt uns ein Schwätzchen führen." {BLOK011}"Wir müssen leider weiter, Rejira."
+{INK 001}{LEAD}{NAME} berichtet ein wenig von den Begebenheiten der bisherigen Reise. Rejira ist hocherfreut:^^ {INK 002}"Vielen Dank. Ich liebe aufregende Gespräche!"
+"Wie schade. Viel Glück auf Euren Reisen."
+"Oh, wartet. Ich glaube, ich habe hier noch ein kleines Geschenk für Euch."
+SOON COMING: HEALER-SCREEN!
+SOON COMING: MERCHANT-SCREEN!
+"Es war eine nette Abwechslung, mit Euch gesprochen zu haben. Paßt auf Euch auf!"
+"Wie kann ich Euch helfen?" {BLOK010}"Es geht um Verletzungen, Rejira." {BLOK011}"Einer von uns ist krank, glaube ich." {BLOK012}"Wir haben Ärger mit einem verfluchten Gegenstand."
+"Ich kann Euch Tränke zur Stärkung des Körpers und des Geistes anbieten."

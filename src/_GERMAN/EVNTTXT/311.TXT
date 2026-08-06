@@ -1,0 +1,7 @@
+﻿!
+"Dies hier ist Khamulon, das Heim der Kenget Kamulos. Nur Besuchern mit einem sehr triftigen Grund ist es zu empfehlen, Khamulon zu betreten, Fremde.^^Habt Ihr einen solchen Grund?" {BLOK010}"Verzeiht die Störung, wir müssen weiter."
+"Dies hier ist Khamulon, das Heim der Kenget Kamulos. Nur Besuchern mit einem sehr triftigen Grund ist es zu empfehlen, Khamulon zu betreten, Fremde.^^Habt Ihr einen solchen Grund?" {BLOK010}"Verzeiht die Störung, wir müssen weiter." {BLOK011}"Wir sind gekommen, um mit den Kenget Kamulos über ein Geschäft zu verhandeln."
+"Ich hoffe für Euch, daß Euer Anliegen wichtig und ehrenvoll ist.^^Folgt mir nun in das Innere von Khamulon. Ich werde Euch Rhain, dem Gefährten des Cuains, unseres Oberhauptes, vorstellen."
+"Lebt wohl."
+"{FAT }Ihr!{NORS}^^Ich bin mir nicht sicher, welche Rolle Ihr wirklich bei den Vorfällen gespielt habt, die Khamulons Gemeinschaft erschüttert haben.^^Es ist der Befehl ergangen, Euch nicht zu töten, aber Ihr seid in Khamulon nicht mehr willkommen.^^Geht nun."
+"Muß ich noch deutlicher werden?^^Verschwindet!"

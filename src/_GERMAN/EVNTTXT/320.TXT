@@ -1,0 +1,6 @@
+﻿{BLOK000}"Nun, hier bei den Dji Cantos, oder Erleuchteten, habe ich eine ähnliche Funktion wie im Rat von Jirinaar: Ich beschäftige mich mit Geschichte."{WORDErleuchteten}
+"Dsarii-ma, Freunde. Nun, wie gefällt Euch unser kleiner Versammlungsort?" {BLOK010}"Eine wunderschöne Anlage, und die Natur um das Haus herum ist paradiesisch. Ihr seid sicher oft hier."
+"Das ist wahr. Ich bin in Jirinaar ja bekannt für meine häufigen Reisen. Nun seht Ihr, wohin sie meist führen. Die Transporthöhlen ermöglichen es uns allen, uns häufig hier zum Gedankenaustausch zu versammeln."{WORDTransporthöhlen}
+"Dsarii-ma. Schön, wieder mit Euch zu reden."
+"Dsarii-ma, Freunde. Ich hoffe, Ihr kommt gut voran bei der Beschaffung der Kenntnisse zur Erschaffung des Samenkorns."{WORDSamenkorn}
+"Dsarii-ma, Freunde. Wie ich sehe, seid Ihr noch nicht zum Zentrum der Gefahr, der Toronto, aufgebrochen. Ich wünsche Euch Glück und den Segen Animebonas für das Unternehmen."{WORDAnimebona}{WORDTORONTO}

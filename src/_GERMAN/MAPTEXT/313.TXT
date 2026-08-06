@@ -1,84 +1,84 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿frei
+Ein Kamin.
+Ein Kerzenleuchter.
+Ein geflochtener Korb.
+Ein Holztisch.
+Ein Hocker.
+Ein Himmelbett. Mit den Totenschädeln könnte man es gar als "Höllenbett" bezeichnen.
+Ein Schreibtisch.
+Ein Stuhl.
+Ein loderndes Feuer brennt in dieser Säule, welches die Fratze in einem schummerigen Licht erscheinen läßt und beim Betrachter einen beklemmenden Zustand erweckt.
+Eine Säule mit einer gräßlichen Fratze.
+Ein Kämpferbett. Wie die meisten Möbel hier, wirkt es etwas abschreckend.
+Ein Faß.
+Eine Art von Teppich, der aus getrockneten Pflanzenhalmen geknüpft ist.
+Ein Glaskrug.
+Vorhänge.
+Eine Kiste.
 Ein Schrank.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Eine Fackel.
+Eine Menge unverständ|licher Manus|kripte liegen in den Regalen.
+Ein großer hölzerner Zuber.
+Große Holzregale.
+Dieses Bett wird derzeit wohl nicht benutzt.
+Verschiedene Hieb-, Stich- und Schußwaffen, die alle äußerst gefährlich aussehen.
+Ein Waffenregal.
+Ein Schild.
+Ein aufgespießter Schädel. Ein unangenehmer Verwesungsgeruch deutet darauf hin, daß die Greueltat noch nicht allzulange zurückliegt.
+An diesen Strohpuppen werden kriegerische Fähigkeiten trainiert und erprobt.
+Ein mit Stroh umwickelter Holzpfahl. Dient zur Übung von Schlagtechniken.
+Eine Zielplatte für Pfeil und Bogen.
+Ein Tablett mit Nahrungsmitteln.
+Kräuter.
+Eine Truhe.
+Eine Karaffe.
+Ein Kochlöffel.
+Ein Eimer.
+Ein Löffel.
+Ein Löffel und eine Gabel.
+Ein Trinkbecher.
+Zwei Trinkbecher.
+Eßbesteck.
 Ein Teller.
-Ein Beh"lter.
-
-
-
-
-
-
-
-
-
+Ein Behälter.
+Gemüse.
+Gebäck.
+Ein Gewürz.
+Ein Metallteller.
+Ein Tonbehälter.
+Ein großer Glastopf.
+Ein Glasbehälter.
+Eine Holzdose.
+Eine große Glasdose.
 Eine Flasche.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Notizblätter.
+Ein Buch.
+Mehrere Bücher.
+Ein in Leder gebundenes Buch. Es sieht wertvoll aus.
+Schreibutensilien.
+Ein aufgeschlagenes Buch. Auf der linken Seite ist eine technische Skizze zu sehen, die rechte Seite enthält Beschreibungen dazu.
+Ein kurzer Schreibstift.
+Ein schweres Kurzschwert.
+Ein schwerer Dolch.
+Eine Türe.
+Dieser mächtige Küchenherd dient zum Erhitzen von Speisen und Getränken.
+Ein Wandbehang.
+Zerrissene Vorhänge.
+Schäbige Holzbetten.
+Eine verzierte Säule.
+Ein Tierfell.
+Eine Treppe nach oben.
+Eine Treppe nach unten.
+Offene Schubladen mit Kleinkram.
 Ein Becher.
-
-
-
-
-
-
-
-
+Eine feine Schere.
+Eine Phiole.
+Ein Streitkolben.
+Phiolen.
+Ein Vergrößerungsglas.
+Große Tücher.
+Ein Tuch.
+Ein Teppich.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
@@ -127,48 +127,48 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Wir sollten unbedingt versuchen, Khunag auf die Beine zu bekommen.^^Er kann uns hier unten bestimmt wertvolle Tips geben."
+{LEAD}{NAME} schaut sich um.^^ Dies hier ist offensichtlich ein bewohnter Teil Khamulons.
+"Wir haben Glück! Der Durchbruch hat uns direkt in den inneren Bereich geführt! Wir sind in der Nähe des Haupteingangs.^^Alle Kenget hier werden uns ebenfalls sofort angreifen.^^Ich werde Euch an manchen Türen Weghinweise geben, die uns direkt zum Aufbe|wahrungsort des höchsten Wissens führen. Dort finden wir die gewünschte Schriftrolle."
+Die Tür ist verschlossen.
+"Dies ist der Haupteingang zum inneren Bereich. Die Tür ist gewöhnlich verriegelt."
+Hier liegen Spruchrollen der Kenget Kamulos!
+{LEAD}{NAME} sieht eine Kristallaxt!
+Hier werden einige wirkungsvolle Tränke aufbewahrt!
+{LEAD}{NAME} sieht hier ein Amulett liegen!
+"Nicht hier entlang! Diese Tür führt nicht zum Raum, wo das hohe Wissen aufbewahrt wird."
+"Diese Tür ist richtig! Sie führt in Richtung des Raums des hohen Wissens!"
+"Von dieser Halle aus führen alle Türen zu Bibliotheksräumen des inneren Bereiches. Gewöhnlich sind sie gut besucht.^^Macht Euch auf Angriffe gefaßt!"
+"Dies ist der Vorraum zum Aufbewahrungsort des hohen Wissens.^^ Wir haben es bald geschafft!"
+"Diese Tür führt zu den Schlafräumen und ist für uns uninteressant. Ich glaube, wir müssen nach Norden!"
+Die Tür ist verriegelt.
+In dem Raum hinter der Tür sitzen Arthor, der Zeremonien|meister, Rhain, der Tom und die Gefährten in Khamulon empfangen hat, sowie der Cuain persönlich!^^Entgeistert starren die Kenget die Eindring|linge an.
+"Was fällt Euch ein! Kein Unreiner darf diesen Raum betreten. Und kein Unreiner wird diesen Raum jemals lebend verlassen!"
+"Rhain, mäßige Dich. Gerade das Unreine darf Deinen Geist niemals aus dem Lot bringen."
+"Erklärt Euch. Was wollt Ihr hier? Und wie habt Ihr hierhin gefunden?"
+"Wir wurden nicht vorgelassen und mußten uns deshalb unseren Weg bahnen. Es ist wichtig. Sehr wichtig sogar. Letzten Endes geht es auch um Eure Existenz und um die Eures Ordens!"
+"Wer bist Du, Todgeweihter, daß Du hier das Wort führst? Und wer sind Deine Gefährten."
+"Ich heiße Tom Driscoll und komme wie Du vom Planeten Erde. Nur bin ich dort geboren und mit einem Himmelsschiff hier hergekommen. Meine Gefährten sind Freunde, die mich bei meinem schweren Auftrag begleiten. Denn die Existenz Albions ist in Gefahr. Das Schiff, mit dem ich kam, hat bereits damit begonnen, Euren Planeten zu zerstören, hoher Cuain. Um es aufzuhalten und selbst zu zerstören benötigen wir Euer Hohes Wissen."
+"Du bist ein Narr, Driscoll. Denn Dein Herz ist aufrichtig, ohne den Haß zu spüren, der Dich begleitet."
+"Man hat Dich betrogen, Erdling! Das Hohe Wissen ist hier. Aber Du wirst es nicht bekommen. Die Kenget werden sich dem letzten Gefecht, das lange prophezeit war, nicht entziehen. Die Zeit scheint gekommen, in der Kamulos zur letzten Schlacht ruft."
+"Ich weiß nicht, welchen Haß Ihr meint, hoher Cuain. Aber ich weiß auch, daß niemand wirklich weiß, wer am Ende an der letzten Schlacht teilnimmt. Und es mag sein, hieß es, daß auch Menschen, die im Leben unrein waren, auf der richtigen Seite stehen werden, wenn sie nur einen reinen Tod gestorben sind. Aber niemand weiß, welcher von den Lebenden auf der richtigen Seite stehen wird, wenn es zur letzten Schlacht kommt. Allen meinen Gefährten geht es um die Rettung Albions. Wir stehen auf Eurer Seite!"
+"Nehmen wir einmal an, Du hättest Recht, Erdling. Nehmen wir an, in der letzten Schlacht kämpfen neben den Kenget die aufrechten Menschen mit, die zwar ihre Angst nicht beherrschen, aber für die richtige Sache einstehen, was immer dies sei. Nehmen wir an, um die letzte Schlacht zu gewinnen, muß ich Dir unser Hohes Wissen aushändigen. Würde ich das tun? Ich würde es tun, natürlich!"
+"Nehmen wir weiter an, in der letzten Schlacht stünden sogar die Iskai, sogar weibliche Iskai und Menschen auf unserer Seite. Wer steht dann auf der anderen? Das können ja nicht mehr viele sein! Vielleicht der Verräter Khunag? Ja, Khunag bestimmt, oder?"
+"Aber wen sehe ich denn da auf Deiner Seite? Glaubst Du, ich habe Dich nicht erkannt? Dein Gesicht konntest du verändern, Verräter! Die Lüge in Deinen Augen blieb! Deine Feigheit, die diesen Raum vergiftet, blieb!"
+"Man hat Dich betrogen, Driscoll! Du kannst nicht der Bote der letzten Schlacht sein! Und wenn, dann stehst Du nicht auf unserer Seite! Warum, Khunag, kamst Du hierher?"
+"Was mich treibt, Cairnain? Das weißt Du sehr gut! Wer war es denn, der mich damals dazu angestiftet hat, den Cuain zu erschlagen. Ich höre heute noch Deine Stimme: 'Dies ist Dein Auftrag Khunag. Die Aufgabe, die Dir Kamulos auferlegt hat. Geh' und erschlage Argagh!' Die Rache ist es, die mich treibt. Und nur deshalb bin ich hier. Ich war Dein Werkzeug auf dem Weg zur Macht. Die armen Wichte hier sind meines. Du wirst sie nicht schonen, wenn Du mich besiegst, aber ich. Und ich werde ihnen sogar das Hohe Wissen überlassen. Und deshalb werden sie auch jetzt noch für mich kämpfen, wo sie sich von mir betrogen wissen. Heute ist der Tag, an dem Du Deinen Gott sehen wirst."
+"Was soll das heißen, Khunag?"
+"Tut mir leid, Tom!"
+"Deine Lügenmärchen interessieren niemanden hier, Khunag. Dein Frevel ist untilgbar. Genauso wie Deine weitere Schande, Dich diesem Kampf auch wieder nur mit Hilfstruppen zu stellen. Mir war früher schon verdächtig, mit welchen Mitteln Du kämpftest, immer bemüht, Deine Gegner möglichst schmerzhaft sterben zu lassen. Nein, Dir glaubt hier keiner mehr. Aber es stimmt, ich werde Deine Gehilfen nicht verschonen, wenn ich Dich besiegt habe. Daran kannst Du sehen, Driscoll, wer hier ehrlich ist. Es tut mir fast leid um Ddich, aber Du stehst auf der falschen Seite."
+"Wir haben mit Euren dreckigen Intrigen nichts zu tun!"
+"Du bist wirklich ein Narr, Driscoll. Und Du wirst einer bleiben. Denn Du bist und bleibst ein Instrument meiner Rache. Ich habe Argagh geliebt. Doch Cairnain trieb uns mit seinen Intrigen auseinander. Und zum Schluß gelang es ihm, meinen guten Willen gegen den Cuain zu richten. Er hat mich für seine Zwecke benutzt, wie ich jetzt Euch benutzen werde, den alten Cuain zu rächen. Ich wußte immer, daß hier in diesem Raum der Verräter Cairnain auf uns wartet. Doch wie gesagt: Du sollst dein Hohes Wissen kriegen. Wenn Du mir noch einmal hilfst."
+"Vielleicht macht er das ja wirklich, Driscoll. Vielleicht gibt er Dir ja hinterher das Hohe Wissen. Sicher wäre ich mir da an Deiner Stelle aber nicht. Doch was sollen solche müßigen Gespräche. Kein ehrenhaftes Wort wird jemals über Khunags Lippen kommen. Er hat mein Heiligtum genug verunreinigt mit seinen stinkenden Behauptungen. Es wird Zeit für ihn, zu sterben.^^{FAT }Macht Euch bereit, ins Antlitz Kamulos zu sehen!"
+Die Flucht ist erfolglos: Cairnain, der Cuain, nun die Verkörperung des Gottes Kamulos, greift sofort wieder an!
+Für einen Moment herrscht Stille nach dem furchtbaren Kampf.^^Fassungslos sehen die beiden übrig|gebliebenen Kenget Kamulos auf die Leiche ihres Cuains, den der Gott Kamulos wieder verlassen hat.
+"Ihr... ihr habt den Cuain in seiner Verkörperung Kamulos besiegt!"
+"Dafür werdet ihr den dreijährigen Tod sterben, Unreine!"
+"Haltet ein, Arthor! Ihr habt gesehen, zu was sie als Kämpfer fähig sind! Sicher können sie besiegt werden, wenn wir die anderen rufen, aber bedenkt die Szene hier!^^{FAT }Kamulos{NORS} ist im offenen Kampf durch Unreine besiegt worden! Der Schock wird für die anderen noch größer sein als für uns."
+"Bei meiner Ehre, Ihr habt recht!"
+"Wir werden den Tod des Cuains auf eine ehrenvolle Weise erklären."
+"Unreine, Ihr seid im Besitz dessen, wofür Ihr hierher gekommen seid. Ihr werdet trotz Eurer unfaßlichen Tat am Leben bleiben. Ich werde Euch über einen Fluchtgang aus Kamulos geleiten.^^Kommt nie wieder an diesen Ort zurück.^^Schweigt über diesen Vorfall.^^Ansonsten gibt es keinen Ort auf dieser Welt, an dem wir Euch nicht finden werden."
+Rhain geleitet {LEAD}{NAME} und die Gefährten schweigend durch schmale Gänge bis zu einem Durchbruch in der Flanke des Gebirges. Ohne ein weiteres Wort läßt er alle durch die Öffnung treten und verschließt die getarnte Tür.

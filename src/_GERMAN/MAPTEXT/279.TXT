@@ -114,39 +114,43 @@ Ein kurzer Schreibstift.
 Eine Sitzbank.
 Auch dieses Sitzmöbel ist förmlich aus dem Boden gewachsen und stellt eine bequeme Sitzbank dar.
 Ein Holzpfahl. An seinem oberen Ende befindet sich ein Schild.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
 Hinter dieser Türe liegen die Wohnbereiche des Hauses. Die Türe ist fest verschlossen und verriegelt. Alle Dienste der Magiergilde werden in diesem Raum und nicht in den Privatgemächern angeboten.
+"Willkommen in der Magier-Gilde. Hoffentlich tut Ihr magische Fähigkeiten nicht als Aberglaube und Spinnerei ab, denn sonst seid Ihr hier völlig falsch. Wenn Ihr aber an übernatürliche Fähigkeiten glaubt und Leute sucht, mit denen Ihr darüber reden könnt, oder wenn Ihr Euch weiterbilden möchtet, seid Ihr hier genau richtig. Auch wenn Ihr anderweitig Probleme mit Magie habt oder nur Erfahrungen austauschen wollt, dann setzt Euch einfach und wir können in entspannter Atmosphäre plaudern."
+"Wendet Euch an Jikraii, wenn Ihr neue magische Talente erlernen möchtet. Sie ist die Leiterin unserer Gilde und außerdem die beste Gelehrte weit und breit. Jikraii ist nicht immer für Euch da. Wenn Ihr sie nicht antrefft, kommt einfach später noch einmal."
+"Schaut mal, ich habe einen Zauberspruch gelernt, der meinen Brustschmuck blau färbt. Ihr glaubt mir nicht? Na schön, er war vorher schon blau, aber nicht so kräftig."
+"Jikraii ist zum Heiligtum gegangen, um unsere Kämpfer mit Magie zu unterstützen. Wenn ich mich nicht täusche, seid Ihr an dieser Sache nicht ganz unschuldig."

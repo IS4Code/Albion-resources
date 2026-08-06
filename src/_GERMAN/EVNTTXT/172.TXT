@@ -1,0 +1,5 @@
+﻿{BLOK000}"Ich gelte als talentierter Lehrer der magischen Künste." {WORDMagie}
+"Togi Din, meine Kinder. Sucht Ihr Euer Wissen der Druidenmagie zu mehren?" {BLOK010}"Das ist wahr, Ouktero. Bitte lehrt uns neue Kenntnisse."
+"Ich habe mein halbes Leben damit verbracht, das Wissen unserer Vorfahren zu vermitteln, einen ungleichen Kampf gegen das Vergessen zu führen." {WORDVergessen}
+"Nun, ich habe fleißige und wißbegierige Schüler hier, aber es sind immer weniger geworden, so daß unsere Anzahl weit unter der früherer Jahrhunderte liegt. Es gibt in jüngster Zeit allerdings Hoffnung. Die Ernten der letzten Jahre waren so gut, daß wieder mehr junge Leute Interesse an Dingen finden, die, zumindest scheinbar, nichts mit dem täglichen Überleben zu tun haben."
+"Die Magie, auch Kunst der Götter genannt, wurzelt im Wissen, das unsere Vorfahren von Danu erhielten und das wir zu bewahren und zu mehren versuchen. Diejenigen, die mit dem Talent für die Künste gesegnet sind, bedürfen langjähriger Anleitung und viel Übung, bis sie Meister ihres Faches werden." {WORDDanu}

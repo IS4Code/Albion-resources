@@ -1,0 +1,12 @@
+﻿!
+"Dsarii-ma, Freunde. Wie ist die Situation zwischen Mahinos und Iskai?" {BLOK010}"Leider noch sehr gespannt, Frill."
+"Dann will ich hoffen, daß Ihr etwas gegen eine Zuspitzung unternehmen könnt. Laßt uns mit der Abreise noch etwas warten. Viel Glück!"
+"Dsarii-ma, Freunde. Wie ist die Situation zwischen Mahinos und Iskai?" {BLOK010}"Gute Nachricht, die Bewohner von Kounos haben mittlerweile eingesehen, daß sie von Kontos mißbraucht wurden. Es ist ihnen nicht leicht gefallen, als sie sich eingestehen mußten, daß sie sich wie kleine Kinder an der Nase haben herumführen lassen. Aber schließlich hatten sie gar keine andere Wahl. Jedenfalls glauben wir, daß sich nun wieder ein gesundes Verhältnis zwischen den Stämmen aufbauen wird."
+"Das ist fürwahr eine gute Nachricht! Dann steht einer kleinen Schiffsreise ja nichts mehr im Weg. Wollen wir sofort aufbrechen?" {BLOK010}"Ja, warum nicht!" {BLOK011}"Nein, wir möchten noch ein wenig warten."
+"Gut. Dann folgt mir bitte."
+"In Ordnung. Ich werde hier auf Euch warten. Bis bald."
+"Dsarii-ma! Nun, seid Ihr bereit für eine kleine Seereise?" {BLOK010}"Ja, warum nicht!" {BLOK011}"Nein, wir möchten noch ein wenig warten."
+"Tom, gestatte mir ein Wort, bevor Du weiterreist.^^Nach all den Aufregungen möchten Mellthas und ich ein wenig Zeit für uns haben. Ich möchte Dich und die anderen bitten, die Reise vorerst ohne uns fortzusetzen.^^Wenn wir ein wenig ausgespannt haben, sind wir aber gerne für weitere Abenteuer bereit!^^Du kannst uns im Gasthaus von Srimalinar finden, wenn Du uns suchst."
+"Ich verstehe. Nun, ich wünsche Dir und Mellthas eine schöne Zeit in Srimalinar. Wir sehen uns sicher bald wieder.^^Alles Gute!"
+{INK 001}Sira und Mellthas verabschieden sich, die anderen folgen Frill zu einem kleinen Schiff, das sofort in See sticht...
+"Alles Gute und bis bald, Tom!^^Ach ja, wenn Du noch etwas von unserer Ausrüstung benötigen solltest, hier, bitte..."^^{INK 001}Sira und Mellthas bieten ihre Ausrüstungs|gegenstände an.

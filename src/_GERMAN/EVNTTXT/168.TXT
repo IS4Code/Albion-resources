@@ -1,0 +1,3 @@
+﻿{BLOK000}"Ich verkaufe gutes Essen aller Art."{WORDEssen}
+"Togi Din, Reisende! Bei mir bekommt Ihr alle Köstlichkeiten Aballons zu günstigen Preisen." {BLOK010}"Ja, wir könnten etwas Reiseproviant gebrauchen."
+"Ihr wißt, Aballon ist berühmt für seine Früchte, aber auch unsere Schweine werden bei gutem Futter fett und wohlschmeckend."

@@ -1,0 +1,6 @@
+﻿{BLOK000}"Ich bin einer der beiden neuen Mitglieder im 'Rat der Gerechten'."
+"Skeima Din, wir kennen uns nicht, newe? Mein Name ist Arrek und ich bin der Nachfolger von Riko. Wir haben uns bisher noch nicht kennengelernt, aber ich habe schon viel von Euch gehört."
+"Ich hoffe mal, daß ich mich nicht wie Riko prostituieren werde."
+"Das ist mein Name."
+Das ist das andere neue Ratsmitglied.
+"Wahrscheinlich kennt Ihr Euch hier besser aus als ich."

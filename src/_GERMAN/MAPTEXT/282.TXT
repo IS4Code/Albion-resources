@@ -114,38 +114,41 @@ Ein kurzer Schreibstift.
 Eine Sitzbank.
 Auch dieses Sitzmöbel ist förmlich aus dem Boden gewachsen und stellt eine bequeme Sitzbank dar.
 Ein Holzpfahl. An seinem oberen Ende befindet sich ein Schild.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
-Paltzhalter für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Platzhalter 2 für weitere Cut-Map-Events.
+Hinter diesem Tor ruht ein ewiges Bewußtsein. Man sollte ihm seine Ruhe gewähren.
+Als Tom und die Gefährten den heiligen Keller betreten, sind sie zunächst einmal verwundert. Jeder hatte sich diesen Ort in seiner Phantasie anders vorgestellt: Ob düster, kalt, oder eindrucksvoll; Das hier hatte jedenfalls keiner erwartet.^^Dieser Keller gleicht beinahe schon einem Wohnhaus. Er ist gemütlich eingerichtet und bietet alles, was man zum Leben benötigt. Lediglich die Versammlungshalle und die merkwürdigen Türen in den Wänden lassen darauf schließen, das dies ein besonderer Ort ist.^^Es herrscht eine eigenartige Stimmung hier. Tom meint sogar, leise Glockenklänge wahrzunehmen. Auf jeden Fall hat der Ort auf alle Gefährten eine besänftigende Ausstrahlung. {LEAD}{NAME} und die anderen möchten auf keinen Fall die ewige Ruhe der anwesenden Iskai-Seelen stören.
+"Kontos ist nicht hier. Ich habe schon überall gesucht. Ich weiß nicht, wo er steckt."

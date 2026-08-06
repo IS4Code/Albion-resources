@@ -1,0 +1,9 @@
+﻿!
+"Hallo! Schön, daß Ihr vorbeischaut!" {BLOK010}"Nun, wie gefällt Dir das Leben hier, außerhalb der Toronto?" {BLOK011}"Wie geht es voran mit der Dokumentation?" {BLOK012}"Wir müssen weiter. Mach's gut, Joe!"
+"Phantastisch! Der Planet übertrifft ja all' Deine Beschreibungen, Tom. Ich war nie ein Naturliebhaber, aber was hier geboten wird, ist ja unglaublich. Hofstedt und die Leutchen hier bemühen sich auch sehr um mich, ich halte es hier gut noch 'n Weilchen aus!"
+"Sehr gut. Es gibt so viele neue Eindrücke festzuhalten! Das Schwierigste wird, das Material so zusammenzufassen, daß unsere Leute an Bord der Toronto schon nach ein paar Minuten begreifen, was dies hier in Wirklichkeit für eine umwerfend schöne Welt ist. Wir müssen damit rechnen, daß die AI versucht, die Übertragung zu stören."
+"Tschüß dann. Tom, laß' nichts anbrennen!"
+"Hallo! Jetzt wird es ernst, was? Hört zu: Ich weiß, daß ich kein großer Kämpfer bin, aber ich kann in der Toronto auf dem Weg zum Reaktor sicher so einige hilfreiche Dinge tun. Wenn ihr wollt, bin ich dabei!" {BLOK010}"Du hast recht, Joe. Deine Kenntnisse können uns vielleicht helfen. Komm mit!" {BLOK011}"Wir überlegen uns noch die optimale Zusammenstellung der Gruppe. Warte bitte noch."
+"Alles klar!"^^{INK 001}Joe tritt in die Reihe der Gefährten.
+"Wie Du meinst. Ist vielleicht besser für meine Gesundheit.^^Macht's gut."
+{INK 001}Die Gruppe ist bereits komplett!{INK 002}^^"He, ihr seid ja schon eine ganze Menge Leute. Da ist für mich kein Platz mehr."

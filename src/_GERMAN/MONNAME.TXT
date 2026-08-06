@@ -1,4 +1,61 @@
-﻿Hand of Fate
-Uwes Tier
-Viech
-Grosses Vieh
+﻿Die Furcht 1
+
+
+
+
+
+
+
+
+Magier 1
+
+Tier 1
+Die Furcht 2
+Die Furcht 3
+
+
+
+
+
+
+
+
+
+
+
+
+Magier 2
+Magier 3
+
+ Tier 2
+Tier 3
+Sturm 1
+Sturm 2
+Sturm 3
+Pest 1
+Pest 2
+Pest 3
+Tiermeister
+
+
+
+Sandtaucher 1
+Sandtaucher 2
+Sandtaucher 3
+Serviceroboter
+AI-Körper 1
+AI-Körper 2
+Bandit 1
+Bandit 2
+Bandit 3
+
+
+
+
+
+
+
+
+AI-Körper 2
+
+

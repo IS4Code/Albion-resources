@@ -1,0 +1,17 @@
+﻿!
+"Was wünscht Du, Tom?" {BLOK010}"Erzähle mir doch bitte etwas über Deine Vergangenheit, Khunag."
+"Meiner Fähigkeiten als Magier wegen ist es schwer zu leugnen, daß ich einst Mitglied der Kenget Kamulos war. Meine Wege trennten sich von denen meiner ehemaligen Brüder, mehr brauchst Du darüber nicht zu wissen.^^ Ich ziehe es vor, mein Leben für mich zu behalten."{WORDKenget Kamulos}{WORDMagie}
+"Es ist sinnlos, mehr über meine Vergangenheit erfahren zu wollen, als ich preiszugeben bereit bin, Tom.^^ Ich war einst Mitglied der Kenget Kamulos und verfüge daher über Kenntnisse ihrer Magie. Meine Wege trennten sich von denen meiner ehemaligen Brüder, mehr brauchst Du darüber nicht zu wissen.^^ Ich ziehe es wie gesagt vor, mein Leben für mich zu behalten." {WORDKenget Kamulos}{WORDMagie}
+"Kenget Kamulos bedeutet Krieger des Gottes Kamulos. Es handelt sich um einen Orden, der sich vor vielen hundert Jahren von den Druiden Arjanos abgespalten hat. Sie sind wahre Krieger und leben nach den Prinzipien von Heldenmut und Kriegerehre. Dort war lange Jahre meine Heimat, bis... mein Leben ein andere Richtung nahm."
+"Ich bin zum Kämpfen geboren, aber gefangen in einem schwachen Körper. Meine Magie dient ausschließ|lich dem Ziel, Ehre im Kampf zu gewinnen. Ströme von Energie durch meinen Geist fließen zu spüren, ist ein herrliches Gefühl.^^Leider bin ich nicht mehr in der Lage, mit den Meistern der Oqulo an der Vervoll|kommnung meiner Fähigkeiten zu arbeiten. Ich bin auf Spruchrollen zur Weiterbildung angewiesen."{WORDOqulo}{WORDSpruchrollen}
+"Spruchrollen sind besondere magische Schriftstücke. Sie lösen sich nach ihrem Gebrauch zu Staub auf.^^Dem Unbegabten erlauben sie das Zaubern eines Spruches.^^Ist jedoch jemand mit der Art der Magie vertraut, die eine solche Spruchrolle beinhaltet, kann derjenige unter Umständen den darauf nieder|geschrie|benen Zauber dauerhaft lernen."
+"Was wünscht Du, Tom?" {BLOK010}"Ich denke noch immer manchmal daran, daß Du unser aller Leben auf's Spiel gesetzt hast, Khunag."
+"Wir haben bereits darüber gesprochen.^^Ihr wart das Werkzeug meiner Rache, das stimmt. Die Behauptung, daß Cairnain uns das hohe Wissen freiwillig gegeben hätte, halte ich jedoch für eine Lüge.^^Ich habe Euch in vielen Kämpfen zur Seite gestanden, und betrachte die Erfüllung meiner Vergeltung als Gegenleistung dafür. Außerdem wünsche ich nicht mehr, über dieses Thema zu diskutieren."
+"Ich halte, wie gesagt, eine weitere Diskussion über dieses Thema für überflüssig.^^Wenn Du es wünscht, werde ich gehen."
+"Wenn Du es wünscht, werde ich mich von Euch trennen. Wir werden uns nicht mehr wiedersehen. Bist Du sicher, auf mich verzichten zu können?"
+"Wie Du meinst. Ich wünsche euch allen viel Glück bei Eurem Unternehmen.^^Lebt wohl."
+"Das dachte ich mir."
+{BLOK000}Was kannst Du sagen über... {BLOK004}Danke für das Gespräch.
+{BLOK000}Was kannst Du sagen über... {BLOK003}Ich möchte, daß Du uns verläßt. {BLOK004}Danke für das Gespräch.
+"Es gibt zwei Arten der Krieger bei den Kenget Kamulos. Die Kledo Kamulos, sie kämpfen mit Waffen und ihrem Körper. Und die Oqulo Kamulos, die Kämpfer des Geistes, sie beherrschen die Magie."
+"Was wünscht Du, Tom?" {BLOK010}"Ich glaube, Du hast recht, Khunag, wir müssen die Initiative ergreifen. Führe uns zu dem Geheimgang."
