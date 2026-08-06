@@ -1,0 +1,59 @@
+﻿Peur 1
+
+
+
+
+
+
+
+
+Magicien 1
+
+Animal 1
+Peur 2
+Peur 3
+
+
+
+
+
+
+
+
+
+
+
+
+Magicien 2
+Magicien 3
+
+Animal 2
+Animal 3
+Tempete 1
+Tempete 2
+Tempete 3
+Peste 1
+Peste 2
+Peste 3
+Dompteur
+
+
+
+Plongeur 1
+Plongeur 2
+Plongeur 3
+Technorobot
+Androide 1
+Androide 2
+Brigand 1
+Brigand 2
+Brigand 3
+
+
+
+
+
+
+
+
+Androide 2
