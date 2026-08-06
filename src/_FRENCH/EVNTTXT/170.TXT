@@ -1,0 +1,9 @@
+﻿{BLOK000}"Je suis le chef des druides de Gratogel."{WORDDruides}{WORDGratogel}
+"Togi Din. Oh, vous les Dieux! Je vois, vous avez des grands blessés parmi vous! Allez vite chez Makaio, près de l'entrée. Vous savez, il soignera volontiers vos blessures! Nous reprendrons notre conversation plus tard."
+"Togi Din, mes serviables visiteurs. J'espère que vos recherches dans Drinno avancent bien."{WORDDrinno}{WORDBero}
+"J'ai lu des choses là-dessus. Une terrible installation. Mais il doit y avoir des objets avec lesquels on peut neutraliser un tel champ. Dans le livre, il était question d'une baguette aux couleurs de l'arc-en-ciel."
+"La plupart des pièges là en bas ont été construits pour les agresseurs qui sont très pressés. Je pense que beaucoup de ces flammes peuvent être tout simplement éteintes avec de l'eau. Remplissez donc quelques seaux!"
+"Faites attention où vous mettez les pieds, mes amis. Beaucoup de démons sont enfermés pour être lâchés sur des visiteurs imprudents qui déclenchent un mécanisme."
+"Le vieux symbole, mmh. Sa signification s'est perdue dans les temps les plus reculés, je ne peux malheureusement pas vous en dire beaucoup plus là-dessus."
+"Togi Din! Content de vous revoir. Puis-je encore quelque chose pour vous?"
+"Adieu. Je pense que nous allons nous revoir bientôt."

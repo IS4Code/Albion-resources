@@ -1,0 +1,23 @@
+﻿{BLOK000}"Exister. Vivre. Ressentir. Sentir. Entendre. Voir."
+"Aah, un intellect complexe. Ca fait si longtemps, si longtemps. Bien. Parler." {BLOK010}"Qui ou quoi es-tu?"
+"Je suis... ici. Je suis maintenant cet endroit. Il y a longtemps... j'étais petit, j'étais individuel, tout seul." {BLOK010}"Tu étais quelqu'un d'autre autrefois?"
+"Oui... Jadis, j'étais... j'étais comme toi. Iskai." {BLOK010}{FAT }"Oh, Déesse!{NORS} Tu... Vous étiez autrefois... {FAT }ARGIM{NORS} !"
+"Oui."
+"Ca fait du bien de parler." {BLOK010}"Que s'est-il passé à l'époque?" {BLOK011}"Pouvez-vous me raconter quelque chose sur votre vie actuelle, Argim?" {BLOK012}"Nous sommes à la recherche d'un homme qui est entré ici." {BLOK013}"Je voudrais maintenant interrompre le contact, Argim".
+"Ca fait si longtemps, c'est... difficile. Je n'ai plus l'habitude de... penser de cette manière, de me souvenir. Je voulais vivre. Ma vie était si courte. Je devenais... chaud. Si furieux. Tout... s'écoulait de moi. Je m'étendais. C'est... difficile à expliquer.^^ Mais tout s'est arrangé. Je vis."
+"Je vis. C'est bien. Je vis en ce lieu. Je suis ce lieu. Je vis dans ces animaux ici. Je vis tout ce qu'ils vivent.^^ Je suis en eux. Je ressens comment ils vivent, comment ils chassent et sont chassés, comment ils aiment et meurent.^^ C'est merveilleux. Je suis heureux. Je ne regrette que peu de choses. Des entretiens comme celui-ci. Et la musique."
+"Oui. Un homme était ici. C'était un bon fauve. Mais ce n'était pas le seul fauve ici. Il s'est fondu dans le cycle. Il ne vit plus." {BLOK010}"Pouvons-nous jeter un oeil sur ses restes? Nous les avons aperçu dans la pièce derrière la structure à travers laquelle nous communiquons."
+"Mais bien sûr, {LEAD}{NAME}. Je vais déplacer cette structure, une fois notre contact terminé."
+"C'est dommage. Ce contact me plaisait tant. Revenez donc, s'il vous plaît.^^ Et je... je voudrais vous demander quelque chose. Je me souviens de la musique, une musique merveilleuse. La musique me manque. Je rêve souvent de la musique du cristal. Rapportez-moi un cristal musical, s'il vous plaît. Vous me le promettez?" {BLOK010}"Nous vous le promettons, Argim. Nous vous rapporterons un cristal musical." {BLOK011}"Nous doutons de pouvoir vous procurer un tel joyau, Argim."
+"Je suis très content. Laissez-moi vous exprimer ma gratitude.^^ Dans la grande pièce, il y a deux sources de couleur. Reliez les avec un chemin de lumière.^Puis jouissez des sources de la force. ^^Alors, adieu. J'attends votre retour."
+"C'est vraiment dommage. Je regrette tant la musique. Adieu."
+"Ca fait du bien de parler." {BLOK001}"Nous vous avons rapporté un cristal musical, Argim!" {BLOK011}"Que s'est-il passé à l'époque?" {BLOK012}"Pouvez-vous me raconter quelque chose sur votre vie actuelle, Argim?" {BLOK013}"Je voudrais maintenant interrompre le contact, Argim."
+"Vous êtes revenus! Je suis ravi."
+"Ca fait du bien de parler." {BLOK010}"Que s'est-il passé à l'époque?" {BLOK011}"Pouvez-vous me raconter quelque chose sur votre vie actuelle, Argim?" {BLOK012}"Le cristal musical vous a plu?" {BLOK013}"Je voudrais maintenant interrompre le contact, Argim."
+"Oh, oui! La musique m'a fait beaucoup plaisir! Je vous suis reconnaissant."
+"Votre visite m'a fait beaucoup plaisir. Que la Déesse veille sur vos chemins."
+"La musique est revenue dans ma vie! Quelle joie! Je suis comblé. Soyez-en remerciés."
+"Vous ne vouliez pas me donner un cristal musical, {LEAD}{NAME}?"
+"Ca fait du bien de parler." {BLOK010}"Que s'est-il passé à l'époque?" {BLOK011}"Pouvez-vous me raconter quelque chose sur votre vie actuelle, Argim?" {BLOK013}"Je voudrais maintenant interrompre le contact, Argim".
+{INK 001}{LEAD}{NAME} adresse un petit mot aux autres:^^{INK 002} "C'est incroyable. Je suis en contact avec la conscience qui était autrefois Argim!"^^ {INK 001}Puis {HE  } se concentre de nouveau sur les pensées d'Argim.
+"Quel événement! Imaginez-vous: ..."^^ {INK 001}{LEAD}{NAME} raconte aux autres le contact avec la conscience d'Argim."

@@ -1,0 +1,16 @@
+﻿{BLOK000}Porte de la ville {BLOK001}Auberge La mine {BLOK002}Guilde des Mineurs/Chambres{BLOK003}Guilde des Faiseurs d'Appareils {BLOK004}Guilde des Armuriers {BLOK005}Guilde des Tailleurs de Diamants {BLOK006}Bazar {BLOK007}Denrées
+Ouvert entre 8 et 20 heures.
+Une porte.
+{CNTR}Sur le panneau à côté de la porte est écrit:^{INK 006}Bienvenue à l'auberge La mine.
+Fermé entre 3 et 18 heures.
+Une porte fermée.
+Un monument.
+Ces pots appartiennent à l'épicier.
+On accède de nouveau au désert par cette porte de la ville.
+"Je vais tout les jours à la prison à pied pour relayer mon collègue de garde. Voulez-vous m'accompagner? Mais je vous préviens, le chemin est long et fatiguant"
+"Ah!^^Ainsi on se revoit. Espèce de fous, ahah. Mais je veux être fair-play, je vous donne une partie des informations promises. La première information: je n'étais pas tout à fait honnête quand je vous ai parlé de mon passé. Mais je voudrais quand même me montrer reconnaissant. Si vous cherchez un chemin vers la partie sud du continent, je peux vous montrer l'entrée du système de galeries. Il n'y a que très peu de gens qui connaissent le portail et qui vous le montreraient. Si vous êtes intéressés, nous nous retrouverons à zéro heure devant la porte de la ville. Et maintenant, ne me dérangez pas plus longtemps, je voudrais vaquer à mes occupations."
+On entend soudain une voix s'exclamer à proximité:^^{CNTR}{INK 006}"Nous l'avons!"^"Prend ça, espèce de saleté!"^"Vieille sorcière!"^"Ca va faire mal. Et maintenant la pointe, ahah."^^{LEFT}{INK 001}Il semble y avoir un combat violent, et d'après les cris, Nelly s'en est mal tirée.
+"Skeima Din,^^est-ce que vous êtes de passage, ou de nouveaux habitants d'Umajo-Kenta? Notre ville s'agrandit en effet de plus en plus."
+"Je dois encore faire des courses."
+"J'espère que vous êtes venus avec des intentions pacifiques. Je ne suis jamais sûr de moi lorsque je rencontre un groupe de personnes que je ne connais pas dans la rue."
+"Méfiez-vous des plongeurs des sables quand vous traverserez le désert. Ce sont des bêtes épouvantables qui sont invisibles, parce qu'elles guettent sous le sable. Et elles entendent les pas à plusieurs kilomètres à la ronde."

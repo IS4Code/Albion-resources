@@ -1,0 +1,148 @@
+﻿ 
+Une boîte à fusibles.
+Un fauteuil.
+Une chaise longue.
+Le tableau de contrôle pour le réacteur atomique.
+Un panneau de service.
+Une console de contrôle.
+Une console de contrôle de vol.
+Un tableau de contrôle.
+Un W-C. chimique.
+Une armoire.
+Un évier.
+Serviettes.
+Nécessaires pour se laver les dents.
+Un témoin de surveillance de couloir.
+Témoins de contrôle.
+Une partie du réacteur.
+Fûts d'ordures, d'eau, de poison et de matières premières.
+Une console éteinte.
+Une lampe.
+Une assiette.
+Un verre.
+Un gobelet.
+Un récipient.
+Une bouteille.
+Un pot.
+Une boîte.
+Un récipient.
+Une salière et un poivrier.
+Sauce au soja.
+Un pot.
+Une petite boîte.
+Une pelle.
+Une bêche.
+Une clé plate.
+Un tournevis.
+Une console manuelle.
+Une ADP. (Assistance Digitale Personnelle)
+Une tenaille.
+Des couverts et un gobelet.
+Vaisselle.
+Une porte automatique.
+Une navette.
+Container.
+Une douche.
+Un véhicule.
+Marquages au sol.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+A peine les deux Sécus avec Tom entre eux sont hors de vue des autres, que Tom sent une brève douleur aiguë au cou. Tout autour de lui sombre dans l'obscurité avec l'injection.
+Plus tard, Tom reprend conscience dans une chambre de l'infirmerie.
+"Diable! Ma tête!^^C'est quoi, tout ce cinéma? Ils ont tous pété les plombs ou quoi?"
+"La porte est fermée! Driscoll, tu as des ennuis. Quelque chose ne tourne pas rond ici."
+La porte est fermée et ne s'ouvre pas.
+Une console pour le contrôle des fonctions du corps.
+"Ils ont transformé cette chambre d'infirmerie en une véritable cellule!"
+"Tom! Attends, j'essaye d'entrer!"
+Tout à coup, la porte s'ouvre et Joe, le vieil ami de Tom, entre dans la chambre!
+"Joe! Enfin un être humain! Qu'est-ce qui se passe au juste? Pourquoi on me traite ici comme un crimi..."
+"Stop, stop! Calme-toi, mec.^^Premièrement, bien que tu sois encore en vie. On avait déjà fait une croix sur vous, Hofstedt et toi."
+"Pardon, vieux. Moi aussi je suis content de te voir."
+"O.K. Je ne sais pas combien de temps on aura. Ils remarqueront peut-être que j'ai réussi à ouvrir la porte avec une carte trafiquée."
+"Je me disais aussi que ta visite n'était pas officielle. Dis-moi enfin ce qui s'est passé!"
+"Des clous! C'est d'abord ton tour. Vas-y, bref et concis."
+"Bref et concis? Mec, tu n'as pas la moindre idée..."
+Tom relate, le plus concis possible, ses histoires incroyables. Il parle des Iskais, des hommes et de ses aventures dans un monde qui regorge de vie.^^Joe est de plus en plus décontenancé.
+"Ouah. Il faut que je m'assois pour digérer.^^ Si je ne te connaissais pas depuis si longtemps, je penserais vraiment que t'es en train de péter une durite.^^Ca s'est vraiment passé tout ça?"
+"Tu sais bien que je n'aurais pas pondu un truc pareil. Hofstedt pourrait te confirmer tout ça, s'il n'était pas resté chez les Dji Cantos."
+"Au moins, ça expliquerait pas mal de choses. Mais que ce monde est si..."
+"Maintenant c'est à ton tour, mon ami. Que s'est-il passé ici?"
+"Tout suit son cours normal. Et c'est exactement le problème."
+"Tu ne vas tout de même pas me raconter que personne ici n'a remarqué ce qui se passe avec cette planète!"
+"Réfléchis un peu! Si t'avais atterri sur la Terre en plein milieu du désert de Gobi, et que tu n'avais rien vu d'autre de la planète, qu'est-ce que tu penserais?"
+"Le terrain d'atterrissage a été bien choisi, c'est vrai. ça ne laisse uniquement déduire que des données transmises par I.A et Cap'tain Brandt à l'équipage étaient erronées."
+"Visiblement. Mais cela mis à part, certaines choses se sont effectivement produites.^^Que l'atmosphère soit plus respirable que ce qui avait été prévu, semble difficile à nier.^^D'ailleurs, nous avons été confrontés, lors des premiers travaux d'exploitation, à des bestioles étranges qui nous ont opposé de la résistance. Il ne peut pas y avoir de telles formes de vie aussi développées sur une planète morte."
+"Et personne ne trouvait cela suspect?"
+"Hé bien. Les créatures ont été repoussées par les Sécus. Au début, il y a eu une série complètement folle d'effondrements et d'accidents inexplicables. ça nous a tellement tenu en haleine que nous avions à peine le temps de dormir et encore moins de réfléchir.^^Le Cap'tain a procédé par la méthode de la "Force brute". ça a coûté une quantité de munitions et de matériel, mais avec l'équipement dont nous disposions, nous avons tout simplement laminé tous les obstacles.^^Finalement, les incidents ont lentement cessé. Les primes ont carrément été doublées et beaucoup de gens à bord sont devenus moins curieux. Les autres n'ont aucune possibilité d'apprendre quoi que ce soit de ce monde. Tu sais bien, il est interdit de quitter la zone de l'installation."
+"ça tient parfaitement debout. Je comprends maintenant pourquoi ils m'ont mis sur une voie de garage.^^J'étais apparemment un peu naïf. Mais je n'aurais jamais pensé que la DDT soit aussi culottée. Quelqu'un va bien finir par s'en apercevoir!"
+"Peut-être bien. Peut-être bien que non.^^La mort de l'inspecteur Beegle apparaît ainsi évidemment sous un autre angle."
+"Exact. Il a dû remarquer quelque chose des manipulations des données spéciales, et alors qu'il a essayé d'établir un contact avec son service, il y est passé."
+"En général, la surcharge ciblée de la console Hyper-C peut seulement être provoquée par Ned, l'ordinateur de bord. Si l'IA a effectivement ses mains dans l'affaire, et tout laisse à penser que tel est le cas, nous devons faire sacrément attention. Il n'existe pas grand chose à bord du TORONTO qui ne puisse pas être contrôlée par l'IA."
+"Il faut quand même que nous sortions d'ici et que nous parlions avec les gens à bord! J'en connais pas mal. S'ils apprennent tout sur ce monde, je ne puis m'imaginer qu'ils continuent tous à travailler à la destruction de la planète, avec ou sans prime."
+"Possible. ça sèmerait en tout cas assez de confusion pour faire cesser toute activité.^^Mais là n'est pas le problème. Le problème c'est l'IA."
+"Que peut bien faire ce machin? Couper le courant? Ned peut bien disposer de caméras, mais il n'y a pas de mitraillettes fixées au bout."
+"Il y a quelques semaines, j'ai découvert quelque chose, dont très peu de personnes à bord devraient être au courant: il n'existe pas uniquement un seul clone par lequel l'IA communique avec nous. Il en existe des douzaines!^^Et ces machins sont dangereux, surtout par leur nombre. si Ned est capable de contrôler tous les clones en même temps et s'il devient sérieux, c'est le carnage assuré!"
+"Oh la merde. Tu veux dire que la DDT emploierait la violence contre ses propres employés?"
+"C'est une question de calcul. Si un vaisseau d'une telle taille n'accomplit pas sa mission, ce n'est pas juste une perte sèche dans les bilans.^^Ce serait la fin de la société.^^C'est motivant pour consentir à des efforts extraordinaires et à prendre des mesures particulières, je te le dis."
+"D'accord.^^Je pourrais te raconter de long en large comment cette planète et ses habitants sont devenus une partie de moi-même, au cours de ce voyage, etc.^^ Je ne dirais qu'une chose à ce sujet:^^Faudra me passer sur le corps si vous voulez raser cette planète, O.K.?"
+Joe regarde Tom un moment sans un mot. Après réflexion, il dit:
+"Doit y avoir de supers endroits sur cette planète. J'aimerais bien les connaître.^^Bon: je vais certainement le regretter, mais...^^Je suis de la partie."
+"Que dois-je dire? Je..."
+"Pourquoi pas,'Merci'?^^Ha, allez, oublie!"
+"Tu as une idée comment ça va continuer?"
+"Nous devrions essayer de neutraliser l'alimentation en énergie de l'IA. Puis on pourrait parler à l'ensemble de l'équipage, et aussi avec les agents de la sécurité. Je suis persuadé que tous les Sécus ne sont pas sans scrupules. Il pourrait y avoir une petite révolution de palais, sans risquer un bain de sang à cause des clones I.A."
+"Je suppose que nous ne pouvons pas tout simplement débrancher l'IA, non?"
+"Je savais que tu poserais cette question.^^L'ordinateur central, qui contient la conscience artificielle de Ned, est placé dans un boîtier spécial, qui est lui-même insensible aux conditions extrêmes de l'espace. L'alimentation en énergie est sans fil. Notre seule chance se trouve dans la salle de contrôle centrale du centre de fusion. Là-bas, il doit y avoir une console capable d'interrompre le transfert d'énergie à l'IA."
+"Quelles sont nos chances de réussite?"
+"Normalement, merdiques.^^Deux choses pourraient par contre nous aider. Premièrement, le réacteur est situé dans le segment, où nous sommes actuellement.^^ Deuxièmement, l'IA est en train de converser avec le capitaine, probablement à ton sujet d'ailleurs. La communication verbale de Ned avec un homme nécessite toujours plus de temps de calcul que toutes les autres tâches. ça veut dire que le TORONTO est en effet toujours contrôlé, mais les choses, qui nécessitent beaucoup de temps de calcul, sont écartées.^^ L'exploitation visuelle d'images de caméras en fait partie, par exemple.^^ En bref, nous pourrions essayer de parvenir, de façon inaperçue, à la salle du réacteur par le pont de maintenance, de neutraliser l'IA et d'informer les gens à bord sur cette planète."
+"Ca marche. En route pour le réacteur."
+"C'est tout ce que tu as trouvé?^^Tant pis, il faut d'abord trouver un accès au pont de maintenance. Le nécessaire a été fait pour que personne d'autre ne se trouve dans cette section, mais nous ne devrions pas quitter cette zone, sinon on aura tout de suite les Sécus sur le dos. Ils nous enfermeraient de nouveau tout de suite, avant que tu ne puisses piper mot."
+"Au risque de me répéter: En route!"
+Un ouvre-porte.^^ Une fente pour l'introduction de cartes à code se trouve à côté du clavier.^^Ouverture déjà effectuée.
+Un ouvre-porte.^^ Une fente pour l'introduction de cartes à code se trouve à côté du clavier.
+"Un panneau de service devrait se trouver derrière cette porte, par lequel nous pouvons descendre vers le pont de maintenance."
+"Ce sas donne sur l'extérieur. Il a certainement une grande priorité en cas d'alarme. Si on l'ouvre, on a tout de suite l'IA et les Sécus sur le dos."
+"On accède ici à la zone centrale de l'infirmerie et aux appartements des Sécus. Beaucoup de gens là-bas, nous devrions, comme nous l'avons dit, plutôt essayer de trouver l'accès au pont de maintenance par ici."
+"Peux-tu forcer la porte? ça ne devrait pas être plus dur que ma porte tout à l'heure, non?"
+"C'est vrai. Mais je n'avais qu'{FAT }une seule{NORS} carte programmable. Sais-tu combien c'est difficile de se procurer ces machins? En plus, il me semble que cette porte s'ouvre aussi avec un code."
+"Et où trouver le code?"
+"Aucune idée."
+Là, il y a un morceau de papier avec un code.
+"Ha! Rien ne vaut la défaillance humaine!^^Quelle chance, qu'il y ait autant de gens qui ne peuvent pas retenir leur code. Regardons le code et essayons-le!"
+Un clavier à code.
+{TECF}{CNTR}ENTRER CODE D'OUVERTURE:
+{TECF}{CNTR}CODE ERRONE. ACCES REFUSE.
+{TECF}{CNTR}CODE CORRECT. OUVERTURE DU PANNEAU.
+"Ah, le panneau des services. Le code d'accès ici est le 1712."
+"Le code d'ouverture est 1712"
+{TECF}{CNTR}CODE CORRECT. OUVRE PORTE.
+La porte est fermée.
+Dans cette armoire, il y a une carte à code verte!
+Alors que Tom examine le sas de plus près, Joe dit:
+"Je te le dis encore une fois: il vaut mieux ne pas toucher à ce machin. On déclencherait l'alarme."
+Ici sont stockés un tas de Stimdrinks!
+"Evidemment du morceau de papier que nous avons trouvé en haut, mec!"
+Une échelle. Elle mène vers le bas.
+Sur le chemin à travers le pont de maintenance, Tom et Joe arrivent à échapper aux Sécus de justesse.^^Ils se précipitent à travers la zone de l'infirmerie pour trouver le sas donnant sur l'extérieur.
+Tom et Joe ont presque atteint le sas donnant sur l'extérieur, c'est alors qu'ils aperçoivent un clone de l'IA leur bloquant le chemin vers la liberté!
+"Tom Driscoll, Joe Bernard, votre opposition aux règles de bord et votre volonté évidente d'agir contre les intérêts de la société obligent malheureusement à prendre des mesures drastiques.^^Désolé."
+Le clone I.A brandit une arme!
+Touché par la boule de feu, le clone I.A titube de façon incontrôlée.
+"Mon Dieu!^^C'était quoi {FAT }ça{NORS}? Comment tu as fait ça, diable?"
+"Un petit cadeau qu'on m'a fait sur l'île des Dji Cantos.^^Des questions?"
+"Des douzaines. Mais plus de doute en ce qui concerne ton rapport."
+"C'est bien.^^O.K., allez on se tire. Ca sera déjà assez difficile comme ça de passer inaperçu par le désert."

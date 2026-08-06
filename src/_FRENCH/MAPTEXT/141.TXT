@@ -1,0 +1,181 @@
+﻿-libre-
+Branches et racines.
+Un panier tressé.
+Un récipient en verre pour l'eau et d'autres boissons.
+Un fût.
+Une magnifique peau de bête.
+Un seau.
+Un bol en terre cuite.
+Une corne pour boire.
+Une assiette.
+Une cruche en terre cuite.
+Une cruche.
+Un couteau de table.
+Une fourchette.
+Une cuiller.
+Un récipient en terre cuite.
+Pierres.
+Un bol.
+Un outil de labour.
+Une hache.
+Un couvercle de coffre.
+Un coffre en bois.
+Un coffre en bois artistiquement décoré.
+Le petit endroit paisible.
+Un couvercle.
+Un grand baquet de bois.
+Un grand chaudron métallique.
+Une étagère.
+On peut voir dans cette étagère un tas de choses sans importance.
+Une commode.
+Un balai.
+Un gril.
+On peut faire cuire de la viande dessus.
+Un fourneau.
+Une carafe renversée.
+Une cuiller en bois.
+Une épée murale décorative.
+Une table en bois.
+Un tabouret.
+Un tabouret replié.
+Une table à manger massive.
+Une souche.
+Deux lances croisées.
+Un grand fût avec d'étranges boissons.
+Une chantepleure.
+Une couverture de lit.
+Un lit confortable et joliment décoré.
+Ce lit est modeste mais fonctionnel.
+Un bahut.
+Une cheminée.
+Le feu de cheminée diffuse une chaleur agréable.
+Un pot artistiquement confectionné.
+Herbes séchées.
+Un crâne humain.
+Un bouclier décoratif.
+Un pot en métal.
+Une épée décorative.
+Une porte.
+Un chaudron.
+Un couteau.
+Un stylet.
+Un poignard.
+Une dague.
+Un coutelas.
+Une épée.
+Une pointe.
+Un poignard de jet.
+Une petite hache.
+Une hache.
+Un petit arc.
+Un arc.
+Une flèche.
+Un petit bouclier de cuir.
+Un bouclier de cuir.
+Un bouclier rond.
+Un grand bouclier.
+Un bonnet de cuir.
+Un bonnet clouté.
+Un bol de métal.
+Un gilet de cuir.
+Une armure de cuir.
+Un cuir clouté.
+Une paire de chaussures.
+Une paire de bottes.
+Une bouteille vide.
+Une potion de soins verte.
+Une potion de soins turquoise.
+Une potion de soins bleue.
+Une clé.
+Une corde.
+Un anneau.
+Une torche.
+Un marteau plat.
+Un escalier qui monte.
+Un escalier qui descend.
+Un comptoir.
+Un paillasson en forme de tapis.
+Une plante d'appartement.
+Un pot de fleur.
+Un récipient de feu.
+Une étagère pleine de livres.
+Livres.
+Un livre.
+Un livre ouvert.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+{CNTR}On peut lire sur le panneau:^^ {INK 006}Makaio, Maître de la guérison
+{CNTR}Ici est signalé:^^ {INK 006}Torko, Maître du savoir
+{CNTR}Le panneau signale:^^ {INK 006}Ouktero, Maître de la science de la magie des druides
+{CNTR}On peut lire sur le panneau:^^ {INK 006}Nemos, Maître des druides
+{CNTR}L'inscription signifie:^^ {INK 006}Aux halls des livres
+{CNTR}Le panneau indique:^^ {INK 006}Atelier général
+{CNTR}On peut lire ici:^^ {INK 006}Aux dortoirs.^ Visiteurs, veuillez rester à l'écart.
+{CNTR}La porte est solidement verrouillée.
+--- coming soon: long dialogue ---
+"J'ai été pris dans une petite bagarre. Il faut que je reste apparemment encore un petit moment dans ce lit, quelle chiotte!"
+"Togi Din, et bonne chance dans votre recherche de Maître Bero!"
+"Togi Din! C'est vous qui avez sauvé Bero, n'est-ce-pas? Une belle action!"
+"Togi Din. C'est l'atelier. Servez-vous donc, si quelque chose vous paraît utile pour le sauvetage de Bero!"
+"Togi Din, sauveurs de Bero! Ha, ha, le pauvre va devoir prendre des piques encore pendant un petit moment pour l'échec de son expédition!"
+"Togi Din. En tant que disciple de Bero, il m'est difficile de poursuivre mes études, en pensant qu'il est peut-être en train de se battre contre la mort."
+"Togi Din! Je suis heureux que vous ayez sauvé mon maître Bero. Tous mes remerciements!"
+"Togi Din. J'ai prévenu Bero de ne pas descendre dans la partie interdite! Quelle imprudence!"
+"Togi Din. Veuillez m'excuser, je suis occupé."
+"Bienvenue à Arjano, voyageurs, l'école des druides vieille de deux mille ans."
+"Togi Din, Nemos. Veuillez m'excuser, si je vous importune avec ma curiosité, mais votre histoire remonte vraiment à déjà plus de deux mille ans?"
+"En effet. Nos manuscrits remontent au temps où le grand Canto nous a mené du pays de nos ancêtres jusqu'ici."
+"Est-ce trop indiscret de demander où était le pays des ancêtres et comment s'était déroulé le voyage?"
+"Canto a mené les élus avec l'aide de Danu à travers le pays des brumes jusqu'à Albion, lorsque le pays des ancêtres a été dévasté par les croiseurs."
+"Mais dites-moi maintenant ce qui vous amène et pourquoi vous voulez parler à Bero."
+"On nous a demandé de nous procurer une amulette particulière. On nous a dit de nous adresser pour ça à Bero."
+"Je comprends. Hé bien, malheureusement, vous ne pouvez pas lui parler, d'ailleurs moi non plus."
+"Est-il malade, ou est-ce que quelque chose lui est arrivé?"
+"Non. Il a disparu."
+"Il a entrepris un voyage?"
+"Du tout. Il est encore dans ce bâtiment.^^Je vois, il faut que je remonte un peu plus loin. Comme je l'ai déjà dit, ce bâtiment est très vieux. Il a été créé juste après l'arrivée des élus et la déesse Danu a permis, en signe de sa bienveillance, de construire le bâtiment dans la terre, ses entrailles.^^Maintenant, il existe d'innombrables parties dans ce bâtiment, beaucoup plus de place que nécessaire. Une grande partie a été mise sous scellés lorsqu'une confrontation a eu lieu, il y a presque 400 ans, avec un groupe de druides que nous appelons les "Adorateurs du Feu", et dont les Kenget Kamulos sont finalement issus.^^A l'époque, une confrontation acharnée avait fait rage, qui avait finalement mené à l'exode des rebelles. Restaient des installations couvertes de traces de la guerre, truffées de mécanismes de défense et habitées par des démons.^^Bero est descendu dans cette partie, appelée Drinno, à notre grande stupéfaction, pour chercher un artefact magique."
+"Et vous pensez que nous sommes les personnes idéales pour le rechercher?"
+"En effet."
+"Ne serait-il pas plus judicieux de constituer une équipe de recherche composée de guerriers du coin bien équipés?"
+"Il faut que vous sachiez que Drinno, la partie interdite, est tabou depuis des siècles. Personne ne voudrait s'y aventurer.^^Mais vous ne semblez pas être concernés par nos tabous, et j'ai entendu dire des Iskais que ce sont des guerriers sans peur."
+{INK 001}Tom regarde autour de lui.{INK 002}^^"La poursuite de notre voyage dépend de cette amulette. Qu'en dites-vous, devons nous accepter ce job?"
+"Job? Si vous voulez dire que nous devons faire un petit tour là dessous, je suis partant!"
+"Je ne vais pas rebrousser chemin dès le premier danger. Je reste avec vous, Tom."
+"Hé bien, je qualifierais de superstition tout prétendu danger, si je n'avais pas déjà vu des choses étranges ici.^^Ne vous attendez pas à des actes héroïques de ma part, mais je suis de la partie."
+"Hé bien, je suis heureux que vous soyez prêts à aider. Je peux même vous confier quelqu'un en renfort. Nous avions toutes les peines à le retenir de se précipiter tout seul à Drinno.^^Puis-je vous présenter le fils adoptif de Bero, un jeune druide du nom de Mellthas? Il est sourd-muet, mais son esprit est clair comme le soleil. Il va vous accompagner."
+{INK 001}Le visage de Mellthas affiche un sourire crispé, lorsqu'il s'incline brièvement et griffonne quelque chose à la hâte sur un morceau de papier:{INK 002}^^ "Me réjouis! Partir vite, suis très inquiet!"
+"Bero s'est bien approvisionné avant de descendre. Ce n'est pas un écervelé. Je pense que s'il a des problèmes, il va se barricader quelque part.^^Il n'y a certainement pas lieu d'agir avec précipitation, mais ne tardez pas trop.^^Les druides d'Arjano vous soutiendront dans la mesure du possible. Que Lugh vous bénisse lors du sauvetage.^^Si vous vouliez me parler, je suis dans ma chambre, dans la partie est de cet étage."
+{INK 001}Mellthas écrit et brandit un morceau de papier:{INK 002}^^ "Dites-le, quand vous êtes prêts à descendre. Vous mène à l'entrée. Vite, s'il vous plaît."
+Les druides voient avec effarement que quelqu'un est blessé. Ils donnent les premiers soins.
+Le retour se déroule sans problème particulier. Bero est accueilli bruyamment par les commentaires énergiques des autres druides.^^La rencontre a lieu dans la chambre de Nemos, chef des druides.
+"Bero, je pense que je peux te faire grâce de remontrances. Tu sais toi-même ce que tu as risqué."
+"C'était certainement une erreur de descendre à Drinno. Mais je regrette uniquement d'avoir mis en danger Mellthas et ses compagnons par mon étourderie.^^Je voudrais remercier encore une fois tous mes sauveurs."
+"Je voudrais en dire autant. Bero est certes souvent têtu, et une véritable plaie, mais je suis content qu'il soit sain et sauf parmi nous.^^^Bon, si j'ai bien compris, un... heu... un incident peu ordinaire a eu lieu entre Mellthas et... euh... Sira, non?"
+"Nous étions nous-mêmes étonnés, Nemos, comme vous pouvez l'imaginer. Nous aimerions poursuivre le voyage ensemble."
+{INK 001}Mellthas acquiesce.
+"Hé bien, pourquoi pas. Je te souhaite bonne chance Mellthas.^^Rares sont ceux qui, ici à Gratogel, auraient de la compréhension pour une liaison homme-Iskai, et il est peut-être donc préférable que vous partiez ensemble pendant un moment."
+"Comme vous êtes en train de parler de la suite du voyage, Bero, je voudrais vous demander une amulette particulière, que nous avons été chargés de retrouver."
+"Bien sûr, Tom. Suivez-moi, dans mon atelier, s'il vous plaît."
+"Voilà votre amulette fortifiante. C'est le moins que je puisse faire pour vous.^^Je souhaite à tous, et surtout à vous, Mellthas et Sira, que Danu vous bénisse pour ce voyage."
+{LEAD}{NAME} remplit un seau d'eau.
+Un puits rempli d'eau claire.

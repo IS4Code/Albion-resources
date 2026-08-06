@@ -1,0 +1,6 @@
+﻿ 
+Une porte.
+La porte n'a pas de verrou. Elle ne s'ouvre ni manuellement, ni avec une clé.
+Celui qui voit l'amulette doit mourir!
+{LEAD}{NAME} trouve 10 pièces d'or.
+"Incroyable, ce mur doit être un mirage, on peut le traverser."

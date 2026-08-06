@@ -1,0 +1,74 @@
+﻿-libre-
+Une forteresse en pierre.
+Une dune de sable.
+Une colonne de pierre.
+Une grande falaise.
+Une fleur assiette.
+Une morille des sables.
+Cette plante se nourrit d'insectes.
+Une plante carnivore.
+Cactée à fleurs qui pousse très lentement.
+Parties de plantes.
+Petites plantes.
+Pierres.
+Touffes d'herbe.
+Racines, morceaux de bois et branches.
+Un château de pierre construit avec des rochers.
+Un rapide.
+L'eau est profonde et le courant semble être fort.
+Plantes aquatiques.
+Pousses de plantes aquatiques.
+Un tourbillon.
+Un arbre parasol.
+Ce genre d'arbres des steppes pousse bien sur sol très sec.
+Une fleur des steppes.
+Un rocher-tour.
+Graviers.
+Un grand pont de rochers.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Tsssss...
+Une entrée cachée.
+"Je pense que c'est trop risqué de s'approcher maintenant du Toronto. Il vaut mieux faire demi-tour."
+Tom se remet doucement.
+"Jusqu'à là ça va. Essayons de nous rapprocher subrepticement du Toronto, à l'abri de la nuit."
+Evitant les machines d'ouvrage et les installations d'exploitation, les compagnons réussissent à rejoindre le Toronto inaperçus. Tom réussi à ouvrir une entrée annexe, sans déclencher l'alarme. Il referme le sas, dès que tout le monde est entré.
+Lorsque ses compagnons sortent de la grotte, Tom s'écrie:
+"Regardez ça! Une navette du Toronto vole là-bas!"
+La navette s'approche, visiblement les compagnons ont été repérés.^^Elle est en phase d'atterrissage!
+{INK 001}Tourné vers ses compagnons, Tom dit:^^{INK 002} "Venez! N'ayez pas peur! On y sera un peu à l'étroit, mais c'est juste pour un petit moment."
+Tom monte et constate qu'il n'y a pas de pilote dans l'habitacle. La navette est télécommandée.
+Brusquement, la porte de la navette se referme! Tom est enfermé et la navette décolle sans le groupe!^^ Déjà, pendant le décollage, du gaz envahit la cabine de l'engin. Tom, anesthésié, s'effondre sur le sol! Il ne voit rien du vol...
+Tom et Joe réussissent à se cacher devant les équipes de recherche du Toronto. Le but de Tom est la grotte, qui mène par-dessous les montagnes à Umajo Kenta. Les deux atteignent l'endroit à l'aube.
+Fous de joie, ils se tombent dans les bras. Après la joie des retrouvailles, Tom présente Joe et raconte en gros ce qui s'est passé.
+"Nous avons redouté une chose pareille, Tom. Je me suis concerté avec les autres Dji Cantos, avant de revenir ici.^^Repartons sur l'île pour décider de ce qu'il y a à faire!"
+Ce que Tom avait à peine osé espérer arrive:^^les compagnons avaient attendu son retour!

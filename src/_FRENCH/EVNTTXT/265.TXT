@@ -1,0 +1,5 @@
+﻿{BLOK000}"Je suis le tavernier."
+"Vous ne croyez donc pas que je vais encore vous servir? A votre place, je ne mettrais plus les pieds ici. J'ai même maintenant des preuves évidentes contre Kontos."
+"Donner la pièce à conviction"
+"Mais je vous ai déjà donné le document."
+"Je suis Edjirr."

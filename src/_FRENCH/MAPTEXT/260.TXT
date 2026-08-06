@@ -1,0 +1,159 @@
+﻿-libre-
+Branches et racines.
+Un panier tressé.
+Un récipient en verre pour l'eau et d'autres boissons.
+Un fût.
+Une magnifique peau de bête.
+Un seau.
+Un bol en terre cuite.
+Une corne pour boire.
+Une assiette.
+Une cruche en terre cuite.
+Une cruche.
+Un couteau de table.
+Une fourchette.
+Une cuiller.
+Un récipient en terre cuite.
+Pierres.
+Un bol.
+Un outil de labour.
+Une hache.
+Un couvercle de coffre.
+Un coffre en bois.
+Un coffre en bois artistiquement décoré.
+Le petit endroit paisible.
+Un couvercle.
+Un grand baquet de bois.
+Un grand chaudron métallique.
+Une étagère.
+On peut voir dans cette étagère un tas de choses sans importance.
+Une commode.
+Un balai.
+Un gril.
+On peut faire cuire de la viande dessus.
+Un fourneau.
+Une carafe renversée.
+Une cuiller en bois.
+Une épée murale décorative.
+Une table en bois.
+Un tabouret.
+Un tabouret replié.
+Une table à manger massive.
+Une souche.
+Deux lances croisées.
+Un grand fût avec d'étranges boissons.
+Une chantepleure.
+Une couverture de lit.
+Un lit confortable et joliment décoré.
+Ce lit est modeste mais fonctionnel.
+Un bahut.
+Une cheminée.
+Le feu de cheminée diffuse une chaleur agréable.
+Un pot artistiquement confectionné.
+Herbes séchées.
+Un crâne humain.
+Un bouclier décoratif.
+Un pot en métal.
+Une épée décorative.
+Une porte.
+Un chaudron.
+Un couteau.
+Un stylet.
+Un poignard.
+Une dague.
+Un coutelas.
+Une épée.
+Une pointe.
+Un poignard de jet.
+Une petite hache.
+Une hache.
+Un petit arc.
+Un arc.
+Une flèche.
+Un petit bouclier de cuir.
+Un bouclier de cuir.
+Un bouclier rond.
+Un grand bouclier.
+Un bonnet de cuir.
+Un bonnet clouté.
+Un bol de métal.
+Un gilet de cuir.
+Une armure de cuir.
+Un cuir clouté.
+Une paire de chaussures.
+Une paire de bottes.
+Une bouteille vide.
+Une potion de soins verte.
+Une potion de soins turquoise.
+Une potion de soins bleue.
+Une clé.
+Une corde.
+Un anneau.
+Une torche.
+Un marteau plat.
+Un escalier qui monte.
+Un escalier qui descend.
+Un comptoir.
+Un paillasson en forme de tapis.
+Une plante d'appartement.
+Un pot de fleur.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Ce fût est déjà assez pourri et n'est apparemment plus utilisé.
+C'est la sortie.
+Ici, on prépare des petites vêpres et des plats froids.
+Le groupe vient d'entrer dans la taverne "La Joyeuse Chantepleure". Dans la taverne, il fait chaud et moite, et les bavardages agités des nombreux hôtes rendent une discussion normale difficile.
+{CNTR}Le panneau indique:^{INK 006}Accueil.
+{CNTR}Le panneau indique:^{INK 006}Gîte du parc municipal ^^Chambres avec ou ^sans salle de bains.
+Le verrou est usiné avec précision. Il n'est pas nécessaire d'ouvrir cette porte à tout prix. Elle sert de passage entre la taverne et la pension. Mais les deux bâtiments peuvent aussi être atteints à partir de la ville.
+Tom se mêle déjà à la foule...
+Je crois que la buvette est là-bas!
+"Je n'aime pas que des étrangers me parlent. Je ne vais pas adhérer à votre communauté religieuse, ni vous acheter quelques écrits, alors cessez de me déranger, s'il vous plaît."
+"A votre bon coeur. Auriez-vous quelques pièces pour moi?"
+{LEAD}{NAME} donne 0.8 pièces d'or au mendiant.^^"Je vous remercie beaucoup!"
+{LEAD}{NAME} donne 0.8 pièces d'or au mendiant.^^"Oh, vous êtes généreux. Pour vous remercier, je voudrais vous confier un secret:^^le tavernier garde tout son argent dans la cuisine sous une serviette dans l'étagère. Vous ne devez évidemment pas vous faire prendre! Ce n'est pas moi qui vous l'ai dit..."
+"Dommage."
+"Je vous conseille d'emmener des torches et une corde si vous explorez une des nombreuses grottes dans la montagne. Je m'y suis déjà perdu une fois."
+"Pff - pour qui vous vous prenez? Vous pensez pouvoir m'impressionner, hein? Mais là, vous avez tout faux.^^Ce sont d'autres gabarits que vous qui m'impressionnent. Comme peut-être Khunag, lorsqu'il me montre un de ses spectaculaires petits tours de passe-passe. Vous lui avez déjà rendu visite? Un drôle de loustic. Un druide rebelle des Kenget Kamulos, je crois. On a du mal a le cerner. Il habite chez Kariah."
+"VOUS AVEZ déjà vu notre maison close? C'est le lieu de prédilection de tous les voyageurs, hommes ou femmes. Vous avez peut-être rencontré Kariah, elle y travaille. Kariah est de toute façon très aimable et loquace. Ce qui n'est pas toujours sans poser de problèmes. Vous pouvez vous imaginer que la clientèle n'aime pas particulièrement."
+"Comme le temps passe. Quand j'étais jeune comme vous, je pouvais profiter de la vie tout autrement. Mais la vieillesse a aussi ses avantages. Vous verrez bien."
+"Il faut que j'aille à cette table, laissez-moi passer s'il vous plaît.^^Hmm, vous n'êtes pas d'ici, pas vrai? Il y a de plus en plus d'étrangers par ici. Mais ce n'est pas contre vous. C'est juste une remarque."
+"Je suis Gato Mork, gardien des lois sacrées, et je vous ordonne de donner 1000 pièces d'or pour une bonne cause, ou mon couteau vous taille la peau, hoho.^^Sérieusement, je suis en train de lire un livre sur le célèbre Gato Mork, qui soutient les pauvres et veille sur les riches. Il a consacré toute sa vie à la justice. Je trouve que c'était un sacré type."
+(Tousse) "Je ne tiens plus ici. C'est tout bonnement irrespirable. Ca pue, il fait chaud et c'est tellement bruyant qu'il faut crier pour se parler. Si mon ami ne me traînait pas tout le temps ici, mes poumons s'en porteraient mieux. Mais il adore aller dans ce genre de tavernes, et je l'aime bien."
+"Vous voulez louer une chambre pour la nuit?"
+Devant {LEAD}{NAME} et ses compagnons apparaît tout à coup une vieille connaissance de Jirinaar:^^C'est Frill, l'historien du conseil qui, par ses connaissances sur le poignard de Bradir, a aidé à dévoiler le complot d'assassinat.
+"Dsarii-ma! Quelle chance de vous avoir enfin retrouvé!"
+"Dsarii-ma, Drirr! Quelle surprise de vous revoir. Pourquoi nous cherchez-vous?"
+"Je voudrais vous inviter dans un endroit où certaines personnes aimeraient vous parler. Je vous en dirai plus quand nous y serons."
+"Ca paraît très mystérieux, cher Frill. Mais nous sommes d'accord, si cela peut nous rapprocher de notre but."
+"Oh, ça je peux vous le garantir!"
+"Avant cela, nous devons essayer de servir de médiateur dans un conflit qui se prépare entre les Iskais de Srimalinar et un village celtique.^Vous devez savoir que, surtout Mellthas et moi, nous sommes intéressés par la cohabitation pacifique des hommes et des Iskais."^^{INK 001}Sira raconte comment Mellthas et elle se sont rapprochés l'un de l'autre, et parle de la confrontation qui se prépare entre Celtes et Iskais.
+"Je suis tout à fait d'accord avec vous, vous devez essayer d'éviter le pire! La dernière chose qu'il nous faut, c'est une guerre entre nos races.^^ Je vais attendre ici, à l'auberge, jusqu'à ce que vous ayez fait votre possible. Bonne chance!"
+"Me promettre des choses et ne rien donner, tout ce que j'aime!"
+"Ici, 90 pièces d'or sont cachées. Tom et les autres doivent-ils devenir des voleurs?"
+"Vous devez absolument parler à Kariah de temps en temps. Grâce à son métier, elle a toujours d'excellentes histoires à raconter. Vous la trouverez le plus souvent dans sa maison."

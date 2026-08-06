@@ -1,0 +1,4 @@
+﻿{BLOK000}"Je suis guerrier au service de Tharnos et je n'ai pas d'autre métier!"{WORDTharnos}{WORDGuerrier}{WORDMétier}
+"Togi Din, visiteurs."
+"Hé bien, la plupart des hommes en armes est artisan ou même poète. Je suis par contre fier de servir uniquement mon roi avec les armes."{WORDPoète}{WORDArtisan}
+"Si vous vous intéressez aux armes, vous devriez aller à Vanello. Il existe là-bas un Umajo qui connaît bien son métier."{WORDVanello}{WORDUmajo}

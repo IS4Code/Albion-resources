@@ -1,0 +1,8 @@
+﻿{BLOK000}"Ma fonction au sein du 'Conseil des justes' consiste à tout diriger et à tout coordonner."
+"Skeima Din, c'est gentil de passer. Si au moins les circonstances étaient plus réjouissantes. Car selon toute apparence, une guerre semble se préparer entre hommes et Iskais au lieu sacré de Srimalinar. Je vais aussi m'y rendre tout de suite. Peut-être pourrais-je apaiser les esprits et remettre certaines choses à leur place, en ce qui concerne Kontos et nous."{WORDKontos}{WORDGuerre}{WORDChose sacrée}
+"La plupart des Iskais croit que tous les hommes soutiennent Kontos, mais ce n'est pas le cas."
+"Si nous ne réussissons pas à stopper Kontos, une guerre éclatera. Je ne sais pas ce que vise Kontos, mais il a certainement quelque chose derrière la tête. Si vous avez quelques preuves contre Kontos, alors, allez-y et utilisez-les."
+"Entre-temps, des guerriers Iskais et humains se sont rassemblés là-bas. J'espère que j'arriverai à empêcher la guerre d'une manière ou d'une autre. Si vous avez quelques preuves contre Kontos, alors, allez-y et utilisez-les."
+"Je pense qu'ils ne réapparaîtront plus jamais ici."
+"L'hôtel de ville est le plus beau bâtiment de Beloveno. Vous pouvez faire un tour, personne ne vous en empêchera."
+"C'est moi."

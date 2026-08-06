@@ -1,0 +1,218 @@
+﻿libre
+Une torche allumée.
+Une torche.
+Tapisseries.
+Etagères avec des livres.
+Un fût.
+Un grand fût dans lequel on peut enfoncer une chantepleure.
+Une chantepleure.
+Un tapis.
+Un canapé.
+Un fauteuil.
+Un grand canapé.
+Un banc.
+Une table d'appoint.
+Une table de cuisine.
+Un pot.
+Un bureau.
+Une couverture.
+Etagères vides.
+Saucisses et morceaux de viande suspendus pour sécher.
+Dans ces étagères reposent divers objets sans importance.
+Une cheminée.
+Une bouteille en verre.
+Un lit.
+Une armoire.
+Une commode.
+Une chaise.
+Un plateau vide.
+Un récipient.
+Une timbale.
+Une assiette.
+Verres, gobelets, couverts.
+Sur le plateau, il y a des délices culinaires.
+Un livre.
+Herbes.
+Pâtisserie.
+Une épice.
+Un morceau de jambon.
+Une racine aromatique.
+Un livre ouvert: "Priorité à la ponctuation sous-grammaticale dans le contexte de la définition homogène des sciences littéraires."
+Livres divers.
+Ce livre traite de façon critique du droit d'existence des vertébrés.
+Une grande table, une réalisation artisanale d'une qualité exceptionnelle.
+Un couteau de cuisine tranchant.
+Une bouteille.
+Une bouteille endommagée.
+Une boîte en bois.
+Un récipient en verre.
+Un coussin.
+Une porte.
+Un fourneau sur lequel on peut réchauffer des aliments et des boissons.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+"Salut! Passez donc chez Althea dans l'aile sud-orientale. Elle a des offres intéressantes pour les visiteurs de notre maison."
+"J'aime bien travailler dans cette maison. J'ai vu tant d'endroits dans le monde, mais ce qu'il y a de plus beau, c'est encore cette île."
+"Je vous salue, visiteurs! Vous êtes venus dans cet endroit pour méditer? Parlez-en à Nemos, il connaît les lieux de l'illumination."
+Ces plantes pompent l'eau à la surface.
+PHASE 2!
+PHASE 3!
+A peine Tom et ses compagnons s'étaient-ils habitués à l'élégante architecture de la maison, qu'ils arrivent déjà dans une sorte de salle de réunion, où un petit rassemblement d'hommes et d'Iskai les attend...
+"Je vous salue encore une fois, Tom Driscoll. Avant de commencer à vous informer sur ce lieu, laissez-moi vous présenter les gens qui participent à notre réunion.^^A côté du Sebai-Giz Frill, que vous avez connu à Jirinaar, voilà par exemple Drannagh, connaisseur de la magie et maître dans l'art de créer des objets magiques."
+"Bienvenue chez les illuminés."
+"Sebai-Dre Birrh, un maître de l'art de la guérison."
+"Dsarii-ma, Tom Driscoll."
+!
+"Irkith, connaisseuse des contes et légendes des temps anciens."
+"Je vous salue, visiteurs."
+"Et pour finir, Harriet, notre membre le plus jeune. Elle entend la voix d'Animebona."
+"Salut, Tom Driscoll et Rainer Hofstedt."
+"Je vais tenter d'exposer en quelques mots, qui sonneront prétentieux par leur concision, là où vous vous trouvez, Tom, et ce que nous attendons de vous. ^^Nous sommes une communauté de gens qui s'appellent Dji Cantos ou illuminés. Déjà le nom, un mélange d'une expression Iskai et d'une expression humaine, indique que notre organisation a été créée, il y a longtemps déjà, par des hommes et des Iskais. Les membres de notre cercle se caractérisent par une connaissance plus approfondie sur la construction de ce monde, que celle des savants ordinaires. Chaque fois qu'un esprit extraordinaire atteint un certain degré de connaissances, nous nous tournons vers lui et nous l'initions au savoir qui fera de lui un illuminé, un Dji Cantos.^^L'origine de notre communauté date du temps de l'immigration des hommes sur Albion. Le grand Cantos, chef des hommes, a fondé notre cercle avec les deux grands savants Iskais, il y a presque 2000 ans. Ce qu'ils avaient en commun, c'étaient la connaissance du pouvoir, qui a permis aux hommes de venir jusqu'ici, et qui représente la source d'énergie de la magie dans ce monde. Vous et nous, en tant qu'héritiers, nous connaissons l'existence d'Animebona, l'entité de ce monde."
+"Continuez, s'il vous plaît! De quoi s'agit-il au juste, cette source d'énergie et cette magie?"
+"Animebona est la somme de toutes les vies de ce monde et possède pourtant sa propre conscience et ses propres buts. On trouve trace de cet être sous certaines formes dans les religions d'Albion, que ce soit la Déesse des Iskais ou la Danu des hommes.^^C'était elle, qui jadis avait parlé à Cantos et qui avait mené les hommes ici à travers les pays du brouillard."
+"Veuillez m'excuser, mais il sera encore temps pour assouvir votre soif de connaissances dans tous les détails, honorable Rainer.^^Pour l'instant, il devrait vous suffire de savoir que nous avons pris une certaine responsabilité avec les connaissances sur l'être de ce monde. Depuis que Frill a annoncé au cercle votre arrivée à Jirinaar, nous vous avons donc observé et entrepris des recherches."
+"ça veut dire que vous savez où se trouve le Toronto, notre grand vaisseau du ciel?"
+"Nous savons effectivement, où ce géant de métal a atterri, Tom Driscoll, et même s'il s'est posé dans le grand désert, c'est pour nous sujet à préoccupations.^^Ce vaisseau est la représentation de ce qui a incité Cantos, d'innombrables années auparavant, à emmener son peuple loin d'Animenkna. Maintenant les Helromiers nous ont rattrapés, c'est du moins ce qui semble être le cas."
+"Je ne comprends pas tout à fait ce que vous voulez dire, Nemos. Le Toronto n'a donc pas encore pris contact avec les habitants d'Albion?"
+"D'après nos connaissances, non, mais nous non plus nous ne sommes pas omniscients, Tom Driscoll.^^Vous avez démontré par vos actes que vous êtes des hommes dignes de confiance, c'est pourquoi nous voulons vous demander d'établir un contact entre nous et vos hommes. Nous aimerions connaître les buts des Helromiers sur notre planète."
+"D'après nos connaissances, non, mais nous non plus nous ne sommes pas omniscients, Tom Driscoll.^^Vous avez démontré par vos actes que vous êtes des hommes dignes de confiance, c'est pourquoi nous voulons vous demander d'établir un contact entre nous et vos hommes. Nous aimerions connaître les buts des Helromiers sur notre planète."
+"Mais volontiers. Entre-temps, une station de recherches devrait être construite. Nous sommes sûrement en train de tourner un tas de documentaires et mes hommes posent certainement en ce moment d'innombrables questions par curiosité. Pour ça, le cercle des plus grands savants de ce monde représente évidemment une source d'informations idéale.^^ Si vous pouviez avoir la gentillesse de nous permettre de poursuivre notre voyage vers le point d'atterrissage du Toronto?"
+"Merci pour votre bonne volonté, Tom Driscoll. Comme signe de notre confiance, je voudrais vous remettre cette petite pierre. Elle sert de signe distinctif à notre communauté et vous protégera aussi contre l'injustice."^^{INK 001}Nemos pose une petite pierre sur la poitrine de Tom. Elle reste solidement collée sur sa peau!{INK 002}^^ "Votre vaisseau géant est dans le pays chaud des forgerons, de la Guilde Umajo, loin d'ici au nord-est.^^Afin de rendre votre voyage le plus rapide possible, nous voulons, si vous voulez bien, vous donner Harriet comme accompagnatrice.^^En tant que membre de notre cercle, elle a accès à ce qui est peut-être la plus grande magie qu'Animebona met à notre disposition:^Les grottes de la Déesse permettent le transport entre deux endroits différents, sans devoir parcourir le chemin qui sépare les deux, comme jadis, lorsqu'Animebona emmena Canto et son peuple jusqu'ici."
+"Bientôt plus rien ne m'étonne."
+"Patience, Rainer. Nemos, nous acceptons volontiers votre proposition.^^ Bienvenue dans notre petit groupe, Harriet."
+"Ce sera sûrement un voyage intéressant, Tom Driscoll."
+Harriet rejoint les rangs des compagnons.
+"Même si nous voulons entrer rapidement en contact avec les Helromiers, il y a sûrement assez de temps pour réfléchir et discuter."
+"Je vous en prie! Je voudrais encore en savoir un peu plus!"
+"Nous allons maintenant retourner à nos occupations, mais chacun ici répondra volontiers à vos questions, Tom et surtout Rainer.^^Faites un tour dans cette maison, et prenez des forces pour le voyage. Peut-être en méditant un peu dans la nature de cette île, particulièrement bénie par l'entité. C'est ici que ses forces sont les plus fortes.^^ Si personne n'y voit d'objection, je voudrai clore maintenant la réunion."
+Personne n'élève la voix, et le groupe se disperse lentement.
+"Par ici on entre dans la grotte, à partir de laquelle nous pourrons entamer notre voyage avec l'aide d'Animebona. Vous êtes sûr, Tom, que vous voulez quitter maintenant cet endroit, ou voulez-vous rester encore un peu?"
+Entrer dans la grotte et poursuivre le voyage?
+Les autres sont en train de se tourner vers l'entrée de la grotte, lorsque Rainer prend la parole:
+"Tom, juste un mot. Ce lieu du savoir a un attrait particulier pour moi, il y a encore beaucoup de questions que je voudrais poser aux gens d'ici.^^En bref, je me suis décidé de rester.^^Je voudrais pénétrer plus profondément les secrets de ce monde, et il sera toujours assez tôt pour rentrer au Toronto. Les membres du groupe de contact ici auront en plus un interlocuteur avisé.^^Je pense que tu peux te passer de ma compagnie, non?"
+"Nous avons vécu beaucoup de choses ensemble, Rainer, et tu vas me manquer.^^ J'aurais dû savoir qu'on ne t'éloigne pas comme ça de cet endroit truffé de savants. Trop de collègues ici, hein?^^Je te souhaite bonne chance. Nous nous reverrons bientôt, je reviendrai avec le premier groupe de contact."
+"Je croise les doigts pour toi pendant le voyage, Tom. A bientôt!^^Ah oui, voilà, prenez aussi mon équipement, j'en n'ai plus besoin dans un premier temps."
+Rainer prend congé de tous les compagnons et leur remet ses petites affaires. Puis il retourne dans la maison. Tom et les autres entrent dans la grotte...
+"Il vaut peut-être mieux rester encore un peu, Harriet."
+Tom et ses compagnons se précipitent dans la salle de réunion de la maison de Canto. Les illuminés se rassemblent rapidement.^^Tom, à bout de souffle, raconte les plans de la société, qui doivent être exécutés par l'IA et capitaine Brandt: l'exploitation de la planète doit continuer.
+"Donc, nos pires craintes se sont réalisées. Animenkna nous a finalement rattrapés. Qui aurait pensé que nous allions faire face à une situation similaire à celle de nos ancêtres."
+"Et vous êtes sûr que quelques douzaines de Helromiers, aussi grand leur vaisseau métallique soit-il, représentent une menace pour notre planète entière?"
+"Vous devez comprendre, Birrh, que ce vaisseau est capable de grandir. L'installation s'étend par elle-même de plus en plus, c'est un processus d'auto-conservation. ça mettra un certain temps, mais les conséquences pour Albion sont imprévisibles."
+"Tom, vous êtes visiblement indigné du comportement de vos camarades Helromiers.^^ Est-ce à dire que vous êtes de notre côté?"
+"J'ai vécu beaucoup de choses sur cette planète, Nemos, et mes voyages m'ont rapproché d'Albion et de ses habitants. J'aurais protesté de toute façon contre la poursuite du projet, mais après le traitement qui nous a été réservé à bord du Toronto, je suis prêt à tout. La direction du vaisseau est sans scrupules!"
+"Que s'est-il passé exactement après ton arrestation?"
+"En gros, c'est Joe qui m'a d'abord libéré. Nous avons ensuite essayé d'éteindre l'IA, pour pouvoir informer l'équipage sur cette planète.^^ Vous devez savoir, honorables Dji Cantos, qu'en aucun cas la majorité à bord du Toronto serait prête à sacrifier sciemment un monde florissant.^^ En tout cas, nous avons échoué. L'IA nous a dit en face que la direction du vaisseau allait ignorer la législation. Il s'agit visiblement de l'existence même de la société. Nous avons compris pendant notre fuite, pourquoi l'IA avait parlé si ouvertement des plans de la société: nous sommes tombés dans un piège.^^Seulement grâce à l'effet de la petite pierre, que vous m'aviez offerte, Nemos, nous en sommes sortis vivants."
+"Je m'attendais bien à des sales coups de la part de la société, mais que leur tentative soit aussi directe et grossière, ça je ne l'aurais jamais cru."
+"Réfléchissez un peu. L'affaire est joliment ficelée: la mort accidentelle de l'inspecteur devant l'irremplaçable SysCom. Aucune possibilité de communiquer avec les gens à la maison. Avant qu'il n'y ait enquête, l'affaire est jouée. Le gouvernement ne peut pas se permettre d'envoyer quelqu'un ici pour un contrôle."
+"Nous pouvons constater une fois de plus: il n'y a pas de clichés. Et les erreurs se répètent.^^La question est: que faire?"
+"Vous les Dji Cantos, vous nous avez raconté d'Animebona, l'entité de ce monde. Vous ne dites pas que c'est une sorte de conscience? Permet-elle la destruction de son monde et d'elle-même?"
+"Oh, Animebona essaye bien sûr de se défendre."
+"J'ai eu des visions inquiétantes, pendant que nous vous attendions, Tom.^^Le monde, l'entité a... des douleurs."
+"Pense à tout ce qui s'est passé dans les premiers temps de l'exploitation des matières premières, Tom. Je ne pige peut-être que la moitié de ce qui est dit, mais ce que nous avions comme problèmes au départ, ce n'était pas normal.^^Un affrontement de matériel a eu lieu, par contre après, ça marchait mieux."
+"Animebona n'est pas toute-puissante. Elle n'intervient pas ici contre quelques fouilleurs, armés de pelles, qui tentent de déshonorer son corps.^^ Elle se voit opposée à l'incarnation d'Animenkna, son antithèse. Sa magie ne peut pas grand chose contre le principe d'Animenkna, le développement de tout ce qui, jadis, a fait fuir notre peuple."
+"Est-ce que ça veut dire que nous sommes complètement impuissant face au colosse métallique?"
+"Nous devons réfléchir. Je suis content que trois Helromiers, dont un savant, se sont ralliés à nous. Peut-être que nous trouverons ensemble un moyen contre cette menace."
+Pendant que Tom et Joe se reposent un peu, une discussion animée a lieu entre les illuminés et Rainer. Le lendemain, quelques silhouettes livides se dressent devant Tom et ses compagnons, pour leur communiquer leur décision.
+"Nous pensons avoir trouvé un moyen qui laisse un peu d'espoir. Ce sera sûrement l'action magique la plus difficile que nous n'ayons jamais effectué, mais ça représente une chance."
+"Vous ne dites pas que la magie ne peut pas grand chose contre le Toronto?"
+"C'était exactement notre problème. Mais nous avons cependant trouvé un moyen avec l'aide de l'honorable Rainer Hofstedt. Nous ne devons pas combattre le principe de la civilisation de haute technologie des Helromiers, Animenkna, mais l'intégrer dans le processus magique, pour que finalement la transformation du colosse métallique, en autre chose, soit possible."
+"Evidemment l'affaire a un hic, ou plutôt deux."
+"Ce que Rainer Hofstedt veut dire, c'est que nous allons essayer de créer un artefact magique. Son pouvoir sera immense, mais pas exactement prévisible. Et il faudra le porter près d'une grande source d'énergie dans le vaisseau métallique."
+"Plus précisément, près du réacteur de fusion de l'installation."
+"Doucement, doucement. Le premier hic est donc, que {FAT }nous{NORS} devons apparemment être ceux qui doivent retourner à bord du Toronto. Et puis: {FAT }Que{NORS} doit-on porter près du réacteur?"
+"Nous voulons essayer de créer quelque chose que nous appelons la GRAINE. C'est un amalgame de différents principes magiques. La plupart des connaissances, dont nous avons besoin pour créer cette graine, sont à notre disposition. ^^Il nous manque par contre deux informations. Elles sont en possession de deux cultures, dont les membres ne fréquentent pour ainsi dire jamais notre cercle.^^La Guilde des Forgerons, les Umajo, est la première de ces cultures. Nous devons, comme je l'ai dit, intégrer le principe Animenkna dans notre création, pour agir sur le vaisseau métallique. Les Umajo sont devenus des travailleurs frontaliers entre Animenkna et Animebona, l'entité. Ils maîtrisent autant la technologie que la magie. Nous avons besoin d'eux pour savoir comment agir sur le métal avec la magie.^^Je ne sais pas si les Umajo partagent volontiers ce savoir avec des tiers."
+"Compris. Et la deuxième information?"
+"Il s'agit ici de savoir comment maîtriser d'énormes quantités d'énergie. Cette connaissance est entre les mains des... Kenget Kamulos."
+"Le culte des tueurs!"
+{INK 001}Le visage de Khunag affiche un léger sourire.^^{INK 002}"Il s'agit d'un élément clé de la magie des Kenget Kamulos."
+"Même les Kenget sont à la merci de la survie économique. Nous allons essayer de leur faire une proposition alléchante. Notre communauté n'est pas si démunie qu'elle, hmhm, en a souvent l'air."
+"Possible que mes anciens frères acceptent le marché. Possible."
+"Pour vous devancer, Nemos: nous devons d'abord nous procurer les connaissances qui nous manquent et nous jeter ensuite dans la gueule du loup, comme on dit chez nous. Là, on utilisera, près du réacteur du Toronto, un objet à la charge magique, dont, si j'ai bien compris, personne ne sait ce qu'il provoque exactement.^^ J'ai raison?"
+"Mmh, dans votre façon directe, mmh, oui, ça touche au coeur de l'histoire. Vous et vos compagnons, vous êtes éprouvés au combat et vous possédez les connaissances nécessaires. Mais nous comprendrions parfaitement, si..."
+"O.K., O.K., passons. Je peux difficilement dire "non" maintenant. ^^Si les autres sont prêts à prendre ces risques, l'opération peut commencer."
+Personne ne fait marche arrière.
+"Bien. Résumons:^^nous devons aller chez les Umajo, et essayer d'obtenir le savoir sur le traitement magique du métal.^^En plus, nous allons tout droit dans le centre d'un culte mortel, appelé Kenget Kamulos, et leur faisons une offre qu'ils ne pourront pas refuser, espérons-le.^^Pour finir, on essaiera d'assembler cette graine magique ici, que nous porterons ensuite près du réacteur du Toronto, pour voir ce qu'il se passe."
+L'assemblée acquiesce, puis Joe prend la parole.
+"Je propose, pendant que vous risquez votre peau, le vieux Joe va officier en tant que cameraman. Je vais enregistrer, avec la caméra que j'ai sur moi, un documentaire. Avec un peu de chance, nous pourrons, lorsque nous pénétrerons dans le Toronto, introduire le documentaire dans le réseau de bord. Si nous réussissons à interdire à l'IA l'accès à la console en question, pendant quelques minutes, nous pourrons éclairer les gens à bord sur la planète et leur conseiller de quitter le vaisseau."
+"Ca a l'air bien. Fais-le."
+"Mes amis, ça n'a pas de sens de reporter cette affaire. Allons nous procurer les deux informations qui nous manquent."
+Les Dji Cantos remettent 1500 en or, puis l'assemblée se disperse.^^Tom et ses compagnons sont prêts pour le départ et se rendent dans la grotte de la Déesse.
+Tom et ses compagnons réunissent les illuminés et leur remettent, non sans une certaine fierté, les deux parchemins avec les informations nécessaires.^^Les compagnons épuisés se reposent, pendant que les Dji Cantos étudient les parchemins. Un peu plus tard, une réunion a lieu...
+"Nous vous remercions encore une fois pour les parchemins! Nous nous sommes préparés pour ce moment depuis des jours. Vous avez contribué avec brio à la création de la graine.^^Maintenant, c'est à nous de parfaire la création."
+Les Dji Cantos, dont Harriet, forment un cercle dans la salle de réunion et plongent dans une concentration extrême.^^Bientôt déjà, toute la salle est emplie d'une lumière éblouissante!
+Epuisés, ils quittent le cercle un après l'autre, jusqu'à ce que restent Nemos, Drannagh et Harriet. La lumière aveuglante disparaît lentement et laisse apparaître ce qui a été créé par l'union des plus grands talents magiques de la planète.
+"On a réussi, qu'Animebona soit louée!"
+D'une mine solennelle, Nemos remet aux compagnons une forme simple, qui ressemble effectivement à une grosse graine.
+"C'est l'essence même d'Animebona. Que pour une fois la magie l'emporte sur le rationnel, le principe d'Animenkna. Utilisez la graine à bon escient."
+"Soyez remercié, Nemos.^^Euhmmh, on ne remarque pas forcément le pouvoir de la graine, vous ne trouvez pas?"
+{INK 001}Contre toute attente, Nemos éclate de rire.{INK 002}^^"Attendez un peu! L'arbre issu d'une graine ordinaire est aussi plus impressionnant que ce qui lui a donné naissance.^^Maintenant, il est temps pour vous d'amener la graine à destination. Tom, vous voulez sûrement réfléchir aux compagnons que vous voulez emmener dans cette entreprise dangereuse, lesquels vous avez connu lors de votre voyage. Rassemblez la troupe qui vous convient, mais ensuite ne tardez plus.^^Nous misons tous nos espoirs sur vous et vos compagnons."
+"Nous allons faire de notre mieux. Dès que j'aurai formé l'équipe optimale, nous partirons à Umajo-Kenta et à partir de là, nous pénétrerons, par-dessous les montagnes, dans la zone d'atterrissage du Toronto.^^Joe et moi, nous avons déjà vu à l'époque, pendant notre fuite, une possibilité pour pénétrer dans l'installation."
+"Il s'agit d'un accès annexe à un petit sas, qui est conçu comme sortie pour les forces de sécurité du Toronto."
+"Nous essaierons d'entrer par là. Avant d'entreprendre la percée vers le réacteur, nous allons trafiquer une console et introduire le documentaire de Joe, pour informer et prévenir l'équipage. Le désordre ainsi créé devrait jouer en notre faveur.^^Joe, le doc est prêt, non?"
+"Sûr. J'ai monté le matériel de telle façon que l'essentiel apparaît au début. Même si l'IA réussit à interrompre la diffusion relativement vite, les infos devraient passer.^^Tiens..."
+Joe remet un médium de sauvegarde contenant le documentaire et une petite puce aux compagnons.
+"La puce devrait protéger du contrôle de l'IA quelque temps la console, dans laquelle sera introduit le documentaire,.^^Bien, c'était tout ce que j'avais à dire. Juste une chose: je ne suis certainement pas un bon guerrier et ne maîtrise pas les tours de passe-passe des gens ici. Si tu veux Tom, je suis quand même de la partie, car je peux certainement être utile à bord du Toronto. Réfléchis bien."
+"Merci, Joe. Je penserais à ta proposition.^^Et maintenant: en route pour le Toronto!"
+Tous les personnes présentes souhaitent bonne chance et bonne réussite pour la mission. L'attaque contre le Toronto peut commencer à tout moment!

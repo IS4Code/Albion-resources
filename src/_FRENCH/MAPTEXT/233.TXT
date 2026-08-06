@@ -1,0 +1,192 @@
+﻿-libre-
+Branches et racines.
+Un panier tressé.
+Un récipient en verre pour l'eau et d'autres boissons.
+Un fût.
+Une magnifique peau de bête.
+Un seau.
+Un bol en terre cuite.
+Une corne pour boire.
+Une assiette.
+Une cruche en terre cuite.
+Une cruche.
+Un couteau de table.
+Une fourchette.
+Une cuiller.
+Un récipient en terre cuite.
+Pierres.
+Un bol.
+Un outil de labour.
+Une hache.
+Un couvercle de coffre.
+Un coffre en bois.
+Un coffre en bois artistiquement décoré.
+Le petit endroit paisible.
+Un couvercle.
+Un grand baquet de bois.
+Un grand chaudron métallique.
+Une étagère.
+On peut voir dans cette étagère un tas de choses sans importance.
+Une commode.
+Un balai.
+Un gril.
+On peut faire cuire de la viande dessus.
+Un fourneau.
+Une carafe renversée.
+Une cuiller en bois.
+Une épée murale décorative.
+Une table en bois.
+Un tabouret.
+Un tabouret replié.
+Une table à manger massive.
+Une souche.
+Deux lances croisées.
+Un grand fût avec d'étranges boissons.
+Une chantepleure.
+Une couverture de lit.
+Un lit confortable et joliment décoré.
+Ce lit est modeste mais fonctionnel.
+Un bahut.
+Une cheminée.
+Le feu de cheminée diffuse une chaleur agréable.
+Un pot artistiquement confectionné.
+Herbes séchées.
+Un crâne humain.
+Un bouclier décoratif.
+Un pot en métal.
+Une épée décorative.
+Une porte.
+Un chaudron.
+Un couteau.
+Un stylet.
+Un poignard.
+Une dague.
+Un coutelas.
+Une épée.
+Une pointe.
+Un poignard de jet.
+Une petite hache.
+Une hache.
+Un petit arc.
+Un arc.
+Une flèche.
+Un petit bouclier de cuir.
+Un bouclier de cuir.
+Un bouclier rond.
+Un grand bouclier.
+Un bonnet de cuir.
+Un bonnet clouté.
+Un bol de métal.
+Un gilet de cuir.
+Une armure de cuir.
+Un cuir clouté.
+Une paire de chaussures.
+Une paire de bottes.
+Une bouteille vide.
+Une potion de soins verte.
+Une potion de soins turquoise.
+Une potion de soins bleue.
+Une clé.
+Une corde.
+Un anneau.
+Une torche.
+Un marteau plat.
+Un escalier qui monte.
+Un escalier qui descend.
+Un comptoir.
+Un paillasson en forme de tapis.
+Une plante d'appartement.
+Un pot de fleur.
+Un ornement artistique enfoncé dans le sol.
+Un ornement artistique enfoncé dans le sol, sur lequel est posé un grand cristal.
+Une table en métal.
+Une enclume.
+Un bouclier de métal.
+Un coffre en métal.
+Une forge pour façonner des métaux.
+Une tapisserie.
+Un coussin vide. C'est un très bel exemplaire que l'on utilise normalement pour la décoration.
+Plusieurs parures précieuses.
+Tableaux de présentation avec armes et boucliers.
+Un tableau de présentation vide.
+Une coupelle de feu.
+Une coupelle de feu éteinte.
+Un levier branlant.
+Un levier.
+Un point d'eau.
+Un marteau.
+Un petit marteau.
+Un marteau plat.
+Un marteau spécial.
+Une tenaille.
+Une lime.
+Une petite lime.
+Un poinçon.
+Un tournevis.
+Un petit tournevis.
+Une scie à métaux.
+Un outil fin.
+Un gobelet.
+Une clé plate.
+Des ciseaux.
+Un bol.
+Des ciseaux fins.
+Une bouteille.
+Plusieurs bouteilles.
+Une fiole.
+Une fiole rouge.
+Une petite boîte en métal.
+Une forme en métal.
+Une forme en fil de fer.
+Un bol en métal.
+Boules de cuivre.
+Un bol d'eau.
+Un bol.
+Un mortier.
+Un verre grossissant.
+Une pincette.
+Un coutelas lourd.
+Une épée ornée.
+Une double pointe.
+Une épée longue.
+Une armoire de présentation.
+Etagères avec de précieux ouvrages en fer forgé, des bijoux et des gemmes.
+Un lorry.
+Rails.
+Un butoir.
+Une chaise.
+Un lapidaire diamantaire.
+La sortie.
+Une entrée dans les galeries.
+"J'ai été surpris à chaque fois. J'ai vu une niche sur la droite. Je vais essayer de m'y cacher."
+"Mon Dieu, toujours cette poussière dans les poumons. C'est vraiment horrible, de travailler longtemps sous terre. Je devrais me mettre quelque chose sur le nez chaque fois que je descends dans les galeries. D'un autre côté, cela m'empêche de respirer correctement.^^Notre vie n'est vraiment pas saine, et en plus, nombreux sont les gens qui se plaignent que nous vendons les minerais et les gemmes trop chers."
+"Je nettoie les salles d'eau et les douches de nos mineurs."
+"Skeima Din, mon nom est Bekkina.^^Vous êtes en visite ici?^^C'est bien, faites un tour. Vous rencontrerez peut-être aussi mon mari. Il est Prêtre des Montagnes et a donc toujours beaucoup à faire. Il n'a en effet qu'un seul collègue et ne peut pas se permettre de faire beaucoup de pauses.^^La vie est dure chez nous. Les rumeurs selon lesquelles nous demandons trop d'or sont complètement exagérées. Ici, rien n'est donné."
+"Je suis un peu fatigué, j'ai dû faire journée continue hier. Excusez-moi, s'il vous plaît."
+"Vous avez vu Zebenno par ici? Il me tape franchement sur les nerfs. Il se plaint tout le temps de nos prix. Il n'a apparemment rien d'autre à faire de mieux. Bon bon, je vais bien finir par le trouver.^^Encore une bonne journée."
+"Etonnant, d'habitude les visiteurs ne se perdent que très rarement dans ma cuisine. Mais soyez les bienvenus, je suis Rekkejos et je travaille ici en tant que cuisinier."
+"Soupe à la viande avec des boulettes."
+"Morceaux de poisson dans une sauce aux herbes."
+"Gratin de légumes au Sugo."
+"Gâteaux de Groed frais avec purée de légumes."
+"Akarves au four avec de délicieuses paupiettes de gruel."
+"Aujourd'hui je fais des côtes de poisson aux herbes double-feuille."
+"Je suis encore un peu indécis - je vais encore certainement faire un grand pot maison."
+"Gratin de fruits avec sauce au chèvre."
+"Petits gâteaux de baies avec sauce à la viande."
+"Saucisse grillées accompagnées de salade d'arbre."
+"Aujourd'hui, il y a une assiette anglaise."
+"Je n'ai plus d'idées. Qu'est-ce que je peux bien cuisiner aujourd'hui?"
+"Skeima Din. J'aide Rekkejos à cuisiner. Il a toujours beaucoup de choses à faire, car tous les mineurs et Prêtres des montagnes mangent ici. Vous n'imaginez pas dans quelles orgies ça dégénère à chaque fois! Mon maître est en effet un vrai gourmet."
+"Skeima Din, si vous êtes des visiteurs, je peux vous proposer une chambrée pour la nuit."
+"Vous avez déjà entendu parler de la grande 'Pierre des 1000 visions'? Mykonou, le vieux Tailleur de Diamants, m'en a déjà parlé. Je dois avouer que c'était passionnant."
+"Bonjour! Chez vous on dit bonjour, non?"
+"Je suis en train de jouer. Vous voulez jouer avec moi?"
+"Hihi, vous portez de drôles de costumes!"
+"Tu sais, petit, quand tu seras plus grand, ta môman t'expliquera. Nous ne sommes pas d'ici, et de là où nous venons, ce sont des habits tout à fait normaux."
+"Ouinnnn - j'ai soif."
+"Vous voulez savoir ce qu'il y a manger aujourd'hui?"
+"Je crois qu'il vaut mieux que je rentre tout seul. De toute façon, les mineurs nous ont interdit d'entrer dans la galerie. Tout seul, j'ai sûrement une chance de pouvoir me cacher."
+"J'ai découvert la formule secrète de la cérémonie. J'espère que c'est la bonne."
+Un pot en métal.
+"Vous voulez passer une nuit ici?"

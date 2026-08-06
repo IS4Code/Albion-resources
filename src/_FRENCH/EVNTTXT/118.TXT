@@ -1,0 +1,9 @@
+﻿{BLOK000}"Je suis un Sebai-li du Clan du bois rouge et membre du conseil."{WORDClan}
+"Dsarii-ma."
+"Dsarii-ma, chasseurs des meurtriers d'Akiir."
+"Notre Clan s'occupe essentiellement du commerce."{WORDCommerce}
+"Vous avez mauvaise mémoire? J'ai dit que notre Clan fait du commerce."
+"Nous faisons du commerce de marchandises dans Nakiridaani, mais également avec des villes éloignées comme Beloveno."{WORDBeloveno}{WORDNakiridaani}
+"Déjà oublié? Nous faisons du commerce de marchandises dans Nakiridaani, mais également avec des villes éloignées comme Beloveno."{WORDBeloveno}{WORDNakiridaani}
+"C'est une ville portuaire, loin à l'est d'ici."
+"Comme je l'ai déjà dit, c'est une ville portuaire, située loin dans l'est."

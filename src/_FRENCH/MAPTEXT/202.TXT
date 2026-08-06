@@ -1,0 +1,65 @@
+﻿-libre-
+Herbes.
+Pierres.
+Petites plantes.
+Petites branches et racines.
+Roseaux.
+Un petit arbre fruitier.
+Un arbre boule.
+Un feuillu.
+Un rapide.
+Un tourbillon.
+Une plante aquatique.
+L'eau est très profonde et le courant est apparemment fort.
+Pousses de plantes aquatiques.
+Une plante florissante.
+Un arbre parasol.
+Cette plante resplendit de merveilleuses couleurs.
+Légumes.
+Un bloc de rocher.
+L'eau est peu profonde et très claire à cet endroit, on y voit le fond. De nombreux blocs de pierre y reposent et il n'y a pratiquement pas de courant.
+Un arbre fruitier.
+Une clôture.
+Une plante à tige.
+Une plante rampante.
+Un buisson.
+Une plante à grandes feuilles.
+Une cascade.
+Une avancée rocheuse.
+Une plante qui pousse sur les rochers.
+Cette plante grimpante s'est agrippée avec des milliers de racines dans les aspérités de la roche. Elle paraît solide et offre, par ses multiples ramifications, de nombreuses possibilités pour s'accrocher.
+Un pont de bois.
+Des champs de céréales.
+Champignons.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+ 
+{CNTR}On peut lire sur le panneau:^^ {INK 006}Maison d'Aretha, reine d'Aballon
+{CNTR}Ici est indiqué:^^ {INK 006}Les fruits d'Aballon
+{CNTR}On lit encore à peine sur le panneau rongé par le temps:^^ {INK 006}Achète et vends toutes sortes de choses
+{CNTR}"Oink?"
+{CNTR}"Rriik?"
+"Togi Din, les jeunes! Oui, être jeune et voyager, ça j'aimerais encore!"
+"Rifrako, le drôle de loustic, a reçu une sorte d'amulette qui prévient en cas de poursuite par un animal sauvage ou quelque chose de pire. Quel drôle de machin!"
+"Togi Din, voyageurs. Jetez donc un coup d'oeil dans l'échoppe de Benno, la récolte était tellement bonne, qu'il a baissé les prix!"
+"Togi Din, grandes personnes! Ma mère m'a dit de ne pas parler aux étrangers. Mais je le fais quand même!"
+{CNTR}Le panneau indique:^^{INK 006} Vers Aballon: direction sud-ouest
+Un symbole en forme d'oeil est enfoncé dans la roche.
+"Ces symboles existent déjà depuis longtemps. On les trouve à certains endroits sur toute la planète, mais personne n'en connaît l'origine exacte."
+{LEAD}{NAME} place l'amulette avec le symbole de la Déesse sur la roche.^^Un portail s'ouvre en grinçant et les compagnons pénètrent dans la grotte qui est derrière.
+"Pour ouvrir l'entrée de la grotte, je peux utiliser l'amulette de la Déesse que je porte sur moi."
+D'une embuscade surgissent brusquement quelques personnages hardis!^^Ils attaquent!

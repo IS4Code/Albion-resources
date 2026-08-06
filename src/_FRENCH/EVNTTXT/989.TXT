@@ -1,0 +1,17 @@
+﻿!
+"Que désires-tu, Tom?" {BLOK010}"Raconte-moi quelque chose sur ton passé, Khunag."
+"Eu égard à mes pouvoirs en tant que mage, je puis difficilement nier que j'étais jadis membre des Kenget Kamulos. Mes chemins et ceux de mes anciens frères se sont séparés, tu n'as pas besoin d'en savoir plus.^^ Je préfère garder ma vie pour moi tout seul."{WORDKenget Kamulos}{WORDMagie}
+"Il est vain de vouloir en apprendre plus sur mon passé que je ne suis prêt à dévoiler, Tom.^^ J'étais jadis membre des Kenget et je possède par conséquent des connaissances sur leur magie. Mes chemins et ceux de mes anciens frères se sont séparés, tu n'as pas besoin d'en savoir plus.^^ Je préfère, comme je l'ai dit, garder ma vie pour moi tout seul." {WORDKenget Kamulos}{WORDMagie}
+"Kenget Kamulos signifie guerrier du dieu Kamulos. Il s'agit d'un ordre qui s'est scindé, il y a plusieurs centaines d'années, des druides d'Arjano. Ce sont des vrais guerriers qui vivent selon les principes de l'héroïsme et de l'honneur guerrier. C'était ma patrie pendant de longues années, jusqu'à ce que... ma vie ne prenne une autre tournure."
+"Je suis né en tant que guerrier, mais enfermé dans un corps chétif. Ma magie sert uniquement à acquérir de l'honneur au combat. C'est un sentiment fantastique de sentir des flots d'énergie traverser mon esprit.^^Je ne puis malheureusement plus perfectionner mes pouvoirs avec l'aide des Maîtres Oqulo. Il faut que je me rabatte sur les parchemins magiques pour me perfectionner."{WORDOqulo}{WORDParchemins magiques}
+"Les parchemins magiques sont des écrits magiques très particuliers. Après utilisation, ils redeviennent poussière.^^Ils permettent à l'inexpérimenté l'emploi d'une formule magique.^^Mais si quelqu'un est familier avec la magie contenue dans un tel parchemin magique, celui-ci pourra éventuellement apprendre le sort en question de façon durable."
+"Que désires-tu, Tom?" {BLOK010}"Je n'arrive pas à oublier que tu as mis notre vie en péril, Khunag."
+"Nous en avons déjà parlé.^^Vous avez été l'instrument de ma vengeance, c'est vrai. Cependant, affirmer que Cairnain nous aurait remis le Grand savoir de son propre gré, n'est pour moi que mensonge.^^Je vous ai soutenu dans de nombreux combats, et je considère la satisfaction de ma vengeance comme compensation pour tout ça. Par ailleurs, je ne souhaite plus discuter de ce sujet."
+"J'estime, comme je l'ai dit, que toute autre discussion à ce sujet est inutile.^^Si tu le souhaites, je m'en vais."
+"Si tu le souhaites, je vous quitte. Nous n'allons plus nous revoir. Es-tu sûr de pouvoir te passer de moi?"
+"Comme tu voudras. Je vous souhaite beaucoup de chance dans votre entreprise.^^Adieu."
+"Je m'en doutais."
+{BLOK000}Que peux-tu dire de... {BLOK004}Merci pour cet entretien.
+{BLOK000}Que peux-tu dire de... {BLOK003}Je voudrais que tu nous quittes. {BLOK004}Merci pour cet entretien.
+"Il existe deux sortes de guerriers chez les Kenget Kamulos. Les Kledo Kamulos qui se battent avec des armes et avec leur corps. Et les Oqulo Kamulos, les guerriers de l'esprit, qui maîtrisent la magie."
+"Que désires-tu, Tom?" {BLOK010}"Je crois que tu as raison, Khunag, nous devons prendre l'initiative. Conduis-nous au passage secret."

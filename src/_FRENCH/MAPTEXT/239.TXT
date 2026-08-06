@@ -1,0 +1,169 @@
+﻿-libre-
+Branches et racines.
+Un panier tressé.
+Un récipient en verre pour l'eau et d'autres boissons.
+Un fût.
+Une magnifique peau de bête.
+Un seau.
+Un bol en terre cuite.
+Une corne pour boire.
+Une assiette.
+Une cruche en terre cuite.
+Une cruche.
+Un couteau de table.
+Une fourchette.
+Une cuiller.
+Un récipient en terre cuite.
+Pierres.
+Un bol.
+Un outil de labour.
+Une hache.
+Un couvercle de coffre.
+Un coffre en bois.
+Un coffre en bois artistiquement décoré.
+Le petit endroit paisible.
+Un couvercle.
+Un grand baquet de bois.
+Un grand chaudron métallique.
+Une étagère.
+On peut voir dans cette étagère un tas de choses sans importance.
+Une commode.
+Un balai.
+Un gril.
+On peut faire cuire de la viande dessus.
+Un fourneau.
+Une carafe renversée.
+Une cuiller en bois.
+Une épée murale décorative.
+Une table en bois.
+Un tabouret.
+Un tabouret replié.
+Une table à manger massive.
+Une souche.
+Deux lances croisées.
+Un grand fût avec d'étranges boissons.
+Une chantepleure.
+Une couverture de lit.
+Un lit confortable et joliment décoré.
+Ce lit est modeste mais fonctionnel.
+Un bahut.
+Une cheminée.
+Le feu de cheminée diffuse une chaleur agréable.
+Un pot artistiquement confectionné.
+Herbes séchées.
+Un crâne humain.
+Un bouclier décoratif.
+Un pot en métal.
+Une épée décorative.
+Une porte.
+Un chaudron.
+Un couteau.
+Un stylet.
+Un poignard.
+Une dague.
+Un coutelas.
+Une épée.
+Une pointe.
+Un poignard de jet.
+Une petite hache.
+Une hache.
+Un petit arc.
+Un arc.
+Une flèche.
+Un petit bouclier de cuir.
+Un bouclier de cuir.
+Un bouclier rond.
+Un grand bouclier.
+Un bonnet de cuir.
+Un bonnet clouté.
+Un bol de métal.
+Un gilet de cuir.
+Une armure de cuir.
+Un cuir clouté.
+Une paire de chaussures.
+Une paire de bottes.
+Une bouteille vide.
+Une potion de soins verte.
+Une potion de soins turquoise.
+Une potion de soins bleue.
+Une clé.
+Une corde.
+Un anneau.
+Une torche.
+Un marteau plat.
+Un escalier qui monte.
+Un escalier qui descend.
+Un comptoir.
+Un paillasson en forme de tapis.
+Une plante d'appartement.
+Un pot de fleur.
+Un ornement artistique enfoncé dans le sol.
+Un ornement artistique enfoncé dans le sol, sur lequel est posé un grand cristal.
+Une table en métal.
+Une enclume.
+Un bouclier de métal.
+Un coffre en métal.
+Une forge pour façonner des métaux.
+Une tapisserie.
+Un coussin vide. C'est un très bel exemplaire que l'on utilise normalement pour la décoration.
+Plusieurs parures précieuses.
+Tableaux de présentation avec armes et boucliers.
+Un tableau de présentation vide.
+Une coupelle de feu.
+Une coupelle de feu éteinte.
+Un levier branlant.
+Un levier.
+Un point d'eau.
+Un marteau.
+Un petit marteau.
+Un marteau plat.
+Un marteau spécial.
+Une tenaille.
+Une lime.
+Une petite lime.
+Un poinçon.
+Un tournevis.
+Un petit tournevis.
+Une scie à métaux.
+Un outil fin.
+Un gobelet.
+Une clé plate.
+Des ciseaux.
+Un bol.
+Des ciseaux fins.
+Une bouteille.
+Plusieurs bouteilles.
+Une fiole.
+Une fiole rouge.
+Une petite boîte en métal.
+Une forme en métal.
+Une forme en fil de fer.
+Un bol en métal.
+Boules de cuivre.
+Un bol d'eau.
+Un bol.
+Un mortier.
+Un verre grossissant.
+Une pincette.
+Un coutelas lourd.
+Une épée ornée.
+Une double pointe.
+Une épée longue.
+Une armoire de présentation.
+Etagères avec de précieux ouvrages en fer forgé, des bijoux et des gemmes.
+Un lorry.
+Rails.
+Un butoir.
+Une chaise.
+Un lapidaire diamantaire.
+La sortie.
+"Skeimô Din...frères et soeurs.... c'est.. c'est pôs une môgnifique journée ôjourd'hui?"
+"Je ne jouerai plus jamais! J'ai perdu plus de 1000 pièces d'or. C'est presque autant que ce que j'ai dû donner à Nelly après qu'elle m'ait arnaqué. Je vous le dis, les gens d'ici ne jouent pas tous cartes sur table. Ne vous laissez jamais entraîner au jeu!"
+"Vous avez déjà parlé à Konny? Quand elle est libre, elle est presque toujours ici. Elle adore écouter les histoires des gens qui ont beaucoup voyagé. Si vous la voyez, parlez-lui donc."
+"Hihi, comme je vois, vous vous êtes déjà fait piquer par quelques insectes. Heureusement, la plupart des espèces sont inoffensives. Dans le désert, il y a énormément de moustiques et d'insectes. C'est pourquoi les plantes carnivores y poussent si bien. Allez donc voir comment elles attrapent les insectes."
+"Vous ne voyez pas que j'ai soif? Poussez-vous!"
+"Skeima Din."
+"J'espère que je serai bientôt aussi grand que vous! J'aurai alors le droit d'aller partout et de faire ce que je veux."
+{INK 002}La petite fille vous regarde effrayée, mais n'arrive pas à sortir un mot.
+"On s'ennuie terriblement ici. J'ai personne avec qui jouer et mes amis sont partis. Mais mes parents ne me laissent pas tout seul à la maison..."
+"A votre place, je n'irais pas dans la partie sud du désert! Il y a quelque temps, il y a eu un terrible grondement et j'ai vu de mes propres yeux une chose gigantesque descendre du ciel. Elle clignotait, brillait et tournait tout le temps en rond. Je n'ai jamais vu quelque chose d'aussi gros!^^La plupart des gens d'ici ne me croient pas, mais je l'ai vraiment vu de mes propres yeux! Et presque tout le monde ici a entendu le puissant grondement de tonnerre, même si chacun l'explique à sa manière. La plupart apparemment ne veulent pas l'admettre. C'est sûrement quelque chose de mal. Je n'irais pas à votre place.^^Bien, je ne dirais plus rien à ce sujet, parce qu'ici, j'ai de toute façon la réputation d'être un pessimiste. Mais si vous voulez, vous pouvez toujours interroger les gens à propos du coup de tonnerre."

@@ -1,0 +1,6 @@
+﻿{BLOK000}"Je suis un des deux nouveaux membres du 'Conseil des justes'."
+"Skeima Din, nous ne nous connaissons pas, hein? Mon nom est Arrek, et je suis le successeur de Riko. Nous n'avions pas encore fait connaissance jusqu'à là, mais j'ai déjà beaucoup entendu parler de vous."
+"Veuillez m'excuser de vous couper la parole, mais ne serait-ce pas une bonne idée que vous partiez pour la Chose Sacrée de Srimalinar pour essayer d'éviter le pire? Si mes informations sont bonnes, vous avez trouvé des preuves contre Kontos qui le compromettent sérieusement et qui démontrent en même temps qu'il est le principal responsable de ce conflit?"
+"C'est mon nom."
+Voilà l'autre nouveau membre du conseil.
+"Vous connaissez les lieux probablement mieux que moi."

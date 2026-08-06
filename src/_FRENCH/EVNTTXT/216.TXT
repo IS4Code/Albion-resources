@@ -1,0 +1,10 @@
+﻿{BLOK000}" J'tue des animaux sôvages dans les boués, je les coupe et je vonds la viande. Vu comme çô, vous pouvez dire que j'suis chôsseur, boucher et vondeur, hein."{WORDChasseur}
+"Skeima Din, étrangers. Je suis Aurino et ravi de faire vôtre connaissonce. Alôrs, commont trouvez-vous notre Sugô?"{BLOK010}"Skeima Din, merci. Nous l'apprécions beaucoup, une boisson succulente!"{BLOK011}"Skeima Din Aurino. Nous de même. Ce Sugo est par contre un jus particulièrement exécrable."
+-libre-
+"Mhm, normalemont çô dure un momont ôvont qu'on s'habitue ô goût, hein. Mais j'vous croîs. Tont que vous nouayez pôs vôs soucis ôvec..."{WORDSoucis}
+"Hohoho, vous'm plaisez. Au moins vous êtes froncs, hein. Si tout le monde était fronc cômme vous, y aurait des soucis on moins ô Beloveno."{WORDSoucis}
+"Et ben, que diriez-vous, si on peut pô compter sur les gons les plus importonts de la ville?"{BLOK010}"Vous ne pourriez pas préciser un peu?"
+"Et ben, le 'Conseil des justes' devrait normalement être lô pour lô population. Lô, çô fait lô deuxième fois que j'ai une dispute ôvec mon voisin. Co tournait ôtour d'un terrain et nous nous sômmes disputés pour un droit de propriété, hein. Dans ces côs, notre sôge conseil devrait normalemont prondre une décision juste. Mais, dons les deux cas, un jugemont a été arrêté qui était ni à mon profit, ni au profit de mon voisin. Le conseil a tout simplemont gôgé les terrains, hein. En plus, ils ne peuvent même pôs être utilisés pôr la cômmunauté. J'compronds vraimont pô, hein. Cô vô pô pour le mieux ô conseil."{WORDTerrain}
+"Mon métier me plaît, merci!"
+"Ca ô rien ô vouér, c'était juste un exomple, hein."
+"C'est moi."

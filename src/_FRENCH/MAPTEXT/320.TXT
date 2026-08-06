@@ -1,0 +1,56 @@
+﻿-libre-
+Un feuillu.
+Une plante rampante.
+Plantes à feuilles.
+Un cactus.
+Petites plantes.
+Rochers.
+Un toit en tuiles.
+Balustrade.
+Un escalier.
+Un vieux tronc d'arbre sans soutien.
+Feuillage tombé des arbres.
+Cette plante pompe l'eau souterraine à la surface avec des mouvements de pulsation.
+Une cascade.
+Blocs de rocher.
+Une porte.
+Une colonne.
+Une colonne cassée.
+De l'eau coule ici.
+Une torche à huile.
+Un bouclier.
+Un drapeau flottant dans le vent.
+Un tabouret.
+Rapides.
+Une table.
+Un livre ouvert.
+Un livre.
+De l'eau.
+Une sorte de gros champignon.
+Une plante aquatique.
+Une plante aquatique florissante.
+Une tige de métal.
+Une dalle de pierre.
+{CNTR}Le panneau indique:^^{INK 006} Petit chemin.^Maison de Cantos: NORD
+Après être resté immobile en pleine concentration, {LEAD}{NAME} sent tout à coup ses idées se remettre en place et son esprit plus aiguisé qu'avant.
+La méditation demeure sans succès.^^ {LEAD}{NAME} sent que l'énergie, qui entourait cet endroit, est maintenant épuisée.
+La méditation de {LEAD}{NAME} est sans succès.^^Il semble que les énergies de cet endroit vont d'abord devoir se régénérer.
+{CNTR}Le panneau indique:^^{INK 006} Grand chemin.^Maison de Cantos: EST
+{CNTR}Le panneau indique:^^{INK 006} Grand chemin.^Maison de Cantos: NORD
+{CNTR}Le panneau indique:^^{INK 006} OUEST: Grand parcours circulaire
+{LEAD}{NAME} se concentre un moment et sort fortifié de la méditation!
+Après sa méditation, {LEAD}{NAME} a l'impression de mieux contrôler son corps.
+{LEAD}{NAME} médite un moment et constate après qu'{HE  } est plus agile!
+Un sentiment difficilement descriptible s'empare de {LEAD}{NAME} après sa méditation. {HE  } se sent plus optimiste, comme si moins de choses pouvaient lui arriver dans la vie.
+{LEAD}{NAME} sent après sa méditation que son esprit est devenu plus fort.
+{LEAD}{NAME} se sent après sa méditation plus intimement lié avec les pouvoirs de la magie.
+Une île perce dans le brouillard. Un lieu d'une beauté extraordinaire s'offre aux regards de Tom et de ses compagnons. L'île est sillonnée par des cours d'eau et couverte d'arbres majestueux. Des ponts élégants enjambent le paysage, de petites bâtisses s'intègrent dans l'environnement, et on aperçoit une grande maison à l'arrière-plan.^^Une ambiance paisible et rassurante plane au-dessus de l'endroit.^^Frill quitte le bateau et les autres le suivent. Le petit bateau repart tout de suite, et Frill s'adresse à ses hôtes:
+"Bienvenue sur l'île des Dji Cantos, ou illuminés. Ce que vous allez voir maintenant, très peu l'ont vu. Suivez-moi à la maison des réunions, où vous allez rencontrer une autre connaissance."
+Stupéfaits, ses compagnons suivent Frill et absorbent le spectacle que leur offre la nature...
+Devant Tom, surpris, se dresse Nemos, qu'il a connu en tant que chef des druides de Gratogel.^^Lui aussi, visiblement, fait partie de la communauté mystérieuse qu'abrite l'île.
+"Bienvenue, Tom Driscoll, et bienvenus soient aussi tes compagnons."
+"Togi Din, Nemos. Ravi de te revoir. Même si, je dois l'avouer, je suis un peu surpris par les circonstances."
+"C'est compréhensible. Nous avons beaucoup de choses à vous dire."
+"Comme vous, Tom Driscoll, qui devriez nous dire certaines choses.^^Suivez-moi maintenant, s'il vous plaît, à l'intérieur de la maison. Nous aurons à y échanger un tas d'informations."
+{LEAD}{NAME} se sent physiquement plus endurant après sa méditation!
+Fleurs de la Déesse.

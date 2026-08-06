@@ -1,0 +1,6 @@
+﻿{BLOK000}"Hé bien, j'étudie et j'aide parfois à découper le gibier, quand je ne peux pas tirer au flanc."
+"Oh, les hommes! Euhm, je veux dire, Dsarii-ma!" {BLOK010}"Dsarii-ma. Tu as quel âge?"
+"Dsarii-ma. Vous voulez encore quelque chose de moi?"
+"J'ai déjà 4 ans. J'apprends bientôt comment étouffer les douleurs. Mais ça fait encore longtemps avant d'être majeur!"{WORDDouleurs}{WORDMajorité}
+"Je ne sais pas si les hommes peuvent aussi le faire, mais chez nous il existe une méthode pour plus penser aux douleurs. J'apprends bientôt comment on fait. Mes grands frères et soeurs savent déjà le faire.{WORDFrères et soeurs}"
+"J'ai déjà dit. J'apprends bientôt comment plus penser aux douleurs."

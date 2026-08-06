@@ -1,0 +1,8 @@
+﻿{BLOK000}"Je suis physicien et xenobiologiste au service du gouvernement." {WORDGouvernement}
+"Ah, salut, Driscoll! J'espère que vous vous sentez en forme pour notre vol!"{WORDVol}
+"Bonjour, Driscoll. Alors, qu'avez-vous sur le coeur?"{WORDVol}
+"Hé bien, je suis en fonction du gouvernement, car c'est une des rares possibilités de travailler de façon pratique ici à l'extérieur, sans être à la solde d'une grande société comme la DDT."{WORDDDT}
+"Oui, je suis curieux de connaître vos dons de pilote. C'est pour moi à chaque fois un grand moment de voir un monde nouveau de mes propres yeux. Même s'il s'agit apparemment d'un monde aride, baptisé par votre société au nom incroyablement poétique "Nugget". Une beauté, comme Joshi l'a été jadis, aurait été évidemment encore plus intéressante.^^Mais alors cette installation aurait parcouru tout ce chemin pour rien, même si j'y aurais pris un malin plaisir en tant qu'ancien Enviro."{WORDNugget}{WORDJoshi}{WORDEnviros}{WORDInstallation}
+"Comme j'ai dit, je suis curieux de connaître vos dons de pilote. C'est pour moi à chaque fois un grand moment de voir un monde nouveau de mes propres yeux. Même s'il s'agit apparemment d'un monde aride, baptisé par votre société au nom incroyablement poétique "Nugget". Une beauté, comme Joshi l'a été jadis, aurait été évidemment encore plus intéressante.^ Mais alors cette installation aurait parcouru tout ce chemin pour rien, même si j'y aurais pris un malin plaisir en tant qu'ancien Enviro."{WORDNugget}{WORDJoshi}{WORDEnviros}{WORDInstallation}
+{BLOK000}Que pouvez-vous me dire de... {BLOK001}Regardez ça... {BLOK004}A plus tard. {BLOK005}Quelle est votre tâche?
+"A plus tard."

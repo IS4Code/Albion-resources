@@ -1,0 +1,9 @@
+﻿{BLOK000}"Je construis des maisons à partir de plantes, comme vous en avez certainement déjà vu."
+"Skeima Din, agissez-vous en médiateurs dans le conflit entre les peuples, qui ne tardera apparemment pas à éclater?"{BLOK010}"Mais quel conflit?"{BLOK011}"Si ça peut vous aider, nous le ferons volontiers"{BLOK012}"Nous n'avons malheureusement pas le temps pour ça."{WORDConflit}
+"C'est une attitude dangereuse, si vous adoptez cette position. Après tout, vous êtes des hôtes ici, et si un conflit devait vraiment éclater, vous serez très certainement concernés."
+"ça nous aiderait tous, j'en suis persuadé. Il est toujours bon d'avoir quelques amis à la fois neutres et diplomates."
+"Pour l'heure, aucune déclaration concrète n'a été faite, mais s'il s'avère que Kontos persuade ses adeptes que notre Chose Sacrée est dangereuse, ils agiront certainement. ça signifie qu'ils briseront notre tabou, ou qu'ils iront plus loin en nous attaquant directement. Pour l'instant, ce ne sont que des spéculations, mais qui sait. Notre Chose Sacrée n'est pas dangereuse! Malheureusement, je ne peux pas vous le démontrer, à cause du tabou, mais ces drôles de créatures sortent d'ailleurs. Mais je dois avouer que je ne sais pas encore d'où elles sortent exactement."{WORDCréatures} {WORDChose sacrée}{WORDTabou}
+"Oui, n'y allez pas de préférence. Nos fêtes religieuses se déroulent là-bas. Pour nous, c'est un lieu très noble."
+"Ce tabou existe depuis toujours, autant que je me souvienne. ça a des raisons historiques, que je ne voudrais pas vous expliquer maintenant."
+"Oui?"
+"Personne ne sait d'où sortent ces créatures. Elles semblent être d'origine magique et, pour la plupart, on les trouve près de notre Chose Sacrée. Mais nous ne les avons jamais vu sortir DE notre Chose Sacrée."

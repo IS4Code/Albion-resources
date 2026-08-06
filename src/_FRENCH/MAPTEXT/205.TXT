@@ -1,0 +1,66 @@
+﻿-libre-
+Herbes.
+Pierres.
+Petites plantes.
+Petites branches et racines.
+Roseaux.
+Un petit arbre fruitier.
+Un arbre boule.
+Un feuillu.
+Un rapide.
+Un tourbillon.
+Une plante aquatique.
+L'eau est très profonde et le courant est apparemment fort.
+Pousses de plantes aquatiques.
+Une plante florissante.
+Un arbre parasol.
+Cette plante resplendit de merveilleuses couleurs.
+Légumes.
+Un bloc de rocher.
+L'eau est peu profonde et très claire à cet endroit, on y voit le fond. De nombreux blocs de pierre y reposent et il n'y a pratiquement pas de courant.
+Un arbre fruitier.
+Une clôture.
+Une plante à tige.
+Une plante rampante.
+Un buisson.
+Une plante à grandes feuilles.
+Une cascade.
+Une avancée rocheuse.
+Une plante qui pousse sur les rochers.
+Cette plante grimpante s'est agrippée avec des milliers de racines dans les aspérités de la roche. Elle paraît solide et offre, par ses multiples ramifications, de nombreuses possibilités pour s'accrocher.
+Un pont de bois.
+Des champs de céréales.
+Champignons.
+Un mur d'enceinte.
+Une porte dans le mur d'enceinte.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Aucune réponse.
+Le bateau comporte un petit équipage d'Iskai étonnamment discret, qui semble bien connaître Frill.
+Frill même prend en charge la navigation du bateau, et un voyage de plusieurs jours commence ainsi en direction du sud.
+Finalement, un rideau de brume apparaît à l'horizon, et le petit bateau s'en approche rapidement...
+Fermé pour cause d'effondrement.
+L'entrée d'une grotte.
+Le portail du grillage est solidement fermé. Il n'y a pas de serrure.
+De ce côté, on aperçoit un loquet qui permet d'ouvrir le portail. {LEAD}{NAME} ouvre le portail.
+Vers Srimalinar et Kounos par le col dans la montagne, direction ouest.
+Accès au col dans la montagne par les plantes grimpantes.
+libre
+libre
+Un symbole en forme d'oeil est enfoncé dans la roche.
+"Ces symboles existent déjà depuis longtemps. On les trouve à certains endroits sur toute la planète, mais personne n'en connaît l'origine exacte."
+{LEAD}{NAME} place l'amulette avec le symbole de la Déesse sur la roche.^^Un portail s'ouvre en grinçant et les compagnons pénètrent dans la grotte qui est derrière.
+"Pour ouvrir l'entrée de la grotte, je peux utiliser l'amulette de la Déesse que je porte sur moi."
+Un petit buisson portant des graines.

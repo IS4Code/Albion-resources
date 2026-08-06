@@ -1,0 +1,10 @@
+﻿{BLOK000}"Je suis responsable de l'approvisionnement en denrées et autres de l'équipage."{WORDDenrées}{WORDAutres}
+"Salut. Que puis-je servir? Un petit encas? J'ai quelques barres de bon chocolat à proposer. C'est pas trop sucré, ce truc." {BLOK010}"Oui, volontiers. Par ici."
+"Salut, Driscoll. Encore un peu de rab? La société ne va pas en mourir." {BLOK010}"Oui, volontiers. Ca ne va pas me faire du mal."
+"Salut. Je regrette, plus de barres de chocolat. Il faut que fasse attention que les autres aient aussi leur part. Tu vas encore grossir, Driscoll."
+"Tiens, voilà un paquet."^^ {INK 001}Elle remet quelques rations à Tom.
+"Ce n'est pas vraiment de la grande cuisine, ce que la société a stocké. Mais avec un peu d'intuition lors de la programmation de la cuisine, j'en fais des repas mangeables."
+"Si tu as besoin de nouvelles vidéos ou quelque chose à lire, viens me voir, quand je suis dans mon bureau."{WORDVidéos}
+"Le choix est important, à l'occasion, jette un oeil sur ma banque de données."
+{BLOK000}Que peux-tu dire de... {BLOK001}Regarde un peu ça... {BLOK004}A la prochaine! {BLOK005}Quel est ton job actuel?
+"A la prochaine."

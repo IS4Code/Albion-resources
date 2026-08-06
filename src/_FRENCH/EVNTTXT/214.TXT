@@ -1,0 +1,9 @@
+﻿{BLOK000}"Oh, je tiens l'épicerie de cette ville."
+"Hein? Vous êtes là? Aidez-nous donc, je vous prie. Nous avons vraiment besoin de votre aide en ce moment! Faites la lumière sur ce fameux Kontos. On pourra peut-être éviter le pire. Vous pouvez convaincre les habitants de Kounos qu'ils ont été dupes de Kontos! Nous ne pouvons pas le faire, car ils penseraient tout de suite que nous essayons de les monter contre lui. Vous n'auriez aucune raison de faire une telle chose. A l'heure actuelle, vous êtes certainement mieux informés que moi sur Kontos?"{BLOK010}"Nous croyons que Kontos a raison!"{BLOK011}"Nous ne sommes nous-mêmes pas si sûrs."{BLOK012}"Kontos est une menace, mais nous ne pouvons rien contre lui!"{WORDKontos}{WORDChose sacrée}
+"Vous êtes vraiment sûrs??? D'après tout ce que j'ai entendu, Kontos a des buts bien différents. Mais je suis sûr qu'il vous a déjà convaincu."
+"Alors réunissez d'autres informations sur lui. Bien sûr, vous n'entendrez pas la vérité partout, mais si vous écoutez attentivement, vous pourrez sûrement vous faire une image de lui."
+"Oui, vous pouvez! Réunissez des preuves contre lui, interrogez les gens et montrez aux Mahinos qu'ils ont été dupes de Kontos! J'ai déjà entendu parler de plusieurs complots auxquels Kontos a participé. Il faut que vous cherchiez avec acharnement!"{WORDPreuves}
+"Faites quelque chose!"
+"Je crois que le conflit s'y intensifie sérieusement! Vous pouvez peut-être encore éviter le pire, si vous trouvez des preuves contre Kontos!"
+"Oui, absolument. Il faut que nous trouvions un maximum de preuves contre Kontos! Allez voir le plus de gens possible et interrogez-les! Il faut que vous trouviez quelque chose! Et montrez aux habitants de Kounos le vrai 'visage' de Kontos!"
+"C'est moi."

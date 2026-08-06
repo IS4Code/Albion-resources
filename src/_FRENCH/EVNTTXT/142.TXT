@@ -1,0 +1,6 @@
+﻿{BLOK000}"Je travaille chez les Dji-Kas, je suis la plupart du temps sur la route pour acheter toutes sortes de choses."{WORDDji-Kas}
+"Dsarii-ma, visiteurs de la ville!"
+"Vous devez savoir que Dji-Kas est le nom de la Guilde des Mages de Jirinaar. Vous la trouverez dans la partie sud-ouest de la ville. Là-bas, les doués de la magie de notre peuple se livrent à de nombreuses expérimentations. La magie Dji-Kas est un art très varié: elle guérit, crée et détruit.^ Vous devriez absolument visiter la maison de la Guilde et aller voir Fasiir. Il voudra sûrement faire connaissance de visiteurs aussi rares!"{WORDFasiir}{WORDJirinaar} {WORDMagie}
+"Vous y êtes déjà allé? Vous savez bien, la grande bâtisse au sud-ouest de la ville."
+"J'espère que vous trouverez l'assassin et que vous ferez toute la lumière sur cette affaire. Je connais quand même bien les gens de la Guilde des Dji-Kas. Ils ne trameraient jamais un plan aussi lâche."
+"Vous êtes sûrement très aimés maintenant chez les gens de la Guilde des Dji-Kas, n'est-ce pas?"

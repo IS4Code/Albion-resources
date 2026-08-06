@@ -1,0 +1,7 @@
+﻿{BLOK000}"Je suis un des chasseurs de ce Clan.{WORDChasseur}{WORDClan}"
+"Dsarii-ma, hôtes de la maison. Comme je vois, Giria vous a remis sur pied.{WORDGiria}" {BLOK010}"Dsarii-ma. Dites, à quoi sert cette partie de la maison?"
+"C'est le coin de repos de la maison. Je vais certainement passer encore un petit moment ici, car j'ai été blessé au cours d'une chasse.{WORDChasse}"
+"Dsarii-ma. Que puis-je faire d'autre pour vous?"
+"Giria prend soin des blessés de notre Clan, tout comme elle s'est occupée de vous. C'est une femme adorable, mais très susceptible, méfiez-vous.{WORDClan}"
+"Oui, nous étions aux trousses de notre proie, dans la partie nord-ouest de Nakiridaani, lorsque je suis tombé sur un groupe de Krondir. Avant que les autres viennent à mon secours, les Krondir m'avaient déjà pas mal croqué.{WORDNakiridaani}{WORDKrondir}"
+"Les Krondir sont des fauves dangereux et d'une taille immense. Ce sont des ennemis redoutables, les femelles sont réputées pour être particulièrement sauvages. Ils portent dans leur corne frontale une structure semblable au Trii, très prisée comme parure.^^ Mais si vous vous intéressez à la chasse, vous devriez échanger quelques mots avec Krinn, le Stri de la chasse. Vous le reconnaissez à sa fourrure marron-grise avec des rayures de pelage grises ."{WORDTrii}{WORDStri}

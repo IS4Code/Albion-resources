@@ -1,0 +1,7 @@
+﻿{BLOK000}"Je suis chasseresse, comme beaucoup de notre Clan. Mais puisque la dernière Fadhiim a été particulièrement heureuse, et que j'attends un enfant, je reste en ce moment à la maison. J'adore faire la cuisine, et j'aide donc en cuisine."{WORDFadhiim}{WORDEnfant}{WORDCuisine}
+"Dsarii-ma, vénérables hôtes."
+"Dsarii-ma. Vous voulez vous entretenir?"
+"Dsarii-ma. Comme j'ai entendu dire, vous êtes sur les traces des meurtriers d'Akiir. Je vous souhaite beaucoup de chance pour la chasse!"
+"Oui, je travaille avec Gridri. C'est un grand chef de cuisine, et je peux apprendre beaucoup de choses de lui."{WORDGridri}
+"Hé bien, comme je l'ai dit, Gridri est le cuisinier de notre Clan et un maître de plats délicieux."
+"Oui, j'adore les enfants! Ils vous tiennent en haleine, mais je m'en accommode très bien."

@@ -1,0 +1,9 @@
+﻿{BLOK000}"Je construis des maisons à partir de plantes, comme vous en avez certainement déjà vu."
+"Des hommes??? Vous osez encore venir ici? Prenez garde, nous n'avons pas la meilleure opinion de vous en ce moment! Mais nos guerriers vont défendre le lieu sacré. Ils y sont déjà. A votre place, je disparaîtrais vite fait. Vous pouvez vous battre avec nous, ou voulez-vous juste regarder faire?"{WORDOpinion}
+"Nous n'entendons que des mauvaises choses sur les hommes. Ca vous étonne? Que diriez-vous si on vous prenait ce que vous avez de plus précieux. Et en plus de façon honteuse. Ils ont encerclé l'endroit de guerriers et je ne sais pas, ils ont peut-être déjà pénétré et violé notre Chose Sacrée. Alors que les créatures viennent d'ailleurs, ce qui est sûr. Vous vous trompez! Mais nous allons riposter. Nous n'allons pas nous laisser faire. Et même s'il devait y avoir la guerre! Ne vous étonnez pas, si vous n'obtenez plus de marchandises ici. Nous allons tout de même pas soutenir nos ennemis.^^Edjirr a même maintenant des preuves évidentes contre Kontos."{WORDHommes} {WORDGuerrier}{WORDTabou}{WORDCréatures}
+"Après tout, il y a des hommes dans votre groupe!"
+"Nous allons la défendre, c'est sûr! Nos guerriers sont déjà en route. Vous ne devez pas croire que vous pouvez faire tout ce que vous voulez."
+"Ce tabou existe depuis toujours, autant que je me souvienne. ça a des raisons historiques que je ne voudrais pas vous expliquer maintenant. Et Kontos et ses adeptes de Kounos l'ont brisé!"
+libre
+"Oui?"
+"Personne ne sait d'où sortent ces créatures. Elles semblent être d'origine magique et, pour la plupart, on les trouve près de notre Chose Sacrée. Mais nous ne les avons jamais vu sortir DE notre Chose Sacrée."

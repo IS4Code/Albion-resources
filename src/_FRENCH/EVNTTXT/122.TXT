@@ -1,0 +1,40 @@
+﻿{BLOK000}"J'ai l'honneur d'être le chef des Dji-Kas."
+"Je crois que c'est un ami d'Akiir."
+"Notre magie est profondément ancrée dans ce monde. Vous pouvez par exemple le voir à partir du fait que nous utilisons une sorte spéciale de graines pour presque toutes nos formules, pour y concentrer nos pouvoirs spirituels. Nous sommes, par ailleurs, fiers de la diversité de notre art. Nous connaissons de la magie pour créer et détruire, pour blesser et guérir.^ En signe distinctif de notre Guilde, nous portons des dessins de couleur imprégnés dans le pelage."{WORDGraine}{WORDGuérison}{WORDFasiir}{WORDMaison de la guilde}
+{INK 001}Fasiir paraît amusé.^^ {INK 002}"Hé bien, vous êtes en train de lui parler!."
+"Ce n'est pas la graine même qui développe l'effet magique, mais l'esprit du Dji-Kas l'utilise pour y concentrer son énergie spirituelle. Les graines viennent d'une plante rare du nom de Triifalai, ce qui signifie "Trii de la Déesse". Les graines sont d'ailleurs aussi vendues dans la maison de la Guilde."{WORDTrii} {WORDDéesse}
+"Juste à côté de l'entrée de la maison de la Guilde, vous trouverez Stri Rejira, elle est maître dans l'art de la guérison. Elle guérira vos blessures."
+"C'est le nom d'une plante, dont les graines sont très convoitées par nous.{WORDGraine}"
+
+"Oh, les architectes. La relation entre nos Guildes n'est pas toujours au beau fixe. Certains des plus doués se sentent attirés par la diversité de notre art et changent pour notre Guilde. Je dois reconnaître que la relation entre moi et Akiir, le plus grand Stri des modeleurs, n'est pas des meilleures. Il y a une vieille rivalité entre nous."{WORDGuilde}{WORDAkiir}
+"La maison de la Guilde a depuis longtemps déjà sa place dans le quartier sud-ouest de Jirinaar. Elle a été construite par les Dji-Kas mêmes et abrite beaucoup de membres de la Guilde et tous les Dra."{WORDDra}
+"Le meurtre d'Akiir n'a jamais été commandité par nous! Kriis a menti, Déesse sait pourquoi il a fait ça! Nous n'avons aucune raison de faire une chose aussi ignoble!"{WORDDéesse}
+"Laissez-moi vous remercier encore une fois personnellement de nous avoir délivré des soupçons du meurtre d'Akiir!"
+"Akiir est le chef des modeleurs, une Guilde qui a souvent une relation un peu tendue avec la nôtre. Surtout Akiir, lui, il n'évite pas les conflits."{WORDModeleur}
+"Vous ne connaissez pas Fasiir aussi bien que nous, nous qui traitons avec lui tous les jours. Il ne commanditerait jamais un tel crime! Mais je suppose que vous n'allez pas croire ce que dit un des membres de sa Guilde."
+"Je vous suis sincèrement reconnaissante d'avoir blanchi son nom."
+"Je ne sais rien d'un meurtre."
+dummy
+dummy
+dummy
+dummy
+dummy
+"Dsarii-ma et bienvenue dans la maison des Dji-Kas. Puis-je me présenter: Fasiir, le plus grand Strii des Dji-Kas et Sebai-fre.^ J'ai déjà entendu parler de l'impressionnante magie de votre machine volante, quoique finalement néfaste pour vous. Comme vous pouvez l'imaginer, je voudrais absolument vous parler. Pouvez-vous m'expliquer grossièrement les principes de base de votre magie?" {BLOK010}"Je veux bien essayer, Sebai-fre Fasiir." {BLOK011}"Je ne pense pas que je réussirais à l'expliquer."
+"Merci beaucoup de bien vouloir satisfaire ma curiosité."^^ {INK 001}{LEAD}{NAME} commence à parler:^ {INK 002}"Nous appelons ça de la technologie, ce sont des machines très sophistiquées, qui nous permettent de voyager par les airs et même d'une planète à l'autre. Elles reposent, pour la plupart, sur des principes de bases simples, mais qui..."^^ {INK 001} L'explication devient longue, souvent interrompue par des questions d'une étonnante perspicacité de la part de Fasiir. Puis celui-ci dit:^^ {INK 002}"Tout ça est très surprenant. Si j'ai bien compris, vos machines tirent leur énergie de la matière, sans devoir être mises en route par des efforts spirituels, donc sans efforts magiques!"
+{INK 001}Rainer intervient:{INK 002} "Excusez-moi, Fasiir. Je vous ai déjà souvent entendu parler, vous et d'autres Iskais, de la magie et ça ne me semble pas aller de pair avec votre peuple habituellement si ouvert. Les théories sur la magie appartiennent chez nous déjà depuis des siècles au domaine de la superstition et..."^^ {INK 001}Fasiir:^ {INK 002}"Maintenant je comprends! Vous prenez donc la magie pour de la superstition, une pure imagination, par laquelle nous essayons d'expliquer les lois de ce monde! Croyez-moi, il n'en est rien! Vous devez venir d'un monde vraiment étrange qui ne connaît que l'énergie contenue dans la matière. Laissez-moi vous faire une démonstration! Suivez-moi dans notre coin à expérimentations, s'il vous plaît!"
+"Comme vous voudrez. C'est bien sûr votre bon droit de vouloir garder vos secrets pour vous. Excusez-moi maintenant, j'ai à faire."
+-dummy-
+"Comme je vois, vous avez besoin de nos pouvoirs guérissants! Rejoignez vite la pièce près de l'entrée, on vous aidera là-bas!"
+"Dsarii-ma." {BLOK010}"Excusez-nous, si nous vous avons vexé, sebai-fre. Si vous y tenez, je veux bien essayer de vous expliquer notre "magie"." {BLOK011}"Excusez-nous, nous devons partir."
+"Dsarii-ma, visiteurs! Puis-je encore quelque chose pour vous? Pas d'autre démonstration, s'il vous plaît, je ne suis plus très jeune, hi, hi!"
+"Akiir! Il y a eu un incident, il y a plusieurs années, depuis nous sommes fâchés. A l'époque, quelque chose est arrivée, que... excusez-moi, je n'aime pas en parler."
+"Comme je l'ai déjà dit, je n'aime pas parler de la haine qui nous sépare."
+SEQUENCE SUIT!
+{INK 001}Tom intervient:{INK 002}^^ "Excusez-moi, Fasiir. Je vous ai déjà souvent entendu parler, vous et d'autres Iskais, de la magie et ça ne me semble pas aller de pair avec votre peuple habituellement si ouvert. Les théories sur la magie appartiennent chez nous déjà depuis des siècles au domaine de la superstition et..."^^ {INK 001}Fasiir:^ {INK 002}"Maintenant je comprends! Vous prenez donc la magie pour de la superstition, une pure imagination, par laquelle nous essayons d'expliquer les lois de ce monde! Croyez-moi, il n'en est rien! Vous devez venir d'un monde vraiment étrange, qui ne connaît que l'énergie contenue dans la matière. Laissez-moi vous faire une démonstration! Suivez-moi dans notre coin à expérimentations, s'il vous plaît!"
+Fasiir conduit ses visiteurs dans une chambre de la maison, où l'on aperçoit une dalle de pierre enfoncée dans le sol couvert de mousse.
+"Le plus beau dans la magie, c'est sûrement de pouvoir créer des choses, ne serait-ce que pour la vie courante.^^Regardez!"
+"Driscoll, je... Vous avez vu ça? Mais c'est..., je veux dire... ^^ Je délire! C'est un vrai arbre! Ce n'était pas un petit tour de prestidigitation!"
+"C'est vraiment dingue, j'avoue! Ces types ne sont pas des charlatans, c'est sûr. ça n'a en tout cas rien à voir avec des accélérateurs de croissance."
+"Un empire pour quelques instruments de mesure! Ils ne peuvent tout même pas se payer la tête des lois de la nature!"
+"Je vois, j'avoue avec satisfaction, que j'ai pu dissiper quelques doutes.^^J'espère que vous avez un peu changé votre avis à propos de notre art.^^ C'était un honneur pour moi de vous avoir parlé {LEAD}{NAME}. Faites encore un petit tour, je dois malheureusement retourner à mes occupations."
+"Merci beaucoup en tout cas pour cette impressionnante démonstration de votre savoir-faire, Fasiir."

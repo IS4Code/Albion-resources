@@ -1,0 +1,6 @@
+﻿{BLOK000}"Et oui, mes chéris...vu ma tenue excitante, vous devriez savoir où je travaille. Oh, vous pouvez toujours me rendre une petite visite. Cependant, la plupart des êtres masculins n'avouent pas facilement qu'ils fréquentent de temps en temps une maison close."
+"Skeima Din. Que dois-je dire. Les choses se corsent et tout ne va pas pour le mieux. Les guerriers de Srimalinar et Kounos se sont rassemblés devant la Chose Sacrée pour se battre. Du coup, les affaires tournent mal. de toute façon, les événements récents m'ont assez déprimé."{WORDHerras}
+"Excusez-moi, je ne suis pas en ce moment dans l'état de vous expliquer certaines choses."
+"Je ne veux plus en parler avec vous. Si vous aviez entrepris quelque chose, il serait encore en vie!"
+"C'est moi."
+"Qu'est-ce qui se passe avec Herras?"

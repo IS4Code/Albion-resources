@@ -1,0 +1,9 @@
+﻿{BLOK000}"Je suis prestidigitatrice."
+"Skeima Din.^^Un petit jeu, ça vous dit? Si vous êtes bon, vous pouvez gagner beaucoup d'or. Mais vous pouvez aussi perdre gros, si vous n'avez pas de chance."{WORDJeu}
+"C'est un jeu de dés:^^Je lance d'abord 3 dés et après, à vous de lancer trois dés. Si vous obtenez le même nombre de points que moi, ou si vous le dépassez, la mise est à vous, sinon, elle est à moi. Ce n'est pas équitable ça?"{WORDMise}
+"Je mets 10 pièces et vous en rajoutez 10. Si vous voulez jouer, alors dites-moi de jeter les dés."{WORDLancer les dés}
+"En fait, vous n'avez pas assez d'or!"
+"Cette fois, vous n'avez pas eu de chance. J'ai gagné. La mise est à moi. Merci d'avoir joué!"
+"Félicitations! Vous avez gagné. La mise est à vous."
+"Vous me trouvez jolie, c'est vrai? Vous me flattez. Ah, je ne puis le croire. Et vous le pensez vraiment?^^Je ne sais pas quoi dire. Venez, je vous fais un jeu gratuit."{WORDPartie gratuite}
+"Je pense qu'un jeu gratuit ça suffit!"

@@ -1,0 +1,48 @@
+﻿!
+Quand on passe sur la dalle devant la porte, celle-ci s'illumine. Et la porte s'ouvre simultanément.
+La dalle s'illumine.
+Il y a une dalle avec une surface lumineuse et transparente.
+Une fois que cette dalle s'illumine, la porte à l'"ouest" de la pièce s'ouvre.
+Un interrupteur.
+L'interrupteur ne change pas de position.
+La porte veut se refermer, mais reste ouverte. Apparemment, une cellule dans la porte a détecté quelqu'un.
+Il y a une armoire contre le mur nord.
+L'armoire est vide, prête à recevoir des objets.
+Une armoire.
+Le bruit venait d'assez loin sur la droite.
+Dès que la porte avec les voyants rouges s'ouvre, celle de derrière avec les voyants verts se referme. Le chemin du retour est barré!
+Un Technorobot.
+Une porte. Il n'y a aucun mécanisme d'ouverture apparent.
+Une lampe fluorescente. Elle diffuse une lumière blanche et froide.
+Une poutrelle d'acier.
+Les murs semi-transparents marquent un accès au service. L'échelle du milieu mène vers le haut.
+Un clavier à dix touches pour entrer des codes.
+Une porte avec des voyants rouges sur les côtés. Il n'y a aucun mécanisme d'ouverture apparent.
+Une porte avec des voyants verts sur les côtés. Il n'y a aucun mécanisme d'ouverture apparent.
+Une porte avec des voyants bleus sur les côtés. Il n'y a aucun mécanisme d'ouverture apparent.
+"Jusque là, très bien. Essayons d'avancer jusqu'à la zone du réacteur sans détruire quoi que ce soit, sinon nous aurons immédiatement Ned et les Sécus sur le dos. Ici, en bas, il y a un tas de systèmes de contrôle bizarres que nous devons utiliser pour passer."
+Un Technorobot. Il semble désactivé.
+Tom tripote un peu le robot jusqu'à ce que Joe vienne l'aider. En quelques tours de main, la machine de service est effectivement ramenée à la vie électronique et commence à bouger.
+Joe exécute quelques manipulations sur le robot. Effectivement l'automate est ramené à la vie électronique et commence à aller et venir de façon incontrôlée.
+Un interrupteur monté sur un mur en Plexiglas avec des traverses en acier.
+L'interrupteur s'illumine brièvement, mais il ne se passe rien d'autre.
+Dès que {LEAD}{NAME} actionne l'interrupteur, le mur disparaît en un clin d'oeil dans le plafond!
+Un grand voyant de contrôle.
+Une dalle clignotante.
+"Ce genre de dalles est le plus souvent contrôlé par des robs de service et déclenche quelque chose quand ils passent dessus. Dans ce cas, nous devrions arriver à ouvrir la porte."
+En actionnant l'interrupteur, les voyants de contrôle à l'arrière et les plafonniers s'allument.
+Brusquement, tous les témoins lumineux rouges s'éteignent.
+"Nous avons apparemment à faire à un contrôle minuté!"
+Un interrupteur avec un voyant de contrôle sur le côté.
+"Ah! Ce bruit, c'est de la musique dans mes oreilles! Si la porte ne s'ouvre pas maintenant, je m'énerve. J'aimerais connaître les timbrés qui ont programmé les systèmes, ici!"
+"Saleté. Je parie que nous avons encore à faire à un interrupteur minuté."
+Les dalles lumineuses s'éteignent.
+"Au diable! Je suppose que nous devons activer les 4 interrupteurs dans les couloirs pour passer. Nous n'y arriverons jamais en si peu de temps, le chemin à parcourir est trop long. On devrait faire de la chair à pâté du type qui a installé ça.!"
+"O.K.! Le tour est joué! Les murs de Plexiglas se sont levés là-bas! Maintenant, l'interruption minutée ne devrait plus poser de problème!"
+"Je suppose qu'on entre par ici dans le hall qui précède le noyau du réacteur. Ce code nous pose par contre un sacré problème. Tu vas peut-être penser que je suis idiot, mais JE ne connais pas le code!"
+"Je suppose qu'on entre par ici dans le hall qui précède le noyau du réacteur Ce code nous pose par contre un tout petit problème. Mais attend, ces bouts de papier qu'on a trouvé! Que la foudre me frappe s'ils n'indiquent PAS ce code!"
+"Un morceau de papier avec un numéro dessus, tiens, tiens... Tu sais qu'il est absolument interdit de noter n'importe quel code d'accès, question de sécurité, etc.^^Je connais par contre quelques candidats comme Alzheimer qui ont quand même noté leurs codes pendant la construction de l'installation et les ont déposés dans celle-ci. Ils se trouvaient trop nuls pour retourner pour la cinquième fois au service de surveillance et avouer avoir encore oublié leurs codes. Je suppose que c'est ce genre de cas, un peu comme en haut. ^^Mais par contre, le code ne semble pas tout à fait complet, le morceau de papier a été déchiré."
+"Dis-moi, mon vieux, qu'est-ce que ça veut dire? Nous sommes à deux pas du but! Pourquoi veux-tu faire demi-tour maintenant, nom de Dieu?"
+Une armoire.
+Quelqu'un a oublié un petit morceau de papier dans cette armoire.
+Il ne se passe rien.

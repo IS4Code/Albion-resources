@@ -1,0 +1,6 @@
+﻿{BLOK000}"Je suis navigateur, actuellement en permission."{WORDNavigateur}{WORDPermission}
+"Dsarii-ma. Puis-je vous aider?"
+"Oui, je suis déjà passé par beaucoup de ports, mais je suis le plus souvent sur la route entre ici et Beloveno."{WORDBeloveno}
+"Notre bateau est pour l'instant en révision. ça peut durer un moment, et je cherche donc à m'amuser un peu en ville."{WORDAmusements}
+"C'est souvent amusant dans la maison du Vent, une maison close dans la région du port. Faites-y donc un tour."{WORDPort}
+"Une ville portuaire très commerçante à l'est."

@@ -1,0 +1,6 @@
+﻿{BLOK000}"Je suis responsable à bord des systèmes de survie."{WORDSystèmes de survie}
+"Salut Driscoll, pilote de l'enfer. Tu as déjà appris l'histoire avec Snoopy?"{WORDSnoopy}
+"Salut, Driscoll. Qu'est-ce qu'il y a encore?"
+"Tout en zone verte, je ne m'attends pas à avoir des problèmes. Si un peu de matières fécales giclent dans le système d'eau fraîche, tu t'en apercevras!"
+{BLOK000}Que peux-tu dire de... {BLOK001}Regarde un peu ça... {BLOK004}A la prochaine! {BLOK005}Quel est ton job actuel?
+"Alors, salut."

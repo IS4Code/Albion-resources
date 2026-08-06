@@ -1,0 +1,17 @@
+﻿{BLOK000}"Je tue des animaux sôvage dans les boués, je les coupe et je vonds la viande. Vu comme çô, vous pouvez dire que j'suis chôsseur, boucher et vondeur, hein."
+"Skeima Din, Vous êtes intéressés par une carte?"{WORDCarte}{WORDKontos}
+"Et oncor' une bonne journée. Puisqu'on ô déjô fait connaissonce." {WORDCarte}{WORDKontos}
+"J'cônnais le Kontos déjô depuis très longtomps. Aut'fois, c'était un type sympô et on pouvait vraimont discuter avec. Mais çô, c'est plus pôssible depuis longtomps. Il y ô des onnées, il ô commoncé ô s'intéresser ô lô môgie nouare et ô lô religion, et maint'nont il doué se prondre pour le druide le plus bôlèze qui soué. Ô fait, ô l'époque, il vivait même ici ô Beloveno. Puis il s'est lié d'ômitié ôvec Riko et depuis ce tomps-lô il s'est de plus en plus éloigné de moué, hein. Ontre-tomps, il ô trouvé beaucoup d'ôdeptes pour ses théories. Ben oué, fait c'qui veut. J'ponse que lô plupôrt vont vouér ôvec le tomps qu'il est plus très clair dons sa tête."{WORDKounos}{WORDContinent}{WORDMagie}{WORDThéories}
+"Ben, j'veux dire toute la région ici, hein. Beloveno, Srimalinar, Kounos, tout. Tout l'côoté nord et sud de Maini."{WORDMaini}
+"Vous ôvez déjô été lô-bôs, non? C'est l'villôge sur les platôs, lô où on vit oncor' de fôçon trôditionnelle, hein. On plus, Kontos honte les lieux lô-bôs. Vous vouayer déjô, j'l'aime pô trop."
+"J'comprond pô grond chôse ô lô môgie. Et j'on ai pô eu besoin jusqu'ô lô, hein."
+"Oof, je n'veux pô on dir' plus. Mais un type ôssi intelligont que Kontos est sûremont côpôble de concocter ben des chôoses, hein."
+"Elle vous plaît pô? J'peux pô dire grand chôose lô-d'sus, j'suis pô un spéciôliste pour çô, hein. J'l'ôvais en tout côs depuis des ônnées dons l'grenier."
+"Même si j'voulais. J'peux pô vous dônner plus de détails lô-d'sus..."
+"Ben, il y ô une côrte qui traîne depuis des ônnées dons mon grenier. Mon grond-père était sûr et certain qu'il s'ôgissait d'une côrte de trésôr. Appôremmont ses oncêtres ont onterré leur petites ôffaires ô l'ondroit môrqué, hôhô...Mais bon, j'ôvoue que j'y crôis pô vraimont, mais j'sais ôssi que des gons cômme vous louchent d'sus! J'vous laisse lô côrte pour le prix ridicule de 200 pièces d'or. Cô vous intéresse?"{BLOK010}"Oui, nous la prenons."{BLOK011}"Intéressés oui, mais pas à ce prix- là!"{BLOK012}"Nous vous payons 175 pièces d'or!"{BLOK013}"Non merci, pas intéressé."
+"Parfait, vous ne serez pô déçu."
+"Bon, disons 175 pour vous. D'accord?"{BLOK014}"Bon d'ôccord!"{BLOK015}"Non, c'est trop!"
+"Enfin, j'voulais les vondre, pô les dônner!"
+"Réfléchissez oncor'. L'offre tiens toujours, hein."
+"C'est moi."
+"J'crôis vous n'ôvez pô ôssez de pièces d'or?!"

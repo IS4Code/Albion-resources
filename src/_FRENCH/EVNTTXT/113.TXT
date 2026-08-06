@@ -1,0 +1,6 @@
+﻿{BLOK000}"Je ne l'ai pas dit? Je travaille en tant que scribe dans les cercles de conseil."
+"Dsarii-ma, visiteurs. Je suis scribe ici dans les cercles de conseil. Puis-je vous aider?" {BLOK010}"En quoi consiste exactement la tâche d'une scribe?" {BLOK011}"Beaux vêtements que vous portez."
+"Dsarii-ma, visiteurs."
+"Ici, dans les cercles de conseil, on prend tous les jours beaucoup de grandes et de petites décisions. Il faut que tout soit retenu par écrit, et c'est précisément ce que je fais. Ce n'est pas très passionnant, mais c'est un travail hautement considéré."
+"ça me surprends que vous, en tant qu'homme, ayez un oeil pour ça. Oh, excusez-moi, ça m'est sorti comme ça. Votre remarque me fait plaisir. Vous savez, avant, je sortais, la plupart du temps, nue, mais depuis peu j'ai envie de provoquer un peu, c'est pourquoi je m'habille."{WORDNu}
+"Oh, merci beaucoup. Vous savez, avant, je sortais, la plupart du temps, nue, mais depuis peu j'ai envie de provoquer un peu, c'est pourquoi je m'habille."{WORDNu}

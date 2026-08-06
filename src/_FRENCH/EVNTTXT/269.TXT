@@ -1,0 +1,2 @@
+﻿{BLOK000}"Je suis vendeuse."
+"Skeima Din,^^j'espère que vous trouvez chez moi ce que vous recherchez. Car il n'y a pas d'autre échoppe à Srimalinar. Sinon, il faut que vous alliez à Beloveno. Mais vous pouvez aussi acheter des denrées chez le tavernier."{WORDBeloveno}{BLOK010}"Nous voudrions acheter quelque chose."

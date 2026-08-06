@@ -1,0 +1,9 @@
+﻿{BLOK000}"Et oui, mes chéris...vu ma tenue excitante, vous devriez savoir où je travaille. Oh, vous pouvez toujours me rendre une petite visite. Cependant, la plupart des êtres masculins n'avouent pas facilement qu'ils fréquentent de temps en temps une maison close."
+"Oh, vous voilà enfin. D'abord, mille fois merci! Je suis, comme nous tous certainement, vraiment très contente que le pire a été évité grâce à vous. Je suis sûre que le conseil vous récompensera royalement. Et je serais même prête à vous offrir gratuitement... Mais qu'avez-vous donc??? Vous ne vous sentez pas bien? Vous avez l'air bizarre?"{BLOK010}"Je pense que c'est l'excitation de ces derniers jours."{BLOK011}"Ca va passer..."{BLOK012}"Non, tout va bien."{WORDConseil}{WORDHerras}
+"Mhm, parfois vous êtes vraiment bizarre... Je me réjouie en tout cas qu'il y ait encore des gens comme vous. C'est un compliment, je suis sérieuse."{WORDCompliment}
+"Vous l'avez mérité!"
+"J'aimerais bien y aller. Il y a beaucoup de choses qui ont changé maintenant."
+"Ah tiens, vous voilà encore. C'est donc bien arrivé comme je l'avais dit. Et je l'ai souvent répété. Herras est mort et je suis d'avis que vous avez une bonne part de responsabilité. ça vous aurait coûté quoi, d'empêcher ça? Quoi donc?^^Bon d'accord, Herras est mort et on ne peut plus revenir en arrière. Veuillez m'excuser, je ne suis pas d'humeur à soutenir une conversation."{WORDConseil}{WORDHerras}
+"Je ne veux plus en parler avec vous. Si vous aviez entrepris quelque chose, il serait encore en vie!"
+"C'est moi."
+"Qu'est-ce qui se passe avec Herras?"

@@ -1,0 +1,137 @@
+﻿-libre-
+Branches et racines.
+Un panier tressé.
+Un récipient en verre pour l'eau et d'autres boissons.
+Un fût.
+Une magnifique peau de bête.
+Un seau.
+Un bol en terre cuite.
+Une corne pour boire.
+Une assiette.
+Une cruche en terre cuite.
+Une cruche.
+Un couteau de table.
+Une fourchette.
+Une cuiller.
+Un récipient en terre cuite.
+Pierres.
+Un bol.
+Un outil de labour.
+Une hache.
+Un couvercle de coffre.
+Un coffre en bois.
+Un coffre en bois artistiquement décoré.
+Le petit endroit paisible.
+Un couvercle.
+Un grand baquet de bois.
+Un grand chaudron métallique.
+Une étagère.
+On peut voir dans cette étagère un tas de choses sans importance.
+Une commode.
+Un balai.
+Un gril.
+On peut faire cuire de la viande dessus.
+Un fourneau.
+Une carafe renversée.
+Une cuiller en bois.
+Une épée murale décorative.
+Une table en bois.
+Un tabouret.
+Un tabouret replié.
+Une table à manger massive.
+Une souche.
+Deux lances croisées.
+Un grand fût avec d'étranges boissons.
+Une chantepleure.
+Une couverture de lit.
+Un lit confortable et joliment décoré.
+Ce lit est modeste mais fonctionnel.
+Un bahut.
+Une cheminée.
+Le feu de cheminée diffuse une chaleur agréable.
+Un pot artistiquement confectionné.
+Herbes séchées.
+Un crâne humain.
+Un bouclier décoratif.
+Un pot en métal.
+Une épée décorative.
+Une porte.
+Un chaudron.
+Un couteau.
+Un stylet.
+Un poignard.
+Une dague.
+Un coutelas.
+Une épée.
+Une pointe.
+Un poignard de jet.
+Une petite hache.
+Une hache.
+Un petit arc.
+Un arc.
+Une flèche.
+Un petit bouclier de cuir.
+Un bouclier de cuir.
+Un bouclier rond.
+Un grand bouclier.
+Un bonnet de cuir.
+Un bonnet clouté.
+Un bol de métal.
+Un gilet de cuir.
+Une armure de cuir.
+Un cuir clouté.
+Une paire de chaussures.
+Une paire de bottes.
+Une bouteille vide.
+Une potion de soins verte.
+Une potion de soins turquoise.
+Une potion de soins bleue.
+Une clé.
+Une corde.
+Un anneau.
+Une torche.
+Un marteau plat.
+Un escalier qui monte.
+Un escalier qui descend.
+Un comptoir.
+Un paillasson en forme de tapis.
+Une plante d'appartement.
+Un pot de fleur.
+Un récipient de feu.
+Une étagère pleine de livres.
+Livres.
+Un livre.
+Un livre ouvert.
+Un puits rempli d'eau claire.
+{LEAD}{NAME} remplit un seau d'eau.
+Un interrupteur mécanique.
+L'interrupteur est bloqué, on ne peut plus l'actionner.
+Un levier d'interrupteur.
+Une coupelle de feu sur le sol. Elle émet de la lumière et de la chaleur.
+{LEAD}{NAME} court dans les flammes et se brûle!
+{LEAD}{NAME} vide un seau d'eau sur la coupelle de feu et éteint les flammes!
+Une dalle de pierre avec une surface rétractable.
+Une autre coupelle de feu est éteinte.
+Le passage est barré par des lames acérées qui ressortent du sol.
+Petits trous de cuivre dans le sol.
+Une dalle enfoncée.
+Un interrupteur défectueux.
+Une coupelle de feu éteinte.
+{LEAD}{NAME} introduit le levier dans l'interrupteur défectueux. Il semble de nouveau fonctionner!
+Une dalle de pierre couverte d'un dessin jaune. Il semble qu'elle pourrait s'enfoncer un peu sous les pas.
+Il ne se passe rien. L'interrupteur est aussi défectueux qu'il en a l'air.
+Il ne se passe rien.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+"Je pense qu'il faut passer sur ces dalles dans un ordre précis pour obtenir quelque chose."
+"Vous savez, je peux me tromper, mais j'ai l'impression que la disposition en croix de ces lames dans le sol n'a pas été choisie par hasard..."
+"Regardez les plaques de pierre grise. Je suis curieux de savoir si elles déclenchent quelque chose lorsqu'on marche dessus!"
+{INK 001}{LEAD}{NAME} jette un oeil sur la plaque de pierre. Il y a une plaque rétractable au centre. Avant que quelqu'un ne puisse donner son avis, Drirr dit:^^ {INK 002}"A quoi bon rester là à regarder? Je vais tout simplement tester le système!^^ {INK 001}Drirr marche sans hésiter sur la plaque de pierre. Aussitôt, des lames sortent brusquement du sol et barrent le passage!
+"Fantastique, Drirr, petit curieux. Peux-tu nous expliquer maintenant comment nous allons faire pour continuer?"
+"Bon, bon. Toujours est-il que les lames ne sont pas sorties sous nos pieds. Qu'est-ce qui se passe avec la plaque là-haut? Elle a été soulevée lorsque j'ai marché sur la plaque inférieure."
+{INK 001}{LEAD}{NAME}:{INK 002} "Grrr, zut! Tu aurais mieux fait de te brûler les pattes, Drirr!"
+"Regardez, là en bas! Les lames sont rentrées dans le sol! Et bien voilà! Allons-y!"
+"Le système a déclenché un mécanisme! Là-bas, des lames sont sorties du sol!"
+Le bruit de frottements de plaques de pierre venait du sud-ouest.
+Dans ce coffre, il y a quelques pièces d'or et un anneau finement ouvragé.

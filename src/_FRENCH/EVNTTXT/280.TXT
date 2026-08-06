@@ -1,0 +1,10 @@
+﻿{BLOK000}"Je fais toutes sortes de travaux de métal. Mais je suis essentiellement armurier."{WORDArmurier}
+"Skeima Din, mon nom est Gerwad. J'espère qu'Umajo-Kenta vous plaît."{WORDUmajo-kenta}
+"Skeima Din. Hé bien, je me suis déjà présenté à vous. Comme vous voyez, je travaille toute la journée avec du métal."{WORDMétal}
+"Je ne parle pas aux gens qui veulent me chaparder des choses!"
+"Il faut bosser dur en tant qu'armurier. Ce n'est pas facile comme métier, et nous sommes toute la journée juste à côté du feu. Et en plus, je ne me fais même pas un pont d'or avec ça."{WORDGain}
+"Hé bien, il est vrai que j'obtiens un bon prix pour mes marchandises, mais le gain n'est pas extraordinaire, car les mineurs exigent des prix de plus en plus élevés pour le minerai de fer."{BLOK010}"Mais c'est si facile pour eux?"{BLOK011}"Dans ce cas, procurez-vous votre minerai vous-même."
+"Oui, malheureusement oui, car personne d'autre à part les Prêtres des Montagnes ne maîtrise le rituel et peut exploiter le minerai. Mais je m'en sors quand même pas trop mal. A côté, je répare aussi des armes."{WORDRituel}{WORDMineurs}{WORDRéparations}
+"Ce n'est pas si facile que ça. Celui qui ne connaît pas le rituel n'a pas le droit d'exploiter le minerai, sinon le malheur s'abat sur lui. La Bonne Terre, notre mère, est très dure sur ce point."{WORDRituel}{WORDMère}{WORDMalheur}
+"{UNKN}???^^Mais qu'est-ce que ça veut encore bien dire {UNKN}?
+"Si vous voulez, vous pouvez disposer de mes services. Ca sera le plus souvent comme neuf."{BLOK010}"Pouvez-vous nous réparer quelque chose?"

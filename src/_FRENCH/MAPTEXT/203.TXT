@@ -1,0 +1,80 @@
+﻿-libre-
+Herbes.
+Pierres.
+Petites plantes.
+Petites branches et racines.
+Roseaux.
+Un petit arbre fruitier.
+Un arbre boule.
+Un feuillu.
+Un rapide.
+Un tourbillon.
+Une plante aquatique.
+L'eau est très profonde et le courant est apparemment fort.
+Pousses de plantes aquatiques.
+Une plante florissante.
+Un arbre parasol.
+Cette plante resplendit de merveilleuses couleurs.
+Légumes.
+Un bloc de rocher.
+L'eau est peu profonde et très claire à cet endroit, on y voit le fond. De nombreux blocs de pierre y reposent et il n'y a pratiquement pas de courant.
+Un arbre fruitier.
+Une clôture.
+Une plante à tige.
+Une plante rampante.
+Un buisson.
+Une plante à grandes feuilles.
+Une cascade.
+Une avancée rocheuse.
+Une plante qui pousse sur les rochers.
+Cette plante grimpante s'est agrippée avec des milliers de racines dans les aspérités de la roche. Elle paraît solide et offre, par ses multiples ramifications, de nombreuses possibilités pour s'accrocher.
+Un pont de bois.
+Des champs de céréales.
+Champignons.
+Une cabane des ancêtres Celtes.
+L'entrée d'une cabane des ancêtres Celtes.
+Une clôture qui délimite l'enclos des animaux.
+Un portail dans le grillage.
+Un mur d'enceinte.
+Une porte dans le mur d'enceinte.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Vu les nombreuses clôtures qui ne servent pas définitivement d'enclos pour le bétail, on peut se demander comment les autochtones ont pu se faire aux précipices abrupts...
+"Oink."
+L'animal ne répond pas.
+"Pendant la journée, je moissonne et je m'occupe du bétail. Je viens de Srimalinar, c'est la ville Iskai au nord-est de Maini."
+L'entrée d'une grotte.
+{LEAD}{NAME} trouve un trésor caché.
+Kounos.
+Kounos est étrangement calme. Aucun bruit humain n'est audible et quelque chose d'inquiétant plane sur le village. Ses habitants ont dû se rassembler auprès de la Chose Sacrée de Srimalinar pour combattre les Iskais et occuper la Chose Sacrée.
+"Dégagez! Nous devons tenir la position ici."
+"Pas de panique, nous passerons bientôt à l'attaque et mettrons un terme à la terreur."
+On regarde {LEAD}{NAME} et les autres avec irritation. Un Iskai, dans les premiers rangs, dit:^^"On dit partout que vous cherchez des preuves pour accuser Kontos? Si vous deviez trouver quelque chose de ce genre, ce sera peut-être la dernière chance pour éviter la guerre. Je ne peux pas dire quand les Mahinos attaqueront. Mais ils ne semblent pas très pacifiques, comme vous voyez."^^Mais plusieurs Mahinos rétorquent aussitôt:^^"Tatata!^Nous allons mettre fin à ce cirque et révéler au monde ce qui se passe vraiment dans cette forme bizarre. Nous n'attendons qu'un ordre pour passer à l'attaque de Kontos." ^^{LEAD}{NAME} cherche Kontos dans la foule, mais ne le trouve pas. ^^En raison de la situation tendue, {LEAD}{NAME} et ses compagnons préfèrent ne pas pénétrer la Chose Sacrée.^^Si seulement on pouvait trouver quelque part des preuves contre Kontos... Il est peut-être utile de parler encore à tous les gens. On pourrait peut-être aussi trouver quelque chose dans l'atelier d'expérimentations de Kontos qui le compromettra. Ou dans le village Iskai de Srimalinar? Les Iskais sont, finalement, directement concernés et certainement pas tout à fait sans savoir ce qui se passe...
+Tom s'intercale entre les deux parties en brandissant le document servant de pièce à conviction, pour que tout le monde le voie. Un murmure traverse les rangs lorsque Kontos surgit brusquement de la Chose Sacrée et s'adresse immédiatement à ses hommes:
+"Ne le croyez pas! Ne tombez pas dans ce piège! Il s'agit tout simplement d'une ruse. On essaye de vous induire en erreur. Le document est falsifié!"
+"Si une moitié du document correspond à la partie conservée par Edjiir, alors il est authentique. Puis-je l'examiner un instant?"
+Tom donne le document à l'Iskai et, aussitôt, d'autres Iskais se regroupent autour de lui. Brusquement, Mahinos Darios s'avance et demande aux Iskais de pouvoir également examiner le document. Le petit groupe se retire aussitôt avec le document, alors que Kontos à fort à faire pour calmer les Mahinos paraissant de plus en plus sceptiques.^^{LEAD}{NAME} et ses amis profitent du temps pour servir de médiateurs entre les deux parties. Ils parlent aux Iskais et aux Mahinos de leurs discussions ces derniers temps et des pièces à conviction qu'ils ont trouvé. L'agitation qui a gagné entre-temps les deux parties se transforme alors en un énorme tumulte..^^Kontos est littéralement pétrifié et remarque qu'il perd de plus en plus le contrôle des événements. Finalement, il fait une dernière tentative et hurle:
+"Ecoutez-moi! Mes thèses sont justes! Je vais vous prouver que cet endroit est l'épouvante et l'horreur même! Je vais y entrer maintenant et revenir dans quelques instants avec les preuves en question."
+"Si vous violez notre Chose Sacrée, nous allons nous venger!"
+"Peuh. Chose Sacrée. Que de mots!"
+Kontos pénètre dans le bâtiment sacré et bien sûr, plusieurs Iskais le suivent immédiatement.^^Entre-temps, Darios a retrouvé ses frères de tribu. Ils se regroupent tous immédiatement autour de lui et il commence à parler avec précipitation. Sur les visages des Mahinos se dessinent le désespoir et la douleur. Les Iskais se concertent également entre eux. Après quelques instants, un porte-parole s'avance et annonce:
+"Nous sommes sûrs et certains que le document est authentique et que nous l'avons bien compris. Darios nous donnera raison, il a pu le vérifier lui-même.^^Le document est un contrat entre Kontos, Riko et Gard. Tous les trois ont découvert, il y a longtemps, quelque chose que nous ignorons. Sous notre voûte sacrée, il y a de grandes quantités de métaux et de minéraux précieux. ça explique aussi l'incident où un inconnu, vraisemblablement Kontos, a pénétré la Chose Sacrée et a creusé des trous. Il a probablement prélevé des échantillons à l'époque. Kontos est intelligent, il savait certainement, grâce à ses bonnes connaissances géographiques, que les conditions y étaient extrêmement favorables pour un important gisement en minéraux et en métaux. Ainsi, notre Chose Sacrée repose depuis des générations sur un gisement de minerais et nous n'en savions rien..^^Les plans de Kontos sont évidents: Il voulait convaincre son entourage au moyen de rumeurs ciblées que l'endroit représente un danger pour l'ensemble de Maini. Heureusement qu'il n'a réussi que partiellement. Le plan prévoyait la destruction de la Chose Sacrée pour permettre ensuite l'exploitation des précieux minerais en toute quiétude. La tâche de Gard et de Riko, dans ce complot, consistait à contrôler la situation à Beloveno. Ils essayaient d'y répandre aussi de telles rumeurs. En récompense pour leur soutien, ils auraient évidemment touché une partie des profits. Les parts étaient déjà fixées dans ce document! Par ailleurs, ils ont usé de leur influence sur le conseil au profit de Kontos.^^Mais Kontos a aussi commis des erreurs : la Bonne Terre n'aurait jamais permis de donner les minerais sans son accord à des criminels. Kontos, bien sûr, ne croit pas à ces choses-là. Il pense que tout se résout par les mathématiques et par la magie."
+"Mais les horribles créatures. Elles étaient bien là? On en trouve toujours. Elles sortent bien de la Chose Sacrée?"
+"Non, c'était également l'oeuvre de Kontos. C'est le seul mage sur l'ensemble de Maini capable de créer et d'invoquer de telles créatures. Tous ses plus proches confidents le confirmeront. Grâce à ces créatures, il a réussi deux choses en même temps. Il a pu tester sa magie et a ainsi créé de fausses preuves qui étayaient ses thèses. Notre magie n'est heureusement pas capable de ce genre de choses. D'ailleurs, nous ne maîtrisons pas la magie noire."
+Cette longue allocution fait fléchir même le dernier Mahino qui soutenait toujours Kontos. Une nouvelle agitation s'installe et les discussions vont bon train dans les rangs des Mahinos.^^Selon toute vraisemblance, ils sont sérieusement touchés lorsqu'ils constatent qu'ils ont été victimes de la cupidité de Kontos, qui les utilisait pour réaliser ses plans. Et même si certaines questions restent sans réponse, il est quand même assez évident que les habitants de Kounos ont été menés en bateau.^^{LEAD}{NAME} et les autres ont évité le pire et ce n'est plus qu'une question de temps pour que les deux parties se réconcilient. Les premiers Mahinos, très compréhensifs, se sont déjà excusés auprès des Iskais, d'autres sont repartis vexés et abattus vers Kounos. Mais les deux parties ont une chose en commun: la reconnaissance à votre égard, pour avoir agi en médiateur, et pour avoir trouvé une solution pacifique. Iskais comme Mahinos vous invitent et seraient ravis si vous pouviez leur rendre visite un jour.^^Mais il y a évidemment un problème de taille:^^Où est Kontos?^Que fait Kontos?^Et que fait-il dans la Chose Sacrée?
+Un petit buisson portant des graines.
+L'entrée de la Chose Sacrée.
+Il est peut-être préférable de ne pas briser le tabou! Tom et les autres préfèrent ne pas pénétrer la Chose Sacrée.
+L'entrée de cette cabane est fermée.
+Vers Srimalinar, direction nord par-dessus le pont.
+Il est interdit aux hommes de pénétrer le site sacré des Iskais.
+"Hmm, je pense que des ennuis se préparent ici. Si vous êtes d'accord, nous pouvons essayer d'en savoir davantage sur le problème en discutant plus souvent avec toutes les personnes importantes des différents villes et villages. Nous pourrons alors peut-être servir de médiateurs. Si nous arrivons à faire quelque chose de positif, nous pourrons certainement trouver des gens pour nous aider."
+"Skeima Din!^^Heureusement que je vous ai enfin trouvé. J'ai déjà cherché partout. Kariah m'envoie, elle a quelque chose d'important à vous communiquer, quelque chose de très urgent. Je sais seulement que c'est une question de vie ou de mort! Veuillez vous rendre le plus vite possible à Beloveno et passez la voir dans sa maison. Partez tout de suite. Si vous allez voir d'autres personnes avant, il sera peut-être déjà trop tard. Vous pouvez toujours le faire après."

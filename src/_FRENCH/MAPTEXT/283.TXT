@@ -1,0 +1,23 @@
+﻿{BLOK000}Armurier {BLOK001}Forgeron {BLOK002}Bazar {BLOK003}Auberge {BLOK004}Gîte {BLOK005}Denrées {BLOK006}Hôtel de ville {BLOK007}Guérisseuse {BLOK008}Porte de la ville {BLOK009}Port {BLOK010}Place du marché {BLOK011}Habitation {BLOK012}Habitation {BLOK013}Habitation {BLOK014}Habitation
+Un gros bloc de pierre.
+Une porte.
+La porte est fermée et ne s'ouvre pas. Il n'y a probablement personne.
+Les marchandises livrées sont contrôlées ici.
+Il y a une grande place avec un puits, beaucoup de tables, de récipients et de fûts. Il s'agit vraisemblablement d'une sorte de place du marché.
+{INK 006}{CNTR}Armures, casques et corselets.
+{INK 006}{CNTR}Armes tranchantes, contondantes et de jet.
+{INK 006}{CNTR}Bazar.
+"Beloveno mes amis!^^Nous voilà. Je propose de visiter d'abord la ville. Nous apprendrons peut-être quelque chose au sujet du Toronto. Il faut bien essayer d'en apprendre davantage. Mais dans une grande ville les occasions ne manquent pas."
+Un puits.
+"Skeima Din,^^vous cherchez quelque chose de précis?"
+Tom et ses compagnons essaient de savoir par d'habiles périphrases si l'habitant du village sait quelque chose en rapport avec l'atterrissage du Toronto. Mais ça a l'air mal parti. Zimos n'a rien observé de ce genre et il ne connaît pas de rumeurs ou de nouvelles qui parlent d'un tel événement.^^S'il dit la vérité, alors le terrain d'atterrissage du Toronto est encore bien loin. Il se pose donc évidemment la question de savoir comment poursuivre la route. Il trouvera peut-être un nouveau moyen de transport efficace en faisant plus ample connaissance avec certaines personnes. Cela vaut donc sûrement la peine d'explorer minutieusement Beloveno et ses environs.
+"Si vous voulez avoir quelque chose, parlez avec les gens. C'est le seul moyen d'y arriver ici. Celui qui ne sait pas parler est mal parti. Parlez souvent aux gens! Cela paye quand on insiste. Il n'y a pas longtemps encore, j'ai eu la petite fontaine décorative en baratinant mon voisin. Cela fait des années qu'il n'en a plus besoin, mais j'ai dû insister 5 fois jusqu'à ce qu'il cède enfin. Certains sont tout simplement têtus. La plupart des gens ici ont ce trait de caractère. Et certains changent même souvent d'avis, selon l'évolution de la situation politique dans le monde. Ne lâchez donc pas les gens et parlez avec eux."
+"Je n'ai malheureusement pas de temps à consacrer à une longue conversation. Mais si vous avez entamé une discussion avec quelqu'un, parlez-lui encore du col dans la montagne, de Kounos et de Srimalinar."
+"Si vous quittez la ville, protégez-vous des Krondirs. Ce sont des fauves assez agressifs."
+"Ne piétinez pas nos champs de céréales, s'il vous plaît, si vous explorez les alentours. Un quart des dernières récoltes a été détruit parce que certains n'ont rien trouvé de mieux à faire que de prendre un raccourci à travers champs."
+"Je reste parfois dans le port des heures durant pour écouter la houle. Les forces de la nature m'impressionnent à chaque fois. N'est-ce pas délicieux de respirer l'air frais et salé et de sentir les embruns sur le visage?"
+"Comment êtes-vous habillé? Les gens sont de plus en plus bizarres..."
+"Vous ne pouvez et ne devez pas tout comprendre."
+"Skeima Din. Si vous voulez connaître des gens, faites donc un tour à la taverne. Il y a aussi un gîte là-bas, où on peut louer une chambre et passer la nuit."
+"Si vous êtes nouveau dans la ville, vous devriez d'abord déclarer votre arrivée à l'hôtel de ville!"
+{CNTR}{INK 006}Fermé.^Ouvert de 8 à 22 heures.

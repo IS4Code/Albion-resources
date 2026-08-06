@@ -1,0 +1,7 @@
+﻿{BLOK000}"Je suis un des nouveaux membres du 'Conseil des justes'. Ce travail est pour moi un véritable défi. J'espère que j'arriverai à tout faire."
+"Bienvenue et Skeima Din. Je crois que je vais commencer par me présenter rapidement. Mon nom est Mellthar, et je suis un des deux nouveaux membres du conseil. Qui aurait cru que Garp et Riko sont des malfaiteurs rusés et font cause commune avec Kontos?"{BLOK010}"Bon, il y a eu des gens, qui l'ont cru..."{BLOK011}"On n'est pas dans la tête des gens."{WORDHôtel de ville}{WORDMelthar}
+"Ah, vous voilà de nouveau."{WORDHôtel de ville}{WORDMelthar}
+"Vous voulez dire Perron. Oui, nous ne l'avons pas pris au sérieux."
+"A qui le dites-vous..."
+"C'est moi."
+"Entre-temps, vous devriez bien le connaître."

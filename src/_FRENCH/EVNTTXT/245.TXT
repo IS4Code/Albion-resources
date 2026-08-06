@@ -1,0 +1,8 @@
+﻿{BLOK000}"Je suis un des deux nouveaux membres du 'Conseil des justes'."
+"Skeima Din, pour vous remercier de votre aide, j'ai un petit cadeau pour vous..."{BLOK010}"Là, nous ne disons pas non."{WORDHôtel de ville}{WORDArrek} {WORDMelthar}
+"Skeima Din, je suis content de vous revoir."{WORDHôtel de ville} {WORDMelthar}{WORDArrek}
+"Vous pouvez le garder. Il vous rendra peut-être un jour de précieux services."
+"C'est mon nom."
+Voilà l'autre nouveau membre du conseil.
+"Vous connaissez les lieux probablement mieux que moi."
+"Mais vous avez déjà eu le cadeau!"

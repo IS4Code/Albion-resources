@@ -1,0 +1,5 @@
+﻿{BLOK000}"Je suis un des nouveaux membres du 'Conseil des justes'. Ce travail est pour moi un véritable défi. J'espère que j'arriverai à tout faire."
+"C'est gentil de repasser. J'ai pu me roder entre-temps. Il y a eu aussi vraiment pas mal de choses ces derniers temps."{WORDTemps}{WORDHôtel de ville}
+"Je crois que vous savez bien ce que je veux dire, hé hé."
+"C'est moi."
+"Entre-temps, vous devriez bien le connaître."

@@ -1,0 +1,12 @@
+﻿{BLOK000}"Ma fonction au sein du 'Conseil des justes' consiste à tout diriger et à tout coordonner."
+"Vous voilà de nouveau. Skeima Din, c'est gentil de repasser me voir. Il y a en ce moment quelques divergences au conseil qu'il va falloir résoudre, c'est pourquoi, je n'ai pas tellement de temps pour vous."{WORDDivergences} {WORDRumeurs}
+"Comment vous l'expliquer. Notre membre du conseil Perron est d'avis, que Gard et Riko n'agissent pas pour le bien-être de la population. Il est vrai que Gard et Riko sont parfois peu flexibles, mais c'est tout de même une accusation grave de la part de Perron, qui agit et réagit parfois de façon hâtive.^^Comme Perron ne lâche pas prise, nous nous sommes tous réunis pour aborder le sujet. Malheureusement, le climat ne s'est pas amélioré. Gard et Riko sont complètement obstinés et prétendent qu'ils ne pourraient et ne voudraient plus travailler avec Perron. Ils ne l'apprécient pas, pourtant c'est une personne parfaitement honnête, chose dont je suis moins sûr en ce qui concerne Gard et Riko. En tout cas, je suis plutôt du côté de Perron, mais si Gard et Riko font la forte tête, nous ne pouvons plus travailler correctement au sein du conseil. Mais bon, il faut bien qu'on arrive à maîtriser le problème d'une façon ou d'une autre."{WORDGard}{WORDRiko}{WORDPerron}{WORDAttitude} {WORDAmbiance}
+"Parfois, c'est vraiment difficile de travailler avec eux."
+"Perron est très franc et je sais à quoi m'en tenir. Parfois, il réagit peut-être de façon un peu exagérée, mais ce n'est pas si grave."
+"Peut-être que Riko et Gard se raviseront encore, sinon il faut que je trouve une autre solution."
+"Il n'est pas tellement bon depuis la dernière explication."{WORDExplication}
+"Malheureusement, cette discussion a dégagé des résultats peu valables."
+"C'est comme ça que s'appelle notre ville."
+"C'est moi."
+"Hé bien, je ne suis pas encore tout à fait sûr s'il y a du vrai là-dedans, mais j'ai entendu dire qu'il y a apparemment de plus en plus de créatures horribles qui sortent de ce lieu. Je vous conseille de ne pas y aller. Il existe un tabou qui interdit aux hommes de pénétrer ce lieu, et en plus la Chose Sacrée appartient aux Iskais."
+"L'hôtel de ville est le plus beau bâtiment de Beloveno. Vous pouvez faire un tour, personne ne vous en empêchera."

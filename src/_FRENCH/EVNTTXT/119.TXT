@@ -1,0 +1,8 @@
+﻿{BLOK000}"A côté de mon travail de scribe, je dispose également de talents corrects en tant que Tri-Nadh."{WORDTri-Nadh}{WORDScribe}
+"Dsarii-ma. Puis-je vous aider?"
+"Je présume que tu as posé cette question pour tes compagnons humains, {LEAD}{NAME}."
+"On appelle Tri-Nadh, des personnes qui, au contact du Trii d'un autre, ne ressentent non seulement les sentiments de celui-ci, mais lisent aussi ses pensées. Le plus souvent, ces personnes particulièrement douées se mettent à la disposition du cercle du conseil des lois. Ils vérifient, par exemple, lors d'accords importants, la bonne foi des contractants."{WORDTrii}
+"Je vous souhaite bonne chance pour la poursuite des meurtriers d'Akiir."
+"Ici, dans les cercles de conseil, on prend tous les jours beaucoup de grandes et de petites décisions. Pour pouvoir s'y retrouver, il faut retenir beaucoup de choses par écrit. J'aime bien ce travail, même si la plupart trouve ça très étrange."
+"Comme je vous l'ai déjà expliqué, j'exécute des travaux d'écriture, pour soulager le travail des cercles de conseil."
+"Adieu."

@@ -1,0 +1,7 @@
+﻿{BLOK000}"Je suis membre du 'Conseil des justes'. Je ne peux pas vous en dire davantage et vous n'avez pas non plus besoin d'en savoir davantage."
+"Skeima Din, vous avez une affaire urgente?"
+"Skeima Din, j'ai beaucoup à faire. Ne me dérangez seulement si vous avez vraiment quelque chose d'important."
+"Je suis malheureusement trop occupé et je n'ai pas de temps à vous consacrer."
+"Alors, ne me dérangez pas plus longtemps, s'il vous plaît."
+"C'est mon nom."
+"Ne me posez pas de questions, s'il vous plaît, je suis trop occupé."

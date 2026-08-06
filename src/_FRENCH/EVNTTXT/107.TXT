@@ -1,0 +1,9 @@
+﻿{BLOK000}"Ah, n'ai-je pas encore mentionné que je suis le cuisinier en chef du Clan?"{WORDClan}
+"Ah, les hôtes étrangers. Dsarii-ma! Mon nom est Gridri, je suis le maître de la cuisine de notre maison.{WORDCuisine}"
+"Déjà avant d'être majeur, j'adorais cuisiner, une occupation plutôt inhabituelle pour un enfant. Aujourd'hui, je peux affirmer être un des meilleurs cuisiniers de Jirinaar.{WORDJirinaar}" {BLOK010}"ça m'intrigue, Gridri. Serait-il indécent de notre part de vous demander de nous donner un échantillon de un de vos chefs-d'oeuvre?" {BLOK011}"Oh, vous savez, la cuisine de votre peuple est un peu trop épicée pour les hommes."
+"Je suis désolé, {LEAD}{NAME}, mais mes réserves deviennent un peu justes."
+"Mais avec plaisir. Voilà une spécialité, de la viande séchée dans un manteau aux herbes. ça se conserve longtemps, l'idéal pour les voyageurs."^^{INK 001}Gridri remet 6 rations à {LEAD}{NAME}.
+"Mais je vous en prie! Une grande diversité d'épices est essentielle pour un plat réussi! Vous allez sûrement vous habituer bientôt aussi aux mets un peu plus relevés."
+"Hé bien, comme je l'ai dit, je suis fier d'être connu comme un des meilleurs cuisiniers de Jirinaar." {BLOK010}"ça m'intrigue, Gridri. Serait-il indécent de notre part de vous demander de nous donner un échantillon de un de vos chefs-d'oeuvre?" {BLOK011}" Oh, vous savez, la cuisine de votre peuple est un peu trop épicée pour les hommes."
+"Dsarii-ma! Quelle joie de vous revoir. Que puis-je faire pour vous?"{WORDCuisine}
+"Oh, c'est une élève intelligente."

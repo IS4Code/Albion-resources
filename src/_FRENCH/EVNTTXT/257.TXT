@@ -1,0 +1,9 @@
+﻿{BLOK000}"Je construis des maisons à partir de plantes, comme vous en avez certainement déjà vu."
+"Skeima Din, nous ne nous connaissons pas déjà? Vous avez aussi déjà entendu les rumeurs sur Kontos?"{WORDRumeurs}
+"Nous tous, nous ne savons pas vraiment quoi penser. Kontos raconte aux habitants de son village que nous sommes responsables des horribles créatures qui naissent près de notre lieu sacré. Nous ne pouvons apparemment pas nier que nous avons ce problème. Mais c'est tout simplement effronté de dire que ce serait intentionné de notre part. Kontos nous fait vraiment passer pour des méchants. Demandez à Edjirr, le tavernier. Il pense comme moi.^^Vous en avez aussi déjà entendu parler?"{BLOK010}"Oui, à l'occasion."{BLOK011}"Non."{WORDChose sacrée}{WORDCréatures} {WORDTabou}
+"Vous voyez. Nous ne savons pas pourquoi il raconte de telles choses. A qui ça profite-t-il?"
+"Non? Bon, ce n'est peut-être pas si important que ça..."
+"Oui, n'y allez pas de préférence. Nos fêtes religieuses se déroulent là-bas. Pour nous, c'est un lieu très noble."
+"Ce tabou existe depuis toujours, autant que je me souvienne. ça a des raisons historiques, que je ne voudrais pas vous expliquer maintenant."
+"Oui?"
+"Personne ne sait d'où sortent ces créatures. Elles semblent être d'origine magique et, pour la plupart, on les trouve près de notre Chose Sacrée. Mais nous ne les avons jamais vu sortir DE notre Chose Sacrée."

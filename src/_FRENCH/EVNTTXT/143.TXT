@@ -1,0 +1,10 @@
+﻿{BLOK000}"Je suis la propriétaire de cette échoppe."{WORDEchoppe}
+"Dsarii-ma et bienvenue dans la maison du grand choix et de l'utile!" {BLOK010}"Dsarii-ma, Wania. Nous voudrions jeter un oeil sur votre offre."
+"Ma famille tient cette maison déjà depuis quatre générations."{WORDFamille}
+"Mon mari est marin et n'est malheureusement que rarement là. Heureusement, je m'entends très bien avec son frère, il habite chez nous et c'est mon partenaire secondaire. Et les enfants apportent assez de vie à la maison!" {WORDPartenaire secondair}
+"Comme je l'ai déjà dit:^ Mon mari est marin et n'est malheureusement que rarement là. Heureusement, je m'entends très bien avec son frère, il habite chez nous et c'est mon partenaire secondaire. Et les enfants apportent assez de vie à la maison!"{WORDPartenaire secondair}
+"Oh, Rabir travaille pour moi. Un type sympa, très bon pour dénicher de la bonne marchandise. Parfois, il fait des prix juste un peu trop bons."
+"Je ne l'ai pas dit? Rabir travaille pour moi. Un type sympa."
+"Voilà mon offre. N'hésitez pas à regarder de près! Voyez un peu cette eau odorante, ça protège contre des insectes désagréables."
+"Ca fait {PRIC} pièces d'or. Ca vous va, {INVE}{NAME}?"
+Wania remet l'objet à {INVE}{NAME}.

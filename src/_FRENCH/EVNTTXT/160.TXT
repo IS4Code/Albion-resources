@@ -1,0 +1,5 @@
+﻿{BLOK000}"Je suis roi de Vanello".{WORDRoi}{WORDVanello}
+"Togi Din, voyageurs. Vous voulez me parler?" {BLOK010}"Nous sommes à la recherche d'un grand corps métallique venu du ciel. Vous avez entendu parler d'un tel événement?"
+"Non, je dois vous décevoir. Je serais sûrement au courant, si un tel événement avait eu lieu sur Gratogel."{WORDGratogel}
+"Togi Din. Que puis-je faire d'autre pour vous?"
+"Ja, je suis le chef des gens de Vanello."

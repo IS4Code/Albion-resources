@@ -1,0 +1,97 @@
+﻿-libre-
+Un tourbillon.
+Un bloc de rocher.
+Plantes aquatiques flottantes.
+L'eau est profonde et le courant semble être fort.
+Plantes aquatiques.
+Une pierre.
+Enormes racines aériennes.
+Plantes exotiques de taille impressionnante.
+Jungle épaisse.
+Un arbre boule.
+Un arbre araignée. Ses fruits rouges attirent des insectes qui retombent empoisonnés.
+Un arbre amanite.
+Une plante rampante.
+Petites plantes.
+Plantes filet.
+Une plante à tige.
+Pierres.
+Racines et branches cassées.
+Champignons.
+Un buisson.
+Une plante en forme de cactus.
+Rochers.
+Une cascade.
+Un endroit marécageux.
+Un plante s'est agrippée dans la roche.
+Une avancée rocheuse.
+Cette plante resplendit de merveilleuses couleurs.
+Une enceinte à demi-végétale.
+La porte de la ville.
+Un pilier de pont.
+Un pont Iskai.
+Cette plante offre par ses multiples ramifications de nombreuses possibilités de s'agripper et elle est solidement ancrée dans la roche avec ses milliers de racines.
+L'eau est peu profonde et très claire à cet endroit, on y voit le fond. De nombreux blocs de pierre y reposent et il n'y a pratiquement pas de courant.
+Un rapide.
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Platzhalter für weitere Cutmap-Events
+Il y a une ouverture qui mène vers le souterrain du bâtiment tombé en ruines.
+L'entrée de la ville de Jirinaar.
+Une planche du pont pourri cède sous {LEAD}{NAME} et {HIM } blesse! Les autres contournent l'endroit.
+Ce doivent être les restes du bâtiment Dji-Fadh!
+"Ce doit être l'endroit où nous avons heurté le sol! Ils ont vraiment fait du ménage ici, plus aucune trace de la navette..."
+Sous les éboulements, on trouve effectivement encore quelque chose d'utile de la navette!
+La terre est retournée par ici. C'est l'endroit où la navette s'est écrasée.
+"Rriik?"^^{INK 001} La maigre bête du troupeau regarde {LEAD}{NAME} d'un oeil étonné, mais l'ignore peu après.
+Un essaim de volatiles de type insectes.
+Les petits volatiles piquent de manière très douloureuse!
+Un Krondir!
+Un petit animal à carapace solide. Il ignore {LEAD}{NAME} et ses compagnons.
+Un grand volatile. Il n'a pas l'air agressif.
+Un buisson dont les graines mûres semblent scintiller légèrement.
+Les graines de ce buisson ont déjà été récoltées, il n'en a plus du tout.
+"C'est un buisson Triifalai, une plante très rare. Les graines sont utilisées par les Dji-Kas pour leur magie. Nous devrions emporter les graines, elles se négocient à bon prix chez les mages Dji-Kas!"
+Lorsque les insectes volants et piquants s'approchent trop, un flacon de cette substance odorante spéciale les chasse pour une courte durée!
+Janiis accompagne Tom et ses compagnons au port. Effectivement, un bateau est prêt pour un départ immédiat.^^On prend congé, et bientôt le bateau quitte le port et prend le large...
+"Je suis curieux de savoir tout ce qui nous attend encore jusqu'à ce que nous trouvions le point d'atterrissage du TORONTO."
+"Pourvu que ce ne soient pas d'autres dangers."
+"Oh, nous avons quand même assez bien résolu notre affaire criminelle.^^Après tout ce qui s'est passé, je propose d'ailleurs de laisser les politesses de côté. Qu'en dis-tu, Rainer? Et toi, Drirr? Sira?"
+Tous trouvent naturel de se tutoyer.
+La traversée dure plusieurs jours.^^Drirr en profite pendant ce temps-là pour nous apprendre la langue des hommes de la prochaine île.
+Finalement, la terre est de nouveau en vue...
+Un symbole en forme d'oeil est enfoncé dans la roche.
+"Ces symboles existent déjà depuis longtemps. On les trouve à certains endroits sur toute la planète, mais personne n'en connaît l'origine exacte."
+{LEAD}{NAME} place l'amulette avec le symbole de la Déesse sur la roche.^^Un portail s'ouvre en grinçant et les compagnons pénètrent dans la grotte qui est derrière.
+"Pour ouvrir l'entrée de la grotte, je peux utiliser l'amulette de la Déesse que je porte sur moi."
+{INK 006}{CNTR}{BIG }Fin de la démo ALBION{INK 003}{NORS}^^ {JUST}Nous espérons que la démo vous a plu. Si vous voulez poursuivre ce voyage avec Tom Driscoll et ses compagnons, vous pouvez le faire à tout moment avec la version complète d'ALBION.^^Pour vous donner une idée des aventures qui vous attendent encore, voici maintenant quelques images des chapitres suivants...
+{INK 002}{CNTR}{BIG }ALBION{INK 001}{NORS}^^^En vente partout!

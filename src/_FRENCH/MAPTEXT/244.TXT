@@ -1,0 +1,30 @@
+﻿-libre-
+La sortie.
+"La construction de la galerie n'a apparemment pas beaucoup progressé!" dit {LEAD}{NAME} tout en désignant le sol. Seulement maintenant, les autres s'aperçoivent que les rails s'arrêtent juste à l'entrée. Mais on peut, en fait, facilement traverser le tunnel à pied.
+"Je crois qu'on vient de traverser un mur! Ce mur était apparemment un mirage, mais il avait l'air sacrément vrai."
+Un coffre.
+Un escalier.
+Il y a un trou dans le plafond.
+Le trou à travers lequel Tom et les autres sont tombés est trop haut pour pouvoir remonter avec une corde.
+Une porte.
+Une table avec un coffre.
+Une flamme brûlante.
+"Aïe!"
+"La porte s'est ouverte!"
+On ne peut pas ouvrir cette porte avec une clé.
+Un bouton au mur.
+Une trappe.
+Un rideau magique miroitant.
+On ne peut pas ouvrir cette porte avec une clé.
+Le levier est coincé!
+Une dalle de contact.
+{CNTR}Une inscription sur le mur:^{INK 006}{FAT }Reculez!
+Un levier.
+{LEAD}{NAME} découvre un bouton caché sur le mur!
+Aucun verrou, aucun mécanisme, aucun interrupteur en vue. La porte ne s'ouvre probablement que par un système. Les couleurs des flammes se reflètent différemment dans la porte. On distingue bien les tons rouges et verts, alors que les tons bleus ne se voient pas du tout. La porte est peut-être sensible à la lumière.
+"Regardez!^^Ce mur dispose d'une sorte de mécanisme de rails sur les arêtes. Il a vraiment l'air curieux. J'imagine bien qu'il puisse rentrer dans le sol grâce à un levier. En plus, il y a aussi un âtre. Peut-être qu'un feu pourrait alimenter le mécanisme en énergie.^^Je pense vraiment que de tels murs s'actionnent par les nombreux leviers."
+"Qu'a bien pu provoquer le levier cette fois-ci? Il est peut-être relié à un de ces murs sur rails."
+"Il y a apparemment une source ici."
+Un bruit horrible vient du nord, comme si quelqu'un perçait un trou dans le sol avec une énorme perceuse.
+"Vous avez entendu ce grincement? Je crois qu'il venait de la pièce par laquelle nous avons accédé à ce pont."
+Un mur sur rails.

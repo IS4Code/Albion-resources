@@ -1,0 +1,7 @@
+﻿{BLOK000}"Je construis des maisons à partir de plantes, comme vous en avez certainement déjà vu."
+"Hein? Des étrangers dans notre ville? Mon nom est Arrim, je vous salue à Srimalinar."{WORDSrimalinar}
+"Ah, je vous ai déjà rencontré. Je ne suis pas sûr de pouvoir vous aider."{WORDSrimalinar}
+"Que faut-il savoir sur notre ville...mhm, vous ne devriez pas approcher notre Chose Sacrée. Il existe un tabou qui interdit aux hommes et aux étrangers de pénétrer la Chose Sacrée. Il faut en tout cas que vous vous y teniez, car le tabou a toujours été respecté jusqu'à là, et l'endroit a un grande importance pour nous. Si vous avez des objets brillants sur vous, faites-y particulièrement attention. Vous ne devez en aucun cas les laisser traîner sans surveillance. Il existe ici beaucoup de petits animaux que nous appelons les Kritahs. Ils volent vraiment tout ce qui brille et scintille. Les Kritahs vivent dans les grottes de la montagne. Normalement, ce sont des animaux assez craintifs, mais vous pouvez quand même en voir de temps en temps."{WORDTabou}{WORDChose sacrée}{WORDKritahs}
+"Oui, n'y allez pas de préférence. Nos fêtes religieuses se déroulent là-bas. Pour nous, c'est un lieu très noble."
+"Ce tabou existe depuis toujours, autant que je me souvienne. ça a des raisons historiques, que je ne voudrais pas vous expliquer maintenant."
+"Oui?"

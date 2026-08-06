@@ -1,0 +1,147 @@
+﻿libre
+Une cheminée.
+Un chandelier.
+Un panier tressé.
+Une table en bois.
+Un tabouret.
+Un lit avec un ciel. Avec ces têtes de mort, on pourrait l'appeler "lit d'enfer".
+Un bureau.
+Une chaise.
+Un feu flambe dans cette colonne, qui laisse apparaître une grimace dans une faible lumière, et suscite chez le spectateur un sentiment d'angoisse.
+Une colonne avec une horrible grimace.
+Un lit de guerrier. Comme la plupart des meubles ici, il est un peu repoussant.
+Un fût.
+Une sorte de tapis tressé de brins de végétaux.
+Une cruche en verre.
+Rideaux.
+Un coffre.
+Une armoire.
+Une torche.
+Il y a un tas de petites bricoles superflues dans les étagères.
+Un gros baquet en bois.
+Grandes étagères en bois.
+Ce lit n'est apparemment pas utilisé actuellement.
+Diverses armes tranchantes et contondantes et des armes à feu qui ont l'air assez dangereuses.
+Une étagère d'armes.
+Un bouclier.
+Un crâne empalé. Une odeur nauséabonde de décomposition indique que l'atrocité commise est assez récente.
+Ces poupées de paille servent à l'exercice et à l'entraînement au combat.
+Un pieu enveloppé de paille. Il sert à l'entraînement aux techniques de frappe.
+Une cible pour le tir à l'arc.
+Un plateau avec de la nourriture.
+Herbes.
+Un coffre.
+Une carafe.
+Une cuiller en bois.
+Un seau.
+Une cuiller.
+Une cuiller et une fourchette.
+Une timbale.
+Deux timbales.
+Couverts.
+Une assiette.
+Un récipient.
+Légumes.
+Pâtisserie.
+Une épice.
+Une assiette en métal.
+Un récipient en terre cuite.
+Un grand pot en verre.
+Un récipient en verre.
+Une boîte en bois.
+Une grande boîte en verre.
+Une bouteille.
+Notes.
+Un livre.
+Plusieurs livres.
+Un livre relié en cuir. Il a l'air d'avoir de la valeur.
+Ustensiles d'écriture.
+Un livre ouvert. Sur la page de gauche figure un croquis technique, la page de droite contient les descriptions correspondantes. Rien d'exceptionnel.
+Un petit crayon.
+Un coutelas lourd.
+Un coutelas lourd.
+Une porte.
+Ce fourneau de cuisine imposant sert à réchauffer des aliments et des boissons.
+Une tapisserie.
+Rideaux déchirés.
+Lits de bois misérables.
+Une colonne ornée.
+Une peau de bête.
+Un escalier qui monte.
+Un escalier qui descend.
+Tiroirs ouverts contenant des bricoles.
+Un gobelet.
+Des ciseaux fins.
+Une fiole.
+Une massue de combat.
+Fioles.
+Un verre grossissant.
+Grands torchons.
+Un torchon.
+Un tapis.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Les Kenget prennent aux compagnons l'or avec lequel ils voulaient payer le Grand Savoir!^^ {LEAD}{NAME} et les autres sont jetés sans ménagements dans une geôle humide.^^ça dure un petit moment avant qu'ils ne s'en remettant tous.
+"Bravo, Khunag! Quelle idée géniale d'emprunter le passage secret!"
+"A mon époque, le passage n'était pas encore surveillé!"
+"Que devons nous faire maintenant d'après toi? A part nous réjouir d'avance de toutes ces tortures exclusives que nous ont promis tes anciens acolytes..."
+"Les Kenget du rang supérieur, dont je faisais partie, si je puis me permettre de le rappeler, possèdent quelques connaissances qui les protègent des mesures irréfléchies de leurs frères subalternes.^^Ce qui suit en fait aussi partie..."
+Khunag manipule quelque chose pendant un moment derrière une voûte de pierre...
+"Avec ça, la porte de notre geôle devrait être ouverte. Essayez pour voir!"
+"En effet! La porte n'est plus verrouillée!^^Je me demande seulement, comment nous allons réussir à accéder maintenant aux parchemins du Grand Savoir."
+"Il doit y avoir quelque part un accès aux installations qui précèdent la partie intérieure. Comme nous nous sommes fait prendre dans le raccourci, nous n'avons pas d'autre choix que de passer par là. Ce n'est pas sans danger, mais il n'y a aucune autre solution."
+"Il faut d'abord sortir du couloir de la geôle."
+Lorsque {LEAD}{NAME} ouvre la porte, les Kenget postés derrière commencent à se bouger!^^D'abord surpris, puis furieux, ils se précipitent sur leurs anciens prisonniers!
+Cette porte a été fermée avec un verrou solide. Elle est verrouillée.
+Ici, il y a une clé et plusieurs bouteilles contenant des potions!
+Sous quelques guenilles se cache une merveilleuse épée!
+Ici sont stockés des aliments séchés.
+"Bien sûr! C'est ici. Nous arrivons dans les parties de Khamulon, qui ont été construites en tant que systèmes de défense. Elles servent encore en partie à ça.^^Ce ne sera pas facile. Partons."
+Un escalier de pierre massif.
+La porte est solidement verrouillée.

@@ -1,0 +1,8 @@
+﻿{BLOK000}"Mon métier consiste à fabriquer des armes."{WORDMétier}
+"Dsarii-ma. Je vous salue dans la maison des armes." {BLOK010}"Dsarii-ma. Montrez-nous un échantillon de vos pièces, s'il vous plaît." {BLOK011}"Dsarii-ma. Nous voudrions faire réparer quelque chose."
+"Je suis armurier par passion. J'adore fabriquer quelque chose avec mes mains, surtout, quand je travaille avec quelque chose d'aussi précieux que du métal."{WORDMétal}
+"Etrange que le métal soit précieux sur une planète aussi riche en matières premières."
+"Comme je l'ai dit, je suis forgeron par passion."
+"Oui, de simples pièces des entrailles de la Déesse qui se transforment en de merveilleux objets précieux dans une main experte! Malheureusement, le métal se trouve rarement en surface, et fouiller à l'intérieur de la terre reviendrait à employer la violence contre la Déesse. ça explique, par exemple, que le métal céleste ait un pouvoir particulier."{WORDDéesse}{WORDMétal céleste}
+"Un matériau fascinant, oui."
+"Lorsque des corps métalliques s'abattent sur nous du ciel, et ne sont pas brûlés en l'air avant de percuter le sol, ils contiennent souvent des métaux. Ce métal a un pouvoir particulier. On peut, grâce à l'aide d'un Dji-Kas doué, en forger des objets d'un pouvoir particulier."{Dji-Kas}

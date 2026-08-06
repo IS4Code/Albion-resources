@@ -1,0 +1,12 @@
+﻿!
+"Dsarii-ma, mes amis. Comment est la situation entre les Mahinos et les Iskais?" {BLOK010}"Malheureusement encore très tendue, Frill."
+"Alors, j'espère que vous pourrez entreprendre quelque chose contre l'escalade. Retardons encore un peu notre départ. Bonne chance!"
+"Dsarii-ma, mes amis. Comment est la situation entre les Mahinos et les Iskais?" {BLOK010}"Bonne nouvelle, les habitants de Kounos se sont rendus compte entre-temps que Kontos a abusé d'eux. ça n'a pas été simple pour eux de reconnaître qu'ils se sont laissés mener par le bout du nez comme des petits enfants. Mais après tout, ils n'avaient pas le choix. Nous pensons en tout cas, qu'une relation saine va de nouveau naître entre les tribus."
+"C'est vraiment une bonne nouvelle! Il n'y a donc plus rien qui s'oppose à un petit voyage en bateau. On part tout de suite?" {BLOK010}"Oui, pourquoi pas!" {BLOK011}"Non, nous voulons attendre encore un peu."
+"Bien. Alors, suivez-moi, s'il vous plaît."
+"D'accord. Je vous attends ici. A bientôt."
+"Dsarii-ma! Alors, Vous êtes prêt pour un petit voyage en mer?" {BLOK010}"Oui, pourquoi pas!" {BLOK011}"Non, nous voulons encore attendre un petit peu."
+"Tom, permets-moi de te dire juste un mot avant que tu ne repartes.^^Après toutes ces agitations, Mellthas et moi, nous voulons avoir un peu de temps pour nous. Je voudrais demander à toi et aux autres de poursuivre le voyage sans nous, dans un premier temps.^^Mais une fois que nous nous serions détendus un peu, nous serions prêts pour d'autres aventures!^^Tu peux nous trouver dans l'auberge de Srimalinar, si tu nous cherches."
+"Je comprends. Hé bien, je souhaite à toi et Mellthas du bon temps à Srimalinar. Nous allons certainement nous revoir bientôt.^^Bonne chance!"
+{INK 001}Sira et Mellthas prennent congé, les autres suivent Frill vers un petit bateau, qui prend aussitôt la mer...
+"Bonne chance et à bientôt, Tom!^^Ah oui, si tu devais encore avoir besoin de quelque chose de notre équipement, tiens, s'il te plaît..."^^{INK 001}Sira et Mellthas proposent leurs équipements.

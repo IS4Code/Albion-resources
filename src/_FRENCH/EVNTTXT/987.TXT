@@ -1,0 +1,12 @@
+﻿!
+"Qu'est-ce qu'il y a, mon vieux? Il faut qu'on se dépêche avant qu'on nous découvre!" {BLOK010}"Joe, merci encore de ne pas me laisser tomber!" {BLOK011}"Tu as raison, on peut faire la causette plus tard."
+"Eh, tu sais bien qu'on ne voit pas quand je rougis. Je te fais simplement plus confiance qu'à la société. Mais, si par contre, il se révèle que tu racontes des conneries, j'te mets en pièces petit bout par petit bout!"
+"Fini les louanges, sinon j'finis par penser que je suis un super mec. Laisses-nous plutôt chercher le chemin vers le tableau de contrôle du réacteur."
+"Qu'est-ce qu'il y a, mon vieux?" {BLOK010}"Es-tu vraiment sûr que tu veux être de la partie au moment de l'attaque contre le Toronto?" {BLOK011}"Parle-moi donc un peu du documentaire que tu as enregistré." {BLOK012}"Laisse-nous continuer."
+"Je n'veux même pas y penser. Je vais me cacher derrière vous, si les balles devaient siffler autour de nos oreilles, mais avec moi, nous avons de plus grandes chances d'arriver au réacteur par le pont de maintenance."
+"Hé bien, j'ai fait d'abord quelques prises de la nature et de la maison et j'ai mis en mémoire quelques bonhommes. Frill m'a ensuite emmené dans cette grande ville Iskai, mec, ça c'étaient des couleurs!^^Je pense que nos hommes à bord du Toronto vont faire des yeux grands comme ça, quand ils le verront. Dès que nous serons à bord, nous devrions introduire le documentaire le plus vite possible dans une console adéquate. Le tumulte ainsi semé à bord, ne peut nous être qu'utile."
+"O.K. Continuons."
+"Bon, si tu penses pouvoir te passer de moi...^^Tant pis, je ne vais pas faire le pauvre incompris. Si tu changes d'avis, tu me trouves dans la maison des illuminés. A plus!"
+{BLOK003}Je voudrais que tu nous quittes dans un premier temps, Joe.
+"Qu'est-ce qu'il y a, mon vieux?" {BLOK010}"As-tu des tuyaux?" {BLOK011}"Laisse-nous continuer."
+"Dans le pont de maintenance, nous devrions faire attention aux panneaux derrière lesquels il y a de l'électronique de contrôle. Peut-être pouvons-nous mettre quelques barrières de ce genre hors service. Je préviens si on rencontre quelque chose d'intéressant."

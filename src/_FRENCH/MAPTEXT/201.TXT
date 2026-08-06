@@ -1,0 +1,92 @@
+﻿-libre-
+Herbes.
+Pierres.
+Petites plantes.
+Petites branches et racines.
+Roseaux.
+Un petit arbre fruitier.
+Un arbre boule.
+Un feuillu.
+Un rapide.
+Un tourbillon.
+Une plante aquatique.
+L'eau est très profonde et le courant est apparemment fort.
+Pousses de plantes aquatiques.
+Une plante florissante.
+Un arbre parasol.
+Cette plante resplendit de merveilleuses couleurs.
+Légumes.
+Un bloc de rocher.
+L'eau est peu profonde et très claire à cet endroit, on y voit le fond. De nombreux blocs de pierre y reposent et il n'y a pratiquement pas de courant.
+Un arbre fruitier.
+Une clôture.
+Une plante à tige.
+Une plante rampante.
+Un buisson.
+Une plante à grandes feuilles.
+Une cascade.
+Une avancée rocheuse.
+Une plante qui pousse sur les rochers.
+Cette plante grimpante s'est agrippée avec des milliers de racines dans les aspérités de la roche. Elle paraît solide et offre, par ses multiples ramifications, de nombreuses possibilités pour s'accrocher.
+Un pont de bois.
+Des champs de céréales.
+Champignons.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+ 
+{CNTR}"Oink?"
+{CNTR}"Rrriick?"
+------ An extended dialog screen will appear here ------
+"Togi Din, voyageurs. Rendez visite à mon oncle, l'armurier. C'est le plus grand forgeron de Gratogel. Sa maison, c'est la grande au sud-est du village."
+"Laissez-moi tranquille, étrangers. J'ai du travail."
+"Togi Din! Eh, vous les grands poilus, vous êtes rigolos!"
+"La, laa-la! Am, stram, gram, pique et pique et colégram!"
+"Togi Din! Bienvenue à Vanello!"
+{CNTR}Le panneau indique:^^ {INK 006}Maison d'Oibelos, roi de tribu de Vanello
+{CNTR}On peut lire sur le panneau:^^ {INK 006}Tamno, armurier de la Guilde Umajo
+{CNTR}Ici est indiqué:^^ {INK 006}Gradia, outils et objets usuels
+{CNTR}On peut lire ici en grandes lettres:^^ {INK 006}Tharnos, roi de Klouta
+{CNTR}Le panneau annonce:^^ {INK 006}Bragona, plats et provisions
+{CNTR}On peut lire sur le panneau:^^ {INK 006}Maison d'Aretha, reine d'Aballon
+{CNTR}Ici est indiqué:^^ {INK 006}Les fruits d'Aballon
+{CNTR}On lit encore à peine sur le panneau rongé par le temps:^^ {INK 006}Achète et vends toutes sortes de choses
+{CNTR}On peut lire ici en belles lettres:^^ {INK 006}Arjano, gardienne du savoir^ Ecole et centre des druides d'Albion
+"Cette cabane abrite un centre de savoir aussi important? Ce n'est pas possible!"
+Une porte fermée barre l'accès dans la zone d'entrée de la cabane.
+"Togi Din! Enfin de la visite de pays lointains, il y avait longtemps, que c'est excitant!"
+"Togi Din, voyageurs. Cette journée n'est-elle pas merveilleuse?"
+"Togi Din. Veuillez m'excuser, je ne veux pas vous parler. Mon mari vient de se noyer, et je..."^ {INK 001}Des larmes coulent sur le visage de la jeune femme."
+{INK 001}Une petite fille court dans tous les sens. Elle crie:^^ {INK 002}"Togi Din! Poussez-vous, la grande guerrière arrive! Hoaaah!"
+"Togi Din! Vous voulez traverser la mer avec mon père? Ah, j'aimerais qu'il m'emmène une fois avec lui."
+Enfin, Tom et ses compagnons sentent à nouveau la terre ferme sous leurs pieds.^^Ils prennent congé de l'équipage et font un petit tour...
+"Regarde un peu ça, Tom! Je ne suis pas expert en histoire, mais ces cabanes ressemblent à des cabanes rondes Celtes!^^Comment est-ce possible qu'il n'y ait non seulement des hommes qui vivent sur cette planète, mais même des descendants Celtes, à ce qui paraît? C'est tout simplement impossible!"
+"Aussi impossible que les phénomènes étranges que nous avons connu chez les Iskais? Comme la magie?^^Ne me regarde pas comme ça, il faut bien le dire! Cette planète, visiblement, ne se conforme pas tout à fait à notre vision du monde, quel toupet quand même, non?^^Allez, prenons l'affaire d'une façon un peu plus pragmatique. Quand nous aurons trouvé le TORONTO, nous aurons le temps et les moyens d'élucider tous les mystères de cette planète."
+"Tu as peut-être raison. Il est peut-être temps d'élargir un peu ma vision du monde sur le plan des sciences naturelles. Je ne devrais pas refuser d'apprendre quelque chose de nouveau.^^A propos du pragmatisme: je pense que le mieux à faire, c'est de parler au chef du village, il est certainement le mieux placé pour savoir si quelque chose d'immense comme le TORONTO a été vu quelque part dans le pays. Si les gens d'ici ont vraiment quelque chose à faire avec les Celtes, il devrait y avoir un roi de tribu ou quelque chose de ce genre."
+"Si jamais personne ici n'a entendu parler de votre aéronef géant, nous pourrions essayer de trouver une embarcation pour Maini, la grande plaque terrestre à l'est d'ici."
+"C'est un cochon tout à fait ordinaire, comme sur la Terre!"
+"Hé bien, si les hommes ont réussi à venir ici, ils ont sûrement emmené leurs animaux."
+Devant {LEAD}{NAME} et ses compagnons s'ouvre un canyon entre les plateaux élevés des montagnes. Le vent souffle par le passage étroit qui offre peu de visibilité.
+Tom et ses compagnons embarquent sur le bateau et peu après, le voyage à Beloveno commence, la grande ville portuaire.
+On profite de nouveau, le temps de la traversée, pour apprendre de Drirr la langue des hommes de Maini, la plaque terrestre la plus proche.^^Ainsi, le temps file comme une flèche, jusqu'à ce qu'enfin Maini apparaît à l'horizon.^^Bientôt une vue magnifique sur la terre inconnue et sur Beloveno, la ville portuaire, s'offre à eux.
+Garris dirige habilement le bateau dans le port et prend congé de ses passagers.
+"Voilà, c'est fait. Jetons un oeil sur la ville!"
+Brusquement, des personnages hardis surgissent de nulle part, une embuscade! ^^Ils attaquent!
+Un petit animal protégé d'une carapace. Il ignore son environnement.
+Un grand volatile, genre insecte. Il ignore {LEAD}{NAME} et les autres.
+Un buisson dont les graines mûres semblent scintiller légèrement.
+Un buisson dont les graines ont été cueillies.
+Cet arbre est un chêne terrestre!

@@ -1,0 +1,10 @@
+﻿{BLOK000}"Ca fait la quatrième fois aujourd'hui que je fais le check-up des systèmes d'atterrissage."{WORDAtterrissage}
+"Salut chéri. Alors, on se dégourdit encore un peu les jambes avant le départ du vol de la navette? Je suis en train de faire le check-up des systèmes d'atterrissage de ce gros zinc."{WORDVol}{WORDAtterrissage}{WORDRêve}
+"Bongiorno, ma biche. Alors?"
+"Si tout va bien, et on peut compter là-dessus, nous devons attacher les ceintures pour environ 45 minutes. Après ça, l'atterrissage devrait être terminé et les segments du vaisseau sortis en position horizontale. Alors, la position normale des segments sera rétablie, compte tenu de la pesanteur. N'oublie pas de bien ranger toutes tes affaires dans ta cabine."
+"Ne t'en fais pas ma biche. Les systèmes et tous les circuits Backup pètent la forme. Ca marche comme sur des roulettes."
+"Je t'envie, toi et Hofstedt. Vous serez les premiers à pouvoir jeter un oeil sur Nugget. Je croise les doigts pour toi pendant le vol, Tom. Prends soins de toi, d'accord?"{WORDHofstedt}{WORDNugget}
+"Hé bien, si ce que tu as dit sur tes qualités de pilote n'est qu'à moitié vrai, je n'ai pas de soucis à me faire. Sérieusement, chéri, fais pas de conneries, d'accord? Je t'aime vraiment."
+"Tu n'arrives toujours pas à oublier ce rêve, hein? C'est quand même bizarre qu'il revienne tout le temps. Mais ce n'est en fait pas un cauchemar. Tu peux certainement vivre avec ça, jusqu'à ce qu'il disparaisse tout seul."
+{BLOK000}Que peux-tu dire de... {BLOK001}Regarde un peu ça... {BLOK004}A la prochaine! {BLOK005}Quel est ton job actuel?
+"Salut, mon grand."

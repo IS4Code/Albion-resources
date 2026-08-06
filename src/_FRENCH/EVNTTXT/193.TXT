@@ -1,0 +1,7 @@
+﻿{BLOK000}"Je suis le capitaine de ce vaisseau, comme vous devriez le savoir.
+"Qu'est-ce qu'il y a, Driscoll? Mon temps est compté, là juste avant l'atterrissage." {BLOK010}"Sir, je voulais juste demander si vous pouviez me donner plus de précisions quant à l'heure de départ du vol de la navette."
+"Désolé, Driscoll, je suis pressé. Pour l'heure de départ de votre vol, écoutez les annonces par haut-parleur, s'il vous plaît."
+"Je ne peux pas encore vous donner de renseignement précis, Driscoll. Mais ça ne sera plus très long. La passerelle communiquera à temps l'heure de départ du vol par haut-parleur.^^Excusez-moi maintenant, j'ai encore beaucoup à faire."
+"Vous auriez dû décoller depuis longtemps, Driscoll. Vous n'avez donc pas entendu les annonces par haut-parleur? L'heure exacte du départ est peut-être à votre discrétion, mais vous ne devriez pas mettre notre patience trop longtemps à l'épreuve."
+{BLOK004}Au revoir, Sir. {BLOK005}Quelle est votre tâche?
+"Au revoir, Driscoll."

@@ -1,0 +1,9 @@
+﻿{BLOK000}"Oh, je tiens l'épicerie de cette ville."
+"Skeima Din, vous avez déjà trouvé des preuves contre Kontos?"{BLOK010}"Non."{BLOK011}"Oui."{BLOK012}"Nous avons prouvé l'innocence de Kontos!"{WORDKontos}{WORDPreuves}
+"Alors, continuez à chercher!"
+"Le conflit de la Chose Sacrée de Srimalinar continue à s'intensifier. Vous pouvez l'arrêter en montrant le vrai visage de Kontos. Vous en détenez les preuves. Vous pourriez rendre un grand service au pays et je vous demande de le faire! Allez à la Chose Sacrée de Srimalinar et mettez un terme à tout ça!"{WORDChose sacrée}
+"Vous avez quoi??? Je crois que je devrais faire part de votre point de vue à plusieurs personnes de la ville. ça devrait en intéresser plus d'un..."
+"Il est au lieu sacré de Srimalinar et ça ne va plus durer longtemps avant que la guerre n'éclate!"
+"C'est assez grave. Allez voir vous-mêmes. Peut-être qu'on pourra encore stopper Kontos, mais si ça ne marche pas, la guerre est certainement inéluctable!"
+"Si vous avez des preuves, utilisez-les pour démasquer Kontos."
+"C'est moi."

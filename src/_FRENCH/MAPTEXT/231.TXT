@@ -1,0 +1,175 @@
+﻿-libre-
+Branches et racines.
+Un panier tressé.
+Un récipient en verre pour l'eau et d'autres boissons.
+Un fût.
+Une magnifique peau de bête.
+Un seau.
+Un bol en terre cuite.
+Une corne pour boire.
+Une assiette.
+Une cruche en terre cuite.
+Une cruche.
+Un couteau de table.
+Une fourchette.
+Une cuiller.
+Un récipient en terre cuite.
+Pierres.
+Un bol.
+Un outil de labour.
+Une hache.
+Un couvercle de coffre.
+Un coffre en bois.
+Un coffre en bois artistiquement décoré.
+Le petit endroit paisible.
+Un couvercle.
+Un grand baquet de bois.
+Un grand chaudron métallique.
+Une étagère.
+On peut voir dans cette étagère un tas de choses sans importance.
+Une commode.
+Un balai.
+Un gril.
+On peut faire cuire de la viande dessus.
+Un fourneau.
+Une carafe renversée.
+Une cuiller en bois.
+Une épée murale décorative.
+Une table en bois.
+Un tabouret.
+Un tabouret replié.
+Une table à manger massive.
+Une souche.
+Deux lances croisées.
+Un grand fût avec d'étranges boissons.
+Une chantepleure.
+Une couverture de lit.
+Un lit confortable et joliment décoré.
+Ce lit est modeste mais fonctionnel.
+Un bahut.
+Une cheminée.
+Le feu de cheminée diffuse une chaleur agréable.
+Un pot artistiquement confectionné.
+Herbes séchées.
+Un crâne humain.
+Un bouclier décoratif.
+Un pot en métal.
+Une épée décorative.
+Une porte.
+Un chaudron.
+Un couteau.
+Un stylet.
+Un poignard.
+Une dague.
+Un coutelas.
+Une épée.
+Une pointe.
+Un poignard de jet.
+Une petite hache.
+Une hache.
+Un petit arc.
+Un arc.
+Une flèche.
+Un petit bouclier de cuir.
+Un bouclier de cuir.
+Un bouclier rond.
+Un grand bouclier.
+Un bonnet de cuir.
+Un bonnet clouté.
+Un bol de métal.
+Un gilet de cuir.
+Une armure de cuir.
+Un cuir clouté.
+Une paire de chaussures.
+Une paire de bottes.
+Une bouteille vide.
+Une potion de soins verte.
+Une potion de soins turquoise.
+Une potion de soins bleue.
+Une clé.
+Une corde.
+Un anneau.
+Une torche.
+Un marteau plat.
+Un escalier qui monte.
+Un escalier qui descend.
+Un comptoir.
+Un paillasson en forme de tapis.
+Une plante d'appartement.
+Un pot de fleur.
+Un ornement artistique enfoncé dans le sol. C'est le symbole des Tailleurs de Diamants, il s'agit donc de la Guilde des Tailleurs de Diamants.
+Un ornement artistique enfoncé dans le sol, sur lequel est posé un grand cristal.
+Une table en métal.
+Une enclume.
+Un bouclier de métal.
+Un coffre en métal.
+Une forge pour façonner des métaux.
+Une tapisserie.
+Un coussin vide. C'est un très bel exemplaire que l'on utilise normalement pour la décoration.
+Plusieurs parures précieuses.
+Tableaux de présentation avec armes et boucliers.
+Un tableau de présentation vide.
+Une coupelle de feu.
+Une coupelle de feu éteinte.
+Un levier branlant.
+Un levier.
+Un point d'eau.
+Un marteau.
+Un petit marteau.
+Un marteau plat.
+Un marteau spécial.
+Une tenaille.
+Une lime.
+Une petite lime.
+Un poinçon.
+Un tournevis.
+Un petit tournevis.
+Une scie à métaux.
+Un outil fin.
+Un gobelet.
+Une clé plate.
+Des ciseaux.
+Un bol.
+Des ciseaux fins.
+Une bouteille.
+Plusieurs bouteilles.
+Une fiole.
+Une fiole rouge.
+Une petite boîte en métal.
+Une forme en métal.
+Une forme en fil de fer.
+Un bol en métal.
+Boules de cuivre.
+Un bol d'eau.
+Un bol.
+Un mortier.
+Un verre grossissant.
+Une pincette.
+Un coutelas lourd.
+Une épée ornée.
+Une double pointe.
+Une épée longue.
+Une armoire de présentation.
+Etagères avec de précieux ouvrages en fer forgé, des bijoux et des gemmes.
+Un lorry.
+Rails.
+Un butoir.
+Une chaise.
+Un lapidaire diamantaire.
+La sortie.
+"Skeima Din,^^Mon nom est Kemilo. Je travaille ici, dans l'atelier, sur de fines parures. Ce que je maîtrise le mieux, c'est la confection des attaches minuscules que nous installons sur des colliers et des anneaux. Elles sont si petites qu'elles sont à peine visibles. Pour cela, il faut une main sûre et un bon outillage.^^Mais, comme à l'origine j'étais Faiseur d'Appareils, cela ne me pose pas de problème."
+"Coskon m'a dit que vous cherchez quelqu'un pour vous apprendre à vous servir de clés et de verrous. Bon, je ne veux pas refuser sa demande et je suis prêt à le faire."
+"Vous voulez vous exercer dans l'art de faire sauter les verrous et désamorcer les pièges?"
+"Revenez quand vous voulez."
+"Skeima Din,^^vous cherchez quelqu'un? Ou puis-je vous aider d'une autre manière? Si vous avez des questions particulières, adressez-vous de préférence à Coskon. C'est le chef de la Guilde, et il peut certainement vous dire tout ce que vous souhaitez savoir."
+"Aïe, hmmmmmm, je viens de me scier le doigt."
+"En plus, je saigne de l'ongle!"
+"Tout à l'heure, une meule m'est tombée sur le pied. J'ai mal {FAT }partout{NORS}!"
+"Ne me dérangez pas, s'il vous plaît. Je devais encore tailler 2 rubis aujourd'hui, et je ne sais pas comment y arriver."
+"Je suis la femme de Coskon. Je fais le ménage et la cuisine pour les membres de la Guilde."
+"Je n'ai pas le droit de parler aux étrangers, mais je dois être poli."
+"Vous voulez acheter quelque chose? Oncle Mykonou va certainement être content. Il a les yeux qui brillent chaque fois qu'il vend quelque choooo... s'il apprend que je vous ai dit ça, il se mettra certainement en colère. Ne le lui dites surtout pas, s'il vous plaît."
+{LEAD}{NAME} et les autres sont très impressionnés lorsque, soudain, la gemme grossit et se met à pivoter sur l'ornement. Maintenant, au moins, il est clair que la pierre a effectivement des pouvoirs magiques. La question est de savoir lesquels. D'après la légende, celui qui touche la pierre est capable de lire dans la conscience des autres...
+Une gemme gigantesque qui pirouette sur un ornement et qui scintille d'un rouge limpide. Tout cela dégage une aura impressionnante.
+{LEAD}{NAME} touche la pierre et tente de lire dans la conscience d'un autre, mais ça ne marche pas, malgré des efforts intenses. En revanche, une force agréable aux effets régénérateurs lui envahit le corps.
+{CNTR}Le panneau indique:^{INK 006}Ne pas toucher les gemmes de la collection, s'il vous plaît!

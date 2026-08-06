@@ -1,0 +1,190 @@
+﻿-libre-
+Branches et racines.
+Un panier tressé.
+Un récipient en verre pour l'eau et d'autres boissons.
+Un fût.
+Une magnifique peau de bête.
+Un seau.
+Un bol en terre cuite.
+Une corne pour boire.
+Une assiette.
+Une cruche en terre cuite.
+Une cruche.
+Un couteau de table.
+Une fourchette.
+Une cuiller.
+Un récipient en terre cuite.
+Pierres.
+Un bol.
+Un outil de labour.
+Une hache.
+Un couvercle de coffre.
+Un coffre en bois.
+Un coffre en bois artistiquement décoré.
+Le petit endroit paisible.
+Un couvercle.
+Un grand baquet de bois.
+Un grand chaudron métallique.
+Une étagère.
+On peut voir dans cette étagère un tas de choses sans importance.
+Une commode.
+Un balai.
+Un gril.
+On peut faire cuire de la viande dessus.
+Un fourneau.
+Une carafe renversée.
+Une cuiller en bois.
+Une épée murale décorative.
+Une table en bois.
+Un tabouret.
+Un tabouret replié.
+Une table à manger massive.
+Une souche.
+Deux lances croisées.
+Un grand fût avec d'étranges boissons.
+Une chantepleure.
+Une couverture de lit.
+Un lit confortable et joliment décoré.
+Ce lit est modeste mais fonctionnel.
+Un bahut.
+Une cheminée.
+Le feu de cheminée diffuse une chaleur agréable.
+Un pot artistiquement confectionné.
+Herbes séchées.
+Un crâne humain.
+Un bouclier décoratif.
+Un pot en métal.
+Une épée décorative.
+Une porte.
+Un chaudron.
+Un couteau.
+Un stylet.
+Un poignard.
+Une dague.
+Un coutelas.
+Une épée.
+Une pointe.
+Un poignard de jet.
+Une petite hache.
+Une hache.
+Un petit arc.
+Un arc.
+Une flèche.
+Un petit bouclier de cuir.
+Un bouclier de cuir.
+Un bouclier rond.
+Un grand bouclier.
+Un bonnet de cuir.
+Un bonnet clouté.
+Un bol de métal.
+Un gilet de cuir.
+Une armure de cuir.
+Un cuir clouté.
+Une paire de chaussures.
+Une paire de bottes.
+Une bouteille vide.
+Une potion de soins verte.
+Une potion de soins turquoise.
+Une potion de soins bleue.
+Une clé.
+Une corde.
+Un anneau.
+Une torche.
+Un marteau plat.
+Un escalier qui monte.
+Un escalier qui descend.
+Un comptoir.
+Un paillasson en forme de tapis.
+Une plante d'appartement.
+Un pot de fleur.
+Un ornement artistique enfoncé dans le sol.
+Un ornement artistique enfoncé dans le sol, sur lequel est posé un grand cristal.
+Une table en métal.
+Une enclume.
+Un bouclier de métal.
+Un coffre en métal décoré.
+Une forge pour façonner des métaux.
+Une tapisserie.
+Un coussin vide. C'est un très bel exemplaire que l'on utilise normalement pour la décoration.
+Plusieurs parures précieuses.
+Tableaux de présentation avec armes et boucliers.
+Un tableau de présentation vide.
+Une coupelle de feu.
+Une coupelle de feu éteinte.
+Un levier branlant.
+Un levier.
+Un point d'eau.
+Un marteau.
+Un petit marteau.
+Un marteau plat.
+Un marteau spécial.
+Une tenaille.
+Une lime.
+Une petite lime.
+Un poinçon.
+Un tournevis.
+Un petit tournevis.
+Une scie à métaux.
+Un outil fin.
+Un gobelet.
+Une clé plate.
+Des ciseaux.
+Un bol.
+Des ciseaux fins.
+Une bouteille.
+Plusieurs bouteilles.
+Une fiole.
+Une fiole rouge.
+Une petite boîte en métal.
+Une forme en métal.
+Une forme en fil de fer.
+Un bol en métal.
+Boules de cuivre.
+Un bol d'eau.
+Un bol.
+Un mortier.
+Un verre grossissant.
+Une pincette.
+Un coutelas lourd.
+Une épée ornée.
+Une double pointe.
+Une épée longue.
+Une armoire de présentation.
+Etagères avec de précieux ouvrages en fer forgé, des bijoux et des gemmes.
+Un lorry.
+Rails.
+Un butoir.
+Une chaise.
+Un vieux lapidaire diamantaire.
+Une torche à huile.
+Un levier.
+Le levier ne bouge pas. {LEAD}{NAME} tire de toutes ses forces, mais n'y arrive pas. Le levier est apparemment bloqué.
+Le levier a déjà été basculé. Il est de nouveau bloqué.
+C'est une sorte de gaine pour les câbles. Derrière, il y a probablement des connexions entre le levier et les couteaux dans le sol.
+Ce sont des couteaux acérés qui sortent du sol. Ils semblent tous reliés entre eux, car ils se succèdent tout au long des passages.
+Les couteaux cèdent un peu sous les coups de marteau, mais quelque chose sous le sol semble encore les bloquer.
+Les couteaux sont descendus dans les ouvertures.
+On peut aisément enfoncer les couteaux avec le marteau et libérer ainsi le passage.
+Une pièce criblée de lames et de couteaux. Certains d'entre eux ont déjà été enfoncés.
+Ce sont des couteaux acérés qui sortent du sol. Ils sont répartis de façon purement aléatoire et semblent avoir servi à quelques essais.
+{CNTR}Le panneau indique:^{INK 006}{FAT }Attention danger de mort!^Mécanisme surchargé si les trois leviers sont basculés en même temps!^Respectez le schéma de connexion actuel!
+Levier des couteaux pour la pièce intermédiaire au sud-ouest.
+Levier des couteaux pour le hall central à l'est.
+Levier des couteaux pour la mine au nord-ouest.
+Le mécanisme a été surchargé.
+Ces couteaux ont l'air très solides. Ils sont certainement rétractables, mais on ne peut pas voir avec quoi, ni comment.
+Aah, les couteaux continuent à se suivre ici, à gauche, derrière le mur! Ils sont tous reliés, apparemment.
+Le verrou est déjà bien rouillé. Il est plutôt de qualité médiocre.
+Quelque chose est cassé dans le verrou. Il est ouvert.
+Une dalle de contact.
+Hall central.
+Rien ne semble avoir changé.
+Le pouvoir magique est probablement épuisé, car les objets ne se transforment plus.
+L'objet s'est effectivement transformé.
+Une enclume.
+Mon invention peut changer les lames de sens,^Vous devez juste agir en conséquence!^^Akka.
+8:00-11:00
+La porte est fermée et la serrure est obturée par une pièce métallique. S'il existe une possibilité d'ouvrir cette porte, il ne s'agit certainement pas d'une clé.
+Une entrée dans une mine.
+Un schéma de connexion.
+Un levier à pied en métal.

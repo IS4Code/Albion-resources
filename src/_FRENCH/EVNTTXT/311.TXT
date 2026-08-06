@@ -1,0 +1,7 @@
+﻿!
+"C'est Khamulon, le foyer des Kenget Kamulos. Il n'est conseillé qu'aux visiteurs ayant vraiment une raison valable de pénétrer Khamulon, étrangers.^^Vous avez une telle raison?" {BLOK010}"Excusez-nous d'avoir dérangé, nous devons repartir."
+"C'est Khamulon, le foyer des Kenget Kamulos. Il n'est conseillé qu'aux visiteurs ayant vraiment une raison valable de pénétrer Khamulon, étrangers.^^Vous avez une telle raison?" {BLOK010}"Excusez-nous d'avoir dérangé, nous devons repartir." {BLOK011}"Nous sommes venus pour traiter affaire avec les Kenget Kamulos."
+"J'espère pour vous que votre requête est importante et honorable.^^Suivez-moi maintenant à l'intérieur de Khamulon. Je vais vous présenter à Rhain, le compagnon du Cuain, notre chef."
+"Adieu."
+"{FAT }Vous!{NORS}^^Je ne suis pas sûr du rôle que vous avez vraiment joué lors des événements qui ont ébranlé la communauté de Khamulon.^^L'ordre m'a été donné de ne pas vous tuer, mais vous n'êtes plus les bienvenus à Khamulon.^^Partez maintenant."
+"Faut-il que je sois plus direct?^^Disparaissez!"

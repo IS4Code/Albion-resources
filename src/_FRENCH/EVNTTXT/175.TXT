@@ -1,0 +1,6 @@
+﻿{BLOK000}"Je suis le gardien du bosquet."
+"Togi Din. Tenez-vous tranquille, conformément à la sainteté du bosquet, s'il vous plaît."{WORDBosquet}
+"C'est l'endroit où nos ancêtres ont foulé pour la première fois la terre de ce monde. Ce que vous voyez ici est le Qrenno, l'arbre très très ancien du pays de nos ancêtres. C'est notre plus grande Chose Sacrée et symbolise la bienveillance de Danu. J'ai reçu le grand honneur d'être son gardien et de le protéger."{WORDDanu}{WORDDanger}
+"Je dispose de moyens pour protéger le bosquet contre des profanations, même si je suis tout seul ici."
+"Un cristal musical, quel joyau! J'avoue que vous me tentez, car moi aussi, je ne suis qu'un homme, et je me sens parfois un peu seul ici. Gardez-le pour vous, mais je vous offrirais pour ça l'une de mes armes, c'est un artefact puissant, capable de détourner bien des dangers."^^{INK 001}Frinos remet à {LEAD}{NAME} une arme magique en échange du cristal musical!
+"Merci, mais un seul cristal musical me suffit pour chasser de temps en temps la solitude."

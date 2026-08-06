@@ -1,0 +1,2 @@
+﻿{BLOK000}"Je suis Ceile d'Oibelos, même si, autrefois, je voulais rejoindre les Umajo."{WORDCeile}{WORDOibelos}{WORDUmajo}
+"Togi Din, visiteurs."

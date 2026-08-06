@@ -1,0 +1,139 @@
+﻿-libre-
+Branches et racines.
+Un panier tressé.
+Un récipient en verre pour l'eau et d'autres boissons.
+Un fût.
+Une magnifique peau de bête.
+Un seau.
+Un bol en terre cuite.
+Une corne pour boire.
+Une assiette.
+Une cruche en terre cuite.
+Une cruche.
+Un couteau de table.
+Une fourchette.
+Une cuiller.
+Un récipient en terre cuite.
+Pierres.
+Un bol.
+Un outil de labour.
+Une hache.
+Un couvercle de coffre.
+Un coffre en bois.
+Un coffre en bois artistiquement décoré.
+Le petit endroit paisible.
+Un couvercle.
+Un grand baquet de bois.
+Un grand chaudron métallique.
+Une étagère.
+On peut voir dans cette étagère un tas de choses sans importance.
+Une commode.
+Un balai.
+Un gril.
+On peut faire cuire de la viande dessus.
+Un fourneau.
+Une carafe renversée.
+Une cuiller en bois.
+Une épée murale décorative.
+Une table en bois.
+Un tabouret.
+Un tabouret replié.
+Une table à manger massive.
+Une souche.
+Deux lances croisées.
+Un grand fût avec d'étranges boissons.
+Une chantepleure.
+Une couverture de lit.
+Un lit confortable et joliment décoré.
+Ce lit est modeste mais fonctionnel.
+Un bahut.
+Une cheminée.
+Le feu de cheminée diffuse une chaleur agréable.
+Un pot artistiquement confectionné.
+Herbes séchées.
+Un crâne humain.
+Un bouclier décoratif.
+Un pot en métal.
+Une épée décorative.
+Une porte.
+Un chaudron.
+Un couteau.
+Un stylet.
+Un poignard.
+Une dague.
+Un coutelas.
+Une épée.
+Une pointe.
+Un poignard de jet.
+Une petite hache.
+Une hache.
+Un petit arc.
+Un arc.
+Une flèche.
+Un petit bouclier de cuir.
+Un bouclier de cuir.
+Un bouclier rond.
+Un grand bouclier.
+Un bonnet de cuir.
+Un bonnet clouté.
+Un bol de métal.
+Un gilet de cuir.
+Une armure de cuir.
+Un cuir clouté.
+Une paire de chaussures.
+Une paire de bottes.
+Une bouteille vide.
+Une potion de soins verte.
+Une potion de soins turquoise.
+Une potion de soins bleue.
+Une clé.
+Une corde.
+Un anneau.
+Une torche.
+Un marteau plat.
+Un escalier qui monte.
+Un escalier qui descend.
+Un comptoir.
+Un paillasson en forme de tapis.
+Une plante d'appartement.
+Un pot de fleur.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Le fût est vide et relativement léger. Le groupe peut le déplacer.
+Il n'y rien d'inscrit sur les tableaux.
+{INK 006}{CNTR}Hôtel de ville de Beloveno.
+C'est une porte.
+Cette porte est verrouillée. Apparemment, il n'est pas nécessaire de l'ouvrir.
+C'est la sortie.
+"Skeima Din,^^si vous venez avec des intentions pacifiques, je vous souhaite la bienvenue à l'hôtel de ville."
+"Pourvu que vous vous y retrouviez. L'hôtel de ville est un très grand bâtiment, on peut facilement se perdre dans les nombreux couloirs, pièces et salles de conférence. Retenez tout simplement que la sortie et le hall d'accueil sont au nord.^^Dans le bâtiment central, vous trouverez des salles de conférence et des couloirs qui mènent aux salles de vêpres. Dans le bâtiment, au sud, il y a la grande salle des fêtes et derrière, la salle de conférence du conseil. Je parle du 'Conseil des Justes', bien sûr. Je vous aiderai volontiers plus tard, et je vous expliquerai le tout encore une fois, si vous le désirez."
+"Ne trouvez-vous pas qu'une tenue un peu plus appropriée serait avantageuse, si vous voulez rendre visite au 'Conseil des Justes'?^^Ce sont des halls sacrés et nous préférons que les étrangers respectent nos coutumes."
+"Skeima Din.^^Je trouve agréable de se détendre un peu après les débats éprouvants. Vous ne trouverez pas ça partout!"
+"Skeima Din. Je suis un des nouveaux membres du conseil. Alors, c'est vous Tom, et voici vos amis? Ravi de faire votre connaissance."
+"Skeima Din. Je remplace Riko, l'ancien membre du conseil."
+"Ne devrions-nous pas avertir Herras? Il y a sûrement quelque chose de vrai dans ce qu'a dit Kariah, et il vaut mieux avertir pour rien que pas du tout."

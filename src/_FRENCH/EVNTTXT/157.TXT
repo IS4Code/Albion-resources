@@ -1,0 +1,5 @@
+﻿{BLOK000}"Je suis l'épouse de Tharnos, le roi de la Tuath."{WORDTharnos}{WORDTuath}
+"Togi Din, visiteurs. Je n'ai malheureusement que peu de temps à vous consacrer, je prépare des prières au nom de Danu." {BLOK010}"Pourquoi priez-vous, Firina?"{WORDDanu}
+"Il s'agit d'un problème personnel, dont je ne voudrais pas parler."
+"Togi Din. Que désirez-vous encore de moi?"
+"Togi Din, serviables visiteurs! J'ai bon espoir que votre, euhm, petite course nous portera chance. Je voudrais également vous remercier."

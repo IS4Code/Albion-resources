@@ -1,0 +1,68 @@
+﻿!
+"Il fait nuit noire ici. Il nous faut un peu de lumière."
+Les sombres casemates, couvertes de toutes sortes de plantes, ne ressemblent plus beaucoup à un bâtiment. Diverses senteurs flottent dans les couloirs, des bruits et des mouvements subtils indiquent que toutes sortes de formes de vie ont trouvé refuge ici.
+Un buisson d'une forme bizarre.
+Lorsque {LEAD}{NAME} touche la plante, elle commence à s'iriser!
+{LEAD}{NAME} touche un buisson arc-en-ciel.
+Une odeur forte flotte dans l'air.
+"C'est le flair des fauves. Nous devrions être prudents!"
+Une forme de style racine. C'est mobile, mais ça n'a pas l'air agressif.
+Des tentacules brillantes et mobiles dépassent du sol et essayent de ramener des proies éventuelles vers le bas, en direction du gosier.
+"Une créature intéressante. Notez l'effet auto-lumineux intense des tentacules. On peut difficilement dire s'il s'agit d'un exemplaire de la faune ou de la flore de ce monde. En tout cas, cette forme de vie paraît appartenir aux fauves."
+"Ce que vous, vénérable Rainiir, avez enrobé dans des termes agréables, équivaut certainement à la suggestion de nous méfier de ces tentacules? Un conseil avisé auquel je voudrais me rallier!"
+Dès que {LEAD}{NAME} s'approche trop des tentacules, {HE  } se fait attraper et tirer en direction de la gueule!
+"Les tentacules lumineux ne me semblent pas être un hasard. Je pense que la créature attire peut-être ses proies comme ça. La lumière semble jouer un rôle important dans le monde animal, ici, en bas."
+"Il me vient une idée. Nous pouvons peut-être éviter une autre rencontre douloureuse avec cet être carnivore en jetant nos sources lumineuses. Il est possible que la créature réagisse contre nous parce que nous avons quelque chose de lumineux sur nous."
+Maintenant que personne ne porte de source lumineuse, les tentacules de la créature restent immobiles.
+Une sorte de gros champignon.
+Une ouverture s'est faite dans le mur!
+C'est un buisson arc-en-ciel. Bizarrement, il est illuminé, même s'il n'a pas été touché.
+"Regardez autour de vous! Là où nous sommes passés, le sol se met à briller! Fascinant."
+Dans le sol il y a une énorme gueule béante avec des dents, qui dégage une odeur de décomposition.
+"Quel machin horrible! Nous devrions faire un grand détour."
+"Toute forme de vie a le droit d'exister, Driscoll. Mais ça ne veut pas dire que nous devons nous proposer comme amuse-gueule par amour pour la créature, là je suis de votre avis."
+"Je n'ai jamais vu quelque chose de pareil. ça a vraiment l'air mortel, en effet."
+{LEAD}{NAME} s'approche trop de la gueule et tombe dans l'énorme gosier! La force des mâchoires est horrible!
+{LEAD}{NAME} lance un morceau de viande dans le gosier affamé. L'effet est immédiat: Visiblement rassasiée, l'énorme gueule se referme!
+Le gosier est bien fermé.
+Un spectacle très étrange s'offre aux yeux de {LEAD}{NAME} et de ses compagnons:^Les murs bougent par pulsations et semblent vivre, plus encore que les habituels murs verts de type végétal. Une senteur intense de foin et d'herbes se dégage.
+Tous sentent que cet endroit est particulier. Un sentiment difficilement descriptible s'empare de {LEAD}{NAME} et de ses compagnons. Tous les sens semblent s'aiguiser et chaque battement de coeur ébranle le corps tout entier. C'est un des rares moments où l'on sent de manière consciente et intense que l'on {FAT }vit{NORS}.^^ La pièce est traversée par d'étranges apparitions lumineuses et une grande structure transparente est visible à l'autre bout.^^ Derrière cette forme en rotation, on reconnaît les restes d'un corps humain.
+{LEAD}{NAME} et les autres entrent dans la zone d'influence de l'apparition lumineuse!^ Tous sont pénétrés par un sentiment de plaisir intense qui augmente jusqu'à atteindre un seuil presque douloureux. Un mélange de bien-être et d'inquiétude naît. Chez les hommes, le contact se solde par des maux de tête et un grand trouble.
+La grande structure a une vague ressemblance avec l'organe frontal des Iskais. Elle dégage littéralement un sentiment de vitalité et de force vitale, un sentiment de vertige s'installe dans la tête de {LEAD}{NAME} et de ses compagnons.
+Derrière la forme en rotation, on reconnaît les restes d'un corps humain.
+Une apparition lumineuse. S'en approcher provoque de légers étourdissements.
+{LEAD}{NAME} touche la surface de la structure avec prudence...
+{INK 001}{LEAD}{NAME} touche la surface de la structure avec prudence... {INK 002}^^ "AIIEE!"^^ "Oh, saleté! C'est comme si quelqu'un avait mis le feu à ma colonne vertébrale. Oh mon Dieu, ma tête! La vache, ça fait MAL!"
+{INK 001}{LEAD}{NAME} touche la surface de la structure avec prudence...^^ {INK 002} "Oh, je sens quelque chose! ^C'est comme si j'avais touché le Trirr de quelqu'un d'autre, seulement beaucoup plus fort!^ Je... j'arrive à établir un contact..."
+"C'est ça alors, ce qu'Argim, ou ce qu'il est devenu, a voulu dire!"
+A cet endroit, des failles profondes altèrent la structure du mur.
+{LEAD}{NAME} porte quelques grands coups contre la partie affaiblie. Le mur s'effrite et libère un passage!
+Une apparition lumineuse. S'en approcher provoque des fourmillements agréables sur la peau.
+{LEAD}{NAME} touche la forme lumineuse avec prudence. Elle s'étend brusquement et enveloppe tous les compagnons avant de s'éteindre! Un sentiment agréable parcourt, comme une vague, les corps de {LEAD}{NAME} et des autres.
+"Quel sentiment merveilleux! Mais qu'est-ce que ça pouvait bien être?"
+"Il y a des histoires sur les "lumières de la Déesse", qui existent aux endroits particulièrement bénis de ce monde. Elles élèvent celui qui les découvre et lui portent bonheur. C'est la première fois que j'ai aperçu une telle lumière, quel événement!"
+"Une belle histoire, vénérable Drirr. Je souhaiterais cependant disposer d'une série d'instruments de mesure pour analyser cette apparition..."
+On aperçoit de drôles de volatiles dans l'air. Dès qu'ils remarquent de la visite, ils s'approchent...
+L'animal qui plane atteint {LEAD}{NAME}. Sa curiosité paraît ainsi satisfaite, puis il émet un bruit bizarre et finalement s'éloigne.
+"Ces animaux sont inoffensifs, ils sont végétariens. Ils produisent un gaz éclairant qui leur permet de planer."
+{CNTR}Attaquer la structure?
+"Quel événement! Imaginez donc: ..."^^ {INK 001}{LEAD}{NAME} raconte aux autres le contact avec la conscience d'Argim.
+{LEAD}{NAME} examine le tas de bric-à-brac, mais ne trouve rien de valeur.
+Ce pourraient être les restes du pauvre, victime des fauves dans la grotte.^^ {LEAD}{NAME} repère quelque chose d'intéressant!
+Une aiguille avance brusquement et s'enfonce dans les doigts de {LEAD}{NAME} qui ressent une douleur aiguë!
+Un vieux coffre qui date apparemment de l'époque où ce bâtiment était habité. Il a un verrou en filigrane.
+{LEAD}{NAME} et les autres aperçoivent devant eux le cadavre du deuxième assassin. Les fauves ont fait du bon travail.^^ Mais {LEAD}{NAME} aperçoit quelque chose scintiller parmi les restes!
+{INK 001}Drirr:{INK 002}^^ "Le Kenget Kamulos avait un poignard antique et décoratif de notre peuple sur lui, une pièce unique! ^Enfin une trace. Peut-être que le vieux savant Frill peut en faire quelque chose. Nous devrions lui rendre visite dans le bâtiment du conseil."
+{INK 001}Rainer:{INK 002}^^ "Le gars était en possession d'un poignard Iskai orné. ça a l'air d'être une pièce exceptionnelle.^Enfin une trace! Peut-être que le vieux savant Frill peut en faire quelque chose. Nous devrions lui rendre visite dans le bâtiment du conseil."
+{INK 001}Tom:{INK 002}^^ "Le gars était en possession d'un poignard Iskai orné. ça a l'air d'être une pièce exceptionnelle.^Enfin une trace! Peut-être que le vieux savant Frill peut en faire quelque chose. Nous devrions lui rendre visite dans le bâtiment du conseil."
+Une grosse plante. Elle recueille l'eau qui tombe du plafond.
+Lorsque {LEAD}{NAME} touche la plante, les racines en-dessous commencent à s'agiter. La plante part en courant!
+Plante touchée.
+On dirait d'autres restes de l'assassin.
+Visiblement, ceci faisait partie de l'équipement du meurtrier d'Akiir.
+Un volatile bizarre.
+{LEAD}{NAME} lance un des fruits bizarres dans le gosier. Aussitôt les tentacules perdent leur force et la gueule disparaît dans le sol!
+Tous se sentent un peu plus fort!
+Tous peuvent se déplacer un peu plus vite!
+Tous les compagnons se sentent plus endurants!
+Lorsque la torche allumée s'approche, les mouvements des tentacules s'intensifient brièvement. Les tentacules réagissent visiblement à la lumière de la torche!

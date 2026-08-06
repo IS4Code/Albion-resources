@@ -1,0 +1,10 @@
+﻿{BLOK000}"Je suis, comme vous devez le savoir, druide et particulièrement versé dans les amulettes."{WORDAmulettes}
+"Togi Din, mes sauveurs! Quelle joie de vous revoir, et surtout toi, Mellthas et toi aussi, Sira!"{WORDMellthas}{WORDSira}
+"Togi Din, mes sauveurs! Quelle joie de vous revoir!"
+"Ma grande passion, comme vous savez. Si j'avais au moins trouvé l'amulette de Canto, ça m'aurait épargné l'humiliation de l'échec total de mon expédition." {BLOK010}"Est-ce que l'amulette de Canto aurait vraiment valu les risques de cette recherche?"
+"Un peuple intéressant, rien que quand je pense aux aspects fascinants de leur organe frontal. J'aimerais bien m'entretenir une fois avec un de leurs savants. J'entreprendrai peut-être un jour un voyage à Jirinaar."
+"Une adorable, euhm, personne, {LEAD}{NAME}. Pas étonnant qu'on puisse aussi en tant qu'homme tomber amoureux d'elle..."
+"Je suis content et reconnaissant pour ce que tu as fais pour Mellthas, Sira."{WORDIskai}
+"{LEAD}{NAME}, je ne pourrais pas aimer mon propre fils plus que Mellthas. Je suis fier de ses connaissances et content qu'il ait trouvé quelqu'un, homme ou non, qu'il aime et qui l'aide à surmonter son handicap."
+"Mellthas, tu sais que je t'aime comme un fils. Fais attention à toi, si tu pars maintenant en voyage avec tes compagnons."{WORDIskai}
+"Canto est l'ancêtre spirituel de tous les druides et un personnage légendaire. On dit qu'il a été celui qui a conduit les hommes dans cette contrée, il y a des centaines de millier d'années. Sa sagesse et ses connaissances étaient immenses, tellement immenses qu'il est presque vénéré comme Dieu par certains. De vieux livres parlent de l'amulette qu'il a porté. Il paraît que Danu même lui a remis l'amulette. On attribue bon nombre de choses merveilleuses à l'amulette de Canto, ainsi il doit protéger son porteur contre toutes les armes et tous les sorts. Ce n'est bien sûr qu'une légende, mais pour moi la recherche valait le coup de prendre des risques."

@@ -1,0 +1,153 @@
+﻿vide
+Aucun membre du groupe ne tient particulièrement à y toucher.
+Un grand canapé.
+Une grande armoire.
+Un gril.
+Un lit.
+Un fourneau.
+La couverture de lit.
+Couverts Iskais.
+Une assiette.
+Un récipient.
+Une saucisse.
+Un morceau de viande de style jambon.
+Une cuiller en bois.
+Herbes diverses.
+Fruits.
+Une spécialité carnée.
+Une timbale.
+Un bol.
+Une épice.
+Petites boîtes à épices.
+Un petit gobelet.
+Un couteau de cuisine.
+Pâtisserie.
+Plusieurs petites saucisses.
+C'est, d'après l'odeur, un flacon avec un liquide aux épices.
+Un torchon en tissu.
+Une serviette.
+Un seau.
+Une poêle à frire.
+Un pot.
+Dans ce chaudron, il y a un petit pot posé sur une grille, dans lequel on peut faire réchauffer doucement des aliments.
+Un coussin.
+Une grande poêle à frire.
+Une brosse à poils de bête.
+Une rigole.
+Un bassin.
+Une barrière d'eau.
+Une grande cruche en terre cuite.
+Une commode.
+Dans les compartiments de la commode, il y a un tas de petites bricoles superflues.
+Un coffre.
+Ce chaudron est assez gros. Il sert peut-être au stockage de provisions, d'eau ou d'aliments.
+Il y a une plante étrange dans ce bassin, qui pompe l'eau souterraine avec des mouvements de pulsation. Cette source sert manifestement à l'alimentation en eau.
+L'eau de cet étang sent mauvais et pourrit. Les eaux usées s'accumulent probablement ici.
+Plantes aquatiques.
+Petites plantes.
+Une plante exotique.
+Une plante rampante.
+Platzhalter für weitere Cutmap-Events.
+Un escalier. Il mène vers le bas, à travers le sol.
+Cet escalier mène vers le haut, à travers le plafond.
+Il s'agit ici vraisemblablement d'une sorte de lit. Il est garni de sable, qui offre un confort étonnant avec ses grains grossiers, mais arrondis.
+La forme énorme semble être une sorte de siège. Elle paraît végétale et vraisemblablement naturelle. La surface est douce et élastique.
+Le puits de la maison.
+Les rigoles servent apparemment à l'alimentation en eau potable. Elles traversent la maison comme des petits ruisseaux.
+L'odeur de moisi et les trous dans la forme permettent de déduire qu'il s'agit d'un W.C. Ce "meuble" est également d'origine végétale et prospère merveilleusement, sûrement grâce au dépôt régulier d'engrais.
+En ce lieu se règlent les vrais besoins urgents de ce monde.
+Dans cette poêle grésille un plat aux odeurs sucrées-épicées.
+Un siège.
+Une table en bois massif.
+Une grosse plante à feuilles.
+Une porte.
+Un couteau.
+Un stylet.
+Un poignard.
+Une dague.
+Un coutelas.
+Un couteau Iskai.
+Un poignard Iskai.
+Un stylet Iskai.
+Un coutelas Iskai.
+Un grand stylet Iskai.
+Une épée Iskai.
+Une grande épée Iskai.
+Une épée longue Iskai.
+Une lance Iskai.
+Une dague Iskai.
+Un petit stylet Iskai.
+Un grand stylet Iskai.
+Une grande épée Iskai.
+Un petit arc.
+Un arc.
+Une flèche.
+Une flèche longue.
+Un bouclier de cuir.
+Un petit bouclier Iskai.
+Un bouclier Iskai.
+Un grand bouclier Iskai.
+Un bonnet de cuir.
+Une bonnet de cuir Iskai.
+Un bonnet de métal Iskai.
+Un casque de métal Iskai.
+Un corselet Iskai.
+Un corselet de métal Iskai.
+Une armure légère Iskai.
+Une armure Iskai.
+Une bouteille vide.
+Une potion de soins verte.
+Une potion de soins turquoise.
+Une potion de soins bleue.
+Une potion rouge.
+Une potion violette.
+Une potion bleue.
+Une clé.
+Une corde.
+Une torche.
+Un bloc-notes Iskai.
+Un morceau de papier.
+Un classeur Iskai.
+Un bloc spirale Iskai.
+Un crayon.
+Un petit crayon.
+Un banc.
+Ce meuble aussi a littéralement poussé du sol et c'est un banc confortable.
+Un pieu en bois. En haut de celui-ci est accroché un panneau.
+Argl.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Le panneau indique:{INK 006} Dortoirs RESERVES aux Stri Dji-Kas
+La porte ne s'ouvre pas, elle est verrouillée.

@@ -1,0 +1,216 @@
+﻿libre
+Une cheminée.
+Un chandelier.
+Un panier tressé.
+Une table en bois.
+Un tabouret.
+Un lit avec un ciel. Avec ces têtes de mort, on pourrait l'appeler "lit d'enfer".
+Un bureau.
+Une chaise.
+Un feu flambe dans cette colonne, qui laisse apparaître une grimace dans une faible lumière, et suscite chez le spectateur un sentiment d'angoisse.
+Une colonne avec une horrible grimace.
+Un lit. Comme la plupart des meubles ici, il est un peu repoussant.
+Un fût.
+Une sorte de tapis tressé de brins de végétaux.
+Une cruche en verre.
+Rideaux.
+Un coffre.
+Une armoire.
+Une torche.
+Il y a un tas de petites bricoles superflues dans les étagères.
+Un gros baquet en bois.
+Grandes étagères en bois.
+Ce lit n'est apparemment pas utilisé actuellement.
+Diverses armes tranchantes et contondantes et des armes à feu qui ont l'air assez dangereuses.
+Une étagère d'armes.
+Un bouclier.
+Un crâne empalé. Une odeur nauséabonde de décomposition indique que l'atrocité commise est assez récente.
+Ces poupées de paille servent à l'exercice et à l'entraînement au combat.
+Un pieu enveloppé de paille. Il sert à l'entraînement aux techniques de frappe.
+Une cible pour le tir à l'arc.
+Un plateau avec de la nourriture.
+Herbes.
+Un coffre.
+Une carafe.
+Une cuiller en bois.
+Un seau.
+Une cuiller.
+Une cuiller et une fourchette.
+Une timbale.
+Deux timbales.
+Couverts.
+Une assiette.
+Un récipient.
+Légumes.
+Pâtisserie.
+Une épice.
+Une assiette en métal.
+Un récipient en terre cuite.
+Un grand pot en verre.
+Un récipient en verre.
+Une boîte en bois.
+Une grande boîte en verre.
+Une bouteille.
+Notes.
+Un livre.
+Plusieurs livres.
+Un livre relié en cuir. Il a l'air d'avoir de la valeur.
+Ustensiles d'écriture.
+Un livre ouvert. Sur la page de gauche figure un croquis technique, la page de droite contient les descriptions correspondantes.
+Un petit crayon.
+Un coutelas lourd.
+Un coutelas lourd.
+Une porte.
+Ce fourneau de cuisine imposant sert à réchauffer des aliments et des boissons.
+Une tapisserie.
+Rideaux déchirés.
+Lits de bois misérables.
+Une colonne ornée.
+Une peau de bête.
+Un escalier qui monte.
+Un escalier qui descend.
+Tiroirs ouverts contenant des bricoles.
+Un gobelet.
+Des ciseaux fins.
+Une fiole.
+Une massue de combat.
+Fioles.
+Un verre grossissant.
+Grands torchons.
+Un torchon.
+Un tapis.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Khunag:{INK 002}^ "C'est la zone d'accès."
+Khunag:{INK 002}^ "Nous sommes près de la cuisine."
+Khunag:{INK 002}^ "Nous sommes arrivés aux cellules des novices."
+Khunag:{INK 002}^ "Le couloir vers la chambre d'hôtes et les cellules des novices".
+Khunag:{INK 002}^ "La salle d'exercice des druides novices."
+Khunag:{INK 002}^ "La salle d'exercice des guerriers novices."
+Khunag:{INK 002}^ "C'est une salle de prières."
+Khunag:{INK 002}^ "Une réserve à provisions."
+Khunag:{INK 002}^ "Nous arrivons ici aux salles d'esclaves."
+Khunag:{INK 002}^ "La salle d'accueil pour les visiteurs."
+Khunag:{INK 002}^ "La salle de séjour des novices."
+Khunag:{INK 002}^ "Le hall de colonnes central."
+Khunag:{INK 002}^ "Le hall des cellules des novices."
+"Ne faites pas de bêtises, visiteurs!^^Comme vous voyez, il est facile de défendre la zone d'accès!"
+"Salut, visiteurs. Vous ne pouvez quitter l'installation qu'en compagnie d'un Kenget."
+"ça veut dire que nous devons d'abord attendre la décision des Kenget concernant l'achat du Grand Savoir.^^Mais croyez-moi, ils refuseront."
+{INK 001}Un esclave:{INK 002}^^ "Nous avons rarement de la visite. Je me suis parfois demandé, s'il existait effectivement des hommes en-dehors de Khamulon."
+{INK 001}Un esclave:{INK 002}^^ "Nous ne sommes pas autorisés à parler aux visiteurs."
+{INK 001}Une esclave:{INK 002}^^ "Mon fils sera bientôt novice des Kledo. Il sera le plus courageux de tous les guerriers!"
+{INK 001}Une esclave:{INK 002}^^ "Parlez plutôt à Kredos, le chef des esclaves. Il est le plus souvent dans la cuisine."
+{INK 001}Un esclave:{INK 002}^^ "Ne m'empêchez pas de travailler, s'il vous plaît. J'ai déjà été puni assez souvent."
+{INK 001}Un esclave:{INK 002}^^ "J'étais jadis un Kledo Kamulos. Par amour pour ma femme, je suis retourné chez les esclaves."
+"Je suis un grand adorateur du Maître d'armes Cuarnainn. Il maîtrise son corps comme personne."
+"J'ai besoin d'un peu de repos, visiteurs. Mes premiers cours de combat à l'épée ont laissé des traces."
+"Je suis content d'être passé du quartier des esclaves dans les rangs des novices."
+"Je ne saurais pas quoi dire aux visiteurs.^^Adieu."
+"L'étude de la magie, c'est toute ma vie. Je peux enfin me battre malgré mon corps chétif, en l'honneur de Kamulos!"
+"J'ai appris récemment les premiers sorts. C'est merveilleux de sentir l'énergie envahir mon esprit!"
+"J'entraîne ici les novices. Ils doivent apprendre à accepter et à maîtriser la peur et la douleur."
+"Salut, visiteurs. J'ai déjà participé à des combats en-dehors de Khamulon. J'espère que vous êtes ici pour une mission, j'aime montrer au monde extérieur la supériorité de l'art du combat des Kledo Kamulos!"
+"J'ai presque terminé ma formation aux armes à distance. Je vais bientôt être initié à l'art du combat le plus noble qui soit: le combat à mains nues."
+"Adressez-vous à Rhunagh, notre Maître de magie, si vous voulez discuter. Il est le plus souvent dans la salle des prières, à l'est du complexe."
+"Nous avons cette année plusieurs novices de talent, la formation avance bien. Kamulos sera content."
+"Brûler un ennemi dans le feu de mon esprit est la pure forme d'adoration de Kamulos!"
+"J'ai eu le droit hier de lire un sort de feu sur le parchemin magique!^^Un événement fantastique, car les parchemins magiques permettent aussi à l'inexpérimenté de jeter des sorts qu'il ne maîtrise pas encore!"
+"Les visiteurs n'ont rien à faire ici!"
+"Les parties des Kledo et des Oqulo Kamulos ne doivent pas être violées par des tiers. Restez ici dans les parties des novices."
+"L'escalier derrière cette porte mène dans les appartements des Kledo Kamulos et Oqulo Kamulos formés. Nous n'avons pas accès ici."
+La porte est fermée. Un gardien s'adresse à {LEAD}{NAME}:{INK 002}^^ "L'accès est interdit aux visiteurs!"
+C'est la porte qui donne sur l'extérieur. Elle est verrouillée. Un des gardiens remarque {LEAD}{NAME} et s'adresse à {HIM2}:
+Cette porte est fermée.
+Dans ce tiroir ouvert, il y a un parchemin magique!
+Ici sont gardées un tas de petites bricoles. Quelques-unes d'entre elles paraissent intéressantes.
+Quelqu'un a laissé traîner ici un parchemin magique!
+Dans ce coffre, il y a un anneau brillant!
+Ce coffre contient des choses utiles.
+Ici, il y a un tas d'aliments.
+{LEAD}{NAME} aperçoit une amulette joliment travaillée!
+Ici, il y a plusieurs potions guérissantes!
+Une armoire avec quelques bouteilles.
+On aperçoit un petit interrupteur à l'intérieur de la coupelle de feu!
+Un petit levier est caché dans la coupelle de feu.^^ {LEAD}{NAME} actionne avec prudence l'interrupteur brûlant!
+Une ouverture apparaît dans le mur!
+"Hé bien, voilà! Nous allons accéder aux parties intérieures par ce passage secret!"
+Dans le coffre, il y a quelques boissons!
+"Ne me dérangez pas dans mes études, s'il vous plaît! Je préférerais que vous quittiez ma chambre."
+{INK 002}"Salut, visiteurs. Veuillez m'excuser, il faut que je me concentre sur mes études."
+{INK001}Le novice présent crie:^^{INK 002} "Eh! Ne touchez pas à ça, s'il vous plaît! Je serais ravi, si vous quittiez ma chambre!"
+Subitement, un cri retentit d'un passage caché!
+{CNTR}{INK 002}"Qu'est-ce que vous faites ici?"^^{FAHI}ALERTE!
+{INK 002}"Vous avez tenté de violer les parties intérieures de Khamulon!"
+{INK 002}"Vous vous rendez?"
+{INK 002}"Vous voulez vous accorder l'honneur du combat? Très bien!"^^ {INK 001}Les Kenget Kamulos attaquent!
+D'autres Kenget Kamulos apparaissent!
+Les Kenget Kamulos réattaquent tout de suite!
+"Emmenez-les dans la partie de la geôle!"
+La garde conduit le groupe à l'intérieur de la montagne. De larges couloirs faiblement éclairés traversent la montagne. L'installation doit être gigantesque!
+"Salut. ça n'arrive pas souvent d'avoir de la visite à Khamulon.^^Justifiez votre présence. Pas de politesses, s'il vous plaît! Allez, droit au but."
+Comme vous voudrez. Nous sommes venus pour vous proposer un marché.^^Nous voulons acquérir un enregistrement d'un aspect spécifique de votre art magique pour un montant en or important. Il s'agit du savoir, comment maîtriser par la magie de grandes quantités d'énergie."
+"{FAT }Vous voulez le Grand Savoir?{NORS}^^Vous avez le front de nous demander une des clés de notre savoir magique?"
+"C'est vrai. {FAT }Vous{NORS} nous avez demandé d'être franc. Nous avons une mission importante."
+"Nous ne nous soucions jamais des mobiles de nos visiteurs. Vous avez raison, votre franchise est remarquable.^^Avant de refuser prématurément, je vais en référer à Cuain, notre chef.^^Je vous fais conduire aux quartiers des hôtes. Vous pouvez circuler librement dans cette partie de Khamulon, la partie des novices et des esclaves. Ne tentez pas de pénétrer d'autres parties.^^Je vous ferais connaître notre décision dans quelque temps."
+Les compagnons sont conduits à travers de longs couloirs et halls dans une chambre spacieuse.
+"Mmh, le Kenget Kamulos a mieux réagi que je ne pensais. Au moins, il ne nous a pas jeté dehors ou enchaîné tout de suite."
+"Crois-moi, ils sont en train d'élaborer un plan qui ne va pas nous plaire.^^Les Kenget ne vont jamais délivrer le Grand Savoir."
+"Hé bien, il ne nous reste pas d'autre solution que de rester vigilant et d'attendre.^^Faisons un petit tour, plus on en connaîtra sur cet endroit, mieux ce sera."
+"Je viens d'avoir une idée qui vous intéressera sûrement.^^Comme vous le savez, je suis d'avis que les Kenget Kamulos ne vont jamais délivrer le Grand Savoir volontairement. Par conséquent, nous devons nous le procurer sans leur accord.^^Je me souviens d'une cellule, du temps où j'étais novice, qui ouvre un passage dans un couloir, qui nous permet d'accéder aux parties intérieures. Avec un peu de chance, je trouverai cette pièce, où sont gardés entre autres des enregistrements du Grand Savoir.^^Qu'en dites-vous?"
+Est-ce que Khunag doit conduire tout le monde à la cellule avec le passage secret? {BLOK000}Oui, tout de suite. {BLOK001}Non, pas tout de suite.
+"Comme vous voulez. Je pense que c'est la seule solution pur s'emparer du Grand Savoir."
+Khunag conduit le groupe dans une cellule dans la partie nord des salles des novices.
+"C'est ici. Il doit y avoir un interrupteur caché quelque part."
+"Merde. Il y a quelqu'un dans la cellule."
+"Dans cette cellule, il y a, si mes souvenirs sont bons, l'accès secret aux parties intérieures. Il doit y avoir un interrupteur caché quelque part."
+"Je viens d'avoir une idée qui vous intéressera sûrement.^^Comme vous le savez, je suis d'avis que les Kenget Kamulos ne vont jamais délivrer le Grand Savoir volontairement. Par conséquent, nous devons nous le procurer sans leur accord.^^Je me souviens d'une cellule, du temps où j'étais novice, qui ouvre un passage dans un couloir, qui nous permet d'accéder aux parties intérieures. C'est la cellule."
+"Les Kenget nous font attendre longtemps. Je voudrais insister encore une fois pour utiliser le passage secret. Nous avons de bonnes chances pour voler le Grand Savoir!"
+"Je vous donnerai des petites indications sur l'endroit où nous sommes.^^ Khamulon est très grand, presque toute la montagne a été creusée à l'aide des esclaves et de la magie."
+Khunag conduit les autres dans une cellule, dans la partie nord des cellules des novices.

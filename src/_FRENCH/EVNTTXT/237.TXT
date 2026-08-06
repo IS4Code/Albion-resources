@@ -1,0 +1,8 @@
+﻿{BLOK000}"Je suis membre du 'Conseil des justes'. je fais en sorte que tout se passe comme il faut."
+"Mhm, mais je vous ai déjà vu ici? Vous n'avez donc rien d'autre à faire que de venir fouiner par ici?"{BLOK010}"C'est important pour nous de parler aux gens."{BLOK011}"Nous ne pensions pas vous déranger."{WORDConseil}{WORDHôtel de ville}{WORDRiko}{WORDPerron} {WORDGard}
+"Ne fourrez pas votre nez partout, c'est mauvais pour la santé."
+"Ce qui me dérange, c'est que vous appreniez des non-vérités partout, et que vous vous fassiez une mauvaise image."
+"Je suis occupé et je ne peux malheureusement pas vous donner sans cesse des renseignements. En plus, les étrangers ne devraient pas se mêler de tout et tout de suite."
+"Riko et Perron sont les deux autres membres du conseil."
+"C'est moi."
+"Je crois que vous êtes resté ici assez longtemps."

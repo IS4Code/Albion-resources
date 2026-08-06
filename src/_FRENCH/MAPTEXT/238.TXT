@@ -1,0 +1,11 @@
+﻿libre
+Derrière ces barreaux, il y a des prisonniers. Mais comme les grilles ont l'air très solides, il n'y a certainement pas de danger.
+Par cette porte, on accède de nouveau à la pièce précédente. Elle est fermée.
+Par cette porte, on accède de nouveau à la pièce précédente. Elle est ouverte.
+Une planchette à clés vide.
+Une clé est suspendue sur cette planchette à clés.
+{INK 006}Pas de place pour des bagages.
+"Je veux sortir d'ici! Laissez-moi sortir!!!"
+"Le monde est injuste et frustrant! Mais on compte pour quoi? Nous ne sommes que de minuscules grains de sable."
+"Laissez-moi tranquille si vous ne tenez pas à ressortir avec un couteau entre les côtes."
+"Saluez le monde de ma part. Cela fait longtemps que je n'ai plus vu le soleil. Mais heureusement, je pourrai bientôt sortir d'ici. Je me réjouis d'avance de pouvoir respirer à nouveau l'air frais et chaud."

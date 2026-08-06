@@ -1,0 +1,3 @@
+﻿{BLOK000}"Je vends des outils et des objets usuels."{WORDObjets usuels}
+"Togi Din, vénérables clients. Puis-je vous montrer mon offre?" {BLOK010}"Oui, volontiers. Qu'avez-vous à nous proposer?"
+"Hé bien, je peux vous montrer ce que j'ai en marchandises..."

@@ -1,0 +1,28 @@
+﻿{BLOK000}"Grâce à vous, je suis toujours chef des Dji-Kas, mes amis."
+"Vous pouvez vous imaginer que mes sentiments pour lui sont mitigés. On n'a pas le droit de ruiner la vie de quelqu'un d'autre, même par amitié."
+"Notre magie est profondément ancrée dans ce monde. Vous pouvez par exemple le voir à partir du fait que nous utilisons une sorte spéciale de graines pour presque toutes nos formules, pour y concentrer nos pouvoirs spirituels. Nous sommes, par ailleurs, fiers de la diversité de notre art. Nous connaissons de la magie pour créer et détruire, pour blesser et guérir.^ En signe distinctif de notre Guilde, nous portons des dessins de couleur imprégnés dans le pelage."{WORDGraine}{WORDGuérison}{WORDFasiir}{WORDMaison de la guilde}
+{INK 001}Fasiir paraît amusé.^^ {INK 002}"Hé bien, vous êtes en train de lui parler!."
+"Ce n'est pas la graine même qui développe l'effet magique, mais l'esprit du Dji-Kas l'utilise pour y concentrer son énergie spirituelle. Les graines viennent d'une plante rare du nom de Triifalai, ce qui signifie "Trii de la Déesse". Les graines sont d'ailleurs aussi vendues dans la maison de la Guilde."{WORDTrii} {WORDDéesse}
+"Juste à côté de l'entrée de la maison de la Guilde, vous trouverez Stri Rejira, elle est maître dans l'art de la guérison. Elle guérira vos blessures."
+"C'est le nom d'une plante, dont les graines sont très convoitées par nous.{WORDGraine}"
+
+"Oh, les architectes. La relation entre nos Guildes n'est pas toujours au beau fixe. Certains des plus doués se sentent attirés par la diversité de notre art et changent pour notre Guilde. Je dois reconnaître que la relation entre moi et Akiir, le plus grand Stri des modeleurs, n'est pas des meilleures. Il y a une vieille rivalité entre nous."{WORDGuilde}{WORDAkiir}
+"La maison de la Guilde a depuis longtemps déjà sa place dans le quartier sud-ouest de Jirinaar. Elle a été construite par les Dji-Kas mêmes et abrite beaucoup de membres de la Guilde et tous les Dra."{WORDDra}
+"J'essaye de tenir compte du fait qu'Akiir se trouvait dans une situation extrême. Il ne savait plus ce qu'il faisait, j'en suis sûr."
+"Laissez-moi vous remercier encore une fois personnellement de nous avoir délivré des soupçons du meurtre d'Akiir!"
+"Akiir est le chef des modeleurs, une Guilde qui a souvent une relation un peu tendue avec la nôtre. Surtout Akiir, lui, il n'évite pas les conflits."{WORDModeleur}
+"C'est mon nom, exact."
+"C'est mon nom, exact."
+"L'attentat a été le début d'une période terrible pour moi. Heureusement, vous avez pu faire la lumière sur toute l'affaire, mes amis."
+dummy
+dummy
+dummy
+dummy
+dummy
+"Dsarii-ma, mes amis! Laissez-moi d'abord vous remercier d'avoir résolu cette histoire horrible d'Akiir! Qu'a-t-il bien pu se passer en lui, quand il a su sa mort imminente! C'est affreux.^ Mais grâce à vous, mon nom est de nouveau libéré de tout soupçon. Je ne puis vous rendre ce que vous avez fait pour moi, mais je vous prie d'accepter ceci en petit signe de reconnaissance. ça pourrait vous être utile au long de vos voyages. Je l'ai longtemps gardé sous clé, car c'est une arme dangereuse, probablement créée par des mages humains. Mais je suis sûr que ce poignard est chez vous entre de bonnes mains."^^ {INK 001}Fasiir remet un poignard doté d'une lame en cristal vert.
+"Puis-je encore vous être utile autrement, mes amis?" {WORDBradir}{WORDAkiir} {BLOK010}{INK 001}Sira:{INK 002}"Je voudrais bien enrichir mon savoir, Fasiir."
+"Puis-je encore vous être utile autrement, mes amis?"{WORDBradir}{WORDAkiir}
+"Dsarii-ma et bienvenue, mes amis. Puis-je encore vous être utile?" {WORDBradir}{WORDAkiir} {BLOK010}{INK 001}Sira:{INK 002}"Je voudrais bien enrichir mon savoir, Fasiir."
+"Kriis, ce minable Skorrek! Il est encore sous la garde des Stiriik, un cas complexe pour la justice. Je trouve son comportement, pour le moins, impardonnable."
+"Dsarii-ma et bienvenue, mes amis. Puis-je encore vous être utile?" {WORDBradir}{WORDAkiir}
+"Mais bien sûr, Sira, je t'enseignerai volontiers. Bien sûr gratuitement."

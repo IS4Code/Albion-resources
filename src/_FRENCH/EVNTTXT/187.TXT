@@ -1,0 +1,8 @@
+﻿{BLOK000}"Je suis conducteur de machines. Je suis en train de tester le bon fonctionnement des extracteurs."{WORDExtracteurs}
+"Salut, Driscoll. Ca va? Nous avons bientôt atteint Nugget, la belle vie sera alors terminée pour moi."{WORDNugget}
+"Salut, Driscoll. Ca va?"
+"Hé bien, tout d'abord, les systèmes emmenés vont extraire suffisamment de minerais pour créer une unité de production de systèmes de robots supplémentaires. Puis, suit un processus automatique, au cours duquel les excédents en minerais seront de plus en plus importants, excédents que nous balancerons avec des containers bon marché à la maison."{WORDRobots}{WORDMinerai}
+"Les derniers modèles sont gigantesques, dotés de circuits de réparation automatique. Ils sont inusables, ces machins."
+"Il doit y en avoir de toutes les sortes sur Nugget".
+{BLOK000}Que peux-tu dire de... {BLOK001}Regarde un peu ça... {BLOK004}A la prochaine! {BLOK005}Quel est ton job actuel?
+"Salut, Tom."

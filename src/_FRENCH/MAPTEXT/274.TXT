@@ -1,0 +1,143 @@
+﻿-libre-
+Branches et racines.
+Un panier tressé.
+Un récipient en verre pour l'eau et d'autres boissons.
+Un fût.
+Une magnifique peau de bête.
+Un seau.
+Un bol en terre cuite.
+Une corne pour boire.
+Une assiette.
+Une cruche en terre cuite.
+Une cruche.
+Un couteau de table.
+Une fourchette.
+Une cuiller.
+Un récipient en terre cuite.
+Pierres.
+Un bol.
+Un outil de labour.
+Une hache.
+Un couvercle de coffre.
+Un coffre en bois.
+Un coffre en bois artistiquement décoré.
+Le petit endroit paisible.
+Un couvercle.
+Un grand baquet de bois.
+Un grand chaudron métallique.
+Une étagère.
+On peut voir dans cette étagère un tas de choses sans importance.
+Une commode.
+Un balai.
+Un gril.
+On peut faire cuire de la viande dessus.
+Un fourneau.
+Une carafe renversée.
+Une cuiller en bois.
+Une épée murale décorative.
+Une table en bois.
+Un tabouret.
+Un tabouret replié.
+Une table à manger massive.
+Une souche.
+Deux lances croisées.
+Un grand fût avec d'étranges boissons.
+Une chantepleure.
+Une couverture de lit.
+Un lit confortable et joliment décoré.
+Ce lit est modeste mais fonctionnel.
+Un bahut.
+Une cheminée.
+Le feu de cheminée diffuse une chaleur agréable.
+Un pot artistiquement confectionné.
+Herbes séchées.
+Un crâne humain.
+Un bouclier décoratif.
+Un pot en métal.
+Une épée décorative.
+Une porte.
+Un chaudron.
+Un couteau.
+Un stylet.
+Un poignard.
+Une dague.
+Un coutelas.
+Une épée.
+Une pointe.
+Un poignard de jet.
+Une petite hache.
+Une hache.
+Un petit arc.
+Un arc.
+Une flèche.
+Un petit bouclier de cuir.
+Un bouclier de cuir.
+Un bouclier rond.
+Un grand bouclier.
+Un bonnet de cuir.
+Un bonnet clouté.
+Un bol de métal.
+Un gilet de cuir.
+Une armure de cuir.
+Un cuir clouté.
+Une paire de chaussures.
+Une paire de bottes.
+Une bouteille vide.
+Une potion de soins verte.
+Une potion de soins turquoise.
+Une potion de soins bleue.
+Une clé.
+Une corde.
+Un anneau.
+Une torche.
+Un marteau plat.
+Un escalier qui monte.
+Un escalier qui descend.
+Un comptoir.
+Un paillasson en forme de tapis.
+Une plante d'appartement.
+Un pot de fleur.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+"Si vous voulez discuter avec les gens, allez dans la taverne. C'est le point de rencontre de notre village. Même Kontos vit là-bas, dans les caves, sous la cabane."
+"Mellthas!^^MELLTHAS! C'est gentil d'être passé me voir! Tu es venu comment?"
+La joie se lit également sur le visage de Mellthas, alors qu'il commence à écrire fébrilement sur son morceau de papier.
+"Tu es venu avec tout tes amis? C'est bien, vous êtes les bienvenus chez moi."
+"Skeima Din. Vous êtes les amis de Mellthas?^^C'est bien, j'ai déjà entendu parler de vous. J'espère que Mellthas va bien. Passez-lui le bonjour de ma part, si vous le voyez."
+"Nous n'y manquerons pas."
+"Encore merci. Vous êtes en tout cas les bienvenus."
+"Je me réjouis vraiment de votre visite. Je suis cependant pressé, car Kontos va prononcer une allocution à laquelle je dois absolument assister. Mais passez donc une prochaine fois. Je vous parlerai alors volontiers du village et de moi-même plus en détail."
+"C'est gentil d'être passé. Cependant, mon humeur n'est pas au beau fixe. La dernière allocution de Kontos m'a fait réfléchir. Certes, je ne doute pas de son intelligence, mais parfois je constate qu'il est trop radical."
+"En ce moment, l'ambiance est explosive. Kontos veut occuper la Chose Sacrée de Srimalinar. Mais ce n'est pas moi qui vous l'ai dit. Certes, nous soutenons tous Kontos, mais parfois je ne suis pas sûr de la justesse de ses décisions. La plupart en sont convaincus. Mais moi, je ne le suis malheureusement pas. Je ne sais rien de ces curieuses créatures, et la Chose Sacrée a toujours existé depuis ma naissance. Pourquoi deviendrait-elle soudain dangereuse? ^^Tout cela n'est peut-être que passager. En tout cas, la plupart d'entre nous soutiennent totalement notre chef. Mes soupçons sont peut-être infondés."
+"Je ne sais pas si vous l'avez compris, mais la plupart des gens de notre village sont déjà partis à la Chose Sacrée de Srimalinar. Nous avons décidé de l'occuper et de détruire le mal à l'intérieur. Kontos dit que les Iskais y expérimentent la magie noire. Pourvu qu'il ait raison, car s'il se trompe, la guerre est assurée.^^Je vais bientôt rejoindre mes frères de tribu et leur prêter main forte."
+"C'est gentil d'être repassé. Merci pour tout ce que vous avez fait pour nous."
+"Je ferais tout pour Kontos! Même si je dois risquer ma vie. Je sais au moins pourquoi."
+"Ne pensez pas que nous sommes tous désagréables. Mais les étrangers doivent d'abord faire leurs preuves, avant de mériter notre respect."
+"Skeima Din. Je m'appelle Kleronna. J'ai bientôt presque l'âge de mon frère. Même si môman dit que je ne le rattraperai jamais. Mais moi je peux!"
+Un peu plus loin, deux personnes discutent ensembles et {LEAD}{NAME} réussit à entendre quelques bribes:^^"...déjà entendu que Herras a été tué à Beloveno... vraisemblablement dans ses propres rangs...affaire vraiment tragique..."^^On ne peut malheureusement pas en entendre davantage à cause des bruits parasites. Lorsque les Mahinos remarquent que ses compagnons écoutent leur conversation, ils abrègent immédiatement la discussion.
+"J'ai encore quelque chose d'important à te dire!"

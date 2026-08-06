@@ -1,0 +1,21 @@
+﻿{BLOK000}"Je simule quelques erreurs pour asticoter un peu les systèmes de réserve."{WORDSystèmes de réserve}
+"Salut, mon vieux! Tu veux m'empêcher de travailler, hein? Bonne idée!" {BLOK010}"Salut, Joe! Tu as vu les Sécus dans la salle à côté?" {BLOK011}"Joe! La dernière fois que t'avais l'air aussi naze, c'était après la virée à Osaka, juste avant le décollage!"
+"Oui, ils bloquent l'accès à la salle SysCom. Des mecs arrogants." {BLOK010}"C'est vrai. Tu sais, j'ai toujours été un peu curieux. J'aimerais trop jeter un coup d'oeil sur la ferraille dans la salle SysCom!"
+"Mhm, je sais comment on pourrait avoir ces cachottiers. Je pourrais t'indiquer l'accès au pont de maintenance. Là, tu devrais pouvoir éviter les types et atteindre la salle SysCom. Qu'en dis-tu?"{WORDPont de maintenance} {BLOK010}"Bonne idée! Vas-y!" {BLOK011}"Pff, ca va certainement attirer trop d'ennuis. Je laisse tomber."
+"O.K. Ecoutes bien, les panneaux muraux avec les chaînes lumineuses vertes cachent des accès au pont de maintenance. Tu trouveras un de ces accès en haut à droite dans la salle se situant au nord de celle-ci. Le code que tu dois entrer chez ces machins est "1042" pour ce pont. Derrière, tu trouveras une échelle vers le bas et tu pourras alors chercher ton chemin jusqu'à la montée de service dans le secteur SysCom."{WORDPont de maintenance}
+"Eh, je ne te reconnais pas, mon vieux! Mais bon, préviens-moi si tu change d'avis."
+"Le pont de maintenance se situe sous le pont central, où nous nous trouvons. Il y a un accès aux installations du vaisseau et est essentiellement utilisé par les Technorobots et de nous techniciens, quand ces boîtes de conserve ne s'en sortent pas toutes seules. ^^Il faut te dire que tout, là en bas, a été essentiellement conçu pour les robots. Il y a un tas de dalles de commande et des fantaisies du même genre qui commandent les sas. Au cas où tu ne saurais plus comment continuer, essaye donc de trouver des interrupteurs. Après tout, tu n'es pas tombé sur la tête."
+"Allez, arrête. Là, juste avant l'arrivée, je sombre complètement dans le travail! Notre marathon au saké à Osaka en valait au moins le coup, ah, ah!"
+"Hi, Tom. Alors, tu veux encore un tuyau pour éviter les Sécus?" {BLOK010}"O.K., O.K.! Tu m'as eu. Qu'est-ce que tu proposes?"
+"Alors, tu as vu quelque chose d'intéressant?"{WORDPont de maintenance} {BLOK010}"Je n'ai pas encore réussi à passer. Je vais réessayer plus tard." {BLOK011}"C'était quoi encore le code pour les accès au service?"
+"Pense à faire des essais avec les interrupteurs et tiens-toi aux robs de service, ça marchera."
+"Ouah! Ne montre le machin à personne, sinon ils vont l'encaisser tout de suite! Un flingue, c'est dingue ça!"
+"Saleté. Tu n'aurais pas pu déposer le machin dans le pont de maintenance, pour le reprendre plus tard de l'autre côté, ou autre chose? Mais bon, maintenant c'est trop tard."
+"Pff, de la routine quoi, mais en quantité. Je simule les défaillances les plus improbables, mais les systèmes du vaisseau encaissent tout ça sans broncher."
+"Alors, tu as vu quelque chose d'intéressant?" {BLOK010}"Hé bien, le SysCom Hyper-C a vraiment trinqué. Mais la meilleure, c'est que j'ai trouvé un flingue là-bas!"
+"Alors, tu as vu quelque chose d'intéressant?" {BLOK010}"Hé bien, le SysCom Hyper-C a vraiment trinqué. Mais la meilleure, c'est que j'ai trouvé un flingue là-bas! Mais ces salopards de Sécus m'ont pris le machin, parce que le chemin du retour était barré par le pont de maintenance."
+"Ah, une petite crise d'Alzheimer, hein? Le code est "1042". Bonne chance!"
+"Alors, tu as vu quelque chose d'intéressant?" {BLOK010}"Le SysCom Hyper-C est complètement mort. Mais ils ont déjà enlevé tous les restes de Snoopy."
+"Sinon, rien d'extraordinaire? C'est carrément décevant."
+{BLOK000}Que peux-tu dire de... {BLOK001}Regarde un peu ça... {BLOK004}A la prochaine! {BLOK005}Quel est ton job actuel?
+"A un de ces quatre, Tom."

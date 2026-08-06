@@ -1,0 +1,12 @@
+﻿{BLOK000}"Je suis un chasseur et un aventurier libre, et je fais ce que je veux."
+"Dsarii-ma! Quels visages étrangers dans notre ville! A peine est-on parti un petit peu en voyage, que des, euh, gens intéressants arrivent en ville!" {BLOK010}"J'espère que votre voyage s'est bien passé?"
+"Oh, je suis content d'en être sorti vivant. Au début de mon voyage, je suis passé près de l'endroit maudit, où le vieil Argim hantait autrefois les lieux.^^ Il y a là-bas des fauves très étranges."{WORDArgim}{WORDFauves}
+"Oui, la plupart d'entre eux est agressive. Le plus terrible, c'était une créature, dont on n'apercevait que la gueule, dotée de quelques tentacules lumineuses. Insatiable, je vous dis! Heureusement, j'ai découvert une sorte de fruit qui paralyse ces gueules voraces."{WORDFruit}
+"Ils sont immangeables, mais très utiles lors d'une rencontre avec les gueules voraces. Je veux bien vous en laisser quelques uns pour un prix décent." {BLOK010}"Oui, ces fruits pourraient nous servir." {BLOK011}"Non, merci. Je ne sais pas ce que nous pourrions en faire."
+"Comme vous voudrez. Je dois reconnaître que l'on ne rencontre pas très souvent ce genre de bêtes."
+"Dsarii-ma!"
+"Dsarii-ma! Hé bien, vous avez encore besoin de fruits pour paralyser les gueules voraces?" {BLOK010}"Oui, les fruits pourraient nous servir." {BLOK011}"Non, merci. Je ne sais pas ce que nous pourrions en faire."
+"Je vous laisse 5 fruits pour 40 pièces d'or. C'est bon?"
+"Désolé, mais vous n'avez pas assez d'or sur vous."
+{INK 001}Vrik sort quelques fruits.^^{INK 002} "Tenez, s'il vous plaît."
+"Eh, vous n'avez plus assez de place pour les fruits. Revenez donc quand vous serez un peu moins chargés."

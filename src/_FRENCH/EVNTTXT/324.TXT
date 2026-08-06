@@ -1,0 +1,6 @@
+﻿{BLOK000}"Je travaille ici dans la maison et je gère les réserves des illuminés."{WORDRéserves}{WORDIlluminés}
+"Ah, des visiteurs! Je vous salue. Bienvenue dans la maison des illuminés."
+"On ne garde pas de grands trésors dans cette maison, mais il existe tout de même ici un grand trésor de connaissances. Il y a, par exemple, beaucoup de parchemins magiques intéressants. J'ai le droit d'en vendre une partie. Je m'efforce à rentrer un peu d'argent dans la maison, car les gens ici n'aiment pas trop s'occuper de choses aussi profanes."{WORDParchemins magiques}
+"Hé bien, autant que je sache, ils permettent aussi à l'inexpérimenté de pratiquer la magie. Par contre, les parchemins magiques tombent en poussière après utilisation. Mais celui qui est familier avec la magie contenue dans les parchemins magiques peut apprendre le sort qui y figure de façon durable." {BLOK010}"Montrez-nous donc votre choix en parchemins magiques, s'il vous plaît."
+"Comme tout le monde ici, j'aime bien travailler pour ces gens. Ils sont souvent juste un peu inexpérimentés, et j'essaye donc de renflouer un peu le budget de la maison en vendant des parchemins magiques."{WORDParchemins magiques}
+"Je vous salue, visiteurs! Vous voulez jeter un oeil sur notre offre de parchemins magiques?" {BLOK010}"Oui, volontiers. Montrez-nous votre offre."

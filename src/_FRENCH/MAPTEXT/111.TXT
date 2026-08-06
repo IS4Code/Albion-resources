@@ -1,0 +1,227 @@
+﻿vide
+Aucun membre du groupe ne tient particulièrement à y toucher.
+Un grand canapé.
+Une grande armoire.
+Un gril.
+Un lit.
+Un fourneau.
+La couverture de lit.
+Couverts Iskais.
+Une assiette.
+Un récipient.
+Une saucisse.
+Un morceau de viande de style jambon.
+Une cuiller en bois.
+Herbes diverses.
+Fruits.
+Une spécialité carnée.
+Une timbale.
+Un bol.
+Une épice.
+Petites boîtes à épices.
+Un petit gobelet.
+Un couteau de cuisine.
+Pâtisserie.
+Plusieurs petites saucisses.
+C'est, d'après l'odeur, un flacon avec un liquide aux épices.
+Un torchon en tissu.
+Une serviette.
+Un seau.
+Une poêle à frire.
+Un pot.
+Dans ce chaudron, il y a un petit pot posé sur une grille, dans lequel on peut faire réchauffer doucement des aliments.
+Un coussin.
+Une grande poêle à frire.
+Une brosse à poils de bête.
+Une rigole.
+Un bassin.
+Une barrière d'eau.
+Une grande cruche en terre cuite.
+Une commode.
+Dans les compartiments de la commode, il y a un tas de petites bricoles superflues.
+Un coffre.
+Ce chaudron est assez gros. Il sert peut-être au stockage de provisions, d'eau ou d'aliments.
+Il y a une plante étrange dans ce bassin, qui pompe l'eau souterraine avec des mouvements de pulsation. Cette source sert manifestement à l'alimentation en eau.
+L'eau de cet étang sent mauvais et pourrit. Les eaux usées s'accumulent probablement ici.
+Plantes aquatiques.
+Petites plantes.
+Une plante exotique.
+Une plante rampante.
+Platzhalter für weitere Cutmap-Events.
+Un escalier. Il mène vers le bas, à travers le sol.
+Cet escalier mène vers le haut, à travers le plafond.
+Il s'agit ici vraisemblablement d'une sorte de lit. Il est garni de sable, qui offre un confort étonnant avec ses grains grossiers, mais arrondis.
+La forme énorme semble être une sorte de siège. Elle paraît végétale et vraisemblablement naturelle. La surface est douce et élastique.
+Le puits de la maison.
+Les rigoles servent apparemment à l'alimentation en eau potable. Elles traversent la maison comme des petits ruisseaux.
+L'odeur de moisi et les trous dans la forme permettent de déduire qu'il s'agit d'un W.C. Ce "meuble" est également d'origine végétale et prospère merveilleusement, sûrement grâce au dépôt régulier d'engrais.
+En ce lieu se règlent les vrais besoins urgents de ce monde.
+Dans cette poêle grésille un plat aux odeurs sucrées-épicées.
+Un siège.
+Une table en bois massif.
+Une grosse plante à feuilles.
+Une porte.
+Un couteau.
+Un stylet.
+Un poignard.
+Une dague.
+Un coutelas.
+Un couteau Iskai.
+Un poignard Iskai.
+Un stylet Iskai.
+Un coutelas Iskai.
+Un grand stylet Iskai.
+Une épée Iskai.
+Une grande épée Iskai.
+Une épée longue Iskai.
+Une lance Iskai.
+Une dague Iskai.
+Un petit stylet Iskai.
+Un grand stylet Iskai.
+Une grande épée Iskai.
+Un petit arc.
+Un arc.
+Une flèche.
+Une flèche longue.
+Un bouclier de cuir.
+Un petit bouclier Iskai.
+Un bouclier Iskai.
+Un grand bouclier Iskai.
+Un bonnet de cuir.
+Une bonnet de cuir Iskai.
+Un bonnet de métal Iskai.
+Un casque de métal Iskai.
+Un corselet Iskai.
+Un corselet de métal Iskai.
+Une armure légère Iskai.
+Une armure Iskai.
+Une bouteille vide.
+Une potion de soins verte.
+Une potion de soins turquoise.
+Une potion de soins bleue.
+Une potion rouge.
+Une potion violette.
+Une potion bleue.
+Une clé.
+Une corde.
+Une torche.
+Un bloc-notes Iskai.
+Un morceau de papier.
+Un classeur Iskai.
+Un bloc spirale Iskai.
+Un crayon.
+Un petit crayon.
+Un banc.
+Ce meuble aussi a littéralement poussé du sol et c'est un banc confortable.
+Un pieu en bois. En haut de celui-ci est accroché un panneau.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+"J'y ai mis tout l'équipement que j'avais encore sur moi."
+"Pendant que j'y pense, avant de quitter la maison, nous devrions faire un petit tour dans notre chambre. J'ai rangé le reste de notre matériel dans la grande armoire."
+Ce coffre est ouvert.
+La grande commode n'est pas fermée.
+"J'ai déjà vu une partie de la maison. L'architecture est fantastique. Tout semble être à base de plantes, Dieu sait comment ils font. Et on trouve de l'eau presque partout, les gens se baignent fréquemment et avec plaisir. Ah, au fait, il n'y a apparemment pas de tabou dans cette société concernant la nudité."
+"Pas étonnant avec cette chaleur."
+"Excusez mon enthousiasme, mais regardez cette forme immense là-bas. C'est une sorte de pompe qui fonctionne sans pièces mécaniques. Je crois que dans la maison, nous sommes assez fiers de ce puits."
+"Tom et Rainiir, je reviens juste du Sebai. Il désire vous parler. Voudriez-vous me suivre, s'il vous plaît?"
+"Bien sûr. Nous sommes ravis de nous entretenir avec lui."
+"Espérons que nous en apprendrons davantage sur les raisons de notre sauvetage."
+"Ne soyez pas ingrat, Driscoll. D'ailleurs, nous ne devrions peut-être plus discuter dans notre langue chez ce Sebai, au risque d'être impolis."
+"Tom et Rainiir, le chef du Clan des Chasseurs du Vent du Sud, Sebai-li Wrinn. Je vous laisse seuls maintenant."
+"C'est encore un ENFANT, Driscoll! Ce n'est pas possible!"
+"J'ai vu. Puis-je vous rappeler votre conseil de ne parler qu'en Iskai?"
+{CNTR}L'inscription signifie:^^ {INK 006} Réserves à provisions.^ Enfants: gare aux conséquences!
+"Sentez un peu ces odeurs, Driscoll! Ca doit être la cuisine."
+"C'est d'ici que vient alors ce truc vachement épicé avec lequel ils nous ont gavé?!"
+"J'adore la cuisine relevée. On ne peut pas dire que ça nous ait fait du mal."
+"Ce n'est pas vous qui étiez assis sur un pot pendant des semaines en train de ... Bref, passons."
+"On m'a déjà expliqué l'utilité de cette forme. Croyez-le ou non, c'est une espèce de W-C végétal!"
+"Hofstedt! ^Ok.^Ok.^ Je vais essayer de le dire tout simplement:^QUE - S'EST-IL - PASSE ?"
+"Vous vous souvenez de l'atterrissage forcé et de notre sortie? Bon. Juste après, la navette a volé en éclats comme dans une série B américaine. Mon premier souvenir reste le transport sur une sorte de civière. Lorsque j'ai aperçu mes sauveurs, j'ai tout de suite reperdu connaissance.^ Driscoll, ces êtres sont INTELLIGENTS!
+"Je vois bien que cette... maison n'a pas poussé du sol. Même si en regardant de près..."
+"Vous ne comprenez pas: il y a ici une vie intelligente, nous avons établi le contact avec la troisième race non humaine! Leur culture est fantastique, et..."
+"Hofstedt, s'il vous plaît! J'ai mal au crâne même sans vos tentatives d'explications. Commencez par le début, pour l'amour de Dieu! Comment les instruments ont-ils bien pu tomber en panne? Nous sortons avec des masques respiratoires dans l'attente d'un monde de martiens, et nous nous retrouvons dans une foutue jungle plus dense que celle des vieilles docs terrestres!"
+"Je n'ai aucune idée de ce qui a mal tourné. Vous voyez vous-même la plupart des faits. Nous nous trouvons sur une planète riche en oxygène et chaude en température, avec une énorme diversité en faune et en flore, la pesanteur est contre toute attente légèrement inférieure à 1 G. ^^ Jusque là, notre système immunitaire s'acclimate aux micro-organismes environnants. La déflagration vous a plus touché que moi. Vous avez été dans le coma pendant près de 30 jours.^^ Stop! N'essayez même pas! Encore 30 jours au moins avant de pouvoir vous lever!"
+"J'ai remarqué! Quelques séquelles?"
+"Je ne crois pas. Quelques fractures, brûlures et vraisemblablement de légères lésions internes. La commotion cérébrale m'a beaucoup plus inquiété, mais vous semblez être parfaitement conscient. Votre prothèse fonctionne."
+"Merci. Continuez."
+"Bon, je me suis rapidement remis et j'ai pris contact avec nos hôtes. Par quel bout commencer?"
+"Vous êtes scientifique! Essayez de vous souvenir des faits."
+"Je vais faire de mon mieux. Bon, ils s'appellent les Iskais. Comme vous l'avez vu, ils sont d'une stature humanoïde, mais plus grands et plus minces que les hommes, et en plus ils sont velus.^^Ils semblent descendre des fauves, comme vous avez pu certainement le constater à la forme de leur tête. Sinon, leur genèse semble s'être déroulée d'une manière similaire à celle de l'homo sapiens.^^Les Iskais sont des mammifères avec deux sexes différents, comme nous. Leur seuil de développement technologique ne paraît pas très élevé, même s'ils sont capables d'exploits architecturaux étonnants.^^Les habitants de cette maison se sont occupés de nous avec dévouement, et m'ont aidé à vous garder en vie."
+"Ca veut dire qu'une sorte de sorcier m'a rafistolé?"
+"Non. D'un autre côté, qui sait? Je me souviens vaguement du premier jour ici, quand un de ces gaillards était dans la chambre et nous a tripoté quelque chose. Il n'a cependant pas donné l'impression de vouloir faire de l'esbroufe avec un tour de passe-passe, et m'a manipulé avec une espèce de graine végétale scintillante. J'étais trop faible pour protester. ça ne nous a apparemment pas fait de mal. Puis j'ai dû encore utiliser trois trousses médicales pour vous ramener au stade actuel."
+"Drenis bat ardriiba na gendi?"
+"Kriidak na grriina, euh, strokiri. Badri?"
+"Frji wan drobia. Lanarii!"
+"Comme je vois, vous n'avez pas perdu votre temps. Vous avez appris leur langue en 4 semaines à peine?"
+"Je maîtrise juste quelques mots. La prononciation à part, la compréhension de la langue est d'une facilité surprenante. Je vous enseignerai les bases ces jours-ci, pour vous permettre de rattraper le retard."
+"Allez-y doucement, Hofstedt. Je suis encore en train d'essayer de ne pas disjoncter. Cette situation est... Je veux dire... Ce qui nous arrive est incroyable! ça n'arrive pas aux gens normaux dans la réalité, ça..."
+"Hé, hé, calmez-vous, Driscoll! Voyez-vous, c'est le genre de pensées que l'on a lorsqu'on vit quelque chose qu'on ne lit ou ne voit habituellement qu'à l'écran. Seulement ici, ça se passe vraiment! Acceptez-le et remettez-vous vite. Finalement, nous devrons regagner le vaisseau d'une manière ou d'une autre."
+"Le vaisseau, c'est vrai! Ils vont faire des grands yeux quand ils seront en orbite."
+"Je suppose qu'ils vont atterrir à l'endroit prévu et construire une station de recherches au lieu de la structure d'exploitation. Votre société pourra au moins récupérer un peu d'argent avec les droits d'exclusivité des premières docs."
+"Nous devons donc découvrir l'endroit où nous sommes et voir comment retourner là où nous avons atterri.^^Comme notre navette est entièrement détruite, le retour au TORONTO risque d'être long."
+"Ca, c'est la bonne attitude. Mais nous devons d'abord apprendre à communiquer. Dormez encore un peu, puis nous commencerons avec la première leçon."
+"D'accord. Et... Hofstedt..."
+"Oui?"
+"Merci pour tout."
+"Ces Iskais sont le rêve d'un xénobiologiste! A un moment, leur ressemblance avec l'homme est à peine croyable, puis ils vous paraissent de nouveau complètement étrangers. Imaginez un peu les conséquences de ce rituel Sebai! Malgré leur courte durée de vie, les Iskais ont quasiment l'éternité devant eux!^^ Ce qui m'a étonné aussi, c'est que le métal de notre navette ait autant de valeur dans un monde si riche en matières premières."
+"Dsarii-ma, hôtes de la maison. Si vous voulez aller chasser dans les bois, vous devriez d'abord consulter Krinn, le Stri de la chasse. Il peut vous donner de précieux conseils. Vous le reconnaîtrez à sa fourrure brun-gris avec des rayures de pelage gris."
+{INK 001}L'enfant Iskai regarde les hommes devant lui avec de grands yeux. La vue lui en a coupé la langue.
+"Dsarii-ma! J'espère que l'hospitalité du Clan du Vent du Sud vous convient et que vous vous sentez bien chez nous!"
+"Dsarii-ma. Vous avez vraiment l'air drôle. Vous êtes malade, qu'est-ce qui s'est passé avec votre pelage?"
+"Dsarii-ma. Veuillez m'excuser, j'ai peu de temps pour la causette, il faut que je prépare la prochaine chasse."
+"Dsarii-ma! Vous n'êtes pas plus grand que moi!"
+"Dsarii-ma. Je suis un de ceux qui vous ont trouvé. Je me rappellerai toute ma vie de cette explosion!"
+Cette porte donne sur l'extérieur.
+Cette porte est équipée d'un verrou solide.
+{LEAD}{NAME} ouvre le verrou avec la clé de Wrinn.
+Dans ce coffre, il y a quelque chose d'intéressant!
+Le coffre est fermé.
+{LEAD}{NAME} ouvre le coffre à l'aide du passe-partout.
+Cette grande commode offre beaucoup de place pour poser des objets.
+Quelques semaines plus tard, Tom a récupéré et a appris les notions de base de la langue Iskai avec l'aide de Rainer. Aujourd'hui, pour la première fois, il se sent assez fort pour quitter définitivement son lit.
+{FAHI}- S E Q U E N C E S C R I P T - {NORS}^^ Image: Tom se réveille et aperçoit son "infirmière", qui le surprend avec son visage non humain, c'est le moins qu'on puisse dire.^^ Rainer les rejoint et commence à expliquer la situation.
+"Jamais, Hofstedt! Et même si Giria me bouffe, je ne reste pas un jour de plus dans ce bac à sable!"
+"Votre infirmière ne sera pas ravie. Mais soit, vos pas ont gagné en assurance ces derniers jours."
+"Ca marche pas mal, quand même. Il devient temps de quitter cette chambre."
+"O.K.^ Mais VOUS parlez à Giria!"
+"Tom! Vous vous promenez! Je ne vous ai pas dit de vous ménager? Bon, JE ne suis pas responsable, si vous vous écroulez! Je vais dire à Sebai-li Wrinn que vous avez apparemment retrouvé vos forces."
+"Ouf! J'imaginais pire que ça. Elle nous a déjà parlé de ce Sebai-je ne sais quoi, non?"
+"Oui. Je crois qu'il s'agit du chef de famille. Il doit être particulièrement vieux, si j'ai bien compris."
+"ça ne veut pas dire grand chose pour nous, les Iskais n'atteignent apparemment que 30 ou 40 ans."
+"Pas étonnant qu'ils paraissent aussi pressés. On a l'impression qu'ils tournent tout le temps à plein régime. Regardez Giria. Je voulais encore la remercier pour ses soins, pour l'amadouer, mais elle avait déjà disparu.^ ^Quoi qu'il en soit, laissez-nous jeter un coup d'oeil sur cette maison."
+Cette porte donne à l'extérieur sur la ville. Elle est fermée par un verrou.
+{INVE}{NAME} ouvre la porte avec la clé de Wrinn.

@@ -1,0 +1,9 @@
+﻿{BLOK000}"Je vais encore à l'école. La famille de mon père n'est pas très grande, c'est pourquoi je n'ai pas été adopté."{WORDEcole}{WORDPère} {WORDAdoption}
+"Togi Din! Vous êtes des visiteurs de pays lointains, n'est-ce pas? Et vous voulez parler avec MOI? Oh, Dieux, c'est la première fois que je vois un poil..., euhm, je veux dire un Iskai de mes propres yeux! Que vous êtes grands!"{WORDDieux}{WORDIskai}
+"Togi Din! Vous êtes des visiteurs de pays lointains, n'est-ce pas? Et vous voulez parler avec MOI?"
+"Togi Din! Vous voulez discuter encore une fois avec moi?"
+"Oui, un druide vient d'Arjano pour donner des cours aux enfants. C'est parfois ennuyeux, mais souvent il raconte aussi de supers histoires."{WORDDruides}{WORDArjano}
+"Hé bien, comme je l'ai dit, un druide vient d'Arjano pour nous donner des cours."{WORDDruides}{WORDArjano}
+"J'ai déjà beaucoup entendu parler d'eux. Certains parmi nous en parlent avec dédain, mais quelques uns aussi avec respect et un peu de peur, car on dit qu'ils sont de bons guerriers."{WORDGuerrier}
+"Mon père est un des meilleurs guerriers du village et est au service de notre roi!"{WORDRoi}
+"Mais bon, je n'aurais pas aimé quitter mes parents, mais d'un autre côté, j'aurais eu une deuxième famille. Finalement, je préfère comme c'est."

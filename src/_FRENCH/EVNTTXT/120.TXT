@@ -1,0 +1,26 @@
+﻿{BLOK000}"Pour l'instant, je suis encore Dra Dji-Kas, mais je suis sur le point de devenir Stri."{WORDDra}{WORDStri}{WORDDji-Kas}
+ 
+"Notre magie est profondément ancrée dans ce monde. Vous pouvez par exemple le voir à partir du fait que nous utilisons une sorte spéciale de graines pour presque toutes nos formules, pour y concentrer nos pouvoirs spirituels. Nous sommes, par ailleurs, fiers de la diversité de notre art. Nous connaissons de la magie pour créer et détruire, pour blesser et guérir.^ En signe distinctif de notre Guilde, nous portons des dessins de couleur imprégnés dans le pelage. Le chef des Dji-Kas est Sebai-fre Fasiir. Il passe tout son temps dans la maison de la Guilde."{WORDGraine}{WORDGuérison}{WORDFasiir}{WORDMaison de la guilde}
+"Sebai-fre Fasiir dirige notre Guilde déjà depuis plus de 120 ans. C'est une légende vivante chez les Dji-Kas et un excellent professeur, qui transmet rapidement de nouvelles connaissances à ses élèves, du moment qu'ils soient prêts pour ça."
+"Ce n'est pas la graine même qui développe l'effet magique, mais l'esprit du Dji-Kas l'utilise pour y concentrer son énergie spirituelle. Les graines viennent d'une plante rare du nom de Triifalai, ce qui signifie "Trii de la Déesse". Les graines sont d'ailleurs aussi vendues dans la maison de la Guilde."{WORDTrii} {WORDDéesse}
+"Juste à côté de l'entrée de la maison de la Guilde, vous trouverez Stri Rejira, elle est maître dans l'art de la guérison. Elle guérira vos blessures."
+"C'est le nom d'une plante, dont les graines sont très convoitées par nous.{WORDGraine}"
+
+"Oh, les architectes. La relation entre nos Guildes n'est pas toujours au beau fixe. Certains des plus doués se sentent attirés par la diversité de notre art et changent pour notre Guilde. Mais qui peut bien leur en vouloir? Qui a vraiment envie de dépenser toute son énergie dans la construction d'habitations, aussi jolies soient-elles? Peut-être que les Dji-Fadh sont aussi fâchés parce que nous avons ainsi été capables de créer notre maison de la Guilde sans leur aide."{WORDGuilde}
+"La maison de la Guilde a depuis longtemps déjà sa place dans le quartier sud-ouest de Jirinaar. Elle a été construite par les Dji-Kas mêmes et abrite beaucoup de membres de la Guilde et tous les Dra."{WORDDra}
+"Akiir est mon père. Malheureusement, notre relation est un peu tendue en ce moment. Il était, pour le moins, pas très enthousiaste du fait que j'ai rejoint cette Guilde, les Dji-Kas. La Guilde de mon père, les Dji-Fadh, entretient depuis toujours une sorte de concurrence avec la Guilde des Dji-Kas.^^ Hé bien, j'espère qu'il s'habituera à ma décision avec le temps."
+"Laissez-moi vous remercier encore une fois personnellement de nous avoir délivré des soupçons du meurtre d'Akiir!"
+"Akiir est le chef des modeleurs, une Guilde qui a souvent une relation un peu tendue avec la nôtre. Surtout Akiir, lui, il n'évite pas les conflits."{WORDModeleur}
+"Vous ne connaissez pas Fasiir aussi bien que nous, nous qui traitons avec lui tous les jours. Il ne commanditerait jamais un tel crime! Mais je suppose que vous n'allez pas croire ce que dit un des membres de sa Guilde."
+"Je vous suis sincèrement reconnaissante d'avoir blanchi son nom."
+"Je ne sais rien d'un meurtre."
+dummy
+dummy
+dummy
+dummy
+dummy
+"Dsarii-ma! Quelle joie de vous voir. J'ai déjà entendu parler de votre présence en ville." {BLOK010}"Votre joie est communicative, Sira. Existe-t-il une raison à ça?" {BLOK011}"J'espère que vous avez entendu que de bonnes choses sur nous!"
+"Oh, on dit de moi que je suis d'une nature joviale. En plus, je viens d'apprendre de Sebai Fasiir, que j'ai le droit de passer la première épreuve pour devenir Stri-Dji-Kas.^ J'en suis si contente, parce que ça ne fait pas très longtemps que je suis chez les Dji-Kas. J'ai longtemps cherché pour quoi je suis vraiment douée. Finalement, il s'avère que c'est pour la magie, et j'en suis très contente."{WORDFasiir}{WORDStri}{WORDDji-Kas} {WORDSebai}
+"Pour être franc, je vous ai imaginé plus farouche que ça, depuis que j'ai entendu dire que vous n'étiez plus les bienvenus pour une raison ou une autre dans le Clan du Vent du Sud."
+"Soit que vous paraissiez étranges à mes yeux, mais, d'une certaine façon, je vous trouve quand même sympathiques."
+"Dsarii-ma! Vous voulez encore causer un petit peu avec moi?"

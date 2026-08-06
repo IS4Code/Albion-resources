@@ -1,0 +1,1058 @@
+﻿	ALBION System texts (GERMAN)
+
+	*** Party member portraits ***
+
+[0000:%s (PV:%d, PM:%d)]
+[0593:Donner %s à %s]
+[0594:Donner or à %s]
+[0595:Donner denrées à %s]
+[0596:{INK 006}%s n'a plus de place!]
+[0597:{INK 006}%s ne peut pas porter autant d'or!]
+[0598:{INK 006}%s ne peut pas porter autant de rations!]
+
+
+	*** Party member pop-up menu ***
+
+[0070:Ecran du personnage]
+[0010:Magie]
+[0004:Désigner chef]
+[0005:Parler à]
+[0701:Toggle]
+[0425:{INK 006}Ne connaît pas de sorts!]
+[0512:{INK 006}Ne peut pas parler pour l'instant!]
+[0735:{INK 006}Mellthas ne peut pas parler.]
+[0542:{INK 006}Ne peut pas encore diriger l'équipe!]
+[0757:{INK 006}Ce sac n'est pas disponible!]
+
+
+	*** New active member selector ***
+
+[0545:Qui dirigera l'équipe?]
+[0544:{INK 006}Ce personnage ne peut pas diriger l'équipe!]
+[0541:{INK 006}Quelqu'un DOIT diriger l'équipe!]
+
+
+	*** Map pop-up menu ***
+
+[0006:Parler à]
+[0007:Regarder]
+[0008:Manipuler]
+[0009:Utiliser]
+[0074:Prendre]
+[0011:{INK 002}Marcher]
+[0130:{INK 002}Carte panoramique]
+[0012:{INK 002}Repos]
+[0723:{INK 002}Attendre]
+[0696:{INK 002}Menu principal]
+(this one also appears in the combat pop-up menu)
+[0014:Environs]
+[0513:Personnage]
+
+[0489:{INK 006}Ne peut pas porter cette charge!]
+[0490:{INK 006}N'a plus de place!]
+[0601:{INK 006}C'est trop dangereux ici!]
+[0430:Quel objet utiliser?]
+[0431:Cet objet n'a pas d'effet ici.]
+[0432:Ce mot n'a aucun effet.]
+
+[0532:{INK 006}Trop loin.]
+[0533:{INK 006}Trop loin pour dialoguer.]
+[0534:{INK 006}Trop loin pour toucher.]
+[0535:{INK 006}Inaccessible.]
+[0536:{INK 006}Trop loin.]
+[0537:{INK 006}Impossible.]
+
+[0539:Cette personne dort!]
+[0540:Cette personne parle une langue que {LEAD}{NAME} ne connaît pas.]
+[0543:Ces personnes ne parlent pas la même langue.]
+[0724:Attendre combien d'heures?]
+[0726:Se reposer vraiment?]
+
+
+	*** Inventory item pop-up menu ***
+
+[0015:Poser]
+[0016:Apprendre sort]
+[0017:Examiner]
+[0018:Boire]
+[0019:Activer le sort]
+[0020:Lire]
+[0131:Activer]
+[0574:Vendre]
+[0607:Utiliser]
+[0760:{INK 006}Pas pendant les combats!]
+[0752:%s n'a plus de place!]
+
+
+	*** Inventory screen ***
+
+[0021:Quitter l'écran du personnage]
+[0047:Sac à dos]
+[0054:Ecran du personnage 1]
+[0055:Ecran du personnage 2]
+[0056:Ecran du personnage 3]
+[0057:I]
+[0058:II]
+[0059:III]
+[0677:Dégâts : %d]
+[0678:Protection: %d]
+[0679:Charge : %d Kg]
+[0680:Charge actuelle : %ld sur %ld g]
+
+
+	*** Items ***
+
+[0022:%s]
+[0517:Placer %s]
+[0518:Echanger %s avec %s]
+[0519:{INK 006}Cet emplacement est pris!]
+[0520:Rajouter]
+[0577:{INK 006}%s (%d.%u or)]
+[0579:%s (%d.%u or)]
+
+
+	*** Item types ***
+
+[0023:Armure]
+[0024:Casque]
+[0025:Chaussures]
+[0026:Bouclier]
+[0027:Arme de combat]
+[0028:Arme de jet]
+[0029:Munitions]
+[0030:Document]
+[0031:Parchemin magique]
+[0032:Boisson]
+[0033:Amulette]
+[0034:Broche]
+[0035:Anneau]
+[0036:Objet de valeur]
+[0037:Outils]
+[0038:Clé]
+[0039:Normal]
+[0040:Objet magique]
+[0041:Objet spécial]
+[0042:Transport]
+[0043:Objet lumineux]
+[0044:]
+[0045:]
+[0046:]
+
+
+	*** Gold / food ***
+
+[0048:%d.%u Or]
+[0049:%d Rations]
+[0051:Or]
+[0053:Rations]
+[0050:Poser]
+[0727:Poser combien d'or?]
+[0728:Vraiment jeter cet or?]
+[0729:Jeter combien de rations?]
+[0730:Vraiment jeter ces rations?]
+[0052:Prendre combien d'or?]
+[0515:Prendre combien de rations?]
+
+
+	*** Locks ***
+
+[0071:Serrure]
+[0072:Crocheter serrure]
+[0073:Ouvrir]
+[0522:{LEAD}{NAME} a crocheté la serrure!]
+[0523:Impossible de crocheter cette serrure!]
+[0524:{LEAD}{NAME} a déclenché un piège mais l'a évité!]
+[0525:{LEAD}{NAME} a déclenché un piège!]
+[0526:{LEAD}{NAME} a ouvert la serrure!]
+[0527:{LEAD}{NAME} a ouvert la serrure avec un passe-partout!]
+[0528:Ce n'est pas la bonne clé.]
+[0529:Impossible d'ouvrir la serrure avec ça.]
+[0538:{LEAD}{NAME} n'arrive pas à crocheter la serrure!]
+
+
+	*** High-level text commands ***
+
+[0075:il]
+[0076:elle]
+[0077:]
+
+[0078:le]
+[0079:la]
+[0080:]
+
+[0081:son]
+[0082:sa]
+[0083:ses]
+
+[0084:Homme]
+[0085:Femme]
+[0086:Créature]
+
+// POST-RELEASE CHANGE 1.38
+[0758:lui]
+[0776:elle]
+[0777:]
+
+	*** Race names ***
+
+[0456:Terrien]
+[0457:Iskai]
+[0458:Celte]
+[0459:Kenget Kamulos]
+
+[0460:Dji Cantos]
+[0461:Mahino]
+[0462:Décadent]
+[0463:Umajo]
+
+[0464:]
+[0465:]
+[0466:]
+[0467:]
+
+[0468:]
+[0469:]
+[0470:]
+[0471:Monstre]
+
+
+	*** Class names ***
+
+[0095:Pilote]
+[0096:Scientifique]
+[0097:Guerrier]
+[0098:Mage Dji-Kas]
+
+[0099:Druide]
+[0100:Illuminée]
+[0101:Technicien]
+[0102:]
+
+[0103:Oqulo Kamulos]
+[0104:Guerrière]
+[0105:]
+[0106:]
+
+[0107:]
+[0108:]
+[0109:]
+[0110:]
+
+[0111:]
+[0112:]
+[0113:]
+[0114:]
+
+[0115:]
+[0116:]
+[0117:]
+[0118:]
+
+[0119:]
+[0120:]
+[0121:]
+[0122:]
+
+[0123:]
+[0124:]
+[0125:]
+[0126:]
+
+
+	*** Racist insults ***
+
+	UNUSED
+[0472:]
+[0473:]
+[0474:]
+[0475:]
+
+[0476:]
+[0477:]
+[0478:]
+[0479:]
+
+[0480:]
+[0481:]
+[0482:]
+[0483:]
+
+[0484:]
+[0485:]
+[0486:]
+[0487:]
+
+
+	*** Class insults ***
+
+	UNUSED
+[0135:]
+[0136:]
+[0137:]
+[0138:]
+
+[0139:]
+[0140:]
+[0141:]
+[0142:]
+
+[0143:]
+[0144:]
+[0145:]
+[0146:]
+
+[0147:]
+[0148:]
+[0149:]
+[0150:]
+
+[0151:]
+[0152:]
+[0153:]
+[0154:]
+
+[0155:]
+[0156:]
+[0157:]
+[0158:]
+
+[0159:]
+[0160:]
+[0161:]
+[0162:]
+
+[0163:]
+[0164:]
+[0165:]
+[0166:]
+
+
+	*** Automapper icons (2...17) ***
+
+[0168:Bouche mystère]
+[0169:Téléporteur]
+[0170:Fou]
+[0171:Piège]
+[0172:Trappe]
+[0173:Spécial]
+[0174:Monstre]
+[0175:Porte fermée]
+[0176:Porte ouverte]
+[0177:Commerçant]
+[0178:Taverne]
+[0179:Coffre fermé]
+[0180:Quitter]
+[0181:Coffre ouvert]
+[0182:Bric-à-brac]
+[0183:Personne]
+  (Message 184 in this sequence is the Goto-point, which is a special case.)
+[0185:Event]
+
+
+	*** Inventory messages ***
+
+[0184:Plus de charges!]
+[0599:Mauvaise classe!]
+[0186:Mauvaise zone de sort!]
+[0187:Classe de sorts inconnue!]
+[0188:Ce sort a déjà été appris!]
+[0189:Niveau du sort trop élévé!]
+[0190:{SUBJ}{NAME} a appris le sort!]
+[0191:L'objet est cassé!]
+[0192:Poser combien d'objets?]
+[0193:{INK 006}Cet objet est important!]
+[0062:Voulez-vous vraiment poser CET objet?]
+[0531:Voulez-vous vraiment jeter CES objets?]
+[0063:{INK 006}Cet objet est ensorcelé!]
+[0065:{INK 006}Impossible de retirer ceci pendant les combats!]
+[0066:Prendre combien d'objets?]
+[0067:{INK 006}Impossible de retirer ceci pendant les combats!]
+[0068:{INK 006}Ne peut pas être porté sur le corps!]
+[0194:{INK 006}Cet objet est cassé!]
+[0195:{INK 006}Mauvaise classe pour utiliser l'objet!]
+[0196:{INK 006}Mauvais sexe pour utiliser l'objet!]
+[0197:{INK 006}Pas de main libre!]
+[0132:{INK 006}Cet objet est déjà activé!]
+[0719:Qui doit boire?]
+
+
+	*** Tactical window ***
+
+[0697:Combat]
+[0746:Attente]
+[0001:Attaque]
+[0002:Déplacement]
+[0003:Magie]
+[0198:Fuite]
+[0199:Objet magique]
+[0200:Déplacement de l'équipe]
+[0488:{INK 002}Visualisation]
+[0546:{INK 002}Arrêt du combat]
+[0202:{INK 002}Tour de jeu!]
+[0437:{INK 006}Attaque impossible!]
+[0438:{INK 006}Dégâts nuls!]
+[0439:{INK 006}Déplacement impossible!]
+[0440:{INK 006}Fuite impossible!]
+[0755:{INK 006}L'équipe s'est déjà déplacée!]
+
+
+	*** Spell names for class 0 ***
+
+[0203:Collier d'épines]
+[0204:DELETED]
+[0205:DELETED]
+[0206:Accélération]
+[0207:Vision magique]
+
+[0208:Eclat de glace]
+[0209:Etoile de glace]
+[0210:Avalanche]
+[0211:Soins légers]
+[0212:Etincelle aveuglante]
+
+[0213:Rayon aveuglant]
+[0214:Tempête aveuglante]
+[0215:Eperons soporifiques]
+[0216:Piège d'épines]
+[0217:Antipiège]
+
+[0218:DELETED]
+[0219:Désintoxication]
+[0220:Antiaveuglement]
+[0221:Antidote]
+[0222:Mycoses]
+
+[0223:Lumière]
+[0224:]
+[0225:]
+[0226:]
+[0227:]
+
+[0228:]
+[0229:]
+[0230:]
+[0231:]
+[0232:]
+
+	*** Spell names for class 1 ***
+
+[0233:Régénération]
+[0234:Carte magique]
+[0235:Revitaliseur]
+[0236:Téléportation]
+[0237:Guérison]
+
+[0238:Retraite]
+[0239:DELETED]
+[0240:DELETED]
+[0241:Colère de la Déesse]
+[0242:Confusion]
+
+[0243:Récupération]
+[0244:]
+[0245:]
+[0246:]
+[0247:]
+
+[0248:]
+[0249:]
+[0250:]
+[0251:]
+[0252:]
+
+[0253:]
+[0254:]
+[0255:]
+[0256:]
+[0257:]
+
+[0258:]
+[0259:]
+[0260:]
+[0261:]
+[0262:]
+
+	*** Spell names for class 2 ***
+
+[0263:Fureur]
+[0264:Antidémon]
+[0265:Antidémons]
+[0266:Exode des démons]
+[0267:Petite boule de feu]
+
+[0268:Bouclier magique]
+[0269:Guérison]
+[0270:Démoralisant]
+[0271:Terreur]
+[0272:Panique]
+
+[0273:DELETED]
+[0274:]
+[0275:]
+[0276:]
+[0277:]
+
+[0278:]
+[0279:]
+[0280:]
+[0281:]
+[0282:]
+
+[0283:]
+[0284:]
+[0285:]
+[0286:]
+[0287:]
+
+[0288:]
+[0289:]
+[0290:]
+[0291:]
+[0292:]
+
+	*** Spell names for class 3 ***
+
+[0293:Boule de feu]
+[0294:Foudre]
+[0295:Pluie de feu]
+[0296:Mégafoudre]
+[0297:Déluge de feu]
+
+[0298:Tempête]
+[0299:Piège à foudre]
+[0300:Piège à mégafoudre]
+[0301:Mine à foudre]
+[0302:Mine à mégafoudre]
+
+[0303:Dévitaliseur]
+[0304:Drainage magique]
+[0305:Protection]
+[0306:Oeil de Kamulos]
+[0307:Antipiège]
+
+[0308:]
+[0309:]
+[0310:]
+[0311:]
+[0312:]
+
+[0313:]
+[0314:]
+[0315:]
+[0316:]
+[0317:]
+
+[0318:]
+[0319:]
+[0320:]
+[0321:]
+[0322:]
+
+	*** Spell names for class 4 ***
+
+	UNUSED
+[0323:]
+[0324:]
+[0325:]
+[0326:]
+[0327:]
+
+[0328:]
+[0329:]
+[0330:]
+[0331:]
+[0332:]
+
+[0333:]
+[0334:]
+[0335:]
+[0336:]
+[0337:]
+
+[0338:]
+[0339:]
+[0340:]
+[0341:]
+[0342:]
+
+[0343:]
+[0344:]
+[0345:]
+[0346:]
+[0347:]
+
+[0348:]
+[0349:]
+[0350:]
+[0351:]
+[0352:]
+
+	*** Spell names for class 5 ***
+
+[0353:Panique]
+[0354:Empoisonnement]
+[0355:Confusion]
+[0356:Pestilence]
+[0357:]
+
+[0358:]
+[0359:]
+[0360:]
+[0361:]
+[0362:]
+
+[0363:]
+[0364:]
+[0365:]
+[0366:]
+[0367:]
+
+[0368:]
+[0369:]
+[0370:]
+[0371:]
+[0372:]
+
+[0373:]
+[0374:]
+[0375:]
+[0376:]
+[0377:]
+
+[0378:]
+[0379:]
+[0380:]
+[0381:]
+[0382:]
+
+	*** Spell names for class 6 ***
+
+	UNUSED
+[0383:]
+[0384:]
+[0385:]
+[0386:]
+[0387:]
+
+[0388:]
+[0389:]
+[0390:]
+[0391:]
+[0392:]
+
+[0393:]
+[0394:]
+[0395:]
+[0396:]
+[0397:]
+
+[0398:]
+[0399:]
+[0400:]
+[0401:]
+[0402:]
+
+[0403:]
+[0404:]
+[0405:]
+[0406:]
+[0407:]
+
+[0408:]
+[0409:]
+[0410:]
+[0411:]
+[0412:]
+
+	*** Magic spell selector messages ***
+
+[0423:{INK 006}Impossible ici et maintenant!]
+[0424:Nécessite %u points de magie]
+[0426:{INK 006}Force insuffisante pour ce sort!]
+[0427:{INK 006}Nécessite %u PM et %u PV.]
+
+
+	*** Combat messages ***
+
+[0433:{INK 006}Pas de munitions disponibles!]
+[0434:Attaquer qui?]
+[0435:{INK 006}Il n'y a pas de cible ici!]
+[0436:{INK 006}Aucune cible à portée!]
+[0441:Se déplacer où?]
+[0442:{INK 006}Mouvement impossible!]
+[0443:{INK 006}Emplacement déjà occupé!]
+[0444:{COMB}{NAME} se déplace.]
+[0445:{COMB}{NAME} s'enfuit!]
+[0446:{COMB}{NAME} attaque {VICT}{NAME} avec {WEAP}!]
+[0447:Impossible de blesser {VICT}{NAME}!]
+[0448:Attaque repoussée!]
+[0449:{COMB}{NAME} a porté un coup critique!]
+[0450:{VICT}{NAME} subit {DAMG} points de dégâts!]
+[0451:Pas de dégâts infligés!]
+[0452:{COMB}{NAME} manque son ennemi!]
+[0453:{COMB}{NAME} attaque dans le vide!]
+[0454:{COMB}{NAME} a épuisé {HIS } munitions!]
+[0455:{COMB}{NAME} attaque {VICT}{NAME}!]
+[0414:{COMB}{NAME} a déclenché un piège!]
+[0736:%s vient de se casser!]
+
+
+	*** Magic ***
+
+[0087:Sur quel compagnon?]
+[0088:Lancer le sort sur quel monstre?]
+[0089:Lancer le sort sur quelle rangée?]
+[0090:Lancer le sort sur l'objet de qui?]
+[0091:Lancer le sort sur quel objet?]
+[0092:%s lance un sort: %s!]
+[0093:{INK 006}Ce n'est pas un objet magique!]
+[0094:{INK 006}L'objet n'a plus de charge magique.]
+[0133:Lancer le sort sur quelle case?]
+[0134:%s lance un sort (%s) avec %s!]
+[0428:Téléporter qui?]
+[0429:Téléporter où?]
+[0721:Impossible de téléporter ce monstre!]
+[0722:L'endroit choisi pour la téléportation est déjà occupé!]
+[0600:{INK 006}Ce sort fonctionne seulement en mode 3D!]
+[0413:{INK 006}Personne n'est fatigué!]
+[0731:%s a pu repousser le sort!]
+[0418:%s n'a pas pu repousser le sort!]
+[0630:%s n'a pu repousser qu'une partie du sort!]
+[0774:Le sort n'a pas d'effet sur %s!]
+[0725:{SUBJ}{NAME} a perdu des points de vie en utilisant le sort!]
+[0698:Le sort de {COMB}{NAME} n'a touché personne!]
+
+
+	*** Requesters ***
+
+[0064:OK]
+[0695:Fermer fenêtre]
+[0201:Entrez nombre:]
+[0507:Entrez mot:]
+[0060:Oui]
+[0061:Non]
+
+
+	*** Dialogue ***
+
+[0508:{INK 002}"Votre groupe est apparemment déjà au complet!]
+[0496:Proposer quel objet?]
+[0511:{INK 006}Cet objet est important!]
+[0497:{INK 002}"Je ne peux rien dire là-dessus."]
+[0498:{INK 002}"Je ne peux rien dire là-dessus, Tom."]
+[0499:{INK 002}"Cet objet ne m'intéresse pas."]
+[0501:{INK 002}"Non merci, je ne veux pas vous accompagner."]
+[0502:{INK 002}"Bon, d'accord. Je viens."]
+[0503:{INK 002}"Adieu!"]
+[0504:{INK 002}"A plus tard, Tom."]
+[0505:{INK 002}"Je vous salue!"]
+[0506:{INK 002}"Salut, Tom. Qu'y a-t-il?"]
+[0509:{INK 002}"ça ne me dit rien du tout."]
+[0510:{INK 002}"ça ne me dit rien du tout, Tom."]
+[0491:Que savez-vous de...?]
+[0492:Que dites-vous de cet objet...?]
+[0493:Voulez-vous vous joindre à nous?]
+[0494:Je voudrais que tu nous quittes.]
+[0495:Merci pour cet entretien!]
+[0500:Quel est votre métier?]
+
+
+	*** Chest screen ***
+
+[0514:Quitter écran]
+[0530:Récipient]
+[0516:Impossible de reposer cet objet!]
+
+
+	*** Door screen ***
+
+[0521:Quitter écran]
+
+
+	*** After combat screen ***
+
+[0547:Quitter écran]
+[0548:Objets abandonnés]
+[0549:Renoncer aux objets restants?]
+[0550:{INK 006}Il y a encore un objet important ici!]
+
+
+	*** After combat ***
+
+[0551:Personne n'a gagné d'expérience.]
+[0552:Chaque membre de l'équipe reçoit %u points d'expérience.]
+
+
+	*** Places (shops etc.) ***
+
+[0553:Il ne reste plus de points d'entraînement.]
+[0554:{INK 002}"Pour l'instant, je ne peux pas vous en apprendre plus."]
+[0556:{INK 002}"Combien de points de compétences voulez-vous ?"]
+[0558:{LEAD}{NAME} se soumet à un entraînement intensif.]
+[0563:{INK 002}"Qui dois-je guérir?"]
+[0559:{INK 002}"Cette personne n'est pas malade!"]
+[0560:{INK 002}"Combien de points de vie dois-je guérir?"]
+[0561:{SUBJ}{NAME} a récupéré des points de vie.]
+[0745:{INK 002}"A qui dois-je retirer les objets ensorcelés?]
+[0718:{INK 002}"Cette personne n'a pas d'objets ensorcelés!"]
+[0744:{INK 002}"Personne n'a d'objets ensorcelés!]
+[0562:{SUBJ}{NAME} n'a plus d'objets ensorcelés!]
+[0564:{INK 002}"Quel objet dois-je examiner pour vous?"]
+[0565:{INK 006}Cet objet a déjà été examiné!]
+[0566:Cet objet a été examiné, vous pouvez demander les infos.]
+[0569:Quel objet doit être rechargé en énergie magique?]
+[0567:{INK 006}L'objet est déjà chargé à 100%!]
+[0568:{INK 006}Impossible de recharger cet objet!]
+[0570:Recharger l'objet de combien de charges?]
+[0571:L'objet a été chargé en énergie magique.]
+[0588:{INK 002}"Combien de rations voulez-vous acheter?"]
+[0589:Les rations ont été achetées.]
+[0591:Quel objet doit être réparé?]
+[0590:{INK 006}Cet objet n'est pas cassé!]
+[0592:L'objet est réparé.]
+[0420:Quitter écran]
+[0572:Commerçant]
+[0575:Acheter combien d'objets?]
+[0576:Les objets ont été achetés.]
+[0578:{INK 006}C'est trop cher!]
+[0580:{INK 006}{INVE}{NAME} n'a plus de place!]
+[0581:{INK 006}Le commerçant n'a plus de place!]
+[0582:Vendre combien d'objets?]
+[0583:Les objets ont été vendus.]
+[0587:{INK 006}Cet objet n'a pas de valeur.]
+[0751:{INK 006}Les objets cassés sont invendables!]
+[0573:Acheter]
+[0557:{INK 002}"ça nous fait donc %d.%u pièces d'or. D'accord?"]
+[0584:{INK 002}"ça vous fait %d.%u pièces d'or. D'accord?"]
+[0555:Vous n'avez pas assez d'or!]
+[0585:Or (Total)]
+[0586:Or total de l'équipe: %ld.%u]
+[0602:{LEAD}{NAME} et ses compagnons vont dans leur chambre pour se reposer.]
+[0608:Guérir quoi?]
+[0625:{SUBJ}{NAME} est guéri(e)!]
+[0626:{INK 002}"Il me semble que tout le monde se porte bien!"]
+[0628:{INK 002}"Personne parmi vous ne peut apprendre ma magie."]
+[0631:{INK 002}"Apprendre quel sort?"]
+
+
+	*** Camp screen ***
+
+[0603:Personne n'est fatigué pour l'instant!]
+[0604:Les compagnons se reposent jusqu'à l'aube.]
+[0605 Les compagnons se reposent pendant huit heures.]
+[0606:{SUBJ}{NAME} ne récupère pas, {HE  } n'a plus de nourriture!]
+
+
+	*** Conditions ***
+
+[0609:Inconscience]
+[0610:Empoisonnement]
+[0611:Maladie]
+[0612:Epuisement]
+[0613:Paralysie]
+[0614:Fuite]
+[0615:Intoxication]
+[0616:Aveuglement]
+[0617:Panique]
+[0618:Sommeil]
+[0619:Folie]
+[0620:Confusion]
+[0621:]
+[0622:]
+[0623:]
+[0624:]
+
+
+	*** Left Inventory 1 ***
+
+[0632:{INVE}{NAME} ({SEXC}), %u ans, {RACE}, {CLAS}, Niveau %d.]
+[0633:Pts. de vie]
+[0634:Pts. de magie]
+[0667:Pts. d'expérience]
+[0668:Pts. d'entraînement]
+
+
+	*** Left Inventory 2 ***
+
+[0647:Attributs]
+[0648:Compétences]
+
+
+	*** Left Inventory 3 ***
+
+[0661:Conditions]
+[0662:Langues]
+[0669:Sorts temporaires]
+[0673:%d%% (%u Hres.)]
+[0013:Position de combat]
+[0666:Changer position de combat]
+[0069:Echanger %s avec %s]
+[0674:Placer %s]
+
+
+	*** Attributes ***
+
+[0635:Force]
+[0636:Intelligence]
+[0637:Habileté]
+[0638:Rapidité]
+[0639:Résistance]
+[0640:Chance]
+[0641:Résistance magique]
+[0642:Pouvoir magique]
+
+
+	*** Skills ***
+
+[0643:Attaque rapprochée]
+[0644:Attaque à distance]
+[0645:Coup critique]
+[0646:Crochetage]
+
+
+	*** Attribute abbreviations ***
+
+[0649:FOR]
+[0650:INT]
+[0651:HAB]
+[0652:RAP]
+[0653:RES]
+[0654:CHA]
+[0655:R-M]
+[0656:P-M]
+
+
+	*** Skill abbreviations ***
+
+[0657:A-R]
+[0658:A-D]
+[0659:CRI]
+[0660:CRO]
+
+
+	*** Game languages ***
+
+[0663:Terrien]
+[0664:Iskai]
+[0665:Celtique]
+
+
+	*** Temporary spell names ***
+
+[0670:Attaque]
+[0671:Protection]
+[0672:Antimagie]
+
+
+	*** Examine item 1 window ***
+
+[0683:Suite...]
+[0694:Autres informations]
+[0676:Type]
+[0675:Poids]
+[0684:%d g]
+[0681:Dégâts]
+[0682:Protection]
+
+
+	*** Examine item 2 window ***
+
+[0685:Malus compétences 1]
+[0686:Malus compétences 2]
+[0687:Rien]
+[0688:Bonus PV maxi]
+[0689:Bonus PM maxi]
+[0690:Bonus d'attribut]
+[0691:Bonus de compétence]
+[0692:Sort]
+[0693:Nombre de sorts]
+
+
+	*** Main menu ***
+
+[0700:Menu]
+[0702:Nouvelle partie]
+[0703:Continuer]
+[0704:Chargement]
+[0705:Sauvegarde]
+[0706:Options]
+[0707:Introduction]
+[0708:Crédits]
+[0709:Quitter]
+[0710:Vous voulez vraiment quitter?]
+[0711:Quelle partie voulez-vous charger?]
+[0712:Quelle partie voulez-vous sauvegarder?]
+[0713:Vous voulez vraiment écraser cette partie?]
+[0714:Entrez un nom pour cette partie SVP:]
+[0715:Vous voulez vraiment lancer une nouvelle partie?]
+[0716:(Place vide)]
+[0717:Aucune sauvegarde n'a été trouvée!]
+[0775:{INK 006}{BIG }{CNTR}Plus assez de place sur le disque dur!]
+
+
+	*** Options ***
+
+[0741:Volume musique]
+[0742:Volume effets sonores]
+[0743:Taille écran 3D]
+[0415:Affichage combat]
+[0416:Affichage texte combat]
+
+
+	*** Special item activation texts ***
+
+[0753:La boussole est activée!]
+[0754:L'Oeil du Monstre est activé!]
+[0756:La montre est activée!]
+
+
+	*** Combat effect texts ***
+
+[0419:Accélération magique pour %s!]
+[0737:Accélération magique terminée pour %s!]
+[0739:%s est congelé(e)!]
+[0740:%s n'est plus congelé(e)!]
+[0627:%s est aveuglé(e)!]
+[0629:%s n'est plus aveuglé(e)!]
+[0422:%s est pris d'une rage folle!]
+[0738:%s n'est plus enragé(e)!]
+
+
+	*** Condition texts ***
+
+[0762:{INK 006}{SUBJ}{NAME} est inconscient(e)!]
+[0763:{INK 006}{SUBJ}{NAME} est empoisonné(e)!]
+[0764:{INK 006}{SUBJ}{NAME} est malade!]
+[0765:{INK 006}{SUBJ}{NAME} est épuisé(e)!]
+[0766:{INK 006}{SUBJ}{NAME} est paralysé(e)!]
+[0767:{INK 006}{SUBJ}{NAME} s'enfuit!]
+[0768:{INK 006}{SUBJ}{NAME} est intoxiqué(e)!]
+[0769:{INK 006}{SUBJ}{NAME} est aveugle!]
+[0770:{INK 006}{SUBJ}{NAME} panique!]
+[0771:{INK 006}{SUBJ}{NAME} dort!]
+[0772:{INK 006}{SUBJ}{NAME} fait une crise de folie!]
+[0773:{INK 006}{SUBJ}{NAME} est désorienté(e)!]
+
+
+	*** Various messages ***
+
+[0759:{INK 006}Est trop touché(e)!]
+[0761:{INK 006}{CNTR}{BIG }{SUBJ}{NAME} est malade,^^{NORS}et {HE  } sent que {HIS } corps est gravement touché!]
+[0417:{INK 006}{CNTR}{BIG } La mort met fin au voyage.^^{NORS}Tous les compagnons sont blessés, perdent conscience et meurent peu après!]
+[0421:Quitter]
+[0167:Marque notée!]
+[0699:{INK 002}{SUBJ}{NAME} est trop chargé(e)!]
+[0720:{SUBJ}{NAME} a eu de la chance et a échappé au piège!]
+[0127:{INK 006}Est inconscient(e)!]
+[0732:Tout le monde est fatigué!]
+[0733:Tout le monde est épuisé!]
+[0734:{INK 006}{CNTR}{BIG }Une attaque!]
+[0748:{INK 002}{CNTR}{BIG }%s a atteint le niveau %u!^{NORS}^Vies : %u^Points de magie : %u^Points d' entraînement supplémentaires : %u^Attaques par tour : %u]
+[0749:{INK 002}{CNTR}{BIG }%s a atteint le niveau %u!^{NORS}^Vies : %u^Points d'entraînement supplémentaires : %u^Attaques par tour : %u]
+[0750:%s a atteint le niveau maximum!]
+
+
+	*** UNUSED ***
+[0128:Peut être utiliser par:]
+[0129:Doesn't speak the right language!]
+

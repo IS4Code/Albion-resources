@@ -1,0 +1,6 @@
+﻿{BLOK000}"Dsarii-ma. Mon nom est Nisrii, membre du conseil et Tri-Nadh. Je suis responsable du respect et de l'interprétation des lois."{WORDLois}{WORDTri-Nadh}
+"Dsarii-ma. Puis-je vous aider?"
+"Je présume que tu as posé cette question pour tes compagnons humains, {LEAD}{NAME}."
+"On appelle Tri-Nadh, des personnes qui au contact du Trii d'un autre ne ressentent non seulement les sentiments de celui-ci, mais lisent aussi ses pensées. Le plus souvent, ces personnes particulièrement douées se mettent à la disposition du cercle du conseil des lois. Ils vérifient, par exemple, lors d'accords importants, la bonne foi des contractants."{WORDLois}{Trii}
+"Je vous souhaite bonne chance pour la poursuite des meurtriers d'Akiir."
+"Bonne chance pour vos voyages."

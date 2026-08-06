@@ -1,0 +1,11 @@
+﻿{BLOK000}"Oh, je tiens l'épicerie de cette ville."
+"Skeima Din, auriez-vous par hasard du nouveau sur la mauvaise Chose Sacrée des Iskais?"{BLOK010}"Non, nous savons seulement tout ce qu'on raconte partout!"{BLOK011}"Pourquoi, qu'est-ce qu'il y a avec la Chose Sacrée?"{WORDChose sacrée}
+"Dans la situation actuelle, il est presque positif de ne plus entendre de nouvelles sur la Chose Sacrée. Car toutes les dernières nouvelles étaient mauvaises."{WORDMauvaises nouvelles}
+"Vous n'en avez pas encore entendu parler? Tenez-vous à l'écart de cet endroit! Déjà les personnes les plus diverses m'ont parlé d'horribles créatures qui rôdent par là. Il y en a de plus en plus. Elles sont créées là-bas, dans cette cave bizarre, que de toute façon, personne, à part ces drôles d'Iskai, n'a le droit de pénétrer. De toute manière, je les ai toujours trouvé inquiétants. Allez donc visiter Srimalinar et parlez aux gens importants comme Edjirr, le tavernier et Arrim, qui vit dans la maison de la récolte. Parlez-leur, le plus tôt sera le mieux."{WORDTabou}
+"Quoiii? Qu'est-ce que ça veut dire, 'drôles d'Iskais'??? Les Iskais ne sont sûrement pas plus drôles ou inquiétants que les hommes! Si je n'aime pas quelque chose, c'est bien les a priori! Et maintenant, changeons plutôt de sujet..."
+"ça ne vaut pas bien sûr pour tous les Iskais, mais qu'est-ce que je dis. Allez à Srimalinar et voyez vous même. De préférence, ne vous approchez pas de leur Chose Sacrée, car il existe un tabou, que vous ne devriez pas briser, et d'autre part, ces monstres terribles sont de plus en plus nombreux."{WORDTabou}
+"Il ne faut pas plaisanter avec ça! Ils le prennent très au sérieux, si vous ne le respectez pas. Autant que je me souvienne, il a toujours existé."
+"Qu'est-ce que vous avez avec le tabou? Je ne peux pas vous en dire plus là-dessus."
+"Oui, les habitants de Srimalinar sont très religieux et se rendent régulièrement à leur Chose Sacrée. Je ne sais pas ce qu'ils y font, ni s'ils y vont toujours, depuis que les monstres y pullulent. Kontos prétend dur comme fer que les hommes doivent intervenir avant qu'il ne soit trop tard et que les monstres envahissent le pays."{WORDKontos}
+"Demandez-lui vous-mêmes. C'est le chef dans le village de Kounos."
+"C'est moi."

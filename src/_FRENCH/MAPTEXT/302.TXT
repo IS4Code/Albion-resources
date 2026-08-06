@@ -1,0 +1,100 @@
+﻿ 
+Une boîte à fusibles.
+Un fauteuil.
+Une chaise longue.
+Le tableau de contrôle pour le réacteur atomique.
+Un panneau de service.
+Une console de contrôle.
+Une console de contrôle de vol.
+Un tableau de contrôle.
+Un W-C. chimique.
+Une armoire.
+Un évier.
+Serviettes.
+Nécessaires pour se laver les dents.
+Un témoin de surveillance de couloir.
+Témoins de contrôle.
+Une partie du réacteur.
+Fûts d'ordures, d'eau, de poison et de matières premières.
+Une console éteinte.
+Une lampe.
+Une assiette.
+Un verre.
+Un gobelet.
+Un récipient.
+Une bouteille.
+Un pot.
+Une boîte.
+Un récipient.
+Une salière et un poivrier.
+Sauce au soja.
+Un pot.
+Une petite boîte.
+Une pelle.
+Une bêche.
+Une clé plate.
+Un tournevis.
+Une console manuelle.
+Une ADP. (Assistance Digitale Personnelle)
+Une tenaille.
+Des couverts et un gobelet.
+Vaisselle.
+Une porte automatique.
+Une navette.
+Container.
+Une douche.
+Un véhicule.
+Marquages au sol.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+"Sur cette console là-bas, on peut voir un schéma de cette zone!"
+Une console avec un grand affichage.
+"Au bout de la partie en L, à l'ouest, il doit y avoir un accès au pont de maintenance. C'est notre but."
+La porte est fermée.
+"De toute façon, cette porte ne donne pas sur notre but. Continuons."
+"Tout est calme. Nous n'avons apparemment pas déclenché d'alarme."
+"On ne nous a toujours pas repéré. Pourvu que ça dure."
+"Toujours pas d'alarme. Presque trop beau pour être vrai."
+"Chiotte. Là derrière, il devrait y avoir le panneau des services que nous cherchons."
+"Ah, là-bas, dans la niche il y a une console avec accès au réseau de communication."
+Un clavier à code.
+Il y a ici un tournevis spécial.
+Barrières laser désactivées.
+Barrières laser activées.
+"Il faut faire sacrément attention à ces barrières laser! Le moindre contact est mortel!"
+Une console de communication désactivée.
+"O.K. J'essaye maintenant d'entrer le documentaire de Joe sur Albion dans le réseau de bord.^^Nous aurons évidemment tout de suite l'IA et les forces de la sécurité sur le dos. Préparez-vous à un combat difficile."
+Tom introduit un médium de sauvegarde avec les données vidéo sur la vie de cette planète dans la console et insère la puce confiée par Joe pour protéger la diffusion le plus longtemps possible de l'IA.
+"Laissez-moi m'occuper du machin. Je vais essayer de manipuler la console de telle manière que l'accès à la diffusion soit interdit à l'IA le plus longtemps possible."
+"Nous aurons évidemment tout de suite l'IA et les forces de la sécurité sur le dos. Préparez-vous à un combat difficile."
+Joe introduit un support de sauvegarde avec les données vidéo sur la vie de cette planète dans la console et la manipule pendant un petit moment.
+"C'est fait! La diffusion de notre documentaire sur tous les écrans vidéo et tous les haut-parleurs du TORONTO commence... maintenant!"
+{INK 001}La transmission de l'enregistrement commence et la voix de Joe résonne tout d'un coup dans tous les haut-parleurs:^^{INK 002} "A l'équipage de l'ensemble de l'installation TORONTO. C'est un enregistrement qui a été introduit dans les systèmes de bord contre la volonté de la direction du vaisseau. Il prouve qu'il existe une vie très riche et même des civilisations très avancées sur cette planète.^^Nous, Tom Driscoll, Joe Bernard et un groupe de gens d'ici, nous avons pénétré à l'instant même le TORONTO. Vous êtes tous priés de quitter le vaisseau sur le champ. Nous sommes décidés à prendre toutes les mesures qui s'imposent pour empêcher la destruction de ce monde par le TORONTO. La direction du vaisseau tentera d'interrompre cette transmission prématurément. Regardez et écoutez maintenant de quoi ce monde est vraiment fait..."^^ {INK 001}La transmission du documentaire tourne jusqu'à là sans encombres, et montre des images de la nature et des scènes de la vie quotidienne des habitants d'Albion.
+Une sirène d'alarme s'immisce dans la voix de Joe sortant des haut-parleurs!
+Des agents de la sécurité surgissent!
+{INK 002}"Les terroristes sont là-bas!"{INK 001}^^Les Sécus attaquent!
+Les Sécus réattaquent tout de suite!
+Une échelle vers le bas.
+Un clavier à code.
+{TECF}{CNTR}ENTRER CODE D'OUVERTURE:
+{TECF}{CNTR}CODE ERRONE. ACCES REFUSE.
+{TECF}{CNTR}CODE CORRECT. OUVERTURE DU PANNEAU.
+"Ah, le panneau des services. Le code d'accès ici est le 1712."
+"Le code d'ouverture pour ce segment était... Ah oui, 1712!"
+{TECF}{CNTR}CODE CORRECT. OUVRE PORTE.
+Le sas vers l'extérieur.
+"Juste cette partie du pont de maintenance nous sépare encore du centre de fusion.^^Allons-y."
+"Ca y est! Cherchons d'abord une console pour y introduire notre documentaire sur Albion, ça va d'abord mettre un peu d'ambiance à bord."
