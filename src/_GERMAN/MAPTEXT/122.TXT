@@ -1,0 +1,44 @@
+﻿!
+"Es ist stockfinster hier drin. Wir brauchen Licht."
+Die dunklen, von allerlei Pflanzen überwucherten Kavernen haben kaum noch Ähnlichkeit mit einem Gebäude. Vielfältige Düfte durchziehen die Gänge, Geräusche und subtile Bewegungen zeigen an, daß hier allerlei Lebensformen eine Heimat gefunden haben.
+Ein seltsam geformter Busch.
+Sobald {LEAD}{NAME} die Pflanze berührt, beginnt sie in allen Regenbogenfarben zu schillern!
+{LEAD}{NAME} berührt einen Regenbogenbusch.
+Hier hängt ein strenger Geruch in der Luft.
+"Das ist die Witterung von Raubtieren. Wir sollten vorsichtig sein!"
+Ein wurzelartiges Gebilde. Es ist zwar beweglich, macht aber keinen agressiven Eindruck.
+Leuchtende, bewegliche Fangarme ragen hier aus dem Boden und versuchen, etwaige Beute in Richtung des Schlundes am unteren Ende zu befördern.
+"Ein interessante Kreatur. Beachten Sie den starken Selbstleuchteffekt der Fangarme. Es läßt sich nicht ohne weiteres sagen, ob wir hier ein Exemplar der Flora oder der Fauna dieser Welt vor uns sehen. Auf jeden Fall erscheint mir die Lebensform den Carnivoren zugehörig zu sein."
+"Was Ihr, verehrter Rainiir, in wohlklingende Worte gehüllt habt, ist wohl die Empfehlung, uns vor diesen Krallenarmen zu hüten? Eine scharfsinniger Rat, dem ich mich anschließen möchte!"
+Sowie {LEAD}{NAME} den Fangarmen zu nahe kommt, wird {HE  } von ihnen gepackt und in Richtung des Mauls gezogen!
+"Das Leuchten der Fangarme scheint mir kein Zufall zu sein. Ich denke, daß die Kreatur damit vielleicht ihre Beute anlockt. Licht scheint in der Tierwelt hier unten eine große Rolle zu spielen."
+"Mir kommt da eine Idee. Vielleicht können wir einer weiteren schmerzhaften Begegnung mit diesem Raubwesen aus dem Weg gehen, indem wir unsere Lichtquelle wegwerfen. Es kann sein, daß die Kreatur deswegen auf uns reagiert, weil wir etwas Leuchtendes bei uns haben."
+Jetzt, da niemand eine Lichtquelle mit sich führt, sind die Greifarme der Kreatur bewegungslos.
+Ein kräftiges, pilzähnliches Gewächs.
+Es ist eine Öffnung in der Wand entstanden!
+Dies ist ein Regenbogenbusch. Seltsamerweise leuchtet er, obwohl er nicht berührt worden ist.
+"Seht Euch mal um! Dort, wo wir entlang gelaufen sind, fängt der Boden an zu leuchten! Faszinierend."
+Im Boden klafft ein riesiges, zahnbewehrtes Maul, von dem ein starker Verwesungs|gestank ausgeht.
+"Was für ein entsetzliches Ding! Da sollten wir einen großen Bogen drum machen."
+"Jede Lebensform hat ihre Daseins|berechtigung, Driscoll. Das heißt jedoch nicht, daß wir uns aus Liebe zur Kreatur als Futter bereitstellen sollten, da stimme ich ihnen zu."
+"So etwas habe ich selbst noch nie gesehen. Sieht tödlich aus, in der Tat."
+{LEAD}{NAME} kommt dem Maul zu nahe und gerät in den riesigen Schlund! Die Kraft, mit der die Kiefer zubeißen, ist entsetzlich!
+{LEAD}{NAME} wirft ein Stück Fleisch in den hungrigen Rachen. Sofort zeigt sich eine Wirkung: Offenbar gesättigt, schließt sich das riesige Maul!
+Der Schlund ist fest verschlossen.
+Ein sehr fremdartiger Anblick bietet sich hier den Augen von {LEAD}{NAME} und {HIS } Gefährten:^ Die pulsierenden Wände scheinen zu leben, mehr noch als die schon gewohnten, grünen, pflanzlichen Mauern. Ein intensiver, heu- und kräuterartiger Duft macht sich bemerkbar.
+Alle spüren, daß diese Stelle etwas besonderes ist. Ein schwer beschreib|bares Gefühl bemächtigt sich {LEAD}{NAME} und seiner Gefährten. Alle Sinne scheinen sich zu schärfen und jeder Herzschlag erschüttert den ganzen Körper. Es ist einer der seltenen Momente, in denen bewußt und intensiv zu spüren ist, daß man {FAT }lebt{NORS}.^^ Der Raum wird von seltsamen Leuchterscheinungen durchwandert und am anderen Ende ist eine große transparente Struktur sichtbar.
+{LEAD}{NAME} und die anderen geraten in den Einflußbereich der Leuchterscheinung!^ Alle werden von einem lustvollen Gefühl durchströmt, daß sich bis zu einer fast schmerzhaften Intensität steigert. Eine Mischung aud Wohlbefinden und Beunruhigung entsteht. Bei den Menschen hinterläßt der Kontakt Kopfschmerzen und eine starke Verwirrung.
+Die große Struktur hat eine entfernte Ähnlichkeit mit dem Stirnorgan der Iskai. Es strahlt förmlich ein Gefühl der Vitalität und der Lebenskraft aus, ein Gefühl des Schwindels macht sich im Kopf {LEAD}{NAME}s und {HIS } Begleiter breit.
+Hinter dem rotierenden Gebilde sind die Überreste eines menschlichen Körpers zu erkennen.
+Eine Leuchterscheinung. Ihre Nähe löst leichte Schwindelgefühle aus.
+{LEAD}{NAME} berührt vorsichtig die Oberfläche der Struktur...
+"AIIEE!^^ Oh, Scheiße! Mann, das war ein Gefühl, als ob mir jemand die Wirbelsäule angezündet hätte. Oh, Gott, mein Kopf!"
+"Oh, ich spüre etwas! ^Es ist, als ob ich das Trirr eines anderen berühren würde, nur viel stärker!^ Ich... ich bekomme einen verständlichen Kontakt..."
+"Das also hat Argim, oder was aus ihm geworden ist, gemeint!"
+An dieser Stelle beeinträchtigen tiefe Risse die Struktur der Wand.
+{LEAD}{NAME} führt einige kräftige Hiebe gegen die schwache Stelle aus. Die Wand zerbröckelt und gibt einen Durchgang frei!
+Eine Leuchterscheinung. Ihre Nähe erzeugt ein angenehmes Kribbeln auf der Haut.
+{LEAD}{NAME} berührt vorsichtig das Lichtgebilde. Es breitet sich plötzlich aus und umhüllt alle Gefährten, bevor es erlischt! Ein wohliges Gefühl geht wie eine Welle durch die Körper von {LEAD}{NAME} und den anderen.
+"Welch ein wunderbares Gefühl! Aber was um alles in der Welt war das?"
+"Es gibt Geschichten über die "Lichter der Göttin", die an besonders gesegneten Stellen der Welt existieren. Sie erhöhen den Entdecker und bringen ihm Glück. Es ist das erste Mal, daß ich ein solches Licht gesehen habe, welch ein Erlebnis!"
+"Eine nette Erzählung, verehrter Drirr. Ich wünschte jedoch, eine Reihe von Meßgeräten zu meiner Verfügung zu haben, um die Erscheinung zu untersuchen..."

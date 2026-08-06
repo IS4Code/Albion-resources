@@ -315,12 +315,13 @@
 
 [0200:Advance party]
 
-[0202:Start round]
+[0202:{INK 002}Start round]
+[0488:{INK 002}View]
 
 	Spell names for class 0
-[0203:Charge organic items]
+[0203:Lame monster]
 [0204:De-curse organic items]
-[0205:Freeze all monsters]
+[0205:Poison]
 [0206:Hurry]
 [0207:Show LP]
 
@@ -328,23 +329,23 @@
 [0209:Freeze bomb row]
 [0210:Freeze bomb all]
 [0211:Weak healing single]
-[0212:Lame one monster]
+[0212:Blind monster single]
 
-[0213:Blind monster single]
-[0214:Blind monster row]
-[0215:Blind monster all]
-[0216:Make monster sleep]
-[0217:Heal unconsciousness]
+[0213:Blind monster row]
+[0214:Blind monster all]
+[0215:Make monster sleep]
+[0216:Trap]
+[0217:Remove trap]
 
-[0218:Heal poison]
-[0219:Heal lamed]
-[0220:Heal stoned]
-[0221:Heal blind]
-[0222:Trap]
+[0218:Heal lamed]
+[0219:Heal stoned]
+[0220:Heal blindness]
+[0221:Heal poisoning]
+[0222:Fungification]
 
-[0223:Fungification]
-[0224:Light]
-[0225:Poison]
+[0223:Light]
+[0224:]
+[0225:]
 [0226:]
 [0227:]
 
@@ -355,11 +356,11 @@
 [0232:]
 
 	Spell names for class 1
-[0233:Heal everything]
-[0234:Heal everything 2]
-[0235:Mega heal spell]
+[0233:Heal party member]
+[0234:Automap spell]
+[0235:Heal party
 [0236:Blink]
-[0237:"Windgate" spell]
+[0237:Gateway spell]
 
 [0238:Flee]
 [0239:Levitation]
@@ -368,7 +369,7 @@
 [0242:Irritate]
 
 [0243:Nourish]
-[0244:Automap spells]
+[0244:]
 [0245:]
 [0246:]
 [0247:]
@@ -396,7 +397,7 @@
 [0264:Expel ghosts single]
 [0265:Expel ghosts row]
 [0266:Expel ghosts all]
-[0267:Boast]
+[0267:Long-range fire]
 
 [0268:Magical defense]
 [0269:Medium healing]
@@ -441,11 +442,11 @@
 [0301:Magical mine single]
 [0302:Magical mine row]
 
-[0303:Magical bomb]
-[0304:LP-sucker]
-[0305:SP-sucker]
-[0306:Personal defense]
-[0307:Dissolve monster]
+[0303:LP-sucker]
+[0304:SP-sucker]
+[0305:Personal defense]
+[0306:Dissolve monster]
+[0307:Remove traps]
 
 [0308:]
 [0309:]
@@ -503,7 +504,7 @@
 [0352:]
 
 	Spell names for class 5
-[0353:Charge metal items]
+[0353:Sword Energy]
 [0354:De-curse metal items]
 [0355:Curse metal items]
 [0356:Identify items]
@@ -513,7 +514,7 @@
 [0369:Metallic items burn]
 [0370:Repair item]
 [0371:Make metallic items lighter]
-[0372:Sword Energy]
+[0372:]
 
 [0373:]
 [0374:]
@@ -627,8 +628,29 @@
 [0129:{INK 006}This item is fully charged.]
 [0133:Cast on which square?]
 [0134:%s casts %s from %s!]
-[0428:]
-[0429:]
+[0428:Blink whom?]
+[0429:Blink where?]
 
 [0201:Enter a number]
+
+[0496:Give which item?]
+[0497:I've got nothing to say about that.]
+[0498:I don't know what you are talking about.]
+[0499:I don't want this item.]
+[0501:I don't want to join your party.]
+[0502:Very well. I shall leave.]
+[0503:OK, bye!]
+
+[0489:{INK 006}Cannot carry this much.]
+[0490:{INK 006}No slots free!]
+
+	Default dialogue multiple-choice entries
+[0491:What do you know about... ?]
+[0492:Would you like to have... ?]
+[0493:Would you like to join us?]
+[0494:I'd like you to go away. Now.]
+[0495:Thanks for talking.]
+
+	FAQ dialogue multiple-choice entries
+[0500:What do you do for a living?]
 

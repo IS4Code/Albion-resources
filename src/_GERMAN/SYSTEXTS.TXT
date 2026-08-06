@@ -315,7 +315,8 @@
 
 [0200:Advance party]
 
-[0202:Start round]
+[0202:{INK 002}Start round]
+[0488:{INK 002}View]
 
 	Spell names for class 0
 [0203:Lame monster]
@@ -627,8 +628,29 @@
 [0129:{INK 006}This item is fully charged.]
 [0133:Cast on which square?]
 [0134:%s casts %s from %s!]
-[0428:]
-[0429:]
+[0428:Blink whom?]
+[0429:Blink where?]
 
 [0201:Enter a number]
+
+[0496:Give which item?]
+[0497:I've got nothing to say about that.]
+[0498:I don't know what you are talking about.]
+[0499:I don't want this item.]
+[0501:I don't want to join your party.]
+[0502:Very well. I shall leave.]
+[0503:OK, bye!]
+
+[0489:{INK 006}Cannot carry this much.]
+[0490:{INK 006}No slots free!]
+
+	Default dialogue multiple-choice entries
+[0491:What do you know about... ?]
+[0492:Would you like to have... ?]
+[0493:Would you like to join us?]
+[0494:I'd like you to go away. Now.]
+[0495:Thanks for talking.]
+
+	FAQ dialogue multiple-choice entries
+[0500:What do you do for a living?]
 

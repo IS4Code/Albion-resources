@@ -1,0 +1,53 @@
+﻿leer
+Ein kleiner mechanischer Schalter.
+Ein Schalter.
+Ein riesiger Schalthebel.
+Im Boden sind gläsern wirkende Strukturen eingelassen.
+Eine Tür.
+Die Tür ist fest verriegelt, es ist kein Schloß zu erkennen.
+Ein verschlossenes Fallgitter. Es ist kein Schloß daran.
+Ein Brunnen, gefüllt mit klarem Wasser.
+Eine heiße Flamme kommt aus der am Boden sichtbaren Messingscheibe.
+Eine Messingscheibe am Boden.
+Eine Messingscheibe mit einer großen Öffnung darin.
+Eine wandernde Flamme. Sie strahlt große Hitze aus.
+Eine transparente Wand aus sehr stabilem Material.
+Dies scheint eine Art Kraftfeld zu sein. Es gibt ein Summen an der Hörgrenze ab, die Haare sträuben sich in seiner Nähe und ein schmerzhaftes Ziehen in den Zahnwurzeln macht sich bemerkbar.
+Ein großes Loch im Boden.
+An der Decke ist eine Öffnung zu sehen.
+Eine Steinsäule mit einem Hohlraum darin.
+Im Innern dieser Steinsäule lodert ein Feuer.
+Die Tür ist fest verschlossen.
+Ein altes Faß.
+Eine verstaubte Vase. {LEAD}{NAME} wirft einen Blick hinein, kann aber nichts finden.
+Eine metallbeschlagene Truhe.
+Ein Haufen alten Gerümpels. {LEAD}{NAME} stöbert ein wenig darin herum, kann aber nichts Verwendbares entdecken.
+Der Schalter läßt sich nicht mehr bewegen.
+Die Wand sieht an dieser Stelle sehr brüchig aus.
+{LEAD}{NAME} führt ein paar kräftige Hiebe gegen die Wand aus. Sie bricht zusammen!
+{LEAD}{NAME} füllt einen Eimer mit Wasser.
+{LEAD}{NAME} tritt in die Flamme und verbrennt sich!
+{LEAD}{NAME} kippt einen Eimer Wasser über die Flammen und löscht sie!
+Eine weitere Flamme ist gelöscht.
+{LEAD}{NAME} tritt in das Kraftfeld hinein und sofort durchzieht ein furchtbarer Schmerz {HIS } Körper! Nach unendlich erscheinenden Sekunden bricht die Leucht|erscheinung in sich zusammen.
+Bei der Berührung mit dem Stab bricht das Kraftfeld in sich zusammen! Der Stab zerfällt dabei zu Staub.
+Mit Hilfe des Seiles können sich alle nach oben ziehen!
+Ein durch die Luft schwebender Feuerball. Er strahlt eine unerträgliche Hitze aus.
+Plötzlich spüren alle einen unerträglichen, brennenden Schmerz: ein Feuerball ist zu nahe gekommen!
+"Unglaublich. Ich verstehe nicht ganz, was diese Feuerkugel in der Luft hält. Ist es eine brennende Gasblase? Aber wie kann sie dann so stabil sein? Rätselhaft."
+"Ich beginne an meinem Verstand zu zweifeln! Dieses Feld scheint nicht elektrischen Ursprungs zu sein und es ist auch keine Energiequelle zu erkennen. Was um alles in der Welt erhält es aufrecht? Dieser Planet scheint erschaffen worden zu sein, um das Weltbild von Naturwissen|schaftlern ins Wanken zu bringen."
+Seht Euch vor! Diese gläsernen Strukturen werden zu vielfältigen Zwecken eingesetzt. Sie lösen, oft im Zusammenhang mit Feuer|erscheinungen, verborgene Mechanismen aus.
+Bodenstruktur ausgelöst.
+Diese Wand ist von vielen tiefen Rissen durchzogen.
+Fuck 
+Platzhalter
+Platzhalter
+Platzhalter
+Platzhalter
+Platzhalter
+Platzhalter
+Platzhalter
+Platzhalter
+Die Flamme strahlt trotz ihrer seltsamen Farbe eine große Hitze aus.
+Die Flamme erfaßt {LEAD}{NAME} und {HIS } Gefährten!
+Noch machen: ne Kiste mit Falle, darin ein Zettel:^ "Nicht immer wird Mut belohnt. Fahre trotzdem fort, mutig zu sein."

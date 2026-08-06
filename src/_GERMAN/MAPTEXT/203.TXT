@@ -35,8 +35,8 @@ Eine Urkeltenhütte.
 Ein Eingang in eine Urkeltenhütte.
 Ein Zaun, der das Tiergehege abgrenzt.
 Ein Tor im Gatter.
-Platzhalter für weitere Cutmap-Events.
-Platzhalter für weitere Cutmap-Events.
+Eine Stadtmauer.
+Ein Tor in der Stadtmauer.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.

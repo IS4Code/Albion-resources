@@ -31,8 +31,8 @@ Diese Schlingpflanze hat sich mit Tausenden von Wurzeln in der unregelmäßigen 
 Eine Holzbrücke.
 Getreidefelder.
 Pilze.
-Platzhalter für weitere Cutmap-Events.
-Platzhalter für weitere Cutmap-Events.
+Eine Stadtmauer.
+Ein Tor in der Stadtmauer.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.

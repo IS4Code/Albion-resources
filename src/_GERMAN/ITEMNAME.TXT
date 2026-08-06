@@ -266,3 +266,19 @@ Kompass
 Uhr
 Spitzhacke
 Regenbogenstab
+Blauer Stab
+Iskai-Zierdolch
+Schraubenzieher
+Blaue Codekarte
+Rote Codekarte
+Grüne Codekarte
+Türkisene Codekarte
+Notizzettel
+Türkis-Musikkristall
+Blauer Musikkristall
+Roter Musikkristall
+Grüner Musikkristall
+Purpur-Musikkristall
+Violet-Musikkristall
+Ocker-Musikkristall
+Fleischbrocken

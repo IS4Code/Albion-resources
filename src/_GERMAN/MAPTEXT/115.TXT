@@ -152,6 +152,6 @@ Paltzhalter für weitere Cut-Map-Events.
 "Dsarii-ma. Dies sind die Schlafräume der Dra. Ihr werdet hier nicht viel interessantes finden."
 "Dsarii-ma, Besucher des Hauses. Wenn Ihr den Toilettenraum sucht: Er befindet sich im Süden des Stockwerks."
 "Dsarii-ma. Ich werde mich bald zur Ruhe begeben. Lernen ermüdet mehr als ein Tag des Laufens in den Wäldern!"
-"Dsarii-ma. Kennt man auch bei der Rasse der Menschen das Gefühl der Unruhe, wenn eine Prüfung des Gelernten kurz bevorsteht? Es ist furchtbar, ich kann an nichts anderes denken und finde keine Ruhe. Hoffentlich schaffe ich den Schritt zum Stri Dji-Kas!"
+"Dsarii-ma. Kennt man auch bei der Rasse der Menschen das Gefühl der Aufregung, wenn eine Prüfung des Gelernten kurz bevorsteht? Es ist furchtbar, ich kann an nichts anderes denken und finde keine Ruhe. Hoffentlich schaffe ich den Schritt zum Stri Dji-Kas!"
 "Dsarii-ma. Hier unten sieht man selten Besucher. All' die wichtigen Stri findet ihr oben."
 "Dsarii-ma. Entschuldigt, kurz nach dem Erwachen bin ich nicht sehr geprächig."

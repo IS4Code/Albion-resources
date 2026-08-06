@@ -16,7 +16,11 @@ Eine Tür. Es ist kein Öffnungsmechanismus zu erkennen.
 Eine Leuchtstoffröhre. Sie strahlt kaltes, weißes Licht ab.
 Ein Stahlträger.
 Die halbtransparenten Wände markieren einen Servicezugang. Die Leiter in der Mitte führt nach oben.
-Eine Zehnertastatur zum eingeben von Zahlencodes.
+Eine Zehnertastatur zum Eingeben von Zahlencodes.
 Eine Tür mit roten Markierungsleuchten an der Seite. Es ist kein Öffnungsmechanismus zu erkennen.
 Eine Tür mit grünen Markierungsleuchten an der Seite. Es ist kein Öffnungsmechanismus zu erkennen.
 Eine Tür mit blauen Markierungsleuchten an der Seite. Es ist kein Öffnungsmechanismus zu erkennen.
+Die Zahlenkombination war offenbar korrekt: Die Tür neben der Tastatur hat sich geöffnet.
+Nichts passiert.
+Yeah! Made it!
+Eine Leiter. Sie führt nach oben.

@@ -4,3 +4,7 @@ Ein Faß. Es enthält nichts interessantes.
 Eine Ansammlung von altem Gerümpel. {LEAD}{NAME} stöbert ein wenig darin herum, kann aber nichts von Wert entdecken.
 Dieser Metallhaufen stammt offensichtlich von den Überresten des Shuttles. Es gelingt {LEAD}{NAME} allerdings nicht, darin noch etwas funktionstüchtiges zu entdecken.
 Eine Vorratskiste. Sie enthält nichts, was das Mitnehmen lohnen würde.
+Ein kräftiges, pilzähnliches Gewächs.
+An dieser Stelle scheint die pflanzliche Wand brüchig zu sein: Tiefe Risse durchziehen das organische Material.
+{LEAD}{NAME} setzt zu einem kräftigen Schlag mit der Spitzhacke an. Die Wand stürzt zusammen und gibt einen Durchgang frei!
+Plötzlich passieren mehrere Dinge gleichzeitig:^ Hinten stürzt die Decke ein, als rechts die Wände in Bewegung geraten und von scharfen Klauen niedergerissen werden! Raubtierhafte Kreaturen kommen aus der neugeschaffenen Öffnung und greifen an!
