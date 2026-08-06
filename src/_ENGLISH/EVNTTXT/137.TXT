@@ -1,0 +1,9 @@
+﻿{BLOK000}"I am a trader. Right now, I'm on business for Wania."{WORDWania}
+"Dsarii-ma! So, you are the humans I've been hearing about!"{WORDhumans}
+"Dsarii-ma. So, we meet again."{WORDwares}
+"I buy goods for her store."{WORDwares}
+"Anything that can be of use. By the way, do you have something to offer?" {BLOK010}"Yes, I believe I have something here for you."{BLOK011}"No, no. Not right now."
+"Too bad. I am known for my good prices. I like people to come back, you know."
+"Dsarii-ma. So we meet again."{BLOK010}"We would like to offer you something, Rabir."
+"You'll find Wania's shop in the harbor area, in the southeast part of the city. It's worth a visit!"
+"Well, what do you have for me, {LEAD}{NAME}?"

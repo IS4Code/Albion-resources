@@ -1,0 +1,15 @@
+﻿{BLOK000} "I am a magician of the Kenget Kamulos, but I have distanced myself from them, and now I am living my own."
+"Skeima Din, ^ ^ you are speaking with Khunag. What do you want from me? I don't like to be disturbed, unless it's for something important." {WORDimportant}
+"Skeima Din, ^ ^ please don't disturb me unless you actually need to." {WORDimportant}
+"What do you want to talk to me about?" {BLOK010} "Can you provide us with worthwhile information?" {BLOK011} "You look like a scholar of magic." {BLOK012} "We are looking for a trainer." {BLOK013} "What do you think of the political situation in this area?" {BLOK014} "We don't want to disturb you any longer."
+"No, why should I?"
+"Then look further; I am not a trainer."
+"I don't see any big problem. Occasional disagreements are perfectly normal. Or do you have another definition of problems?"
+"Skeima Din."
+"Well observed. I don't want to hide the fact that I am really a magician, but those times are long gone. However, my magical abilities are better now than they've ever been. Why are you so interested in that?" {BLOK010} "We could use someone with your abilities on our journey."
+"What kind of a journey are you on, then?" {BLOK010} "Well..."
+So Tom tells about the most important points of the journey up to now, and the future goals. ^ ^ "It would be interesting to see this mother ship. I would join you, at least for a short time, if you would like me to." {BLOK010} "Well, first we would like to know a bit more about you." {BLOK011} "We would be happy if you would come with us." {BLOK012} "We will think about your offer."
+"You don't have to know everything about me. I was raised here, and then spent a certain amount of time with the Kenget Kamulos. My magical abilities come from that time. For a while now I've been living my own life here and can do what I want. ^ ^ Naturally, I can help you with my magic if I come along." {BLOK010} "If you like, you can come with us." {BLOK011} "We thank you again for your offer."
+"Let me know what you've decided."
+"Good, I'll come with you."
+"I believe your group is already large enough."

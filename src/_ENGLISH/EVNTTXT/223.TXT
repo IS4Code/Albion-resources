@@ -1,0 +1,9 @@
+﻿{BLOK000}"Well, sweeties, I'm sure you can tell by my clothing where I work. Come visit me there sometime! Of course, most males aren't willing to admit that they go to a brothel now and then."
+"Oh, there you are. First a thousand thanks to you! I am very happy that, with your help, the worst was prevented. I'm sure the new council will reward you for your good deeds. And I would even be willing, without cost... But, what's wrong with you? You're not well? You look so strange." {BLOK010} "I believe it was the excitement of the last few days." {BLOK011} "That'll soon pass..."{BLOK012} "No, everything's okay." {WORDcouncil}{WORDHerras}
+"Mm, sometimes you look so funny. In any case, I'm really glad there are still people like you." {WORDpraise}
+"You have earned it!"
+"I would go there now. Things have really changed."
+"Oh, there you are again. Everything happened as I said. And I sure said it often enough. Herras is dead and I think you should share in some of the guilt. What would it have cost you? What? ^ ^ Well, great. Herras is dead and it can't be undone. Excuse me, but I'm not in the mood to talk to you any longer." {WORDcouncil}{WORDHerras}
+"I don't want to talk with you about it any more. If you would've done something he would still be alive."
+"That's me."
+"What about Herras?"

@@ -1,0 +1,44 @@
+﻿free
+"Do you like Beloveno? The city is very old, has a lot of tradition, and trade flourishes in the great harbor. There's a nice tavern, a healer, many shops, and a council house-a very beautiful building which all the citizens of Beloveno are particularly proud of. North of the city, we have a little park. If you would like to rest, the park is a nice place. There's also an inn nearby. You already know where the city gate is. If you would like to continue your journey, look for the mountain pass." {WORDtavern}{WORDtown hall}{WORDhealer}{WORDcity gate}{WORDmountain pass}{WORDshops}{WORDinn}{WORDharbor}
+"Haven't you been there yet? It is called "The Open Tap" and is in the same building as the inn. If you want to spend the night, you are right there. There is always something going on at the Tap, and it serves the best sugo. "{WORDsugo}
+"We have a very large council house where we hold all our meetings. All important matters are straightened out there and on official occasions the entire city gathers there. During the day, you will find the Council of the Just in the council house. The council house is the largest building in Beloveno and you can't miss it. You will find it in the West." {WORDcouncil}{WORDCouncil of the Just}
+"The Council of the Just governs our city. It consists of three council members and the council president, Herras-Qennikos. If you have a request, you will find him in the council house during the day."{WORDtown hall}{WORDPerron}
+"Sugo is our favorite drink, you must try it! But I must warn you that sugo is a fermented fruit juice with a highly stimulating effect. Anyone who is not familiar with sugo should drink it with caution! You would not be the first strangers who weren't able to carry on a conversation after just two glasses."
+"Our healer is called Ramina. Her clinic is a small, modest house in the northern part of Beloveno. Ramina has extraordinary knowledge and is also very good-natured. If you are sick, she will help you."{WORDsick}
+"Kounos is the little village where people still have a traditional lifestyle. The path to Kounos is arduous and difficult to describe since the village lies on the mountain plateau. Just try to find the rock walls on which large, climbing plants grow. With a little exertion, you can climb up onto the plateau. Kounos is pretty far up, but if you really look for it, you will find it."
+"Kontos is a druid who lives in Kounos. He has become the village's respected religious leader. Kontos is very intelligent and I've heard that he is a very good magician. I have heard both good and bad about him."{WORDKounos}
+"Yes, there are numerous caves here. Hermits live in some of them, most are just empty. There is an especially large cave which we always avoid. It is so large that you can get lost in it forever, and unfortunately that has already happened. Three citizens from Beloveno have disappeared in this cave. However, if you want to go into the caves, be sure to take plenty of supplies and a rope with you. You'll find the entrances along the mountain range."
+"You might have seen the small black animals which scurry through the streets at night. We call them kritahs and, aside from the fact that they have a habit of stealing small shiny objects, they are fairly harmless. The kritahs live somewhere in the mountain caves, but unfortunately I cannot tell you exactly which ones."
+"Srimalinar is a beautiful little Iskai village. It lies to the north of Beloveno on the other side of the mountain. Just like the inhabitants of Kounos, religion plays an important role in the lives of the people of Srimalinar. There is a shrine which they visit regularly near their city. There is also a magician's guild." {WORDguild}{WORDshrine}
+"That is a vault near the village of Srimalinar. Be warned that it is best not to go in there since there is a taboo which forbids strangers from entering the shrine and the area around it. The inhabitants of Srimalinar get very upset when anyone violates this taboo! {WORDtaboo}{WORDSrimalinar}
+"That is correct, there is a path over the mountain range which connects the north side and south side of our continent. It is a very narrow, barely recognizable path because it is rarely used. It goes past Kounos and then continues north to Srimalinar. I have never been there and, therefore, can give you no information about it." {WORDnorthern side}{WORDsouthern side}{WORDKounos}{WORDSrimalinar}{WORDBeloveno}
+"Well, these skulls aren't very modern. Nevertheless, they still hang in many residences as decorative objects. They are heirlooms from our distant ancestors."
+"It is right near the city park. It's near the tavern."
+"That is the part north of the great mountain range. That's where Srimalinar is. You can get there over the mountain pass." {WORDpass}
+"Everything south of the great mountain range is the south side. It includes Beloveno and the harbor. Have you already been to the north side?" {WORDharbor}
+"The taboo refers to the shrine of Srimalinar. The Iskai in this village take this old taboo very seriously!
+"If you are looking for people with strong magic capabilities, then go to Kontos in Kounos or look in Srimalinar." {WORDSrimalinar}
+"As you can see, we build our structures simply and purposefully. Our most splendid structure is probably the council house." {WORDtown hall}
+"The inhabitants of Beloveno are not very religious. Of course, Kounos and Srimalinar are quite the opposite." {WORDKounos}{WORDSrimalinar}
+"Srimalinar is a village on the north side of the continent where the Iskai live. There is also a magician's guild there." {WORDmagic}{WORDIskai}{WORDguild}
+"The closest magic guild is in Srimalinar." {WORDmagic}{WORDSrimalinar}
+"The city gate is north, directly beside the small guard house. There used to be three city gates. Back then, you could also leave Beloveno in the west and east. You will find the relics of small guardhouses there."
+"You will find our marketplace in the middle, directly beside our council house. If you are lucky, the market will be open."
+"We are always glad when visitors use hard currency to make purchases in our shops. You will find an extensive range of goods here. There's a weapons- and an armor merchant, a food seller, and a mixed goods shop. Ramina, our healer, also offers her services. You will find most of the shops around the market place." {WORDmarket square}{WORDcurrency}
+"Gold pieces are the means of payment in Beloveno. Of course, some people are willing to make deals with other types of currency, but I don't really know about that...hahaha."
+"There are three climate zones on Albion: temperate, warm, and desert. Personally, I like it here in the temperate part best."
+"The Metalmakers live on the eastern continent and have a monopoly on metal production. Perhaps you will run into them on your journey."
+"I can't tell you a lot about the Kenget Kamulos, except that they are extremely powerful and that they use black magic. I'm happy when I don't have to have anything to do with them... They live on the east side of the continent."
+"The harbor of Beloveno is in the south. You can't miss it if you go south. Sometimes you can see the tips of masts from the many ships that are anchored there from far away. {WORDships}
+"Most of the ships transport goods to and from Beloveno. Actually, there aren't many passenger ships. If you are looking for transportation, you're better off trying to go by land. {WORDby land}
+"I mean the way over the mountain pass!" {WORDpass}
+"Many years ago, a lot of people in the city came down with several attacks of a mysterious disease. In some cases, this disease even caused death. Fortunately, I don't think anyone suffers from this disease anymore."
+"That's also in our city."
+"Yes, nice weather, huh?"
+"Herras is council president of the Council of the Just."
+"Perron, Gard, and Riko are members of the Council of the Just. Their president is Herras."
+"Skeima Din. Well , basically it means "a beautiful day."
+"That's the name of our country."
+"They are cherished collectible items."
+"Herras was council president of the Council of the Just."
+"I do not know where they are."

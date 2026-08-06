@@ -1,190 +1,190 @@
-﻿
-
-
-
-
-
-
-
-
+﻿-free-
+Branches and roots.
+A woven basket.
+A glass vessel for water and other drinks.
+A barrel.
+A magnificent animal pelt.
+A bucket.
+A clay bowl.
+A flask.
 A plate.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A pair of pliers.
-
-
-
+A clay mug.
+A mug.
+A table knife.
+A fork.
+A spoon.
+A clay container.
+Rocks.
+A bowl.
+A farming tool.
+An ax.
+A chest cover.
+A wooden chest.
+A lavishly decorated wooden chest.
+The rest room.
+A cover.
+A large wooden tub.
+A large metal kettle.
+A cupboard.
+All kinds of insignificant items are on these shelves.
+A bureau.
+A broom.
+A grill.
+You can grill meat on it.
+A fireplace.
+A tipped-over carafe.
+A ladle.
+A decorative wall sword.
+A wooden table.
+A stool.
+A folded stool.
+A massive dining table.
+A tree stump.
+Two crossed spears.
+A large barrel filled with strange liquids.
+A faucet.
+A bedcover.
+A comfortable and beautifully decorated bed.
+This bed is plain, yet practical.
+A kitchen table.
+A fireplace.
+The fireplace radiates a pleasant warmth.
+A decorated pot.
+Dried herbs.
+A human skull.
+A decorative shield.
+A metal pot.
+A decorative sword.
+A door.
+A kettle.
+A knife.
+A short dagger.
+A dagger.
+A large dagger.
+A short sword.
+A sword.
+A stiletto.
+A throwing dagger.
+A small ax.
+An ax.
+A small bow.
+A bow.
+An arrow.
+A small, leather shield.
+A leather shield.
+A round shield.
+A large shield.
+A leather cap.
+An embossed cap.
+A metal half-bowl.
+A leather vest.
+Leather armor.
+An embossed leather vest.
+A pair of shoes.
+A pair of boots.
+An empty bottle.
+A green healing potion.
+A turquoise healing potion.
+A blue healing potion.
+A key.
+A rope.
+A ring.
+A torch.
+A hammer.
+Stairs. They lead upward.
+Stairs. They lead downward.
+A counter.
+A carpet mat.
+A houseplant.
+A flowerpot.
+A decorated ornament embedded in the floor.
+A beautiful ornament, decorated with a large crystal, embedded into the ground.
+A metal table.
+An anvil.
+A metal shield.
+A decorated metal chest.
+A chimney for the forge.
+A wall hanging.
+An unoccupied cushion. It is very beautiful and normally used as decoration.
+Some valuable pieces of jewelry.
+Display boards with weapons and shields.
+An empty display board.
+A fire bowl.
+An extinguished fire bowl.
+A loose handle.
+A handle.
+A water place.
+A hammer.
+A small hammer.
+A hammer.
+A special hammer.
+Tongs.
+A file.
+A small file.
+A leather hole punch.
 A screwdriver.
-
-
-
-A tumbler.
-A spanner.
-
-
-
+A small screwdriver.
+A metal saw.
+ A precision tool.
+A beaker.
+A wrench.
+Shears.
+A bowl.
+Fine shears.
 A bottle.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Several bottles.
+ A vial.
+A red vial.
+A metal box.
+A metal object.
+A wire object.
+A metal bowl.
+Brass balls.
+A bowl with water.
+A bowl.
+A mortar.
+A magnifying glass.
+Forceps.
+A heavy, short sword.
+A decorated sword.
+A double stiletto.
+A long sword.
+A display cabinet.
+Shelves with valuable metal smith work, ornaments, and jewelry.
+A mining cart.
+Rails.
+A buffer stop.
+A chair.
+An old diamond-polishing machine.
+An oil lamp.
+A handle.
+The lever cannot be moved. {LEAD}{NAME} pulls with all of {HIS } might, but fails. It appears as if the lever is locked in some way.
+The lever has already been moved. Now it is stuck again.
+This is a cable duct. There is probably a connection between the handle and the knives in the floor behind it.
+These are very sharp knives, which are stuck in the floor. They all appear to be connected.
+The knives do give way upon being struck with the hammer, but something under the floor still seems to be holding them in.
+The knives are stuck in the openings.
+It is easy to beat the knives back with the hammer and clear the way.
+A room full of swords and knives. Some are broken already.
+These are very sharp knives which are stuck in the floor. They are arranged completely at random and appear to have been part of an experiment.
+{CNTR} The shield says: ^ {INK 006}{FAT } Attention, mortal danger! ^ If all three levers are activated at the same time, mechanism will overload! ^ Pay attention to current switch positions!
+Knife raiser for connecting room in the southwest.
+Knife raiser for central hall in the east.
+Knife raiser for mine in the northwest.
+The mechanism overloaded.
+These knives appear particularly stable. They can surely be removed-but how to do this is unknown.
+Ahh, the knives continue behind the wall to the left! There appears to be a whole chain of them.
+The lock is pretty rusty. It is of poor quality.
+Some part of the lock is broken. It is open.
+A contact plate.
+Central hall.
+It appears that nothing happened.
+Apparently, the magic power is gone since the objects do not change anymore.
+The object has changed.
+An anvil.
+My invention can change swords. ^ You just have to do it the right way! ^ ^ Akka.
+8:00 - 11:00
+The door is locked and the keyhole is blocked with a metal bolt. If the door can be opened, then certainly not with any key.
+An entrance into a mine.
+A circuit diagram.
+A metal foot switch.

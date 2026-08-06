@@ -1,0 +1,14 @@
+﻿{BLOK000}"I don't have a profession yet."
+The girl's face is completely swollen. Tears run out of her eyes, and when she speaks, she speaks softly and with a shaky voice: "Have you seen the evil woman who stabbed my mother? ^ ^ First, she stole all of our gold. When Mommy tried to protect herself, this woman simply took a knife and stuck it in her back!"{WORDriot}{WORDconsolation}
+"The whole village is searching for the woman. They all say that Nelly has returned. Nelly is a bad woman. Everyone is looking for her now, even the chief magistrate."{WORDNelly}{WORDsearch}
+"That is the bad woman who stabbed my Mommy, huuuhhhh."{WORDmommy}
+"She was always there when I needed her. And now I don't have anyone anymore."{WORDparents}
+"They say I can live in the chief magistrate's house. My Daddy hasn't been alive for a long time."
+"I am supposed to tell everyone so they can help search for Nelly. She'll probably do a lot more bad things! Ohl saw her a while ago. She must still be in the city."{WORDOhl}
+"Yes, he is helping in the search. ^ ^ Are you helping, too?"{BLOK010}"Yes, certainly." {BLOK011}"Maybe later."{BLOK012}"No, not at all."
+"That's good. But you have to watch out. She's very dangerous!"{WORDdanger}
+"Please help us."
+"That's a shame."
+"Yes, she has a sharp knife. And Ohl says that she has other weapons too. You must be careful."
+"Thank you! ^ ^ Please help in the search, otherwise Nelly will do more evil."{WORDevil}{WORDsearch}
+"Nelly must be put into jail because she does horrible things. She has escaped somehow."

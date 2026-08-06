@@ -1,79 +1,79 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿empty
+A mechanical switch.
+There is a small mechanical button on the wall.
+A tiny switch which can be easily overlooked is embedded in the wall.
+A floor plate. It looks like it would sink down if you walk on it.
+A door.
+The door is tightly latched. No lock can be seen.
+A locked portcullis. There is no lock on it.
+A fountain filled with clear water.
+A hot flame comes out of the brass disk on the floor.
+A brass disk on the floor.
+A brass disk with a large opening in it.
+A flickering flame. It radiates a large amount of heat.
+A transparent wall made of very solid material.
+This seems to be a type of force field. It produces a buzzing so loud that hair stands on its end and the roots of {LEAD}{NAME}'s teeth ache from the noise.
+A large hole in the floor.
+There is an opening in the ceiling.
+A flower column which used to decorate these rooms.
+A sitting group indicates that these rooms were once inhabited by men.
+A decayed stool.
+An old barrel.
+A dusty vase. {LEAD}{NAME} looks in it, but doesn't find anything.
+A trunk with metal fixtures.
+A heap of old junk. {LEAD}{NAME} pokes around in it but can't find anything useful.
+The switch can no longer be moved.
+The wall appears to be very fragile here.
+{LEAD}{NAME} hits the wall with a couple of strong blows. The wall collapses!
+{LEAD}{NAME} fills a bucket with water.
+{LEAD}{NAME} steps into the flame and gets burned!
+{LEAD}{NAME} dumps a bucket of water over the flame and extinguishes it!
+Another flame is extinguished.
+{LEAD}{NAME} enters the force field and a terrible pain immediately shoots through {HIS } body! The force field extends and covers everyone! After a few endless seconds the luminous field collapses.
+Once the rod makes contact, the force field collapses! The rod turns into dust.
+Everyone manages to climb up with the rope!
+A floating fireball. It radiates an unbearable heat.
+Suddenly, everyone feels an unbearable burning sensation: a fireball has come too close!
+"Unbelievable. I don't understand what keeps this fireball in the air. Is it a burning gas bubble? But, how can it be so stable? Mysterious."
+"I'm beginning to doubt my sanity! This field does not appear to be of electrical origin and no other energy source can be detected. What in the world sustains it? This planet appears to have been created just to disturb the beliefs of physicists."
+The floor-mounted plate drops a little bit.
+Floor plate pressed.
+This wall is penetrated by many deep cracks.
+-empty-
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+The wall disappears into the ceiling at lightning speed!
+The red walls disappear and release the creatures!
+The door to the right of the switches has opened!
+The gate can't be moved; it's blocked.
+"Friends, it is my fault we have fallen down here. {FAT } I {NORS} will go through these luminous fields so we can continue."
+The ceiling has closed again by the time everyone falls to the floor of the level beneath!
+"Drirr! You'll destroy us all! Damn, keep your hasty fingers away from any switches until we all agree!"
+"Oh, damn, that hurt! Yes, you may be right. I will try to pull myself together. Before you chew me out, let's find out how well we've all survived the landing."
+"Now Drirr is injured and unconscious! He has paid dearly for his curiosity."
+{LEAD}{NAME} moves the switch, and to the right of {HIM } a wall rises. Unfortunately, it is the wall BEHIND that blocks the way.
+A green wall rises, but behind the group something seems to have moved as well!
+The red walls disappear and release the creatures!
+Oh, my God! Let's get out of here! Maybe there's a way to block the beasts!
+All crash through the hole in the floor!
+The door on the right closes.
+The door on the right opens.
+"I have a bad feeling about this. Look at those beasts behind the wall; everything smells like a trap here!"
+"Agreed. But the switch plate in front is green. Up to now, the green ones have always had positive effects."
+A portcullis. It appears to be movable.
+Agree with Drirr's offer?
+"Your courage is remarkable, Drirr. I, too, see no other possibility. Good luck."
+"No way! There has to be another way. To go through all these luminous fields is pure insanity."
+Drirr takes a deep breath and sprints through all the fields! ^ ^ He cries out in pain and collapses at the last field.
+"Oh, Goddess! The poor fellow! Quick, let's help him!"
+There is the muffled sound of an opening portcullis.
+{LEAD}{NAME} thinks {HIS } sees something interesting under the trash!
+A small, poison-smeared blade cuts {LEAD}{NAME}'s finger.
+{LEAD}{NAME} and the others use a rope to lower themselves into the depths.
+"Look at this heap of rubble! It looks like a quarry here!"

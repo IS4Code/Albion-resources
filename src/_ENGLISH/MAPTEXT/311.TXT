@@ -1,216 +1,216 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A cupboard.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿free
+A fireplace.
+A candlestick.
+A woven basket.
+A wooden table.
+A stool.
+A canopy bed. Because of the skulls, it could also be called a "Hell Bed."
+A writing table.
+A chair.
+A flaming fire burns in this column and shows a grimacing face in a dusky light. This gives the observer an anxious feeling.
+A column with a horrible grimacing face.
+A bed. As most of the furniture here, it is somewhat forbidding.
+A barrel.
+A carpet, woven of dried plant stems.
+A glass mug.
+Curtains.
+A chest.
+A cabinet.
+A torch.
+Some small, unimportant objects lie on the shelves.
+A large wooden tub.
+Large wooden shelves.
+This bed doesn't seem to be in use right now.
+Different cutting, stabbing, and shooting weapons; all which look extremely dangerous.
+A weapons shelf.
+A shield.
+An impaled skull. An unpleasant odor indicates that the horrible act happened recently.
+Battle capabilities are trained and tested on these straw dummies.
+A wooden pole wrapped with straw serves for training battle techniques.
+A bow and arrow target.
+A tray with foods.
+Herbs.
+A chest.
+A carafe.
+A ladle.
+A bucket.
+A spoon.
+A spoon and a fork.
+A drinking cup.
+A drinking cup.
+Eating utensils.
 A plate.
-A receptacle.
-
-
-
-
-
-
-
-
-
+A container.
+Vegetables.
+Cookies.
+A spice.
+A metal plate.
+A clay container.
+A large glass jar.
+A glass container.
+A wooden box.
+A large glass box.
 A bottle.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A tumbler.
-
-
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Note papers.
+A book.
+Several books.
+A book bound in leather. It looks valuable.
+Writing utensils.
+An open book. The left side has a technical drawing; the right side has descriptions of it.
+A short pencil.
+A heavy, short sword.
+A heavy dagger.
+A door.
+A huge kitchen stove for heating food and drinks.
+A wall hanging.
+Torn curtains.
+Shabby wooden beds.
+A decorated column.
+An animal pelt.
+Stairs going up.
+Stairs going down.
+Open drawers with small objects.
+A beaker.
+Fine shears.
+ A vial.
+A heavy sword.
+Vials.
+A magnifying glass.
+Large towels.
+A towel.
+A carpet.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Khunag: {INK 002} ^ "This is the entrance area."
+Khunag: {INK 002} ^ "We are in the vicinity of the kitchen."
+Khunag: {INK 002} ^ "We are at the cells of the novices."
+Khunag: {INK 002} ^ "The passage to the guest room and the novices' cells."
+Khunag: {INK 002} ^ "The exercise room of the Druid novices."
+Khunag: {INK 002} ^ "The exercise room of the warrior novices."
+Khunag: {INK 002} ^ "This is a prayer room.
+Khunag: {INK 002} ^ "A supply room."
+Khunag: {INK 002} ^ "We are approaching the slave rooms."
+Khunag: {INK 002} ^ "The reception room for visitors."
+Khunag: {INK 002} ^ "A room for novices."
+Khunag: {INK 002} ^ "The central hall."
+Khunag: {INK 002} ^ "The hall of the novice cells."
+"Don't be stupid, visitor! ^ ^ As you see, our entrance area is easy to defend!"
+"Greetings, visitors. You may only leave the facility if you are accompanied by a Kenget."
+"That means that we must first wait for the decision of the Kenget concerning the purchase of the High Knowledge. ^ ^ But believe me, they will refuse."
+{INK 001} A slave: {INK 002} ^ ^ "We seldom have visitors. I've sometimes asked myself if there really are people outside of Khamulon."
+{INK 001} A slave: {INK 002} ^ ^ "We are not permitted to speak to visitors."
+{INK 001} A female slave: {INK 002} ^ ^ "My son will soon be a novice of the Kledos. He will be the most courageous warrior of all!"
+{INK 001} A female slave: {INK 002} ^ ^ "You'd better speak with Jonatharh, the chief slave. He can usually be found in the kitchen."
+{INK 001} A slave: {INK 002} ^ ^ "Please don't keep me from my work. I've been punished enough."
+{INK 001} A slave: {INK 002} ^ ^ "I was once a Kledo Kamulos. For love of my wife, I returned to the slaves."
+"I adore battle master Cuarnainn. He has body control like no other."
+"I need a little rest, visitors. My first sword lessons have left their traces."
+"I am happy to have risen out of the slave quarters and into the ranks of the novices."
+"I don't know what I should discuss with visitors. ^ ^ Good-bye."
+"The study of magic is my life's work. I can finally fight for the honor of Kamulos, in spite of my weak body!"
+"I recently learned the first combat spell. What a wonderful feeling to sense the energy flowing through my spirit.!"
+"I exercise with the novices here. They must learn to accept and master fear and pain."
+"Greetings, visitors. I have already outside of Khamulon. Hopefully you are here because you have a task for us. I love to show the outside world the superior battle knowledge of the Kledo Kamulos!"
+"My training with long-distance weapons is almost over. Soon I will learn the highest stage of the art of combat: unarmed combat."
+"Turn to Rhunagh, our Magic Master, if you want to have a conversation. For the most part, he can be found in the prayer room east of the complex."
+"We have some very talented novices this year. Training is proceeding well. Kamulos will be content."
+"To burn an opponent in the fire of my spirit is the purest form of Kamulos' veneration!"
+"Yesterday, I had to read a fire spell from a spell scroll! ^ ^ A fantastic experience, since the spell scrolls allow an untrained person to perform spells he hasn't mastered yet!"
+"Visitors aren't welcome here!"
+"The areas of the Kledo and Oqulo Kamulos may not be desecrated by outsiders. Remain here in the areas of the novices."
+"The stairs behind this door lead into the living areas of the trained Kledo Kamulos and Oqulo Kamulos. We have no access here."
+The door is closed. A guard speaks to {LEAD}{NAME} : {INK 002} ^ ^ "Visitors have no access here!"
+This is the door that leads outside. It is latched. One of the guards notices {LEAD}{NAME} and speaks to {HIM }:
 This door is locked.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A spell scroll lies in this opened drawer!
+All kinds of trifles are stored here. Some of them look interesting.
+Someone has left a spell scroll here!
+There is a sparkling ring in this chest!
+This chest contains useful things.
+There is some food here.
+{LEAD}{NAME} sees a beautifully designed amulet!
+There are some healing potions here!
+A cabinet with some bottles.
+A small switch can be seen inside the flame bowl!
+A small lever is mounted in the flame bowl. ^ ^ {LEAD}{NAME} carefully activates the hot switch!
+An opening appears in the wall!
+"Alright! We can reach the inner areas through the secret passage!"
+There are some drinks in the chest!
+"Please don't disturb me in my studies! I would prefer if you leave my room."
+{INK 002} "Greetings, visitors. Pardon me, I must concentrate on my studies."
+{INK 001} The novice calls out: ^ ^ {INK 002} "Hey! Please keep you hands off! I would thank you to leave my room!"
+Suddenly a call echoes out of a concealed side passage!
+{CNTR}{INK 002} "What are you doing here? ^ ^ {FAHI}ALARM! {NORS} "
+{INK 002} "You have tried to desecrate the inner areas of Khamulon!"
+{INK 002} "Do you surrender?"
+{INK 002} "You want the honor of combat? Very good!" ^ ^ {INK 001} The Kenget Kamulos attack!
+More Kenget Kamulos appear!
+The Kenget Kamulos attack again immediately!
+"Bring them to the prison area!"
+The guards lead the companions into the mountain. The dusky twilight shows more passages that penetrate the mountain. The place must be gigantic!
+"Greetings. We don't often get visitors in Khamulon. ^ ^ Explain the reason for your presence. Come right to the point."
+"As you wish. ^ ^ We've come to propose a business deal to you. ^ We are willing to pay you a large amount of gold to learn of a certain aspect of your magical knowledge. It concerns the knowledge of how great amounts of energy can be harnessed."
+"{FAT } You want the High Knowledge? {NORS} ^ ^ You have the arrogance to ask us about a core area of our magical knowledge?"
+"That is correct. {FAT } You {NORS} have asked for openness. We have an important mission to carry out."
+"We are never concerned about our visitors' motives. You are right, your openness is remarkable. ^ ^ Before I refuse precipitously, I will have to discuss this matter with the Cuain, our chief. ^ ^ I will have you brought to the Guest Quarters. You may move freely in this part of Khamulon, the area of the Novices and Slaves. Do not try to penetrate other areas. ^ ^ I will let you know our decision shortly."
+The group is led through long passages and halls into a spacious room.
+"Hmm, the Kenget's reaction was more positive than I expected. At least he didn't immediately throw us out or put us in chains."
+"Believe me, I'm sure they are planning something we don't like. ^ ^ The Kenget will never give away the High Knowledge."
+"There's probably nothing else for us to do but remain alert and wait. ^ ^ Let's look around a little. The more we can learn about this place the better."
+"I have suddenly remembered something which I am sure you will find interesting. ^ ^ As you know, I believe the Kenget Kamulos will never voluntarily release the High Knowledge. Therefore, we will have to get it without their permission. ^ ^ Back when I was a novice, I learned about a cell which allows access to a corridor which leads to the inner regions. With some luck, I will find the room where, among other things, recordings of the High Knowledge are stored. ^ ^ What do you think?"
+Should Khunag lead all of them to the cell with the secret access? {BLOK000} Yes, immediately. {BLOK001} No, wait.
+"As you say. I believe it's the only way for us to obtain the High Knowledge."
+Khunag leads the companions to a cell in the northern area of the novice rooms.
+"Here it is. There has to be a hidden switch somewhere."
+"Damn. There is someone in the cell."
+"If I recall correctly, the secret access to the inner areas is in this cell. There must be a hidden switch here somewhere."
+"I have suddenly remembered something which I am sure you will find interesting. ^ ^ As you know, I believe the Kenget Kamulos will never voluntarily release the High Knowledge. Therefore, we will have to get it without their permission. ^ ^ Back when I was a novice, I learned about a cell which allows access to a corridor which leads to the inner regions. This is that cell."
+"The Kenget are keeping us waiting for a long time. Once again, I urgently advise that we use the secret passage. There's a good chance we can steal the High Knowledge!"
+"I will let you know where we are from time to time. Khamulon is very large. Almost the entire mountain was excavated using slaves and magic."
+Khunag leads the others into a cell on the northern end of the novice cells.

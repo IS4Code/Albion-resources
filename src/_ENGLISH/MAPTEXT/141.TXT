@@ -1,180 +1,181 @@
-﻿
-
-
-
-
-
-
-
-
+﻿-free-
+Branches and roots.
+A woven basket.
+A glass vessel for water and other drinks.
+A barrel.
+A magnificent animal pelt.
+A bucket.
+A clay bowl.
+A flask.
 A plate.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A clay mug.
+A mug.
+A table knife.
+A fork.
+A spoon.
+A clay container.
+Rocks.
+A bowl.
+A farming tool.
+An ax.
+A chest cover.
+A wooden chest.
+A lavishly decorated wooden chest.
+The rest room.
+A cover.
+A large wooden tub.
+A large metal kettle.
+A cupboard.
+All kinds of insignificant items are on these shelves.
+A bureau.
+A broom.
+A grill.
+You can grill meat on it.
+A fireplace.
+A tipped-over carafe.
+A ladle.
+A decorative wall sword.
+A wooden table.
+A stool.
+A folded stool.
+A massive dining table.
+A tree stump.
+Two crossed spears.
+A large barrel filled with strange liquids.
+A faucet.
+A bedcover.
+A comfortable and beautifully decorated bed.
+This bed is plain, yet practical.
+A kitchen table.
+A fireplace.
+The fireplace radiates a pleasant warmth.
+A decorated pot.
+Dried herbs.
+A human skull.
+A decorative shield.
+A metal pot.
+A decorative sword.
+A door.
+A kettle.
+A knife.
+A short dagger.
+A dagger.
+A large dagger.
+A short sword.
+A sword.
+A stiletto.
+A throwing dagger.
+A small ax.
+An ax.
+A small bow.
+A bow.
+An arrow.
+A small, leather shield.
+A leather shield.
+A round shield.
+A large shield.
+A leather cap.
+An embossed cap.
+A metal half-bowl.
+A leather vest.
+Leather armor.
+An embossed leather vest.
+A pair of shoes.
+A pair of boots.
+An empty bottle.
+A green healing potion.
+A turquoise healing potion.
+A blue healing potion.
+A key.
+A rope.
+A ring.
+A torch.
+A hammer.
+Stairs. They lead upward.
+Stairs. They lead downward.
+A counter.
+A carpet mat.
+A houseplant.
+A flowerpot.
+A fire container.
+Shelves full of books.
+Books.
+A book.
+An open book.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+{CNTR} On the shield it says: ^ ^ {INK 006} Makaio, Master of Healing
+{CNTR} It says here: ^ ^ {INK 006} Torko, Master of Knowledge
+{CNTR} The shield says: ^ ^ {INK 006} Ouktero, Master of the Science of Druid Magic
+{CNTR} On the shield it says: ^ ^ {INK 006} Nemos, Master of the Druids
+{CNTR} The shield says: ^ ^ {INK 006} To the Halls of the Books
+{CNTR} On the shield it says: ^ ^ {INK 006} General Work Room
+{CNTR} This reads: ^ ^ {INK 006} To the Sleeping Rooms. ^ Visitors, please stay away.
+{CNTR} The door is latched tight.
+-coming soon: long dialog-
+"We got into a little fight. I probably have to stay in bed awhile. Darn!"
+"Togi Din and much luck in your search for Master Bero!"
+"Togi Din! You saved Bero, right? A great deed!"
+"Togi Din. This is the work room. Just help yourself to anything that can help you save Bero!"
+"Togi Din, Bero's Saviors! Ha, ha, the poor devil will have to listen to a lot of nasty jokes about his failed expedition for a long time!"
+"Togi Din. As a student of Bero, it is difficult to study when he may be facing death right now."
+"Togi Din! I am glad you have managed to save my Master Bero and he is still in good health. Many thanks to you!"
+"Togi Din. I warned Bero about going into the forbidden part! He's such a reckless fellow!"
+"Togi Din. Pardon me, I'm busy."
+"Welcome, travelers, to Arjano - the 2000 year old school of the Druids."
+"Togi Din, Nemos. Pardon me if I bore you with my curiosity, but does your history really go back 2000 years?"
+"Indeed, our records go back to the time when the Great Canto led us here from the Land of our Forefathers."
+"May I ask where the Land of your Forefathers was and how the trip took place?"
+"When the Land of the Forefathers was destroyed by the Crusaders, Canto and Danu led the Chosen Ones through the Kingdom of the Mists here to Albion."
+"Now, tell me what brings you here and why do you want to talk with Bero?"
+"We have been asked to get a specific amulet. We were told we should see Bero about it."
+"I understand. Unfortunately, you can't speak to Bero. I can't even speak to him."
+"Why, is he sick or did something happen to him?"
+"No. He is dead."
+"Did he take a trip?"
+"Not at all. He is still in this building. ^ ^ I see I must start further back. As you already know, this building is very old. It was founded shortly after the arrival of the Chosen Ones. The Goddess, Danu, granted us a favor and allowed the building to be built on her land. ^ ^ Now, there are countless parts of the building - far more room than we need. A large part of it has been sealed off for almost 400 years. There was a disagreement with a group of Druids we call the Fire Worshippers, and who ultimately became the Kenget Kamulos. ^ ^ At the time, there was a bitter disagreement which ultimately led to the exodus of the rebels. Structures still maintain traces of the war and are filled with mechanisms and inhabited by demons. ^ ^ In spite of all our objections, Bero climbed down into this part of the building, called Drinno, so he could look for magic artifacts."
+"And now you believe that we are the right persons to go looking for him?"
+"Right."
+"Wouldn't it be better to put together a well-armed search party of warriors from the region?"
+"You must know that Drinno, the Forbidden Part, has been taboo for centuries. No one goes down there. ^ ^ But, you seem unaffected by our taboos and I've also heard that the Iskai are fearless warriors."
+{INK 001} Tom throws a glance around. {INK 002} ^ ^ "Our continued journey depends upon this amulet. What do you think? Should we undertake the job?"
+"Job? If you mean that we should have a look down there, I'm with you."
+"I won't retreat at the first sign of danger. I will stay with you, Tom."
+"Well, I would dismiss all apparent dangers as superstition if I hadn't already seen what strange things happen here. ^ ^ Don't expect any heroic deeds from me, but I'll go along."
+"Well, I'm glad you're willing to help. I can even provide some back up for you. We had a hard time keeping him from going down to Drinno. ^ ^ May I present Bero's foster son, a young Druid by the name of Mellthas. He is deaf and dumb, but his spirit is as bright as the sun. He will accompany you."
+{INK 001} Mellthas' face shows a stressed smile, as he bows quickly and hastily writes something on a piece of paper:{INK 002} ^ ^ "I'm pleased! Let's set off soon, I'm very concerned!"
+"Bero made provisions for himself before he climbed down. He is no fool. I think he will barricade himself somewhere if he is having difficulty. ^ ^ There is probably no reason to be hasty, but you don't have too much time. ^ ^ The Arjano Druids will support you as much as they can. I wish you Lugh's blessing in the rescue. Should you wish to speak to me, I will be in my room in the east part of this floor."
+{INK 001} Mellthas writes and holds up a piece of paper:{INK 002} ^ ^ "Tell me when you are ready to climb down. I will lead you to the entrance. Please hurry."
+The Druids look shocked that someone is injured. They give first-aid.
+The return proceeds without major problems. Bero is greeted with a warm welcome from some and sharp words from others. They enter the room of Nemo, the Head of the Druids.
+"Bero, I think I can save myself the reprimand. You know what you have risked."
+"It was certainly a mistake to climb down to Drinno. However, I only regret having put Mellthas and his companions into danger because of my foolishness. ^ ^ I would like to thank all of my rescuers again."
+"With which I would like to concur. Bero is quite often a pigheaded plague, but nonetheless I am happy to have him back with us in one piece. ^ ^ ^ Now, as I have understood, a, well... unusual incident has happened between Mellthas and ah... Sira?"
+"Nemos, as you can guess we were quite surprised ourselves. We would like to continue this journey together."
+{INK 001} Mellthas nods in agreement.
+"Well, why not. I wish you much luck, Mellthas ^ ^ Not everyone here in Gratogel would understand the bond between human and Iskai and, so, perhaps it is better if you leave for a while."
+"Speaking of continuing the journey: Bero, I must ask you for a specific amulet which we were ordered to procure."
+"Of course, Tom. Please follow me into my work room."
+"Here you have the Strength Amulet. It is the least I can do for you. ^ ^ I wish you all, and especially you, Mellthas and Sira, Danu's' blessing for your journey."
+{LEAD}{NAME} fills a bucket with water.
+A fountain filled with clear water.

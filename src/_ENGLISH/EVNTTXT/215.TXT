@@ -1,0 +1,9 @@
+﻿{BLOK000} "Oh, I manage the food business here in the city."
+"Skeima Din. Have you found evidence against Kontos?" {BLOK010} "No." {BLOK011} "Yes." {BLOK012} "We have proven the innocence of Kontos!" {WORDKontos}{WORDevidence}
+"Then keep searching!"
+"The conflict at the shrine of Srimalinar is continuing to escalate. You can stop it by showing Kontos' true face. You have the evidence for that. You can help the land enormously and I ask you to do it. Go to the shrine of Srimalinar and put an end to this whole thing!" {WORDshrine}
+"You have what?! I think I should tell the people in the city about your intentions. Many would find it interesting..."
+"He is in the shrine of Srimalinar and it won't be long before there is a holy war."
+"It is pretty bad - go and see for yourself. Perhaps Kontos can be stopped. If that is not possible, a war is unavoidable."
+"If you have evidence, then use it to expose Kontos."
+"That's me."

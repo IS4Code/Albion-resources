@@ -1,0 +1,4 @@
+﻿{BLOK000} "I am the tavern keeper here."
+"Do you seriously believe that I will still wait on you? If I were you, I wouldn't come around here anymore- especially if I were a human." {WORDhuman}
+"Everyone's talking about it. The humans are planning to take over our holy shrine, because they are convinced it is dangerous. THEY HAVE NO IDEA! But there are a couple of incidents for which we don't have any explanation either. Like the creatures everyone is seeing near the shrine: I don't know where they come from, but they are not coming from our cellar. There is almost always one of us there and I'm sure they would notice it. But that fact doesn't seem to interest the humans at all. I guess they don't want to listen to us. If they break our taboo, there will be trouble. ^ ^ Speak to Kontos yourself. He's probably already thought of something new!" {WORDtaboo}
+"I am Edjirr."

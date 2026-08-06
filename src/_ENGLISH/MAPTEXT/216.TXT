@@ -1,63 +1,63 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿-free-
+Strange, large desert rock formations.
+A sand dune.
+A stone column.
+A large rock.
+A plate flower.
+A sand mushroom.
+An insect-eating plant.
+A flesh-eating plant.
+A blooming cactus, which grows very slowly.
+Plant parts.
+Herbaceous plants.
+Rocks.
+Tufts of grass.
+Roots, pieces of wood, branches.
+A stone castle built of rocks.
+Rapids.
+The water is deep and the current appears to be strong.
+Water plants.
+Water plant sprouts.
+A whirlpool.
+A shade tree.
+These prairie trees thrive on very dry soil.
+A prairie flower.
+A tower rock.
+Gravel.
+A large rock bridge.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+{LEAD}{NAME} says suddenly: ^ "I'm feeling strange again. Maybe we should take that stuff we bought in Umajo-Kenta."
+{LEAD}{NAME} says suddenly: ^ "I'm feeling strange again. If only we had bought that stuff in Umajo-Kenta. It would probably help us now."
+The group is very exhausted from wandering through the desert. Everyone's capabilities are draining drastically.
+The group is injured from all the wandering in the desert.
+Ssssss...

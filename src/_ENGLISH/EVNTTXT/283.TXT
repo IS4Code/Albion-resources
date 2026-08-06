@@ -1,0 +1,28 @@
+﻿{BLOK000}"Profession? I haven't seen any daylight for a long time. You don't believe I can work here? Before this horrible misunderstanding, I worked as a priestess and a healer."{WORDmisunderstanding}
+{WORDmisunderstanding}"Eh? Who are you then? And how did you get here?"{BLOK010}"We are asking the questions here!"{BLOK011}"We are visiting and are searching for information."
+"You have to get me out of here. I'm innocent!{WORDmisunderstanding}
+"You have to believe me, I'm innocent. I cannot lose the best years of my life here. Please help me!"{BLOK010}"We don't know anything about you!"{BLOK011}"No, there must be a reason why you are here."{BLOK012}"Well, perhaps we can talk about it."{BLOK013}"Why should we?"
+"I cannot tell you my entire past before the guard comes and visiting time is over. But, just look at me and judge. Am I a criminal? I'm not. It was a mistake, a miscarriage of justice!" {BLOK010}"We believe you."{BLOK011}"We don't believe that anyone can look into the soul of a person."{BLOK012}"We don't believe you."
+"Yes, that is my fate. No one believes me - absolutely no one!"
+"Do you believe me? Then help me! Please!"{WORDhelp}
+"Naturally you cannot do that. However, you can get an impression of another person. How can I prove my innocence to you?"{WORDinnocence}
+"Yes, enough - it's best not to question me anymore. I might cause you more problems. It's really not your problem when innocent people sit behind bars. ^ ^ It's always the same: it's because of people like you that these miscarriages of justice happen."{WORDmisjudgment}
+"What would you like to know?"{BLOK010}"The reason for the conviction."{BLOK011} "When did it happen?"{BLOK012}"How much longer must you stay in jail?"
+"It concerned a patient whom I treated. He was very sick, and I was not able to help him anymore. They accused me of not having cared for him sufficiently, but it was a severe disease and he was in bad shape. I used all of my knowledge, but unfortunately, it was not enough."
+"It was three years ago."
+"Seven more years. Altogether, I will have been in jail for ten years for that. It is particularly hard because I am innocent."
+"The chief magistrate of Umajo-Kenta is no judge, but unfortunately he acts like he is. He doesn't take his business very seriously. If you ask him, he will surely tell you that I am guilty, whereas he really has a bad conscience because he knows that he is lying. Please help me!"{WORDhelp}
+"If you want to help me, then let me out. The key hangs on the left beside the cell door. I can get out to the main exit somehow. ^ ^ Also, if you really help me, I will be thankful to you!" {BLOK010}"That's not necessary."{BLOK011}"How can we help you?"{BLOK012}"We will not help you!"{WORDkey}
+"Who knows, perhaps I can do something for you when you need it."{WORDgratitude}
+"I can provide you with something which will certainly interest you."{WORDsomething}
+"You will certainly regret it!"
+"Hmm, I believe we can talk about it if you're telling the truth!"
+"I'll get my revenge on you!"{WORDgratitude}
+"Fine, then first I will tell you why I am here."{WORDpatient}
+"Yes, yes, that's very good. Ask me."
+"Hmm, then I can certainly help you. But, in return, you have to do me a favor." {WORDfavor}
+"You must help me get out of this prison."{WORDhelp}
+"Naturally, I can't get it! But it's easy for you. It hangs right next to the door."
+"What I really need is the key which hangs beside the cell door."{WORDkey}
+"That's me."
+"Thank you very much, friends! ^ ^ There is something good about you. Now I have to make sure that the guards don't notice me. We'll meet again in the city where I can thank you."

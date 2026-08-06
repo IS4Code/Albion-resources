@@ -1,10 +1,10 @@
-﻿
-
-
-
-
-
-
-
-
-
+﻿free
+These stone columns block a part of the cave. They look porous. Between the columns you can see a passage leading onward.
+Unfortunately, kicks and punches cannot conquer these great columns. {LEAD}{NAME}'s hand is paying the price. It really hurts now!
+This column is probably too hard. It can hardly be destroyed with the tool.
+The object doesn't affect this stone column.
+"What a blow! ^ ^ I think we can crawl through here if we make ourselves thin."
+The stone column has tumbled down. There is still a large stump on the ground and a stalactite-like object hangs from the ceiling. Everything is covered with sand and stones. However, the passage has gotten bigger. Perhaps you can force your way through with some effort.
+A chest.
+The chest is not locked. Who could have put it here?
+The door leads to a rock gate.

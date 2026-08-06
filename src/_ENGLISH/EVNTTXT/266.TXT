@@ -1,0 +1,5 @@
+﻿{BLOK000} "I am the tavern keeper here."
+"You don't really believe that I will serve you? If I were you, I wouldn't stay around here. You should go to the holy shrine and try to keep Kontos and his followers from going through with their plans. I now have solid evidence against Kontos!" {WORDevidence}
+"You can have them, just so you can see who you are dealing with. I have copies of it, too. It's only part of a document which Kontos wanted to destroy. It tells a lot, though."
+"I have already given you the document."
+"I am Edjirr."

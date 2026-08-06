@@ -1,135 +1,135 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A cupboard.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿free
+A fireplace.
+A candlestick.
+A woven basket.
+A wooden table.
+A stool.
+A canopy bed. Because of the skulls, it could also be called a "Hell Bed."
+A writing table.
+A chair.
+A flaming fire burns in this column and shows a grimacing face in a dusky light. This gives the observer an anxious feeling.
+A column with a horrible grimacing face.
+A cot. Like most of the furniture here, it doesn't look very comfortable.
+A barrel.
+A carpet, woven of dried plant stems.
+A glass mug.
+Curtains.
+A chest.
+A cabinet.
+A torch.
+Some small, unimportant objects lie on the shelves.
+A large wooden tub.
+Large wooden shelves.
+This bed doesn't seem to be in use right now.
+Different cutting, stabbing, and shooting weapons; all which look extremely dangerous.
+A weapons shelf.
+A shield.
+An impaled skull. An unpleasant odor indicates that the horrible act happened recently.
+Battle capabilities are trained and tested on these straw dummies.
+A wooden pole wrapped with straw serves for training battle techniques.
+A bow and arrow target.
+A tray with foods.
+Herbs.
+A chest.
+A carafe.
+A ladle.
+A bucket.
+A spoon.
+A spoon and a fork.
+A drinking cup.
+A drinking cup.
+Eating utensils.
 A plate.
-A receptacle.
-
-
-
-
-
-
-
-
-
+A container.
+Vegetables.
+Cookies.
+A spice.
+A metal plate.
+A clay container.
+A large glass jar.
+A glass container.
+A wooden box.
+A large glass box.
 A bottle.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A tumbler.
-
-
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-
-
-
-
-
-
+Note papers.
+A book.
+Several books.
+A book bound in leather. It looks valuable.
+Writing utensils.
+An open book. The left side has a technical drawing; the right side has descriptions of it.
+A short pencil.
+A heavy, short sword.
+A heavy dagger.
+A door.
+A huge kitchen stove for heating food and drinks.
+A wall hanging.
+Torn curtains.
+Shabby wooden beds.
+A decorated column.
+An animal pelt.
+Stairs going up.
+Stairs going down.
+Open drawers with small objects.
+A beaker.
+Fine shears.
+ A vial.
+A heavy sword.
+Vials.
+A magnifying glass.
+Large towels.
+A towel.
+A carpet.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+{INK 001} A female slave: {INK 002} ^ ^ "My son will soon be a novice of the Kledos. He will be the most courageous warrior of all!"
+{INK 001} A female slave: {INK 002} ^ ^ "You had better speak with Jonatharh, the chief slave. You can usually find him in the kitchen."
+{INK 001} A female slave: {INK 002} ^ ^ "I often dream of the outside world and wonder what it would be like to be free."
+{INK 001} A female slave: {INK 002} ^ ^ "My love of my husband is the only thing that gives my life joy."
+{INK 001} A slave: {INK 002} ^ ^ "Hmm? What? Oh, visitors! Yes. Hmm. Chrr..."
+{INK 001} A slave: {INK 002} ^ ^ "Please don't talk. I don't want to get in any trouble."

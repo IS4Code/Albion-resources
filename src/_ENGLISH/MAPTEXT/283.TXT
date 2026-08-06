@@ -1,23 +1,23 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿{BLOK000} Weapon Smith {BLOK001} Armor Smith {BLOK002} Mixed Goods {BLOK003} Inn {BLOK004} Hotel {BLOK005} Food {BLOK006} Council House {BLOK007} Healer {BLOK008} City Gate {BLOK009} Harbor {BLOK010} Marketplace {BLOK011} Residence {BLOK012} Residence {BLOK013} Residence {BLOK014} Residence
+A large, stone block.
+A door.
+The door is locked and cannot be opened. There's probably no one in the building now.
+Delivered goods are checked here.
+There is a large plaza here with a fountain, numerous tables, containers, and vessels. It seems to be a marketplace.
+{INK 006}{CNTR} Arms, Helmets, and Armor.
+{INK 006}{CNTR} Throwing, Cutting, and Stabbing Weapons.
+{INK 006}{CNTR} Mixed Goods.
+"Here we are in Beloveno, my friends! I would propose that first we look around the city. Maybe we'll learn about the Toronto. Anyhow, we have to try to make progress, we have a lot to accomplish in this large city."
+A fountain.
+"Skeima Din, are you looking for something in particular?"
+With careful descriptions, Tom and his companions are trying to find out if the residents of the town know something about the Toronto landing. But it doesn't look good: Zimos hasn't seen or heard anything about it. If he's telling the truth, then the Toronto landing place must be far away. Then, there is the question of where to look. Maybe they can get some reliable transportation if they get to know some people better. Therefore, it is certainly worthwhile to get to know Beloveno and its immediate surroundings thoroughly.
+"If you would like to get something, then talk with the people. That's the only way you'll find out anything here. If you can't talk, you'll get nowhere around here. Talk to the people often! It pays to be persistent. Just recently, I talked my neighbor out of his little decorative fountain. He hasn't needed it for years, but I had to ask him five times until he finally gave in. Some people are simply pigheaded. Most people here are that way. And, some change their minds as the political situation changes. Simply stay with the people and talk to them."
+"Unfortunately, I don't have time for a lengthy conversion. But when you get a chance to talk to someone ask them about the mountain pass, Kounos, and Srimalinar."
+"When you come out of the city, defend yourself against the krondirs. They are aggressive stalkers."
+"Please do not go through our grain fields while you are looking around. A quarter of the last harvest was destroyed because some people had nothing better to do than take shortcuts through our fields."
+"Sometimes I stand at the harbor for hours and listen to the sound of the waves. Natural forces always continue to impress me. Isn't it wonderful to breathe the fresh, salt air and to feel the spray on your face?"
+"What are you doing around here? People are getting funnier and funnier..."
+"You cannot and need not understand everything."
+"Skeima Din. If you would like to get to know people, then visit the tavern. You can also rent a room for the night."
+"If you are new to the city, you should first report to the council house!"
+{CNTR}{INK 006} Closed. Open from 8 a.m. to 10 p.m.

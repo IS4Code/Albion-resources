@@ -1,147 +1,147 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A cupboard.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿free
+A fireplace.
+A candlestick.
+A woven basket.
+A wooden table.
+A stool.
+A canopy bed. Because of the skulls, it could also be called a "Hell Bed."
+A writing table.
+A chair.
+A flaming fire burns in this column and shows a grimacing face in a dusky light. This gives the observer an anxious feeling.
+A column with a horrible grimacing face.
+A cot. Like most of the furniture here, it doesn't look very comfortable.
+A barrel.
+A carpet, woven of dried plant stems.
+A glass mug.
+Curtains.
+A chest.
+A cabinet.
+A torch.
+Some small, unimportant objects lie on the shelves.
+A large wooden tub.
+Large wooden shelves.
+This bed doesn't seem to be in use right now.
+Different cutting, stabbing, and shooting weapons; all which look extremely dangerous.
+A weapons shelf.
+A shield.
+An impaled skull. An unpleasant odor indicates that the horrible act happened recently.
+Battle capabilities are trained and tested on these straw dummies.
+A wooden pole wrapped with straw serves for training battle techniques.
+A bow and arrow target.
+A tray with foods.
+Herbs.
+A chest.
+A carafe.
+A ladle.
+A bucket.
+A spoon.
+A spoon and a fork.
+A drinking cup.
+A drinking cup.
+Eating utensils.
 A plate.
-A receptacle.
-
-
-
-
-
-
-
-
-
+A container.
+Vegetables.
+Cookies.
+A spice.
+A metal plate.
+A clay container.
+A large glass jar.
+A glass container.
+A wooden box.
+A large glass box.
 A bottle.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A tumbler.
-
-
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Note papers.
+A book.
+Several books.
+A book bound in leather. It looks valuable.
+Writing utensils.
+An open book. There is a technical sketch on the left side. The right side contains explanations. Nothing special.
+A short pencil.
+A heavy, short sword.
+A heavy dagger.
+A door.
+A huge kitchen stove for heating food and drinks.
+A wall hanging.
+Torn curtains.
+Shabby wooden beds.
+A decorated column.
+An animal pelt.
+Stairs going up.
+Stairs going down.
+Open drawers with small objects.
+A beaker.
+Fine shears.
+ A vial.
+A heavy sword.
+Vials.
+A magnifying glass.
+Large towels.
+A towel.
+A carpet.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+The Kenget take the gold from the companions which they wanted to use to pay for the High Knowledge! ^ ^ {LEAD}{NAME} and the others are roughly pushed into a damp cell. ^ ^ After a while everyone has recovered.
+"Bravo, Khunag! Using that secret corridor sure was a brilliant idea!"
+"In my time that corridor wasn't watched!"
+"What do you think we should do now? Apart from thinking about those exquisite torture techniques your ex-colleagues have promised us..."
+"If I may remind you, I was one of the high-ranking Kenget, and we are in possession of certain knowledge which protects us from any careless acts of our lower brothers. ^ ^ This includes the following..."
+Khunag fumbles around behind a stone arch for a long time...
+"This should open our cell door. Let's try it!"
+"Good! The door isn't locked anymore! But I wonder how we can get the High Knowledge now."
+"Somewhere around here there's a passage to the facilities which are located in front of the inner area. Since we were caught in the shortcut, there is no other way left for us to take but the path through there. It is not without danger, but we have no other choice."
+"First we must get out of this dungeon passage."
+When {LEAD}{NAME} opens the door, the Kenget behind it look up! ^ ^ The surprise on their faces is quickly replaced by rage as they rush toward their former captives!
+This door has a solid lock. It is latched.
+Some bottled drinks and a key are stored here!
+There is a wonderful sword lying here under some rags!
+There's some dried foods stored here.
+"Exactly! Here it is. We're coming into the Khamulon areas, which were built as defense facilities. In part, they still serve this purpose today. ^ ^ It will not be easy. Let's go."
+A massive stone staircase.
+The door is locked tight.

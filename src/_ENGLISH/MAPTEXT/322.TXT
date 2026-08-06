@@ -1,218 +1,218 @@
-﻿
-
-
-
-
-
-
-
-
-
+﻿free
+A burning torch.
+A torch.
+Wall hangings.
+Shelves with books.
+A barrel.
+A large barrel with a hole for a tap.
+A faucet.
+A carpet.
+A sofa.
 An armchair.
-
-
-
-
-A pot.
-
-
-
-
-
-
-
-
-A cupboard.
-
-
-
-A receptacle.
-
+A large sofa.
+A bench.
+A side table.
+A kitchen table.
+A metal can.
+A writing table.
+A cover.
+Empty shelves.
+Sausages and pieces of meat hanging to dry.
+Different kinds of unimportant objects lie on these shelves.
+A fireplace.
+A glass bottle.
+A bed.
+A cabinet.
+A bureau.
+A chair.
+An empty tray.
+A container.
+A drinking cup.
 A plate.
-
-
-
-
-
-
-
-
-
-
-
-
-
+Glasses, cups, cutlery.
+There are culinary delicacies on the tray.
+A book.
+Herbs.
+Cookies.
+A spice.
+A piece of ham.
+An aromatic root.
+An open book with the title: "Priority of the Subgrammatical Punctuation in the Context of Homogeneous Literary Definition."
+Different books.
+This book criticizes the right of vertebrates to exist.
+A large, finely-crafted table.
+A sharp kitchen knife.
 A bottle.
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-
-
-
-
-
-
-
-
-
-
-
+A damaged bottle.
+A wooden box.
+A glass container.
+A cushion.
+A door.
+A stove for heating food and drinks.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+"Greetings! Drop by Althea in the southeastern wing of the building. She has interesting offers for visitors."
+"I like to work in this house. I have seen many places in the world, but this island is the most beautiful."
+"Greetings, visitors! Have you come to meditate? Speak to Nemos; he knows the places of enlightenment."
+These plants pump up water.
+PHASE 2!
+PHASE 3!
+Tom and his companions have barely gotten use to the elegant architecture of the house, when they reach a kind of meeting room. A small meeting of humans and Iskai await them...
+"Greetings again, Tom Driscoll. Now, before we tell you about this place, let me introduce the people who belong to our gathering. ^ ^ In addition to Sebai-Giz Frill, whom you already know from Jirinaar, they include, Drannagh, scholar of magic and master of the art of creating magic objects."
+"Welcome to the Enlightened Ones."
+"Sebai-Dre Birrh, a master of healing."
+"Dsarii-ma, Tom Driscoll."
 !
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Irkith, scholar of sagas and stories from olden times."
+"Greetings, visitors."
+"And, finally, Harriet, our youngest member. She hears the voice of Animebona."
+"Greetings, Tom Driscoll and Rainer Hofstedt."
+"I will try to explain where you are and what we want from you, Tom. The need for brevity will make my words seem immodest. ^ ^ We are a group of people who call themselves Dji Cantos, or Enlightened Ones. The very name of our organization, a mixture of an Iskai and a human expression, indicates that our organization was founded a long time ago by humans and Iskai. The members of our group have a deeper knowledge of the structure of this world than ordinary scholars. Whenever an extraordinary person achieves a certain level of knowledge we reveal our secrets to them, making them one of the Enlightened Ones, the Dji Cantos. ^ ^ Our society began when the humans migrated to Albion. The great Cantos, leader of the humans, founded our group almost 2000 years ago, together with the two greatest scholars of the Iskai. They shared the knowledge of the power which made the human beings' voyage here possible. It is also the source of the magic on this world. They, and we as their heirs, know of the existence of Animebona, the Entity of this World. "
+"Please continue. What's the significance of Animebona?"
+"Animebona is the sum of all life on this world, and yet she has her own mind and goals. Traces of her essence are found in many religions on Albion, be it the Goddess of the Iskai or the Danu of the humans. ^ ^ It was she who spoke with Cantos and led the humans here through the Land of the Fog.
+"Excuse me, but there will be time enough later for you to satisfy your thirst for knowledge, Honored Rainer. ^ ^ For now, you only need to know that with the knowledge of this world we also have assumed a certain responsibility. Since Frill announced your arrival in Jirinaar to our group, we have observed you and conducted inquiries."
+"You know where the Toronto, our great spaceship, is located?"
+"We do, indeed, know where the gigantic metal object has landed, Tom Driscoll, and even though it has landed in the Great Desert, it concerns us. ^ ^ The ship is the embodiment of all reasons why Cantos led his people from Animenkna uncounted years ago. Now the Helromier have caught up with us, or at least it seems so."
+"I don't completely understand what you mean, Nemos. Haven't the inhabitants of Albion discovered the Toronto yet?"
+"According to our knowledge, no. But we are not all-knowing, Tom Driscoll. ^ ^ Up to now, your actions have proven you to be a trustworthy man. Therefore, we would like you to establish contact between our people and yours. We would like to know the goals of the Helromier on our world."
+"According to our knowledge, no. But we are not all-knowing, Tom Driscoll. ^ ^ Up to now, your actions have proven you to be a trustworthy man. Therefore, we would like you to establish contact between our people and yours. We would like to know the goals of the Helromier on our world."
+"Gladly. By now a research station should be set up. I am sure my people will want to document everything and they will also pose a huge number of questions. A group of the best scholars of this world is, naturally, an ideal information source. ^ ^ Would you be so kind as to help us continue our journey to the Toronto's landing place?"
+"Thank you for your good intentions, Tom Driscoll. As a sign of our trust, I would like to give you this little stone. It serves as a sign of great recognition of our society and it will also help protect you against misfortune." ^ ^ {INK 001} Nemos places a small stone on Tom's chest. It sticks to his skin tightly! {INK 002} ^ ^ "Your giant ship is located in the hot lands of the Umajo, far to the northwest of here. ^ ^ In order to make the trip there as fast as possible, and assuming you agree, we would like you to take Harriet with you as a companion. ^ ^ As a member of our group, she has access to perhaps the greatest magic Animebona makes available to us: ^ ^ The caves of the Goddess allow fast transportation, just as when Animebona brought Canto and his people here."
+"It's getting to the point where nothing surprises me anymore."
+"Patience, Rainer. Nemos, we gladly accept your offer. ^ ^ Harriet, welcome to our little group."
+"It will certainly be an interesting trip, Tom Driscoll."
+Harriet becomes a member of the companions.
+"Although we intend to make contact with the Helromier soon, we must still make time for some reflection and discussion."
+"I would like that very much! I would like to learn some more!"
+"We will now return to our daily work, but everyone here will be glad to answer your questions, Tom, and particularly you, Rainer. ^ ^ Look around the house and get strength for the journey - perhaps by a little meditation surrounded by nature. It has been particularly blessed by the Entity. Her forces will be strongest there. ^ ^ If no one has any objections, I now conclude the meeting."
+No one objects and the group slowly breaks up.
+"This is the entrance to a cave where we can begin our journey with Animebona's help. Tom, are you sure you want to leave now, or would you like to spend a little more time here?"
+Go into the cave and continue the journey?
+Just as they all are heading in the direction of the cave entrance, Rainer speaks:
+"Tom, let me say something. I am strongly attracted to this place of knowledge; there is so much that I could learn from the people here. ^ ^ To be brief, I have decided to stay here. ^ ^ I would like to go deeper into this world's secrets and I can return onboard the Toronto soon enough. Also, the members of the contact team would then have a knowledgeable contact here. ^ ^ I think you can manage without my assistance, right?"
+"We've really gone through a lot together, Rainer, and I will miss your companionship. I should have known that you would find it hard to leave these scholars behind. Too many colleagues here, hmm? ^ ^ I wish you all the best. We will see each other soon: I'll come back with the first contact team."
+"I'm crossing my fingers for you, Tom. See you soon! ^ ^ Oh yes, here... take my equipment. I won't need it anymore."
+Rainer says good-bye to all of the companions and distributes his belongings among them. Then he returns to the house. Tom and the others enter the cave...
+"It might be better to wait a little, Harriet."
+Tom and his companions storm into the meeting hall of Cantos' House. The Enlightened Ones are quickly called together. ^ ^ Tom breathlessly reports the company's plans which the AI and Captain Brandt are about to carry out: the destruction of the planet is to continue.
+"Our worst fears have been confirmed. Animenkna has finally caught us. We should have guessed that we'd be facing the same situation as our forefathers."
+"And you are sure that a few dozen Helromier, no matter how big their ship is, represent a threat to our entire world?"
+"You must understand, Birrh, that this ship is capable of growing. The installation is expanding itself more and more. It is a self-maintaining process. It will take a while, but the damage to Albion is immeasurable."
+"Tom, you are apparently angry about the behavior of your Helromier companions. Does that mean that you are on our side?"
+"I have experienced a great deal on this world, Nemos, and my travels have brought me close to Albion and its inhabitants. Because of this, I would have certainly protested against continuing the project, but after how they treated us on board the Toronto, I'm ready to do anything. The ship's management is out for blood!"
+"What exactly happened?"
+"To make a long story short, Joe here freed me. Then we tried to switch off the AI so we could tell the crew about this world. ^ ^ You have to know, Honored Dji Cantos, that not everyone on board the Toronto is ready to sacrifice a life-filled world intentionally. ^ ^ In any case, we failed. The AI told us to our faces that the company management will do whatever is necessary, whether it is within the law or not. Apparently, it is a matter of life and death for the entire company. During our escape, we saw why the AI spoke so openly about the plans of the company: it was a trap. ^ ^ We escaped with our lives only because of the little stone you gave me, Nemos."
+"I was counting on the company's dirty tricks, but I hadn't guessed that it would make such a direct, overt attempt."
+"Think about it. It was a fool-proof plan: the accidental death of the inspector working with an irreplaceable COM unit. No way to communicate with Earth. By the time there is an investigation, the whole thing would be over. The government can't afford to send anyone out here."
+"Now the question is: What do we do?"
+"You Dji Cantos have told us about Animebona, the Entity of this World. Didn't you say that she has a kind of consciousness? Would she allow the destruction of her world, her self?"
+"Oh, naturally, Animebona will try to defend herself."
+"I had disturbing visions while I was waiting for you, Tom. The world, the Entity feels... pain."
+"Think about what happened the when we started mining the raw material, Tom. I only understand half of what is being said here, but the difficulties we faced at the start were not normal. ^ ^ Things got better after we threw more equipment at the problem."
+"Animebona is not all-powerful. She is not acting against some diggers armed with shovels, trying to profane her body. ^ ^ She is facing the embodiment of Animenkna, her antithesis. Her magic can do little against the principle of Animenkna, the apex of that from which our people fled long ago."
+"Does that mean that we are helpless against the metal colossus?"
+"We must think. I'm happy that three Helromier, including a scholar, have come over to our side. Perhaps, together, we will find a way to conquer the threat."
+While Tom and Joe rest, the Enlightened Ones and Rainer hold a lively, intense discussion. The next day, Tom and the companions face the exhausted group's decision.
+"We think we've found a promising solution. It will certainly be the most difficult magic operation we have ever undertaken, but it does give us a chance."
+"Didn't you say that magic couldn't fight the Toronto?"
+"That was precisely our problem. However, with the honorable Rainer Hofstedt's help, we have come up with a plan. We should not attack Animenkna, the technological principle of the Helromier; we should make it a part of the magic process, so we can turn the metal colossus into something different."
+"Unfortunately, the plan has one, or rather two, glitches."
+"What Rainer Hofstedt is trying to say is that we will create a magical artifact. Its power will be great, but not entirely predictable. And it has to be applied to a large energy source in the metal ship."
+"To be exact, the fusion reactor of the installation."
+"Slowly, slowly. So the first glitch is that {FAT } we {NORS} need to return to the Toronto. And {FAT } what {NORS} do we have to take to the reactor?"
+"We will try to create something, which we call the SEED. It is an amalgamation of very different magic principles. We have most of the knowledge for creating the seed at our disposal. ^ ^ However, we lack two key pieces of information. They are held by two different cultures that rarely associate with one another. ^ ^ The Metalmakers or Umajo are the first. As has been said, we have to involve the Animenkna principle in our work to effect the metal ship. The Umajo work on the frontier between Animenkna and Animebona, the Entity. They deal both with technology and magic. From them, we need to learn how to influence metal with magic. ^ ^ And, I'm afraid, the Umajo may not want to share this knowledge with outsiders."
+"Understood. And the second piece of information?"
+"There is also the matter of knowing how to harness large amounts of energy. Only the Kenget Kamulos have this knowledge."
+"The assassin Cult!"
+{INK 001} A slight smile steals over Khunag's face. ^ ^ {INK 002} "This is the Kenget Kamulos' core area of magic."
+"The Kenget are trained in economic survival as well. We will try to make them an attractive offer. Our community is more wealthy than it appears."
+"I might possibly be able to make a deal with my former brothers. I could try."
+"So, Nemos: we must first get the missing knowledge, and then, as we say, jump into the lion's den. We will use a magically charged object on the Toronto's reactor, and if I have understood you correctly, no one knows exactly what this will do. ^ ^ Am I right?"
+"Hmm, in your direct way, hmm, yes, that sums it up. You and your companions are battle-tested and are in possession of the necessary knowledge. However, we would naturally understand if..."
+"O.K., O.K., we'll spare you any concern. I can hardly say 'no' now. If the others are ready to take the risks, the enterprise can begin."
+No one backs out.
+"Good. So let me summarize this: ^ ^ We are to go to Umajo and try to get the knowledge concerning magical treatment of metal. Also, we are to stroll into the center of a murderous cult by the name of Kenget Kamulos and make them an offer which, hopefully, they can't refuse. ^ ^ Then, you will try to develop this magic seed so we can take it to the Toronto's reactor and just wait and see what happens next."
+Everyone nods in agreement, then Joe speaks.
+"Here's an idea: While you are risking your necks, old Joe will work as camera man. I will record a documentary with the camera I have. With a little bit of luck, we can load the documentary into the onboard network when we break into the Toronto. If we succeed in blocking AI access to the console for a couple of minutes, we can explain things about the planet and urge everyone to leave the ship."
+"Sounds good. Make it so."
+"Friends, there is no reason to delay any longer. Let's go and get the two pieces of information we need."
+The Dji Cantos hand over 1500 gold and then the meeting breaks up. Tom and the companions are ready to go and head for the cave of the Goddess.
+Tom and the companions call the Enlightened Ones together and proudly hand them the two scrolls with the necessary information. ^ ^ The exhausted companions and the Dji Cantos study the scrolls. Sometime later there is another meeting...
+"Thank you once again for the scrolls! We have been preparing for this for many days. You have performed your part in creating the seed with great bravery. Now it is up to us to complete the job."
+The Dji Cantos, with Harriet among them, form a circle in the meeting room and delve into deep concentration. Soon the entire room is filled with a blinding light!
+Exhausted, one after another leaves the circle. After a while, only Nemos, Drannagh, and Harriet remain. Slowly the brightness dims and reveals the all-powerful product made from the unified efforts of the greatest magical talents of this planet.
+"It is created. Thanks be to you, Animebona!"
+With ceremonial demeanor, Nemos presents the companions with an unimpressive object which looks like a large seed.
+"This is the Essence of Animebona. May Magic gain victory over Animenkna's Principle of Rationality this one time. Use the seed well."
+"Thank you, Nemos. ^ ^ Ahem, this seed sure doesn't look very powerful, don't you think?"
+{INK 001} Unexpectedly, Nemos laughs. {INK 002} ^ ^ "Just wait! The tree which grows from a normal seed, is more impressive than what it grew from. ^ ^ Now it is time for you to take the seed to its destination. Tom, carefully consider which companions you intend to take with you on this dangerous enterprise. Assemble the proper party, then delay no longer. ^ ^ We put all our hopes in you and your companions."
+"We will give it our best. As soon as I have put together the best team, we will travel to Umajo Kenta, then under the mountains into the Toronto's area. ^ ^ When we were fleeing the ship before, Joe and I saw a possible way to penetrate the installation."
+"There is a side entrance with a small lock, which was originally designed as an exit for the Toronto's security forces."
+"We will try to get in there. Before we push towards the reactor, we will try to show Joe's documentary so that the crew can be warned. This may also create some commotion which we can use to our advantage. ^ ^ Joe, is the documentary ready?"
+"Yes. I've edited the material so that the most important part comes at the beginning. Even if the AI succeeds in stopping the transmission shortly after it begins, the message should be clear. Here..."
+Joe hands the documentary and a small chip to the companions.
+"The chip should isolate the console we use from the AI's control for some time. ^ ^ Good, my part is complete. Only one more thing: I am not a good warrior and I do not have the magical abilities of other people here. However, Tom, I would like to come along since I can help out on board the Toronto. It is up to you, Tom. Please think about it."
+"Thank you, Joe. I'll think about your offer. ^ ^ And now: Off to the Toronto!"
+All those present wish luck and success for the mission. The attack on the Toronto can begin any time now.

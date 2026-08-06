@@ -1,169 +1,169 @@
-﻿
-
-
-
-
-
-
-
-
+﻿-free-
+Branches and roots.
+A woven basket.
+A glass vessel for water and other drinks.
+A barrel.
+A magnificent animal pelt.
+A bucket.
+A clay bowl.
+A flask.
 A plate.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A pair of pliers.
-
-
-
+A clay mug.
+A mug.
+A table knife.
+A fork.
+A spoon.
+A clay container.
+Rocks.
+A bowl.
+A farming tool.
+An ax.
+A chest cover.
+A wooden chest.
+A lavishly decorated wooden chest.
+The rest room.
+A cover.
+A large wooden tub.
+A large metal kettle.
+A cupboard.
+All kinds of insignificant items are on these shelves.
+A bureau.
+A broom.
+A grill.
+You can grill meat on it.
+A fireplace.
+A tipped-over carafe.
+A ladle.
+A decorative wall sword.
+A wooden table.
+A stool.
+A folded stool.
+A massive dining table.
+A tree stump.
+Two crossed spears.
+A large barrel filled with strange liquids.
+A faucet.
+A bedcover.
+A comfortable and beautifully decorated bed.
+This bed is plain, yet practical.
+A kitchen table.
+A fireplace.
+The fireplace radiates a pleasant warmth.
+A decorated pot.
+Dried herbs.
+A human skull.
+A decorative shield.
+A metal pot.
+A decorative sword.
+A door.
+A kettle.
+A knife.
+A short dagger.
+A dagger.
+A large dagger.
+A short sword.
+A sword.
+A stiletto.
+A throwing dagger.
+A small ax.
+An ax.
+A small bow.
+A bow.
+An arrow.
+A small, leather shield.
+A leather shield.
+A round shield.
+A large shield.
+A leather cap.
+An embossed cap.
+A metal half-bowl.
+A leather vest.
+Leather armor.
+An embossed leather vest.
+A pair of shoes.
+A pair of boots.
+An empty bottle.
+A green healing potion.
+A turquoise healing potion.
+A blue healing potion.
+A key.
+A rope.
+A ring.
+A torch.
+A hammer.
+Stairs. They lead upward.
+Stairs. They lead downward.
+A counter.
+A carpet mat.
+A houseplant.
+A flowerpot.
+A decorated ornament embedded in the floor.
+A beautiful ornament, decorated with a large crystal, embedded into the ground.
+A metal table.
+An anvil.
+A metal shield.
+A metal chest.
+A chimney for the forge.
+A wall hanging.
+An unoccupied cushion. It is very beautiful and normally used as decoration.
+Some valuable pieces of jewelry.
+Display boards with weapons and shields.
+An empty display board.
+A fire bowl.
+An extinguished fire bowl.
+A loose handle.
+A handle.
+A water place.
+A hammer.
+A small hammer.
+A hammer.
+A special hammer.
+Tongs.
+A file.
+A small file.
+A leather hole punch.
 A screwdriver.
-
-
-
-A tumbler.
-A spanner.
-
-
-
+A small screwdriver.
+A metal saw.
+ A precision tool.
+A beaker.
+A wrench.
+Shears.
+A bowl.
+Fine shears.
 A bottle.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Several bottles.
+ A vial.
+A red vial.
+A metal box.
+A metal object.
+A wire object.
+A metal bowl.
+Brass balls.
+A bowl with water.
+A bowl.
+A mortar.
+A magnifying glass.
+Forceps.
+A heavy, short sword.
+A decorated sword.
+A double stiletto.
+A long sword.
+A display cabinet.
+Shelves with valuable metal smith work, ornaments, and jewelry.
+A mining cart.
+Rails.
+A buffer stop.
+A chair.
+A diamond polishing machine.
+The exit.
+"Sskkeima Din...Brothers and Sisters...isn't it a wonderful day?"
+"I'll never play again! I've lost over 1000 gold coins. That's almost as much as I had to give Nelly that time she hit me over the ear. I tell you, people around here don't play fair. Don't let them talk you into a game!"
+"Have you talked to Konny yet? She generally comes here when she has time. She likes talking to people about their travels. When you meet her, just talk to her."
+"Heh heh, as I see, you've already been stung by some insects. Fortunately, most of them are harmless. There are a lot of gnats and insects flying around the desert. That's why the meat-eating plants do so well there. Just look how they catch the insects."
+"Don't you see that I'm thirsty? Out of the way!"
+"Skeima Din."
+"Hopefully, I will be as big as you are soon! Then I can go wherever I want."
+{INK 002} The small girl looks at you, terrified, but doesn't say anything.
+"It's so boring here. There's nobody to talk to, and none of my friends are around here. My parents never leave me alone..."
+"If I were you, I wouldn't go into the southern part of the desert! For some time, there has been a loud, horrible roaring sound and I saw some huge object drop right out of the sky. It blinked, and flashed, and spun around. I've never seen such a huge thing! Most people don't believe me, but I saw it with my own eyes. No one can deny that they've heard that mighty thunder, but everyone has their own explanation for it. They just don't want to admit I'm right. I'm sure it's something bad. I wouldn't go there if I were you. Well, I won't say anything more since they already think I'm a pessimist here. But, if you want, you can talk to other people about the thunder noise."

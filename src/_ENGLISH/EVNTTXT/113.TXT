@@ -1,0 +1,6 @@
+﻿{BLOK000}"Didn't I say that? I work as a scribe in the council circles."
+"Dsarii-ma, visitors. I am a scribe here in the council circles. Can I help you?"{BLOK010} "Exactly what does a scribe do?"{BLOK011}"Those are beautiful clothes you're wearing."
+"Dsarii-ma, visitors."
+"Many decisions are made in the council circles every day. All of them must be written down, which is exactly what I do. It is not a particularly exciting job, but it is highly regarded."
+"I am surprised that you, a human, have an eye for that. Oh, forgive me, I didn't mean to just blurt that out. I'm pleased by your remark. You know, I used to go around naked, but recently I've wanted to be a bit provocative. So now I wear clothing."{WORDnaked}
+"Oh, thank you very much. You know, I used to go around naked, but recently I've wanted to be a bit provocative. So I wear clothing now."{WORDnaked}

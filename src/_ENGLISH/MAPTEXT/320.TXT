@@ -1,56 +1,56 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿-free-
+A broad-leafed tree.
+A climbing, grasping plant.
+Leafy plants.
+A cactus.
+Small ground plants.
+Rocks.
+A tile roof.
+Bridge railings.
+A staircase.
+An old, tipped-over tree trunk.
+Fallen tree foliage.
+This plant has pulsating motions which pump water out of the ground.
+A waterfall.
+Ledges.
+A door.
+A column.
+A broken column.
+Water flows out of here.
+An oil lamp.
+A shield.
+A waving banner.
+A stool.
+Rapids.
+A table.
+An open book.
+A book.
+Water.
+Large fungus plants.
+A water plant.
+A blooming water plant.
+A metal rod.
+A stone plate.
+{CNTR} On the shield it says: ^ ^ {INK 006} Small path. ^ Cantos' House: North.
+After a time of quiet reflection and deep concentration, {LEAD}{NAME} suddenly feels {HIS } thoughts become clearer.
+The meditation is unsuccessful. ^ ^ {LEAD}{NAME} feels that the energy which once surrounded this place is now exhausted.
+{LEAD}{NAME}'s meditation is unsuccessful. ^ ^ It appears that the energies of this place have to be regenerated again.
+{CNTR} On the shield it says: ^ ^ {INK 006} ^ Great Path. Cantos' House: East.
+{CNTR} On the shield it says: ^ ^ {INK 006} Great Path. ^ Cantos' House: North.
+{CNTR} On the shield it says: ^ ^ {INK 006} WEST: Long Path.
+{LEAD}{NAME} concentrates a while and emerges from the meditation with great strength.
+After {HIS } meditation, {LEAD}{NAME} feels as if {HE  } has more control over {HIS } body.
+{LEAD}{NAME} meditates a while and notices that {HE  } can move quicker!
+A feeling that is difficult to describe overcomes {LEAD}{NAME} after {HIS } meditation. {HE  } feels more optimistic, as if {HE  } will have fewer problems in life.
+{LEAD}{NAME} feels that {HIS } spirit has become steadier after {HIS } mediation.
+After {HIS } meditation, {LEAD}{NAME} feels more closely connected to the forces of magic than ever before.
+A little island looms out of the fog. A place of incredible beauty is revealed to Tom and his companions. The island is subdivided by canals and covered with majestic trees. Elegant bridges span the landscape, small buildings merge into the surroundings, and a large house can be seen in the background. ^ ^ A peaceful, sheltered atmosphere lies over the place. ^ ^ Frill leaves the boat and the others follow him. The little ship immediately sails off, and Frill turns to his guests:
+"Welcome to the island of the Dji Cantos, or the Enlightened Ones. You are about to see what not many have ever seen. Follow me into our house, where you will meet someone you already know."
+The companions follow Frill without speaking, and are absorbed in their surroundings...
+Tom is surprised to see Nemos, whom he had known to be the chief of the Druids of Gratogel, standing before him. ^ ^ Apparently, he also belongs to the secret society who live on this island.
+"Welcome, Tom Driscoll, and your companions."
+"Togi Din, Nemos. Wonderful to see you again, even if, I must confess, the circumstances surprise me a little."
+"That is understandable. We have a lot to tell you."
+"Just as you, Tom Driscoll, have much to tell us. ^ ^ Now, please follow me into the house. We can exchange a lot of information there."
+{LEAD}{NAME} feels his stamina has grown after {HIS } meditation!
+Flowers of the Goddess.

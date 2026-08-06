@@ -1,0 +1,4 @@
+﻿-free-
+"Skeima Din, ^ ^ I hope you are here on business." {BLOK010} "We are interested in ornaments and jewels." {BLOK011} "What is your profession?" {BLOK012} "Thank you very much for the conversation."
+"Farewell."
+"I polish rough jewels and make jewelry out of them, or I sell them as they are."

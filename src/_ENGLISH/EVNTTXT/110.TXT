@@ -1,0 +1,7 @@
+﻿"{BLOK000}Actually, I am a huntress. But now my husband and I take care of the Clan's business affairs."
+"Dsarii-ma, guests. I am Larina, Wrinn's wife. I've already been told that you are willing to help us in our financial difficulties, and I'd like to thank you for that."{BLOK010} "We have to thank you for your help, Larina. Would it be indiscreet to ask what caused the financial problems?"{BLOK011}"Pardon me if this is too personal, but what do you think about the fact that your spouse is a Sebai?"{WORDmarriage}{WORDSebai}
+"Oh, certainly you have some right to know. Of course, I must ask you to keep this between us. ^ There is really no specific reason, but in recent years the Clan's expenses were simply too high. You see, Wrinn is an outstanding Clan leader, otherwise he would not have become a Sebai, but he values the public image of our Clan. There was a great festival after the Sebai ritual, and some house expansions by the Dji-Fadh, which were very expensive, especially the great fountain."{WORDDji-Fadh}{WORDSebai}
+"I consider it a great honor to be the wife of a Sebai. The body, which Wrinn now inhabits, is a child which he and I created - an ideal combination. Moreover, Wrinn married me when I was very young and now I'm looking forward to many more years at his side."
+"Oh, by the way: I wish you good luck in hunting for Akiir's murderer!"
+"Dsarii-ma. Can I help you?"
+"Live well, guests of the South Wind Clan."

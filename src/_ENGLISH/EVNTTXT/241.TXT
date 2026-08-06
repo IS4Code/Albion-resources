@@ -1,0 +1,7 @@
+﻿{BLOK000} "I am a member of the Council of the Just. I cannot tell you any more about it, and you don't need to know."
+"Skeima Din, do you have an urgent problem?"
+"Skeima Din, I have a lot to do. Please don't disturb me unless your business is important."
+"Unfortunately, I am very busy right now. I don't have any time for you."
+"Then don't disturb me again."
+"That's my name."
+"Please don't ask me, I'm too busy."

@@ -1,92 +1,92 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
+﻿-free-
+Grass.
+Rocks.
+Low ground plants.
+Small branches and roots.
+Sedges.
+A small fruit tree.
+A round-topped tree.
+A broad-leafed tree.
+Rapids.
+A whirlpool.
+A water plant.
+The water is very deep and the current appears to be strong.
+Water plant sprouts.
+A blooming plant.
+A shade tree.
+These plants gleam in fascinating shades of color.
+Vegetables.
+A boulder.
+The water is very calm and clear enough to see the bottom. Numerous boulders lie in the water and there is almost no current.
+A fruit tree.
+A fence.
+A stalk plant. 
+A climbing, grasping plant.
+A bush.
+A large-leafed plant.
+A waterfall.
+A rock ledge.
+A plant growing on the ledge.
+This climbing plant has anchored itself into the irregular rock structure with thousands of roots. It appears to be very stable and has many branches to offer sufficient support for rock climbing.
+A wooden bridge.
+Grain fields.
+Mushrooms.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{CNTR} "Oink?"
+{CNTR} "Rrriick?"
+-An extended dialog screen will appear here-
+"Togi Din, travelers. Visit my uncle, the weapon smith. He is the best smith in Gratogel. His house is the large one southeast of the village."
+"Leave me in peace, strangers. I have work to do."
+"Togi Din! Ha, the tall one with the fur looks very funny!"
+"La, laa-la!"
+"Togi Din! Welcome to Vanello!"
+{CNTR} On the shield it says: ^ ^ {INK 006} House of Oibelos, Tribal King of Vanello.
+{CNTR} On the shield it says: ^ ^ {INK 006} Tamno, Weapon Smith of the Umajo.
+{CNTR} Here it says: ^ ^ {INK 006} Gradia, Tools and Useful Objects.
+{CNTR} In large letters it reads here: ^ ^ {INK 006} Tharnos, King of Klouta.
+{CNTR} The shield says: ^ ^ {INK 006} Bragona, Food, and Provisions.
+{CNTR} The shield says: ^ ^ {INK 006} House of Aretha, Queen of Aballon.
+{CNTR} Here it says: ^ ^ {INK 006} The Fruits of Aballon.
+{CNTR} On the weathered shield it is barely possible to make out: ^ ^ {INK 006} I Buy and Sell Many Things.
+{CNTR} In sweeping letters it says: ^ ^ {INK 006} Arjano, Guardian of Knowledge, School and Center of the Druids of Albion.
+"This little hut holds an important center of knowledge? That can hardly be possible!"
+A locked door in the entryway blocks access to the hut.
+"Togi Din! Visitors from foreign countries again, how exciting!"
+"Togi Din, travelers. Isn't it a beautiful day?"
+"Togi Din. Excuse me, but I'd rather not talk right now. My husband drowned recently and I..." ^ ^ {INK 001} Tears run down the young woman's face.
+{INK 001} A small girl is running around exuberantly. She cries: ^ ^ {INK 002} "Togi Din! Make way for the great warrior! Yeehaaa!"
+"Togi Din! Do you want to travel over the sea with my father? Ah, I would like him to take me along once."
+Finally, Tom and his companions feel solid ground under their feet again. ^ ^ They say good-bye to the crew and look around...
+"Look at that, Tom! I am not very knowledgeable in history, but these huts look like Celtic round huts! ^ ^ Not only are there humans on this planet, but apparently, there are even descendants of the Celts! That's completely impossible!"
+"As impossible as the strange phenomena that we have observed with the Iskai? The magic? ^ ^ Don't look at me like that, someone had to say it! This planet obviously does not work like ours, and it doesn't seem to be at all ashamed about it. ^ ^ Come on, let's be a little more pragmatic about this. When we have found the Toronto, we'll have enough time and means to get to the bottom of all the riddles this world has to offer."
+"Maybe you're right. It's probably time I expand my outlook on natural science a little. I shouldn't resist learning something new. ^ ^ A proposal of pragmatism: I think we should speak with the village's chief. He will probably know if something big enough to be the Toronto has been seen around here. If the people here have something to do with the Celts, there must be a tribal king or someone like that."
+"If they haven't heard anything about your giant airship here, we can try to get to Maini, the large continent east of here."
+"That's a perfectly normal Earth pig!"
+"If people have somehow managed to get here, I guess it's not surprising that they've brought their domestic animals with them."
+A canyon through the high plateau opens before {LEAD}{NAME} and {HIS } companions. The wind whistles through the narrow, closed corridor.
+Tom and his companions board the ship and later begin the trip to Beloveno, the great harbor city.
+Drirr again uses the passing time to teach everyone the Maini language. ^ ^ The time flies by until finally Maini looms on the horizon. ^ ^ Before long, a magnificent view of the new land and of Beloveno, the harbor city, appears.
+Garris maneuvers the ship skillfully into the harbor and says farewell to his passengers.
+"Well, that's over with. Let's take a look at the city."
+Suddenly several shabby mean-looking persons jump out of a hiding place! ^ ^ They attack!
+A small animal with an armor-like shell. It ignores its surroundings.
+A large, insect-like flying animal. It ignores {LEAD}{NAME} and the others.
+A bush with ripe seeds which sparkle slightly.
+A harvested bush.
+This is an oak tree from Earth!

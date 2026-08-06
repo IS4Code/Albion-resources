@@ -1,0 +1,9 @@
+﻿!
+"Hello! I'm glad you dropped by!"{BLOK010}"Well, how do you like living here, outside the Toronto?"{BLOK011}"How are you doing with the documentation?"{BLOK012}"We have to get going. Take care, Joe!"
+"Fantastic! The planet really exceeds all of your descriptions, Tom. I was never a nature lover, but this is unbelievable. Hofstedt and the people here are taking good care of me, I can take it here a little while longer!"
+"Very good. There are so many things to record! The most difficult thing is to summarize the material so that our people onboard the Toronto can quickly understand what an unbelievably beautiful world this really is. We also have to deal with the fact that the AI is going to try to interrupt the transmission."
+"Take care, Tom!"
+"Hello! Now things are getting serious, right? Listen: I know that I'm not a great fighter, but I can certainly be helpful in getting to the Toronto's reactor. I'll come with you if you want."{BLOK010}"You're right, Joe. Your knowledge can probably help us. Come along!" {BLOK011}"We're still thinking about who we'll take along. Please wait a minute."
+"Alright!" {INK 001}Joe joins the companions.
+"If you say so. Maybe it's better for my health when I stay here. ^ ^ Take care."
+{INK 001}The group is already complete!{INK 002}"Hey, you've already got a whole lot of people. There's no more room for me."

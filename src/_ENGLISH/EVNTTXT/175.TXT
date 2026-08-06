@@ -1,0 +1,6 @@
+﻿{BLOK000}"I am the guardian of the grove."
+"Togi Din. Please behave yourself according to the ways of the grove - peacefully." {WORDgrove}
+"This is the place where our ancestors first entered this world. This is the Qrenno, the tree from our ancestors' land. It is our greatest shrine and serves as a symbol of Danu's favor. I have the great honor of guarding it, and protecting it from danger." {WORDDanu}{WORDdanger}
+"I have ways and means of defending the grove against desecrations, even though I am alone here."
+"A music crystal. What a treasure! I admit it's tempting, since it can get a little lonely here. Don't tell anyone, but I will offer you one of my weapons in exchange for that. It's a powerful magic weapon which can protect you from a lot of danger." ^ ^ {INK 001} Frinos gives {LEAD}{NAME} a magic weapon in exchange for the music crystal!
+"Thank you, but one music crystal is enough to drive away the loneliness from time to time."

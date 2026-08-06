@@ -1,0 +1,8 @@
+﻿{BLOK000} "I'm one of the new members of the Council of the Just."
+"Skeima Din. To thank you for your assistance I have a little present for you..." {BLOK010} "We won't say no to that." {WORDtown hall}{WORDArrek}{WORDMellthar}
+"Skeima Din, I am happy to see you again." {WORDtown hall}{WORDMellthar}{WORDArrek}
+"You may keep it. Perhaps it will be of some use to you."
+"That's my name."
+"That is the other new council member."
+"You probably know this place better than me."
+"You've already got the gift!"

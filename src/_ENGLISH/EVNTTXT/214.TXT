@@ -1,0 +1,9 @@
+﻿{BLOK000} "Oh, I manage the food business here in the city."
+"What? You here? Please help us. We can really use your help now! Throw light on the ominous Kontos - maybe we can be prevent the worst. You can convince the people of Kounos that they are wrong about Kontos! We can't do it, for they would immediately think that we were trying to stir them up. You have no reason for doing that. Certainly you are by now better informed about Kontos than I am?" {BLOK010} "We believe that Kontos is right." {BLOK011} "We are not entirely clear about these matters ourselves." {BLOK012} "Kontos is a great danger, but we can't do anything about it." {WORDKontos}{WORDshrine}
+"Are you sure about your facts??? According to everything that I have heard, Kontos has very different goals. But I am assume that he has convinced you as well."
+"Then collect more information about him. Naturally you won't hear the truth everywhere, but if you listen carefully I'm sure you can get an idea about him."
+"You can! Collect proof against him, ask the people, and show the Mahinos that they have been wrong about Kontos! I have already heard about some plots in which Kontos participated. You have to keep searching!"{WORDevidence}
+"Do something!"
+"I believe the conflict there is escalating! Maybe you can still prevent the worst if you can find evidence against Kontos!"
+"Yes, absolutely. We must find as much evidence as possible against Kontos. Visit as many people as possible and ask them about it! You simply must find something! Show the inhabitants of Kounos the truth about Kontos!"
+"That's me."

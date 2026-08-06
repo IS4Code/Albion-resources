@@ -1,74 +1,74 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿-free-
+Strange, large desert rock formations.
+A sand dune.
+A stone column.
+A large rock.
+A plate flower.
+A sand mushroom.
+An insect-eating plant.
+A flesh-eating plant.
+A blooming cactus, which grows very slowly.
+Plant parts.
+Herbaceous plants.
+Rocks.
+Tufts of grass.
+Roots, pieces of wood, branches.
+A stone castle built of rocks.
+Rapids.
+The water is deep and the current appears to be strong.
+Water plants.
+Water plant sprouts.
+A whirlpool.
+A shade tree.
+These prairie trees thrive on very dry soil.
+A prairie flower.
+A tower rock.
+Gravel.
+A large rock bridge.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Ssssss...
+A blocked entrance.
+"I think it's too risky to get close to the Toronto now. Let's find another way."
+With some effort Tom pulls himself together.
+"So far so good. Let's try to creep up to the Toronto while it's dark."
+Avoiding the work machines and excavations, the companions actually reach the Toronto unnoticed. Tom succeeds in opening a side entrance without triggering an alarm. He closes the hatch as soon as everyone is inside.
+When the companions come out of the tunnel, Tom utters a cry:
+"Look! Back there flies a shuttle from the Toronto!"
+The shuttle approaches. Apparently, the companions have been spotted. It lands!
+{INK 001} Turning to his companions, Tom says: ^ ^ {INK 002} "Come! Don't be afraid! It will be a little tight inside there, but we'll only have to be in there for a short time."
+Tom climbs in and notices that there's no pilot. The shuttle is remote-controlled.
+Suddenly the shuttle door slams shut! Tom is locked in without the companions and the shuttle starts! ^ ^ During the takeoff, a gas fills the cabin. Tom loses consciousness and drops to the floor! He remembers nothing about the flight...
+Tom and Joe succeed in avoiding the Toronto search party. Tom is heading to the cave which leads under the mountains to Umajo Kenta. They reach their destination at dawn.
+Everyone embraces each other excitedly. After the initial joy of seeing each other again, Tom introduces Joe and roughly outlines what has happened.
+"We were afraid of something like that, Tom. I've already had a discussion with the other Dji Cantos. ^ ^ Let's return to the island so we can decide what to do next!"
+What Tom only dared to hope has happened: ^ ^ The companions have waited for his return.

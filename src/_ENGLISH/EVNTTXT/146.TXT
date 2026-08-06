@@ -1,0 +1,8 @@
+﻿{BLOK000}"My craft is to produce weapons."{WORDtrade}
+"Dsarii-ma. I welcome you to the House of Weapons."{BLOK010}"Dsarii-ma. Please show us a selection of your pieces."{BLOK011}"Dsarii-ma. We would like to have something repaired."
+"I am a passionate weapon smith. I love to make things with my hands, especially when I am working with something as valuable as metal."{WORDmetal}
+"It is strange that metal is so valuable on a planet so rich in raw materials."
+"As I said, I am a passionate weapon smith."
+"Yes, insignificant pieces from the Goddess' body, that are converted into shining treasures by an expert's hand! Unfortunately, metal very rarely appears on the surface, and burrowing the earth would mean subjecting oneself to the wrath of the Goddess. That, for instance, is why metal from the sky has special powers." {WORDGoddess}{WORDheavenly metal}
+"A fascinating material, yes."
+"When pieces of metal fall out of the heavens and are not burned up in the air before they hit ground, they often contain very powerful metals. The Dji-Kas can forge special powers out of these objects."

@@ -1,0 +1,9 @@
+﻿{BLOK000} "I'm a gambler."
+"Skeima din. ^ ^ Would you like to play a little game? If you play well, you can win a lot of gold. But you can also lose a lot if you have bad luck." {WORDgame}
+"It's a dice game." ^ ^ First, I throw three dice, and then you throw three dice. If you have reached or exceeded my point number, the stake belongs to you... otherwise it belongs to me. Isn't that fair?" {WORDstake}
+"I'll put up 10 coins and you'll put up another 10. If you'd like to play, then tell me to roll the dice." {WORDthrow the dice}
+"You don't have enough gold!"
+"You didn't have any luck this time. I won, so the stakes belong to me. Thank you for playing."
+"Congratulations! You have won. The stakes belong to you!"
+"What?! You think I'm cute? You are flattering me. I don't believe it. Do you really mean it?" ^ ^ "I don't know what I should say. Here, you can play for free." {WORDfree game}
+"I think one free game is enough!"

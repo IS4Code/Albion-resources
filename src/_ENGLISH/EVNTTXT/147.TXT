@@ -1,0 +1,4 @@
+﻿{BLOK000}"I sell all kinds of food and herbs."{WORDfood}{WORDspices}
+"Dsarii-ma! What delicacies can I serve you?"{BLOK010}"Dsarii-ma. We are interested in nonperishable travel provisions."
+"Well, meat and all kinds of forest fruit that have been made nonperishable."
+"The culmination of every meal! However, they are probably not as exciting for you as travelers."

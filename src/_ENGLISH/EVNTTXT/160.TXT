@@ -1,0 +1,5 @@
+﻿{BLOK000}"I am king of Vanello."{WORDking}{WORDVanello}
+"Togi Din, travelers. You would like to speak with me?"{BLOK010}"We are searching for a large metal object which fell out of the sky. Have you heard about anything like it?"
+"No, I hate to disappoint you. I certainly would have heard about such an incident on Gratogel."{WORDGratogel}
+"Togi Din. What else can I do for you?"
+"Yes, I am the chief of the humans of Vanello."

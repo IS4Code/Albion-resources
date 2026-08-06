@@ -1,0 +1,4 @@
+﻿{BLOK000}"I am the senior healer of Arjano." {WORDhealers}{WORDArjano}
+"Togi Din, travelers, can I help you? Since you are searching for the missing Bero, my healing services as healer are free to you." {WORDBero}{WORDhealers}{BLOK010} "Yes, Makaio. We have wounded among us."{BLOK011}"We need healing for a disease." {BLOK012}"A cursed item is bothering us."
+"Togi Din! Ah, the rescuers of Bero, that old blockhead! Can I help you?" {BLOK010} "Yes, Makaio. We have wounded among us."{BLOK011}"We need healing for a disease."{BLOK012}"A cursed object is bothering us."
+"My talent for healing wounds appeared when I was a child. Since then, the blessing of Danu gives me the joy of being able to heal others." {WORDDanu}

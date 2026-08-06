@@ -1,8 +1,8 @@
-﻿{BLOK000}"I'm a physicist and xenobiologist in service of the government." {WORDGovernment service}
-"Ah, hello, Driscoll! I hope you're feeling fit for our flight!" {WORDFlight}
-"Greetings Driscoll. What seems to be bothering you?"{WORDFlight}
-"I work for the government, because it's one of the few possibilities, to do practical work out here, without being a mercenary of some large corporation like DDT."{WORDDDT}
-"Yes, I'm curious to experience your flying style. For me, the high point is always, seeing a new world for the first time, with my own eyes. Even if it is obviously just a barren world, that your company has so poetically named "Nugget". To see a beautiful planet, like Joshi used to be, might be more interesting.^^But then this huge factory would have come this whole way in vain, although I might have sensed the poetic justice, being the old environmentalist that I am." {WORDNugget}{WORDJoshi}{WORDEnvi}{WORDEquipment}
-"Like I said, I'm curious to see your flying style. For me, the high point is always, seeing a new world for the first time, with my own eyes. Even if it is obviously just a barren world, that your company has so poetically named "Nugget". To see a beautiful planet, like Joshi used to be, might be more interesting.^^But then this huge factory would have come this whole way in vain, although I might have sensed the poetic justice, being the old environmentalist that I am." {WORDNugget}{WORDJoshi}{WORDEnvi}{WORDEquipment}
-{BLOK000}What can you tell me about... {BLOK001}Just take a look at this... {BLOK004}See you later. {BLOK005}What is your assignment?
-"See ya later."
+﻿{BLOK000}"I'm a physicist and xenobiologist in government service."{WORDgovernment service}
+"Ah, hello, Driscoll! I hope you're feeling fit for our flight."{WORDflight}
+"Greetings, Driscoll. What have you got on your mind?"{WORDflight}
+"Well, I'm in government service because it offers one of the few possibilities to do practical work out here without being in debt to one of the major companies like DDT." {WORDDDT}
+"I'm eager to experience your flying skills. It is an absolute high for me each time I see a new world, even if it is a sterile world which your company has given the unbelievably poetic name 'Nugget.' Of course it would be much more interesting to discover a beauty like Joshi used to be. ^ ^ But that would mean this complex would have come all this way for nothing - even if that would make the old environmentalist in me gloat." {WORDNugget}{WORDJoshi}{WORDenvironmentalist}{WORDcomplex}
+"I'm eager to experience your flying skills. It is an absolute high for me each time I see a new world, even if it is a sterile world which your company has given the unbelievably poetic name 'Nugget.' Of course it would be much more interesting to discover a beauty like Joshi used to be. ^ ^ But that would mean this complex would have come all this way for nothing - even if that would make the old environmentalist in me gloat." {WORDNugget}{WORDJoshi}{WORDenvironmentalist}{WORDcomplex}
+{BLOK000}"What can you tell me about..."{BLOK001}"Take a look at this..."{BLOK004}"See you later."{BLOK005}"What is your job?"
+"Till then."

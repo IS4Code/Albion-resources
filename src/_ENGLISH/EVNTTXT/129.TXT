@@ -1,0 +1,32 @@
+﻿{BLOK000}"I am now the head of the guild, but I'm not too happy about it."
+ 
+"We see what we do here as a mixture of magic, art, and craft. We are one of the oldest guilds in Jirinaar and, as you surely know, we are able to create, change, and permanently modify plants into a desired form through magic. This means we can produce complete houses out of living plant material which are not only beautiful, but also perform all the functions necessary for the well-being of its residents."
+"I grieve deeply for my best friend. I really don't know how I'm going to deal with this loss."
+!
+!
+"Sira is Akiir's only daughter. She transferred to the Dji-Kas, which made Akiir very angry."
+
+"With great difficulty, I was able to stop my guild members from arming themselves and storming the house of the Dji-Kas."
+"Our guild house competes with the council building for the title of most beautiful structure in Jirinaar. We are constantly maintaining and changing it, and we use it to demonstrate our knowledge, as you can see in the east wing."
+!
+"Could he really have sent a hired murderer to Akiir? I don't know."
+!
+dummy
+dummy
+dummy
+dummy
+dummy
+"You heard about that? Well, to be honest, Argim's story is an embarrassing part of our guild's history. ^ ^ He was head of the Dji-Fadh almost 150 years ago. At that time, the Dji-Fadh's guild house was located outside the city. It was a magnificent building near a Han, in the middle of the forest. Now, Argim was enormously talented, but he was also very fickle. This was the reason his greatest goal was rejected: to become one of the Chosen. ^ ^ When he found out he had been rejected, he lost control of himself. He swore to achieve immortality in spite of the rejection. In an irresponsible outbreak of his power, he destroyed the entire building and converted it into a strange place which today everyone avoids. They say he stamped his spirit on the place."
+"There are places where the force of the Goddess is particularly strong and where magic acts are strengthened, yet often made difficult as well. This kind of energy center is called a Han."
+dummy
+"Dsarii-ma. Please don't ask me about Akiir. He was my friend and I still can't believe he is dead."{BLOK010}"Excuse me, but we have been ordered to find his murderers. Can you tell us anything that might help us?"
+"Dsarii-ma. I assume you are still looking for the fugitive murderer."{BLOK010}"That's right, Bradir. Has anything occurred to you?"
+"Oh, Goddess! So our laws have drawn you humans into this matter as well. Even though you aren't responsible for what happened! But to answer your question: unfortunately, I cannot help. I really don't know what got into Fasiir."{WORDFasiir}{WORDmurder}
+"I will never be able to forget this affair. You cannot imagine how much I would like to help you, but I cannot tell you anything new."
+"I really wish I could help you. Farewell!"
+{INK 001}When {LEAD}{NAME} silently shows the dagger, Bradir winces and even the humans recognize the tormented look in his eyes. He steps closer and says: ^ ^ {INK 002}"It is strange. The moment I feared the most actually brings me relief. Forgive me, Akiir!" ^ ^ {INK 001}{FAT }Bradir attacks!
+A battle follows where Bradir is made to surrender or is "killed." If he is "killed," it turns out that he is still alive. He then explains Akiir's plan. Finally, there is a map exit to the Sebainah and explanation of the preceding events.
+After the battle, Bradir drops to his knees. The pain drives the confused look from his face and his eyes become clear.
+"We must take him to the healer, quickly. Otherwise, we will never understand why he attacked us."
+Bradir is quickly transported to the healer. ^ ^ As soon as he is treated, there is a gathering in the council building in the room of the Sebainah, where Bradir must explain his actions. ^ ^ In addition to Tom, Rainer, and Drirr, Sira, the daughter of the murdered Akiir, has also been summoned.
+ONLY FOR DEBUGGING! CARRY OUT BRADIR ENCOUNTER?

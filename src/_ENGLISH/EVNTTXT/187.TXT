@@ -1,8 +1,8 @@
-﻿{BLOK000}"I'm in charge of the machinery. I'm testing the systems which transform the ship."{WORDMining structures}
-"Hello, Driscoll. How you doing? Soon we're gonna be on Nugget, and that'll be the end of my peace and quiet."{WORDNugget}
-"Hey, Driscoll. How you doing?"
-"Well, at first, the systems that we brought will be able to mine enough ore, to start building the other robot systems. The self-perpetuating process will then ensue, in which all ores not used to build the plant, get sent back home in the cheap containers."{WORDRobot}{WORDOre}
-"The latest models are huge, with integrated self -repair modules. Those things are indestructable."
-"There should be all possible kinds on Nugget".
-{BLOK000}What can you tell me about... {BLOK001}Take a look at this...{BLOK004}See you soon! {BLOK005}What is your job at the moment?
+﻿{BLOK000} "I am the chief mechanic. Right now I'm testing the operational capacity of the mining units."{WORDmining structures}
+"Hello, Driscoll. How's it going? Soon we'll reach Nugget, then I'll be up to my ears in work." {WORDNugget}
+"Hello, Driscoll. How's it going?"
+"Well, first the systems we brought with us will mine enough ore for further production of robot systems. This will result in a self-sustaining process which will produce more and more ore, which we can shoot home in the cheap containers." {WORDrobot}{WORDore}
+"The new models are gigantic, with integrated self-repair circuits. Those things are indestructible."
+"There's supposed to all kinds of ore on Nugget."
+{BLOK000}"What can you say about..." {BLOK001}"Take a look at this..." {BLOK004}"See you soon!" {BLOK005}"What are you doing?"
 "Bye, Tom."

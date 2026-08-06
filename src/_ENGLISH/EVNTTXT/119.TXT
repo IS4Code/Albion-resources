@@ -1,0 +1,8 @@
+﻿{BLOK000}"In addition to my work as scribe, I also have a passable talent as Tri-Nadh." {WORDTri-Nadh}{WORDwriter}
+"Dsarii-ma. Can I help you?"
+"I assume that you pose this question for the benefit of your human companions, {LEAD}{NAME}."
+"Tri-Nadh are people who, when they touch the Trii of another, can not only feel that person's feelings, but also read all of their thoughts. For the most part, these particularly talented individuals make themselves available to the council circle for laws. For example, in the case of important agreements, they check the contract partners' sincerity."{WORDTrii}
+"I wish you luck in your hunt for Akiir's murderers."
+"Many small and large decisions are made here in the council circles. In order to keep control, we must write a lot down. I like this work very much, even if most find it very strange."
+"As I already explained to you, I keep records in order to ease the council circles' work."
+"Farewell."

@@ -1,0 +1,5 @@
+﻿{BLOK000}"I am a craftsperson and I make clay pots."{WORDpottery}
+"Dsarii-ma! I don't believe it! I thought the stories about you were just a rumor."{WORDrumor}
+"Dsarii-ma! Would you like something else from me?"
+"Yes, I make many of the pots and bowls you see in Jirinaar."{WORDJirinaar}
+"Well, people talk a lot and sometimes they exaggerate even more."

@@ -1,0 +1,9 @@
+﻿{BLOK000}"I am a warrior."{WORDa warrior?}
+"Togi Din, strangers. What do you want?"
+"Don't say it! I know you think that this is an unusual occupation for a woman! Even if our people's women normally tend to the house and children, a woman who has the will and strength may pursue any profession. Look at me, I can handle any man in combat and I've sent many who believed they were superior right to the healer!"{BLOK010} "Ferina, would you like to train me in close combat?"
+"I don't particularly like to repeat myself!"
+"Togi Din! Would you like to train a little?"{BLOK010}"Yes, I could use some practice in close combat!"
+{INK 001}"Good, {LEAD}{NAME}, give me {PRIC} gold and I will teach you some fighting tricks you have never seen before!"
+Ferina may sound arrogant, but she knows her craft. After some training with her, {LEAD}{NAME} feels as if {HIS } close combat capabilities have improved.
+"Drop in again if you want to learn something, {LEAD}{NAME}. Farewell!"
+{LEAD}{NAME} hands over the required amount. The training with Ferina begins.

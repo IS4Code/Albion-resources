@@ -1,10 +1,10 @@
-﻿{BLOK000}"I'm checking the landing system for the fourth time today." {WORDLanding}
-"Hi, sweetheart. Moving your feet a bit, before the shuttle takes off? I'm checking through the systems we're using to land this big tub." {WORDFlight}{WORDLanding}{WORDDream}
-"Bongiorno, good looking. Whatcha got cooking?"
-"If all goes well, which we have to assume, we have to strap ourselves in for about 45 minutes. The landing process should then be complete, and the ships segments will fold themselves out horizontally. That will acheive the proper gravitational direction within the segments. Don't forget to tie everything down inside your cabin."
-"Don't get uptight pretty boy. All main and backup systems are in top condition. It's running like the Martian Marathon."
-"I actually envy you and Hofstedt. You two will be the first humans to see Nugget with the naked eye. I'll keep my fingers crossed during the flight. Just please be careful, Okay?"{WORDHofstedt}{WORDNugget}
-"If your at least half as good a pilot as you've been telling me, then I don't have anything to worry about. But seriously, don't crash or anything. I really like you."
-"You just can't seem to get that dream out of your head, can you? Strange that it always seems to come back. Yeah, I know, it's not a real a nightmare. Well, you'll be able to live with it until it goes away by itself."
-{BLOK000}What can you tell me about... {BLOK001}Take a look at this...{BLOK004}See you soon! {BLOK005}What is your job at the moment?
-"See ya, big guy."
+﻿{BLOK000}"I'm checking the landing systems for the fourth time today." {WORDlanding}
+"Hi, honey. Well, taking a walk before the shuttle takes off? I'm just checking out the systems this giant crate is going to land with." {WORDflight}{WORDlanding}{WORDdream}
+"Bongiorno, sweetie. What's up?"
+"If everything works, and we assume that it will, we will be buckled in for about forty-five minutes. After that, the landing should be complete and segments of the ship will fold out horizontally. Then there will be direct gravitational orientation within the segments. Don't forget to stow away the items in your cabin."
+"Don't worry, my sweet. The systems and backups are in great shape. Everything's working fine."
+"I envy you and Hofstedt. You will be the first to see Nugget. I'm crossing my fingers for you, Tom. Take care of yourself, O.K.?." {WORDHofstedt}{WORDNugget}
+"Well, I guess I don't have to worry if you're half as good a pilot as you've told me. Seriously, dear, don't screw up, O.K.? I really like you."
+"You still can't get that crazy dream out of your head? It's so strange that it keeps coming back. Well, since it's not really a nightmare, I hope you can live with it until it stops."
+{BLOK000}"What can you say about..." {BLOK001}"Take a look at this..." {BLOK004}"See you soon!" {BLOK005}"What are you doing?"
+"Bye, big guy."

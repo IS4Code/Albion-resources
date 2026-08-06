@@ -1,0 +1,9 @@
+﻿{BLOK000}"I am a Sebai-li of the Red Wood Clan, and council member."{WORDclan}
+"Dsarii-ma."
+"Dsarii-ma, hunters of Akiir's murderers."
+"Our Clan is primarily concerned with trade."{WORDtrade}
+"Do you have a poor memory? As I said, our Clan is involved in trade."
+"We trade goods within Nakiridaani, but also with distant cities like Beloveno."{WORDBeloveno}{WORDNakiridaani}
+"Forgot already? We trade goods within Nakiridaani, but also with distant cities like Beloveno." {WORDBeloveno}{WORDNakiridaani}
+"That is a harbor city, far east of here."
+"As I already said: That is a harbor city far east of here."

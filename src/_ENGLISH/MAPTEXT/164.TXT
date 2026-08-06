@@ -1,64 +1,64 @@
 ﻿!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"It's pitch dark in here. We need light!"
+The dark caverns are overgrown with all kinds of plants and look nothing like a building. Many aromas penetrate the passages. Noises and subtle movements indicate that all kinds of life forms have found a home here.
+A strangely shaped bush.
+Nothing happens when {LEAD}{NAME} touches the bush.
+{LEAD}{NAME} touches a rainbow bush.
+A strange odor hangs in the air.
+"That is the scent of predators. We should be careful!"
+The root hangs motionless from the ceiling.
+Glowing, moving, grasping arms project out from the floor here. It tries to catch whatever moves and put it into its mouth at the lower end.
+"An interesting creature. Notice the strong luminosity of the grasping arms. It is hard to say whether we are looking at a specimen of this world's flora or it's fauna, but this life form does seem to be carnivorous."
+"I take it, my dear Rainer, that what you have expressed with such astounding words is that we should probably avoid these clutching arms? Insightful advice, which I will follow gladly!"
+As {LEAD}{NAME} approaches the grasping arms, they grasp {HIM } and pull them toward its mouth!
+"It appears to me that the light of the grasping arms is no accident. I think the creature attracts its prey with it. Light seems to play a great role in the animal world down here."
+"I have an idea. Perhaps we can avoid another painful encounter with this predatory creature if we throw away our torch. The creature may be reacting to the light."
+The grasping arms of the creature are limp and motionless.
+A large, mushroom-like growth.
+An opening has appeared in the wall!
+This is a rainbow bush. Oddly, it is glowing, even though it has not been touched.
+"Look! Wherever we step the floor is beginning to glow! Fascinating!"
+The gullet in the floor is motionless.
+"What a horrible thing! We should definitely go around it."
+"There is a justification for every life form's existence, Driscoll. However, that doesn't mean we should sacrifice our lives just to extend its existence, so I'll go along with you on that."
+"I've never seen anything like it. It looks pretty deadly alright."
+{LEAD}{NAME} approaches the mouth and falls into the giant throat. The force of the closing jaws is terrible!
+{LEAD}{NAME} throws a piece of meat into the hungry jaws. The thing responds immediately. Apparently satisfied, the giant mouth closes!
+The mouth is tightly closed.
+A very strange view greets the eyes of {LEAD}{NAME} and {HIS } companions: ^ The pulsating walls seem to be alive, more than the already familiar green plant walls. An intense hay and herb-like aroma is noticeable.
+Everyone senses that this is a special place. An indescribable feeling overtakes {LEAD}{NAME} and {HIS } companions. All of their senses grow more intense and every heartbeat pounds through their bodies. It is one those rare moments where you can feel that you are {FAT } alive {NORS}. ^ ^ Strange luminous shapes wander through the room. At the other end stands a large transparent structure.
+{LEAD}{NAME} and the others are overcome by the luminous shape! ^ A pleasurable feeling, which rises to an almost painful intensity, flows through all of them. A combination of well-being and unrest arises. The contact leaves the humans with headaches and great dizziness.
+The large structure is remotely similar to the forehead organ of the Iskai. It radiates a feeling of vitality and life force. The heads of {LEAD}{NAME} and {HIS } companions grow dizzy.
+The remains of a human body can be seen behind the rotating form.
+A luminous shape. Getting close to it triggers a slight feeling of dizziness.
+{LEAD}{NAME} cautiously touches the structure's surface...
+"AIIEE! ^ ^ Oh man, that felt like someone set my spine on fire. Oh, God, my head! Damn, that hurts BAD!"
+"Oh, I feel something! ^ It is as if I had touched the Trii of another person, only much stronger. ^ I... I'm getting a distinct contact..."
+"So that is what Argim, or what has become of him, meant!"
+This wall is penetrated by many deep cracks.
+{LEAD}{NAME} strikes a mighty blow against the weak point. The wall collapses and opens a passage!
+A luminous shape. Getting close to it creates a pleasant tickling sensation.
+{LEAD}{NAME} cautiously touches the luminous object. It suddenly expands and encompasses all of the companions before it goes out! A pleasant feeling passes like a wave through {LEAD}{NAME} and the others.
+"What a wonderful feeling! But what in the world was that?"
+"There are stories about the 'Lights of the Goddess,' which exist in particularly blessed places in the world. They elevate the discoverer and bring him luck. This is the first time I have seen such a light. What an experience!"
+"A nice tale, honorable Drirr. However, I wish I had a set of measuring devices so I could investigate the phenomenon..."
+Strange-looking flying animals hover in the air. As soon as they see their visitors, they come closer...
+The flying animal reaches {LEAD}{NAME}. Its curiosity appears satisfied as it utters a strange sound and then flies away.
+"These harmless animals are vegetarians. They generate a luminous gas which allows them to fly like that."
+{CNTR} Attack the structure?
+"What an experience! Just imagine:..." ^ ^ {INK 001}{LEAD}{NAME} reports to the others about the contact with Argim's consciousness.
+{LEAD}{NAME} investigates the pile of old trash, but can find nothing of value.
+These could be the remains of an unfortunate victim of the predators in the cave. ^ ^ {LEAD}{NAME} spots something interesting!
+A needle shoots out and sticks into {LEAD}{NAME}'s probing finger! This causes a sharp pain!
+An old chest, which probably dates back to when this building was occupied. It has a filigreed lock.
+{LEAD}{NAME} and the others see the corpse of the assassin in front of them. The predators have done their work. ^ ^ However, {LEAD}{NAME} sees something sparkling among the remains!
+{INK 001} Drirr:{INK 002} ^ ^ "The Kenget Kamulos had an antique ornamental Iskai dagger with him, a unique piece! ^ Finally, a clue! Perhaps the old scholar, Frill, can make something of it. We should look him up in the council building."
+{INK 001} Rainer:{INK 002} ^ ^ "The fellow had an ornamental Iskai dagger with him. It looks like a special piece. ^ Finally, a clue! Perhaps the old scholar, Frill, can make something of it. We should look him up in the council building."
+{INK 001} Tom:{INK 002} ^ ^ "The fellow had an ornamental Iskai dagger. It looks like a special piece. ^ Finally, a clue! Perhaps the old scholar, Frill, can make something of it. We should look him up in the council building."
+A massive plant. Its surface catches water dripping from the ceiling.
+{LEAD}{NAME} pushes against the plant but it doesn't move.
+Plant touched.
+It was an easy victory. The transparent structure is destroyed. A trembling goes through the area and the living aura leaves the place. ^ ^ Everything around {LEAD}{NAME} and the companions becomes gray and lifeless.
+"This battle does not fill me with satisfaction. In spite of its dangers, this was a place of strange beauty. I am afraid that we destroyed something that gave a special life force to the Formers' old center."
+These appear to be more remains of the assassin.
+Apparently, this belonged to Akiir's murderer.

@@ -1,0 +1,11 @@
+﻿{BLOK000} "Oh, I manage the food business here in the city."
+"Do you know that all of Kounos will occupy the shrine of Srimalinar soon?" {BLOK010} "Where did you find that out?" {BLOK011} "Are you sure?" {BLOK012} "We will prevent that!" {WORDshrine}
+"Yes, the matter is serious. Kontos has convinced his followers to occupy the holy shrine in Srimalinar and to eliminate the evil there. Speak with him. He can explain his actions to you." {WORDevil}{WORDshrine}
+"By now all of Beloveno knows that. A courier from Kounos reported it to us. Go there and ask Kontos."
+"Everybody knows that. News like that spreads like fire!"
+"Certainly, a courier reported that to us."
+"But why? If the shrine is really that dangerous, then it's good that something is being done about it."
+"I believe that something has to be done about it!"
+"It's getting worse and worse with the evil creatures that are coming out of there! Everybody is talking about it! But fortunately Kontos is doing something about it! Just ask him. He can explain the problem to you better than I can." {WORDKontos}{WORDevil}
+"It's a good thing that there are people like him!"
+"That's me."

@@ -1,0 +1,6 @@
+﻿{BLOK000}"Dsarii-ma. My name is Nisrii, council member and Tri-Nadh. I am responsible for the laws."{WORDlaws}{WORDTri-Nadh}
+"Dsarii-ma. Can I help you?"
+"I assume that you pose this question for the benefit of your human companions, {LEAD}{NAME}."
+"Tri-Nadh are people who, when touching someone else's Trii, can not only can sense their feelings, but also entire thoughts. Most make these special gifts available only to the council circle concerned with the law. For example, in important agreements, they check the contract partner's sincerity."{WORDlaws}
+"I wish you luck in your hunt for Akiir's murderers."
+"I wish you luck on your journeys."

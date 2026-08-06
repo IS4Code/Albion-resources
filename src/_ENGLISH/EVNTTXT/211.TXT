@@ -1,0 +1,11 @@
+﻿{BLOK000} "Oh, I manage the food business here in the city."
+"Skeima Din, do you happen to know anything new about the evil shrine of the Iskai?" {BLOK010} "No, we only know what everybody is saying." {BLOK011} "What about the shrine?" {WORDshrine}
+"Nowadays it's almost good thing when you don't hear anything new about the shrine, since all we've heard about it lately were stories of doom and terror."{WORDbad news}
+"You haven't heard anything about that? Stay far away from that place. There is a taboo and many different people say that horrible creatures wander around there. There are more and more of them around. They come from that weird cellar, which nobody can enter except for those Iskai. They're such strange people. But make a visit to Srimalinar and talk with the important people there like Edjirr, the tavern keeper, and Arrim, who lives in the harvest house. Talk with them, the sooner the better." {WORDtaboo}
+"What?! What do you mean, 'funny Iskai?' Iskai are definitely no funnier or stranger than humans. If there's anything I hate, it's prejudice! We'd better change the subject."
+"Naturally that isn't true for all Iskai - travel to Srimalinar and find out for yourself. Just don't go near their shrine since there is a taboo and more and more of those frightful monsters." {WORDtaboo}
+"That is nothing to joke about! They take it very seriously if you don't adhere to it. It has existed for as long as I can remember."
+"Why do you want to know about the taboo? I can tell you nothing more about it."
+"Yes, the inhabitants of Srimalinar are very religious and regularly visit their shrine. I don't know what they do there. I also don't know if they still go since it is now swarming with so many monsters. Kontos steadfastly maintains that humans must intervene before it is too late and a flood of monsters invades the land." {WORDKontos}
+"You'd better ask him yourself. He is the leader in the village of Kounos."
+"That's me."

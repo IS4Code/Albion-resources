@@ -1,0 +1,39 @@
+﻿{BLOK000}"My name is Ruainaigh. I am a novice of the Kenget Kamulos. I'm just beginning my training."{WORDKenget Kamulos}{WORDtraining}
+"Kenget means warrior in our old language. Kamulos is our god."{WORDwarrior}{WORDGod}
+"My god is Kamulos - the god of war, the god of the courageous.{WORDwarrior}{WORDcourage}
+"It is not a matter of having no fear: we must learn to overcome it. Only the spiritless have no fear at all. Therefore, only the clever can have courage and only the courageous will die honorably, with or without weapons. The coward will die as a slave."{WORDhonor}{WORDspirit}{WORDweapons}{WORDslaves}
+"Whoever is courageous has honor. It is the greatest honor to die in a battle one has chosen for himself. I hope I will have this luck so that I may sit at Kamulos' table, where the glorious Kenget proudly wait for the Last Battle."{WORDbattle}{WORDpride}{WORDLast Battle}{WORDfame}
+"The last test. The Last Battle for eternal honor. The battle between courage and cowardice, men and weaklings. Hopefully, I will stand on the right side: with the Kenget."{WRNR----}{WORDKenget Kamulos}
+"My pride is part of my honor and whoever offends it must die. So you'd better watch out."
+"The search for glory is the shining path to honor. I will find the greatest glory in honorable combat and, especially, in an honorable death."{WORDhonor}{WORDdeath}
+"Women are second-stage beings. Dealing with them is as shameful as dealing with animals, Iskai, and men. The husband is second stage because he deals with the wife and is not a Kenget. Therefore, to reach the first stage of becoming a Kenget, he must avoid dealing with women. And you fight more courageously when you are on your friend and brother's side."{WRNR----}{WORDwomen}{WORDKenget}
+"Death in battle is the highest goal in my life! To die in battle against Khunag, that would be like a dream come true. But the master of ceremonies knows much more about that."{WORDKhunag}
+"He is our leader. Our highest Druid and the highest emanation of the embodiment of our god, the eternal Kamulos. Just ask our ceremony master!"
+"It is said that the great Druids could conjure them, but I haven't seen any yet. They are rarely invoked in the open. Usually they guard secret passages and so forth. You'd best ask the magic master about that."{WORDnature}{WORDdruids}
+"The shrine is located in the lower stories. The entrance is at the south gate, but you won't get in there: no impure one will ever get through."{WORDsecret passage}{WORDImpure One}
+"That is the name of the cowardly murderer of our last Cuain. He killed the Cuain while Kamulos slept, in the middle of our shrine, in the inner region."{WORDCuain}{WORDKamulos' Sleep}{WORDshrine}
+"With or without weapons, a Kenget is ready for any battle."{WORDbattle}{WORDKenget}
+"A battle is like a prayer. The sacrifice of the warrior or Druid to a god: Kamulos." {WORDKamulos}{WORDwarrior}{WORDdruids}
+"A warrior is one who overcomes his fear. A warrior is one who has honor. And warriors fight with the sword."{WORDfear}{WORDhonor}{WORDswords}
+"The magic master may be of more help in that matter."
+"The battle master may be of more help in that matter."
+"That is the first stage of a warrior after novice."{WORDwarrior}
+"That is the first stage of a Druid, after being a novice."{WRNR----}
+"That depends on whether you want to be trained as Kledo or Oqulo. In addition to honor, it is also important to master the rites. But those aren't very interesting: the day is fairly monotonous." {WORDKledo}{WORDOqulo}{WRNR----}{WORDschedule}
+"Naturally, the ceremony master knows most about the rites. I wouldn't want to tell you anything that is untrue. There are a couple of sensitive subjects, such as handling drugs and so forth. Therefore, you'd best ask the master."{WORDdrugs}
+"The spirit is the central medium of our order. The spirit guides everything, and if you can control it, then the highest honor will be bestowed upon you."{WORDhonor}
+"You'd best ask the combat master about that."
+"Whoever overcomes his fear is a Druid. Whoever has honor is a Druid. And, Druids fight with magic. Supposedly, they can even control demons."{WORDfear}{WORDhonor}{WORDmagic}{WORDdemons}
+"On the day before New Year's day, Kamulos rests after the battles of the preceding year. The Cuain rests as well and carries no weapons. This makes Khunag's crime all the more despicable."
+"These are prisoners, third-stage beings, who are left alive so they can perform activities which would otherwise shame a Kenget. Therefore, they do everything that has to do in any way with the household. Their children, however, may rise to become a Kenget if they show talent. Every man who shows courage in battle may become Kenget and even Cuain. Just because the parents have timidly let themselves be captured, does not mean that the child is a coward. Especially if he is raised here, if he gives up his kin and becomes a part of our family." {WORDsteps} {WRNR----}{WORDKenget}{WORDCuain}{WORDcourage}{WORDbattle}{WORDfamily}
+"Courage requires clarity of the spirit. We only take certain drugs for the ceremonies. Honey wine tastes best to me, but smoking isn't bad either." {WORDcourage}
+"Well! We rise pretty early and we meditate for an hour before breakfast. Then we continue meditating and there are two hours of prayer exercises before noon. In the afternoon, there is ceremony training and two more hours of prayer. In the evening, there is meditation until sunset. There's a fair amount of meditation, especially in the summer. But I think it helps against fear." {WORDprayer}{WORDfear}
+"We have nothing against plants. Why? Neither they nor the animals will be there at the Last Battle. To be honest, I don't know what you're getting at with this question." {WORDLast Battle}
+"Everyone in the order is my brother. No one has sisters here. I rejected my parents when I became a Kenget, for they are only of the second stage." {WORDsteps}{WORDKenget}{WORDbrothers}
+"No, I know nothing about a secret passage. Just what do you want here? Do you want to hire assassins?" {WORDassassins}
+"Actually everyone who is not a Kenget is impure. However, since there may be a Kenget hiding unknowingly within every man, a man may become pure by his honorable death. For a man it is hard to figure out who is pure, since purity is expressed by deep understanding of the eternal laws of Kamulos at the time of death. But Kamulos knows, and he gathers the pure dead around his table."
+!
+!
+!
+"Good day, stranger. Have you come to walk the path to honor and glory?"{WORDfame}{WORDhonor}
+"I had a father, Jonatharh, the senior slave. Now the Kenget Kamulos are my family." {WORDfamily}{WORDCuain}

@@ -1,0 +1,7 @@
+﻿{BLOK000} "As you see, I have a small shop and sell food here. I hope the high prices don't scare you." {WORDprices}
+"Skeima din, ^ ^ I have delicious meat and fresh baked goods here. What would you like?" {BLOK010} "We would like to buy rations." 
+"Skeima Din, there is fresh fruit and sugo from Beloveno. Help yourself, we only sell good stuff here." {BLOK010} "We'd like to buy rations."
+"Thank you very much. Enjoy it."
+"You may think it's expensive, but remember that all food is brought in by ship. You can't grow anything in the desert, and water is expensive here. You can't use sea water as it is too salty, and rainwater is scarce. And we also have to use it for the plants in our city. Still, the citizens of Umajo-Kenta do very well here, because the miners have a metal monopoly. Strangers think that our prices are too high, but you won't find any lower prices for food around here." {WORDmonopoly}{WORDdesert}{WORDplants}{WORDwater}{WORDbuy}
+"Unfortunately, I cannot charge special prices for you, but I assure you that you will only get the highest quality goods here." {WORDwares}
+"You can buy goods from Zeibe. She sells all kind of things, from swords through armor and ammunition-up to torches and healing potions. If you are looking for weapons, then you'd better go to Jeros. He has a better selection. I sell food, and you can get select jewels and fine ornaments from Mykonou. You'll find Mykonou in the Diamond Polisher's guild. Jeros sells in the market, and Zeibe has her own shop, which is close by." {WORDDiamond Polisher}{WORDWeaponsmith}

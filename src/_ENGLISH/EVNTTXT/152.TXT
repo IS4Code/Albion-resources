@@ -1,0 +1,36 @@
+﻿empty
+"Owning cattle is the basis of all wealth. Someone who has a high rank, usually owns cattle, part of which he leases to his ceile." {WORDceile}
+"A ceile, or companion, is a follower of the man who pays him. He relinquishes part of his legal rights, such as bearing weapons, for an amount of money and a favorable lease of cattle. During meetings, the ceile is then obligated to yield his vote to the leaser, who thus gains rank and influence."{WORDcattle}{WORDlaw}
+"It is normal to give children to a foster family when the child is around seven or eight years old. The foster father is called attio. The child learns a profession there and the foster care enhances the bond between families. With girls, the foster care ends when she turns 14, for boys at 17."
+"Oh, there are many gods. But the greatest are Lugh, the great god of business, travelers, and trade, and Danu, the great Goddess and mother who is embodied by Albion, our world. In addition, there are the gods of farmers, craftsmen, poets, and warriors, as well as a number of minor gods honored by their district's inhabitants. Concerning life after death, it is taught that we will live again in another wondrous land." {WORDwarrior}{WORDtrader}{WORDpoet}{WORDAlbion}
+"The Tuath or Tribe is the community of all clans and their families. It is governed by the tribal king."{WORDtribal king}
+"The king is our highest lord. He controls the well-being of the Tuath, although for important matters he is advised by the weapon-bearing men. He is the embodiment of the Tuath, and his most important task is to ensure harmony between the people and the land. Only if there is harmony with the land can we hope for good harvest, healthy cattle, few diseases, and peace."{WORDTuath}{WORDcattle}
+"Any man among us becomes a warrior when peace is broken. Presently, since we are at peace, we do not have many men who devote themselves exclusively to weaponry without having another profession."
+"We hold poets in high regard. They are even feared by powerful warriors since a well-aimed satirical verse can damage a reputation as much as an inglorious defeat."{WORDwarrior}
+"There are many honorable craftsmen, such as potters, fabric weavers, or basket weavers. The weapon smiths, who all belong to the Umajo, are special."{WORDUmajo}
+"The Umajo guild is in a hot desert land far to the east of here. They guard the secret of getting ore from the womb of Danu without offending her. They produce jewelry and all kinds of weapons. They are the only ones allowed to produce these things. ^ However, they do teach the art of producing weapons. Thus, all weapon smiths are either from Umajo, or people from here who learned their craft from the Umajo or one of its guild members and have since joined the guild. Long ago, there was a war with the Umajo. ^ ^ Since then, they have become more generous in their prices and in training the weapon smiths. But they still persecute weapon smiths who aren't members of the guild." {WORDDanu}
+"When there is a dispute between two parties, justice is usually administered by a specially trained Druid." {WORDdruids}
+"The Druids are our scholars. They know how to write, and they preserve and extend the knowledge of our forefathers. Their tasks are diverse: there are those who administer justice or teach children, and those who act as intermediaries between the gods and the people. There are healers and masters of the magical arts among them. The center of their school is Arjano, where the greatest Druids live and teach." {WORDmagic}{WORDArjano}{WORDGods}{WORDhealers}
+"Magic is the art of the gods. It is performed by especially gifted Druids, who are held in high regard and are considered blessed." {WORDdruids}{WORDGods}
+"You will find healing for your wounds in Arjano."
+"That's what we call the world on which we live."
+"The head is the center of all force, power, and personality of a human being. Therefore, many of us preserve the skulls of conquered enemies or heroic forefathers because they bring us luck."
+The legends say that our forefathers landed there when they came to Albion a long time ago. Many doubt that, because the place lies in the middle of land, and not on the edge of the sea. But an ancient tree, which exists nowhere else on this world, grows there. We, and especially the Druids, honor it as a shrine." {WORDAlbion}{WORDdruids}
+"This is what the forbidden part of Arjano is called. A long time ago, something terrible happened and now demons live there! Drinno is closed tight, and it is taboo to go there."
+"Canto is a legendary hero, almost a god. He led our forefathers here to this land and was the wisest and most powerful of all Druids."
+"Ah, the furries. Well, some speak badly about them, but others respect them, particularly as warriors."
+"I don't know much about that."
+"I don't know much about that."
+"I don't know much about that."
+"I don't know much about that."
+"Klouta is a village on the west coast."
+"That's the name of the Druids' school here on Gratogel. They live north of the village. We are proud to live near our Druids." {WORDdruids}
+"That's the name of the land where we now stand."
+"Vanello is where you are now, oh ignorant one! We live from breeding cattle and the good harvests granted by the blessings of Arjano." {WORDdruids}{WORDArjano}
+"Aballon is a village south of the great mountain range."
+"Gratogel is divided into a north and south side by a great mountain range. There is only one way that leads through a deep canyon, and, it is said that the passage is not entirely without danger." {WORDdanger}
+"One hears about attacks on travelers who go through the great mountain range."
+"Tharnos is the tribal king of Klouta." {WORDtribal king}
+"Oibelos is our king, his name be praised." {WORDtribal king}
+"That's the name of the queen of Aballon."
+"Nemos is the leader of the Arjano Druids. He is a respected man both among us and among his colleagues."{WORDdruids}{WORDArjano}

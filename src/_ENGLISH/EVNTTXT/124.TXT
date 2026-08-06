@@ -1,0 +1,24 @@
+﻿{BLOK000} "I am the Stri of the Dji-Kas. My job is primarily healing, especially when it involves the Trii ." {WORDTrii}{WORDhealing}
+ 
+"Our magic is deeply rooted in this world. For example, all of our spells require us to concentrate our spiritual forces in a special kind of seed. We are also proud of the diversity of our craft. We know magic for creating and destroying, for injuring and for healing. ^ As a sign of our guild, we wear a special colored pattern on our pelts. The leader of the Dji-Kas is Sebai-fre Fasiir. He spends his entire time in the guild house."{WORDseed}{WORDhealing}{WORDFasiir}{WORDguild house}
+"Sebai-fre Fasiir has directed our guild for over 120 years. He is a living legend among the Dji-Kas and an outstanding teacher."
+"It is not the seed itself which develops the magic effect, but the spirit of the Dji-Kas which is used to find its focus. The seeds come from a strange plant called Triifalai, that means 'Trii of the Goddess.' They are sold in the guild house."{WORDTrii}{WORDGoddess}
+"Next to the guild house entrance you will find Stri Rejira, a master of the healing art. She will be able to help you better than I. I specialize in injuries of the Trii. {WORDTrii}"
+"This is the name of a plant which produces seeds we greatly value. {WORDseed}"
+
+"Oh, the builders. The relationship between our guilds is sometimes a bit troubled. Our diverse craft attracts some of their most talented members. And who can blame them? Who wants to put all of his efforts into building houses, no matter how beautiful they are? Perhaps the Dji-Fadh are also angry because we built our guild house without their help."{WORDguild}
+"The guild house has been in the southwestern corner of Jirinaar for a long time. It was built by the Dji-Kas and houses many guild members and all Dra."{WORDDra}
+"We never ordered Akiir's murder! Kriis lied, the Goddess knows why. We have no reason to do such a shameful thing!"{WORDGoddess}
+"Let me thank you once more for having freed us from the suspicion of murdering Akiir!"
+"Akiir is the chief of the Formers, a guild which is, for the most part, at odds with us. Especially Akiir doesn't go out of his way to avoid conflicts."{WORDFormer}
+"You don't know Fasiir as well as those like me who deal with him on a daily basis. He would never have ordered such a crime! But I doubt you'll believe the words of a member of his guild."
+"I am really grateful that you have cleared his name."
+"I know nothing about a murder."
+dummy
+dummy
+dummy
+dummy
+dummy
+"Dsarii-ma, foreign visitors."
+"The Trii, which each of us bears on our forehead, is a very special organ. If two people place their Triis against each other, they can feel each other's emotions, and especially gifted individuals can read the other person's thoughts. ^ It is seen as the center of the spirit. Injuries to the Trii can lead to personality disorders, memory loss, and even death. ^ I try to treat these type of injuries, even though it is usually extremely difficult. My goal is to achieve a break-through in treating these disorders. By doing that, I ultimately hope to become one of the Chosen." {WORDChosen}
+"Well, as I explained to you before: The Trii, which each of us bears on our forehead, is a very special organ. If two people place their Triis against each other, they can feel each other's emotions, and especially gifted individuals can read the other person's thoughts. ^ It is seen as the center of the spirit. Injuries to the Trii can lead to personality disorders, memory loss, and even death. ^ I try to treat these type of injuries, even though it is usually extremely difficult."

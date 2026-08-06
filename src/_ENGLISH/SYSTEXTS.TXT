@@ -3,7 +3,7 @@
 	*** Party member portraits ***
 
 [0000:%s (LP:%d, SP:%d)]
-[0593:Give%s to %s ]
+[0593:Give %s to %s ]
 [0594:Give gold to %s ]
 [0595:Give food to %s ]
 [0596:{INK 006}%s has no space left!]
@@ -47,18 +47,21 @@
 (this one also appears in the combat pop-up menu)
 [0014:Environment]
 [0513:Person]
+
 [0489:{INK 006}Cannot carry that much!]
 [0490:{INK 006}No space left!]
 [0601:{INK 006}It's too dangerous here!]
 [0430:Use which item?]
 [0431:This item doesn't work here.]
 [0432:This word doesn't work here.]
+
 [0532:{INK 006}Too far away.]
 [0533:{INK 006}Too far away to talk to.]
 [0534:{INK 006}Too far away to touch.]
 [0535:{INK 006}Blocked.]
 [0536:{INK 006}Too far away.]
 [0537:{INK 006}Blocked.]
+
 [0539:This person is asleep!]
 [0540:This person speaks a language {LEAD}{NAME} doesn't understand.]
 [0543:These people do not speak the same languange.]
@@ -114,11 +117,11 @@
 [0024:Helmet]
 [0025:Shoes]
 [0026:Shield]
-[0027:Short-range weapon]
+[0027:Close-range weapon]
 [0028:Long-range weapon]
 [0029:Ammo]
 [0030:Document]
-[0031:Recorded spell]
+[0031:Spell scroll]
 [0032:Drink]
 [0033:Amulet]
 [0034:Breast pin]
@@ -131,7 +134,7 @@
 [0041:Special item]
 [0042:Transportation]
 [0043:Lockpick]
-[0044:Torch] (for want of a better word)
+[0044:Torch]
 [0045:]
 [0046:]
 
@@ -142,11 +145,11 @@
 [0049:%d rations]
 [0051:Gold]
 [0053:Rations]
-[0050:Drop]
-[0727:Drop how much gold?]
-[0728:Really drop the gold?]
-[0729:Drop how many rations?]
-[0730:Really drop the rations?]
+[0050:Throw away]
+[0727:Throw how much gold away?]
+[0728:Really throw the gold away?]
+[0729:Throw how many rations away?]
+[0730:Really throw the rations away?]
 [0052:Take how much gold?]
 [0515:Take how many rations?]
 
@@ -185,6 +188,10 @@
 [0085:woman]
 [0086:creature]
 
+// POST-RELEASE CHANGE 1.38
+[0758:him]
+[0776:her]
+[0777:it]
 
 	*** Race names ***
 
@@ -211,14 +218,13 @@
 
 	*** Class names ***
 
-	Name
 [0095:Pilot]
 [0096:Scientist]
 [0097:Warrior]
-[0098:Dji-Kas magician]
+[0098:Dji-Kas mage]
 
 [0099:Druid]
-[0100:Enlightened]
+[0100:Enlightened One]
 [0101:Technician]
 [0102:]
 
@@ -337,7 +343,7 @@
 [0179:Closed chest]
 [0180:Exit]
 [0181:Open chest]
-[0182:Junkpile]
+[0182:Trash heap]
 [0183:Person]
   (Message 184 in this sequence is the Goto-point, which is a special case.)
 [0185:Event]
@@ -353,10 +359,10 @@
 [0189:This spell's level is too high!]
 [0190:{SUBJ}{NAME} learned the spell!]
 [0191:Item is broken!]
-[0192:Drop how many items?]
+[0192:Throw how many items away?]
 [0193:{INK 006}This is a vital item!]
-[0062:Really drop this item?]
-[0531:Really drop these items?]
+[0062:Really throw this item away?]
+[0531:Really throw these items away?]
 [0063:{INK 006}This item is cursed!]
 [0065:{INK 006}Cannot be unequipped during combat!]
 [0066:Take how many items?]
@@ -382,7 +388,7 @@
 [0200:Advance party]
 [0488:{INK 002}Observe]
 [0546:{INK 002}End combat]
-[0202:{INK 002}Start combat round!]
+[0202:{INK 002}Start round!]
 [0437:{INK 006}Cannot attack!]
 [0438:{INK 006}Cannot cause damage!]
 [0439:{INK 006}Unable to move!]
@@ -392,23 +398,22 @@
 
 	*** Spell names for class 0 ***
 
-	Name
-[0203:Noose of thorns]
+[0203:Thorn snare]
 [0204:DELETED]
 [0205:DELETED]
 [0206:Hurry]
 [0207:View of life]
 
-[0208:Splinter of ice]
-[0209:Ice crystal]
-[0210:Snow-avalanche]
+[0208:Frost splinter]
+[0209:Frost crystal]
+[0210:Frost avalanche]
 [0211:Light healing]
-[0212:Blindening sparkle]
+[0212:Blinding spark]
 
-[0213:Blindening ray]
-[0214:Blindening storm]
+[0213:Blinding ray]
+[0214:Blinding storm]
 [0215:Sleep spores]
-[0216:Trap of thorns]
+[0216:Thorn trap]
 [0217:Remove trap]
 
 [0218:DELETED]
@@ -431,10 +436,9 @@
 
 	*** Spell names for class 1 ***
 
-	Name
 [0233:Regeneration]
 [0234:Map view]
-[0235:Life bringer]
+[0235:Lifebringer]
 [0236:Teleporter]
 [0237:Healing]
 
@@ -470,7 +474,6 @@
 
 	*** Spell names for class 2 ***
 
-	Name
 [0263:Berserk]
 [0264:Banish demon]
 [0265:Banish demons]
@@ -479,7 +482,7 @@
 
 [0268:Magic shield]
 [0269:Healing]
-[0270:Show off]
+[0270:Boasting]
 [0271:Shock]
 [0272:Panic]
 
@@ -509,12 +512,11 @@
 
 	*** Spell names for class 3 ***
 
-	Name
 [0293:Fireball]
-[0294:Lightning stroke]
+[0294:Lightning strike]
 [0295:Fire rain]
 [0296:Thunderbolt]
-[0297:Fire shower]
+[0297:Fire hail]
 
 [0298:Thunderstorm]
 [0299:Lightning trap]
@@ -525,7 +527,7 @@
 [0303:Steal life]
 [0304:Steal magic]
 [0305:Personal protection]
-[0306:Kamulo's Gaze]
+[0306:Kamulos's Gaze]
 [0307:Remove trap]
 
 [0308:]
@@ -587,7 +589,6 @@
 
 	*** Spell names for class 5 ***
 
-	Name
 [0353:Panic]
 [0354:Poison breeze]
 [0355:Irritation]
@@ -772,7 +773,7 @@
 
 [0547:Exit combat screen]
 [0548:Items left behind]
-[0549:Do you want to abandon the rest of the items?]
+[0549:Do you want to leave the rest of the items?]
 [0550:{INK 006}You've left a vital item!]
 
 
@@ -826,12 +827,12 @@
 [0555:The party does not have enough gold!]
 [0585:Gold(all)]
 [0586:Total gold: %ld.%u]
-[0602:{LEAD}{NAME} and {HIS } companions are lead to their rooms where they spend a peaceful night.]
+[0602:{LEAD}{NAME} and {HIS } companions are led to their rooms where they spend a peaceful night.]
 [0608:Heal which condition?]
 [0625:{SUBJ}{NAME} is healed!]
 [0626:{INK 002}"No-one in this party needs healing!"]
 [0628:{INK 002}"No-one in your party can learn my kind of magic."]
-[0631:{INK 002}"What do you want me to teach you?"]
+[0631:{INK 002}"Learn which spell?"]
 
 
 	*** Camp screen ***
@@ -848,7 +849,7 @@
 [0610:Poisoned]
 [0611:Ill]
 [0612:Exhausted]
-[0613:Petrified] ???
+[0613:Paralyzed]
 [0614:Fleeing]
 [0615:Intoxicated]
 [0616:Blind]
@@ -891,10 +892,9 @@
 
 	*** Attributes ***
 
-	Name
 [0635:Strength]
 [0636:Intelligence]
-[0637:Dexterity
+[0637:Dexterity]
 [0638:Speed]
 [0639:Stamina]
 [0640:Luck]
@@ -904,8 +904,7 @@
 
 	*** Skills ***
 
-	Name
-[0643:Short range combat]
+[0643:Close range combat]
 [0644:Long range combat]
 [0645:Critical hit]
 [0646:Lockpicking]
@@ -913,7 +912,6 @@
 
 	*** Attribute abbreviations ***
 
-	Name
 [0649:STR]
 [0650:INT]
 [0651:DEX]
@@ -926,16 +924,14 @@
 
 	*** Skill abbreviations ***
 
-	Name
-[0657:S-C]
-[0658:L-C]
+[0657:CLO]
+[0658:LON]
 [0659:CRI]
 [0660:L-P]
 
 
 	*** Game languages ***
 
-	Name
 [0663:Terran]
 [0664:Iskai]
 [0665:Celtic]
@@ -943,8 +939,6 @@
 
 	*** Temporary spell names ***
 
-	Name
-	(must be short)
 [0670:Attack]
 [0671:Protection]
 [0672:Anti-Magic]
@@ -991,9 +985,9 @@
 [0713:Do you really want to overwrite this saved game?]
 [0714:Please enter a name for this saved game:]
 [0715:Do you really want to start a new game?]
-[0716:(Empty slot)]
+[0716:(Empty position)]
 [0717:No saved games found!]
-[0775:{INK 006}{BIG }{CNTR} Not enough capacity on your hard drive!]
+[0775:{INK 006}{BIG }{CNTR} Not enough room on your hard drive!]
 
 
 	*** Options ***
@@ -1019,7 +1013,7 @@
 [0739:%s is frozen!]
 [0740:%s is not frozen anymore!]
 [0627:%s has been blinded!]
-[0629:%s is not blinded anymore!]
+[0629:%s is not blind anymore!]
 [0422:%s has gone berserk!]
 [0738:%s is no longer berserk!]
 
@@ -1036,7 +1030,7 @@
 [0769:{INK 006}{SUBJ}{NAME} has been blinded!]
 [0770:{INK 006}{SUBJ}{NAME} is panicking!]
 [0771:{INK 006}{SUBJ}{NAME} is asleep!]
-[0772:{INK 006}{SUBJ}{NAME} has gone mad!]
+[0772:{INK 006}{SUBJ}{NAME} has gone insane!]
 [0773:{INK 006}{SUBJ}{NAME} is irritated!]
 
 
@@ -1059,7 +1053,7 @@
 
 
 	*** UNUSED ***
-[0128:]
-[0129:]
+[0128:Can be used by:]
+[0129:{INK 006}Doesn't speak the right language!]
 [0758:]
 

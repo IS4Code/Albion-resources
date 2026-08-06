@@ -1,0 +1,5 @@
+﻿{BLOK000}"I deal in fruits, bread, and meat."{WORDfruits}{WORDbread}
+"Togi Din, hungry travelers. Can I offer you some of my outstanding provisions?"{BLOK010}"Yes, we could use some food supplies."
+"I recommend dried fruits for the journey. I have particularly good products from the famous fields of Aballon!"{WORDAballon}
+"Yes, outstanding nonperishable bread made here and in Vanello."{WORDVanello}
+"I have pickled meat and smoked fish here from the village."

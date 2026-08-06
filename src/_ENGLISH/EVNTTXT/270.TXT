@@ -1,0 +1,2 @@
+﻿{BLOK000} "I sell shields, armor, and other protective clothing."
+"Skeima Din. ^ ^ Are you looking for something specific? I can sell you all sorts of things which you can use for protection: armor, clothing, vests, caps, shields, boots, etc. However, if you're already wounded you should go to Ramina and let her heal your injury." {WORDRamina}{BLOK010} "What do you have?"

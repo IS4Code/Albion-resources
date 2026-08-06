@@ -1,23 +1,23 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿-free-
+A door.
+The door sticks, although it is not locked.
+Whoever would like to go through the doors may go through the doors!
+This door cannot be opened by hand.
+A magic curtain.
+There's a hole in the ceiling-but it's too high to climb up with a rope.
+This field looks different from any others seen before.
+A staircase.
+"Who is bothering me now? What do you want? I'll bet Sebenno has given you the key, that good-for-nothing. Please do not disturb me. I have enough work, and have to carry on with my studies. Before you leave, take a tip from old Kossotto: look out for the demons. ^ ^ Heh heh."
+"There you are. I heard you were looking for me. Sojekos has entrusted me with secret information for you, but I will not tell you unless you do me a favor in return. ^ ^ For a long time, we have been investigating the ritual, so that we are not dependent on the Mountain Priests. We've come quite far, but we don't have the crucial magic word. We dare not show ourselves in the Miners' guild, since we have already tried to spy on their ritual - in vain, unfortunately. They have caught us several times. ^ ^ If you find out the magic word and tell it to me, I will give you the knowledge you need. I swear it to you, on my honor."
+"Do you know the magic word?"
+"Then please get it. I know you can do it, because they still trust you. I will give you the information you need if you do us equipment makers this favor."
+"What is it?"
+"I don't believe this is the mighty password of the ritual."
+"Kind Mother of the Earth - that's it. I should have been able to get that myself. Well, a promise is a promise. ^ ^ First, I thank you for your help. And, then I ask that one of you come closer so I can hand you the scroll and explain it."
+{LEAD}{NAME} declares himself ready and goes to Kossotto. He receives a scroll and an extensive explanation. The others all listen carefully; but, except for {LEAD}{NAME} no-one appears to understand it completely. After some time, Kossotto finishes and somehow {LEAD}{NAME} makes a weary impression. In any case, an important ingredient for creating the seed has been found!
+"I wish you good luck!"
+"I can do nothing more for you now."
+"It says: 'Kind Earth, do not harm me.'"
+"It says: 'Umajo Danu'."
+"You cannot take the scroll with you because you do not have room!"
+An empty barrel.

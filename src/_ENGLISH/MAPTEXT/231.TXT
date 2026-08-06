@@ -1,175 +1,175 @@
-﻿
-
-
-
-
-
-
-
-
+﻿-free-
+Branches and roots.
+A woven basket.
+A glass vessel for water and other drinks.
+A barrel.
+A magnificent animal pelt.
+A bucket.
+A clay bowl.
+A flask.
 A plate.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A pair of pliers.
-
-
-
+A clay mug.
+A mug.
+A table knife.
+A fork.
+A spoon.
+A clay container.
+Rocks.
+A bowl.
+A farming tool.
+An ax.
+A chest cover.
+A wooden chest.
+A lavishly decorated wooden chest.
+The rest room.
+A cover.
+A large wooden tub.
+A large metal kettle.
+A cupboard.
+All kinds of insignificant items are on these shelves.
+A bureau.
+A broom.
+A grill.
+You can grill meat on it.
+A fireplace.
+A tipped-over carafe.
+A ladle.
+A decorative wall sword.
+A wooden table.
+A stool.
+A folded stool.
+A massive dining table.
+A tree stump.
+Two crossed spears.
+A large barrel filled with strange liquids.
+A faucet.
+A bedcover.
+A comfortable and beautifully decorated bed.
+This bed is plain, yet practical.
+A kitchen table.
+A fireplace.
+The fireplace radiates a pleasant warmth.
+A decorated pot.
+Dried herbs.
+A human skull.
+A decorative shield.
+A metal pot.
+A decorative sword.
+A door.
+A kettle.
+A knife.
+A short dagger.
+A dagger.
+A large dagger.
+A short sword.
+A sword.
+A stiletto.
+A throwing dagger.
+A small ax.
+An ax.
+A small bow.
+A bow.
+An arrow.
+A small, leather shield.
+A leather shield.
+A round shield.
+A large shield.
+A leather cap.
+An embossed cap.
+A metal half-bowl.
+A leather vest.
+Leather armor.
+An embossed leather vest.
+A pair of shoes.
+A pair of boots.
+An empty bottle.
+A green healing potion.
+A turquoise healing potion.
+A blue healing potion.
+A key.
+A rope.
+A ring.
+A torch.
+A hammer.
+Stairs. They lead upward.
+Stairs. They lead downward.
+A counter.
+A carpet mat.
+A houseplant.
+A flowerpot.
+A beautiful ornament embedded in the ground. The symbol indicates this is the guild of the Diamond Polishers.
+A beautiful ornament, decorated with a large crystal, embedded into the ground.
+A metal table.
+An anvil.
+A metal shield.
+A metal chest.
+A chimney for the forge.
+A wall hanging.
+An unoccupied cushion. It is very beautiful and normally used as decoration.
+Some valuable pieces of jewelry.
+Display boards with weapons and shields.
+An empty display board.
+A fire bowl.
+An extinguished fire bowl.
+A loose handle.
+A handle.
+A water place.
+A hammer.
+A small hammer.
+A hammer.
+A special hammer.
+Tongs.
+A file.
+A small file.
+A leather hole punch.
 A screwdriver.
-
-
-
-A tumbler.
-A spanner.
-
-
-
+A small screwdriver.
+A metal saw.
+ A precision tool.
+A beaker.
+A wrench.
+Shears.
+A bowl.
+Fine shears.
 A bottle.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Several bottles.
+ A vial.
+A red vial.
+A metal box.
+A metal object.
+A wire object.
+A metal bowl.
+Brass balls.
+A bowl with water.
+A bowl.
+A mortar.
+A magnifying glass.
+Forceps.
+A heavy, short sword.
+A decorated sword.
+A double stiletto.
+A long sword.
+A display cabinet.
+Shelves with valuable metal smith work, ornaments, and jewelry.
+A mining cart.
+Rails.
+A buffer stop.
+A chair.
+A diamond polishing machine.
+The exit.
+"Skeima Din, ^ ^ Kemilo is my name. I work on fine jewelry here in the workshop. My specialty is making tiny locks for necklaces and rings. They are actually so tiny that you can hardly see them. You need a very steady hand and good tools to do this. ^ ^ But since I was originally an Equipment Maker, this is easy for me."
+"Coskon told me that you are looking for someone who will teach you how to master locks and keys. I don't want to let him down, so I'm prepared to show you."
+"Would you like to practice picking locks and disarming traps?"
+"You are welcome to come by again."
+"Skeima Din, are you looking for someone? Can I help you in some other way? If you have special questions, you should ask Coskon. He is the leader of the guild and can tell you whatever you need to know."
+"Ouch! Aargh, I just sawed into my finger."
+"Now my fingernail is bleeding too!"
+"Just before this I dropped a polishing stone on my foot. {FAT }Everything{NORS}hurts!"
+"Please do not bother me. I am supposed to polish two more rubies today and I have no idea how I'm going to get it done by the end of the day."
+"I am Coskon's wife. I do the housekeeping and cook for the guild members."
+"I am not allowed to talk with strangers, but I must always be polite."
+"Do you want to buy something? That would sure please Uncle Mykonou. His eyes always shine when he sells something ... oops... when he finds out that I told you this, he will be angry. Please don't say anything."
+{LEAD}{NAME} and the others stand in awe as the spinning jewel grows to ten times its original size. Clearly, the jewel has magical powers, but what are they? According to the legend, whoever touches the stone can read the minds of others....
+A gigantic jewel spins on the ornament and flashes a clear red. The entire object glows astonishingly.
+{LEAD}{NAME} touches the stone and tries to read someone's mind, but doesn't succeed in spite of {HIS } intense efforts. However, there is a restorative, pleasant force which flows through {HIS } body.
+{CNTR}{INK 006} ^ Please do not touch the jewels in the display! ^ is written on the shield.

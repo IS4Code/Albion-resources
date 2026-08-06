@@ -1,0 +1,9 @@
+﻿{BLOK000}"Well, sweeties, I'm sure you can tell by my clothing where I work. Come visit me there sometime! Of course, most males aren't willing to admit that they go to a brothel now and then."{WORDbrothel}
+"Skeima Din! Hmmm, I see some well-built guys here. Hey, don't worry, you're safe; I get all the satisfaction I need at work. But why don't you visit me sometime in the 'House of the Red Curtains'? Don't be scared of the sticky carpets and the panting, most of our customers feel really comfortable. Oh by the way, my name is Kariah, glad to meet you. We'll talk some more when you come visit me, huh?"
+"Hel-looo, I believe we have already met. Say, you haven't been to the 'House of the Red Curtains' yet, have you? Are you just too prudish or don't you have any money? Or maybe you don't appreciate our qualities?" {BLOK010} "Well, perhaps we don't need your services as much as you think." {BLOK011} "Oh, we're raring to go. We can't wait to get there!"{BLOK012} "Unlike you we have to important matters to take care of."{BLOK013} "We would like to make a little visit, but at the moment we have more pressing concerns."
+"So, you are prudish, heh heh. Alright, I won't keep you from your important matters any longer. I wish you all the best for your trip!"
+"Really? You mean it? All of you? Yay!"
+"Oh? And what are these really important matters? But I don't want to start a philosophical discussion here, after all, you have really important things to do. I'm not sure if I should take up any more of your important time."
+"That's okay. I wish you the best of luck in solving your problems."
+"I work there. It's hard work!"
+"That's me."

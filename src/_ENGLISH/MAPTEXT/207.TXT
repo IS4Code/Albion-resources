@@ -1,51 +1,51 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-
-
+﻿-free-
+Grass.
+Rocks.
+Low ground plants.
+Small branches and roots.
+Sedges.
+A small fruit tree.
+A round-topped tree.
+A broad-leafed tree.
+Rapids.
+A whirlpool.
+A water plant.
+The water is very deep and the current appears to be strong.
+Water plant sprouts.
+A blooming plant.
+A shade tree.
+These plants gleam in fascinating shades of color.
+Vegetables.
+A boulder.
+The water is very calm and clear enough to see the bottom. Numerous boulders lie in the water and there is almost no current.
+A fruit tree.
+A fence.
+A stalk plant. 
+A climbing, grasping plant.
+A bush.
+A large-leafed plant.
+A waterfall.
+A rock ledge.
+A plant growing on the ledge.
+This climbing plant has anchored itself into the irregular rock structure with thousands of roots. It appears to be very stable and has many branches to offer sufficient support for rock climbing.
+A wooden bridge.
+Grain fields.
+Mushrooms.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+No answer.
+A small bush with seeds.

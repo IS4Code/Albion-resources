@@ -1,0 +1,7 @@
+﻿ 
+{INK 001} Mellthas looks up when he is addressed. {INK 002}{BLOK010} "Mellthas, I believe we should break into the forbidden part of Arjano and try to save Bero." {BLOK011} "Thank you for the conversation, Mellthas."
+{INK 001} Mellthas looks up when he is addressed. {INK 002}{BLOK010} "Mellthas, may I ask you a personal question? Have you really fallen in love with Sira?" {BLOK011} "Thank you for the conversation, Mellthas."
+{INK 001} Mellthas writes for a long time on a piece of paper, which he then holds under {LEAD}{NAME}'s nose. ^ ^ {INK 002} "Yes. The first spiritual contact with her was the most beautiful moment in my life. Her entire being is enchanting and I even find her alien body appealing. ^ ^ I love her."
+{INK 001} Mellthas nods enthusiastically and leads the companions behind a locked door into the library of Arjano.
+{INK 001} The deaf and dumb Mellthas looks up when he notices that he is being addressed. {INK 002}{BLOK010}"Excuse me. I can't think of a conversation topic right now, Mellthas."
+{INK 001} Mellthas nods to {LEAD}{NAME}.

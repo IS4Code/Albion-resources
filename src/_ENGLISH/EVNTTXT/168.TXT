@@ -1,0 +1,3 @@
+﻿{BLOK000}"I sell all kinds of good food rations."{WORDrations}
+"Togi Din, travelers! You can get good prices from me for all kinds of delicacies from Aballon."{BLOK010}"Yes, we could use some traveling provisions."
+"You know, Aballon is famous for its fruits, but our pigs are fat and tasty as well."

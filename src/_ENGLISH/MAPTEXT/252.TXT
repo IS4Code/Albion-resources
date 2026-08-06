@@ -1,12 +1,12 @@
 ﻿ 
-
-
-
-
-
-
-
-
-
-
-
+A hole leading down into the void...
+You can climb up here.
+The tunnel appears to be deeper here, but it is filled with water.
+The giant cave glitters with countless remarkable crystals. The jewels are all unpolished, but their extraordinary size still make them very valuable.
+A chest.
+The exit.
+"Watch out! There is a large hole in the ground right in front of us. We should only try to go down with a rope. Who knows if we'll be able to get out otherwise! Does anyone have a rope?"
+Everyone looks through their backpacks and, finally, a rope is found.
+Everyone look through their backpacks, but nobody has a rope.
+"I think it's really too dangerous without a rope! We better not go down there."
+"Good, it shouldn't be too risky with a rope."

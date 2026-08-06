@@ -1,0 +1,9 @@
+﻿{BLOK000} "I am a member of the Council of the Just and, as hard as it is, I must see to it that the interests of the people are taken into account."
+"Skeima Din, how are you? I'm not so well, because the mood in the council is getting worse and worse." {WORDcouncil}{WORDBeloveno}{WORDtown hall}{WORDPerron}
+"As you may know, I am not convinced that Gard and Riko are cooperating in the best interest of the council. I have recently spoken to both of them about it. That only made matters worse. They paid no attention to my concerns and told me, very bluntly, that they don't respect me as a council member. They didn't give any reasons, though. I cannot accept that - and Herras doesn't accept it either. ^ Right now, we only discuss the most important things. The mood has been getting worse and worse. I don't think we can work together any longer." {BLOK010} "Don't worry, things will get better soon." {BLOK011} "We'll talk with Gard and Riko." {BLOK012} "Just ignore them."
+"Ignore? We have to debate about important decisions, and we can't just ignore one another. If only it were that simple..."
+"Why should the situation get better? Gard and Riko are doing nothing to improve this matter , and I am at my wit's end."
+"That is very nice of you, but I don't think there's anything you can do. Thank you for your concern."
+"The council meets regularly in the council house, and sometimes, when there is a great occasion, we invite the entire city into our great meeting hall. There are a lot of small rooms which we use for discussions and which can be rented for other purposes. In the south wing is the great meeting hall and a meeting room. In the north wing you will find the smaller rooms, and in the middle are the kitchen and dining room. Feel free to look around."
+"That's me."
+"I hope that you like our city. Visit the harbor in the south, or make a trip to Kounos or Srimalinar."

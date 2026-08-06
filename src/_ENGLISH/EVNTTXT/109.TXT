@@ -1,0 +1,12 @@
+﻿{BLOK000}"My name is Krinn. I am the Stri of the Hunt in the South Wind Clan. I am responsible for training the young hunters."{WORDhunt}{WORDtraining}{WORDStri}
+"Dsarii-ma, guests of the house."
+"Dsarii-ma, visitors. Would you like something else from me?"
+"Most of our clan members are always hunting for wild animals such as krondirs or warniaks. I haven't participated in the hunt for three years. I'm too old for that: I've already reached my 38th year, you know. Recently, the Clan offered to propose me to the council for the Sebai ritual. I was greatly honored, but I declined." {WORDcouncil}{WORDSebai}{WORDclan}{WORDwarniak}{WORDkrondir}{BLOK010} "You would decline the ritual, Krinn? May we ask why?"
+"That is a matter of my personal beliefs. In general, it is assumed that a newborn does not have its own personality. Nevertheless, to me it would seem as if I were extinguishing a life. ^ Apart from that, I've had a full life and do not fear it's end."
+"As I explained to you, I would rather stay in this beautiful house because of my age." {WORDhouse}
+"Because of my extensive experience, I can teach the young hunters everything they need, including hunting for predators such as krondirs and warniaks." {WORDkrondir}{WORDwarniak}
+"As you already know, I teach the young hunters everything they need to survive and to hunt successfully."
+"Oh yes, I have heard of Akiir's murder. Good luck on your hunt!"
+"Farewell."
+"The warniak is a giant winged vertebrate. It has a frightfully poisonous stinger on its rear end. Its poison can cripple or drive the wounded person insane. ^ ^ Nevertheless, warniaks are hunted a lot because their bodies contain a spherical mineral supply used for healing medicine. The traders pay high prices for warniak spheres!"
+"A krondir is a giant predator that usually runs on two legs. It is very strong and a frightful opponent. Fortunately, for the most part, krondirs are solitary animals. Their meat is almost inedible and mostly used as bait for other predators. However, the krondir has a structure similar to our Trii on the horn on its forehead, which is a very cherished ornament. You can get a good price for it."{WORDTrii}

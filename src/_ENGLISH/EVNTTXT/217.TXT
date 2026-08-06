@@ -1,0 +1,9 @@
+﻿{BLOK000}"I catth wild animalth in the woodth, thlaughter them, and then thell the meat. Tho I gueth you could call me a hunter, butthyer, and thalethman, thee?"
+"Thkeima Din. We've heard a lot about you. Do you like Maini? Have you already been in Kounoth? Have you vithited Kontoth? He'th a thtrange guy." {WORDcontinent}{WORDKounos}{WORDKontos}{WORDMaini}
+"A beautiful day, onthe more. We've met already." {WORDcontinent}{WORDKounos}{WORDKontos}
+"I've known Kontoth for a long time. Long ago, he wath a nithe guy and you could talk with him eathily, but not any more, oh no. Some yearth ago he began to fool around with black magic and religion, and now he thinkth that he if the thmartetht Druid on the planet, thee? He uthed to live here in Beloveno, but then he got thriendly with Riko and ever finthe he hath gotten more and more aloof. He hath a lot of followerth now from Kounoth who believe in hith theorieth. Well, tho be it. I think motht of them will realithe thoon enough that he ith no longer completely thane."{WORDcontinent}{WORDKounos}{WORDmagic}{WORDtheories}
+"Well, I mean all of Maini, thee? Beloveno, Thrimalinar, Kounoth, everything. The whole north and thouth thideth of the continent."
+"Thurely you've already been there? That'th the little village on the plateau, where they thtill have a very tradithional lifethtyle, thee? Kontoth carrieth out hith miththief there. I don't like him very mudth."
+"I don't underthtand mudth about magic. I've never needed it, thee?"
+"I don't really want to go into that. But an intelligent guy like Kontoth if in a pothithion to thtir thingth up, thee?"
+"That's me."

@@ -1,0 +1,2 @@
+﻿{BLOK000} "I am a merchant."
+"Skeima din, ^ ^ hopefully I have what you want. There are no other shops in Srimalinar, you see? If I don't have what you want, you'll have to travel to Beloveno. Although you can buy food in the tavern." {WORDBeloveno}{BLOK010} "We would like to buy something here."

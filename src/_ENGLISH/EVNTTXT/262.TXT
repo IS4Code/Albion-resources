@@ -1,0 +1,7 @@
+﻿{BLOK000} "I am the tavern keeper here. Have you tried my sugo yet? It's really good." {WORDsugo}
+"Welcome to the 'Great Barrel'. You are strangers here in the city. Well, you might find some nice people to talk to. Are you from Beloveno?" {WORDBeloveno}
+"Greetings. Unfortunately, I am in a bad mood. It's because I've heard rumors about Kontos which disturb me. You should probably talk with Kontos yourself if you want to learn more about it. He is the leader of the Mahinos in Kounos. ^ ^ But, I wouldn't want to spoil your mood. Make yourself at home. Would you like to buy some food rations?" {BLOK010} "Yes, thank you." {BLOK011} "No, thanks."
+"I thought you came from there. I'm sure you've already been in Kounos then. It's a small village on the plateau of the mountain range."
+"No? Then you must go there. You're sure to find a lot of interesting people there."
+"I am Edjirr."
+{BLOK010} "We would like to buy rations."

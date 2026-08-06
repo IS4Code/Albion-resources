@@ -1,39 +1,39 @@
-﻿{SUBJ}{NAME}empties a small bottle with green medicine, and afterwards feels much better!
+﻿{SUBJ}{NAME} drinks the green medicine and immediately feels a bit better!
 This text is not interesting.
-{SUBJ}{NAME} empties a bottle with turquois colored medicine and feels much better afterwards {HE  } feels much better!
-{SUBJ}{NAME} empties a bottle with blue medicine and {HE  } immediately feels almost completely better!
-{SUBJ}{NAME} drinks the red liquid.^^{HIS } head clears and regains some mental capacity.
-{SUBJ}{NAME} drinks the violet liquid.^^An ability to concentrate returns noticably.!
-{SUBJ}{NAME} drinks the blue liquid.^^ a large amount of {HIS }mental capacity returns!
-{SUBJ}{NAME} drinks the light silver liquid and senses, how the poison in {HIS }body is neutralized!
-As {SUBJ}{NAME} drinks the bronze colored drink, it clears {HIS } troubled spirit, and{HE  } finally feels like himself!
-A wave of pleasant feeling flows through {SUBJ}{NAME}'s body, when{HE  } drinks the golden liquid. The sickness begins to leave{HIS }body!
-The contents of the mood-drinks help {SUBJ}{NAME} feel much better!
-As{INVE}{NAME} put the white ring on his finger , {HE  }, notices that he can't get it off! {INVE}{NAME} starts to feel weaker!
-{CNTR}Someone had jotted down two numbers on the scraps of a plan:^^ {INK 006}12
-{CNTR}Someone had jotted down a number on the scraps of a plan^^ {INK 006}3
-{CNTR}Someone had jotted down a number on the scraps of a plan:^^ {INK 006}4
-{CNTR}Someone has hastily scrawled some numbers onto a note:^^ {INK 006}1001
-{CNTR}The other part of the document is missing!
-The two parts of the document fit together perfectly. The document is now back in its original form!
-{INVE}{NAME} takes the sword made out of black obsidian in his hand. He cannot put it down{INVE}{NAME} senses how the weapon drains {HIS }life force and endurance!
-The red sword is cursed! {INVE}{NAME} cannot let go of it and senses, how his strength and ability to fight leave{HIS }body!
-The dagger's crystal handle permanently connects itself to{INVE}{NAME}'s hand and {HE  } senses how all energy leaves his body!
-{INVE}{NAME} notices a curse on the blue blade: the dagger makes {INVE}{NAME}'s access to magic difficult!
-The black stone in the helmut robs the energy from{INVE}{NAME}'s body; he is cursed!
-"This amulette is a sign of my membership to the Dji Cantos. I won't let it leave my hand."
-"Better leave the amulette in its place, it's too valuable to move."
-{INK 001}Harriet awoke sensing a presence as the amulette was touched She said:{INK 002}^^"Please don't. The amulette is my personal property."
-The small red stone sticks to Tom's skin. It cannot be removed.
-"Sorry, but I'd rather hold on to the thing. I still need it!"
-{INK 001}Mellthas shakes his head, he doesn't want to hand over the writing implement. It is his method of communicating.
-"That thing is extremely important. Better leave it where it is, so that nothing happens."
-{INVE}{NAME} awakes from an unconscious state and says:
-Interesting information is included in the document. It points to an agreement between two bank accounts, belonging to Gard and Riko. The travellers don't understand everything contained inside, because some of it is written down in a kind of code language. It is some kind of distributions contract for valuable materials. Nothing more exact can be learned at the moment.^^One could probably use this evidence, to settle the conflict between Iskai and Mahinos!
-It goes against Tom's sensibilities to let go of the seed, The result of all his efforts and dangerous risks.
-The workings of the higher knowlege are only understandable to true masters of magic. Complicated descriptions and rhymes in massive complexity cover the parchment.
-A curious mixture of strange sounding gibberish and technical descriptions can be read here. The Dji Cantos can certainly understand it all much better.
-{INK 001}It is written on the piece of parchment:^^{INK 003}Courage is not always rewarded. Still go forth and be brave.
-{LEAD}{NAME} eats the herbs, and feels the purifying effects on body and soul!
-{INK 001}{LEAD}{NAME}:{INK 002}^^ "Better to leave the key, where it is. I don't want to lose it."
-{INK 001}{LEAD}{NAME}:{INK 002}^^ "We better leave the document, where it is. I wouldn't want to lose it."
+{SUBJ}{NAME} drinks the turquoise-colored medicine and feels a lot better!
+{SUBJ}{NAME} drinks the blue medicine and feels almost completely healthy!
+{SUBJ}{NAME} drinks the red liquid. ^ ^ {HIS } head clears and a little mental energy returns.
+{SUBJ}{NAME} drinks the violet liquid. ^ ^ The ability to concentrate seems to return.
+{SUBJ}{NAME} drinks the blue liquid. A large part of {HIS } mental energy immediately returns!
+{SUBJ}{NAME} drinks the silver-colored liquid and feels as if the poison in {HIS } body is neutralized!
+When {SUBJ}{NAME} drinks the bronze drink, {HIS } confused mind clears and {HE  } is finally {HIM }self again!
+A wave of well-being passes through {SUBJ}{NAME}'s body, when {HE  } swallows the golden liquid. The disease leaves {HIS } body!
+The stimdrink makes {SUBJ}{NAME} feel better!
+When {INVE}{NAME} places the white ring on {HIS } finger, {HE  } notices that it can't be taken off anymore! {INVE}{NAME} feels weaker!
+{CNTR} Someone has written down two numbers on the scraps of a circuit diagram: ^ ^ {INK 006}12
+{CNTR}Someone has noted a number on the scraps of a circuit diagram: ^ ^ {INK 006}3
+{CNTR}Someone has noted a number on the scraps of a circuit diagram: {INK 006}4
+{CNTR} Someone hastily wrote down a number sequence on a scrap of paper: ^ ^ {INK 006} 1001
+{CNTR} The other part of the document is missing!
+The two parts of the document match each other exactly. The original document is restored!
+{INVE}{NAME} takes the obsidian sword in {HIS } hand. It cannot be removed anymore, and {INVE}{NAME} feels as if the weapon is consuming {HIS } life force and endurance!
+The red sword is cursed! {INVE}{NAME} cannot let it go and feels as if it is sucking the strength and vigor out of {HIS } body!
+The crystal handle of the dagger is permanently attached to {INVE}{NAME}'s hand and {HE  } feels strength leaving {HIS } body!
+{INVE}{NAME} notes that there is a curse on the blue blade: The dagger hinders {INVE}{NAME}'s access to magic!
+The helmet's black stone steals the power out of {INVE}{NAME}'s body; it is cursed!
+"This amulet is the sign of my association with the Dji Cantos. I will not give it away."
+"I should leave the amulet where it is, it is too valuable to give away."
+{INK 001}Harriet awakens when the amulet is touched and weakly defends:{INK 002} ^ ^ "Please don't! This amulet is my personal property!"
+The small red stone sticks to Tom's skin. It cannot be loosened.
+"Sorry, but I'd rather keep it. I'll need it!"
+{INK 001}Mellthas shakes his head, he doesn't want to turn over his writing tools. It is his only means of communication.
+"It is very important. We'd better leave it where it is before something happens to it."
+{INVE}{NAME} awakens from unconsciousness and says:
+The document contains interesting information. It points to an agreement between Kontos, Gard, and Riko. The travelers do not understand everything that is written, for much of it is in some kind of code language. It's probably some kind of contract for dividing up valuable materials. Nothing more can be said at the moment. ^^ Maybe this piece of evidence can be used to clear up the conflict between Iskai and Mahinos!
+Tom is reluctant to give up away seed - the result of so much trouble and danger.
+The records concerning the High Knowledge can probably only be understood by true masters of magic. Complicated descriptions and rhymes with intricate verses cover the parchment.
+A strange mixture of magical-sounding gibberish and technical descriptions are written here. The Dji Cantos would probably know what it means.
+{INK 001} The following is written on the piece of parchment: {INK 003}Courage is not always rewarded. Nevertheless, remain courageous.
+{LEAD}{NAME} eats the herbs and feels as if {HIS } body and spirit are cleansed!
+{INK 001}{LEAD}{NAME}:{INK 002} "We'd better leave the key where it is. I wouldn't want to lose it here."
+{INK 001}{LEAD}{NAME}:{INK 002} "We'd better leave the document where it is. I wouldn't want to lose it here."

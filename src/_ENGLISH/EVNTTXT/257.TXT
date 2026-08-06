@@ -1,0 +1,9 @@
+﻿{BLOK000} "I build houses out of plants. I'm sure you've seen many of them around here."
+"Skeima Din, haven't we met already? Have you heard the rumors about Kontos?" {WORDrumors}
+"None of us here really knows what to make of it. Kontos tells his villagers that we are responsible for the horrible creatures that are found near the holy place. We can no longer deny that we have this problem. But it is an outrage to say that this was our doing! If you believe Kontos, we are evil. Ask Edjirr, the tavern keeper. He thinks the same as I do. ^ ^ Have you heard about that?" {BLOK010} "Yes." {BLOK011} "No." {WORDshrine}{WORDcreatures}{WORDtaboo}
+"See? We don't know why he says that. What does he think he will achieve?"
+"No? Well, maybe it's not so important..."
+"Yes, better not go in there. Our religious ceremonies take place in there. It is a very solemn place for us."
+"This taboo has existed for as long as I can remember. There is a historical reason for the taboo, which I would rather not explain to you now."
+"Yes?"
+"None of us know where these creatures come from. They appear to be of magical origin, and most of them are found near the shrine. However, we've never seen them come OUT of our shrine."

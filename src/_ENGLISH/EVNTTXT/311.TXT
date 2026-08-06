@@ -1,0 +1,7 @@
+﻿!
+"This is Khamulon, the home of the Kenget Kamulos. We recommend that only visitors with a very strong reason enter Khamulon, strangers. ^ ^ Do you have such a reason?"{BLOK010}"Excuse the disturbance, we have to go."
+"This is Khamulon, the home of the Kenget Kamulos. We recommend that only visitors with a very strong reason enter Khamulon, strangers. ^ ^ Do you have such a reason?"{BLOK010}"Excuse the disturbance, we have to go."{BLOK011}"We have come to make a deal with the Kenget Kamulos."
+"I hope for your sake that your business is important and honorable. ^ ^ Now follow me into Khamulon. I will introduce you to Rhain, the companion of the Cuain, our leader."
+"Farewell."
+{FAT }"You!"{NORS} ^ ^ "I am not sure what role you played in the events which shook up Khamulon. There is no order to kill you, but you are no longer welcome in Khamulon. Go now."
+"Do I have to make myself more clear? ^ ^ Get out of here!"

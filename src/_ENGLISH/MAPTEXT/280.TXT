@@ -1,161 +1,161 @@
-﻿
-
-
-
-
-
-
-
-
+﻿empty
+No member of the group is particularly eager to put their hand there.
+A large sofa.
+A large cabinet.
+A grill.
+A bed.
+A fireplace.
+The bedcover.
+Iskai cutlery.
 A plate.
-A receptacle.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A saucepan.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A container.
+A sausage.
+A ham-like piece of meat.
+A ladle.
+Different herbs.
+Fruits.
+A specialty meat.
+A drinking cup.
+A bowl.
+A spice.
+Small spice jars.
+A small cup.
+A kitchen knife.
+Cookies.
+A small sausage.
+This bottle contains an aromatic liquid.
+A cloth.
+A hand towel.
+A bucket.
+A roasting pan.
+A pot.
+Within this kettle, there is a small pot on a rod in which food can be heated slowly.
+A cushion.
+A large roasting pan.
+A fur brush.
+A water channel.
+A water basin.
+A water barrier.
+A large clay mug.
+A bureau.
+All kinds of unimportant small items lie in the drawers of this desk.
+A chest.
+This is a fairly large kettle. Perhaps it can store supplies, water, or food.
+In the water basin, there's a strange plant which pumps water out of the ground with its strong, pulsating motions. Apparently, this fountain serves as the water supply.
+The water in this pool smells bad and foul. This is probably where sewage is collected.
+Water plants.
+Herbaceous plants.
+An exotic plant.
+Climbing, grasping plant.
+Places for further Cutmap events.
+A staircase. It leads down through the floor.
+A staircase goes up through the floor.
+This is apparently some kind of bed. It is filled with sand, which offers astounding comfort because of its coarse but rounded grains.
+The enormous shape makes this look like sitting furniture. It acts like a plant. It has apparently grown. The surface is soft and elastic.
+The fountain of the house.
+The water channels probably serve for the drinking water supply. They run through the house like small brooks.
+The musty odor and the holes in the object lead to the conclusion that this is a kind of toilet. This "furniture" is also made from plants, and thrives vigorously because of its regular fertilization.
+This is where the really urgent activities in life are performed.
+A sweet, tart smelling dish is cooking in this pan.
+A seat.
+A massive wooden table.
+A large-leafed plant.
+A door.
+A knife.
+A short dagger.
+A dagger.
+A large dagger.
+A short sword.
+An Iskai knife.
+An Iskai dagger.
+An Iskai stiletto.
+An Iskai short sword.
+A large Iskai stiletto.
+An Iskai sword.
+A large Iskai sword.
+An Iskai long sword.
+An Iskai lance.
+A large Iskai dagger.
+A short Iskai stiletto.
+A large Iskai stiletto.
+A large Iskai sword.
+A small bow.
+A bow.
+An arrow.
+A long arrow.
+A leather shield.
+A small Iskai shield.
+An Iskai shield.
+A large Iskai shield.
+A leather cap.
+An Iskai leather cap.
+An Iskai metal cap.
+An Iskai metal helmet.
+An Iskai chest protector.
+An Iskai metal chest protector.
+Light Iskai armor.
+Iskai armor.
+An empty bottle.
+A green healing potion.
+A turquoise healing potion.
+A blue healing potion.
+A red drink.
+A violet drink.
+A blue drink.
+A key.
+A rope.
+A torch.
+An Iskai notepad.
+A piece of paper.
+An Iskai ring book.
+An Iskai ring pad.
+A pencil.
+A short pencil.
+A bench.
+This seat literally grows out of the ground and is quite comfortable.
+A wooden pole. There is a sign on the top.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+This is the exit.
+"Unfortunately, I don't have much time for you. There is still a lot of work to do. My sons are harvesting fruit from the plantations in front of the city. I'm sure you've seen our plentiful gardens there. I have to process all of the fruit when they return. So I have to go and prepare the containers now."
+"Do you like our house? It is very spacious. Yes, we also have room for guests. If you would like, you can stay here a little while. However, I'm sure you have other things to do."
+"You know, a bath couldn't hurt you. You have, to put it mildly, a rather strong odor about you."
+"If you run into Edjirr in the tavern, say hello to him from Drirra. Tell him he should come home soon. He does still have a family."
+"Oh! You frightened me."
+"I'm recovering from the harvest shift-I have to be in good shape for the next time."
+"Skeima Din. My name is Errid and I'm the fastest runner in all Srimalinar. I'll be glad to challenge anyone who doesn't believe me to a race."
+"Skeima Din."
+Mellthas gesticulates to indicate that he has something important to tell. Then he writes eagerly on his piece of paper: ^ ^ "We should visit my friend Darios in Kounos. Perhaps he'll bring us a little closer to the truth."

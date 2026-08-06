@@ -1,0 +1,15 @@
+﻿{BLOK000}"I am actually an Equipment Maker, but I have specialized in developing magic lotions and drinks."{WORDdrinks}
+"Welcome, I am Merdger, a member of the Equipment Makers' guild."{WORDEquipmentmaker}
+"These are only for the initiated..."
+"Someone recommended my Porenoil to you? Hmm, very well, I'll sell you a bottle for 15 coins. A little bottle is usually sufficient for up to six people to use."{BLOK010}"No thank you, we aren't interested."{BLOK011}"Yes, we'll take one."{BLOK012}"We'd like to have five for 75 coins."
+"Very well, so be it."
+"Thank you, it is guaranteed to help. Drink it every eight hours as you travel through the desert."
+"Unfortunately, you don't seem to have enough gold coins."
+"Unfortunately, you don't seem to have enough room to take it with you."
+"Feel free to look around our guild house. Our most important and recent inventions are developed in our underground workshop. But you cannot access that part."{WORDworkshop}
+"As I already said, this workshop is not accessible to the public. Neither I nor Zebenno will give you the key!{WORDkey}{WORDZebenno}
+"Zebenno is an Equipment Maker as well. He has the second key. Only you'd better not ask him for the key, he is not always very stable. ^ ^ Hmm, I see that you are going to speak to him about it. Well, I have warned you. If he gives you the key and something happens to you down there... You're responsible."{BLOK010}"Friend Merdger, we are responsible anyway."{BLOK011}"You have warned us and we will be careful."{BLOK012}"We're not going down there."
+"Well, if you say so."
+"That's better. It's none of your business anyway."
+"I'm not crazy and I'm giving you my key!? Hopefully, Zebenno will not give you his as well. But he is a nice fellow. Just visit him and say hello to him for me. Usually, you'll find him with the miners. He always complains about ore prices when he has nothing better to do."{WORDore prices}
+"Yes, it's becoming more and more expensive. Naturally, the Weaponsmiths are even more affected by it since they need more metal than we do. But what can we do? Because of the ritual, we can't mine the ore ourselves. The Miners use their knowledge against us."{WORDritual}{WORDMiners}

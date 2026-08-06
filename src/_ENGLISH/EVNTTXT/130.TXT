@@ -1,0 +1,29 @@
+﻿{BLOK000}"I am now the head of the guild, but in my opinion I am an unsatisfactory substitute for Akiir."
+ 
+"We see what we do here as a mixture of magic, art, and craft. We are one of the oldest guilds in Jirinaar and, as you surely know, we are able to create, change, and permanently modify plants into a desired form through magic. This means we can produce complete houses out of living plant material which are not only beautiful, but also perform all the functions necessary for the well-being of its residents."
+"I still regard him as my friend. Who knows how I would have reacted if I had learned of my impending death."
+!
+!
+"Sira is Akiir's only daughter. She transferred to the Dji-Kas, which made Akiir very angry."
+
+"I am afraid that the events surrounding Akiir's death have not really improved our relations. We will see what the future brings, a reconciliation won't fail because of me."
+"Our guild house competes with the council building for the title of most beautiful structure in Jirinaar. We are constantly maintaining and changing it, and we use it to demonstrate our knowledge, as you can see in the east wing."
+!
+I still do not have the courage to apologize to him personally, but I will do it as soon as he is less angry."
+"That's my name, correct."
+"I still find it very hard to talk about all that. I am trying to remember Akiir as a friend whose spirit was troubled during his last weeks."
+dummy
+dummy
+dummy
+dummy
+"You heard about that? Well, to be honest, Argim's story is an embarrassing part of our guild's history. ^ ^ He was head of the Dji-Fadh almost 150 years ago. At that time, the Dji-Fadh's guild house was located outside the city. It was a magnificent building near a Han, in the middle of the forest. Now, Argim was enormously talented, but he was also very fickle. This was the reason his greatest goal was rejected: to become one of the Chosen. ^ ^ When he found out he had been rejected, he lost control of himself. He swore to achieve immortality in spite of the rejection. In an irresponsible outbreak of his power, he destroyed the entire building and converted it into a strange place which today everyone avoids. They say he stamped his spirit on the place."
+"There are places where the force of the Goddess is particularly strong and where magic acts are strengthened, yet often made difficult as well. This kind of energy center is called a Han."
+dummy
+"Dsarii-ma! Oh Goddess, what can I say to you? I can only ask for your forgiveness that I did not come out with the truth earlier. The time since Akiir's death now seems like a horrible nightmare. ^ I thank you that you have awakened me."{BLOK010}"How have your guild companions reacted, Bradir?"{BLOK011}"Don't worry about it anymore, Bradir. You were in a hopeless situation and your sense of friendship honors you."
+"Dsarii-ma, travelers. You are welcome in the guild."{WORDAkiir}{WORDFasiir}
+"I don't know what to say. They have expressed their understanding by making me head of the guild. It was an indescribably good feeling to hear that."
+"Thank you for your comforting words, {LEAD}{NAME}. I am glad you don't hold anything against me."
+"Before you go, I would like to ask you to take this as an expression of my remorse. No, really, please take it, I really want you to have it." ^ ^ {INK 001}He hands the companions a large amount of gold and the evidence - a magic, decorative dagger. ^ ^ {INK 002}"The gold comes from Akiir's bequest to me, and the dagger now holds bad memories for me. And as you have seen, I was not born to be a fighter."
+"Dsarii-ma. Oh, Sira! Let me tell you once more how unhappy the whole story makes me. You must have gone through a horrible time." ^ ^ {INK 001}Sira: ^ {INK 002}"It was not easy, Bradir, to know that my father had plotted all of this because of me. But you know as well as I do that he was not a bad Iskai. He showed weakness in the face of death, and that is easy to forgive. You only tried to provide him a last service as a friend."{WORDAkiir}{WORDFasiir}
+"Farewell."
+"An old heirloom, but now it belongs to you. I have too many bad memories about it."

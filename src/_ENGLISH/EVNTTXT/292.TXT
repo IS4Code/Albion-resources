@@ -1,0 +1,8 @@
+﻿{BLOK000} "I sell weapons and armor. You can be sure that you're getting competent advice from an experienced huntsman. I would also buy anything interesting you've got with you." {WORDhuntsman}
+{WORDoffer}"Skeima din, ^ ^ here you will find everything that travelers need to protect and defend themselves effectively. Or do you have something interesting to offer?" {WORDdefend} {BLOK010} "Could we take a look at the weapons and armor?"{BLOK011} "We would like to sell something."{WORDsmithy}
+"Well, danger lurks everywhere, doesn't it? Especially for people who have valuable objects with them. You look as if you can handle weapons. You'd better look through the entire assortment. You will be pleasantly surprised, for I know of no other shop that sells things with a higher quality."
+"I must confess that was a long time ago. Nevertheless, I obtained a lot of experience back then, and so I am very familiar with weapons of all kinds."
+"The smith is nearby. Feel free to visit him: he can repair your weapons and, if you like, you can watch him while he works."
+"Oh, we have a wide range of goods, lots of weapons and ammunition. If I'm not mistaken, we even have a couple of magic weapons for sale right now." {WORDmagic weapons}
+"These are real rarities. I don't believe you can buy something like it anywhere else, and at such a favorable price."
+"No thank you, I do not accept gifts."

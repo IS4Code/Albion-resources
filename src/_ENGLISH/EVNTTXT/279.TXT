@@ -1,0 +1,12 @@
+﻿!
+"Dsarii-ma, friends. What's the situation between the Mahinos and Iskai?" {BLOK010} "Unfortunately it is still very tense, Frill."
+"I hope you can prevent an escalation. Let us delay our departure for a while. Good luck!"
+"Dsarii-ma, friends. What's the situation between the Mahinos and Iskai?" {BLOK010} "Good news, the inhabitants of Kounos now understand that they were misled by Kontos. They didn't like it at all when they had to admit that they had been fooled like little children. In any case, we believe that the tribes can start to rebuild a healthy relationship."
+"That is good news! Now nothing stands in the way of a small journey by sea. Shall we leave immediately?" {BLOK010} "Yes, why not?" {BLOK011} "No, we would like to wait a little bit longer."
+"Good, then please follow me."
+"Okay. I will wait for you here. Till then."
+"Dsarii-ma! Are you ready for a little sea voyage?" {BLOK010} "Yes, why not?" {BLOK011} "No, we'd like to wait a little longer."
+"Tom, let me say something before you continue. ^ ^ After all the excitement, Mellthas and I would like to have some time together. I would like to ask you and the others to go on without us for a while. ^ ^ Once we have rested, we will gladly join you for more adventures! ^ ^ We will be in the tavern in Srimalinar, if you are looking for us."
+"I understand. Now I wish you and Mellthas a beautiful time in Srimalinar. We'll certainly see each other again soon. ^ ^ Best wishes!"
+{INK 001}Sira and Mellthas say good-bye. The others follow Frill to a small ship which immediately sets out to sea...
+"Best wishes. Until then, Tom! ^ ^ Oh yes, if you need any of our equipment, please feel free to take it..." ^ ^ {INK 001}Sira and Mellthas offer their equipment.

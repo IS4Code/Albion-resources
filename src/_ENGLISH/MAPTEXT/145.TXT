@@ -1,63 +1,63 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿empty
+A mechanical switch.
+There is a small mechanical button on the wall.
+A tiny switch which can be easily overlooked is embedded in the wall.
+A floor plate. It looks like it would sink down if you walk on it.
+A door.
+The door is tightly latched. No lock can be seen.
+A locked portcullis. There is no lock on it.
+A fountain filled with clear water.
+A hot flame comes out of the brass disk on the floor.
+A brass disk on the floor.
+A brass disk with a large opening in it.
+A flickering flame. It radiates a large amount of heat.
+A transparent wall made of very solid material.
+This seems to be a type of force field. It produces a buzzing so loud that hair stands on its end and the roots of {LEAD}{NAME}'s teeth ache from the noise.
+A large hole in the floor.
+There is an opening in the ceiling.
+A flower column which used to decorate these rooms.
+A sitting group indicates that these rooms were once inhabited by men.
+A decayed stool.
+An old barrel.
+A dusty vase. {LEAD}{NAME} looks in it, but doesn't find anything.
+A trunk with metal fixtures.
+A heap of old junk. {LEAD}{NAME} pokes around in it but can't find anything useful.
+The switch can no longer be moved.
+The wall appears to be very fragile here.
+{LEAD}{NAME} hits the wall with a couple of strong blows. The wall collapses!
+{LEAD}{NAME} fills a bucket with water.
+{LEAD}{NAME} steps into the flame and gets burned!
+{LEAD}{NAME} dumps a bucket of water over the flame and extinguishes it!
+Another flame is extinguished.
+{LEAD}{NAME} runs into the force field and feels a tremendous pain run through {HIS } body! After a few endless seconds the luminous field collapses.
+Once the rod makes contact, the force field collapses! The rod turns into dust.
+Everyone manages to climb up with the rope!
+A floating fireball. It radiates an unbearable heat.
+Suddenly, everyone feels an unbearable burning sensation: a fireball has come too close!
+"Unbelievable. I don't understand what keeps this fireball in the air. Is it a burning gas bubble? But, how can it be so stable? Mysterious."
+"I'm beginning to doubt my sanity! This field does not appear to be of electrical origin and no other energy source can be detected. What in the world sustains it? This planet appears to have been created just to disturb the beliefs of physicists."
+The floor-mounted plate drops a little bit.
+Floor plate pressed.
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+The sound of rubbing stones came from the east side of the room.
+The hole in the floor proves to be very deep. {LEAD}{NAME} and {HIS } companions fall down to the level below!
+{LEAD}{NAME} uses a rope to lower {HIM }self. The others follow {HIM }.
+Something seems to have happened in the southeast.
+The noise came from the southeast.
+The fire bowls have been kindled!
+A flame comes from the floor's brass-bound hole.
+The flame catches the group!
+The switch can no longer be moved.
+"Look at this beast! Somehow it seems... unnatural. ^ ^ As if it is an embodiment of everything that we fear in predators."
+{LEAD}{NAME} thinks {HE  } sees something interesting under the trash!
+This door is secured with a strong lock.

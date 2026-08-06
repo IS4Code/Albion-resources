@@ -1,0 +1,12 @@
+﻿{BLOK000}"I dispense drinks and serve food."
+"Skeima Din and welcome to the cheerful Ore Mine Inn."{WORDmine}{WORDUmajo-Kenta}{WORDdrink}{WORDovernight stay}
+"Thank you, I don't need anything from you, {FAT }but{NORS} if you would like to contribute something, I should mention that it is common for strangers to buy a round. What do you think about that?"{BLOK010}"We would like to buy a round."
+"This is what our inn is called, and there is also a real ore mine. Just visit the Miners' guild northwest of the city."{WORDMiners}
+"You would do that? It'll cost five gold pieces. You still going to do it?"
+"It's a shame."
+"I'll do it only if you pay in advance."
+"That's a generous gesture - thank you very much. Talk to me again after the round is served."
+"Skeima Din, Strangers. ^ ^ Should I tell you a little secret?"{WORDsecret}
+"The gambler is frightfully vain, heh heh. Just call her 'Queen of Beauty.' You'll see things happen then."
+"Would you like something to eat or drink?"{BLOK010}"Yes, please."{BLOK011}"No, thanks."
+"Unfortunately, you can't spend the night here, but go to the Miners' guild. They are very hospitable and gladly take in foreign visitors for a night."

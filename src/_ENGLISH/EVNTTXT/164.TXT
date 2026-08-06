@@ -1,0 +1,4 @@
+﻿{BLOK000}"I am a warrior for Tharnos and I have no other profession!" {WORDTharnos}{WORDwarrior}{WORDprofession}
+"Togi Din, visitors."
+"Well, most weapon-bearing men are also craftsmen or even poets. I, on the other hand, am proud of the fact that I serve my king with weapons only."{WORDpoet}{WORDtrader}
+"If you're interested in weapons, you should go to Vanello. There is an Umajo there who knows his craft."{WORDVanello}{WORDUmajo}

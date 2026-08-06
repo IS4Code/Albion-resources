@@ -1,29 +1,29 @@
 ﻿!
-This lights up when you step on the floor plates in front of the door. At the same time, the door opens.
-The floor plate lights up.
-That's a floor plate with a transparent surface which lights up.
-After the floor plate lights up, a door opens in the "west" part of the room.
+When the floor plate in front of the door is stepped on, it lights up. At the same time, the door opens.
+Floor plate lights up.
+This looks like a floor plate with a transparent, luminous surface.
+After this floor plate lights up, the door on the "west" side of the room opens.
 A switch.
-The position of the switch doesn't change if you try to flip it again.
-The door tries to close, but then remains open. Obviously a sensor has registered someone standing at the door.
-Ther's a cabinet standing at the north wall.
-The cabinet is empty, ready to put objects into.
-A cabinet.
-The noise came from the right, from a distance.
-Just as the door with the red lamp opens up, the door with the green markings closes from behind. There's no way out !
-That must be a service robot. It's fulfilling some unknown assignment.
-A door. It has no obvious opening mechanism.
-A neon tube. It radiates a cold white light.
+The switch doesn't change position, even after repeated pressing.
+The door tries to close but stays open. Apparently, a sensor is detecting a presence in the doorway.
+There is a wall cabinet on the north wall.
+The wall cabinet is empty, ready to receive objects.
+A wall cabinet.
+The noise came from the right.
+When the door with the red lights opens, the one with the green marking closes. The way back is blocked!
+This is a service robot. It is performing an unknown task.
+A door. No opening mechanism can be seen.
+A fluorescent light bulb. It radiates cold, white light.
 A steel beam.
-The translucent walls mark off a service entrance.The ladder in the middle leads upstairs.
-A ten digit pad for entering in number codes.
-A door with red light markings on the side. There is no recognizable opening mechanism.
-A door with green light markings on the side. There is no recognizable opening mechanism.
-A door with blue light markings on the side. There is no recognizable opening mechanism.
-The number combination was obviously correct. It opened the door next to the number pad.
-Nothing happening.
+The semi-transparent walls mark a service access. The ladder in the middle goes up.
+A digital keypad for entering numerical codes.
+A door with red marking lights on the side. No opening mechanism can be seen.
+A door with green marking lights on the side. No opening mechanism can be seen.
+A door with blue marking lights on the side. No opening mechanism can be seen.
+Apparently the number combination was correct: the door beside the keypad has opened.
+Nothing happens.
 Yeah! Made it!
-A ladder. It leads upstairs.
-The rhythmic blinking of the floor plate suggests a very specific function.
-A non-functioning neon tube.
-{INK 001}Tom deposits the weapon into the cabinet.{INK 002}^^ "There. Now if I can manage to reach into the cabinet from the other side of the lock, then I can fool the Secus and the weapon will be mine!"
+A ladder. It leads down.
+The floor plate's rhythmic blinking probably indicates a special function.
+A defective fluorescent bulb.
+{INK 001} Tom deposits the weapon in the wall cabinet. {INK 002} ^ ^ "So. Now, if I can get back to the cabinet from the other side of this lock, then I can fool the security guards and the weapon belongs to me!"

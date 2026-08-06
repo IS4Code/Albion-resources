@@ -1,0 +1,17 @@
+﻿{BLOK000}"I catth wild animalth in the woodth, thlaughter them, and then thell the meat. Tho I gueth you could call me a hunter, butthyer, and thalethman, thee?"
+"Thkeima Din, are you interethted in a map?" {WORDmap}{WORDKontos}
+"A beautiful day, onthe more. We've met already." {WORDmap}{WORDKontos}
+"I've known Kontoth for a long time. Long ago, he wath a nithe guy and you could talk with him eathily, but not any more, oh no. Some yearth ago he began to fool around with black magic and religion, and now he thinkth that he if the thmartetht Druid on the planet, thee? He uthed to live here in Beloveno, but then he got thriendly with Riko and ever finthe he hath gotten more and more aloof. He hath a lot of followerth now from Kounoth who believe in hith theorieth. Well, tho be it. I think motht of them will realithe thoon enough that he if no longer completely thane."{WORDKounos}{WORDcontinent}{WORDmagic}{WORDtheories}
+"Well, I mean all of Maini, thee? Beloveno, Thrimalinar, Kounoth, everything. The whole north and thouth thideth of the continent."{WORDMaini}
+"Thurely you've already been there? That'th the little village on the plateau, where they thtill have a very tradithional lifethtyle, thee? Kontoth carrieth out hith miththief there. I don't like him very mudth."
+"I don't underthtand mudth about magic. I've never needed it, thee?"
+"I don't really want to go into that. But an intelligent guy like Kontoth if in a pothithion to thtir thingth up, thee?"
+"You don't like it? I can't tell you mudth about that; I'm no eggthpert. That thing hath been lying around in my attic for yearth, thee?"
+"I really cannot tell you anything about that."
+"Well, I've had a map lying around in my attic for yearth. My grandfather always thaid it wath a treathure map, thee? Apparently hith forefatherth buried their pothethionth on the thpot marked on the map, heh heh. Well, I have to thay that I don't believe any of that, but I know people like you probably would. Tho, juhtt becauthe it'th you, I'll give you the map for the thtupendouthly low prithe of 200 gold gointh. Are you interethted?" {BLOK010} "Yes, we'll take it." {BLOK011} "We are interested, but not at that price." {BLOK012} "We'll pay you 175 gold coins!" {BLOK013} "No thank you, we're not interested."
+"Well, wonderful. I'm thure you won't regret the purchathe."
+"Well, let'th make it a hundred and theventy-five for you. Agreed?" {BLOK014} "Oh, O.K." {BLOK015} "No, that's too much!"
+"I wanted to thell it, not give it away."
+"You can think about it awhile. The offer thtill thtandth."
+"That's me."
+"I believe you don't have enough gold cointh?!"

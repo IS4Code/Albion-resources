@@ -1,225 +1,225 @@
-﻿
-
-
-
-
-
-
-
-
+﻿empty
+No member of the group is particularly eager to put their hand there.
+A large sofa.
+A large cabinet.
+A grill.
+A bed.
+A fireplace.
+The bedcover.
+Iskai cutlery.
 A plate.
-A receptacle.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A saucepan.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A container.
+A sausage.
+A ham-like piece of meat.
+A ladle.
+Different herbs.
+Fruits.
+A specialty meat.
+A drinking cup.
+A bowl.
+A spice.
+Small spice jars.
+A small cup.
+A kitchen knife.
+Cookies.
+A small sausage.
+This bottle contains an aromatic liquid.
+A cloth.
+A hand towel.
+A bucket.
+A roasting pan.
+A pot.
+Within this kettle, there is a small pot on a rod in which food can be heated slowly.
+A cushion.
+A large roasting pan.
+A fur brush.
+A water channel.
+A water basin.
+A water barrier.
+A large clay mug.
+A bureau.
+All kinds of unimportant small items lie in the drawers of this desk.
+A chest.
+This is a fairly large kettle. Perhaps it can store supplies, water, or food.
+In the water basin, there's a strange plant which pumps water out of the ground with its strong, pulsating motions. Apparently, this fountain serves as the water supply.
+The water in this pool smells bad and foul. This is probably where sewage is collected.
+Water plants.
+Herbaceous plants.
+An exotic plant.
+Climbing, grasping plant.
+Places for further Cutmap events.
+A staircase. It leads down through the floor.
+A staircase goes up through the floor.
+This is apparently some kind of bed. It is filled with sand, which offers astounding comfort because of its coarse but rounded grains.
+The enormous shape makes this look like sitting furniture. It acts like a plant. It has apparently grown. The surface is soft and elastic.
+The fountain of the house.
+The water channels probably serve for the drinking water supply. They run through the house like small brooks.
+The musty odor and the holes in the object lead to the conclusion that this is a kind of toilet. This "furniture" is also made from plants, and thrives vigorously because of its regular fertilization.
+This is where the really urgent activities in life are performed.
+A sweet, tart smelling dish is cooking in this pan.
+A seat.
+A massive wooden table.
+A large-leafed plant.
+A door.
+A knife.
+A short dagger.
+A dagger.
+A large dagger.
+A short sword.
+An Iskai knife.
+An Iskai dagger.
+An Iskai stiletto.
+An Iskai short sword.
+A large Iskai stiletto.
+An Iskai sword.
+A large Iskai sword.
+An Iskai long sword.
+An Iskai lance.
+A large Iskai dagger.
+A short Iskai stiletto.
+A large Iskai stiletto.
+A large Iskai sword.
+A small bow.
+A bow.
+An arrow.
+A long arrow.
+A leather shield.
+A small Iskai shield.
+An Iskai shield.
+A large Iskai shield.
+A leather cap.
+An Iskai leather cap.
+An Iskai metal cap.
+An Iskai metal helmet.
+An Iskai chest protector.
+An Iskai metal chest protector.
+Light Iskai armor.
+Iskai armor.
+An empty bottle.
+A green healing potion.
+A turquoise healing potion.
+A blue healing potion.
+A red drink.
+A violet drink.
+A blue drink.
+A key.
+A rope.
+A torch.
+An Iskai notepad.
+A piece of paper.
+An Iskai ring book.
+An Iskai ring pad.
+A pencil.
+A short pencil.
+A bench.
+This seat literally grows out of the ground and is quite comfortable.
+A wooden pole. There is a sign on the top.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+"Dsarii-ma, visitor of the council."
+"Dsarii-ma. I'm only an overworked scribe. Please excuse me, valued guests."
+"Dsarii-ma. I am part of the council group for river management. I don't believe that we have anything to talk about."
+"Dsarii-ma. Excuse me, the Sebainah has ordered me to do something that can't wait."
+"Dsarii-ma. If you, like all the other strangers, wish to speak with Sebai-Giz Frill, you will find his work room in the east wing of the building. Of course, he's often away."
+"I belong to the council committee for family matters. Sometimes it's difficult work, since arguments don't often win against emotions. But sorry, I'm talking so much. I'm sure you have much more important things to do."
+"Dsarii-ma. I cannot help you much. I'm one of Vris' helpers and keep the building in good shape."
+"Dsarii-ma. Look at the magnificent plants in the meeting room. I take care of them!"
+This door leads outside.
+{FAHI}-SCRIPT SEQUENCE--{NORS} ^ ^ Tom and Rainer run into the meeting hall, where the ceremony has suddenly been interrupted with Akiir's murder. The party receives the order to solve the murder. Information about the murder is now provided. Drirr joins the party! ^ ^ Then, it is reported that the fugitive murderer was seen in the vicinity of the Dji-Kas guild house. Everyone heads there...
+First-aid is given to the groggy Tom upon his arrival at the council building.
+First-aid is given to the groggy Rainer upon his arrival at the council building...
+Bradir maintains a calm composure when the Sebainah speaks to him.
+"Bradir, please explain to us your unusual reaction when you saw the antique weapon the murderer had with him."
+"Sebainah, the dagger was part of the murderer's payment. It belonged to me. Upon seeing it, I lost my nerve. ^ ^ I am really happy it is all over now."
+"You're saying that YOU gave the order? YOU had Akiir, your admired friend, murdered?"
+"No, by the Goddess! I did not hire the murderer!"
+"But you know the person who gave the order?"
+"Yes, Sebainah. ^ ^ It was ... Akiir himself."
+{CNTR} "WHAT?"
+{CNTR} "IMPOSSIBLE!"
+{CNTR} "That cannot be!"
+"I know that Bradir was the closest and most honest friend that my father ever had. Let him continue."
+"Akiir knew for almost a year that he had an incurable disease. He had, at most, six months to live. Then, when he learned of Sira's decision to transfer to the guild of the Dji-Kas, he drastically changed and became more and more unpredictable. ^ ^ A while ago, he came to me with a plan for his staged murder. In addition to getting revenge on Fasiir he wanted to make Sira leave the guild of the Dji-Kas again. For days I tried to talk him out of his plan, but he would not change his mind. He appealed to me, on my honor as a friend, to fulfill his last wish. There was nothing else I could do! ^ ^ He bribed the Dji-Kas Kriis with an absurd sum and entrusted an assassin from the Kenget Kamulos human tribe with the murder. To get rid of the murderer we arranged to meet at the guild's old center after the deed was done. We hoped that the predators there would take care of the witnesses. The last few weeks have been the worst in my life. I will gladly subject myself to testing by a Tri-Nadh to verify my story."
+There is a long pause while all of the listeners try to digest the story. ^ ^ Sira, Akiir's daughter, is the first to speak:
+"Bradir has been a friend of my family since my childhood. In my opinion, he could not have made all of this up. I loved my father, but I know how obstinate he could be. Under these extreme conditions... ^ ^ He really could have reacted this way. And that because of ME, oh, Goddess. ^ ^ I believe Bradir's words."
+"I also believe Bradir. He is free of suspicion. ^ ^ Return to your guild, Bradir. You have a lot of explaining to do there. ^ ^ Fasiir, who has been wrongly accused, will be rehabilitated immediately. ^ ^ Kriis, the bribed Dji-Kas, will have to answer for his treason."
+"Does this clear us of our duty to solve the murder, Sebainah Janiis?"
+"Yes, it does. I thank you humans, and also you, Drirr, for clearing up this matter. Nothing more stands in the way of your journey."
+"We were a good team. Tom and Rainer, if you want, I will accompany you on the journey. I could do with a little excitement."
+"Gladly, Drirr! I'm happy to have you with us."
+"Tom and Rainer, I've always made impulsive decisions. ^ ^ I would also like to join you for a while. After what has happened here, I would like to get away from everything. ^ ^ A trip will do me good, and my modest magical talents can certainly be useful to you. What do you say?"
+"Naturally you are welcome, Sira! We probably have a long journey ahead of us and the more who join us, the better!"
+"Although Akiir's tragic plan has left a feeling of sadness, I am glad that everything is finally cleared up. ^ ^ Tom and Rainer, you are still welcome guests here in Jirinaar. When you are ready to begin your journey, speak to me. I now declare the meeting ended."
+Tom, Rainer, Drirr, and Sira leave the Sebainah's room.
+Tom and Rainer enter the council building right on time. ^ ^ In the meeting room, Tom and Rainer find a small group of Iskai. ^ ^ The Sebainah greets them:
+"Dsarii-ma, Tom and Rainer, welcome to our meeting. May I introduce you to Akiir: he is the head of the guild of the Formers, or the Dji-Fadh, as we say."
+"Dsarii-ma."
+"And this is council member..."
+The Sebainah is interrupted suddenly when a masked figure storms into the room. Shocked, Tom and Rainer recognize that it is a human being!
+Before anyone can react, the human shoots a small arrow. Akiir collapses!
+"Stiriik! Seize the human!"
+"Akiir is dead. May he live with the Goddess."
+"The murderer has fled through a window, Sebainah! We will search the city!"
+"We must act swiftly. Send for Drirr, the Stiriik for Human Affairs! ^ ^ Honored council members, Briid, my nephew: Please go now. I am sorry that the ceremony has had such a tragic outcome. ^ ^ Tom and Rainer, I must speak with you."
+"Dsarii-ma, Sebainah Janiis.
+"Dsarii-ma, Drirr. Have you been informed of Akiir's murder?"
+"Yes. What a shock!"
+"Indeed! Drirr, I'm sure you've heard of Tom and Rainer, our visitors. They are strangers here and they need your help to solve this crime."
+"I will stand beside them with everything I have, Sebainah. ^ ^ Tom and Rainer, I am sorry we have to meet under such circumstances."
+"Dsarii-ma, Drirr. We are a little overcome by what has happened."
+"I believe what you're saying. We should probably talk with Sebai-Giz Frill first. He can certainly tell us something about the murderer's human tribe. Let's go to his room. I am sure he knows about all this."
+"Drirr! The murderer has been seen in the vicinity of the guild house of the Dji-Kas Magicians!"
+"A trail! Let's immediately go to the Dji-Kas!"
+All of them hurry to the guild house of the Magicians.
+"This door leads to the room of the chief of the city, Sebainah Janiis. I will leave you now."
+"Tom and Rainer, this is a difficult time. Some will assume that you had something to do with the murder for the simple fact that you are humans. I do not know your race well, but I believe you are just as shocked by all this as I am."
+"Janiis, no one ever told us that there are native HUMANS on this planet! We are just trying to get over the shock!"
+"You didn't know that? But I thought... You must have misunderstood our first conversation. You would have gotten to know your fellow humans on the island that we were going to take you to."
+"You speak as if your offer can no longer be kept after what has happened."
+"So it is. Unfortunately, I must inform you of our people's laws relevant to this type of crime. In order to compensate for the often undisciplined nature of many Iskai, there is the Law of Family Responsibility. Thus, to discourage transgressions, the entire family of a criminal is responsible for his behavior. If the Stiriik cannot immediately capture the evil-doer, the family is obligated to find their rebellious member or solve the crime. Of course, in this case they are supported and monitored by at least one Stiriik. ^ ^ Since you are the only humans in Jirinaar, you take the place of the family. You are now obligated to solve this murder and find the guilty parties. Only then can I permit you to continue your journey."
+"But we are still strangers on this world. How can we possibly find those guilty of this crime?"
+"I have already had a capable Stiriik sent for. He will help you with your task."
+"It looks as if we have no other choice, right?"
+"Unfortunately, no. I cannot overrule the laws. I can only wish you good luck in the hunt for the fugitive murderer and whoever gave him his orders."
+"You're sure this was ordered by someone?"
+"Without a doubt. The murderer belongs to a human race who are famous for their assassinations. These people seldom kill for their own interests. You should talk with Frill; I've heard he's in the palace again. Surely, he is on his way here. ^ ^ Ah, here comes Drirr, the Stiriik who will accompany you."
+{CNTR}{INK 001} On the shield it says: ^ ^ {INK 006} ^ ^ Workroom of Sebai-Giz Frill {INK 006}
+{CNTR}{INK 001} On the shield it says: ^ ^ {INK 006} ^ ^ Workroom of the Sebainah Janiis, chief of Jirinaar
+Drirr joins up with Tom and Rainer. ^ ^ Together they go to the workroom of the scholar, Frill, who has just returned from a long trip. ^ ^ Drirr says Frill is the oldest Iskai of Nakiridaani and has a great deal of wisdom.
+"Hopefully, the Stiriik of the City Watch will spot the murderer soon. ^ ^ Perhaps we should also search the city streets."
+They all hurry to the guild house of the Magicians of Jirinaar, the Dji-Kas. ^ ^ The murderer can't be found on the street and so they enter the house...
+"This Sebainah appears to be the chief here. I am anxious to see what she wants of us."
+Bradir is quickly transported to the healer. ^ ^ As soon as he is treated, there is a gathering in the council building in the room of the Sebainah, where Bradir must explain his actions. ^ ^ In addition to Tom, Rainer, and Drirr, Sira, the daughter of the murdered Akiir, has also been summoned.

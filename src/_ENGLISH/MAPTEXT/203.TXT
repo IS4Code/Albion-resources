@@ -1,80 +1,80 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿-free-
+Grass.
+Rocks.
+Low ground plants.
+Small branches and roots.
+Sedges.
+A small fruit tree.
+A round-topped tree.
+A broad-leafed tree.
+Rapids.
+A whirlpool.
+A water plant.
+The water is very deep and the current appears to be strong.
+Water plant sprouts.
+A blooming plant.
+A shade tree.
+These plants gleam in fascinating shades of color.
+Vegetables.
+A boulder.
+The water is very calm and clear enough to see the bottom. Numerous boulders lie in the water and there is almost no current.
+A fruit tree.
+A fence.
+A stalk plant. 
+A climbing, grasping plant.
+A bush.
+A large-leafed plant.
+A waterfall.
+A rock ledge.
+A plant growing on the ledge.
+This climbing plant, with its thousands of roots, has anchored itself into the irregular rock structure. It appears to be very stable and, with its many branches, offers sufficient support for rock climbing.
+A wooden bridge.
+Grain fields.
+Mushrooms.
+A Celtic hut.
+An entrance into a Celtic hut.
+A fence separating the animal pen.
+A gate in the rail fence.
+A city wall.
+A gate in the city wall.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Territorial fences, which makes one wonder how the original inhabitants managed to deal with such steep slopes...
+"Oink."
+The animal says nothing in reply.
+"During the day, I have to harvest the fields and tend to the cattle. I come from Srimalinar, the Iskai city northwest of Maini."
+A cave entrance.
+{LEAD}{NAME} finds a hidden treasure.
+Kounos.
+It is strangely quiet in Kounos. No human sound is heard and something almost sinister lies over the village. The villagers have probably gathered at the shrine of Srimalinar to fight the Iskai and occupy their shrine.
+"Begone! We have to defend this position."
+"Don't worry - we'll attack soon and put an end to the horrors."
+People are looking angrily at {LEAD}{NAME} and the others. An Iskai in the front rows says: ^ ^ "Is it true that you are looking for evidence to incriminate Kontos? Even if you were to find such evidence, I doubt it would prevent a war. I don't know when the Mahinos will attack, but as you can see they're not very peaceful." ^ ^ Some Mahinos reply immediately: ^ ^ "Nonsense! ^ We will put an end to this farce and show the world what actually goes on in that weird building. We're only waiting for Kontos to give the attack order." ^ ^ {LEAD}{NAME} scans the crowd for Kontos, but doesn't see him. ^ ^ Because of the tense situation, {LEAD}{NAME} and {HIS } companions decide not to go into the shrine. ^ ^ If only someone could find evidence against Kontos... Maybe it would be helpful to speak to all of the people again. Or perhaps something incriminating can be found in Kontos' laboratory. Or in the Iskai town of Srimalinar? After all, the Iskai are the most affected by this and they surely aren't completely ignorant.
+Tom walks between the two parties and holds up the incriminating document for everyone to see. The crowd grumbles as Kontos suddenly comes out of the shrine and immediately speaks to his people:
+"Don't believe him! Don't fall into the trap! This is really a very simple trick. They are trying to mislead you. The document is a falsification!"
+"If even half of the document matches the part that Edjirr has kept, then it is genuine. Please, may I see the document at once?"
+Tom gives the document to a small group of Iskai people. Several others gather around as they begin to examine the document. Darios suddenly emerges from the rows of the Mahinos and asks the Iskai if he, too, can examine the document. The small group converges while Kontos does all he can to calm the Mahinos, who are quickly becoming more and more skeptical. ^ ^ {LEAD}{NAME} and {HIS } companions move to where they can address both groups. They tell the Iskai and the Mahinos about their recent conversations and the evidence they have found. Both groups grow restless and the gathering turns into a great pandemonium. ^ ^ Kontos stands there, petrified, as he recognizes that he is losing all control. Finally, he makes one last effort and shouts:
+"Listen to me! What I am saying is true! I will prove to you that this place is full of horror and terror! I will enter the shrine and return with proof once and for all."
+"If you desecrate our shrine we will take revenge!"
+"Bah - Shrine - Empty words."
+Kontos enters the holy building, closely followed by several Iskai. ^ ^ In the meantime, Darios has returned to his clan brothers. Immediately, all gather around as he begins talking hastily. The Mahinos look confused and upset. The Iskai seem concerned as well. Then, after some time, a speaker steps forward and announces:
+"We are certain that the document is genuine and that we fully understand its contents. Darios will agree with us, as he has seen the document for himself. ^ ^ The document is a contract between Kontos, Riko, and Gard. A long time ago, the three of them discovered something that we never knew. Under our holy vault lie large amounts of valuable metals and minerals. This also explains why someone - probably Kontos - entered the shrine and dug several holes: he was probably taking samples. Kontos is intelligent; with his good geographical knowledge, he probably knew that this was a prime location for minerals and metal deposits. And so, we now understand that our shrine has been standing on a valuable metal mine for generations and we have never known about it. It is easy to understand Kontos' plans now. With his purposeful rumors, he wanted to convince everyone that the shrine was dangerous for all Maini. Fortunately, he only partially succeeded. The plan suggested destroying the shrine so that the valuable ores could be mined quietly. Gard and Riko's part in this plot was to monitor the situation in Beloveno. They were spreading the same rumors there. As thanks for their support, naturally, they were to have shared in the profits. The document even specifies the shares. Also, they have used their influence in the council on Kontos' behalf. But, Kontos also made a grave mistake: He assumed that Mother Earth would allow the ores to be given away to criminals without Her consent. Naturally, Kontos does not believe in such things. He thinks that everything can be solved with mathematics and magic.
+"But those horrible creatures. They were here, weren't they? Some of them are still being found. Didn't they come out of the shrine?"
+"No, they were also creations of Kontos. He is the only magician in all of Maini who is able to create and call forth such creatures. All of his closest confidants can confirm that. He succeeded in two things with these creatures: he was able to test his magic and create false evidence that could support his claims. Fortunately, our kind of magic is incapable of doing these things."
+This long address unsettles even the last Mahino who still stands behind Kontos. A new unrest spreads and there is intense discussion among the Mahinos. ^ ^ It looks as if they cannot believe they have been used as mere tools in Kontos' greedy plans. And, even if some questions are still unanswered, it is still clear that the people of Kounos have been deceived. ^ ^ {LEAD}{NAME} and the others have prevented the worst, and now it is just a matter of time before the two groups can reconcile. The more reasonable Mahinos apologize to the Iskai; others head back to Kounos-offended and depressed. One thing is clear for both groups-they are thankful for your intervention and peaceful solution. Both Iskai and Mahinos invite you to visit them again soon. ^ ^ Suddenly, you remember that there is still one big problem. ^ ^ What is Kontos doing in the shrine?
+A small bush with seeds.
+The entrance to the shrine.
+It would probably be better not to break the taboo! Tom and the others think it is better not to enter the shrine.
+The entrance to this hut is closed.
+To Srimalinar - north over the bridge.
+Human beings may not enter the holy site of the Iskai.
+"Hmm... I think there's trouble brewing here. I suggest we try to find out more about this problem by talking to the important people in each of the cities and villages. Perhaps we can meditate-if we can find something positive we're sure to find some people who'll help us."
+"Skeima Din! ^ ^ I'm so glad I finally found you, I've been looking everywhere. Kariah sends me - she has something important to tell you - it is very urgent. I only know that it is a matter of life and death! Please go to her home in Beloveno as fast as you can. Go immediately. If you stop for any reason, it may be too late. You can do your visiting later."

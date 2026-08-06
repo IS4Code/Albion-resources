@@ -1,0 +1,2 @@
+﻿{BLOK000} "I am the senior scholar in our guild."
+"Skeima Din. ^ ^ If you like, I can instruct you in Iskai magic." {BLOK010} "We would like to learn some magic spells." {WORDIskai}{WORDritual}

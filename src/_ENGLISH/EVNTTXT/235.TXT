@@ -1,0 +1,6 @@
+﻿{BLOK000} "I am a member of the Council of the Just and, as hard as it is, I must see to it that the interests of the people are taken into account."
+"Welcome, it's great to see you again." {WORDshrine}{WORDtown hall}
+"Do you know that everyone now looks up to you? Maybe it doesn't say much for us, but without your being here, this conflict would have ended differently. Your diplomatic capabilities were very helpful to us and, in the name of the council and of Beloveno, I would like to thank you very much." {WORDKontos}
+"It's really good that you have freed Kounos and us from him."
+"The council meets regularly in the council house, and sometimes, when there is a great occasion, we invite the entire city into our great meeting hall. There are a lot of small rooms which we use for discussions and which can be rented for other purposes. In the south wing is the great meeting hall and a meeting room. In the north wing you will find the smaller rooms, and in the middle are the kitchen and dining room. Feel free to look around."
+"That's me."

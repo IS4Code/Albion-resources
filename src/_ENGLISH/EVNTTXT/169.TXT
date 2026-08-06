@@ -1,0 +1,9 @@
+﻿{BLOK000}"I still go to school. My father doesn't have a lot of relatives, so I didn't have to go to a foster family."{WORDschool}{WORDfather}{WORDfoster care}
+"Togi Din! You are visitors from distant countries, right? And you want to talk to ME? Oh, by the Gods, this is the first time I've ever seen a furry, ahem, I mean Iskai, with my own eyes! You are so big!"{WORDGods}{WORDIskai}
+"Togi Din! You are visitors from distant lands, right? And you want to talk to ME?"
+"Togi Din! You want to talk to me again?"
+"Yes, a Druid comes from Arjano and teaches the children. Sometimes it is boring, but sometimes he tells really great stories."{WORDdruids}{WORDArjano}
+"Well, like I said: a Druid comes from Arjano and teaches us."{WORDdruids}{WORDArjano}
+"I've heard a lot about them. Some of us belittle them, but others fear and respect them for their warrior skills."{WORDwarrior}
+"My father is one of the best warriors in the village and he serves our king!"{WORDking}
+"Well, I wouldn't liked having to leave my parents, but then I would have a second family. But really I just like it the way it is."

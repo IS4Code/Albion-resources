@@ -1,0 +1,8 @@
+﻿{BLOK000}"My title, as head of the Druids, doesn't mean much here, and I am glad about that. Here I'm an equal among equals."
+"Togi Din. I hope you are enjoying your stay here. This is a peaceful island where one can meditate to draw force from Animebona." {WORDAnimebona}{WORDmeditate}
+"The Entity has blessed this place. Here, her power is stronger than anywhere else on Albion. There are certain places on this island where, through quiet meditation, you can grow in body and spirit." {WORDAlbion}{WORDEntity}{WORDplaces}
+"You will find these places if you look for the flowers of the Goddess." {WORDGoddess' flowers}
+"These small, brilliantly colored flowers grow, it is said, in places particularly blessed by the Entity."
+"Dsarii-ma, friends. I hope you are making good progress in acquiring the knowledge we need to make the seed." {WORDseed}
+"Dsarii-ma, friends. As I see, you still haven't headed to the center of danger, the Toronto. Please hurry." {WORDToronto}
+"Oh, Bero! He's doing well, he's quite himself again."

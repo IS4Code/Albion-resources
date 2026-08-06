@@ -1,0 +1,2 @@
+﻿{BLOK000} "I am a merchant."
+"Skeima Din, ^ ^ you're sure to find that I have everything your heart desires. From torches to healing potions, I can offer you everything. You can't buy things like this anywhere else in Beloveno." {BLOK010} "We would like to buy something." {BLOK011} "We would like to sell something." {WORDBeloveno}

@@ -1,0 +1,10 @@
+﻿{BLOK000}"I catth wild animalth in the woodth, thlaughter them, and then thell the meat. Tho I gueth you could call me a hunter, butthyer, and thalethman, thee?"{WORDhunter}
+"Thkeima Din, thtrangerth. I am Aurino and I am glad to meet you. Well, how do you like our thugo?" {BLOK010} "Thkeima... Skeima Din. Thank you for asking. We appreciate a good drink!" {BLOK011} "Skeima Din, Aurino. The pleasure is entirely on our side. But this sugo is really quite disgusting!"
+-free-
+"Hmm, normally it taketh a very long time to acquire a tathte for it, thee? But I'll believe you. Ath long ath you don't drown your thorrowth with it..." {WORDsorrow}
+"Heh heh heh. I like you. At leatht you're honetht. If everyone were tho honetht, there wouldn't be tho mudth trouble in Beloveno."{WORDsorrow}
+"Well, what would you thay if you couldn't trutht the motht important people in the thity?"{BLOK010} "Could you be more specific?"
+"Well, the Counthil of the Jutht thhould be for the people. For the thecond time now I've had a quarrel with my neighbor. It wath over real ethtate, and we were quarreling about ownerthhip. Our withe counthil thhould make a jutht decithion in catheth like thith. But in both catheth a juddthment wath made whidth wathn't favorable for me or my neighbor. The counthil thimply confithcated the property, thee? I don't underthtand it. Thomething ithn't right in that counthil."{WORDpiece of land}
+"I enjoy my profeththion, thank you!"
+"That doethn't have anything to do with it. I only menthioned it ath an eggthample, thee?"
+"That's me."

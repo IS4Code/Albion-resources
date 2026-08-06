@@ -1,11 +1,11 @@
-﻿
-
-
-
-
-
-
-
-
-
-
+﻿free
+Prisoners are behind these bars. Since the barred doors look very stable, there is no danger.
+This door leads to the front room. It is locked.
+This door leads to the front room. It is open.
+An empty key ring board.
+A key hangs on this key ring board.
+{INK 006} No room for luggage.
+"I want out of here! Let me out!!!"
+"The world is unjust and frustrating! But, who are we-we're just mere grains of sand."
+"Just leave me alone, unless you want a knife between your ribs."
+"Say hello to the world for me. I haven't seen the sun for a long time. But I'm gonna get out of here soon! I'll be sooo glad to breathe fresh, warm air again."
