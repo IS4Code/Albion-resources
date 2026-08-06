@@ -1,4 +1,4 @@
-﻿{BLOK000}"Ich bin einer der Jäger dieses Clans.{WORDJäger}{WORDClan}"
+﻿{BLOK000}"Ich bin einer der Jäger dieses Clans.{WORDClan}"
 "Dsarii-ma, Gäste des Hauses. Wie ich sehe, hat Giria Euch wieder in die Senkrechte bekommen.{WORDGiria}" {BLOK010}"Dsarii-ma. Sagt bitte, was ist der Zweck dieses Teil des Hauses?"
 "Dies hier ist der Ruhebereich des Hauses. Ich werde hier wohl noch einige Zeit zubringen, denn ich bin bei einer Jagd verletzt worden.{WORDJagd}"
 "Dsarii-ma. Was kann ich noch für Euch tun?"

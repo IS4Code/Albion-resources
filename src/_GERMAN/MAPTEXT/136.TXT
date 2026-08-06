@@ -124,7 +124,7 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
-
+--- coming soon: merchant ---
 "Togi Din, Reisende! Ich kann Euch unsere getrockneten Früchte empfehlen, die Ernte war wundervoll!"
 "Togi Din. Ach, mein Mann ist ein solcher Vielfraß, ich komme mit dem Kochen kaum noch nach!"
 "Togi Din. Fast das ganze Dorf kauft hier ein, nur den alten Rifrako sieht man hier nie. Ein seltsamer Kerl."

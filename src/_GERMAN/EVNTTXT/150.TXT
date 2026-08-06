@@ -1,4 +1,4 @@
-﻿
+﻿leer
 "Viehbesitz ist die Grundlage allen Reichtums. Wer bei uns einen hohen Rang hat, ist meist auch im Besitz von Vieh, das er zum Teil an seine Ceile verpachtet."{WORDCeile}
 "Ein Ceile, oder Begleiter, gehört zur Gefolgschaft des Mannes, von dem er seinen Ehrenpreis ausgezahlt bekommen hat. Er verzichtet also gegen eine Geldsumme und günstige Pacht von Vieh auf einen Teil seiner gesetzlichen Rechte, wie beispiels|weise das Tragen von Waffen, und ist verpflichtet, bei Versammlungen seine Stimme an den Pächter abzugeben, der dadurch an Rang und Einfluß gewinnt."{WORDVieh}{WORDGesetz}
 "Es ist üblich, seine Kinder im Alter von etwa 7 oder 8 Jahren in die Pflegschaft zu einer anderen Familie zu geben, der Ziehvater wird Attio genannt. Dort lernt das Kind einen Beruf, und die Pflegschaft fördert die Verbindung zwischen den Familien. Die Pflegschaft endet schließlich bei Mädchen im Alter von 14 und bei Jungen von 17 Jahren."

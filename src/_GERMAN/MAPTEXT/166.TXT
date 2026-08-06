@@ -1,6 +1,6 @@
 ﻿"MEIN GOTT! Das ist also die Wüstenwelt! Ich werde verrückt! Schauen Sie doch nur!"
 "Phantastisch! Riechen Sie nur! Hören Sie! Hier wimmelt es von Leben!"
-
+"Wie konnte die Sonde nur solche Daten senden? Das ist eine Sensation!"
 "Lassen Sie uns zuerst vom Shuttle weggehen. In dieser sauerstoff|reichen Atmosphäre könnte es..."
 Alles um Tom herum versinkt in Licht, dann in Dunkelheit, die für eine lange Zeit anhält. Dann beginnt Tom wieder, seinen Traum zu träumen...
 {CNTR}{FAHI} FEDDICH !

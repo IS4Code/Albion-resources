@@ -4,3 +4,5 @@
 "Ich habe die Berechnungen Deiner Flugbahn nochmal überprüft. Ist alles im grünen Bereich, keine kritischen Punkte in der Bahn. Sollte 'n Kinderspiel werden."
 "Wie schon gesagt, die Berechnungen der Flugbahn sind fertig und überprüft."
 "Ziemlich harter Job, diesmal. Obwohl, oder gerade weil wir Ned, die Wunder-AI an Bord haben. Während des ganzen Fluges habe ich versucht, der AI Fehler nachzuweisen, aber es war nichts zu machen. Ich schätze, daß ich mich durch die Überprüfungen noch selbst wegrationa|lisieren werde. Noch traut man den AI - Systemen nicht hundert|prozentig, aber das ändert sich bald, schätze ich."{WORDAI}
+{BLOK000}Was kannst Du sagen über... {BLOK001}Schau Dir mal dies hier an... {BLOK004}Bis demnächst! {BLOK005}Was ist Dein augenblicklicher Job?
+"Bis dann."

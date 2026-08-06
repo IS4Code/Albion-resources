@@ -1,33 +1,33 @@
 ﻿Die Furcht 1
-
-
-
-
-
-
-
-
+Brogg 1
+Skrinn 1
+Krondir 1
+Kizz 1
+Argim
+Warniak 1
+Rinrii 1
+DELETED!!!
 Magier 1
-
+Secu 1
 Tier 1
 Die Furcht 2
 Die Furcht 3
-
-
-
-
-
-
-
-
-
-
-
-
+Brogg 2
+Brogg 3
+Skrinn 2
+Krondir 2
+Kizz 2
+Kizz 3
+Warniak 2
+Warniak 3
+Rinrii 2
+Rinrii 3
+DELETED!!
+DELETED!!
 Magier 2
 Magier 3
-
- Tier 2
+Secu 2
+Tier 2
 Tier 3
 Sturm 1
 Sturm 2
@@ -36,9 +36,9 @@ Pest 1
 Pest 2
 Pest 3
 Tiermeister
-
-
-
+Kledo Kamulos 1
+Kledo Kamulos 2
+Kledo Kamulos 3
 Sandtaucher 1
 Sandtaucher 2
 Sandtaucher 3
@@ -48,14 +48,12 @@ AI-Körper 2
 Bandit 1
 Bandit 2
 Bandit 3
-
-
-
-
-
-
-
-
+Kamulos
+AI
+Kritah 1
+Kritah 2
+Kritah 3
+Bradir
+Nodd
+Kontos
 AI-Körper 2
-
-

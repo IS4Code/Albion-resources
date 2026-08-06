@@ -4,5 +4,5 @@
 "Nun, zuerst werden die mitgebrachten Systeme genügend Erze abbauen, um eine Fertigung für weitere Roboter|systeme zu errichten. Dann entsteht ein selbstlaufender Prozeß, bei dem immer mehr überschüssiges Erz abfällt, das wir mit den billigen Containern nach Hause ballern."{WORDRoboter}{WORDErz}
 "Die neuen Modelle sind riesig, mit integrierten Selbstreparatur|kreisen. Sind unverwüstlich, die Dinger."
 "Es soll ja alle möglichen Sorten auf Nugget geben".
-
+{BLOK000}Was kannst Du sagen über... {BLOK001}Schau Dir mal dies hier an... {BLOK004}Bis demnächst! {BLOK005}Was ist Dein augenblicklicher Job?
 "Tschüß, Tom."

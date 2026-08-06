@@ -1,16 +1,16 @@
-﻿Messer              
+﻿Messer
 Kurzdolch
-Dolch               
+Dolch
 Großer Dolch
 Kurzschwert
 Schwert
 Zweihänder
-Lughs Dolch         
-Danus Licht         
+Lughs Dolch
+Danus Licht
 Stich
 Zweistich
 Schweres Kurzschwert
-Verziertes Schwert  
+Verziertes Schwert
 Wurfdolch
 Langschwert
 Kleine Axt
@@ -22,17 +22,17 @@ Doppelstreitaxt
 Streitkolben
 Streithammer
 Iskai-Messer
-Iskai-Dolch         
+Iskai-Dolch
 Iskai-Stilett
 Iskai-Kurzschwert
 Großes Iskai-Stilett
 Iskai-Schwert
-Großer Iskai-Säbel  
+Großer Iskai-Säbel
 Iskai-Langschwert
 Iskai-Lanze
 Großer Iskai-Dolch
 Iskai-Kurzstilett
-Bradirs Stilett     
+Bradirs Stilett
 Großes Iskai-Schwert
 Kleiner Bogen
 Bogen
@@ -41,10 +41,10 @@ Pfeil
 Langer Pfeil
 Mini-Bolzenschleuder
 Bolzenschleuder
-Bolzengewehr        
+Bolzengewehr
 Bolzen
 Giftbolzen
-Pistole             
+Pistole
 Kleiner Lederschild
 Lederschild
 Rundschild
@@ -64,38 +64,38 @@ Iskai-Metallhelm
 Lederweste
 Lederrüstung
 Beschlagenes Leder
-Leichtes Kettenhemd 
-Schweres Kettenhemd 
+Leichtes Kettenhemd
+Schweres Kettenhemd
 Iskai-Brustschutz
 Iskai-Metallschutz
 Leichte Iskairüstung
 Iskai-Rüstung
 Schuhe
-Stiefel             
+Stiefel
 Leere Flasche
-Grüner Heiltrank    
+Grüner Heiltrank
 Türkisener Heiltrank
 Blauer Heiltrank
 Roter Trank
 Violetter Trank
 Blauer Trank
-Jägerclan-Schlüssel 
-Türschlüssel        
-Schlüssel Gerätem.  
-Türschlüssel        
-Zellenschlüssel     
-Truhenschlüssel     
-Kerkerschlüssel     
-Herras Schlüssel    
-Türschlüssel        
+Jägerclan-Schlüssel
+Türschlüssel
+Schlüssel Gerätem.
+Türschlüssel
+Zellenschlüssel
+Truhenschlüssel
+Kerkerschlüssel
+Herras Schlüssel
+Türschlüssel
 Schlüssel Tiermeist.
 Seil
 Stab der Schlange
 Stab des Kristalls
-Danus Halsreif      
-Eisring             
+Danus Halsreif
+Eisring
 Feuerring
-Ring der Wut        
+Ring der Wut
 Ring der Göttin
 Buch
 Fackel
@@ -190,7 +190,7 @@ Schere
 Schale
 Schraubenschlüssel
 Feine Schere
-Flasche             
+Flasche
 Fläschen
 Schale mit Wasser
 Schale
@@ -230,7 +230,7 @@ Metallteller
 Buch
 Ledergebundenes Buch
 Notizblätter
-Schreibstift        
+Schreibstift
 Buch
 Buch
 Eimer
@@ -259,204 +259,204 @@ Iskai-Ringbuch
 Iskai-Ringblock
 Schreibstift
 Kurzer Schreibstift
-Hebel               
-Eimer mit Wasser    
-Monsterauge         
-Kompass             
-Uhr                 
-Spitzhacke          
-Regenbogenstab      
-Blauer Stab         
-Iskai-Zierdolch     
-Spezial-Schraubenz. 
-Blaue Codekarte     
-Rote Codekarte      
-Grüne Codekarte     
-Türkisene Codekarte 
-Notizzettel         
+Hebel
+Eimer mit Wasser
+Monsterauge
+Kompass
+Uhr
+Spitzhacke
+Regenbogenstab
+Blauer Stab
+Iskai-Zierdolch
+Spezial-Schraubenz.
+Blaue Codekarte
+Rote Codekarte
+Grüne Codekarte
+Türkisene Codekarte
+Notizzettel
 Türkis-Musikkristall
 Blauer Musikkristall
-Roter Musikkristall 
+Roter Musikkristall
 Grüner Musikkristall
 Purpur-Musikkristall
 Violet-Musikkristall
-Ocker-Musikkristall 
-Fleischbrocken      
-Axt                 
-Großer Pfeil        
-Pfeil               
-Bolzengurt          
-Patrone             
-Dietrich            
-Stimdrink           
-Metallteller        
-Metallteller        
-Glas                
-Becher              
-Becher              
-Behälter            
-Behälter            
-Flasche             
-Flasche             
-Becher              
-Behälter            
-Behälter            
-Behälter            
-Kanne               
-Becher              
-Becher              
-Dose                
-Gefäß               
-Gefäß               
-Pfeffer und Salz    
-Soyasoße            
-Topf                
-Kleine Dose         
-Topf                
-Schaufel            
-Spaten              
-Schraubenschlüssel  
-Schraubenschlüssel  
-Schraubenzieher     
-Handkonsole         
-PDA                 
-Schraubenzieher     
-Zange               
-Silberhalsreif      
-Goldhalsreif        
-Silberring          
+Ocker-Musikkristall
+Fleischbrocken
+Axt
+Großer Pfeil
+Pfeil
+Bolzengurt
+Patrone
+Dietrich
+Stimdrink
+Metallteller
+Metallteller
+Glas
+Becher
+Becher
+Behälter
+Behälter
+Flasche
+Flasche
+Becher
+Behälter
+Behälter
+Behälter
+Kanne
+Becher
+Becher
+Dose
+Gefäß
+Gefäß
+Pfeffer und Salz
+Soyasoße
+Topf
+Kleine Dose
+Topf
+Schaufel
+Spaten
+Schraubenschlüssel
+Schraubenschlüssel
+Schraubenzieher
+Handkonsole
+PDA
+Schraubenzieher
+Zange
+Silberhalsreif
+Goldhalsreif
+Silberring
 Ring mit Goldeinlage
-Goldring            
-Silberkette         
+Goldring
+Silberkette
 Kette mit Goldemblem
-Goldkette           
-Edelsteinkette      
-Edelstein           
-Edelstein           
-Edelstein           
-Edelstein           
-Edelstein           
-Edelstein           
-Edelstein           
-Edelstein           
-Edelstein           
-Edelstein           
-Triifalai-Samenkorn 
-Glückskette         
-Diebesamulett       
-Flinkheits-Amulett  
-Schutz-Amulett      
-Amulett der Kraft   
-Stärkungsamulett    
-Porenöl             
-Duftwasser          
-Kristalldolch       
-Sonnendolch         
-Feuerklinge         
-Kamulos Blick       
-Frostbringer        
-Kristallwurfaxt     
-Helm mit Kristall   
-Helm "Lughs Hand"   
-Dokument            
-Dokumentteil        
-Dokumentteil        
-Traumschild         
-Lughs Schild        
-Warniak-Kugel       
-Krondir-Trii        
-Diamant             
-Tharnos Erlaubnis   
-Feuerball           
-Flammenbiß          
-Schattenschwert     
-Rotes Schwert       
-Kristallgriff-Dolch 
-Blauer Dolch        
-Schwarzstein-Helm   
-Weißer Ring         
-Overall             
-Kleidung            
-Stein der Visionen  
-Wissen Metallmagie  
-"Das hohe Wissen"   
-Kenget-Zettel       
-DAS SAMENKORN       
-DAS SAMENKORN       
-Codezettel Teil 1   
-Codezettel Teil 2   
-Codezettel Teil 3   
-Kellerkarte         
-Videokamera         
-Speichermedium      
-Joes Chip           
-Leuchtstab          
-Leuchtstab          
-Amulett der Göttin  
-Kleine Warniakkugel 
-Dji Cantos - Stein  
-Dornenschlinge      
-Hast                
-Lebenssicht         
-Antidot Gift        
-Antidot Verrückheit 
-Antidot Krankheit   
-Frostsplitter       
-Frostkristall       
-Frostlawine         
-Leichte Heilung     
-Blendfunke          
-Blendstrahl         
-Blendsturm          
-Schlafsporen        
-Dornenfalle         
-Falle entfernen     
-Heile Lähmung       
-Heile Rausch        
-Heile Blindheit     
-Heile Vergiftung    
-Verpilzung          
-Licht               
-Regeneration        
-Kartensicht         
-Lebensbringer       
-Teleport            
-Schneller Rückzug   
-Levitation          
-Stein               
-Zorn der Göttin     
-Irritation          
-Erholung            
-Berserker           
-Dämon vertreiben    
-Dämonen vertreiben  
-Dämonenexodus       
-Kleiner Feuerball   
-Magischer Schild    
-Heilung             
-Prahlen             
-Schreck             
-Panik               
-Giftstein           
-Blitzschlag         
-Feuerregen          
-Blitzstrahl         
-Feuerhagel          
-Blitzsturm          
-Blitzfalle          
-Große Blitzfalle    
-Blitzmine           
-Große Blitzmine     
-Leben stehlen       
-Magie stehlen       
-Persönlicher Schutz 
-Kamulos Blick       
-Falle entfernen     
-Schockstab          
-Schwere Feuerwaffe  
-Iskai-Schuhwerk     
-Farbkarte           
-Schatzkarte         
-Mellthas Blätter    
-Mellthas Stift      
-Laser               
+Goldkette
+Edelsteinkette
+Edelstein
+Edelstein
+Edelstein
+Edelstein
+Edelstein
+Edelstein
+Edelstein
+Edelstein
+Edelstein
+Edelstein
+Triifalai-Samenkorn
+Glückskette
+Diebesamulett
+Flinkheits-Amulett
+Schutz-Amulett
+Amulett der Kraft
+Stärkungsamulett
+Porenöl
+Duftwasser
+Kristalldolch
+Sonnendolch
+Feuerklinge
+Kamulos Blick
+Frostbringer
+Kristallwurfaxt
+Helm mit Kristall
+Helm "Lughs Hand"
+Dokument
+Dokumentteil
+Dokumentteil
+Traumschild
+Lughs Schild
+Warniak-Kugel
+Krondir-Trii
+Diamant
+Tharnos Erlaubnis
+Feuerball
+Flammenbiß
+Schattenschwert
+Rotes Schwert
+Kristallgriff-Dolch
+Blauer Dolch
+Schwarzstein-Helm
+Weißer Ring
+Overall
+Kleidung
+Stein der Visionen
+Wissen Metallmagie
+"Das hohe Wissen"
+Kenget-Zettel
+DAS SAMENKORN
+DAS SAMENKORN
+Codezettel Teil 1
+Codezettel Teil 2
+Codezettel Teil 3
+Kellerkarte
+Videokamera
+Speichermedium
+Joes Chip
+Leuchtstab
+Leuchtstab
+Amulett der Göttin
+Kleine Warniakkugel
+Dji Cantos - Stein
+Dornenschlinge
+Hast
+Lebenssicht
+Antidot Gift
+Antidot Verrückheit
+Antidot Krankheit
+Frostsplitter
+Frostkristall
+Frostlawine
+Leichte Heilung
+Blendfunke
+Blendstrahl
+Blendsturm
+Schlafsporen
+Dornenfalle
+Falle entfernen
+Heile Lähmung
+Heile Rausch
+Heile Blindheit
+Heile Vergiftung
+Verpilzung
+Licht
+Regeneration
+Kartensicht
+Lebensbringer
+Teleport
+Schneller Rückzug
+Levitation
+Stein
+Zorn der Göttin
+Irritation
+Erholung
+Berserker
+Dämon vertreiben
+Dämonen vertreiben
+Dämonenexodus
+Kleiner Feuerball
+Magischer Schild
+Heilung
+Prahlen
+Schreck
+Panik
+Giftstein
+Blitzschlag
+Feuerregen
+Blitzstrahl
+Feuerhagel
+Blitzsturm
+Blitzfalle
+Große Blitzfalle
+Blitzmine
+Große Blitzmine
+Leben stehlen
+Magie stehlen
+Persönlicher Schutz
+Kamulos Blick
+Falle entfernen
+Schockstab
+Schwere Feuerwaffe
+Iskai-Schuhwerk
+Farbkarte
+Schatzkarte
+Mellthas Blätter
+Mellthas Stift
+Laser

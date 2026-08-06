@@ -32,6 +32,6 @@
 "Alle hier im Orden sind meine Brüder. Schwestern hat hier keiner. Auch meine Eltern habe ich verstoßen, als ich Kenget wurde. Denn auch sie sind nur in der zweiten Stufe. {WORDStufen} {WORDKenget} {WORDBrüder}"
 "Nein, von einem Geheimgang weiß ich nichts. Sagt mal, was wollt Ihr eigentlich hier? Wollt Ihr Assassinen mieten?" {WORDAssassinen}
 "Unrein ist eigentlich jeder, der kein Kenget ist. Aber da in jedem Mann möglicherweise ein Kenget steckt, ohne daß er das jemals wird, kann ein Mann durch seinen ehrenvollen Tod rein werden. Das ist allerdings für einen Menschen schwer nachträglich festzustellen. Denn die Reinheit äußert sich durch tiefe Erkenntnis in die ewigen Gesetze Kamulos' im Moment des Todes. Aber Kamulos weiß darum und schart die reinen Toten um seine Tafel."
-
+!
 "Der Zustand des höchsten Glücks und der höchsten Ehre. Wenn Kamulos deinen Geist erfüllt und sich aller Geist in Magie und Todesmut verwandelt. Dann kontrolliert nicht mehr deine Angst dein Handeln, sondern die totale Überwindung derselben. Unser Zaubermeister kann Dir da mehr drüber erzählen." {WORDGeist}
 "Ich entbiete Dir Grüße, Unwissender. Mit wem habe ich es zu tun? Und welche Fragen darf ich Dir beantworten?" {WORDCuain}

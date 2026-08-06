@@ -18,3 +18,4 @@
 "Mhm, ganz meine Meinung. Er ist vertrauen|erweckend, trotzdem werde ich den Eindruck nicht los, daß der alte Knabe sogar noch mehr weiß, als er uns erzählt. Aber wir sollten jetzt besser wieder Iskai reden."
 {INK 001}{LEAD}{NAME} zeigt Frill den Zierdolch und erklärt, woher er stammt. Frill sagt:^^{INK 002} "Ein seltenes Stück aus alter Zeit. Dieser Dolch ist sicherlich über 150 Jahre alt. Ich bin kein Spezialist für diese Dinge, aber es würde mich nicht wundern, wenn er sogar magische Wirkung entfalten könnte.^^ Die Familie von Bradir, dem neuen Oberhaupt der Formergilde, war im Besitz dieses Dolches. Seltsam, daß der Mörder im Besitz dieser kostbaren Waffe war."
 "Wie schon gesagt, der Dolch gehörte einmal der Familie Bradirs, des Nachfolgers von Akiir als Oberhaupt der Formergilde."
+"So lautet mein Name, sehr richtig."

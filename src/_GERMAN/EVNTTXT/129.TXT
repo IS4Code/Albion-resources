@@ -1,5 +1,5 @@
 ﻿"{BLOK000}Ich bin nun das Oberhaupt der Gilde und kann mich doch nicht daran freuen."
-
+ 
 "Was wir tun, sehen wir als Mischung von Magie, Kunst und Handwerk an. Wir sind eine der ältesten Gilden Jirinaars und wie Ihr sicher wißt, können wir mit Hilfe unserer Magie Pflanzen erschaffen, verändern und dauerhaft in eine gewünschte Form bringen. So sind wir in der Lage, komplette Häuser aus lebendem Pflanzen|material erstehen zu lassen, die nicht nur schön anzusehen sind, sondern auch alle Funktionen erfüllen, die für das Wohlbefinden ihrer Bewohner notwendig sind."
 "Ich trauere tief um den besten Freund, den ich hatte. Ich weiß im Augenblick nicht, wie ich mit dem Verlust zurechtkommen soll."
 !

@@ -158,7 +158,7 @@ Ein Stuhl.
 Eine Diamantenschleifmaschine.
 Der Ausgang.
 "Ich schaue zu, was die Leute hier so kaufen. Ich mache das öfters, wenn ich dazu Zeit habe. Hier werden auch oft abenteuerliche Geschichten erzählt."
-
+"Ist ein guter Laden hier. Nur allerbeste Waren und ziemlich teuer!"
 "Kennen wir uns?"
 "Ich wünsche Euch einen schönen Tag."
 {CNTR}"Wie kommt Ihr dazu, meine Sachen mitzunehmen?^{INK 006}{FAHI}Sofort wieder hinlegen!"

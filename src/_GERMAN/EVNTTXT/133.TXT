@@ -1,5 +1,5 @@
 ﻿{BLOK000}"Ich bin Dra Dji-Fadh und lerne gerade, wie man Wände wachsen läßt."{WORDWände}
-
+ 
 "Was wir tun, sehen wir als Mischung von Magie, Kunst und Handwerk an. Wir sind eine der ältesten Gilden Jirinaars und wie Ihr sicher wißt, können wir mit Hilfe unserer Magie Pflanzen erschaffen, verändern und dauerhaft in eine gewünschte Form bringen. So sind wir in der Lage, komplette Häuser aus lebendem Pflanzen|material erstehen zu lassen, die nicht nur schön anzusehen sind, sondern auch alle Funktionen erfüllen, die für das Wohlbefinden ihrer Bewohner notwendig sind."{WORDMagie}{WORDJirinaar}
 "Stri Akiir ist das Oberhaupt unserer Gilde. Er ist ein hervor|ragender Künstler und Magier, der sich sehr für die Belange unserer Gilde einsetzt. Wir alle hoffen, daß er eines Tages ein Ausgewählter wird." {WORDAuserwählter}
 "Wir alle sind völlig geschockt. Akiirs Tod ist ein wirklich großes Unglück für unsere Gilde. Ich hätte den Dji-Kas ja so manches zugetraut, aber das? Unvorstellbar! Hoffentlich greift die Sebainah hart durch!" {WORDDji-Kas}

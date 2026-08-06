@@ -1,5 +1,5 @@
 ﻿{BLOK000}"Ich bin nun das Oberhaupt der Gilde, aber meiner Meinung nach nur ein ungenügender Ersatz für Akiir."
-
+ 
 "Was wir tun, sehen wir als Mischung von Magie, Kunst und Handwerk an. Wir sind eine der ältesten Gilden Jirinaars und wie Ihr sicher wißt, können wir mit Hilfe unserer Magie Pflanzen erschaffen, verändern und dauerhaft in eine gewünschte Form bringen. So sind wir in der Lage, komplette Häuser aus lebendem Pflanzen|material erstehen zu lassen, die nicht nur schön anzusehen sind, sondern auch alle Funktionen erfüllen, die für das Wohlbefinden ihrer Bewohner notwendig sind."
 "Ich betrachte ihn noch immer als meinen Freund. Wer weiß, welche Reaktionen ich zeigen würde, wenn ich um meinen baldigen Tod wüßte."
 !

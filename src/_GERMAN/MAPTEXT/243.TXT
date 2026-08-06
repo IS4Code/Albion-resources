@@ -169,7 +169,7 @@ Ein Raum voller Klingen und Messer. Manche wur|den be|reits ein|geschla|gen.
 Das sind sehr scharfe Messer, die aus dem Boden kommen. Sie sind rein zu|fällig ange|ord|net und schei|nen irgend|welchen Ver|suchen gedient zu haben.
 {CNTR}Auf dem Schild steht:^{INK 006}{FAT }Achtung Lebensgefahr!^Mechanismus wird überlastet, wenn alle drei Hebel gleich|zeitig schal|ten!^Aktuellen Schaltplan beachten!
 Messerheber für Verbindungsraum im Südwesten.
-
+Messerheber für Zentralhalle im Osten.
 Messerheber für Bergwerk im Nordwesten.
 Der Mechanismus wurde überlastet.
 Diese Messer sehen besonders stabil aus. Zweifellos sind sie einfahrbar, aber man kann nicht er|kennen, wo|durch und auf wel|che Art und Wei|se.

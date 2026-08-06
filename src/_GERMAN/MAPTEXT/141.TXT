@@ -178,3 +178,4 @@ Der Rückweg verläuft einigermaßen problemlos. Bero wird mit großem Hallo und
 "Selbstverständlich, Tom. Folgt mir bitte in mein Arbeitszimmer."
 "Hier habt ihr das Stärkungsamulett. Es ist das Mindeste, was ich für Euch tun kann.^^Ich wünsche Euch allen, und besonders Euch, Mellthas und Sira, Danus Segen für Eure Reisen."
 {LEAD}{NAME} füllt einen Eimer mit Wasser.
+Ein Brunnen, gefüllt mit klarem Wasser.

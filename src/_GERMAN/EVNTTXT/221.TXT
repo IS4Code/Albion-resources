@@ -1,6 +1,7 @@
 ﻿{BLOK000}"Tja, Ihr Lieben...an meiner aufreizenden Kleidung solltet Ihr eigentlich schon erkennen, wo ich arbeite. Oh, Ihr könnt mich dort gerne mal besuchen. Allerdings geben die meisten männlichen Wesen nur ungern zu, daß sie ab und zu ein Freudenhaus aufsuchen."
 "Skeima Din, Kariah grüßt Euch. Ich habe eine dringende Information für Euch!"
 "Skeima Din, habt Ihr über meine Information nachgedacht?"
+"Man hat es nicht leicht als Hure! Vor einigen Tagen bekam ich nachts von einem Kunden den konkreten Hinweis, daß Herras, Vorstand des 'Rates der Gerechten', umgebracht werden soll. Natürlich stecken Riko und Garp dahinter.^^Bitte! Ich kann es Euch nicht beweisen, aber helft! Tut etwas dagegen. Mir glaubt sonst keiner, Ihr seid meine letzte Hoffnung. Bitte! Verhindert das Attentat!"
 "Dann tut es bitte!"
 "Und zu welchem Ergebnis seid Ihr gekommen?"{BLOK010}"Wir müssen abwarten."{BLOK011}"Wir werden schauen, was sich machen läßt."
 "Wartet nicht zu lange! Die Zeit läuft davon und Garp und Riko werden ihre Tat mit Sicherheit ausführen!"

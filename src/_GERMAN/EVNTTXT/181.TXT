@@ -20,3 +20,4 @@
 "So lautet mein Name; völlig korrekt, Driscoll."
 "Sie sind im Besitz einer Waffe! Sind die Secus nicht die einzigen Besatzungs|mitglieder, die Waffen tragen dürfen? Sie sollten das Ding besser niemandem zeigen, Driscoll."
 "Die Security-Leute sind wohl auf keinem Schiff besonders beliebt. Seit dem Vorfall vor 10 Jahren auf der GATES, wo die Streikenden zusammengeschossen wurden, ist der ganze Berufstand in Verruf geraten."
+"Ich bin Physiker und Xenobiologe im Regierungsdienst. Wie Sie wohl wissen, reise ich mit, um zu verhindern, daß sich Katastrophen wie die auf Joshi wiederholen können."
