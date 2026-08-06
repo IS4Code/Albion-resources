@@ -14,7 +14,7 @@
 "Well, I'm sure it is important for our mission's success and we are not separated for personal reasons. ^ ^ If you are looking for us, you will find us at the inn in Srimalinar. ^ ^ All the best to all of you... farewell."
 "Good! I was afraid I had annoyed you in some way."
 "How good to see you again. Mellthas and I have had a beautiful time here. ^ ^ Would you like us to join you again, Tom?"
-"Ah. Are we to come along now, hmm?"
+"Ah. Are we to come along now, hm?"
 Should Sira and Mellthas join the companions?
 "Oh, I believe there are too many of you to allow me and Mellthas to join. Till later."
 "A little excitement will do me and Mellthas some good after our rest." {INK 001} Sira and Mellthas join the group.

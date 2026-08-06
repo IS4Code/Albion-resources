@@ -590,7 +590,7 @@ Tri-Nadh
 Han
 Sira
 representative
-instructing
+training
 discipline
 walls
 fountain
@@ -609,7 +609,7 @@ business
 family
 Rabir
 House of Winds
-drink
+drinks
 zoomi
 trade
 metal
@@ -665,13 +665,13 @@ Garris
 artisan
 shapes
 magical items
-a warrior?
+warrior
 queen
 profession
 fruits
 bread
 useful objects
-rations
+food
 school
 father
 teacher
@@ -700,7 +700,7 @@ HQ
 Hofstedt
 security
 government
-navigation officer
+navigator
 mathematician
 flight
 landing

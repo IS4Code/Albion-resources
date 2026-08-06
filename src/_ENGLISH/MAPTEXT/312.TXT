@@ -128,7 +128,7 @@ Places for further Cutmap events.
 Places for further Cutmap events.
 Places for further Cutmap events.
 {INK 001} A female slave: {INK 002} ^ ^ "My son will soon be a novice of the Kledos. He will be the most courageous warrior of all!"
-{INK 001} A female slave: {INK 002} ^ ^ "You had better speak with Jonatharh, the chief slave. You can usually find him in the kitchen."
+{INK 001} A female slave: {INK 002} ^ ^ "You had better speak with Jonathahr, the chief slave. You can usually find him in the kitchen."
 {INK 001} A female slave: {INK 002} ^ ^ "I often dream of the outside world and wonder what it would be like to be free."
 {INK 001} A female slave: {INK 002} ^ ^ "My love of my husband is the only thing that gives my life joy."
 {INK 001} A slave: {INK 002} ^ ^ "Hmm? What? Oh, visitors! Yes. Hmm. Chrr..."

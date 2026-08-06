@@ -159,5 +159,5 @@ Un lapidaire diamantaire.
 C'est la sortie.
 "Je n'ai pas de temps pour vous!"
 "Si vous êtes des visiteurs, ne nous dérangez pas dans notre discussion."
-"Skeima Din. Je suis la cuisinière. C'est un dur métier, nous sommes toute la journée aux fourneaux."
+"Skeima Din. Je suis la cuisinière. C'est un dur métier quand nous sommes toute la journée aux fourneaux."
 "Est-ce que vous savez à qui vous parlez? Vous avez un des plus renommés Faiseurs d'Appareils devant vous. J'ai joué un rôle déterminant dans le développement des verrous à aiguilles empoisonnées. Oui oui! Vous verrez que vous pourrez rencontrer beaucoup de célébrités par ici. Bien sûr, vous pouvez avoir un autographe de ma part, si vous le désirez. Vous en voulez un? ^^Hmm, vous n'avez pas l'air d'en vouloir? Aucun respect pour l'âge!"

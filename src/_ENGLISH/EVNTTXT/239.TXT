@@ -6,5 +6,5 @@
 "It won't be long before war breaks out here. There are armed humans and Iskai gathered at the shrine of Srimalinar. Not everyone is in favor of Kontos' plans, at least not in Beloveno, but unfortunately the Iskai don't know that. And they no longer believe humans anymore. Who knows, maybe they will believe you. At least you were able to find something out about Kontos..." {WORDshrine}{WORDKontos}
 "Unfortunately there will be a war if nothing changes. If I were you, I'd travel there."
 "I believe only very few people know Kontos' true plans."
-"That's me."
+"That'th me."
 "It should be familiar to you by now."

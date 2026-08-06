@@ -1043,7 +1043,7 @@ Innocence
 Patient
 Erreur de justice
 Aide
-Aide XXX
+Aide
 Informations
 Service
 Clé
@@ -1193,7 +1193,7 @@ Gîte
 Partie nord
 Partie sud
 Maisons
-Architecture XXX
+Architecture
 Guilde
 Porte de la ville
 Portes de la ville
@@ -1211,7 +1211,7 @@ Boissons
 Plats
 Passer la nuit
 Drirra
-Attentat XXX
+Attentat
 Mort
 Guilde des Mages
 Guilde des Mages

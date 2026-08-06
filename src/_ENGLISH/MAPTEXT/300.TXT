@@ -91,7 +91,7 @@ This door is locked.
 "Hello, Driscoll! I heard you have a new passenger since they scraped the inspector off the wall. ^ Anyway, I'm crossing my fingers for your flight."
 "Hi, Tom. Sorry, I'm in a bit of a rush. I'm really booked up right now! I'll catch you later."
 "Hello, Tom. I'd like to see inside the COM room, you know, where Snoopy got it. Too bad there's a security guard at the door."
-{INK 001}Tom tries to call up the latest news from the console. The following appears before the announcements:{TECF} ^ ^ {CNTR} {INK 002}***Video data not available*** ^ ***COM connection not active *** ^ Text mode activated.
+{INK 001}Tom tries to call up the latest news from the console. The following appears before the announcements:{TECF} ^ ^ {CNTR} {INK 002}***Videodata not available*** ^ ***COM connection not active *** ^ Text mode activated.
 "Hello, Driscoll. Taking another look at your shuttle? Everything's A-OK! She's in perfect order!"
 {TECF}NEWSFLASH (text mode). ^ ^ {LEFT} "European Union: the 14th attempt to introduce a uniform, official currency has failed due to Germany's resistance."
 {TECF} NEWSFLASH (text mode): ^ ^ {LEFT} "McCartney heirs appeal to International Court of Justice. Does the expropriation attempt of Brazil against the McCartney heirs threaten the last cohesive rain forest? Some countries demand that the community property of heirs be protected by paid defense forces."

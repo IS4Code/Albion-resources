@@ -1,6 +1,6 @@
 ﻿{BLOK000}"I am Mairi, the bard. My life belongs to music and song." {WORDsong}
 "Greetings, visitors of Cantos' house." 
-"I just finished reworking a very ancient song. It is perhaps the most important song that we know, since it is the Song of the World. ^ ^ Would you like to hear it?" {BLOK010}"Gladly, Mairi."{BLOK011}"Another time, we're in a hurry."
+"I just finished reworking a very ancient song. It is perhaps the most important song that we knowl, since it is the Song of the World. ^ ^ Would you like to hear it?" {BLOK010}"Gladly, Mairi."{BLOK011}"Another time, we're in a hurry."
 "Get comfortable, it's a long song..."
 "As you wish. I'll be here for quite a while; the melody of the song needs a bit more fine-tuning. ^ ^ Farewell."
 "I thank you for your attention, visitors. Now I must bid you farewell. I'd like to work on the melody a bit more."

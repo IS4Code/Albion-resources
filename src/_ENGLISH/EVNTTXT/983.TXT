@@ -23,7 +23,7 @@
 "Well, I guess you have your reasons, Tom. I'll make my way back to Jirinaar. If you'd like to visit me there, you can find me in the House of the Winds, the inn in the harbor area. Take care, as you Earth people say!"
 "You had me worried for a while..."
 "Friends! Good to see you! I knew that you couldn't do without me!"
-"Dsarii-ma. So you need old Drirr back again, hmm?"
+"Dsarii-ma. So you need old Drirr back again, hm?"
 {INK 002}"You've come because you want me to join you again, haven't you?"{BLOK000}"Right. Please come along!"{BLOK001}"Not yet, sorry."
 "Good. I'm spending too much money in this tavern anyway!"{INK 001}Drirr joins the group of companions.
 "Hey, I don't want to force myself on you! Until later."

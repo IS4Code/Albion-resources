@@ -27,5 +27,5 @@ dummy
 SOON COMING: HEALER-SCREEN!
 SOON COMING: MERCHANT-SCREEN!
 "C'est agréable d'avoir parlé avec vous, ça me change. Faites attention à vous!"
-"Comment puis-je vous aider?" {BLOK010}"Il s'agit de blessures, Rejira." {BLOK011}"Je pense que l'un de nous est malade." {BLOK012}"Nous avons des ennuis avec un objet maudit."
+"Comment puis-je vous aider?" {BLOK010}"Il s'agit de blessures, Rejira." {BLOK011}"Un de nous est malade, je pense." {BLOK012}"Nous avons des ennuis avec un objet maudit."
 "Je peux vous proposer des potions pour fortifier le corps et l'esprit."

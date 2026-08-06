@@ -1,5 +1,5 @@
 ﻿{BLOK000} "I'm one of the new members of the Council of the Just. The work is really challenging for me. I hope I can do everything." 
 "I'm glad you stopped by again. By now I've gotten quite good at this job. No wonder with everything that has been going on lately."{WORDlately}{WORDtown hall}
 "I think you know what I mean, heh heh."
-"That's me."
+"That'th me."
 "It should be familiar to you by now."

@@ -1,4 +1,4 @@
-﻿{BLOK000}"I am mathematician and navigation officer." {WORDnavigation officer}
+﻿{BLOK000}"I am mathematician and navigator." {WORDnavigator}
 "Hello, Driscoll. Well, is everything set for the flight?" {WORDflight}
 "Ah, Driscoll. What else can I do for you?" {WORDflight}
 "I've checked the calculations for your flight path again. Everything is in the green area - no critical points in the path. It should be child's play."

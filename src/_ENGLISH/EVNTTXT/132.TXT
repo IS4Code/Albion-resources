@@ -1,4 +1,4 @@
-﻿{BLOK000}"I am Stri Dji-Fadh and am mainly responsible for instructing the Dra." {WORDStri}{WORDDji-Fadh}{WORDDra}{WORDinstructing}
+﻿{BLOK000}"I am Stri Dji-Fadh and am mainly responsible for instructing the Dra." {WORDStri}{WORDDji-Fadh}{WORDDra}{WORDtraining}
  
 "We see what we do here as a mixture of magic, art, and craft. We are one of the oldest guilds in Jirinaar and, as you surely know, we are able to create, change, and permanently modify plants into a desired form through magic. This means we can produce complete houses out of living plant material which are not only beautiful, but also perform all the functions necessary for the well-being of its residents." {WORDmagic}{WORDJirinaar}
 "Stri Akiir is head of our guild. He is an outstanding artist and magician who is devoted to our guild's needs. We all hope that some day he will become one of the Chosen." {WORDChosen}

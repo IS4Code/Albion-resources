@@ -36,4 +36,4 @@
 !
 !
 "Good day, stranger. Have you come to walk the path to honor and glory?"{WORDfame}{WORDhonor}
-"I had a father, Jonatharh, the senior slave. Now the Kenget Kamulos are my family." {WORDfamily}{WORDCuain}
+"I had a father, Jonathahr, the senior slave. Now the Kenget Kamulos are my family." {WORDfamily}{WORDCuain}

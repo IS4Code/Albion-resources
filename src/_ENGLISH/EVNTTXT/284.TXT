@@ -1,5 +1,5 @@
 ﻿{BLOK000}"I dispense drinks and serve food."
-"Skeima Din and welcome to the cheerful Ore Mine Inn."{WORDmine}{WORDUmajo-Kenta}{WORDdrink}{WORDovernight stay}
+"Skeima Din and welcome to the cheerful Ore Mine Inn."{WORDmine}{WORDUmajo-Kenta}{WORDdrinks}{WORDovernight stay}
 "Thank you, I don't need anything from you, {FAT }but{NORS} if you would like to contribute something, I should mention that it is common for strangers to buy a round. What do you think about that?"{BLOK010}"We would like to buy a round."
 "This is what our inn is called, and there is also a real ore mine. Just visit the Miners' guild northwest of the city."{WORDMiners}
 "You would do that? It'll cost five gold pieces. You still going to do it?"

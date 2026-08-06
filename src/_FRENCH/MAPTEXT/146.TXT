@@ -2,7 +2,7 @@
 Un interrupteur mécanique.
 Au mur il y a une petite touche mécanique.
 Un interrupteur minuscule est encastré dans le mur, qui passe facilement inaperçu.
-Une dalle. Il semble qu'elle peut s'enfoncer sous les pas.
+Une dalle. Il semble qu'elle peux s'enfoncer sous les pas.
 Une porte.
 La porte est solidement verrouillée, il n'y a aucun verrou apparent.
 Une herse baissée. Elle n'a pas de verrou.

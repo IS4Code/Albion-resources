@@ -5,5 +5,5 @@
 "I would go there now. Things have really changed."
 "Oh, there you are again. Everything happened as I said. And I sure said it often enough. Herras is dead and I think you should share in some of the guilt. What would it have cost you? What? ^ ^ Well, great. Herras is dead and it can't be undone. Excuse me, but I'm not in the mood to talk to you any longer." {WORDcouncil}{WORDHerras}
 "I don't want to talk with you about it any more. If you would've done something he would still be alive."
-"That's me."
+"That'th me."
 "What about Herras?"

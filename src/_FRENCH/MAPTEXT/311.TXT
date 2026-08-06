@@ -166,7 +166,7 @@ Khunag:{INK 002}^ "Le hall des cellules des novices."
 "Les parties des Kledo et des Oqulo Kamulos ne doivent pas être violées par des tiers. Restez ici dans les parties des novices."
 "L'escalier derrière cette porte mène dans les appartements des Kledo Kamulos et Oqulo Kamulos formés. Nous n'avons pas accès ici."
 La porte est fermée. Un gardien s'adresse à {LEAD}{NAME}:{INK 002}^^ "L'accès est interdit aux visiteurs!"
-C'est la porte qui donne sur l'extérieur. Elle est verrouillée. Un des gardiens remarque {LEAD}{NAME} et s'adresse à {HIM2}:
+C'est la porte qui donne sur l'extérieur. Elle est verrouillée. Un des gardiens remarque {LEAD}{NAME} et s'adresse à {HIS }:
 Cette porte est fermée.
 Dans ce tiroir ouvert, il y a un parchemin magique!
 Ici sont gardées un tas de petites bricoles. Quelques-unes d'entre elles paraissent intéressantes.
@@ -184,9 +184,9 @@ Une ouverture apparaît dans le mur!
 Dans le coffre, il y a quelques boissons!
 "Ne me dérangez pas dans mes études, s'il vous plaît! Je préférerais que vous quittiez ma chambre."
 {INK 002}"Salut, visiteurs. Veuillez m'excuser, il faut que je me concentre sur mes études."
-{INK001}Le novice présent crie:^^{INK 002} "Eh! Ne touchez pas à ça, s'il vous plaît! Je serais ravi, si vous quittiez ma chambre!"
+{INK 001}Le novice présent crie:^^{INK 002} "Eh! Ne touchez pas à ça, s'il vous plaît! Je serais ravi, si vous quittiez ma chambre!"
 Subitement, un cri retentit d'un passage caché!
-{CNTR}{INK 002}"Qu'est-ce que vous faites ici?"^^{FAHI}ALERTE!
+{CNTR}{INK 002}"Qu'est-ce que vous avez à faire ici?"^^{FAHI}ALERTE!
 {INK 002}"Vous avez tenté de violer les parties intérieures de Khamulon!"
 {INK 002}"Vous vous rendez?"
 {INK 002}"Vous voulez vous accorder l'honneur du combat? Très bien!"^^ {INK 001}Les Kenget Kamulos attaquent!

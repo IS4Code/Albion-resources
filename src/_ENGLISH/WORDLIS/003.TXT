@@ -1044,7 +1044,7 @@ patient
 misjudgment
 help
 gratitude
-something
+information
 favor
 key
 mine
@@ -1086,7 +1086,7 @@ prices
 buy
 wares
 defend
-huntsman
+hunter
 smithy
 offer
 magic weapons
@@ -1149,7 +1149,7 @@ stubborn
 mood
 discussion
 murder attempt
-murder
+assassination
 murder
 questions
 Arrek
@@ -1207,8 +1207,8 @@ mother
 Maini
 consciousness
 dead
-drink
-rations
+drinks
+food
 overnight stay
 Drirra
 attack

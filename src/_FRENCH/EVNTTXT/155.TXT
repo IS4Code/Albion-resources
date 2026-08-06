@@ -1,5 +1,5 @@
 ﻿{BLOK000}"Je suis, comme je vous l'ai déjà dit, le roi de Klouta."
-"Togi Din, voyageurs. Je suis le roi de la tribu de Klouta." {BLOK010}"Togi Din, Tharnos. Nous sommes à la recherche d'un immense vaisseau métallique venu du ciel. Vous avez peut-être entendu parler d'un pareil incident?"{WORDKlouta}{WORDRoi de tribu}
+"Togi Din, voyageurs. Je suis le roi de tribu de Klouta." {BLOK010}"Togi Din, Tharnos. Nous sommes à la recherche d'un immense vaisseau métallique venu du ciel. Vous avez peut-être entendu parler d'un pareil incident?"{WORDKlouta}{WORDRoi de tribu}
 "Ah, ah, ah, vous avez perdu la raison? Excusez-moi, mais ça fait longtemps que je n'ai entendu de sottises pareilles. Vous devriez vous faire soigner par les druides d'Arjano, Ha ha, ah!"{WORDDruides}{WORDArjano}
 "Togi Din. Ah, encore ces voyageurs farceurs!"{WORDTraversée}
 "Je suis le chef de la Tuath de Klouta et l'homme le plus important ici. Tout ce que je décide est fait!"{WORDTuath}

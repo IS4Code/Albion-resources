@@ -6,7 +6,7 @@
 "Ah, Tharnos' permission. Excellent. Now, if you have the two hundred gold pieces with you, the journey may begin."
 "I can proudly say that I have never lost a passenger and I am the best fisherman in the village!"
 "Togi Din! Are you ready for your voyage? ^ ^ You know, all you need are two hundred gold pieces and Tharnos' permission."
-"Togi Din! Imagine seeing you again! If you need to make another trip by sea, I'll be glad to be of service to you."
+"Togi Din! Imagine seeing you again! If youneed to make another trip by sea, I'll be glad to be of service to you."
 "Before I accept payment for the trip, I must first ask for Tharnos' permission."
 "Very good. Let's set off immediately."
 "Togi Din, strangers. Are you ready for your sea voyage? ^ ^ You know, all you need are 200 gold pieces and Tharnos' written permission!"{BLOK010}"Yes, we have gold and permission. The trip can begin."{BLOK011}"We have everything, but we'd like to wait a little."

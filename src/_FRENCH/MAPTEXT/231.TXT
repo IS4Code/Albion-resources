@@ -169,7 +169,7 @@ La sortie.
 "Je suis la femme de Coskon. Je fais le ménage et la cuisine pour les membres de la Guilde."
 "Je n'ai pas le droit de parler aux étrangers, mais je dois être poli."
 "Vous voulez acheter quelque chose? Oncle Mykonou va certainement être content. Il a les yeux qui brillent chaque fois qu'il vend quelque choooo... s'il apprend que je vous ai dit ça, il se mettra certainement en colère. Ne le lui dites surtout pas, s'il vous plaît."
-{LEAD}{NAME} et les autres sont très impressionnés lorsque, soudain, la gemme grossit et se met à pivoter sur l'ornement. Maintenant, au moins, il est clair que la pierre a effectivement des pouvoirs magiques. La question est de savoir lesquels. D'après la légende, celui qui touche la pierre est capable de lire dans la conscience des autres...
+{LEAD}{NAME} et les autres sont très impressionnés lorsque, soudain, la gemme grossit et se met à pivoter sur l'ornement. Maintenant, au moins, il est clair que la pierre a effectivement de pouvoirs magiques. La question est de savoir lesquels. D'après la légende, celui qui touche la pierre est capable de lire dans la conscience des autres...
 Une gemme gigantesque qui pirouette sur un ornement et qui scintille d'un rouge limpide. Tout cela dégage une aura impressionnante.
 {LEAD}{NAME} touche la pierre et tente de lire dans la conscience d'un autre, mais ça ne marche pas, malgré des efforts intenses. En revanche, une force agréable aux effets régénérateurs lui envahit le corps.
 {CNTR}Le panneau indique:^{INK 006}Ne pas toucher les gemmes de la collection, s'il vous plaît!

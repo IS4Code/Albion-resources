@@ -8,4 +8,4 @@
 "I believe that something has to be done about it!"
 "It's getting worse and worse with the evil creatures that are coming out of there! Everybody is talking about it! But fortunately Kontos is doing something about it! Just ask him. He can explain the problem to you better than I can." {WORDKontos}{WORDevil}
 "It's a good thing that there are people like him!"
-"That's me."
+"That'th me."

@@ -4,7 +4,7 @@
 "I'm sorry, I don't believe that I can help you."
 "Konny sent you? ^ ^ Oh yes, I do know a way through the boulder belt. I can even lead you to the entrance. Of course, I would like a small reward for it. A jewel would be appropriate. Remember that you probably cannot find the entrance alone. What do you say?"{BLOK010}"Yes, we gladly accept."{BLOK011}"You ask too much!" {BLOK012}"Would you take gold coins?"
 "Skeima Din, I believe you know the way now."
-"That's great. I propose that we meet at six o'clock in the evening, in front of the city gate. I will wait outside the city for you. I will wait for an hour at most, so be punctual. And remember the jewel!"
+"That's great. I propose that we meet at six o'clock in front of the city gate. I will wait outside the city for you. I will wait for an hour at most, so be punctual. And remember the jewel!"
 "What? I no longer have a regular income, and I have a diamond collection. How should I afford that?" {BLOK010} "That's not our problem, is it?"
 "In this case it is!"
 "No - I am no good at trading. When I buy jewels, I end up paying double because I can't haggle well."

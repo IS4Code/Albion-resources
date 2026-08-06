@@ -8,4 +8,4 @@
 "Why do you want to know about the taboo? I can tell you nothing more about it."
 "Yes, the inhabitants of Srimalinar are very religious and regularly visit their shrine. I don't know what they do there. I also don't know if they still go since it is now swarming with so many monsters. Kontos steadfastly maintains that humans must intervene before it is too late and a flood of monsters invades the land." {WORDKontos}
 "You'd better ask him yourself. He is the leader in the village of Kounos."
-"That's me."
+"That'th me."

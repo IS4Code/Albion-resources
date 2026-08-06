@@ -1,4 +1,4 @@
-﻿{BLOK000}"Well, I study and sometimes I help cut up the game the hunters bring back. If I can't sneak away, that is."
+﻿{BLOK000}"Well, I study and sometimes I help cut up the game the hunters bting back. If I can't sneak away, that is."
 "Oh, the humans! Ah, I mean, Dsarii-ma!"{BLOK010}"Dsarii-ma. How old are you?"
 "Dsarii-ma. Do you want something from me?"
 "I'm already four years old. Soon I will learn how to suppress pain. But it will be a long time before I'm mature!"{WORDpain}{WORDmaturity}

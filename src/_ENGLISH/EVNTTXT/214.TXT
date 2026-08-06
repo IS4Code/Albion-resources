@@ -6,4 +6,4 @@
 "Do something!"
 "I believe the conflict there is escalating! Maybe you can still prevent the worst if you can find evidence against Kontos!"
 "Yes, absolutely. We must find as much evidence as possible against Kontos. Visit as many people as possible and ask them about it! You simply must find something! Show the inhabitants of Kounos the truth about Kontos!"
-"That's me."
+"That'th me."

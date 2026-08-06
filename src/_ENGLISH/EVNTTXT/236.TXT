@@ -3,5 +3,5 @@
 "Was there something else? I'm quite busy. We are having another council meeting pretty soon." {WORDtown hall}{WORDcouncil}
 "I am one of the three council members. My colleague is named Riko, and then there's Perron. Riko is somewhat taciturn, but a fine fellow. I should also mention that Perron is quite sensitive and sees all kind of specters. Don't let yourself be worried by him. Finally there is Herras, the council president. You can visit all of us. I hope you enjoy your stay in our beautiful city. We will try to make it as pleasant as possible. If you need something, let me know. I'm always here for you." {WORDRiko}{WORDPerron}{WORDGard}
 "Riko and Perron are the other two members of the council."
-"That's me."
+"That'th me."
 "Feel free to look around. Our council house is quite large."

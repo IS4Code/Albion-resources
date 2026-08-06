@@ -13,7 +13,7 @@
 "Many thanks again for your extensive description and the great stories. Do you already know how you're going to continue? Where are you going next?"{WORDdestinations}
 "There are several different options for traveling from Umajo-Kenta. First, there is the northern part of the desert. There is a prison there, but that is pretty far, way up in the north. You have to be pretty strong and you must be prepared for the heat. And then, naturally, there is the southern part. But that isn't so easy to get to, because you have to go through the boulder belt. Also it seems something strange happened there a while ago. They say that the area is haunted now. But don't let that scare you away. Many people say a giant monster came down from the sky, but I've never seen anything like that."{WORDnorthern part}{WORDprison}{WORDsouthern part}
 "Among other things, the prison is there. But, as I already said, it is far away and the heat is a problem...especially for strangers who are not used to it!"{WORDheat}
-"We use Porenoil to prepare for it. If you're interested, speak with Agida."{WORDAgida}
+"We use pore-oil to prepare for it. If you're interested, speak with Agida."{WORDAgida}
 "She lives in the south, right next to the harbor."
 "They put bad people in there. There are some whom I would have never thought were bad, but nevertheless they're there. ^ ^ If you would like to wander up there, then go directly north. The prison lies right under the northern-most tip of the continent. There is also a guard who goes back and forth there every day in order to bring food and drink. You might see him."
 "I have never been in the south part. It is difficult to get there, since you have to go through the boulder belt south of our city."{WORDboulder belt}

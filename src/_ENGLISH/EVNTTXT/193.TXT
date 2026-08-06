@@ -1,5 +1,5 @@
 ﻿{BLOK000}"As you should know, I am the captain of this ship." 
-"What is it, Driscoll? My time is precious so close to landing." {BLOK010}"Sir, I only wanted to ask if you could tell me a more precise departure time for the shuttle flight." 
+"What is it, Driscoll? My time is precious so close to landing." {BLOK010}"Sir, I only wanted to ask if you could tell me a more precise deparutre time for the shuttle flight." 
 "Sorry, Driscoll, don't have time right now. Pay attention to the loudspeaker messages for your take-off time."
 "I cannot give you any more information, Driscoll. It would take me too long. The bridge will announce the take-off time over the loudspeaker shortly. ^ ^ Now please excuse me, I still have a lot to do." 
 "You should have launched a long time ago. Didn't you hear the announcement? When you go is up to you, but you shouldn't try our patience too much."

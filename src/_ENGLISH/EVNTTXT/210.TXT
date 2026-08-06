@@ -8,4 +8,4 @@
 "People always talk about a pass road which leads to Kounos, but that's really an old story. There really was a pass road at one time, but we really don't travel to Kounos or Srimalinar too often. Moreover, there was a constant conflict about who should maintain the road. There was never an agreement and so no one took care of the pass. Meanwhile, the pass became so wild and overgrown that no one can find it anymore. Nevertheless, if you can climb, you can find the way. Look for climbing plants which overgrow the rock walls and climb up to the plateau in the north." {WORDmountain pass}
 "Look for the old pass, even though the pass road doesn't really exist any more." {WORDpass}
 "As they say, look for the old pass, or the no longer existing pass road." {WORDpass}
-"That's me."
+"That'th me."

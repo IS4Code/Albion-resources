@@ -14,7 +14,7 @@
 "The chief magistrate of Umajo-Kenta is no judge, but unfortunately he acts like he is. He doesn't take his business very seriously. If you ask him, he will surely tell you that I am guilty, whereas he really has a bad conscience because he knows that he is lying. Please help me!"{WORDhelp}
 "If you want to help me, then let me out. The key hangs on the left beside the cell door. I can get out to the main exit somehow. ^ ^ Also, if you really help me, I will be thankful to you!" {BLOK010}"That's not necessary."{BLOK011}"How can we help you?"{BLOK012}"We will not help you!"{WORDkey}
 "Who knows, perhaps I can do something for you when you need it."{WORDgratitude}
-"I can provide you with something which will certainly interest you."{WORDsomething}
+"I can provide you with information which will certainly interest you."{WORDinformation}
 "You will certainly regret it!"
 "Hmm, I believe we can talk about it if you're telling the truth!"
 "I'll get my revenge on you!"{WORDgratitude}
@@ -24,5 +24,5 @@
 "You must help me get out of this prison."{WORDhelp}
 "Naturally, I can't get it! But it's easy for you. It hangs right next to the door."
 "What I really need is the key which hangs beside the cell door."{WORDkey}
-"That's me."
+"That'th me."
 "Thank you very much, friends! ^ ^ There is something good about you. Now I have to make sure that the guards don't notice me. We'll meet again in the city where I can thank you."

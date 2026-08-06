@@ -1,7 +1,7 @@
 ﻿{BLOK000}"I am actually an Equipment Maker, but I have specialized in developing magic lotions and drinks."{WORDdrinks}
 "Welcome, I am Merdger, a member of the Equipment Makers' guild."{WORDEquipmentmaker}
 "These are only for the initiated..."
-"Someone recommended my Porenoil to you? Hmm, very well, I'll sell you a bottle for 15 coins. A little bottle is usually sufficient for up to six people to use."{BLOK010}"No thank you, we aren't interested."{BLOK011}"Yes, we'll take one."{BLOK012}"We'd like to have five for 75 coins."
+"Someone recommended my pore-oil to you? Hmm, very well, I'll sell you a bottle for 15 coins. A little bottle is usually sufficient for up to six people to use."{BLOK010}"No thank you, we aren't interested."{BLOK011}"Yes, we'll take one."{BLOK012}"We'd like to have five for 75 coins."
 "Very well, so be it."
 "Thank you, it is guaranteed to help. Drink it every eight hours as you travel through the desert."
 "Unfortunately, you don't seem to have enough gold coins."

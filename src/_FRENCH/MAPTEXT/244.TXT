@@ -22,7 +22,7 @@ Une dalle de contact.
 Un levier.
 {LEAD}{NAME} découvre un bouton caché sur le mur!
 Aucun verrou, aucun mécanisme, aucun interrupteur en vue. La porte ne s'ouvre probablement que par un système. Les couleurs des flammes se reflètent différemment dans la porte. On distingue bien les tons rouges et verts, alors que les tons bleus ne se voient pas du tout. La porte est peut-être sensible à la lumière.
-"Regardez!^^Ce mur dispose d'une sorte de mécanisme de rails sur les arêtes. Il a vraiment l'air curieux. J'imagine bien qu'il puisse rentrer dans le sol grâce à un levier. En plus, il y a aussi un âtre. Peut-être qu'un feu pourrait alimenter le mécanisme en énergie.^^Je pense vraiment que de tels murs s'actionnent par les nombreux leviers."
+"Regardez!^^Ce mur dispose d'une sorte de mécanisme de rails sur les arêtes. Il a vraiment l'air curieux. J'imagine bien qu'il puisse rentrer dans le sol grâce à un levier. En plus, il y a aussi une âtre. Peut-être qu'un feu pourrait alimenter le mécanisme en énergie.^^Je pense vraiment que de tels murs s'actionnent par les nombreux leviers."
 "Qu'a bien pu provoquer le levier cette fois-ci? Il est peut-être relié à un de ces murs sur rails."
 "Il y a apparemment une source ici."
 Un bruit horrible vient du nord, comme si quelqu'un perçait un trou dans le sol avec une énorme perceuse.

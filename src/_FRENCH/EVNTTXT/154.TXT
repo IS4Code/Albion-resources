@@ -30,7 +30,7 @@
 "Il y a des fruits super bons qui viennent d'Aballon."
 "Au milieu de notre pays, il y a de très grandes montagnes, là-bas il y a des voleurs et des démons!"
 "Je sais rien de ça."
-"Tharnos est le roi de la tribu de Klouta."
+"Tharnos est le roi de tribu de Klouta."
 "Oibelos est le nom du roi de Vanello."
 "C'est la reine d'Aballon."
 "Nemos est le grand chef druide."
