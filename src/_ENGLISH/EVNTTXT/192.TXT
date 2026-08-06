@@ -1,8 +1,8 @@
-﻿{BLOK000}"I am a physicist and xenobiologist working for the government" {WRNR0221}
-"Ah, hello, Driscoll! All set for our flight together?" {WRNR0205}
-"Hello there, Driscoll. Well, what's on your mind?"{WRNR0205}
-"Well, I work for the government because it's one of the only ways for me to do some practical work out here without being in the pay of a big company like DDT."{WRNR0183}
-"Yes, I'm looking forward to admiring your flying skills at first hand. It's always a great thrill for me to see a new world with my own eyes. Even if it's a rather barren world like this one, which your company has so poetically named "Nugget". Naturally, it would have been more interesting to visit a beautiful planet like Joshi used to be.^^But then this ship would have had a wasted journey, which, as an old Envi, I wouldn't have been too sorry about." {WRNR0186}{WRNR0188}{WRNR0194}{WRNR0192}
-"As I say, I'm looking forward to admiring your flying skills at first hand. It's always a great thrill for me to see a new world with my own eyes. Even if it's a rather barren world like this one, which your company has so poetically named "Nugget". Naturally, it would have been more interesting to visit a beautiful planet like Joshi used to be.^But then this ship would have had a wasted journey, which, as an old Envi, I wouldn't have been too sorry about.." {WRNR0186}{WRNR0188}{WRNR0194}{WRNR0192}
-{BLOK000}What can you tell me about... {BLOK001}Take a look at this... {BLOK004}See you later. {BLOK005}What's your job?
-
+﻿{BLOK000}"I'm a physicist and xenobiologist in service of the government." {WORDGovernment service}
+"Ah, hello, Driscoll! I hope you're feeling fit for our flight!" {WORDFlight}
+"Greetings Driscoll. What seems to be bothering you?"{WORDFlight}
+"I work for the government, because it's one of the few possibilities, to do practical work out here, without being a mercenary of some large corporation like DDT."{WORDDDT}
+"Yes, I'm curious to experience your flying style. For me, the high point is always, seeing a new world for the first time, with my own eyes. Even if it is obviously just a barren world, that your company has so poetically named "Nugget". To see a beautiful planet, like Joshi used to be, might be more interesting.^^But then this huge factory would have come this whole way in vain, although I might have sensed the poetic justice, being the old environmentalist that I am." {WORDNugget}{WORDJoshi}{WORDEnvi}{WORDEquipment}
+"Like I said, I'm curious to see your flying style. For me, the high point is always, seeing a new world for the first time, with my own eyes. Even if it is obviously just a barren world, that your company has so poetically named "Nugget". To see a beautiful planet, like Joshi used to be, might be more interesting.^^But then this huge factory would have come this whole way in vain, although I might have sensed the poetic justice, being the old environmentalist that I am." {WORDNugget}{WORDJoshi}{WORDEnvi}{WORDEquipment}
+{BLOK000}What can you tell me about... {BLOK001}Just take a look at this... {BLOK004}See you later. {BLOK005}What is your assignment?
+"See ya later."

@@ -1,4 +1,4 @@
-
+﻿
 
 
 
@@ -999,222 +999,222 @@
 
 
 Umajo-kenta
-
+Metal
 Guilds
-
+Ritual
 Mother Earth
-Anger
-Accident
-Armourer
+Wrath
+Bad luck
+Weapon smith
 Miners
 Mountain priest
 Diamond cutter
-Equipment maker
+Tool-and-dye-maker
 Price
-
+Joint
 Town hall
-
-Female healer
+Healers
+Healer
 Kounos
 Srimalinar
-
-
+Religion
+Iskai
 Plants
-
+Town gate
 Shops
 Currency
-Climate
+climate
 Kenget
 Kamulos
-
+Port
 Ship
-Ships
+Schips
 Weather
 Skeima Din
 Monopoly
-Merit
+Salary
 Prisoner
-Guard
+Guardsman
 Trough
 Pore oil
 Workshop
 Misunderstanding
 Innocence
 Patient
-Miscarriage of justice
-
-Thanks
+Misjudgement
+Help
+Gratitude
 Information
 Favour
 Key
-Ore mine
+Mine
 Prison
-Adventures
-Objectives
+Experiences
+Destinations
 Northern part
 Heat
 Agida
 Southern part
-Circle of rocks
+Mountain range
 Leader
 Ohl
 Konny
 Nelly
 Game
-Deployment
-Dice
-Clap of thunder
-Roll of thunder
+Ante
+Throwing the dice
 Thunder
-Aufruhr
-Mami
-Eltern
-Suche
-Gefahr
-Beileid
-Böses
+Donner rumble
+Thunder
+Riot
+Mommy
+Parents
+Search
+Danger
+Consolation
+Evil
 Zebenno
-Erzpreise
-Entwicklungen
-Testgewölbe
-Mechanismen
-Testpersonen
-Wüste
-Wasser
-Brunnen
-Preise
-Kaufen
-Waren
-Verteidigen
-Jägersmann
-Schmiede
-Angebot
-Magische Waffen
-Reparaturen
-Geheimnis
-Schönheitskönigin
-Freispiel
-Edelsteine
-Schleifen
-Ausstellung
+Ore prices
+Developments
+Test dome
+Mechanisms
+Test persons
+Desert
+Water
+Well
+Prices
+Buy
+Wares
+Defend
+Hunter
+Metal shop
+Offer
+Magic Weapons
+Repairs
+Secret
+Beauty Queen
+Free game
+Gems
+Sharpen
+Exhibition
 Mykonou
-Personen
-Sammler
-Magische Edelsteine
-Erfahrung
+People
+Collector
+Magic Gems
+Experience
 Trainer
-Bitte
-Vorbereitungen
-Arbeit
-Abbau
-Handel
-Stollen
-Spionage
-Versuch
-Anteil
-Wissen
-Umstände
+Request
+Preparations
+Work
+Mining
+Trade
+Mining tunnel
+Espionage
+Attempt
+Share
+Knowledge
+Circumstances
 Kossotto
-Aufenthaltsort
+Location
 Edjirr
-Beweise
-Mensch
+Evidence
+Human
 Information
-Ja
-Nein
+Yes
+No
 Beloveno
 Arrim
-Meinung
-Menschen
-Krieger
-Heiligtum
+Opinion
+People
+Warrior
+Shrine
 Tabu
-Wesen
-Konflikt
-Gerüchte
+Being
+Conflict
+Rumors
 Zerruma
-Kontos
-Krieg
+Accounts
+War
 Gard
 Riko
 Herras
-Geschichte
+History
 Perron
-Lage
+Situation
 Attentat
-Belohnung
-Unstimmigkeiten
-Warnung
-Haltung
-Stimmung
-Aussprache
-Mordversuch
-Mordanschlag
-Mord
-Fragen
+Pay
+Discrepancies
+Warning
+Position
+Mood
+Pronounciation
+Attempted murder
+Murder
+Murder
+Questions
 Arrek
 Melthar
-Nachfolger
-Zeit
-Wer?
-Rat
-Veränderungen
-Verbindung
-Probleme
-Glaube
-Magie
+Successor
+Time
+Who?
+Council
+Changes
+Connection
+Problems
+Belief
+Magic
 Plan
-Ansprache
+Speech
 Kariah
-Lob
-Hinweis
-Freudenhaus
-Kontinent
-Theorien
-Karte
+Praise
+Tip
+Pleasure House
+Continent
+Theories
+Map
 Aurino
-Kummer
-Jäger
-Grundstück
+Sorrow
+Hunter
+Piece of land
 Kryte
-Hiobsbotschaften
-Reiserouten
-Paß
-Rat der Gerechten
+Bad news
+Travel routine
+Passport
+Council of the just
 Sugo
 Ramina
-Höhle
-Höhlen
+Cavern
+Caverns
 Kritah
 Kritahs
-Gebirgspaß
-Schädel
-Herberge
-Nordseite
-Südseite
-Häuser
-Bauweise
-Gilde
-Stadttor
-Stadttore
-Marktplatz
-Metallmacher
+Mountains pass
+Skull
+Inn
+Northern side
+Southern side
+Houses
+Building style
+Guild
+Town gate
+City gates
+Market place
+Metal maker
 Kenget Kamulos
-Landweg
-Krankheit
-Angelegenheit
-Mutter
+Country path
+Sickness
+Case
+Mother
 Maini
-Bewußtsein
-Tote
-Getränke
-Essen
-Übernachtung
+Awareness
+Dead
+Drinks
+Food
+Overnight stay
 Drirra
-Anschlag
-Tod
-Magier-Gilde
-Magiergilde
+Attack
+Death
+Magicians' guild
+Magicians' guild
 
 
 

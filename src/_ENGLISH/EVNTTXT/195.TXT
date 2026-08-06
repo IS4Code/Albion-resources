@@ -1,0 +1,23 @@
+﻿{BLOK000}"Exist. Live. Feel. Smell. Hear. See."
+"Ahh, a complex mind. So long ago, so long. Beautiful. Talk." {BLOK010}"Who or what are you?"
+"I am... here. I am now this place. A long time ago... I was small, I was one, alone." {BLOK010}"You used to be someone else?"
+"Yes... I once was... was like you. Iskai." {BLOK010}{FAT }"Oh, goddess!{NORS} you... you were once... {FAT }ARGIM{NORS} !"
+"Ja."
+"It is lovely to speak." {BLOK010}"What was it that happened?" {BLOK011}"Can you tell me of your present life, Argim?" {BLOK012}"We seek a person who has forced his way in here." {BLOK013}"I want to break off contact, Argim".
+"It was so long ago, it is...difficult. I am no longer used to thinking, remembering. I wanted life. My life was so short. I became.. hot. So angry. Everything flowed out of me. I spread my self out. It is...difficult to describe.^^ But everything turned out well. I live."
+"I live. That is pretty. I live in this place. I am this place. I live in the animals here. I live in all that you experience.^^ I am in them. I feel how they live, how they hunt, and how they are hunted, how they live and die.^^ It is wonderful. I am happy. I only miss small things. To speak like this. and music."
+"Yes. A human was here. He was a good hunter. But he was not the only hunter. He entered the wheel. He no longer lives." {BLOK010}"May we see his remains? We have seen them in the room behind the structure, through which we are communicating."
+"Of course, {LEAD}{NAME}. I shall move the structure after our contact."
+"This is sad. I found this contact very pretty. Please come again.^^ And I... I would ask you for something. I remember music, glorious music. I miss music. I often dream of music from a crystal. Please bring me a music crystal. Do you promise?" {BLOK010}"We promise you, Argim. We shall bring you a music crystal." {BLOK011}"We do not know whether we can find such a thing."
+"I am so happy. Let me show you my thanks.^^ In the large rooms are two fountains of color. Combine them with the way of light.^Rejoice in the fountain of power. ^^Farewell. I wait for your return."
+"This is very unhappy. I miss music very much. Farewell."
+"It is pretty, to talk." {BLOK001}"We have brought a music crystal, Argim!" {BLOK011}"What had happened?" {BLOK012}"Can you tell me something about your life now, Argim?" {BLOK013}"I want to break contact now, Argim."
+"You have returned. I celebrate."
+"It is pretty, to speak." {BLOK010}"What had happened?" {BLOK011}"Can you tell me something about your life now, Argim?" {BLOK012}"Does the music crystal please you?" {BLOK013}"I want to break contact now, Argim."
+"Oh, yes! The music has brought me much joy! I am thankful."
+"I have enjoyed your visit. May the goddess watch over your ways."
+"The music is back. I celebrate it. I am happy. I thank."
+"Did you bring a music crystal? {LEAD}{NAME}?"
+It is pretty to talk." {BLOK010}"What had happened then?" {BLOK011}"Can you tell me something about your life, Argim?" {BLOK013}"I want to break contact now, Argim".
+{INK 001}{LEAD}{NAME} says to the others:^^{INK 002} It's unbelievable! I am in contact with the spirit which used to be Argim"^^ {INK 001}Then {HE  } starts to concentrate on Argim's thoughts again.
+"What an experience! Just imagine: ..."^^ {INK 001}{LEAD}{NAME} tells the others about contact with Argim's consciousness."

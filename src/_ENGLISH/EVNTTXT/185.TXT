@@ -1,10 +1,10 @@
-﻿{BLOK000}"I am a Security Officer, rank of Colonel."
-"Move along, there's nothing to see here." {BLOK010}"What's happened? You can't be standing here for the good of your health."
-"You must have heard about the accident involving the Inspector and the over-c - Comsystem. The Comroom is off limits until further notice."{WRNR0210}
-"The room will be off limits to the crew until we're certain there's no danger from the damaged equipment. Now stop asking questions."
-"Don't get fresh, Driscoll. I'm still Colonel to you."
-"{HIGH}Are you crazy?^ {NORS}Hand over that gun at once! This will go on your personal record, Driscoll, I can promise you that!"^^ {INK 001}Priver takes the gun from Tom.
-"What are you waiting for? We're not paid to stand around talking."{WRNR0210}
-"Get lost, Driscoll. I don't feel like arguing with trouble-makers like you."
-{BLOK000}What can you tell me about... {BLOK001}Would you take a look at this, please?... {BLOK004}Goodbye, Sir. {BLOK005}What is your job?
-
+﻿{BLOK000}"I'm a security officer with the rank of colonel."
+"Keep moving. There's nothing for you to see here." {BLOK010}"What's going on here? You're not just standing around here for fun."
+"You must certainly have heard about the Inspector's accident with the Over C com-command. The com-room is locked until further notice."{WORDCom room}
+"The room is going to stay closed until we're sure that there is no more danger. And now you can stop asking questions."
+"Don't get fresh, Driscoll. To you, I'm still a colonel."
+"{HIGH}Are you insane?^ {NORS}Give me that weapon immediately. This is going to have consequences for your personal records, I can promise you that!"^^ {INK 001}Priver takes away Tom's weapon.
+"What are you still doing here? We're not getting paid to talk."{WORDCom room}
+"You better disappear, Driscoll. I have an idea what I can do with a trouble maker like you."
+{BLOK000}What can you tell me about... {BLOK001}Will you take a look at this... {BLOK004}See ya. {BLOK005}What is your assignment?
+"Good bye."

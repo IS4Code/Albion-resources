@@ -1,10 +1,10 @@
-﻿{BLOK000}"This is the fourth time I've checked the systems for landing today." {WRNR0206}
-"Hello, honey. Stretching your legs a bit before the Shuttle takes off? I'm checking the systems for landing this huge crate." {WRNR0205}{WRNR0206}{WRNR0207}
-"Bongiorno, honey. What's new?"
-"If everything goes OK, and I think it will, we'll have to strap ourselves in for about 45 minutes. By then, the landing will be completed and the segments of the ship will have opened out horizontally. The segments will have the correct gravitational pull in them. Don't forget to stow the stuff in your cabin securely."
-"Don't worry, honey. The systems and all the back-up circuits are working fine. It'll all go like clockwork."
-"I envy you and Hofstedt. You'll be the first people ever to set eyes on Nugget. I'll keep my fingers crossed for you, Tom. Take care of yourself, you hear?"{WRNR0200}{WRNR0186}
-"Well, if you're half as good a pilot as you're always telling me, I've got nothing to worry about. Seriously though, honey, don't do anything silly, OK? I really like you."
-"You can't get that dream out of your head, can you? It's weird the way it keeps coming back. But it's not really a nightmare. It's bound to go away sooner or later."
-{BLOK000}What can you say about... {BLOK001}Take a look at this... {BLOK004}See you soon! {BLOK005}What's your job at the moment?
-
+﻿{BLOK000}"I'm checking the landing system for the fourth time today." {WORDLanding}
+"Hi, sweetheart. Moving your feet a bit, before the shuttle takes off? I'm checking through the systems we're using to land this big tub." {WORDFlight}{WORDLanding}{WORDDream}
+"Bongiorno, good looking. Whatcha got cooking?"
+"If all goes well, which we have to assume, we have to strap ourselves in for about 45 minutes. The landing process should then be complete, and the ships segments will fold themselves out horizontally. That will acheive the proper gravitational direction within the segments. Don't forget to tie everything down inside your cabin."
+"Don't get uptight pretty boy. All main and backup systems are in top condition. It's running like the Martian Marathon."
+"I actually envy you and Hofstedt. You two will be the first humans to see Nugget with the naked eye. I'll keep my fingers crossed during the flight. Just please be careful, Okay?"{WORDHofstedt}{WORDNugget}
+"If your at least half as good a pilot as you've been telling me, then I don't have anything to worry about. But seriously, don't crash or anything. I really like you."
+"You just can't seem to get that dream out of your head, can you? Strange that it always seems to come back. Yeah, I know, it's not a real a nightmare. Well, you'll be able to live with it until it goes away by itself."
+{BLOK000}What can you tell me about... {BLOK001}Take a look at this...{BLOK004}See you soon! {BLOK005}What is your job at the moment?
+"See ya, big guy."

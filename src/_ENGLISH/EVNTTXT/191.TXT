@@ -1,8 +1,8 @@
-﻿
+﻿{BLOK000}"I'm the technical manager for all segments."{WORDSegments} {WORDLadder}
 "Hello, Driscoll."
-"Whenever something gets stuck someplace, they all come to me and expect me to perform miracles. Still, I shouldn't complain, this flight's gone without a hitch so far. The TORONTO's worth every cent she cost."{WRNR0182}
-"Well, like I said: whenever something gets stuck someplace, they all come to me and expect me to perform miracles. Still, I shouldn't complain, this flight's gone without a hitch so far. The TORONTO's worth every cent she cost."{WRNR0182}
-"Out of the eight segments on the TORONTO, only two have life support systems installed: this one here, and the segment where the Secus, the sick bay and the reactor core are. The other segments contain machinery and materials for excavation. They don't need to be serviced during flight, so they don't bother me."{WRNR0201}
-"Didn't you understand what I said? Listen: out of the eight segments on the TORONTO, only two have life support systems installed: this one here, and the segment where the Secus, the sick bay and the reactor core are. The other segments contain machinery and materials for excavation. They don't need to be serviced during flight."{WRNR0201}
-{BLOK000}What can you say about... {BLOK001}Take a look at this... {BLOK004}See you soon! {BLOK005}What's your job at the moment?
-
+"Whenever there's a problem, they all come to me and expect miracle solutions. Actually, I shouldn't complain, because this flight has been running according to plan. The TORONTO is worth every credit of the investment."{WORDTORONTO}
+"Well like I already said: Whenever something goes wrong, the technicians all come to me and expect miracles. But I really can't complain, we haven't had any problems on this flight. The TORONTO is worth all the money in Osaka."{WORDTORONTO}
+"The TORONTO contains life support systems in only two of its eight segments: in this one here, and in the one, where the Secus, the sick bay, and the nuclear core are located.The remaining segments contain machinery and materials for mining and don't require maintenance during the flight, so dont make any problems for me."{WORDSecus}
+"Still didn't understand? Here we go again: The TORONTO contains life support systems in only two of its eight segments: in this one here, and in the one, where the Secus, the sick bay, and the nuclear core are located.The remaining segments contain machinery and materials for mining and don't require maintenance during the flight."{WORDSecus}
+{BLOK000}What can you tell me about... {BLOK001}Take a look at this...{BLOK004}See you soon! {BLOK005}What is your job at the moment?
+"Yeah, take it easy!"

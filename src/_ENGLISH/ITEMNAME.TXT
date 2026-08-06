@@ -1,0 +1,462 @@
+﻿knife
+short dagger
+dagger
+large dagger
+short sword
+sword
+two-hander
+Lughs-dagger
+Danus-light
+stab
+double stab
+heavy short-sword
+decorative sword
+throwing-dagger
+long-sword
+small axe
+axe
+battle-axe
+small battle-axe
+big battle-ax
+double battle-axe
+battle-club
+battle-hammer
+Iskai-knife
+Iskai-dagger
+Iskai-stiletto
+Iskai-short sword
+big Iskai-stiletto
+Iskai-sword
+big Iskai-saber
+Iskai-long-sword
+Iskai-lance
+big Iskai-dagger
+Iskai-short stiletto
+Bradirs stiletto
+big Iskai-sword
+small bow
+bow
+longbow
+arrow
+long arrow
+mini-bolt-thrower
+bolt-thrower
+bolt-rifle
+bolt
+poison bolt
+pistol
+small leather shield
+leather shield
+round shield
+big shield
+framed shield
+metal shield
+small Iskai-shield
+Iskai-shield
+big Iskai-shield
+leather cap
+covered cap
+metal half shell
+metal helmet
+Iskai-leather cap
+Iskai-metal cap
+Iskai-metal helmet
+leather vest
+leather gear
+covered leather
+light chainmail
+heavy chainmail
+Iskai-chestplate
+Iskai-metal plate
+light Iskai-armor
+Iskai-armor
+shoes
+boots
+empty bottle
+green healing potion
+turquois healing pot
+blue healing potion
+red potion
+violet potion
+blue potion
+hunter-clan-key
+door-key
+key-device
+door-key
+cell key
+chest-key
+dungeon-key
+Herras-key
+door-key
+beast-master-key
+rope
+snake-staff
+crystal-staff
+Danus-collar
+ice-ring
+fire-ring
+rage-ring
+goddess-ring
+book
+torch
+torch (burning)
+container
+container
+container
+plate
+herbs
+herbs
+baking tools
+spice
+container
+can
+container
+container
+container
+kitchen-knife
+container
+bottle
+bottle
+book
+silverware
+cup
+book
+container
+container
+container
+container
+container
+bottle
+aromatic root
+bottle
+damaged bottle
+container
+bottle
+book
+pillow
+plate
+soup-spoon
+herbs
+fruit
+cold roast
+bottle
+bottle
+bucket
+towel
+towel
+cup
+fur-brush
+spoon
+cup
+shell
+spice
+fruit
+small container
+silverware
+plate
+fork
+container
+sausage
+ham
+spoon
+pliers
+arrow
+small arrow
+stick-through
+screwdriver
+hammer
+small hammer
+flat hammer
+special hammer
+pliers
+kitchen knife
+baked goods
+fruit
+sm. screwdriver
+cup
+metal-saw
+fine tools
+wrench
+sm. metal box
+metal structure
+wire structure
+metal shell
+bronze ball
+beeker
+beakers
+red beaker
+hammer
+scissors
+bowl
+wrench
+fine scissors
+bottle
+bottles
+bowl of water
+bowl
+mortar
+magnifying glass
+pincette
+smoked sausages
+clay bowl
+clay bowl
+fork
+table knife
+plate
+spoon
+clay container
+clay container
+clay container
+clay container
+clay container
+clay container
+silverware
+jug
+clay container
+drinking horn
+plate
+earthen jug
+soup spoon
+clay container
+clay container
+clay container
+clay container
+clay container
+bucket
+pillow
+heavy short-sword
+heavy dagger
+metal plate
+book
+leather-bound book
+notes
+pencil
+book
+book
+bucket
+bucket
+vegetables
+metal cup
+baked goods
+soup spoon
+glass con tainer
+glass container
+big glass pot
+plate
+plate
+bottle
+bottle
+wood can
+large glass jar
+big glass vase
+clay container
+clay container
+clay container
+woven basket
+Iskai-note book
+note
+Iskai-ring book
+Iskai-ring block
+pencil
+short pencil
+lever
+bucket of water
+monster eye
+compass
+clock
+pick-axe
+rainbow-staff
+blue staff
+Iskai-fine-dagger
+special screwdriver
+blue code card
+red code card
+green code card
+turquois code card
+notebook
+turq. music crystal
+blue music crystal
+red music crystal
+green music crystal
+purple music crystal
+violet music crystal
+ocre music crystall
+piece of meat
+axe
+large arrow
+arrow
+bow-belt
+cannister
+skeleton key
+mood-drink
+metal plate
+metal plate
+glass
+cup
+cup
+container
+container
+bottle
+bottle
+cup
+container
+container
+container
+can
+cup
+cup
+can
+jar
+jar
+peppar and salt
+soy sauce
+pot
+small can
+pot
+shovel
+spade
+wrench
+wrench
+screwdriver
+hand console
+PDA
+screwdriver
+pliers
+Silberhalsreif
+Goldhalsreif
+silver ring
+ring with gold inlay
+golden ring
+silver chain
+chain with gold embl
+gold chain
+jewel -chain
+precious stone
+precious stone
+precious stone
+precious stone
+precious stone
+precious stone
+precious stone
+precious stone
+precious stone
+precious stone
+Triifalai-seed
+lucky chain
+thief's amulette
+quik amulette
+protector-amulette
+power-amulett
+stength-amulette
+pore oil
+fragrant water
+crystal dagger
+sun-dagger
+fire blade
+Kamulo's view
+frost bringer
+crystal throwing axe
+helmet with crystal
+"Lugh's Hand" helmet
+document
+piece of document
+piece of document
+dream shield
+Lugh's shield
+Warniak-ball
+Krondir-Trii
+diamand
+Tharnos permit
+fire ball
+flaming bite
+shadow sword
+red sword
+crystal-hand dagger
+blue dagger
+black-stone helmet
+white ring
+overall
+outfit
+stone of visions
+metal magic knowlege
+"higher knowlege"
+Kenget-note
+THE SEED
+THE SEED
+code-note part 1
+code-note part 2
+code-note part 3
+cellar card
+video camera
+storage medium
+Joe's chip
+light staff
+light staff
+godess-amulette
+small Warniak-ball
+Dji Cantos - stone
+thorn-noose
+hurry
+life-view
+antedote poison
+antedote insanity
+sickness antedote
+frost splitter
+frost-crystal
+frost-avalanche
+easy healing
+blinding-spark
+blinding-beam
+blinding-storm
+sleep-spores
+thorn-trap
+remove trap
+heal paralysis
+heal intoxication
+heal blindness
+heal poisoning
+fungus
+light
+regeneration
+card view
+life-bringer
+teleport
+quick retreat
+levitation
+stone
+goddess-wrath
+irritation
+recovery
+juggernaut
+drive out demon
+drive out demon
+demon exodus
+small fire ball
+magic shield
+recovery
+bragging
+fright
+panic
+poison stone
+lightning
+fire-rain
+lightning beam
+fire hail
+lightning storm
+lightning trap
+big lightning trap
+lightning mine
+big lightning mine
+steal life
+steal magic
+personal protection
+Kamulos view
+remove trap
+shock-staff
+heavy-fire-weapon
+Iskai-shoes
+color card
+treasure card
+Mellthas leaves
+Mellthas stick
+laser

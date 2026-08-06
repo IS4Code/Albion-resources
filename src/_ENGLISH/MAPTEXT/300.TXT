@@ -1,184 +1,184 @@
 ﻿ 
 A fuse box.
 An armchair.
-A couch.
-The control desk of the nuclear reactor.
-A service panel. In der centre is a keypad for entering a code.
-A control console.
-A flight control console.
-A control desk.
+A cot.
+The controls to an atomic reactor.
+A service panel. In the middle, there's a pad for printing in a code.
+A steering console.
+A flight steering console.
+A control board.
 A chemical toilet.
-A cupboard.
-A wash basin.
-Hand towels.
-Tooth brushes and toothpaste.
-An indicator for corridor security.
-Security indicators.
-Part of the reactor.
-Containers for garbage, water, toxic material and raw materials.
-A console, turned off.
+A cabinet.
+A sink.
+Towels.
+Dental hygene tools.
+An ad for corridor patrol service.
+Control Indicators.
+A part of the reactor.
+Barrels full of garbage, water, poison, and raw materials.
+A switched off console.
 A lamp.
 A plate.
 A glass.
-A tumbler.
-A receptacle.
+A cup.
+A container.
 A bottle.
-A pot.
+A teapot.
 A can.
-A receptacle for fluids.
-A salt and pepper shaker.
+A jar.
+Salt and pepper shakers.
 Soy sauce.
-A saucepan.
-A small can.
+A pot.
+A small tin.
 A shovel.
 A spade.
-A spanner.
+A wrench.
 A screwdriver.
 A hand console.
-
-A pair of pliers.
-Cutlery and a mug.
-Crockery.
+A PDA. (Personal Digital Assistent)
+Pliers.
+Silverware and a cup.
+Dishes.
 An automatic door.
-A Shuttle.
-Containers.
+A shuttle.
+Container.
 A shower.
 A vehicle.
-
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-"That dream again. Must be the tenth time; what does it mean?^^ Can't ever remember dreaming in colour before...^^ Well, I guess I'll stretch my legs for a while. I hope the order comes through soon to take off for the Shuttle's reconnaissance flight."
-"Hi there, big guy! Had a good sleep?"
-"Christine! Good to see you, honey!^ I'm absolutely whacked. You were right; I should have stayed with you last night. I had that crazy dream again. Every time it gets... clearer."
-"It sure is crazy. You're not usually such a sensitive soul. It must be something to do with the over-c - leap. Stay with me tonight, and I'll make you forget these silly nightmares!"
-"The dream began before that, and it isn't really a nightmare. It's just so intense!^^ Ah, what the hell. I'm going for a walk. Maybe I'll meet Captain Brandt and find out when I'm supposed to take off with Snoopy."
-"Snoopy? Didn't you...? Wow, you must really be a deep sleeper. You could hear the explosion all over the segment!"
-"Explosion? What explosion do you mean? What are you talking about, Chris? What's happened to Snoopy?"
-"The Inspector was sitting at the over-c comcontrols during the leap. The equipment overloaded and just blew up. They say they found Snoopy's remains all over the place."
-"That's terrible! I just can't believe it! That means now Hofstedt is the only government official on board."
-"Yes, I've heard he'll be coming with you on the reconnaissance flight instead of Snoopy."
-"What a great start to the day. Oh well, Hofstedt's not so bad, and the accident probably won't make any difference to my flight plan. I'll have a talk with Joe about it."
-"Your pal's been assigned to the "north-east" of the segment today, near the entrance to the Comroom.^^ O.K., it's time I was going. I've got a lot of work to do. See you later, honey."
-"So long, Christine."
-This door is locked.
-"Ahem, Driscoll: Nothing personal, but I'd rather be on my own right now. Stay outside please."
-"There's nothing to see here. Go on."
-{INK 001}This is Rainer Hofstedt, physicist and xenobiologist and a government supervisory official. He begins to speak excitedly.
-"Driscoll! I'm glad I've met you! Have you heard about Inspector Beegle's death?"
-"Hello, Hofstedt. Yes, my partner just told me about it. It must have been a horrific sight."
-"That obstinate British idiot! I know he wasn't a technician, but he must have known how difficult it is to control the Comsystem during the over-c leap. We still don't fully understand this super-light technology yet. Poor devil!"
-"That makes you the only government official on board, doesn't it?"
-"The only nosey parker, yes. Don't remind me!^^ Anyway, I just talked to Captain Brandt. He wants to go ahead with the flight, with yours truly instead of Beegle.^^ Looks like you've got a new passenger, Driscoll."
-"I don't want to sound hard-hearted, but it makes no difference to the Shuttle which two people are on board. I don't see why the flight shouldn't go ahead as planned."
-"I must admit, I'm really looking forward to the flight. We should be taking off in the next few days. We'll have to wait for a message from the Captain."
-"That's right.^ I'll see you before then. See you later, Hofstedt!"
-"See you, Driscoll."
-"Hi, Driscoll. Good luck with your flight."
-{INK 001}The security man glances at Tom sullenly. He does not answer.
-"Hello, Driscoll! I hear you've got a new passenger, since they scraped the Inspector off the walls.^I'll keep my fingers crossed for you."
-"Hi, Tom. Sorry, I'm in a bit of a hurry. Heavy duty rota! See you later."
-"Hello, Tom. I'd like to see what the Comroom looks like since Snoopy got killed. Pity the Secus are guarding it."
-{INK 001}Tom tries to access the latest news from the console. The following messages appear before the news reports:{TECF}^^ {CNTR}{INK 002}***Video data not available***^ ***Comconection not active***^^ Text mode activated.
-"Hello, Driscoll. Having a look at the Shuttle? Don't worry, everything's fine."
-{TECF}NEWS FLASH (Text mode):^^{LEFT} 18- European Union: The 14th attempt to introduce an official common currency has failed as a result of Germany's opposition to the plan.
-{TECF}NEWS FLASH (Text mode):^^{LEFT} 19- McCartney heirs appeal to International Court of Justice. Will Brazil's attempt to dispossess the McCartney heirs threaten the last remaining expanse of rain forest? Some states have demanded that the heirs be protected by armed troops.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{TECF}NEWS FLASH (Text mode):^^{LEFT} 19- McCartney heirs appeal to International Court of Justice. Will Brazil's attempt to dispossess the McCartney heirs threaten the last remaining expanse of rain forest? Some states have demanded that the heirs be protected by armed troops.
-{TECF}NEWS FLASH (Text mode):^^{LEFT} 18- European Union: The 14th attempt to introduce an official common currency has failed as a result of Germany's opposition to the plan.
-A console for accessing news reports.
-An enormous bulkhead.
-"Good evening, Tom! Come in and make yourself comfortable."
-Tonight Tom is not troubled by his dream...^^ Some time later, Tom leaves Christine's cabin.
-This is the door to Christine's cabin. She is not there at the moment.
-This is the door to Christine's cabin.^ Chris seems to be in.
+Floor markings.
+ A place marker for further Cutmap-Events.
+ A place marker for further Cutmap-Events.
+ A place marker for further Cutmap-Events.
+ A place marker for further Cutmap-Events.
+ A place marker for further Cutmap-Events.
+ A place marker for further Cutmap-Events.
+ A place marker for further Cutmap-Events.
+ A place marker for further Cutmap-Events.
+ A place marker for further Cutmap-Events.
+ A place marker for further Cutmap-Events.
+ A place marker for further Cutmap-Events.
+ A place marker for further Cutmap-Events.
+ A place marker for further Cutmap-Events.
+ A place marker for further Cutmap-Events.
+ A place marker for further Cutmap-Events.
+"This dream again. Must be the tenth time; what could it mean?^^ Can't remember having ever dreamt in color...^^ Oh well, I'm gonna go and move my feet a bit. Hopefully they're gonna tell me soon when I can move the shuttle out for pre-flight."
+"Hey there, big guy, did you have a good sleep?"
+"Christine! Great to see you, sweetheart!^ I feel like I've just been tortured. Once again you were right. I should have slept at your place last night. I've had that crazy dream again. Each time it gets.... clearer."
+"Actually it's crazy. Your not overly sensitive as a rule. It must have to do with the Over C Jump. Stay at my place tonight and I'll drive out the nightmares!"
+"The dream started before that, and it actually isn't a nightmare. It's just very intense!^^ Oh well, what the hell, I'm going for a round. Maybe I'll meet up with captain Brandt and'll find out when Snoopy and I should be taking off."
+"Snoopy? Haven't you...? Boy, you must really be a deep sleeper. Everyone else in the segment felt the explosion!"
+"Explosion? Stop being so myterious, what are you talking about, Chris? What happened to Snoopy?"
+"The inspector was sitting at the com-control during the Over C Jump The thing overloaded and blew to bits. They said they found pieces of Snoopy all over the room."
+"What a hammer! I don't know if I'll ever get over that one. That makes Hofstedt the only government rep on board."
+"Yeah, and I heard you're supposed to make the scout flight with him in Snoopy's place."
+"What a great start to a new day. Well, anyway, Hofstedt is all right, and it doesn't change my flight plan at all. I'm gonna go discuss everything with Joe."
+"Your pal's assigned to the north east segment, right near the entrance to the com-room.^^ O.K. I'm gonna be heading off, too. Got lots of work to do. See you later, sweetheart."
+"Bye, Christine."
+This door is closed.
+"Ahem, Driscoll: No hard feelings, but I'd rather be alone right now. Please stay outside."
+"There's nothing to see here. Please go on."
+{INK 001}This is Rainer Hofstedt, physicist und xenobiologist and the assigned governmental observer. He nervously begins the conversation.
+"Driscoll! I'm glad I met up with you. Have you heard that Inspector Beegle's dead?"
+"Hello, Hofstedt. Yes, my signifigant other has already given me a full report. Must have been terrible to look at!"
+"These stubbern thick-headed British! He may not be a technician, but he must have known that using the com-control during an Over C Jump is not the brightest idea. This whole ultra-lighting technique is still in the infant phase. The poor devil!"
+"That makes you the only government representative on board, doesn't it?"
+"The only spy, yes. Please don't remind me!^^ No matter. I just was talking to Captain Brandt. He still wants to carry out the scouting flight, using my humble self in Beegle's stead.^^ Looks as if you've got yourself a new passenger, Driscoll."
+"I don't want to seem impious, but, the shuttle doesn't care which two poeple it has to carry. As far as I'm concerned, the flight can take place according to plan."
+"I have to admit, that I'm really looking foward to the flight. We should be taking off in the next few days. We're just waiting for word from the Captain."
+"So that's what's happening.^ We'll be in contact before that. See you later, Hofstedt!"
+"Yeah, see you then, Driscoll."
+"Hey there, Driscoll. Good luck with the flight."
+{INK 001}The security man gives Tom a disarming look: he doesn't answer.
+"Hey, Driscoll! Heard you got yourself a new passenger after they finished scratching the inspector off the wall.^I've got my fingers crossed for your flight."
+"Hi, Tom. Sorry, I'm in a bit of a hurry. Got a full schedule. See you later."
+"Hello, Tom. I sure would like to know what it looks like in the com-room after it hit Snoopy. Too bad that the Secus closed off the area"
+{INK 001}Tom Tried to pick up the last news on the console.Before the reports appeared the following:{TECF}^^ {CNTR}{INK 002}***Video data not available***^ ***Com-connection not active***^^ Text modem activated.
+"Hello, Driscoll. Just taking a last check on your shuttle. Everything seem to be in good shape?"
+{TECF}NEWSFLASH (Textmode):^^{LEFT} "European Union: The fourteenth attempt to introduce a unified common currency has been vetoed by Germany."
+{TECF}NEWSFLASH (Textmode):^^{LEFT} "McCartney-heirs appeal to the international court. Brasil's last attempts to take over MacCartney rain forest have caused some states to send international troops in defense of the last existing rain forests in MacCartnry-heier's possesion."
+{TECF}NEWSFLASH (Textmode):^^{LEFT} "Rome. Pope John Paul the 14. made public today his encyclica on the protection of unborn life. With it, the Vatican strengthened its opinion concerning birth control and abortion. Further, the Pope stated that the unborn child's right to growth and protection must be upheld over the interests of the indivduals and genetic production companies who are responsible for creating the unborn child, according to the Pope's writing. Furthermore, abortion will only be allowed when the life of the mother can in no other way be preserved. The Pope described contraception as an attack on the biological rights of the creator of all life. Even the ever increasing global population cannot be seen as an excuse to disobey this principle."
+{TECF}NEWSFLASH (Textmode):^^{LEFT} "Brussels. The interior minister of the United States of Europe, John McDermott, Described the most recent Vatican encyclica as further proof of the sect's 'complete denial of contemporary reality'. In this context,McDermott pointed to the ever increasing numbers of religious sect members. According to McDermott, sect members must donate their incomes to the sects in return for the promise of an after-life salvation. A disturbing factor is the ever increasing membership among teenagers and young adults, who, through contemporary pressures, become more prone to believe sect promises. McDermott announced a sharpening of the European Intelligence Agencies' (EIA) observation of the Vatican, especially the recent suspicion, that the Vatican Defence Department(SWIZ) has unilaterally broken all Nuclear Proliferation Treaties and developed delivery systems armed with nuclear warheads. McDermott accused the Vatican of developing further its feared genetic weapon, known as 'ADAM'. "
+{TECF}NEWSFLASH (Textmode):^^{LEFT} "Stuttgart-Tokio. A speaker for the DDT-Corporation, Wolfgang Yamamoto, made a public denial today, that they company's deep space processing ship, 'The TORONTO has been reported missing during a mission in space. The company speaker has explained away that the lack of communication with the spacecraft as the result of a defective communications system. The ship itself is apparently still sending homing signals from the planet "Nugget", a desert planet in the HR-13- 4198 sector.It is assumed that otherwise, all ship's systems are in fully funtioning order and that the first shipments will arrive on earth in a few years time. Yamamoto played down the need for a possible rescue mission, pointing to the fact that any assistence would arrive too late to justify the costs of such a three year mission. Yamamoto's press conference did little to help the slight sink in the price of DDT stocks and futures. Brokers are reacting with cautious restraint."
+{TECF}NEWSFLASH (Textmode):^^{LEFT} "Strassburg. At the anual meeting of the european social teacher's association came to the resolution that prayer in the schools be forbidden under penalty of the law, especially for minors. It should not be tolerated, according to the chairperson of the ESTA, Annagret Bergmann-Lampe, that defenceless children be threatened by apocalyptic and savioral scenarios desseminated by all religions. In recent times, according to the chairperson, there has been an increase in the threat of religious graffitti. It is not sufficient, according to Bergmann-Lampe, to perceive the culprits as mentally unstable. They require similar treatment to drug addicted criminals."
+{TECF}NEWSFLASH (Textmode):^^{LEFT} "Geneva. The foreign ministers of the European, American, and Asian League of States met for their routine bi-yearly conference on further political and economic cooperation, RwfZ. It was impossible to ignore, however, the massive trade war between the americans and the asians. The atmosphere was tarnished by accusations of unfriendly trade tariffs. The Asian Emporer's threat to let the Bering Straight tunnel project remain unfinished was not a theme of today's meeting. The closing declaration is expected tomorrow."
+{TECF}NEWSFLASH (Textmode):^^{LEFT}"This year's Gates prize for plasma-physics was accepted by the chinese Huo Wong Gang for his new discoveries in the functional use of plasma-physics hyper-light conductors. Wong Gang is the first chinese citizen to win the 470 million Credits. The Gates prize has a 154 year history of honoring progressive minds in the fields of science and buisness."
+{TECF}NEWSFLASH (Textmode):^^{LEFT} "From the world of sports. Golf. In the national cup game between Irak and the USA , after 3 of 5 games, score is 2:1 in favor of the favorites from the USA."
+{TECF}NEWSFLASH (Textmode):^^{LEFT} "Earthquake warnings for tomorrow, the ninth of September, 2195. In the area of the San Andreas fault, there have been no noticeable tremors. After last year's huge earthquake there have been new tensions between the American continental plate and the pacific plate very slowly developing. There are only small tremors expected in the Los Angeles area, which are only expected to reach a level of 3.5 on the Richter scale. The japanese coastal region is also remaining calm, they are not expecting any tremors. It could get a bit wild in the northern Mediterranean, west of the city of Athens. The measurements of the International Earthquake Service calculate an earthquake with a level of 5 on the Richter scale which should have no consequences for the Greek provincial capitol."
+{TECF}NEWSFLASH (Textmode):^^{LEFT} "Tarif conflicts between the spaceman's union and the supranational space centers show no signs of letting up as both sides reassert their conflicting opinions . The employee representatives threaten a warning strike, if the employers don't present an acceptable offer before the next round of talks. The main issue in the conflict concerns the spaceship scientists, who are bidding for more profits for patents developed through their research. While the employer side categorically denies this bid as utopean, the spaceman's union remains firm in their demands. In this year alone, patents from outer space research have brought in profits of more than 400 billion Credits. '"We want a substantial piece of that cake", says one union representative."
+{TECF}NEWSFLASH (Textmode):^^{LEFT} "Nuernberg. The president of the European Labor Sector, Yagoda, presented his report for the month of August. According to the August report, 76 million european citizens are unemployed, an unemployment quota of 16.7%. The speaker of the social-ecologists in the european parlaiment, Guiseppe Piscator, expressed his outrage at the news. Piscator blames it on the violently unsocial politics of the Union, which allows the super-conglomerates to have record profits while most major european cities turn into slums. Piscator was quoted as saying: Quite obviously, the government has an interest in seeing, that Europe takes on the American model of welfare. The opposition has no patience with such forms of Thatcher-capitalism!'"
+{TECF}NEWSFLASH (Textmode):^^{LEFT} "School is beginning again in Europe after the big summer break. The Union's Transportation Minister requests all indi pilots to be especially careful all this week during flying hours, due to the number of first class students out there. Please exercise special caution."
+"{TECF}NEWSFLASH (Textmode):^^{LEFT}The third of October and still no end in sight. The suggestion of the German Worker's Union, To strike the third of October as a german national holiday in order to pay for the federation's mandatory education insurance, met today once again with great resistence . Chairman of the Sudeten German Organization, Herbert Hupka VI., warned the german public from striking this day out of their memory, before the Sudetenland once again becomes german territory. In reaction to Hupka's statements, the German Workers Union suggested setting up a "New Sudetenland" in earth's orbit, to be financed by the private sector."
+{TECF}NEWSFLASH (Textmode):^^{LEFT} "Earthquake warnings for tomorrow, the ninth of September, 2195. In the area of the San Andreas faultthere have been no noticeable tremors. After last year's huge earthquake there have been new tensions between the American continental plate and the pacific plate very slowly developing. There are only small tremors expected in the Los Angeles area, which are only expected to reach a level of 3.5 on the Richter scale. The japanese coastal region is also remaining calm, they are not expecting any tremors. It could get a bit wild in the northern Mediterranian, west of the city of Athens. The measurements of the International Earthquake Service calculate an earthquake with a level of 5 on the Richter scale which should have no consequences for the Greek provincial capitol."
+{TECF}NEWSFLASH (Textmode):^^{LEFT}"This year's Gates prize for plasma-physics was accepted by the chinese Huo Wong Gang for his new discoveries in the functional use of plasma-physics hyper-light conductors. Wong Gang is the first chinese citizen to win the 470 million Credits. The Gates prize has a 154 year history of honoring progressive minds in the fields of science and buisness."
+{TECF}NEWSFLASH (Textmode):^^{LEFT} "Rome. Pope John Paul the 14. made public today his encyclica on the protection of unborn life. With it, the Vatican strengthened its opinion concerning birth control and abortion. Further, the Pope stated that the unborn child's right to growth and protection must be upheld over the interests of the indivduals and genetic production companies who are responsible for creating the unborn child, according to the Pope's writing. Furthermore, abortion will only be allowed when the life of the mother can in no other way be preserved. The Pope described contraception as an attack on the biological rights of the creator of all life. Even the ever increasing global population cannot be seen as an excuse to disobey this principle."
+{TECF}NEWSFLASH (Textmode):^^{LEFT} "Tarif conflicts between the spaceman's union and the supranational space centers show no signs of letting up as both sides reassert their conflicting opinions . The employee representatives threaten a warning strike, if the employers don't present an acceptable offer before the next round of talks. The main issue in the conflict concerns the spaceship scientists, who are bidding for more profits for patents developed through their research. While the employer side categorically denies this bid as utopean, the spaceman's union remains firm in their demands. In this year alone, patents from outer space research have brought in profits of more than 400 billion Credits. '"We want a substantial piece of that cake", says one union representative."
+{TECF}NEWSFLASH (Textmode):^^{LEFT} "Geneva. The foreign ministers of the European, American, and Asian League of States met for their routine bi-yearly conference on further political and economic cooperation, RwfZ. It was impossible to ignore, however, the massive trade war between the americans and the asians. The atmosphere was tarnished by accusations of unfriendly trade tariffs. The Asian Emporer's threat to let the Bering Straight tunnel project remain unfinished was not a theme of today's meeting. The closing declaration is expected tomorrow."
+{TECF}NEWSFLASH (Textmode):^^{LEFT} "McCartney-heirs appeal to the international court. Brasil's last attempts to take over MacCartney rain forest have caused some states to send international troops in defense of the last existing rain forests in MacCartnry-heier's possesion."
+{TECF}NEWSFLASH (Textmode):^^{LEFT} "European Union: The fourteenth attempt to introduce a unified common currency has been vetoed by Germany."
+A console for turning on the news.
+A huge porthole.
+"Good evening, Tom! Come in and we could have a nice and cozy evening."
+Tom remains unenlightened from his dream...^^ Some time later, Tom leaves Christine's cabin.
+This is the door to Christine's cabin. She's not present at the moment.
+This is the door to Christine's cabin.^ Chris seems to be at home.
 {CNTR}Knock on the door?
-"Hello, Tom! Good to see you. Come in and make yourself comfortable."
-A keypad for entering number codes.
-{TECF}{CNTR}INCORRECT CODE. ENTRY REFUSED.
-{TECF}{CNTR}ENTER ENTRY CODE:
-Tom climbs down to the service level.
-{TECF}{CNTR}CODE CORRECT. OPENING SERVICE PANEL.
-The ladder leads down to the service level.
-This is the Comroom! Tom looks round cautiously, but there is nobody here. The smell of burned-out electronic circuits hangs in the air.
-So these are the remains of the Comsystem. It really must have been a terrific explosion.
-Tom is just about to turn away when he catches sight of an object lying under the wrecked console. It is a gun!
-"How on earth did this gun get here? Except for the Secus, weapons are strictly forbidden on board^^ An interesting find anyhow..."
-The destroyed Comsystem. There is nothing else of any interest to be found.
-The destroyed Comsystem. There is something under it!
-Pieces of the destroyed Comsystem.
-The faces of the security officers register surprise, then anger, as they see somebody wandering around the area they are guarding!
-"Hold it right there, Driscoll! How did you get into the cordoned-off area?^^ Don't move, we're gonna have to frisk you!"
-Colonel Priver frisks Tom...
-"OK, you can go. But this will go on your personal record, I can promise you that!"
-"A gun! Are you crazy, Driscoll? This is going to look very good on your personal record, isn't it?^^ Get out of here -you'll be hearing from us!"^^{INK 001} Colonel Striver has confiscated the gun!
-"You again? Are you looking for trouble?"
-"Keep still!"^^{INK 001} Colonel Priver searches Tom thoroughly.
-This is where Tom keeps his private possessions.
-This was Inspector Beegle's room.
-There are a lot of bullets in this cupboard!
-Medipacs. A measured mixture of highly effective medicines.
-It's not what they were intended for, but specialist tools like this are ideal for breaking open mechanical locks!
-There are some concentrated nutrition bars here.
-A broken fluorescent tube.
-This is the TORONTO's Shuttle hangar. This is where all the small ship's flights start from.
-{INK 001}An announcement booms through the ship's corridors:^^ {INK 002}"Message for Pilot Driscoll: Shuttle ready for take-off. Take-off call will follow shortly."
-{INK 001}An announcement over the loud speakers:^^{INK 002} "Message for Pilot Driscoll: Please report for take-off of reconnaissance flight."
-{INK 001}An announcement over the loud speakers:^^{INK 002} Last call for Pilot Driscoll. Report to Shuttle hangar for take-off immediately!
-"Ok, guess I'll have to be going."
-Tom hurries to the Shuttle hangar. They are waiting for him there.
-{FAHI}{CNTR}A long script sequence follows: Tom & Rainer fly away and crash!
-They are waiting for Tom in the Shuttle hangar. He hurries to the Shuttle, which is ready for take-off.
-This bulkhead leads to cabins of the captain and the senior crew members. No other members of the crew are permitted to enter this area.
-This leads to the section of the TORONTO where the sick bay and the security officers' accommodation are located. Other crew members are not permitted to enter this area.
-"Aha, we're ready at last. I must remember to take everything I might need during the flight."
+"Hello, Tom! Nice to see you. Come in. We're just getting relaxed."
+A pad for entering in number codes.
+{TECF}{CNTR}WRONG CODE. OPENING DENIED.
+{TECF}{CNTR}ENTER OPENING CODE:
+Tom goes down into the service levels.
+{TECF}{CNTR}CODE CORRECT. OPEN SERVICE PANEL.
+The ladder leads down into the service area.
+This is in fact, the com-room Tom looks around cautiously, but there's no one here. The air smells like burnt electrical wires.
+There's what remains of the com-command. That must have been some explosion.
+Tom wants to turn and go, when he sees an object laying underneath the destroyed console. It is a weapon!
+"How the hell did this blaster get in here? Weapons are strictly forbidden, except for Secus!^^ An interresting find..."
+The destroyed com-command. There's nothing interresting to find.
+The destroyed com-command. There's something lying under it!
+Pieces of the destroyed com-command.
+At first the security officers looked surprised, then they start to look angrry as they notice someone walking around in their patrol areas!
+"Stay where you are, Driscoll! How did you get into this blocked off area? Stretch your hands far away from your body! We're going to do a little body search!"
+Colonel Priver searches Tom...
+"All right, you can go. But this is going to have consequences in your personal record, I can promise you that!"
+"A weapon? Are you mad, Driscoll. This will have consequences for your personal files, you can count on that!^^Excuse yourself now. You'll be hearing from us!"^^{INK 001} Colonel Priver has confiscated the weapon!
+"What, you again? You just seem to be asking for trouble!"
+"Just calm down!"^^{INK 001} Colonel Priver gives Tom a thorough check.
+This is where Tom keeps his private things.
+This used to be Inspector Beegles room.
+IThere's a whole bunch of cartridges in this cabinet!
+Mood drinks. An effective mixture of highly potent medications.
+Tools like this have a way of disappearing due to there quality as being perfect mechanical lock-pickers!
+You can find some concentrated nourishment bars in here.
+A non-functioning neon tube.
+This is the shuttle hangar of the TORONTO. All the smaller spaceships take off from here.
+{INK 001}A loud speaker blasts on all decks of the ship:^^ {INK 002}"Message for Pilot Driscoll: shuttle ready for take off. Take off command will be given shortly."
+{INK 001}A loudspeaker message^^{INK 002} "Message for Pilot Driscoll: Please report for the takeoff of the fact gathering flight."
+{INK 001}A loudspeaker message:^^{INK 002} Last call to Pilot Driscoll. Report immediately for take off in the shuttle hangar!
+"All right. I gotta get going."
+Tom is walking with quick steps to the shuttle hangar. He's been expected.
+{FAHI}{CNTR}Next comes a big script sequence: Tom & Rainer take off and then crash!
+They're waiting for Tom in the shuttle hangar. He enters the fully prepared shuttle.
+This port leads to the cabins of the flight personal as well as the captain. Entrance is not possible for other crew members.
+This way leads to the TORONTO segment, where the hospital and the police quarters are stationed. Regular crew members have no entrance access here.
+"Aha, Finally, it's time to go. I better not forget to take everything I need for the flight, before we have to take off."
 Yep.
-
-The bulkhead to the bridge. Only a small number of crew members are authorised to enter this area. Tom is not one of them.
-This is the ship's mess, where the crew get together and have their meals.
-Two security officers are standing guard at the entrance to the Comroom, where the ship's communication equipment is located.
-Behind the lower door is the room where Tom's old friend, Joe, is working.
-Announce take-off of Shuttle? {BLOK000}Yes, take off {BLOK001}No, wait
-Tom goes to one of the consoles and announces everything is ready for take-off.^^ Shortly afterwards, in the Shuttle hangar...
-Tom decides to ignore the call for the moment.
-{CNTR}{INK 002}Please remember this is a Preview Version. Please forgive us if you find any bugs, missing parts or lack of "fine-tuning".^^^^ {JUST}{INK 001} SHORT INFO FOR PREVIEW VERSION:^^ You are TOM DRISCOLL, a Shuttle pilot on board the TORONTO. The TORONTO is a factory space ship belonging to a company on Earth, whose mission is to extract large quantities of raw materials. The TORONTO is heading for a planet called NUGGET, a barren world with large deposits of raw materials.^^ You will soon be setting out on a reconnaissance flight in a small Shuttle with a government inspector, Mr. BEEGLE, nick-named SNOOPY, to investigate the planet.^^{LEFT} Your close associates:^ CHRISTINE - A Technician and your present partner.^ RAINER HOFSTEDT - Scientist and the second government representative on board.^ JOE - Technician and an old friend of yours.^^{JUST} This scenario is designed as an introduction to the action, and does not contain any battles. You have to talk to the characters to find out more about your situation. There is also a puzzle to be solved; if you solve it, you can keep an object which will help you later.^^ The action begins straight after the Intro (see CD). TOM wakes up from a strange dream and begins his day's work.^^^ {CNTR}HERE GOES!
-As Tom steps out into the corridor, he sees his partner, Christine, walking towards him from the right.^^Pleased, he goes up to her to speak to her.
-{FAHI}- S C R I P T  S E Q U E N C E - {NORS}^^ A script sequence begins here, describing the flight to Albion, the crash, the characters' first steps on the planet, the Shuttle explosion, and how the characters regain consciousness at the Iskai's settlement.
-"Driscoll, everything is ready for your flight."
-"All data necessary for plotting the course are available in the Shuttle's systems, Mister Driscoll.^^I will communicate with you directly during the flight so I can analyze the data for you immediately."
-"You know your mission: to carry out a series of measurements in orbit and on the planet itself to verify the data provided by the probe. Get Mister Hofstedt down safely.^ Good luck."
-"Thanks, Sir. I'll do my best.^^Are you ready, Hofstedt?"
-"Sure! Step on it, Driscoll!"
-At the Shuttle Tom meets Captain Brandt, Ned's android body, the ship's AI System, and his passenger, Rainer Hofstedt.
-Tom guides the Shuttle safely out of the huge mother ship.^^The little craft has a powerful drive, and in a couple of hours the two men are within range of their destination...
-"My old pal Joe is working at the end of this corridor.^^I think I'll go and look in on him."
-
-
+This is the shuttle hangar.
+The port hole to the command bridge. Only a handfull of crew members have access here. Tom is not one of them.
+This is the mess hall of the ship. A place where the crew can meet and get something to eat.
+This is right before the entrance to the com-room, where the ship has its communications center. There are two security guards standing there.
+Right behind the lower door is where Joe, Tom's friend, is working.
+Report to shuttle flight takeoff?{BLOK000}Yes, takeoff. {BLOK001}No, put on hold.
+Tom goes to the console and reports being ready for takeoff.^^ Shortly thereafter in the shuttle hangar...
+Tom decides to ignore the signal.
+{CNTR}{INK 002}Please bear in mind that this is a preview version. We asks you to pardon the bugs, the missing pieces and the lack of fine tuning.^^^^{JUST}{INK 001} BRIEF INFO FOR PREVIEW VERSION:^^ You areTOM DRISCOLL, a shuttle pilot on board the TORONTO. The TORONTO is a factory-ship of an American corporation, with the assignment of processing raw material on a large scale. The TORONTO is headed for a planet called NUGGET, a desert world with large amounts of raw materials.^^ You are supposed to take off on an expedition flight with a government controller by the name of Beegle, also known as Snoopy, in order to analyse the target planet more closely.^^{LEFT} Other people close to you^ CHRISTINE - technician and your present girlfriend.^ RAINER HOFSTEDT - Scientist and second governmental observer on board.^ JOE - technician and old friend of yours.^^{JUST} This scenario serves as the introduction to the plot, there are still no battles. Speak to others to receive closer information about your situation. There's also a puzzle to be solved. If you do solve it, you will receive an object, which might help you make progress later.^^ The story begins directly after the introduction (see CD). TOM wakes up from a strange dream and begins his day.^^^ {CNTR}AND YOU'RE OFF!
+As Tom goes into the hall, he sees Christine, his girlfriend, on his right, coming his way.^^ He goes towards her joyfully in order to speak with her.
+{FAHI}- S C R I P T S E Q U E N C E - {NORS}^^ This is where a script sequence begins, the flight to Albion, the crash, the first steps on the planet, the explosion of the shuttle, and waking up among the Iskais.
+"Driscoll, everything's ready for your flight."
+"All necessary data for course determination is available to you, Mr. Driscoll.^^During the flight, I will be in direct contact with you, to keep you informed of the results of all accumulated data."
+"You know your assignment: to carry out measurements from orbit and to verify probe data from the surface. Bring Mr. Hofstedt down safely, Driscoll.^ Good luck."
+"Thank you, sir. I'll do my best.^^Are you ready, Hofstedt?"
+"Certainly am. Up and away, Driscoll!"
+Next to the shuttle, Tom meets up with Captain Brandt and the android body of Ned, the ship's AI, as well as his passenger Rainer Hofstedt.
+Tom safely brings the shuttle out of the huge mother ship.^^The small space vehicle has a powerful propulsion system, which brings them both within hours in range of the planet...
+"Joe, my old buddy, is working at the end of this hallway.^^I should really go and visit him soon."
+{CNTR}{INK 003}Welcome to the^^^ {INK 006}{BIG }ALBION-DEMO{NORS}{INK 003}
+{INK 003}This demo contains the first two unaltered scenarios of the complete game.^^In Albion, you'll find many different features, ie., Battle magic, dealers and trainers, which only appear after a certain amount of play time. If you want to sample a few battles and a 3D-dungeon, then load in "DEMO" : On the west side, there's a cave entrance, and a bit to the south-west is a city. Try using the battle-ring that Rainer Hofstedt has! ^^Steering:^You can steer by pressing the left hand button on the mouse. If you want to DO something, press the right hand button on the mouse, or hold it down.^^ The story:^You are Tom Driscoll, pilot on board a huge factory ship, named TORONTO. Your job is to carry out a flight to the target planet with a government representative aboard your small shuttle. Speak to the people in the TORONTO to learn more about your situation. TIP: There are weapons and ammunition to be found during this first scenario, which will make battling easier.^^Have fun testing out Albion. By the way, you can save your place in the demo and continue on that level in the event that you'd like to purchase Albion (simply copy your level in the new SAVES-directory).^^ The complete game is now available!

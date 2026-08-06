@@ -1,8 +1,8 @@
-﻿{BLOK000}"I'm a machine operator. I'm carrying out some tests to check that the mining equipment is ready for use."{WRNR0212}
-"Hello, Driscoll. How's things? We'll soon have reached Nugget, then I can stop loafing about and start work."{WRNR0186}
-"Hello, Driscoll. How's things?"
-"Well, first the systems we've brought with us will quarry enough ore to start production of more robot systems. Then the process will continue under its own steam, and more and more superfluous ore will be produced which will be sent back to Earth in the cheap containers."{WRNR0213}{WRNR0214}
-"The new models are huge, with integrated self-repair circuits. Those things are indestructible."
-"They say there are all kinds on Nugget."
-
-
+﻿{BLOK000}"I'm in charge of the machinery. I'm testing the systems which transform the ship."{WORDMining structures}
+"Hello, Driscoll. How you doing? Soon we're gonna be on Nugget, and that'll be the end of my peace and quiet."{WORDNugget}
+"Hey, Driscoll. How you doing?"
+"Well, at first, the systems that we brought will be able to mine enough ore, to start building the other robot systems. The self-perpetuating process will then ensue, in which all ores not used to build the plant, get sent back home in the cheap containers."{WORDRobot}{WORDOre}
+"The latest models are huge, with integrated self -repair modules. Those things are indestructable."
+"There should be all possible kinds on Nugget".
+{BLOK000}What can you tell me about... {BLOK001}Take a look at this...{BLOK004}See you soon! {BLOK005}What is your job at the moment?
+"Bye, Tom."

@@ -1,6 +1,6 @@
-﻿{BLOK000}"I'm responsible for the life-support systems on board the ship." {WRNR0215}
-"Hello Driscoll, you crazy stunt pilot. Heard what happened to Snoopy?" {WRNR0193}
-"Hello, Driscoll. What's new?"
-"Everything's A-OK, I don't anticipate any problems. If a bit of shit finds its way into the drinking water system during landing,  you'll soon know about it!"
-{BLOK000}What can you say about... {BLOK001}Take a look at this... {BLOK004}See you soon! {BLOK005}What's your job at the moment?
-
+﻿{BLOK000}"I'm responsible for the life-support systems on board." {WORDLife support}
+"Hi there, Driscoll, You daredevil. Did you already here about Snoopy?" {WORDSnoopy}
+"Yes, Driscoll? What else do you want?"
+"All indications are green. I don't expect any problems. Maybe a little fecal product will enter into the fresh water system during landing, but you're used to that!"
+{BLOK000}What can you tell me about... {BLOK001}Take a look at this...{BLOK004}See you soon! {BLOK005}What is your job at the moment?
+"Well, see ya."

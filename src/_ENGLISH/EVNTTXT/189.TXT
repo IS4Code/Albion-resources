@@ -1,10 +1,10 @@
-﻿{BLOK000}"I'm responsible for providing the crew with food and other things."{WRNR0061}{WRNR0216}
-"Hello. What can I do for you? Want a little snack? I can let you have a couple of good chocolate bars, not too sweet." {BLOK010}"O.K>, hand them over."
-"Hello, Driscoll. Want some more supplies? The company can afford it." {BLOK010}"Yes, O.K., I could use some."
-"Hello. Sorry, I'm fresh out of chocolate bars. I've got to make sure the others get some too. You'll be putting on weight, Driscoll."
-"Here's a pack."^^ {INK 001}She gives Tom some rations.
-"The company hasn't exactly provided us with gourmet provisions, but with a bit of imagination when I program the kitchen, I'll make something edible out of them."
-"If you need some new videos or something to read, come and see me when I'm in my office."{WRNR0217}
-"There's plenty of choice; have a look through my data bank sometime."
-{BLOK000}What can you say about... {BLOK001}Take a look at this... {BLOK004}See you soon! {BLOK005}What's your job at the moment?
-
+﻿{BLOK000}"I'm responsible for supplying food to the crew, among other things."{WORDFood}{WORDOther}
+"Hello. How can I help you? 'Maybe a little snack? How about a few of these great chocolate bars? This stuff is not so sweet." {BLOK010}"Sounds great. Give me some."
+"Hello, Driscoll. You still want to have seconds? The company can afford it." {BLOK010}"Oh yeah, great. This stuff is excellent."
+"Hello. Sorry, no more chocolate bars.I have to make sure that the others get some too. you're going to get fat, Driscoll."
+"Here's a pack for you."^^ {INK 001}Tom receives several rations.
+"I wouldn't say that the company has provided us with gourmet food. But with a little intuition, and a good kitchen program, the stuff doesn't taste all that bad."
+"If you're looking for some new videos or something to read, just contact me during my normal office hours."{WORDVideos}
+"The selection is huge. When you get a chance, then look through my data bank."
+{BLOK000}What can you tell me about... {BLOK001}Take a look at this...{BLOK004}See you soon! {BLOK005}What is your job at the moment?
+"See you soon."

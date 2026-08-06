@@ -1,4 +1,4 @@
-
+﻿
 
 
 
@@ -500,13 +500,13 @@
 
 Sofa
 Meat
-Waste water
-Stoves
+Sewage
+Herds
 Water
-Water channel
+Water tracks
 House
 Architecture
-Moulder
+Form giver
 Dji-Fadh
 Magician
 Dji-Kas
@@ -514,29 +514,29 @@ Clan
 Council
 Sebainah
 Marriage
-Co-partner
+Minor partner
 Brothers and sisters
-Age of majority
+Maturity
 Fertility
 Sebai
 Ritual
-Chosen one
+Chosen
 Trii
 Stiriik
 Laws
 Guild
 Magic
-Godess
+Goddess
 Jirinaar
 Nakiridaani
 History
 People
-Council building
-City gate
+Council's hall
+Town gate
 Shopping
-Inn
-Harbour
-Mark
+Joint
+Port
+Brand
 Naked
 Healing
 Help
@@ -551,15 +551,15 @@ Rejira
 Argim
 Legends
 Skorrek
-Heal
-Clothing
+heal
+Clothes
 Signature
 Food
 Weapons
 Equipment
-Shop
+Buy
 Religion
-Wedding
+Marriage
 Society
 Iskai
 Kitchen
@@ -571,18 +571,18 @@ Hunter
 Medicine
 Hunt
 Krondir
-Klirna
+Clirnate
 Training
 Cultures
 Kenget Kamulos
 Beloveno
 Umajo
 Trade
-
-Scribe
-Seed corn
-Corn
-Guildhall
+Beloveno
+Scrivener
+Seed
+Grain
+Hall of Guildes
 Triifalai
 Kriis
 Bradir
@@ -590,38 +590,38 @@ Tri-Nadh
 Han
 Sira
 Representative
-Tuition
+Training
 Discipline
 Walls
 Well
-Cupolas
-Traders
+Domes
+Merchant
 Wania
-Goods
+Wares
 Predators
-Types of fruit
-Clay vessels
+Kind of Fruit
+Pottery
 Rumour
 Navigator
-Shore leave
+Shore liberty
 Fun
 Business
 Family
 Rabir
-House of the Winds
+House of Winds
 Drinks
 Zoomi
-Craft
+Trade
 Metal
 Heavenly metal
 Spices
-Stock
-Animal breeder
+Reserve
+Stock-farmer
 Herd
 Cattle
 Ceile
-Prize
-Care
+Trophy/Speedwell
+Guardianship
 Attio
 Gods
 Danu
@@ -629,23 +629,23 @@ Lugh
 Tuath
 Tribe
 King
-King of the tribe
+Tribal king
 Warrior
 Poet
-Craftsman
-Armourers
-
+Trader
+Ordnance shop
+Umajo
 Law
 Druids
-
-Healer
+Magic
+Healers
 Albion
 Skull
 Grove
 Oak
 Drinno
 Canto
-
+Iskai
 Klouta
 Arjano
 Gratogel
@@ -657,20 +657,20 @@ Tharnos
 Oibelos
 Aretha
 Nemos
-Boat journey
-Journey
-Protective amulet
-Seafarer
+Sea voyage
+Trip
+Strengthening amulet
+Sailor
 Garris
-Craftswoman
+Artisan
 Shapes
-Magical objects
-Female warrior
+magical items
+Warrioress
 Queen
 Profession
 Fruits
 Bread
-Utensils
+Things to use
 Food
 School
 Father
@@ -686,10 +686,10 @@ Ned
 Nugget
 Indi
 Joshi
-Flop-ears
+Floppy ears
 Hoika
 over-c
-Plant
+Equipment
 Snoopy
 Envi
 Captain
@@ -707,113 +707,113 @@ Landing
 Dream
 Service deck
 Reserve systems
-Comroom
+Com room
 Secu
-Excavation plant
+Mining structures
 Robot
 Ore
-Life supportung
-Other things
+Life support
+Other
 Videos
-Machine operator
+Machine technician
 Ladder
 Segments
 Government service
-Cellar
-Store cellar
+Basement
+Storage room
 Mellthas
-Amulet
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Amulets
+!!!
+God
+Courage
+Fear
+Honour
+Last battle
+Pride
+Fame
+Steps
+Brothers
+Companion
+Death
+die
+Cuain
+Dmons
+Shrine
+Khunag
+Battle
+Prayer
+Swords
+Kledo
+Oqulo
+Training
+Rituals
+Spirit
+Assassins
+Kamulo's Sleep
+New year's eve
+Slaves
+Drugs
+Schedule
+Environment
+Nature
+Secret passageway
+Impure Person
+Artorn
+Five High priests
+Blood of honor
+Fencing master
+Master magician
+Master of Ceremonies
+Greating
+Jonatharh
+Cook
+Possibilities
+Leader
+Son
+Women
+Kamulos
+Animebona
+Animenkna
+!
+Celts
+Helromier
+Answer
+Vercingetorix
+Catuvellaunus
+Canto
+Saethar
+Bathrig
+Unknown god
+!
+Bard
+Homer
+Aristotel
+Broto
+Ulysses
+Entity
+Enlightened
+Ens
+Transportation caves
+Service person
+Feetless
+Arrival
+meditate
+Places
+The goddess' flowers
+Spell scroll
+Reserve
+Fighter
+Trenkiriidan
+Formgiver's House
+Amulet of the goddess
+Warniak
+Song
+Triifalai-Seed
+Art of healing
+Harriet
+Healers
+Rifrako
+Frill
 
 
 

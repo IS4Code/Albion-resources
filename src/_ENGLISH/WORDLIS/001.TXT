@@ -1,4 +1,4 @@
-One
+﻿One
 
 
 
@@ -98,7 +98,7 @@ Two
 
 
 
-A hundred
+One hundred
 
 
 
@@ -114,7 +114,7 @@ A hundred
 
 
 
-A hundred and sixteen
+One hundred sixteen
 
 
 

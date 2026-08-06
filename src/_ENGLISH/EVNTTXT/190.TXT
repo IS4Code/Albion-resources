@@ -1,7 +1,7 @@
-﻿{BLOK000}"I'm a machine operator in charge of the excavation robots. But right now I'm making the storeroom secure."{WRNR0218}
-"Hi, Tom! I'm a bit short of time; the Captain has landed me with the job of getting the storeroom ready for when we land."{WRNR0206}{WRNR0196}
-"Well, you know how it is. I don't usually start work till after we land, when we start digging."
-"We have to tie everything down in here - the gravity goes haywire when we're landing."
-"Well, is that it, Tom?"
-{BLOK000}What can you say about... {BLOK001}Take a look at this... {BLOK004}See you soon! {BLOK005}What's your job at the moment?
-
+﻿{BLOK000}"I'm in charge of the transformer robots. But right now, I have to secure the supply room."{WORDMachine technician}
+"Hi, Tom! I don't have much time. The captain requested me to get the supply room ready for landing."{WORDLanding}{WORDCaptain}
+"Come on, you know. Normally, our job doesn't begin until after we land, then we start mining the raw materials."
+"The gravitational differentials are always changing during the landing, so you need to tie everything down."
+"So, what's going on, Tom?"
+{BLOK000}What can you tell me about... {BLOK001}Take a look at this...{BLOK004}See you soon! {BLOK005}What is your job at the moment?
+"Bye, Tom."

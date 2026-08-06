@@ -1,0 +1,39 @@
+﻿{SUBJ}{NAME}empties a small bottle with green medicine, and afterwards feels much better!
+This text is not interesting.
+{SUBJ}{NAME} empties a bottle with turquois colored medicine and feels much better afterwards {HE  } feels much better!
+{SUBJ}{NAME} empties a bottle with blue medicine and {HE  } immediately feels almost completely better!
+{SUBJ}{NAME} drinks the red liquid.^^{HIS } head clears and regains some mental capacity.
+{SUBJ}{NAME} drinks the violet liquid.^^An ability to concentrate returns noticably.!
+{SUBJ}{NAME} drinks the blue liquid.^^ a large amount of {HIS }mental capacity returns!
+{SUBJ}{NAME} drinks the light silver liquid and senses, how the poison in {HIS }body is neutralized!
+As {SUBJ}{NAME} drinks the bronze colored drink, it clears {HIS } troubled spirit, and{HE  } finally feels like himself!
+A wave of pleasant feeling flows through {SUBJ}{NAME}'s body, when{HE  } drinks the golden liquid. The sickness begins to leave{HIS }body!
+The contents of the mood-drinks help {SUBJ}{NAME} feel much better!
+As{INVE}{NAME} put the white ring on his finger , {HE  }, notices that he can't get it off! {INVE}{NAME} starts to feel weaker!
+{CNTR}Someone had jotted down two numbers on the scraps of a plan:^^ {INK 006}12
+{CNTR}Someone had jotted down a number on the scraps of a plan^^ {INK 006}3
+{CNTR}Someone had jotted down a number on the scraps of a plan:^^ {INK 006}4
+{CNTR}Someone has hastily scrawled some numbers onto a note:^^ {INK 006}1001
+{CNTR}The other part of the document is missing!
+The two parts of the document fit together perfectly. The document is now back in its original form!
+{INVE}{NAME} takes the sword made out of black obsidian in his hand. He cannot put it down{INVE}{NAME} senses how the weapon drains {HIS }life force and endurance!
+The red sword is cursed! {INVE}{NAME} cannot let go of it and senses, how his strength and ability to fight leave{HIS }body!
+The dagger's crystal handle permanently connects itself to{INVE}{NAME}'s hand and {HE  } senses how all energy leaves his body!
+{INVE}{NAME} notices a curse on the blue blade: the dagger makes {INVE}{NAME}'s access to magic difficult!
+The black stone in the helmut robs the energy from{INVE}{NAME}'s body; he is cursed!
+"This amulette is a sign of my membership to the Dji Cantos. I won't let it leave my hand."
+"Better leave the amulette in its place, it's too valuable to move."
+{INK 001}Harriet awoke sensing a presence as the amulette was touched She said:{INK 002}^^"Please don't. The amulette is my personal property."
+The small red stone sticks to Tom's skin. It cannot be removed.
+"Sorry, but I'd rather hold on to the thing. I still need it!"
+{INK 001}Mellthas shakes his head, he doesn't want to hand over the writing implement. It is his method of communicating.
+"That thing is extremely important. Better leave it where it is, so that nothing happens."
+{INVE}{NAME} awakes from an unconscious state and says:
+Interesting information is included in the document. It points to an agreement between two bank accounts, belonging to Gard and Riko. The travellers don't understand everything contained inside, because some of it is written down in a kind of code language. It is some kind of distributions contract for valuable materials. Nothing more exact can be learned at the moment.^^One could probably use this evidence, to settle the conflict between Iskai and Mahinos!
+It goes against Tom's sensibilities to let go of the seed, The result of all his efforts and dangerous risks.
+The workings of the higher knowlege are only understandable to true masters of magic. Complicated descriptions and rhymes in massive complexity cover the parchment.
+A curious mixture of strange sounding gibberish and technical descriptions can be read here. The Dji Cantos can certainly understand it all much better.
+{INK 001}It is written on the piece of parchment:^^{INK 003}Courage is not always rewarded. Still go forth and be brave.
+{LEAD}{NAME} eats the herbs, and feels the purifying effects on body and soul!
+{INK 001}{LEAD}{NAME}:{INK 002}^^ "Better to leave the key, where it is. I don't want to lose it."
+{INK 001}{LEAD}{NAME}:{INK 002}^^ "We better leave the document, where it is. I wouldn't want to lose it."

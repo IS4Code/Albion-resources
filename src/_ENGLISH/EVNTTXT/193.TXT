@@ -1,7 +1,7 @@
-﻿{BLOK000}"I'm the Captain of this ship, as I'm sure you're aware."
-"What do, you want, Driscoll? I'm very busy, so close to landing." {BLOK010}"Sir, I was just wondering if you knew for definite when the Shuttle will be taking off."
-"I'm sorry, Driscoll, I don't have the time right now. You'll be notified of your flight time over the loudspeakers."
-"I can't tell you for definite yet, Driscoll. It won't be long, though. The bridge will tell you in plenty of time over the loudspeakers.^^Now please excuse me, I've got a lot to do."
-"You should have taken off ages ago, Driscoll. Didn't you hear the announcements? I know it's up to you to decide when you take off, but you really shouldn't test our patience too much."
-
-
+﻿{BLOK000}"I'm the captain of the ship. Something you should know by now.
+"What do you want, Driscoll? I don't have much time to talk, we're going to be landing soon." {BLOK010}"Sir, I just wanted to ask you, if you could give me a more exact time of departure for the shuttle flight."
+"I'm real sorry, Driscoll, I'm in a hurry. If you want to hear about your departure time, then you're going to have to listen to the loudspeaker reports."
+"I can't give you any exact information, Driscoll. But it can't be too much longer, now. The bridge will announce the time of departure within sufficiant time to be ready.^^Please excuse me now, but I still have a lot to do."
+"You were supposed to take off a long time ago, Driscoll. Didn't you here the announcements? Your in charge of when you take off, but you shouldn't be testing our patience that much."
+{BLOK004}Goodbye, Sir. {BLOK005}What isyour assignment?
+"Good bye, Driscoll."
