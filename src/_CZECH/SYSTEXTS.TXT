@@ -2,34 +2,34 @@
 
 	*** Party member portraits ***
 
-[0000:%s (LB:%d, MB:%d)]
-[0593:Dát%s  %s ]
+[0000:%s (ŽB:%d, MB:%d)]
+[0593:Dát %s %s ]
 [0594:Dát zlato %s ]
 [0595:Dát jídlo %s ]
-[0596:{INK 006}% nemá dostatek místa!]
-[0597:{INK 006}% nemůže nést tolik zlata!]
-[0598:{INK 006}% nemůže nést tolik porcí!]
+[0596:{INK 006}%s nemá dostatek místa!]
+[0597:{INK 006}%s nemůže nést tolik zlata!]
+[0598:{INK 006}%s nemůže nést tolik jídla!]
 
 
 	*** Party member pop-up menu ***
 
-[0070:Obrazovka charakteru]
+[0070:Obrazovka postavy]
 [0010:Použít magii]
 [0004:Udělat vůdcem]
-[0005:Mluvit s...]
-[0701:Přepínač]
-[0425:{INK 006}Dosud neznáš žádná kouzla!]
-[0512:{INK 006}Právě nemůžeš mluvit!]
+[0005:Mluvit s]
+[0701:Přepnout]
+[0425:{INK 006}Dosud nezná žádná kouzla!]
+[0512:{INK 006}Právě nemůže mluvit!]
 [0735:{INK 006}Mellthas nemůže mluvit.]
-[0542:{INK 006}Nemůžeš nyní vést partu!]
-[0757:{INK 006}Tento batoh není právě volný!]
+[0542:{INK 006}Nemůže nyní vést skupinu!]
+[0757:{INK 006}Tento batoh není právě dostupný!]
 
 
 	*** New active member selector ***
 
-[0545:Kdo nyní povede partu?]
-[0544:{INK 006}Tato osoba nemůže vést partu!]
-[0541:{INK 006}Někdo musí vést partu!]
+[0545:Kdo nyní povede skupinu?]
+[0544:{INK 006}Tato osoba nemůže vést skupinu!]
+[0541:{INK 006}Někdo MUSÍ vést skupinu!]
 
 
 	*** Map pop-up menu ***
@@ -41,16 +41,16 @@
 [0074:Vzít]
 [0011:{INK 002}Cestovat pěšky]
 [0130:{INK 002}Mapa]
-[0012:{INK 002}Odpočinek]
+[0012:{INK 002}Odpočívat]
 [0723:{INK 002}čekat]
 [0696:{INK 002}Hlavní nabídka]
-(tento se také objevuje v rolovací bojové nabídce)
+(this one also appears in the combat pop-up menu)
 [0014:Prostředí]
 [0513:Osoba]
 
 [0489:{INK 006}Není možné nést tak mnoho!]
 [0490:{INK 006}Není dostatek místa!]
-[0601:{INK 006}Je to zde poněkud nebezpečné!]
+[0601:{INK 006}Je to zde příliš nebezpečné!]
 [0430:Který předmět použít?]
 [0431:Tento předmět zde neúčinkuje.]
 [0432:Toto slovo zde neúčinkuje.]
@@ -71,44 +71,44 @@
 
 	*** Inventory item pop-up menu ***
 
-[0015:Položit]
+[0015:Zahodit]
 [0016:Naučit se kouzlo]
 [0017:Prozkoumat]
 [0018:Vypít]
 [0019:Vyvolat kouzlo]
-[0020:číst]
+[0020:Číst]
 [0131:Vyvolat]
 [0574:Prodat]
 [0607:Použít]
-[0760:{INK 006}Ne během boje!]
-[0752:% nemá dostatek místa!]
+[0760:{INK 006}Nelze během boje!]
+[0752:%s nemá dostatek místa!]
 
 
 	*** Inventory screen ***
 
-[0021:Opustit obrazovku charakteru]
+[0021:Opustit obrazovku postavy]
 [0047:Batoh]
-[0054:Obrazovka charakteru 1]
-[0055:Obrazovka charakteru 2]
-[0056:Obrazovka charakteru 3]
+[0054:Obrazovka postavy 1]
+[0055:Obrazovka postavy 2]
+[0056:Obrazovka postavy 3]
 [0057:I]
 [0058:II]
 [0059:III]
 [0677:Poškození : %d]
 [0678:Ochrana : %d]
-[0679:Váha : %d Kg]
+[0679:Váha : %d kg]
 [0680:Nesená váha : %ld z %ld g]
 
 
 	*** Items ***
 
 [0022:%s]
-[0517:Položit %s]
+[0517:Zahodit %s]
 [0518:Vyměnit %s za %s]
 [0519:{INK 006}Toto místo je zabrané!]
 [0520:Přidat]
-[0577:{INK 006}%s (%d.%u zlato)]
-[0579:%s (%d.%u zlato)]
+[0577:{INK 006}%s (%d.%u zlata)]
+[0579:%s (%d.%u zlata)]
 
 
 	*** Item types ***
@@ -116,15 +116,15 @@
 [0023:Brnění]
 [0024:Helma]
 [0025:Boty]
-[0026:štít]
-[0027:Zbraň s krátkým dosahem]
-[0028:Zbraň s dlouhým dosahem]
+[0026:Štít]
+[0027:Zbraň na blízko]
+[0028:Zbraň na dálku]
 [0029:Munice]
 [0030:Dokument]
 [0031:Kouzelný svitek]
 [0032:Nápoj]
 [0033:Amulet]
-[0034:Náprsní spona]
+[0034:Brož]
 [0035:Prsten]
 [0036:Cennost]
 [0037:Nástroj]
@@ -141,17 +141,17 @@
 
 	*** Gold / food ***
 
-[0048:%d.%u zlato]
+[0048:%d.%u zlata]
 [0049:%d jídla]
 [0051:Zlato]
 [0053:Jídlo]
 [0050:Zahodit]
 [0727:Kolik zlata zahodit?]
 [0728:Skutečně zahodit zlato?]
-[0729:Kolik zahodit zlata?]
+[0729:Kolik jídla zahodit?]
 [0730:Skutečně zahodit jídlo?]
-[0052:Kolik vzít zlata?]
-[0515:Kolik vzít jídla?]
+[0052:Kolik zlata vzít?]
+[0515:Kolik jídla vzít?]
 
 
 	*** Locks ***
@@ -159,9 +159,9 @@
 [0071:Zámek]
 [0072:Vypáčit zámek]
 [0073:Otevřít zámek]
-[0522:{LEAD}{NAME} vypáčil zámek!]
+[0522:{LEAD}{NAME} vypáčil{MAN } zámek!]
 [0523:Tento zámek nemůže být vypáčen!]
-[0524:{LEAD}{NAME} spustil past, ale podařilo se mu jí vyhnout!]
+[0524:{LEAD}{NAME} spustil{MAN } past, ale podařilo se {HIM2} se jí vyhnout!]
 [0525:{LEAD}{NAME} spustil past!]
 [0526:{LEAD}{NAME} otevřel zámek!]
 [0527:{LEAD}{NAME} vylomil zámek páčidlem!]
@@ -174,24 +174,28 @@
 
 [0075:on]
 [0076:ona]
-[0077:to]
+[0077:on]
 
 [0078:jemu]
 [0079:jí]
-[0080:tomu]
+[0080:jemu]
 
 [0081:jeho]
 [0082:její]
-[0083:toho]
+[0083:jeho]
 
-[0084:muž]
-[0085:žena]
-[0086:bytost]
+[0084:]
+[0085:a]
+[0086:]
 
+// POST-RELEASE CHANGE 1.38
+[0758:mu]
+[0776:jí]
+[0777:mu]
 
 	*** Race names ***
 
-[0456:Terran]
+[0456:Pozemšťan]
 [0457:Iskai]
 [0458:Kelt]
 [0459:Kenget Kamulos]
@@ -217,7 +221,7 @@
 [0095:Pilot]
 [0096:Vědec]
 [0097:Válečník]
-[0098:mág Dji-Kas]
+[0098:Mág Dji-Kas]
 
 [0099:Druid]
 [0100:Osvícený]
@@ -325,11 +329,11 @@
 
 	*** Automapper icons (2...17) ***
 
-[0168:Mluvící v hádankách]
+[0168:Hádanka]
 [0169:Teleport]
-[0170:Pavouk]
+[0170:Rotor]
 [0171:Past]
-[0172:Dveře s pastí]
+[0172:Propast]
 [0173:Zvláštní]
 [0174:Netvor]
 [0175:Zavřené dveře]
@@ -347,28 +351,28 @@
 
 	*** Inventory messages ***
 
-[0184:Nemá žádné volné prostředky!]
-[0599:špatná třída!]
-[0186:špatný kouzelný prostor!]
+[0184:Nemá žádné zbylé náboje!]
+[0599:Špatná třída!]
+[0186:Špatná oblast pro vyvolání kouzla!]
 [0187:Nikdo nezná tuto kouzelnou třídu!]
 [0188:Toto kouzlo je již známé!]
-[0189:Tato úroveň kouzel je příliš vysoká!]
-[0190:{SUBJ}{NAME} se naučil kouzlo!]
+[0189:Úroveň tohoto kouzla je příliš vysoká!]
+[0190:{SUBJ}{NAME} se naučil{MAN } kouzlo!]
 [0191:Předmět je zničený!]
 [0192:Kolik předmětů zahodit?]
 [0193:{INK 006}Toto je důležitý předmět!]
-[0062:Skutečně chceš tento předmět zahodit?]
-[0531:Skutečně chceš tyto předměty zahodit?]
+[0062:Skutečně tento předmět zahodit?]
+[0531:Skutečně tyto předměty zahodit?]
 [0063:{INK 006}Tento předmět je prokletý!]
 [0065:{INK 006}Během boje není možné změnit výstroj!]
-[0066:Jak mnoho předmětů vzít?]
+[0066:Kolik předmětů vzít?]
 [0067:{INK 006}Během boje není možné změnit výstroj!]
 [0068:{INK 006}Tento předmět nemůžeš používat!]
 [0194:{INK 006}Tento předmět je zničený!]
-[0195:{INK 006}Tento charakter má pro tenhle předmět špatnou třídu!]
-[0196:{INK 006}Tento charakter má pro tenhle předmět špatné pohlaví!]
+[0195:{INK 006}Tato postava má pro tento předmět špatnou třídu!]
+[0196:{INK 006}Tato postava má pro tento předmět špatné pohlaví!]
 [0197:{INK 006}Nedostatek volných rukou!]
-[0132:{INK 006}Tento předmět je již aktivní!]
+[0132:{INK 006}Tento předmět byl již aktivován!]
 [0719:Kdo to má vypít?]
 
 
@@ -376,12 +380,12 @@
 
 [0697:Boj]
 [0746:Nicnedělání]
-[0001:útok]
+[0001:Útok]
 [0002:Pohyb]
 [0003:Použít magii]
 [0198:Utéct]
 [0199:Použít magický předmět]
-[0200:Posunout partu]
+[0200:Posunout skupinu]
 [0488:{INK 002}Pozorovat]
 [0546:{INK 002}Konec boje]
 [0202:{INK 002}Začít kolo!]
@@ -389,20 +393,20 @@
 [0438:{INK 006}Není možné způsobit poškození!]
 [0439:{INK 006}Není možné se pohnout!]
 [0440:{INK 006}Není možné se odsud dostat!]
-[0755:{INK 006}Tato parta už byla posunuta!]
+[0755:{INK 006}Skupina se již posunula!]
 
 
 	*** Spell names for class 0 ***
 
 [0203:Trnová past]
-[0204:VYMAZáNO]
-[0205:VYMAZáNO]
+[0204:VYMAZÁNO]
+[0205:VYMAZÁNO]
 [0206:Spěch]
 [0207:Pohled na život]
 
-[0208:Zmrzlá štěpina]
-[0209:Zmrzlý krystal]
-[0210:Zmrzlá lavina]
+[0208:Mrazivá štěpina]
+[0209:Mrazivý krystal]
+[0210:Mrazivá lavina]
 [0211:Lehké hojení]
 [0212:Oslepující jiskra]
 
@@ -412,7 +416,7 @@
 [0216:Trnová past]
 [0217:Odstranění pasti]
 
-[0218:VYMAZáNO]
+[0218:VYMAZÁNO]
 [0219:Léčivé opojení]
 [0220:Léčivá slepota]
 [0221:Léčivá otrava]
@@ -433,14 +437,14 @@
 	*** Spell names for class 1 ***
 
 [0233:Regenerace]
-[0234:Výhled na mapě]
-[0235:životabudič]
+[0234:Zobrazení mapu]
+[0235:Životabudič]
 [0236:Teleport]
 [0237:Hojení]
 
 [0238:Rychlý ústup]
-[0239:VYMAZáNO]
-[0240:VYMAZáNO]
+[0239:VYMAZÁNO]
+[0240:VYMAZÁNO]
 [0241:Hněv Bohyně]
 [0242:Dráždění]
 
@@ -470,19 +474,19 @@
 
 	*** Spell names for class 2 ***
 
-[0263:Berserk]
+[0263:Zběsilost]
 [0264:Zahnat démona]
 [0265:Zahnat démony]
-[0266:Démonní exodus]
+[0266:Démoní exodus]
 [0267:Malá ohnivá koule]
 
 [0268:Magický štít]
 [0269:Hojení]
 [0270:Nahlodávání]
-[0271:šok]
+[0271:Šok]
 [0272:Panika]
 
-[0273:VYMAZáNO]
+[0273:VYMAZÁNO]
 [0274:]
 [0275:]
 [0276:]
@@ -509,10 +513,10 @@
 	*** Spell names for class 3 ***
 
 [0293:Ohnivá koule]
-[0294:úder blesku]
+[0294:Úder blesku]
 [0295:Ohnivý déšť]
-[0296:Hrom]
-[0297:Ohnivý pozdrav]
+[0296:Proud blesků]
+[0297:Ohnivé krupobití]
 
 [0298:Hromobití]
 [0299:Blesková past]
@@ -523,7 +527,7 @@
 [0303:Kradení života]
 [0304:Kradení magie]
 [0305:Osobní ochrana]
-[0306:Pohled Kamulosův]
+[0306:Kamulosův pohled]
 [0307:Odstranění pasti]
 
 [0308:]
@@ -586,7 +590,7 @@
 	*** Spell names for class 5 ***
 
 [0353:Panika]
-[0354:Jedovatý vánek]
+[0354:Jedový vánek]
 [0355:Dráždění]
 [0356:Morový vánek]
 [0357:]
@@ -664,13 +668,13 @@
 
 [0423:{INK 006}Nemůže být vyvoláno tady a teď!]
 [0424:Potřebuje %u magických bodů]
-[0426:{INK 006}Nemá dostatek sil na vyvolání tohoto kouzla!]
-[0427:{INK 006}Potřebuje %u MB a %u žB]
+[0426:{INK 006}Nemá dostatečnou sílu na vyvolání tohoto kouzla!]
+[0427:{INK 006}Potřebuje %u MB a %u ŽB]
 
 
 	*** Combat messages ***
 
-[0433:{INK 006}Dalekonosná zbraň nemá munici!]
+[0433:{INK 006}Zbraň na dálku nemá munici!]
 [0434:Na koho zaútočit?]
 [0435:{INK 006}K útoku nejsou cíle!]
 [0436:{INK 006}V dosahu nejsou cíle!]
@@ -680,16 +684,16 @@
 [0444:{COMB}{NAME} se přesunuje.]
 [0445:{COMB}{NAME} utíká!]
 [0446:{COMB}{NAME} útočí na {VICT}{NAME} s {WEAP}!]
-[0447:{VICT}{NAME} nemůže být zraněn!]
-[0448:útok odvrácen!]
-[0449:{COMB}{NAME} provedl kritický zásah!]
-[0450:{VICT}{NAME} to dostal za {DAMG}!]
-[0451:Nedosaženo žádné poškození!]
-[0452:{COMB}{NAME} minul {HIS } oběť!]
-[0453:{COMB}{NAME} minul!]
-[0454:{COMB}{NAME} spotřebovat {HIS } střelivo!]
+[0447:{VICT}{NAME} nemůže být zraněn{MAN }!]
+[0448:Útok odvrácen!]
+[0449:{COMB}{NAME} provedl{MAN } kritický zásah!]
+[0450:{VICT}{NAME} dostal{MAN } {DAMG} poškození!]
+[0451:Nedosaženo žádného poškození!]
+[0452:{COMB}{NAME} minul{MAN } svoji oběť!]
+[0453:{COMB}{NAME} minul{MAN }!]
+[0454:{COMB}{NAME} spotřeboval{MAN } svoje střelivo!]
 [0455:{COMB}{NAME} útočí na {VICT}{NAME}!]
-[0414:{COMB}{NAME} spustil past!]
+[0414:{COMB}{NAME} spustil{MAN } past!]
 [0736:%s je zničen!]
 
 
@@ -698,25 +702,25 @@
 [0087:Na kterého člena zakouzlit?]
 [0088:Na kterou nestvůru zakouzlit?]
 [0089:Na kterou řadu nestvůr zakouzlit?]
-[0090:Na který předmět zakouzlit?]
-[0091:Kterým předmětem zakouzlit?]
+[0090:Na čí předmět zakouzlit?]
+[0091:Na který předmět zakouzlit?]
 [0092:%s kouzlí %s!]
 [0093:{INK 006}Toto není magický předmět!]
-[0094:{INK 006}Předmět nemá dostatek prostředků.]
+[0094:{INK 006}Předmět nemá žádné zbylé náboje.]
 [0133:Na který taktický čtverec zakouzlit?]
 [0134:%s kouzlí %s s %s!]
 [0428:Koho teleportovat?]
 [0429:Kam teleportovat?]
 [0721:Tato nestvůra nemůže být teleportována!]
-[0722:Cíl teleportování je již obsazen!]
+[0722:Cíl pro teleport je již obsazen!]
 [0600:{INK 006}Toto kouzlo účinkuje pouze na 3D mapě!]
 [0413:{INK 006}Nikdo není unaven!]
-[0731:%s zařídil kompletní odklonění kozla!]
-[0418:%s nebyl schopen odklonit kouzlo!]
-[0630:%s zařídil částečné odklonění kouzla!]
-[0774:Toto kouzlo neúčinkuje na %s!]
-[0725:{SUBJ}{NAME} použil životní body na kouzlení!]
-[0698:{COMB}{NAME}'s kouzlo nikoho nezasáhlo!]
+[0731:%s zařizuje kompletní odklonění kouzla!]
+[0418:%s nedokáže odklonit kouzlo!]
+[0630:%s zařizuje částečné odklonění kouzla!]
+[0774:%s je imunní vůči tomuto kouzlu!]
+[0725:{SUBJ}{NAME} použil{MAN } životní body na kouzlení!]
+[0698:{COMB}{NAME} nikoho kouzlem nezasáhl{MAN }!]
 
 
 	*** Requesters ***
@@ -731,7 +735,7 @@
 
 	*** Dialogue ***
 
-[0508:{INK 002}"Parta se zdá být kompletní!"]
+[0508:{INK 002}"Skupina se zdá být kompletní!"]
 [0496:Který předmět nabídnout?]
 [0511:{INK 006}Toto je důležitý předmět!]
 [0497:{INK 002}"Nemohu o tom nic říci."]
@@ -748,8 +752,8 @@
 [0491:Co víš o...?]
 [0492:Co víš o tomto předmětu...?]
 [0493:Rád by ses k nám připojil?]
-[0494:Rád bych vás opustil.]
-[0495:Slušnej pokec!]
+[0494:Rád bych, abys nás opustil{DIAL}{MAN }.]
+[0495:Díky za rozhovor!]
 [0500:Jaké je tvé povolání?]
 
 
@@ -767,49 +771,49 @@
 
 	*** Apres combat screen ***
 
-[0547:Opustit bojovou obrazovku]
-[0548:Předměty zanechány vzadu]
+[0547:Opustit obrazovku boje]
+[0548:Zanechané předměty]
 [0549:Chceš zde nechat zbytek předmětů?]
-[0550:{INK 006}Vyhodil jsi důležitý předmět!]
+[0550:{INK 006}Nechal jsi zde důležitý předmět!]
 
 
 	*** After combat ***
 
 [0551:Nikdo nezískal žádnou zkušenost.]
-[0552:Každý z party získal %u bodů zkušenosti.]
+[0552:Každý ze skupiny získává %u bodů zkušenosti.]
 
 
 	*** Places (shops etc.) ***
 
-[0553:Zde nejsou žádné výcvikové body nazbyt.]
-[0554:{INK 002}"Není zde nic, co bych tě mohl naučit."]
+[0553:Nezbývají žádné výcvikové body.]
+[0554:{INK 002}"Zatím tě nemůžu ničemu novému naučit."]
 [0556:{INK 002}"Kolika body chceš zvýšit svou dovednost?"]
-[0558:{LEAD}{NAME} dostává intensivní výcvik.]
-[0563:{INK 002}"Kdo z vás ode mne potřebuje uzdravit?"]
-[0559:{INK 002}"Tato osoba nepotřebuje uzdravit!"]
-[0560:{INK 002}"Kolik životních bodů chceš, abych ti vyléčil?"]
-[0561:{SUBJ}{NAME}'s životní body byly obnoveny.]
-[0745:{INK 002}"Který prokletý předmět chceš odstranit?"]
-[0718:{INK 002}"Tato osoba nemá žádný prokletý předmět!"]
-[0744:{INK 002}"Nikdo z vás nemá žádný prokletý předmět!"]
-[0562:{SUBJ}{NAME}'s prokletý předmět byl odstraněn!]
-[0564:{INK 002}"Který předmět chceš, abych prozkoumal?"]
+[0558:{LEAD}{NAME} dostává intenzivní výcvik.]
+[0563:{INK 002}"Kdo z vás ode mne potřebuje vyléčit?"]
+[0559:{INK 002}"Tato osoba nepotřebuje vyléčit!"]
+[0560:{INK 002}"Kolik životních bodů ti mám vyléčit?"]
+[0561:{SUBJ}{NAME} byl{MAN } vyléčen{MAN }.]
+[0745:{INK 002}"Čí prokleté předměty chceš odstranit?"]
+[0718:{INK 002}"Tato osoba nemá žádné prokleté předměty!"]
+[0744:{INK 002}"Nikdo z vás nemá žádné prokleté předměty!"]
+[0562:{SUBJ}{NAME} byl{MAN } zbaven{MAN } prokletých předmětů!]
+[0564:{INK 002}"Který předmět mám prozkoumat?"]
 [0565:{INK 006}Tento předmět už byl prozkoumán!]
-[0566:Předmět byl prozkoumán, informace je nyní dostupná.]
-[0569:Který předmět chceš, abych dobyl?]
-[0567:{INK 006}Tento předmět už byl plně dobit!]
-[0568:{INK 006}Tento předmět nemůže být dále dobit!]
-[0570:Kolik prostředků obnovit?]
-[0571:Tento předmět byl dobyt magickou energií.]
+[0566:Předmět byl prozkoumán, informace jsou nyní dostupné.]
+[0569:Který předmět mám nabít?]
+[0567:{INK 006}Tento předmět už byl plně nabit!]
+[0568:{INK 006}Tento předmět nemůže být dále nabit!]
+[0570:Kolik nábojů obnovit?]
+[0571:Tento předmět byl nabit magickou energií.]
 [0588:{INK 002}"Kolik zásob chceš koupit?"]
-[0589:Zásoby byly koupeny.]
+[0589:Zásoby byly zakoupeny.]
 [0591:Který předmět opravit?]
-[0590:{INK 006}Tento předmět nebyl zničen!]
+[0590:{INK 006}Tento předmět není zničen!]
 [0592:Předmět byl opraven.]
-[0420:Opustit kupeckou obrazovku]
+[0420:Opustit obrazovku kupce]
 [0572:Kupec]
 [0575:Kolik předmětů koupit?]
-[0576:Předměty byly koupeny.]
+[0576:Předměty byly zakoupeny.]
 [0578:{INK 006}Toto je příliš drahé!]
 [0580:{INK 006}{INVE}{NAME} nemá dostatek místa!]
 [0581:{INK 006}Kupec nemá dostatek skladovacích prostor!]
@@ -820,23 +824,23 @@
 [0573:Koupit]
 [0557:{INK 002}"Bude to %d.%u mincí. Chceš to koupit?"]
 [0584:{INK 002}"Dám ti za to %d.%u mincí. Chceš to prodat?"]
-[0555:Parta nemá dostatek peněz!]
+[0555:Skupina nemá dostatek peněz!]
 [0585:Zlato(všechno)]
 [0586:Celkem zlata: %ld.%u]
 [0602:{LEAD}{NAME} a {HIS } společníci byli odvedeni do svých pokojů, kde strávili klidnou noc.]
-[0608:Koho ozdravit?]
-[0625:{SUBJ}{NAME} je uzdraven!]
-[0626:{INK 002}"Nikdo z party nepotřebuje ozdravit!"]
-[0628:{INK 002}"Nikdo z tvé party se nemůže naučit můj druh magie."]
-[0631:{INK 002}"Které kouzlo se naučit?"]
+[0608:Které onemocnění vyléčit?]
+[0625:{SUBJ}{NAME} je uzdraven{MAN }!]
+[0626:{INK 002}"Zdá se mi, že jste všichni zcela zdraví!"]
+[0628:{INK 002}"Nikdo z vás se nemůže naučit můj druh magie."]
+[0631:{INK 002}"Kterému kouzlu se naučit?"]
 
 
 	*** Camp screen ***
 
-[0603:Nikdo v téhle partě není unaven!]
-[0604:Parta odpočívala až do konce.]
-[0605:Parta odpočívala osm hodin.]
-[0606:{SUBJ}{NAME} se nemůže zotavit. {HE  } nemá dostatek jídla!]
+[0603:Nikdo se zatím necítí unaven!]
+[0604:Skupina odpočívala až do rána.]
+[0605:Skupina odpočívala osm hodin.]
+[0606:{SUBJ}{NAME} se nemůže zotavit, protože nemá dostatek jídla!]
 
 
 	*** Conditions ***
@@ -851,7 +855,7 @@
 [0616:Slepý]
 [0617:Panikařící]
 [0618:Spící]
-[0619:šílený]
+[0619:Šílený]
 [0620:Podrážděný]
 [0621:]
 [0622:]
@@ -861,8 +865,8 @@
 
 	*** Left Inventory 1 ***
 
-[0632:{INVE}{NAME} ({SEXC}), % let starý, {RACE}, {CLAS}, úroveň %d.]
-[0633:životní body]
+[0632:{INVE}{NAME} ({SEXC}), %u let, {RACE}, {CLAS}, úroveň %d.]
+[0633:Životní body]
 [0634:Magické body]
 [0667:Zkušenostní body]
 [0668:Výcvikové body]
@@ -876,14 +880,14 @@
 
 	*** Left Inventory 3 ***
 
-[0661:Podmínky]
+[0661:Nemoci]
 [0662:Jazyky]
 [0669:Dočasná kouzla]
-[0673:%d%% (%u hodin)]
+[0673:%d %% (%u hodin)]
 [0013:Bojové pozice]
 [0666:Změnit bojové pozice]
 [0069:Vyměnit %s a %s]
-[0674:Pozice %s]
+[0674:Umístit %s]
 
 
 	*** Attributes ***
@@ -892,8 +896,8 @@
 [0636:Inteligence]
 [0637:Obratnost]
 [0638:Rychlost]
-[0639:Odolnost]
-[0640:štěstí]
+[0639:Výdrž]
+[0640:Štěstí]
 [0641:Magická odolnost]
 [0642:Magické nadání]
 
@@ -912,10 +916,10 @@
 [0650:INT]
 [0651:OBR]
 [0652:RYC]
-[0653:ODO]
-[0654:šTě]
-[0655:M-O]
-[0656:M-N]
+[0653:VÝD]
+[0654:ŠTĚ]
+[0655:MO]
+[0656:MN]
 
 
 	*** Skill abbreviations ***
@@ -923,19 +927,19 @@
 [0657:BNB]
 [0658:BND]
 [0659:KRZ]
-[0660:P-Z]
+[0660:PZ]
 
 
 	*** Game languages ***
 
-[0663:Terran]
-[0664:Iskai]
+[0663:Pozemský]
+[0664:Iskaiský]
 [0665:Keltský]
 
 
 	*** Temporary spell names ***
 
-[0670:útok]
+[0670:Útok]
 [0671:Ochrana]
 [0672:Protimagie]
 
@@ -953,13 +957,13 @@
 
 	*** Examine item 2 window ***
 
-[0685:Dovednost tax 1]
-[0686:Dovednost tax 2]
-[0687:žádný]
-[0688:žB-Maximální bonus]
-[0689:MB-Maximální bonus]
-[0690:Bonus z vlastností]
-[0691:Bonus z dovedností]
+[0685:Zhoršení dovednosti]
+[0686:Zhoršení dovednosti]
+[0687:Žádné]
+[0688:Bonus k maximu ŽB]
+[0689:Bonus k maximu MB]
+[0690:Bonusové vlastnosti]
+[0691:Bonusové dovednosti]
 [0692:Kouzlo]
 [0693:Očarování]
 
@@ -973,7 +977,7 @@
 [0705:Uložit hru]
 [0706:Možnosti]
 [0707:Shlédnout intro]
-[0708:Credits]
+[0708:Autoři]
 [0709:Konec hry]
 [0710:Skutečně chceš skončit?]
 [0711:Kterou uloženou hru chceš obnovit?]
@@ -981,7 +985,7 @@
 [0713:Skutečně chceš přepsat tuto uloženou hru?]
 [0714:Napiš, prosím, název pro tuto uloženou hru:]
 [0715:Skutečně chceš začít novou hru?]
-[0716:(Empty position)]
+[0716:(Prázdná pozice)]
 [0717:Nebyly nalezeny žádné uložené hry!]
 [0775:{INK 006}{BIG }{CNTR} Nedostatek místa na pevném disku!]
 
@@ -989,10 +993,10 @@
 	*** Options ***
 
 [0741:Hlasitost hudby]
-[0742:Hlasitost FX]
+[0742:Hlasitost zvuků]
 [0743:Velikost 3D okna]
-[0415:úroveň detailů v boji]
-[0416:Rychlost textů v boji]
+[0415:Úroveň detailů v boji]
+[0416:Zpoždění textů v boji]
 
 
 	*** Special item activation texts ***
@@ -1005,52 +1009,50 @@
 	*** Combat effect texts ***
 
 [0419:%s byl magicky urychlen!]
-[0737:%s magické urychlení skončilo!]
+[0737:%s už není magicky urychlen!]
 [0739:%s je zmrazen!]
-[0740:%s již není více zmrazen!]
+[0740:%s už není zmrazen!]
 [0627:%s byl oslepen!]
-[0629:%s není více slepý!]
-[0422:%s propadl berserku!]
-[0738:%s již není více pod vlivem berserku!]
+[0629:%s už není slepý!]
+[0422:%s propadl zběsilosti!]
+[0738:%s už není zběsilý!]
 
 
 	*** Condition texts ***
 
 [0762:{INK 006}{SUBJ}{NAME} je v bezvědomí!]
-[0763:{INK 006}{SUBJ}{NAME} byl otráven!]
-[0764:{INK 006}{SUBJ}{NAME} je nemocen!]
-[0765:{INK 006}{SUBJ}{NAME} je vyčerpaný!]
-[0766:{INK 006}{SUBJ}{NAME} není schopen pohybu!]
+[0763:{INK 006}{SUBJ}{NAME} byl{MAN } otráven{MAN }!]
+[0764:{INK 006}{SUBJ}{NAME} onemocněl{MAN }!]
+[0765:{INK 006}{SUBJ}{NAME} je vyčerpán{MAN }!]
+[0766:{INK 006}{SUBJ}{NAME} je paralyzován{MAN }!]
 [0767:{INK 006}{SUBJ}{NAME} utíká!]
-[0768:{INK 006}{SUBJ}{NAME} je opilý!]
-[0769:{INK 006}{SUBJ}{NAME} byl oslepen!]
+[0768:{INK 006}{SUBJ}{NAME} je opit{MAN }!]
+[0769:{INK 006}{SUBJ}{NAME} byl{MAN } oslepen{MAN }!]
 [0770:{INK 006}{SUBJ}{NAME} panikaří!]
 [0771:{INK 006}{SUBJ}{NAME} spí!]
-[0772:{INK 006}{SUBJ}{NAME} zešílel!]
-[0773:{INK 006}{SUBJ}{NAME} je podrážděn!]
+[0772:{INK 006}{SUBJ}{NAME} zešílel{MAN }!]
+[0773:{INK 006}{SUBJ}{NAME} je podrážděn{MAN }!]
 
 
 	*** Various messages ***
 
-[0759:{INK 006}Je příliš zraněn, aby byl vyléčen!]
-[0761:{INK 006}{CNTR}{BIG }{SUBJ}{NAME} je nemocen,^^{NORS}a {HE  } cítí, že {HIS } tělo bylo trvale poškozeno!]
-[0417:{INK 006}{CNTR}{BIG }Smrt ukončila cestu.^^{NORS}Každý v partě je smrtelně zraněn. Dříve či později zemřou.]
-[0421: Výchozí obrazovka]
+[0759:{INK 006}Je příliš zraněn{SUBJ}{MAN }, aby mohl{MAN } být vyléčen{MAN }!]
+[0761:{INK 006}{CNTR}{BIG }{SUBJ}{NAME} onemocněl{MAN }^^{NORS}a cítí, že {HIS } tělo bylo trvale poškozeno!]
+[0417:{INK 006}{CNTR}{BIG }Smrt ukončila cestu.^^{NORS}Všichni ve skupině jsou smrtelně zraněni a dříve či později zemřou.]
+[0421: Opustit obrazovku]
 [0167:Bod byl označen!]
-[0699:{INK 002}{SUBJ}{NAME} je příliš přetížen!]
-[0720:{SUBJ}{NAME} měl štěstí a unikl pasti!]
+[0699:{INK 002}{SUBJ}{NAME} je příliš přetížen{MAN }!]
+[0720:{SUBJ}{NAME} měl{MAN } štěstí a unikl{MAN } pasti!]
 [0127:{INK 006}Je v bezvědomí!]
 [0732:Všichni jsou unaveni!]
 [0733:Všichni jsou vyčerpáni!]
-[0734:{INK 006}{CNTR}{BIG }útok!]
-[0748:{INK 002}{CNTR}{BIG }%s dosáhl úrovně %u!^{NORS}^životní body: %u^Magické body: %u^Dodatečné výcvikové body: %u^útoky za kolo: %u]
-[0749:{INK 002}{CNTR}{BIG }%s dosáhl úrovně %u!^{NORS}^život body: %u^Dodatečné výcvikové body: %u^útoky za kolo : %u]
-[0750:%s dosáhl maximální úrovně charakteru!]
+[0734:{INK 006}{CNTR}{BIG }Útok!]
+[0748:{INK 002}{CNTR}{BIG }%s dosahuje úrovně %u!^{NORS}^Životní body: %u^Magické body: %u^Dodatečné výcvikové body: %u^Útoky za kolo: %u]
+[0749:{INK 002}{CNTR}{BIG }%s dosahuje úrovně %u!^{NORS}^Životní body: %u^Dodatečné výcvikové body: %u^Útoky za kolo: %u]
+[0750:%s dosahuje maximální úrovně postavy!]
 
 
 	*** UNUSED ***
-[0128:Může být použit:]
-[0129:]
-[0758:]
-
+[0128:Může používat:]
+[0129:{INK 006}Nemluví správným jazykem!]
 

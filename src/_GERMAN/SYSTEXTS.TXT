@@ -61,7 +61,7 @@
 [0537:{INK 006}Gesperrt.]
 [0539:Diese Person schläft!]
 [0540:Diese Person spricht eine Sprache, die {LEAD}{NAME} nicht kennt.]
-[0543:Diese Personen sprechen nicht die gleiche Sprache.] NEW
+[0543:Diese Personen sprechen nicht die gleiche Sprache.]
 [0724:Wieviele Stunden warten?]
 [0726:Wirklich rasten?]
 
@@ -172,16 +172,23 @@
 [0075:er]
 [0076:sie]
 [0077:es]
+
 [0078:ihn]
 [0079:ihr]
 [0080:es]
+
 [0081:sein]
 [0082:ihr]
 [0083:sein]
+
 [0084:Mann]
 [0085:Frau]
 [0086:Wesen]
 
+// POST-RELEASE CHANGE 1.38
+[0758:ihn]
+[0776:ihr]
+[0777:es]
 
 	*** Race names ***
 
@@ -360,7 +367,7 @@
 [0068:{INK 006}Kann nicht am Körper getragen werden!]
 [0194:{INK 006}Dieser Gegenstand ist kaputt!]
 [0195:{INK 006}Falsche Klasse, um Gegenstand zu benutzen!]
-[0196:{INK 006}Wrong gender to use this item!]
+[0196:{INK 006}Falsches Geschlecht für diesen Gegenstand!]
 [0197:{INK 006}Nicht genügend Hände frei!]
 [0132:{INK 006}Dieser Gegenstand existiert schon!]
 [0719:Wer soll das trinken?]
@@ -1042,7 +1049,6 @@
 
 
 	*** UNUSED ***
-[0128:]
-[0129:]
-[0758:]
+[0128:Kann benutzt werden von:]
+[0129:Kennt nicht die richtige Sprache!]
 

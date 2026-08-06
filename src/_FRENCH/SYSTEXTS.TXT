@@ -133,8 +133,8 @@
 [0040:Objet magique]
 [0041:Objet spécial]
 [0042:Transport]
-[0043:Objet lumineux]
-[0044:]
+[0043:Crochet]
+[0044:Objet lumineux]
 [0045:]
 [0046:]
 
@@ -839,7 +839,7 @@
 
 [0603:Personne n'est fatigué pour l'instant!]
 [0604:Les compagnons se reposent jusqu'à l'aube.]
-[0605 Les compagnons se reposent pendant huit heures.]
+[0605:Les compagnons se reposent pendant huit heures.]
 [0606:{SUBJ}{NAME} ne récupère pas, {HE  } n'a plus de nourriture!]
 
 
