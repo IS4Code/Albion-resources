@@ -1,0 +1,208 @@
+﻿leer
+Kein Mitglied der Gruppe ist besonders erpicht darauf, dort hinzufassen.
+Ein großes Sofa.
+Ein großer Schrank.
+Ein Bratrost.
+Ein Bett.
+Eine Feuerstelle.
+Die Bettdecke.
+Iskai-Besteck.
+Ein Teller.
+Ein Behälter.
+Eine Wurst.
+Ein schinkenähnliches Fleischstück.
+Ein Kochlöffel.
+Diverse Kräuter.
+Früchte.
+Eine Fleischspezialität.
+Ein Trinkbecher.
+Eine Schale.
+Ein Gewürz.
+Kleine Gewürzdosen.
+Ein kleiner Becher.
+Ein Küchenmesser.
+Gebäck.
+Einige kleinere Würstchen.
+Dies ist dem Geruch nach ein Fläschchen mit einer Würzflüssigkeit.
+Ein Stofftuch.
+Ein Handtuch.
+Ein Eimer.
+Eine Bratpfanne.
+Ein Topf.
+Innerhalb dieses Kessels befindet sich auf einem Gestänge ein kleiner Topf, in dem Speisen besonders schonend erwärmt werden können.
+Ein Kissen.
+Eine große Bratpfanne.
+Eine Fell-Bürste.
+Eine Wasserrinne.
+Ein Wasserbecken.
+Eine Wassersperre.
+Ein großer Tonkrug.
+Eine Kommode.
+In den Fächern der Kommode liegt allerhand unwichtiges Kleinzeug.
+Eine Kiste.
+Das ist ein ziemlich großer Kessel. Vielleicht dient er zur Lagerung von Vorräten, von Wasser oder Speisen.
+In diesem Wasserbecken steht eine fremdartige Pflanze, die mit ihren pulsierenden Bewegungen Grundwasser aus dem Boden pumpt. Diese Quelle dient ganz offensichtlich der Wasserversorgung.
+Das Wasser in diesem Tümpel riecht schlecht und faulig. Vermutlich sammeln sich hier die Abwässer.
+Wasserpflanzen.
+Bodengewächse.
+Eine exotische Pflanze.
+Schlinggraspflanze.
+Platzhalter für weitere Cutmap-Events.
+Eine Treppe. Sie führt durch den Boden nach unten.
+Diese Treppe geht durch die Decke nach oben.
+Es handelt sich hier offenbar um eine Art Bett. Die Füllung besteht aus Sand, der durch seine groben, aber rundgeschliffenen Körner erstaunlichen Komfort bietet.
+Das enorme Gebilde scheint eine Art Sitzmöbel zu sein. Es wirkt pflanzlich und ist offenbar gewachsen. Die Oberfläche ist weich und elastisch.
+Der Brunnen des Hauses.
+Die Wasserrinnen dienen wohl der Versorgung mit Trinkwasser. Sie durchziehen das Haus wie kleine Bäche.
+Der muffige Geruch und die Löcher in dem Gebilde lassen nur den Schluß zu, daß es hier um eine Toilette handelt. Auch dieses "Möbel" ist pflanzlichen Ursprungs und gedeiht prächtig; sicher eine Folge der regelmäßigen Düngung.
+An diesem Ort finden die wirklich dringenden Geschäfte der Welt statt.
+In dieser Pfanne brutzelt ein süßlich-scharf riechendes Gericht.
+Eine Sitzgelegenheit.
+Ein massiver Holztisch.
+Eine kräftige Blattpflanze.
+Eine Türe.
+Ein Messer.
+Ein Kurzdolch.
+Ein Dolch.
+Ein großer Dolch.
+Ein Kurzschwert.
+Ein Iskai-Messer.
+Ein Iskai-Dolch.
+Ein Iskai-Stilett.
+Ein Iskai-Kurzschwert.
+Ein großes Iskai-Stilett.
+Ein Iskai-Schwert.
+Ein großes Iskai-Schwert.
+Ein Iskai-Langschwert.
+Eine Iskai-Lanze.
+Ein großer Iskai-Dolch.
+Ein Iskai-Kurzstilett.
+Ein großes Iskai-Stilett.
+Ein großes Iskai-Schwert.
+Kleiner Bogen.
+Ein Bogen.
+Ein Pfeil.
+Ein langer Pfeil.
+Ein Lederschild.
+Ein kleiner Iskai-Schild.
+Ein Iskai-Schild.
+Ein großer Iskai-Schild.
+Eine Lederkappe.
+Eine Iskai-Lederkappe.
+Eine Iskai-Metallkappe.
+Ein Iskai-Metallhelm.
+Ein Iskai-Brustschutz.
+Ein Iskai-Metall-Brustschutz.
+Eine leichte Iskairüstung.
+Eine Iskairüstung.
+Eine leere Flasche.
+Ein grüner Heiltrank.
+Ein türkisener Heiltrank.
+Ein blauer Heiltrank.
+Ein roter Trank.
+Ein violetter Trank.
+Ein blauer Trank.
+Ein Schlüssel.
+Ein Seil.
+Eine Fackel.
+Ein Iskai-Notizblock.
+Ein Zettel.
+Ein Iskai-Ringbuch.
+Ein Iskai-Ringblock.
+Ein Schreibstift.
+Ein kurzer Schreibstift.
+Eine Sitzbank.
+Auch dieses Sitzmöbel ist förmlich aus dem Boden gewachsen und stellt eine bequeme Sitzbank dar.
+Ein Holzpfahl. An seinem oberen Ende befindet sich ein Schild.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+"Hier habe ich alles hineingetan, was wir an Ausrüstung noch bei uns hatten: Vier Medipaks sind noch übrig und Ihre Schnell|feuer|waffe samt 5 Salven|magazinen. Hoffentlich brauchen wir das Ding nicht."
+"Da fällt mir ein: Bevor wir das Haus verlassen, sollten wir noch schnell in unserem Zimmer vorbeischauen. Ich habe unsere restlichen Ausrüstungs|gegenstände in dem großen Schrank verstaut."
+Diese Truhe steht offen.
+Die geräumige Kommode ist unverschlossen.
+"Ich habe Teile des Hauses schon gesehen. Die Architektur ist fantastisch. Fast alles scheint aus Pflanzen zu bestehen, weiß der Himmel, wie sie das machen. Und fast überall ist Wasser zu finden, es wird oft und gern gebadet. Ach, übrigens: Es gibt offenbar kein Nacktheitstabu in dieser Gesellschaft."
+"Kein Wunder bei der Hitze."
+"Enschuldigen Sie meinen Enthusiasmus, aber sehen Sie sich das riesige Gebilde dort hinten an. Es ist eine Art Pumpe, und funktioniert ohne mechanische Teile. Ich glaube, man ist im Haus recht stolz auf diesen Brunnen."
+"Tom und Rainiir, ich komme gerade vom Sebai. Er wünscht mit Euch zu sprechen. Würdet Ihr mir bitte folgen?"
+"Selbstverständlich. Wir freuen uns auf ein Gespräch."
+"Nun erfahren wir hoffentlich mehr über die Gründe für unsere Rettung."
+"Seien Sie nicht undankbar, Driscoll. Außerdem sollten wir uns vielleicht bei diesem Sebai nicht mehr in unserer Sprache beraten, eventuell gilt das als unhöflich."
+"Tom und Rainiir, das Oberhaupt des Clans der Südwind-Jäger, Sebai-li Wrinn. Ich werde Euch nun alleinlassen."
+"Er ist noch ein KIND, Driscoll! Das kann doch nicht sein!"
+"Sehe ich. Darf ich Sie an Ihren Rat erinnern, nur Iskai zu sprechen?"
+{CNTR}Die Inschrift des Schildes besagt:^^ {INK 006} Vorratskammern.^ Kinder: Bedenkt die Folgen!
+"Riechen Sie nur diese Gerüche, Driscoll! Das muß die Küche sein."
+"Hier kommt also dieses höllisch scharfe Zeug her, mit dem sie uns auf|ge|päppelt haben."
+"Ich liebe pikante Küche. Wir können nicht sagen, daß es uns geschadet hätte."
+"Sie mußten ja auch nicht wochenlang in einen Eimer... Nun, lassen wir das."
+"Ich bin mit dem Sinn dieses Gebildes bereits vertraut gemacht worden. Glauben Sie es oder nicht, es ist eine Art pflanzliche Toilette!"
+"Hofstedt! ^Ok.^Ok.^ Ich will versuchen, es ganz einfach zu formulieren:^ WAS - IST - PASSIERT ?"
+"Sie erinnern sich an die Bruch|landung und unseren Ausstieg? Gut. Kurz danach ist das Shuttle hoch|gegangen wie in einer schlechten amerika|nischen Serie.  Meine erste Erinnerung danach stammt vom Transport auf einer Art Bahre. Als  ich meine Helfer sah, wurde ich sofort wieder bewußtlos.^ Driscoll, sie sind INTELLIGENT!
+"Ich sehe selbst, daß dieses... Haus nicht aus dem Boden gewachsen ist. Obwohl, wenn man genauer hinsieht..."
+"Verstehen Sie nicht, es gibt hier intelligentes Leben, wir haben den Kontakt zur dritten nicht|menschlichen Rasse hergestellt! Ihre Kultur ist fantastisch und..."
+"Hofstedt, bitte! Mir brummt der Schädel auch ohne ihre Erklärungs|versuche. Beginnen Sie von vorne, um Himmels willen. Wie konnten die Instrumente so versagen? Wir marschieren in Erwartung einer Marswelt mit Atemmasken heraus und stehen in einem verdammten Dschungel, dichter als in den alten Erd-Dokus!"
+"Ich habe keine Ahnung, was da schief|gelaufen ist. Die meisten Tatsachen spüren sie an eigenem Leibe. Wir befinden uns auf einer sauerstoff|reichen, warmen Welt mit einer enormen Vielfalt an Flora und Fauna, die Schwerkraft beträgt erwartungs|gemäß etwas unter 1 G. Bisher ist unser Immunsystem mit den hiesigen Mikro|organismen zurecht gekommen. Die Detonation hat Sie wesentlich schlimmer erwischt als mich. Sie sind seit fast 30 Tagen bewußtlos gewesen. Halt! Versuchen Sie's gar nicht! Bevor Sie aufstehen  können, werden mindestens nochmal 30 Tage vergehen!"
+"Hab's gemerkt! Irgend|welche bleibenden Schäden?"
+"Glaube ich kaum. Einige Knochen|brüche, Verbrennungen und vermutlich leichte innere Verletzungen. Die Schädel|prellung machte mir die meisten Sorgen, aber Sie scheinen ja bei klarem Bewußtsein zu sein. Ihre Prothese ist  funktions|tüchtig."
+"Danke. Machen Sie weiter."
+"Nun, ich war recht schnell wieder auf den Beinen und habe Kontakt mit unseren Gastgebern aufgenommen. Wie soll ich bloß beginnen?"
+"Sie sind Wissen|schaftler! Versuchen Sie, sich auf die Fakten zu besinnen."
+"Ich werde mir Mühe geben. Nun, Sie nennen sich Iskai. Wie Sie gesehen haben, sind sie annähernd humanoid gebaut,aber größer und schmaler als Menschen, außerdem besitzen sie noch Ihren Körperpelz. Sie scheinen von Raubtieren abzustammen, wie Sie sicher auch an der Kopfform bemerkt haben. Ansonsten scheint Ihre Entwicklungs|geschichte in vergleich|baren Bahnen wie die des Homo Sapiens verlaufen zu sein. Die Iskai sind zwei|geschlecht|liche Säugetiere wie wir. Ihre techno|logische Entwicklungs|stufe scheint nicht sehr hoch zu sein, trotzdem sind sie in zu erstaunlichen architekto|nischen Leistungen fähig. Die Bewohner dieses Hauses haben sich aufopferungs|voll um uns gekümmert und mir geholfen, Sie am Leben zu erhalten."
+"Soll das heißen, eine Art Medizin|mann hat mich wieder zusammengeflickt?"
+"Nein. Anderer|seits: Wer weiß? Ich erinnere mich nebelhaft an den ersten Tag hier, als einer dieser Burschen im Zimmer war und irgend|etwas an uns herumgefummelt hat. Er hat allerdings nicht den Eindruck gemacht, daß er mit Hokus|pokus Eindruck schinden wollte. Hat mit einer Art glitzernden Pflanzen|samen hantiert. Ich war zu schwach, um dagegen zu protestieren. Es hat uns offen|sichtlich nicht geschadet. Ich habe dann noch drei von unseren Medipaks gebraucht, um Sie soweit zu bringen, wie Sie jetzt sind."
+"Drenis bat ardriiba na gendi?"
+"Kriidak na grriina, äh, strokiri. Badri?"
+"Frji wan drobia. Lanarii!"
+"Wie ich sehe, haben Sie Ihre Zeit nicht vergeudet. Sie haben in knapp 4 Wochen ihre Sprache gelernt?"
+"Ich beherrsche erst ein paar Worte. Bis auf die Aussprache ist das Idom allerdings erstaunlich nach|vollziehbar. Ich werde Ihnen in den nächsten  Tagen einen Grundkurs geben, damit Sie aufholen können."
+"Machen sie langsam, Hofstedt. Ich bin noch dabei zu versuchen, nicht überzu|schnappen. Diese Situation ist... Ich meine... Was wir hier hier  erleben, ist unglaublich! So etwas passiert normalen Leuten im wirklichen Leben nicht, es..."
+"He, he, bleiben Sie ruhig, Driscoll! Sehen Sie, das sind Gedanken, wie sie wohl jeder hat, wenn man etwas erlebt, was man sonst nur am Bildschirm gelesen oder gesehen hat. Das hier geschieht nun mal tatsächlich! Akzeptieren Sie es und sehen Sie zu, daß sie wieder auf die Beine kommen. Wir müssen schließlich irgendwie zum Schiff zurückkommen."
+"Das Schiff, richtig. Die werden Augen machen, wenn sie im Orbit sind."
+"Ich schätze, Sie werden am vorgesehenen Punkt landen und anstelle der Abbaustruktur eine Forschungs|station errichten. Ihre Firma kann dann wenigstens noch etwas Geld mit den Exklusiv|rechten der ersten Dokus hereinholen."
+"Wir müssen also heraus|finden, wo wir sind und wie wir zum Landepunkt kommen".
+"Das ist die richtige Einstellung. Zuerst aber müssen wir lernen, uns zu verständigen. Schlafen Sie erst noch ein wenig, dann beginnen wir mit der ersten Lektion."
+"In Ordnung. Und, Hofstedt..."
+"Ja?"
+"Danke für alles."
+"Diese Iskai sind der Traum eines Xenobiologen! In einem Moment ist Ihre Ähnlich|keit mit dem Menschen kaum zu fassen, und dann erscheinen sie einem wieder völlig fremd. Stellen Sie sich nur die Kon|sequen|zen dieses Sebai-Rituals vor! Trotz ihrer kurzen Lebenspanne haben die Iskai quasi die Unsterb|lichkeit vor Augen!"
+"Dsarii-ma, Gäste des Hauses. Ich möchte nicht unhöflich erscheinen, aber ich habe noch eine Menge zu tun, entschuldigt mich."
+{INK 001}Das Iskai-Kind schaut die Menschen vor sich mit großen Augen an. Der Anblick hat ihm anscheinend die Sprache verschlagen.
+"Dsarii-ma! Ich hoffe, Euch sagt die Gastfreundschaft des Südwind-Clans zu und ihr fühlt Euch bei uns wohl!"
+"Dsarii-ma. Ihr seht aber wirklich lustig aus. Seid ihr krank, oder was ist mit eurem Fell passiert?"
+"Dsarii-ma. Verzeiht, ich habe wenig Muße zum Plaudern, die nächste Jagd muß vorbereitet werden."
+"Dsarii-ma! Ihr seid ja nicht größer als ich!"
+"Dsarii-ma. Ich bin einer von denen, die Euch gefunden haben. Den Knall zuvor werde ich im Leben nicht mehr vergessen!"
+Diese Tür führt nach draußen.

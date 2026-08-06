@@ -1,0 +1,65 @@
+﻿frei
+Ein Kamin.
+Ein Kerzenleuchter.
+Ein geflochtener Korb.
+Ein Holztisch.
+Ein Hocker.
+Ein Himmelbett. Mit den Totenschädeln könnte man es gar als "Höllenbett" bezeichnen.
+Ein Schreibtisch.
+Ein Stuhl.
+Ein loderndes Feuer brennt in dieser Säule, welches die Fratze in einem schummerigen Licht erscheinen läßt und beim Betrachter einen beklemmenden Zustand erweckt.
+Eine Säule mit einer gräßlichen Fratze.
+Ein Kämpferbett. Wie die meisten Möbel hier, wirkt es etwas abschreckend.
+Ein Faß.
+Eine Art von Teppich, der aus getrockneten Pflanzenhalmen geknüpft ist.
+Eine Glaskrug.
+Vorhänge.
+Ein Kiste.
+Ein Schrank.
+Eine Fackel.
+Eine Menge unwichtiger Kleinkram liegt in den Regalen.
+Ein großer hölzerner Zuber.
+Große Holzregale.
+Dieses Bett wird derzeit wohl nicht benutzt.
+Verschiedene Hieb-, Stich- und Schußwaffen, die alle äußerst gefährlich aussehen.
+Ein Waffenregal.
+Ein Schild.
+Ein aufgespießter Schädel. Ein unangenehmer Verwesungsgeruch deutet darauf hin, daß die Greueltat noch nicht allzu lange zurück liegt.
+An diesen Strohpuppen werden kriegerische Fähigkeiten trainiert und erprobt.
+Ein mit Stroh umwickelter Holzpfahl. Dient zur Übung von Schlagtechniken.
+Eine Zielplatte für Pfeil und Bogen.
+Ein Tablett mit Nahrungsmitteln.
+Kräuter.
+Eine Truhe.
+Eine Karaffe.
+Ein Kochlöffel.
+Ein Eimer.
+Ein Löffel.
+Ein Löffel und eine Gabel.
+Ein Trinkbecher.
+Zwei Trinkbecher.
+Eßbesteck.
+Ein Teller.
+Ein Behälter.
+Gemüse.
+Gebäck.
+Ein Gewürz.
+Ein Metallteller.
+Ein Tonbehälter.
+Ein großer Glastopf.
+Ein Glasbehälter.
+Eine Holzdose.
+Eine große Glasdose.
+Eine Flasche.
+Notizblätter.
+Ein Buch.
+Mehrere Bücher.
+Ein in Leder gebundenes Buch. Es sieht wertvoll aus.
+Schreibutensilien.
+Ein aufgeschlagenes Buch. Auf der linken Seite ist eine technische Skizze zu sehen, die rechte Seite enthält Beschreibungen dazu.
+Eine Schreibfeder.
+Ein schweres Kurzschwert.
+Ein schwerer Dolch.
+Eine Türe.
+Dieser mächtige Küchenherd dient zum Erhitzen von Speisen und Getränken.
+Ein Wandbehang.

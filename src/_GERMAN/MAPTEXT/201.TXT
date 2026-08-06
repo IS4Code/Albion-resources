@@ -1,0 +1,74 @@
+﻿-frei-
+Gräser.
+Steine.
+Niedrige Bodengewächse.
+Kleine Äste und Wurzeln.
+Schilfgräser.
+Ein kleiner Obstbaum.
+Ein Kugelbaum.
+Ein Laubbaum.
+Eine Stromschnelle.
+Ein Wasserstrudel.
+Eine Wasserpflanze.
+Das Wasser ist sehr tief und die Strömung scheint stark zu sein.
+Wasserpflanzentriebe.
+Eine blühende Pflanze.
+Ein Schirmbaum.
+Diese Pflanze leuchtet in faszinierenden Farbtönen.
+Gemüse.
+Ein Felsblock.
+An dieser Stelle ist das Wasser sehr flach und klar, so daß man auf den Grund schauen kann. Zahlreiche Steinbrocken liegen dort und es gibt fast keine Strömung.
+Ein Obstbaum.
+Ein Zaun.
+Eine Stengelpflanze.
+Eine Schlinggraspflanze.
+Ein Busch.
+Eine großblättrige Pflanze.
+Ein Wasserfall.
+Ein Felsvorsprung.
+Eine Pflanze, die auf den Felsen wächst.
+Diese Schlingpflanze hat sich mit Tausenden von Wurzeln in der unregelmäßigen Felsstruktur verankert. Sie macht einen sehr stabilen Eindruck und durch ihre mannigfaltige Verästelungen bietet sie zahlreiche Möglichkeiten, an denen man sich festhalten kann.
+Eine Holzbrücke.
+Getreidefelder.
+Pilze.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+ 
+{CNTR}"Oink?"
+{CNTR}"Rrriick?"
+------ An extended dialog screen will appear here ------
+"Togi Din, Reisende. Besucht meinen Onkel, den Waffenschmied. Er ist der beste Schmied Gratogels. Sein Haus ist das Große, im Südosten des Dorfes."
+"Laßt mich zufrieden, Fremde. Ich habe Arbeit zu tun."
+"Togi Din! He, ihr langen Pelzträger seht aber lustig aus!"
+"La, laa-la! Zicke, Zacke, Hühnerkacke!"
+"Togi Din! Willkommen in Vanello!"
+{CNTR}Auf dem Schild steht:^^ {INK 006}Haus von Oibelos, Stammeskönig von Vanello
+{CNTR}Auf dem Schild ist zu lesen:^^ {INK 006}Tamno, Waffenschmied der Umajo-Gilde
+{CNTR}Hier steht:^^ {INK 006}Gradia, Werkzeuge und Gebrauchsgegenstände
+{CNTR}In großen Buchstaben ist hier zu lesen:^^ {INK 006}Tharnos, König von Klouta
+{CNTR}Das Schild verkündet:^^ {INK 006}Bragona, Speisen und Proviant
+{CNTR}Auf dem Schild ist zu lesen:^^ {INK 006}Haus von Aretha, Königin von Aballon
+{CNTR}Hier steht:^^ {INK 006}Die Früchte Aballons
+{CNTR}Auf dem verwitterten Schild ist gerade noch zu erkennen:^^ {INK 006}Kaufe und verkaufe viele Dinge
+{CNTR}In geschwungenen Buchstaben ist hier zu lesen:^^ {INK 006}Arjano, Wächterin des Wissens^ Schule und Zentrum der Druiden Albions
+"Diese Hütte soll ein so bedeutendes Wissenszentrum beherbergen? Das kann doch nicht möglich sein!"
+Im Eingangsbereich der Hütte versperrt eine verschlossenen Tür den Zugang.
+"Togi Din! Mal wieder Besuch aus fernen Ländern, wie aufregend!"
+"Togi Din, Reisende. Ist das nicht ein herrlicher Tag?"
+"Togi Din. Verzeiht, ich möchte nicht mit Euch sprechen. Mein Mann ist vor kurzem ertrunken und ich..."^ {INK 001}Tränen laufen der jungen Frau über das Gesicht."
+"Togi Din! Macht Platz für die große Kriegerin! Hejaaa!"
+"Togi Din! Wollt ihr mit meinem Vater übers Meer fahren? Ach, ich wünschte, er würde mich einmal mitnehmen."

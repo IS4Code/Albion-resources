@@ -1,0 +1,167 @@
+﻿leer
+Kein Mitglied der Gruppe ist besonders erpicht darauf, dort hinzufassen.
+Ein großes Sofa.
+Ein großer Schrank.
+Ein Bratrost.
+Ein Bett.
+Eine Feuerstelle.
+Die Bettdecke.
+Iskai-Besteck.
+Ein Teller.
+Ein Behälter.
+Eine Wurst.
+Ein schinkenähnliches Fleischstück.
+Ein Kochlöffel.
+Diverse Kräuter.
+Früchte.
+Eine Fleischspezialität.
+Ein Trinkbecher.
+Eine Schale.
+Ein Gewürz.
+Kleine Gewürzdosen.
+Ein kleiner Becher.
+Ein Küchenmesser.
+Gebäck.
+Einige kleinere Würstchen.
+Dies ist dem Geruch nach ein Fläschchen mit einer Würzflüssigkeit.
+Ein Stofftuch.
+Ein Handtuch.
+Ein Eimer.
+Eine Bratpfanne.
+Ein Topf.
+Innerhalb dieses Kessels befindet sich auf einem Gestänge ein kleiner Topf, in dem Speisen besonders schonend erwärmt werden können.
+Ein Kissen.
+Eine große Bratpfanne.
+Eine Fell-Bürste.
+Eine Wasserrinne.
+Ein Wasserbecken.
+Eine Wassersperre.
+Ein großer Tonkrug.
+Eine Kommode.
+In den Fächern der Kommode liegt allerhand unwichtiges Kleinzeug.
+Eine Kiste.
+Das ist ein ziemlich großer Kessel. Vielleicht dient er zur Lagerung von Vorräten, von Wasser oder Speisen.
+In diesem Wasserbecken steht eine fremdartige Pflanze, die mit ihren pulsierenden Bewegungen Grundwasser aus dem Boden pumpt. Diese Quelle dient ganz offensichtlich der Wasserversorgung.
+Das Wasser in diesem Tümpel riecht schlecht und faulig. Vermutlich sammeln sich hier die Abwässer.
+Wasserpflanzen.
+Bodengewächse.
+Eine exotische Pflanze.
+Schlinggraspflanze.
+Platzhalter für weitere Cutmap-Events.
+Eine Treppe. Sie führt durch den Boden nach unten.
+Diese Treppe geht durch die Decke nach oben.
+Es handelt sich hier offenbar um eine Art Bett. Die Füllung besteht aus Sand, der durch seine groben, aber rundgeschliffenen Körner erstaunlichen Komfort bietet.
+Das enorme Gebilde scheint eine Art Sitzmöbel zu sein. Es wirkt pflanzlich und ist offenbar gewachsen. Die Oberfläche ist weich und elastisch.
+Der Brunnen des Hauses.
+Die Wasserrinnen dienen wohl der Versorgung mit Trinkwasser. Sie durchziehen das Haus wie kleine Bäche.
+Der muffige Geruch und die Löcher in dem Gebilde lassen nur den Schluß zu, daß es hier um eine Toilette handelt. Auch dieses "Möbel" ist pflanzlichen Ursprungs und gedeiht prächtig; sicher eine Folge der regelmäßigen Düngung.
+An diesem Ort finden die wirklich dringenden Geschäfte der Welt statt.
+In dieser Pfanne brutzelt ein süßlich-scharf riechendes Gericht.
+Eine Sitzgelegenheit.
+Ein massiver Holztisch.
+Eine kräftige Blattpflanze.
+Eine Türe.
+Ein Messer.
+Ein Kurzdolch.
+Ein Dolch.
+Ein großer Dolch.
+Ein Kurzschwert.
+Ein Iskai-Messer.
+Ein Iskai-Dolch.
+Ein Iskai-Stilett.
+Ein Iskai-Kurzschwert.
+Ein großes Iskai-Stilett.
+Ein Iskai-Schwert.
+Ein großes Iskai-Schwert.
+Ein Iskai-Langschwert.
+Eine Iskai-Lanze.
+Ein großer Iskai-Dolch.
+Ein Iskai-Kurzstilett.
+Ein großes Iskai-Stilett.
+Ein großes Iskai-Schwert.
+Kleiner Bogen.
+Ein Bogen.
+Ein Pfeil.
+Ein langer Pfeil.
+Ein Lederschild.
+Ein kleiner Iskai-Schild.
+Ein Iskai-Schild.
+Ein großer Iskai-Schild.
+Eine Lederkappe.
+Eine Iskai-Lederkappe.
+Eine Iskai-Metallkappe.
+Ein Iskai-Metallhelm.
+Ein Iskai-Brustschutz.
+Ein Iskai-Metall-Brustschutz.
+Eine leichte Iskairüstung.
+Eine Iskairüstung.
+Eine leere Flasche.
+Ein grüner Heiltrank.
+Ein türkisener Heiltrank.
+Ein blauer Heiltrank.
+Ein roter Trank.
+Ein violetter Trank.
+Ein blauer Trank.
+Ein Schlüssel.
+Ein Seil.
+Eine Fackel.
+Ein Iskai-Notizblock.
+Ein Zettel.
+Ein Iskai-Ringbuch.
+Ein Iskai-Ringblock.
+Ein Schreibstift.
+Ein kurzer Schreibstift.
+Eine Sitzbank.
+Auch dieses Sitzmöbel ist förmlich aus dem Boden gewachsen und stellt eine bequeme Sitzbank dar.
+Ein Holzpfahl. An seinem oberen Ende befindet sich ein Schild.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+{CNTR}The planet: Into the jungle.
+{CNTR}The planet: Forest and waterfall.
+{CNTR}The planet: Through the desert.
+{CNTR}2D: Iskai interior design.
+{CNTR}2D: Iskai inn.
+{CNTR}2D: Dark druids: Gloomy but beautiful.
+{CNTR}2D: The "decadent".
+{CNTR}2D: The descendants of the celts.
+{CNTR}3D: The cursed Dji-Fadh place (organic dungeon).
+{CNTR}3D: Jirinaar, city of the Iskai.
+{CNTR}3D: Halls of the dark druids.
+{CNTR}3D: Mixed pixlers dungeon.
+{CNTR}3D: The little cave.
+{CNTR}3D: On board of the TORONTO.
+{CNTR}{FAHI}{INK 006}Welcome to the incredible ALBION-shortcut-map {NORS}(tm) {FAHI}!{NORS}^^{INK 001}Press F7 to return to this map at any time.
+{CNTR}Beloveno, the port town of the south.

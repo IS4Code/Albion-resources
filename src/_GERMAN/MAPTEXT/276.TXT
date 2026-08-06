@@ -1,0 +1,3 @@
+﻿ 
+Eine Türe.
+Die Türe hat kein Schloß. Sie kann weder von Hand, noch mit einem Schlüssel geöffnet werden.

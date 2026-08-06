@@ -1,0 +1,268 @@
+﻿Messer
+Kurzdolch
+Dolch
+Großer Dolch
+Kurzschwert
+Schwert
+Zweihänder
+Udo,das mag. Schwert
+EGON,das mag.Schwert
+Stich
+Zweistich
+Schweres Kurzschwert
+Verziertes Schwert
+Wurfdolch
+Langschwert
+Kleine Axt
+Axt
+Streitaxt
+Kleine Streitaxt
+Große Streitaxt
+Doppelstreitaxt
+Streitkolben
+Streithammer
+Iskai-Messer
+Iskai-Dolch
+Iskai-Stilett
+Iskai-Kurzschwert
+Großes Iskai-Stilett
+Iskai-Schwert
+Großes Iskai-Schwert
+Iskai-Langschwert
+Iskai-Lanze
+Großer Iskai-Dolch
+Iskai-Kurzstilett
+Großes Iskai-Stilett
+Großes Iskai-Schwert
+Kleiner Bogen
+Bogen
+Langbogen
+Pfeil
+Langer Pfeil
+Mini-Bolzenschleuder
+Bolzenschleuder
+Bolzengewehr
+Bolzen
+Giftbolzen
+Schnellfeuerpistole
+Kleiner Lederschild
+Lederschild
+Rundschild
+Großer Schild
+Gerahmter Schild
+Metallschild
+Kleiner Iskai-Schild
+Iskai-Schild
+Großer Iskai-Schild
+Lederkappe
+Beschlagene Kappe
+Metallhalbschale
+Metallhelm
+Iskai-Lederkappe
+Iskai-Metallkappe
+Iskai-Metallhelm
+Lederweste
+Lederrüstung
+Beschlagenes Leder
+Leichtes Kettenhemd
+Schweres Kettenhemd
+Iskai-Brustschutz
+Iskai-Metallschutz
+Leichte Iskairüstung
+Iskai-Rüstung
+Schuhe
+Stiefel
+Leere Flasche
+Grüner Heiltrank
+Türkisener Heiltrank
+Blauer Heiltrank
+Roter Trank
+Violetter Trank
+Blauer Trank
+Schlüssel
+Schlüssel
+Schlüssel
+Schlüssel
+Schlüssel
+Schlüssel
+Schlüssel
+Schlüssel
+Schlüssel
+Schlüssel
+Seil
+Stab der Schlange
+Stab des Kristalls
+Goldener Halsreif
+Eisring
+Feuerring
+Goldener Ring
+Ring der Göttin
+Buch
+Fackel
+Fackel (brennend)
+Behälter
+Behälter
+Behälter
+Teller
+Kräuter
+Kräuter
+Backwerk
+Gewürz
+Behälter
+Dose
+Behälter
+Behälter
+Behälter
+Küchenmesser
+Behälter
+Flasche
+Flasche
+Buch
+Eßbesteck
+Trinkbecher
+Buch
+Behälter
+Behälter
+Behälter
+Behälter
+Behälter
+Flasche
+Aromatische Wurzel
+Flasche
+Beschädigte Flasche
+Behälter
+Flasche
+Buch
+Kissen
+Teller
+Kochlöffel
+Kräuter
+Früchte
+Kalter Braten
+Flasche
+Flasche
+Eimer
+Tuch
+Handtuch
+Becher
+Fellbürste
+Löffel
+Becher
+Schale
+Gewürz
+Frucht
+Kleine Behälter
+Eßbesteck
+Teller
+Gabel
+Behälter
+Wurst
+Schinken
+Löffel
+Zange
+Feile
+kleine Feile
+Durchstich
+Schraubenzieher
+Hammer
+Kleiner Hammer
+Flacher Hammer
+Spezialhammer
+Zange
+Küchenmesser
+Gebäck
+Früchte
+Kl. Schraubenzieher
+Becher
+Metallsäge
+Feines Werkzeug
+Schraubenschlüssel
+Metallkästchen
+Metallgebilde
+Drahtgebilde
+Metallschale
+Messingkugeln
+Phiole
+Phiolen
+Rote Phiole
+Hammer
+Schere
+Schale
+Schraubenschlüssel
+Feine Schere
+Flasche
+Fläschen
+Schale mit Wasser
+Schale
+Mörser
+Vergrößerungsglas
+Pinzette
+Räucherwürste
+Tonschale
+Tonschale
+Gabel
+Tischmesser
+Teller
+Löffel
+Tonbehälter
+Tonbehälter
+Tonbehälter
+Tonbehälter
+Tonbehälter
+Tonbehälter
+Eßbesteck
+Krug
+Tonschale
+Trinkhorn
+Teller
+Tonkrug
+Kochlöffel
+Tonbehälter
+Tonbehälter
+Tonbehälter
+Tonbehälter
+Tonbehälter
+Eimer
+Kissen
+Schweres Kurzschwert
+Schwerer Dolch
+Metallteller
+Buch
+Ledergebundenes Buch
+Notizblätter
+Schreibfeder
+Buch
+Buch
+Eimer
+Eimer
+Gemüse
+Metallbecher
+Gebäck
+Kochlöffel
+Glasbehälter
+Glasbehälter
+Großer Glastopf
+Teller
+Teller
+Flasche
+Flasche
+Holzdose
+Große Glasdose
+Große Glasvase
+Tonbehälter
+Tonbehälter
+Tonbehälter
+Geflochtener Korb
+Iskai-Notizblock
+Zettel
+Iskai-Ringbuch
+Iskai-Ringblock
+Schreibstift
+Kurzer Schreibstift
+Hebel
+Eimer mit Wasser
+Monsterauge
+Kompass
+Uhr
+Spitzhacke
+Regenbogenstab

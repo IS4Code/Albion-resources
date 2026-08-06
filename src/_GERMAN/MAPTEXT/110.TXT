@@ -1,0 +1,31 @@
+﻿Die Stadt Jirinaar {BLOK000}Ratsgebäude {BLOK001}Stadttor {BLOK002}Haus des Südwind-Clans {BLOK003}Gildenhaus der Dji-Kas {BLOK004}Gildenhaus der Dji-Fadh {BLOK005}Gaststätte "Haus der Winde" {BLOK006}Waffenschmied {BLOK007}Lebensmittel-Laden {BLOK008}Gemischtwaren 
+{CNTR}Auf dem Schild steht:^^ {INK 006}Sitz des Rates von Jirinaar
+{INK 001}Der junge Iskai ist den Anblick von Menschen wohl noch nicht gewöhnt. Er fängt hemmungslos an zu kichern und bekommt kein Wort heraus.
+"Dsarii-ma! Das muß ich meiner Schwester erzählen, das ich Euch getroffen habe! Die wird vielleicht neidisch sein!"
+"Dsarii-ma, Gäste der Stadt. Verhaltet Euch ruhig und freundlich, dann werdet ihr auch keine Schwierigkeiten bekommen."
+"Dsarii-ma. Seid wachsam in der Hafengegend. Dort gibt es so manchen Hitzkopf, der auf Ärger aus ist."
+"Dsarii-ma, Gäste der Stadt. Genießt den Besuch in unserer Stadt!"
+"Dsarii-ma, Besucher! Ich hoffe, Euch gefallen die vielen reizvollen Anblicke, die unsere Stadt zu bieten hat."
+"Habe keine Lust auf eine Unterhaltung mit Euch."
+"Dsarii-ma. Ist die Größe dieser Stadt nicht fantastisch? Ich komme von außerhalb und bin jedesmal überwältigt!"
+"Wir erzählen ihr besser nicht, daß auf der Erde mancher Wohnkomplex mehr Einwohner als ganz Jirinaar hat..."
+"Dsarii-ma. Haltet Euch von Ärger fern, wir Stiriik können nicht überall sein."
+{CNTR}Das Schild verkündet:^^ {INK 006}Wanja, Haus der nützlichen Waren^ Tretet ein von der 8. bis zur 14. Stunde
+{CNTR}Auf dem Schild steht:^^ {INK 006}Snird, Haus der Waffen^ Willkommen von der 10. bis zur 15. Stunde
+{CNTR}Auf dem Schild kann man lesen:^^ {INK 006}Zirr & Viri's Haus der Winde^ Öffentliches Haus
+{CNTR}Die Inschrift besagt:^^ {INK 006}Frinja, Haus des guten Essens^ Von der 7. bis zur 12. Stunde geöffnet
+{CNTR}Auf dem Schild steht:^^ {INK 006} Haus des Clans des Südwindes
+{CNTR}Auf dem Schild ist zu lesen:^^ {INK 006}Gildenhaus der Dji-Kas
+{CNTR}Das Schild besagt:^^ {INK 006}Gildenhaus der Dji-Fadh^ Tore der Gildenmitglieder
+{CNTR}Die Inschrift besagt:^^ {INK 006}Gildenhaus der Dji-Fadh^ Öffentlicher Eingang
+Die Tür ist verriegelt und niemand reagiert auf {LEAD}{NAME}s Klopfen. Das Geschäft hat wohl geschlossen.
+Diese Tür ist verschlossen.
+{LEAD}{NAME} wird von einem der Iskai in Kampfausrüstung, die neben dem Stadttor stehen angesprochen:^^ {INK 002}"Dsarii-ma, Besucher unserer Stadt. Ich muß Euch bitten, die Stadt nicht zu verlassen, bevor ihr mit Sebainah Janiis gesprochen habt.^ Außerdem ist die Wildnis, die Jirinaar umgibt, nicht ungefährlich für Fremde, die nicht mit der Umgebung vertraut sind."
+"Dsarii-ma, Besucher unserer Stadt. Ich muß Euch bitten, die Stadt nicht zu verlassen, bevor ihr mit Sebainah Janiis gesprochen habt.^ Außerdem ist die Wildnis, die Jirinaar umgibt, nicht ungefährlich für Fremde, die nicht mit der Umgebung vertraut sind."
+"Hier befindet sich übrigens das Hauptgebäude der Stiriik, meiner werten Kollegen. Es ist allerdings nur für Stiriik zugänglich, wir müssen auf eine Besichtigung verzichten. Unter uns, allzuviel versäumen wir dabei nicht."
+"Dsarii-ma! Vergeßt nicht, bei Sebainah Janiis vorzusprechen."
+"Dsarii-ma, Besucher unserer Stadt. Ich komme ja gerade rechtzeitig, wie ich sehe, seid ihr von euren Wunden genesen. Ich möchte Euch im Namen der Sebainah, der Ratsvorsitzenden, in Jirinaar willkommen heißen. Die Sebainah läßt Euch zu einem Gespräch mit ihr bitten. Sie ist im Ratsgebäude zu finden, dem Gebäude in der Mitte der Stadt. Es ist umgeben vom Fluß und durch seine Größe nicht zu verfehlen. Die Sebainah ist zu fast jeder Stunde des Tages im Ratsgebäude, Ihr könnt sie jederzeit aufsuchen. Wenn ihr es wünscht, kann ich Euch sofort zu Ihr führen."
+"Wünscht Ihr zur Sebainah geleitet zu werden, oder möchtet ihr zuvor ein wenig die Stadt besichtigen?" {BLOK000}"Ja, bitte zeigt uns den Weg zur Sebainah." {BLOK001}"Nein, wir möchten erst die Stadt sehen."
+"Laßt euch nicht allzu lange Zeit, bis ihr die Sebainah besucht.^ Entschuldigt mich nun bitte."
+"Dsarii-ma. Ich hoffe, Euer Gespräch mit der Sebainah war angenehm."
+Der Iskai macht sich auf den Weg zum Ratsgebäude. Tom und Rainer haben Mühe mit der Geschwindigkeit seiner langen Schritte mitzuhalten, aber bald erreichen sie das Regierungsgebäude der Stadt und treten ein.

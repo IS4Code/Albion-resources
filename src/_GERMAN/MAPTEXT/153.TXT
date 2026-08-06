@@ -1,0 +1,60 @@
+﻿!
+Die Serviceroboter, normalerweise mit ihren rätselhaften Aufgaben beschäftigt, bewegen sich zielstrebig auf {LEAD}{NAME} und die Gefährten zu.
+Bodenplatte leuchtet auf.
+Hier befindet sich eine Bodenplatte mit einer transparenten Leuchtfläche.
+Dicht vor {LEAD}{NAME} befindet sich eine Lasersperre. Der Geruch von  heißem Metall hängt in der Luft. Die Lichtstrahlen sind so kräftig, daß sie den wenigen Staub in der Luft hell aufglühen lassen.
+Ein Schalter.
+Die Stellung des Schalters ändert sich nicht.
+{LEAD}{NAME} und {HIS } Gefährten treten in die Lasersperre. Es ist ein schnelles, gnädiges Ende: Die Strahlen durchschneiden die Körper so schnell, daß die Schmerzen das Gehirn nicht mehr erreichen. Alle sind tot, bevor die Überreste der Körper auf dem Boden aufkommen.
+Der Roboter ist von der Lasersperre völlig zerstört worden.
+Der Wandschrank ist leer, bereit zur Aufnahme von Gegenständen.
+Ein Wandschrank.
+Hier befindet sich eine Wandverkleidung, die mit speziellen Schrauben befestigt ist.
+{LEAD}{NAME} löst die Schrauben. Die Verkleidungsplatte fällt zu Boden und gibt den Blick auf komplizierte Steuer|elektronik frei.
+Ein Serviceroboter.
+Eine Tür. Es ist kein Öffnungsmechanismus zu erkennen.
+Eine Leuchtstoffröhre. Sie strahlt kaltes, weißes Licht ab.
+Ein Stahlträger.
+Die halbtransparenten Wände markieren einen Servicezugang. Die Leiter in der Mitte führt nach oben.
+Eine Zehnertastatur zum eingeben von Zahlencodes.
+Eine Tür mit roten Markierungsleuchten an der Seite. Es ist kein Öffnungsmechanismus zu erkennen.
+Eine Tür mit grünen Markierungsleuchten an der Seite. Es ist kein Öffnungsmechanismus zu erkennen.
+Eine Tür mit blauen Markierungsleuchten an der Seite. Es ist kein Öffnungsmechanismus zu erkennen.
+{LEAD}{NAME} reißt einige der elektronischen Bauelemente heraus. Funken schlagen aus der sabotierten Stelle.
+Ein Serviceroboter. Er scheint deaktiviert zu sein.
+{LEAD}{NAME} reißt einige der Bauelemente aus der Wand. Dabei fährt {HIM } ein elektrischer Schlag durch die Glieder!
+Die Elektronik hier ist gründlich beschädigt.
+Ein Schalter, der auf eine mit Stahlstreben versehenen Plexiglaswand montiert wurde.
+Der Schalter leuchtet kurz auf, aber sonst passiert nichts.
+Sobald {LEAD}{NAME} den Schalter betätigt, verschwindet die Wand blitzschnell in der Decke!
+Eine große Kontrolllampe.
+Eine blinkende Bodenplatte.
+Hinter einer Öffnung in der Wand sind komplizierte elektronische Bauelemente zu erkennen.
+Beim Betätigen des Schalters gehen hinten die Kontrolllampen und Deckenleuchten an.
+Schlagartig erlöschen alle roten Leuchtkörper.
+"Wir haben es hier offenbar mit einer zeitabhängigen Steuerung zu tun!"
+Ein Schalter mit einer Kontrollleuchte daneben.
+"Ha! Das Geräusch ist Musik in meinen Ohren! Wenn jetzt nicht die Tür aufgegangen ist, werde ich sauer. Ich möchte mal wissen, welche Spinner die Systeme hier unten programmiert haben!"
+"Shit. Jede Wette, daß wir es wieder mit einer verdammten Zeitschaltung zu tun haben."
+Die Leuchtplatten erlöschen.
+"Zum Henker! Ich nehme an, daß wir die 4 Schalter in den Korridoren aktivieren müssen, um weiter|zukommen. Das schaffen wir nie in der kurzen Zeit, die Wegstrecke ist zu groß. Dem Typ, der das hier installiert hat, gehören die Finger abgehackt!"
+"Ja! Das wars! Dort hinten sind die Plexiglaswände hochgegangen! Jetzt müßten wir die Zeitschaltung schaffen!"
+"Ich schätze, hier geht es in die Halle, die dem Reaktorkern vorgelagert ist. Mit dieser Codeeingabe haben wir allerdings ein fettes Problem. Schlag mich tot, aber ICH weiß den Code nicht!"
+"Ich schätze, hier geht es in die Halle, die dem Reaktorkern vorgelagert ist. Mit dieser Codeeingabe haben wir allerdings ein Problemchen. Aber warte mal, wir haben doch diese Zettel gefunden! Wenn DIE nicht auf diesen Code hinweisen, soll mich der Blitz beim Scheißen treffen!"
+"Ein Zettel mit ner Nummer drauf, so, so. Du weißt, es ist strengstens verboten, irgendwelche Zugangscodes zu notieren, von wegen Sicherheits|vorschriften und so. Allerdings kenne ich n paar Alzheimer-Kandidaten, die sich beim Anlagenbau ihre Codes trotzdem notiert und in der Anlage deponiert haben. Sie kamen sich zu dämlich dabei vor, zum fünften Mal zur Aufsicht zu rennen und zuzugeben, daß sie ihre Codes schon wieder vergessen haben. Ich schätze, dies hier ist so ein Fall. Der Code scheint allerdings nicht ganz vollständig zu sein, der Zettel wurde zerteilt."
+"Sag mal, mein Alter, was soll das denn werden? Wir sind kurz vor dem Ziel! Warum um alles in der Welt willst Du jetzt wieder umkehren?"
+Es hängen einige Drähte und Bauteile aus diesem Teil der Wand. Anscheinend sind hier Reperatur|arbeiten nicht zu Ende geführt worden.
+Joe wirft einen interessierten Blick auf die Stelle und meint:^^ {INK 002} "Hmm, laß mich mal sehen. Ich könnte das mit ein paar Handgriffen reparieren. Soll ich, Tom?" {BLOK000}"Ja, mach nur." {BLOK001}"Nein, lieber nicht."
+"O.K. Das dauert nicht lange..."
+"So. Das wars. He, das war wohl die Energieversorgung für die Tür daneben. Das Ding ist aufgegangen!"
+"Na ja, wie Du meinst."
+Dies ist die Stelle, die Joe repariert hat.
+Die Steuerung der Lasersperren ist offenbar durcheinander|geraten. Teile der Sperren schalten sich in regelmäßigen Abständen ein und aus.
+Hinten schließt sich zischend die Tür.^ In diesem Raum steht Ned, der humanoide Körper, welcher der AI der TORONTO als Kommunikations|interface zu den Menschen an Bord dient.^ Er kommt langsam näher.
+Dies ist ein Kartenleser. Er dient hier offenbar als Türschloß, ist aber bereits im geöffneten Zustand.
+Ein Kartenleser.
+Eine Codeeingabetastatur. Sie ist bereits offen geschaltet worden.
+An dieser Wand ist eine Reihe verschieden|farbiger Kontroll|leuchten angebracht.
+Aus den Nischen dieses Raumes kommen einige exakt gleich aussehende Gestalten und bewegen sich auf {LEAD}{NAME} und {HIS } Gefährten zu.
+"Die AI-Körper! Ned verfügt also tatsächlich über ein ganzes Arsenal dieser Androiden!"
+"Scharfsinnig beobachtet, Driscoll. Ich bin erstaunt, mit welcher Hartnäckigkeit Sie gegen die Interessen der Firma und des Gemeinwohls vorgehen. Wie Sie sich denken können, bin gezwungen, diesen Akt des Terrorismus mit aller Härte zu vereiteln."^^ {INK 001}Die künstlichen Körper greifen an!

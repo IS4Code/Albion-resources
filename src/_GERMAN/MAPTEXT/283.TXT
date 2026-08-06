@@ -1,0 +1,9 @@
+﻿frei
+Ein großer Steinblock.
+Eine Türe.
+Die Türe ist verschlossen und läßt sich nicht öffnen. Wahrscheinlich befindet sich momentan niemand in dem Gebäude.
+Hier werden die angelieferten Waren kontrolliert.
+Hier ist ein großer Platz mit einem Brunnen, zahlreichen Tischen, Behältern und Fässern. Vermutlich handelt es sich hierbei um eine Art von Marktplatz.
+{INK 006}{CNTR}Rüstungen, Helme und Panzer.
+{INK 006}{CNTR}Wurf-, Hieb- und Stichwaffen.
+{INK 006}{CNTR}Gemischtwaren.

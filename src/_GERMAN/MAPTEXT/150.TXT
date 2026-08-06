@@ -1,0 +1,22 @@
+﻿!
+Beim Betreten der Bodenplatte vor der Tür leuchtet diese auf. Gleichzeitig öffnet sich die TÜr.
+Bodenplatte leuchtet auf.
+Hier befindet sich eine Bodenplatte mit einer transparenten Leuchtfläche.
+Nachdem diese Bodenplatte aufleuchtet, öffnet sich im "Westen" des Raumes die Tür.
+Ein Schalter.
+Die Stellung des Schalters ändert sich beim nochmaligen Drücken nicht mehr.
+Die Tür versucht sich zu schließen, bleibt aber offen. Offenbar hat ein Sensor bemerkt, daß noch jemand in der Tür steht.
+An der "nördlichen" Wand befindet sich ein Wandschrank.
+Der Wandschrank ist leer, bereit zur Aufnahme von Gegenständen.
+Ein Wandschrank.
+Das Geräusch kam von rechts, aus einiger Entfernung.
+Sowie sich die Tür mit den roten Leuchten öffnet, schließt sich hinten diejenige mit der grünen Markierung. Der Rückweg ist versperrt!
+Dies muß einer der Serviceroboter sein, von denen Joe gesprochen hat.
+Eine Tür. Es ist kein Öffnungsmechanismus zu erkennen.
+Eine Leuchtstoffröhre. Sie strahlt kaltes, weißes Licht ab.
+Ein Stahlträger.
+Die halbtransparenten Wände markieren einen Servicezugang. Die Leiter in der Mitte führt nach oben.
+Eine Zehnertastatur zum eingeben von Zahlencodes.
+Eine Tür mit roten Markierungsleuchten an der Seite. Es ist kein Öffnungsmechanismus zu erkennen.
+Eine Tür mit grünen Markierungsleuchten an der Seite. Es ist kein Öffnungsmechanismus zu erkennen.
+Eine Tür mit blauen Markierungsleuchten an der Seite. Es ist kein Öffnungsmechanismus zu erkennen.

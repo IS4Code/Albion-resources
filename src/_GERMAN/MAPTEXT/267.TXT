@@ -1,0 +1,132 @@
+﻿-frei-
+Äste und Wurzeln.
+Ein geflochtener Korb.
+Ein Glasgefäß für Wein und andere Getränke.
+Ein Faß.
+Ein prächtiges Tierfell.
+Ein Eimer.
+Eine Tonschale.
+Ein Trinkhorn.
+Ein Teller.
+Ein Tonkrug.
+Ein Krug.
+Ein Tischmesser.
+Eine Gabel.
+Ein Löffel.
+Ein Tonbehälter.
+Steine.
+Eine Schale.
+Ein Ackergerät.
+Eine Axt.
+Ein Kistendeckel.
+Eine Holzkiste.
+Eine kunstvoll beschlagene Holzkiste.
+Das stille Örtchen.
+Ein Deckel.
+Ein großer Holzbottich.
+Ein großer Metallkessel.
+Ein Regal.
+In diesem Regal ist allerhand unwichtiges Zeug zu sehen.
+Eine Kommode.
+Ein Besen.
+Ein Bratrost.
+Darauf kann man Fleisch braten.
+Eine Feuerstelle.
+Eine umgefallene Karaffe.
+Ein Kochlöffel.
+Ein dekoratives Wandschwert.
+Ein Holztisch.
+Ein Hocker.
+Ein zusammengeklappter Hocker.
+Ein massiver Eßtisch.
+Ein Baumstumpf.
+Zwei gekreuzte Speere.
+Ein großes Faß mit Wasser, Bier oder Wein.
+Ein Zapfhahn.
+Eine Bettdecke.
+Ein komfortables und hübsch verziertes Bett.
+Dieses Bett ist schlicht aber zweck|mäßig.
+Eine Anrichte.
+Ein Kamin.
+Das Kaminfeuer strahlt eine angenehme Wärme ab.
+Ein kunstvoll angefertigter Topf.
+Getrocknete Kräuter.
+Ein menschlicher Schädel.
+Ein Schmuckschild.
+Ein Metalltopf.
+Ein Zierschwert.
+Eine Türe.
+Ein Kessel.
+Ein Messer.
+Ein Kurzdolch.
+Ein Dolch.
+Ein großer Dolch.
+Ein Kurzschwert.
+Ein Schwert.
+Ein Stich.
+Ein Wurfdolch.
+Eine kleine Axt.
+Eine Axt.
+Ein kleiner Bogen.
+Ein Bogen.
+Ein Pfeil.
+Ein kleiner Lederschild.
+Ein Lederschild.
+Ein Rundschild.
+Ein großer Schild.
+Eine Lederkappe.
+Eine beschlagene Kappe.
+Eine Metallhalbschale.
+Eine Lederweste.
+Eine Lederrüstung.
+Ein beschlagenes Leder.
+Ein Paar Schuhe.
+Ein Paar Stiefel.
+Eine leere Flasche.
+Ein grüner Heiltrank.
+Ein türkisener Heiltrank.
+Ein blauer Heiltrank.
+Ein Schlüssel.
+Ein Seil.
+Ein Ring.
+Eine Fackel.
+Ein flacher Hammer.
+Eine Treppe. Sie führt nach oben.
+Eine Treppe. Sie führt nach unten.
+Eine Theke.
+Eine teppichartige Matte.
+Eine Zimmerpflanze.
+Ein Blumentopf.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+{INK 006}{CNTR}Brodds Nahrungsmittel^Geöffnet von^8-20 Uhr.
+Das ist der Ausgang.
+Ich muß für meine Mutti einkaufen.
+Manchmal bekomme ich etwas zum Naschen geschenkt. Ich muß nur lange genug dableiben.
+Na Reisende, seid Ihr hungrig? Das Fleisch hier ist außergewöhnlich gut. Probiert es mal.
+Ich sterbe vor Hunger. Ihr habt doch nichts dagegen, wenn ich vor Euch einkaufe?

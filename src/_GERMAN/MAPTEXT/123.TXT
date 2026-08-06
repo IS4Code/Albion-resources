@@ -1,0 +1,6 @@
+﻿!
+Ein großes Tongefäß. Es befindet sich nichts von besonderem Wert darin.
+Ein Faß. Es enthält nichts interessantes.
+Eine Ansammlung von altem Gerümpel. {LEAD}{NAME} stöbert ein wenig darin herum, kann aber nichts von Wert entdecken.
+Dieser Metallhaufen stammt offensichtlich von den Überresten des Shuttles. Es gelingt {LEAD}{NAME} allerdings nicht, darin noch etwas funktionstüchtiges zu entdecken.
+Eine Vorratskiste. Sie enthält nichts, was das Mitnehmen lohnen würde.

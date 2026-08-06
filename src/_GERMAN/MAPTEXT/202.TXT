@@ -1,0 +1,59 @@
+﻿-frei-
+Gräser.
+Steine.
+Niedrige Bodengewächse.
+Kleine Äste und Wurzeln.
+Schilfgräser.
+Ein kleiner Obstbaum.
+Ein Kugelbaum.
+Ein Laubbaum.
+Eine Stromschnelle.
+Ein Wasserstrudel.
+Eine Wasserpflanze.
+Das Wasser ist sehr tief und die Strömung scheint stark zu sein.
+Wasserpflanzentriebe.
+Eine blühende Pflanze.
+Ein Schirmbaum.
+Diese Pflanze leuchtet in faszinierenden Farbtönen.
+Gemüse.
+Ein Felsblock.
+An dieser Stelle ist das Wasser sehr flach und klar, so daß man auf den Grund schauen kann. Zahlreiche Steinbrocken liegen dort und es gibt fast keine Strömung.
+Ein Obstbaum.
+Ein Zaun.
+Eine Stengelpflanze.
+Eine Schlinggraspflanze.
+Ein Busch.
+Eine großblättrige Pflanze.
+Ein Wasserfall.
+Ein Felsvorsprung.
+Eine Pflanze, die auf den Felsen wächst.
+Diese Schlingpflanze hat sich mit Tausenden von Wurzeln in der unregelmäßigen Felsstruktur verankert. Sie macht einen sehr stabilen Eindruck und durch ihre mannigfaltige Verästelungen bietet sie zahlreiche Möglichkeiten, an denen man sich festhalten kann.
+Eine Holzbrücke.
+Getreidefelder.
+Pilze.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+ 
+{CNTR}Auf dem Schild ist zu lesen:^^ {INK 006}Haus von Aretha, Königin von Aballon
+{CNTR}Hier steht:^^ {INK 006}Die Früchte Aballons
+{CNTR}Auf dem verwitterten Schild ist gerade noch zu erkennen:^^ {INK 006}Kaufe und verkaufe viele Dinge
+{CNTR}"Oink?"
+{CNTR}"Rriik?"
+"Togi Din, junges Volk! Ja, jung und auf Reisen wäre ich auch gern noch einmal!"
+"Herumtreiber! Habt ihr nichts besseres zu tun, als mich von der Arbeit abzuhalten?"
+"Togi Din, Reisende. Schaut doch einmal in Bennos Laden herein, die Ernte war so gut, daß er die Preise gesenkt hat!"
+"Togi Din, große Leute! Meine Mutter sagt, ich soll nicht mit Fremden sprechen. Ich tus aber doch!"
