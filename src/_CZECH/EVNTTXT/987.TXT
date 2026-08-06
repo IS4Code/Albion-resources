@@ -1,0 +1,12 @@
+﻿!
+"Co se děje, starý muži? Musíme si pospíšit abychom nebyli odhaleni!"{BLOK010}"Joe, ještě jednou ti děkuji že si mi pomohl ."{BLOK011}"Máš pravdu, promluvíme si později."
+"Hey, víš přece že nerozeznáš kdy se červenám. Každopádně, věřím ti víc než Společnosti. Samozřejmě, pokud se ukáže že blábolíš nesmysly, rád tě rozcupuji na kousíčky."
+"Nech těch chvalozpěvů nebo opravdu uvěřím, že jsem správnej chlapík. Teď pojďme najít cestu k ovládání reaktoru."
+"Co je děje, starý muži?"{BLOK010}"Jsi si jistý, že se chceš zúčastnit útoku na Toronto?"{BLOK011}"řekni mi ještě jednou o tom dokumentu, co jsi připravil."{BLOK012}"Pojďme."
+"Opravdu na to nechci myslet. Jistě se raději schovám za vašimi zády až budou kulky svištět kolem našich uší, ale každopádně se mnou máte větší šanci dostat se přes servisní palubu k reaktoru."
+"No, nejdříve jsem udělal několik obrázků okolí, domu a několika lidí. Potom mě Frill vzal do velkého Iskaiského města. člověče, to byla podívaná! ^ ^ Myslím, že lidé na Torontu... jejich oči vyskáčou z důlků až to všechno uvidí. Měli bychom nahrát můj dokument do patřičné data konzole jakmile budeme na palubě. Vzniklého zmatku bychom mohli využít ve vlastní prospěch." 
+"OK. Jdeme."
+"Dobrá, když si myslíš, že se obejdeš beze mne... ^ ^ Co budu dělat? Rozhodně si nebudu hrát na uraženého odstrčeného synka. Pokud si své rozhodnutí rozmyslíš, najdeš mě v domě Osvícených. Na viděnou."
+{BLOK003} "Byl bych rád, kdybys nás na chvíli opustil, Joe."
+"Co je, starý muži?"{BLOK010}"Máš nějaké tipy?"{BLOK011}"Jdeme."
+"Na servisní palubě bychom se měli poohlédnout po panelech za kterými je ukryto ovládání dveří. Možná bychom tak mohli odemknout několik nepříjemných zámků. řeknu vám, když se ocitneme poblíž něčeho zajímavého."

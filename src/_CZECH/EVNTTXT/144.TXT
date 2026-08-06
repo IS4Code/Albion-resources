@@ -1,0 +1,6 @@
+﻿{BLOK000}"Tento veřejný dům patří mě a mé ženě."
+"Dsarii-ma! Vítejte v Domě Větru! Co pro vás mohu udělat?"{BLOK010}"Dsarii-ma. Hledáme místo, kde bychom mohli přenocovat."{BLOK011}"Dsarii-ma! Něco dobrého k jídlu, prosím."
+"Dům Větru je otevřen ve dne v noci. Vždy zde můžete dostat pokoj. Také se vyznáme v dobrém jídle a chutných nápojích."
+"Ano, máme spoustu různých druhů, vařených z různých druhů ovoce, silné i méně silné. Naše zoomi jsou obzvlášť slavné. Zde, zkuste jeden na účet podniku!"{INK 001} ^ ^ {INK 001}Zirr dává {LEAD}{NAME} malou skleničku se zelenou, duhovou tekutinou. {INK 002}{BLOK010}"Vyvolal jste u mne zvědavost, Zirre. Na vaše zdraví!"{BLOK011}"Velice vám děkuji, Zirre, ale potřebuji dnes čistou hlavu."
+{INK 001}{LEAD}{NAME} polkl zoomi. Výbuch chuti {HIS } okamžitě vyrazil dech! {HE  } vyhrkl: ^ ^ {INK 002}"WHOA!"{INK 001} ^ ^ Náhle všechno kolem před {LEAD}{NAME} očima plavalo...
+"Nevíte o co přicházíte, {LEAD}{NAME}!"

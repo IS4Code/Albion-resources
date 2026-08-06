@@ -1,0 +1,126 @@
+﻿-free-
+Větve a kořeny.
+Koš.
+Skleněná nádoba na vodu a další nápoje.
+Barel..
+Nádherná zvířecí kožešina.
+Košík.
+Keramický poár.
+Láhev.
+Talíř.
+Keramická konvice.
+Konvice.
+Stolní nůž.
+Vidlička.
+Lžíce.
+Keramická skříň.
+šutry.
+Pohár.
+Farmářské náčiní.
+Sekyrka.
+Víko truhly.
+Dřevěná truhla.
+štědře dekorovaná dřevěná truhla.
+Opočívací místnost.
+Víko.
+Velký dřevěný džber.
+Velký ocelový kotlík
+Kredenc.
+Na polici jsou všechny druhy různých věcí.
+Sekretář.
+Koště.
+Gril..
+Můžete na tom grilovat maso.
+Ohniště.
+Karafa.
+Sběračka.
+Dekorativní nástěný meč.
+Dřevěný stůl.
+Stolice.
+Stolička.
+Masivní stůl na večeři.
+Kořen.
+Dvě zkřížená kopí.
+Velký barel napuštěný podivnými látkami.
+Pípa.
+Přikrývka.
+Komfortní a velmi pěkně dekorovaná postel.
+Tato postel je rovná, ale praktická.
+Kuchyňský stůl.
+Ohniště.
+Z ohniště sálá příjemné teplo.
+Dekorativní hrneček.
+Sušené rostliny.
+Lidská lebka.
+Dekorativní štít.
+Ocelový hrnec.
+Dekorativní meč.
+Dveře.
+Kotlík.
+Nůž.
+Krátká díka.
+Dýka.
+Velká dýka.
+Krátký meč.
+Meč.
+Stileto.
+Házecí dýka.
+Malá sekera.
+Sekyrka.
+Malý luk.
+Luk.
+šíp.
+Malý kožený štít.
+Kožený štít.
+Kulatý štít.
+Velký štít.
+Kožená čapka.
+čepice s reliéfem.
+Kovový půl pohár.
+Kožená vesta.
+Kožené brnění.
+Vesta s reliéfem.
+Pár střevíců.
+Pár vysokých bot.
+Prázdná láhev.
+Zelená léčivý lektvar.
+Léčivý lektvar.
+Modrý léčivý lektvar.
+Klíč.
+Provaz.
+Prsten.
+Louč.
+Kladivo.
+Schody. Vedou nahoru.
+Schody. Vedou dolů.
+Přepážka.
+Rohožka.
+Domácí rostlina.
+Květináč.
+A fire container.
+Police plné knih.
+Knihy.
+Knihy.
+Otevřené knihy.
+Fontána plná čisté vody. 
+{LEAD}{NAME} naplnil kýbl vodou.
+Mechanický přepínač.
+Přepínač se zasekl. Nedá se přepnout.
+Páka.
+Misky s ohněm. Vydávají teplo a světlo.
+{LEAD}{NAME} vběhl do plamenů a popálil se!
+{LEAD}{NAME} vyprázdnil kbelík vody na plameny a uhasil je!
+Kamenný kámen se zvrásněným povrchem.
+Další mísa ohně je uhašena.
+Tato cesta je zahrazena ostrými meči které vedou ze stropu.
+Malé mosazné dutiny v zemi.
+Přerušený plát.
+Vadný spínač.
+Uhasená nádoba s ohněm.
+{LEAD}{NAME} vložil do vadného přepínače páku. Vypada, že už je zase funkční!
+žlutý plát. Vypadá, že se zasune, když na něj někdo stoupne.
+Nic se nestalo. Přepínač je patrně nefunkční.
+Nic se nestalo.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.

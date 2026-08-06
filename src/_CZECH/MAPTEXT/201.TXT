@@ -1,0 +1,92 @@
+﻿-free-
+Tráva.
+Skály.
+Přízemní rostlinky.
+Větévky a kořínky.
+Ostřice.
+Ovocný stromek.
+Strom s kulatou korunou.
+Strom s čepelovitými listy.
+Peřeje.
+Vír.
+Vodní rostlina.
+Voda tu je hluboká a proud silný.
+Výhonky vodní rostliny.
+Kvetoucí květena.
+Stínový strom.
+Tyto rostliny hrají nádhernými odstíny barev.
+Zelenina.
+Balvan.
+V těchto místech je voda klidná a je vidět až na dno. Není tu téměř žádný proud a ze dna ti na odiv vystavují oblázky svá oblá nahá těla.
+Ovocný strom.
+Plot.
+Stéblovitá rostlina.
+Popínavá plazivka.
+Keř.
+Rostlina s velkými listy (patrně druh listovníku).
+Vodopád.
+Skalní římsa.
+Rostlina rostoucí na římse.
+Toto popínavá rostlina uchytila své hadovitě rozvětvené tělo na nepravidelném skalním povrchu tisíci svými výhonky. Jeví se býti velmi bytelnou, pročež velice příhodnou pro šplhací aktivity všeho druhu (směrem vzhůru).
+Dřevěný mostík.
+Obilná pole.
+Houby.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+ 
+{CNTR} "Oink?"
+{CNTR} "Kvíík?"
+-An extended dialog screen will appear here-
+"Togi Din, poutníci. Navštivte mého strýce, dělá do zbraní. Je to nejlepší kovář v Gratogelu. Vlastní největší dům na jihovýchod od vesnice."
+"Nechte mě jít, cizinci. Mám něco na práci."
+"Togi Din! Cha, jeho výška ve spojení s jeho srstí působí pěkně směšně!"
+"La, laa-la!"
+"Togi Din! Vítej do Vanella!"
+{CNTR} Emblém hlásá: ^ ^ {INK 006} Dům Oibelosův, kmenový náčelník Vanella.
+{CNTR} Emblém hlásá: ^ ^ {INK 006} Tamno, kovář a zbrojíř v Umaju.
+{CNTR} Zde stojí: ^ ^ {INK 006} Gradia, nářadí a další užitečné předměty.
+{CNTR} Velkými písmeny tu stojí: ^ ^ {INK 006} Tharnos, král Kloutský.
+{CNTR} Emblém hlásá: ^ ^ {INK 006} Bragona, jídlo a proviant.
+{CNTR} Emblém hlásá: ^ ^ {INK 006} Dům Arethin, královny Aballonu.
+{CNTR} Zde stojí: ^ ^ {INK 006} Ovoce Aballonu.
+{CNTR} Ze zašlého štítu se dá tak tak rozeznat: ^ ^ {INK 006} Nakupuji a prodávám mnohé užitečné věci.
+{CNTR} Okrasným písmen tu stojí: ^ ^ {INK 006} Arjano, opatrovník vědomostí, školy a představený druidů Albionu.
+"Tahle malá chajda je centrem všech vědomostí? To se mi ani trochu nezdá!"
+Zamčené dveře hájí čest této, ehm, chatrče.
+"Togi Din! Cizinci z dalekých zemí k nám opět zavítali!"
+"Togi Din, poutníci. Není dneska nádherný den?"
+"Togi Din. Omluvte mě, ale zrovna mi není do řeči. Můj muž nedávno utonul a já..." ^ ^ {INK 001} Z očí jí vytryskly slzy a vydaly se na svou smutnou pouť po jejích tvářích.
+{INK 001} Okolo pobíhající děvčátko vesele na všechny strany pokřikuje: ^ ^ {INK 002} "Togi Din! Udělejte místo pro veleslavného hrdinu! Jeáá!"
+"Togi Din! Chcete se vydat přes moře s mým otcem? Ach, přála bych si, aby mě vzal taky jednou s sebou."
+Konečně pocítil Tom a jeho společníci opět pevnou půdu pod nohama. ^ ^ Rozloučili se s posádkou a začali pátrat po okolí...
+"Tome, podívej se na tohle! Nejsem moc zběhlí v historii, ale tyhle chatrče vypadají jako keltská obydlí! ^ ^ Nejenže jsou na této planetě lidé, ale zřejmě jsou dokonce potomky Keltů! To je prostě naprosto nemožné!"
+"Stejně nemožné jako divy, které jsme mohli pozorovat u rasy Iskai? Magie? ^ ^ Nedívej se na mě takhle, někdo to musel říct! Tahle planeta očividně nežije podle zákonů, které platí na té naší a vůbec to nevypadá, že by se za své zákonitosti měla stydět. ^ ^ No tak, podívejme se na to trochu víc pragmaticky. Teď když jsme objevili Toronto, máme dost času a prostředků na to, abychom přišli všem záhadám tohoto světa na kloub."
+"Možná že máš pravdu. Nadešel patrně čas, abych si trochu rozšířil přírodovědné obzory. Nemůžu odolat pokušení naučit se něčemu novému. ^ ^ Návrh pragmatismu: Podle mě bysme si měli promluvit s náčelníkem vesnice. On bude snad vědět, jestli se tu v okolí povaluje něco stejně rozměrného jako Toronto. Jestli tito lidé mají něco společného s Kelty, musejí mít svého kmenového náčelníka, nebo někoho takového."
+"A kdyby tady neslyšeli nic o té tvé vesmírné bárce, můžeme se pokusit dostat na Maini, největší kontinent na východ odtud."
+"A hele! úplně normální pozemský prase!"
+"Když se sem lidem už podařilo nějak dostat, předpokládám, že to, že si s sebou vzali nějaké domácí zvířectvo, už nikoho nemůže překvapit."
+Kaňon skrz vysokou plošinu se otevřel před {LEAD}{NAME} a {HIS } přáteli. Vítr fičí úzkým a uzavřeným koridorem jako pára z konvice.
+Tom a jeho společníci se nalodí na loď ( :) ) a vydají se na cestu do Belovena, slavného přístavního města.
+Drirr opět využila volného času a naučila každého jazyku Maini. ^ ^ čas ubíhal, až se konečně na horizontu vyloupla pevnina Maini. ^ ^ Před družinou se rozprostřela nádherná země Maini s přístavním městem Beloveno.
+Garris zkušeně dovedl loď až k přístavnímu molu a rozloučil se svými pasažéry.
+"Tak, to bychom měli. Pojďme se teď podívat do města."
+Z čista jasna z úkrytu vyskočilo několik otrhaných darebáků. ^ ^ A zaútočili!
+Malý živočich s pevným krunýřem si může dovolit ignorovat své okolí. A taky to dělá.
+Velký, hmyzu podobný živočich. Nevšímá si {LEAD}{NAME} ani nikoho jiného.
+Keř se zralými plody, které se matně třpytí.
+Očesaný keřík.
+Tohle je dub ze Země! No jasan!

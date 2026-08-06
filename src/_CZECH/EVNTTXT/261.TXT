@@ -1,0 +1,3 @@
+﻿{BLOK000} "Stavím domy z rostlin. Jsem si jisty, že jste jich tady kolem viděli hondě."
+"Dobře, ale nepokračujete na své cestě?"
+"Ano?"

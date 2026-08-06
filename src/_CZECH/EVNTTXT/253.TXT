@@ -1,0 +1,8 @@
+﻿"{BLOK000} "To je má funkce, vést a řídit Rada Spravedlnosti."
+"Skeima Din. Jsem rád, že jste tady. Kéž by to bylo za lepších okolností: Zdá se, že vypukne válka mezi lidmi a Iskaii Srimalinarovy svatyně. Já tam také půjdu. možná bych je mohl uklidnit a všechno urovnat." {WORDKontos}{WORDwar}{WORDshrine}
+"Většina Iskaiu věří, že lidé stojí jednotně za Kontosem, ale to není pravda."
+"Pokud se nám nepodaří zastavit Kontose, tak vypukne válka. Nevím co tím chce Kontos dokázat, ale určitě má něco za lubem. Jestli máte nějaké důkazy proti Kontosovi, pak jděte a použijte je."
+"Ted´ se tam Iskaisti a lidští válečníci shromáždili. Jestli máte nějaké důkazy proti Kontosovi, pak jděte a použijte je."
+"Nemyslím, že už je tady uvidíme."
+"Radnice je nejkrasnější stavba v Belovenu. Měli byste se tu trochu porozhlédnout. Nikdo vás nebude zastavovat."
+"To jsem já."

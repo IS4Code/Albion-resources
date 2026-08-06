@@ -1,0 +1,8 @@
+﻿{BLOK000} "Prodávám zbraně a brnění. Můžete si být jistí, že dostanete perfektní radu od zkušeného lovce . Také bych mohl koupit něco zajímavého, co máte sebou." {WORDhuntsman}
+{WORDoffer}"Skeima din, ^ ^ zde najdete vše potřebujete na svou ochranu. Nebo máte zájem o něco speciálního?" {WORDdefend} {BLOK010} "Mohli bychom si prohlédnout zbraně a brnění?"{BLOK011} "Rádi bychom si něco koupili."{WORDsmithy}
+"Dobrá, nebezpečí číhá všude, nebo ne? Zvlášť na lidí co mají nějaké cenné předměty. Vypadáte, že umíte zacházet se zbraněmi. Měli byste tu raději porozhlédnout. Budete mile překvapeni, co já vím, tak žádný obchod neprodává věcí takové kvality."
+"Musím připustit, že už je to dlouho. Přesto, mám mnoho zkušeností se zbraněmi všeho druhu."
+"Kovář je blízko. Nebojte se ho navštívit: umí opravit vaše zbraně a když budete chtít, tak se na něho můžete dívat."
+"Oh, máme široký sortiment zboží, hromadu zbraní a munice. Pokud se nepletu, tak máte na prodej pár magických zbraní." {WORDmagic weapons}
+"Tohle jsou skutečné rarity. Nevěřím tomu, že byste mohli takového někde jinde a za tak příjemnou cenu."
+"Ne díky, nepřijímám dary."

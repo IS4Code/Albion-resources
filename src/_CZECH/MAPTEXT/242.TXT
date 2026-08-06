@@ -1,0 +1,10 @@
+﻿free
+Tyto kamenné sloupy blokují část jeskyně. Vypadají narušeně. Mezi sloupy je vidět chodba vedoucí do dáli.
+Bohužel, kopy a údery pěstí nemůžou pokořit tyto masivní sloupy. {LEAD}{NAME} ruce si teď vybírají svou daň. Začaly palčivě bolet!
+Tento sloup je pravděpodobně příliš pevný. Těžko se ho podaří zničit i za pomoci vhodných nástrojů a maximální vynaložené síly.
+Tento předmět kamenný sloup nijak neovlivnil.
+"No nazdar! ^ ^ Myslím, že by se nám odsud podařilo vyplazit, kdybysme se dokázali patřičně smrsknout!"
+Kamenný sloup spadl na zem. Pořád je tu však velký výstupek a stalaktitům podobný útvar visí od stropu. Všechno pokrylo kamení a písek. Nicméně se průchod mírně rozšířil. Možná byste si mohli prorazit cestu vpřed.
+Truhla.
+Truhla není zamčena. Kdo ji tu mohl nechat?
+Dveře vedou ke skalní bráně.

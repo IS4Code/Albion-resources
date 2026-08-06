@@ -1,0 +1,134 @@
+﻿-free-
+Větve a kořeny.
+Koš.
+Skleněná nádoba na vodu a další nápoje.
+Barel..
+Nádherná zvířecí kožešina.
+Košík.
+Keramický poár.
+Láhev.
+Talíř.
+Keramická konvice.
+Konvice.
+Stolní nůž.
+Vidlička.
+Lžíce.
+Keramická skříň.
+šutry.
+Pohár.
+Farmářské náčiní.
+Sekyrka.
+Víko truhly.
+Dřevěná truhla.
+štědře dekorovaná dřevěná truhla.
+Odpočívací místnost.
+Víko.
+Velký dřevěný džber.
+Velký ocelový kotlík
+Kredenc.
+Na polici jsou všechny druhy různých věcí.
+Sekretář.
+Koště.
+Gril..
+Můžete na tom grilovat maso.
+Ohniště.
+Karafa.
+Sběračka.
+Dekorativní nástěný meč.
+Dřevěný stůl.
+Stolice.
+Stolička.
+Masivní stůl na večeři.
+Kořen.
+Dvě zkřížená kopí.
+Velký barel napuštěný podivnými látkami.
+Pípa.
+Přikrývka.
+Komfortní a velmi pěkně dekorovaná postel.
+Tato postel je rovná, ale praktická.
+Kuchyňský stůl.
+Ohniště.
+Z ohniště sálá příjemné teplo.
+Dekorativní hrneček.
+Sušené rostliny.
+Lidská lebka.
+Dekorativní štít.
+Ocelový hrnec.
+Dekorativní meč.
+Dveře.
+Kotlík.
+Nůž.
+Krátká díka.
+Dýka.
+Velká dýka.
+Krátký meč.
+Meč.
+Stileto.
+Házecí dýka.
+Malá sekera.
+Sekyrka.
+Malý luk.
+Luk.
+šíp.
+Malý kožený štít.
+Kožený štít.
+Kulatý štít.
+Velký štít.
+Kožená čapka.
+čepice s reliéfem.
+Kovový půl pohár.
+Kožená vesta.
+Kožené brnění.
+Vesta s reliéfem.
+Pár střevíců.
+Pár vysokých bot.
+Prázdná láhev.
+Zelená léčivý lektvar.
+Léčivý lektvar.
+Modrý léčivý lektvar.
+Klíč.
+Provaz.
+Prsten.
+Louč.
+Kladivo.
+Schody. Vedou nahoru.
+Schody. Vedou dolů.
+Přepážka.
+Rohožka.
+Domácí rostlina.
+Květináč.
+A fire container.
+Police plné knih.
+Knihy.
+Knihy.
+Otevřené knihy.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+-coming soon: long dialog-
+"Togi Din. Já jsem Bera varoval před sestupem dolů do Drinno. Hlupák!"
+"Togi Din. Proč nenavštívíte Strážce lesa, na sever od vstupu do chýše...... ^ ^ On vás jistě velmi rád uvidí. Sám to nepřizná, ale občas se zde cítí poněkud osamělý. NAprosto nadšen je pak když ho navštíví nějaký muzikant, neboť je vášnivým znalcem hudby."
+"Togi Din. Může být Bero stále naživu? Hmm, je zodpovědný za všechny své činy stejně, jako každý z nás."
+"Togi Din! Na světě jsou stále hrdinové.Tohle je toho dobrý příklad."
+"Togi Din, Togi Din. MUsím o něčem přemýšlet, omluvte mne."
+Osoba zamýšlející mluvit s {INK 001}{LEAD}{NAME} se koncentruje na jeho nepochopitelné hatlaniny. Neodpovídá. Podivné...hmm.podivné.
+{INK 001} Mellthas připomněl, skrz jeho gesta a notýsek, že toto je vstup do zapomenuté části Arjana. Dveře do pekla jsou však otevřené.

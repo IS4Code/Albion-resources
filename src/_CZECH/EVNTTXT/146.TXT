@@ -1,0 +1,8 @@
+﻿{BLOK000}"Mým řemeslem je výroba zbraní."{WORDtrade}
+"Dsarii-ma. Vítejte do Domu Zbraní."{BLOK010}"Dsarii-ma. Ukažte nám, prosím, vaši nabídku."{BLOK011}"Dsarii-ma. Potřebovali bychom něco opravit."
+"Jsem vášnivý kovář zbraní. Rád dělám věci vlastníma rukama, zejména když pracuji s něčím tak hodnotným, jako je kov."{WORDmetal}
+"To je zvláštní, že kov je tak vzácný na planetě tak bohaté na suroviny."
+"Jak jsem říkal, jsem vášnivý kovář zbraní."
+"Ano, bezvýznamné kousky Bohyně jsou přeměněny v zářící poklady rukama odborníka! Naneštěstí, kov se velmi zřídka nachází na povrchu a kopání v zemi by znamenalo podrobení se hněvu Bohyně. To je důvod, proč kov z nebes má zvláštní moc." {WORDGoddess}{WORDheavenly metal}
+"úchvatný materiál, to ano."
+"Když kousky kovu padají z nebes a neshořely ve vzduchu před tím, než zasáhly zemi, často obsahují velmi mocné kovy. Dji-Kas může z těchto předmětů vykovat předměty zvláštní síly."

@@ -1,0 +1,182 @@
+﻿empty
+žadný člen skupiny sem rozhodně nehodlá vložit ruku.
+Velká pohovka.
+Velká skříň.
+Gril.
+Postel
+Krb.
+Peřina.
+Iskaiské nože.
+Talíř.
+Nádoba.
+Klobása.
+Něco podobné šunce.
+Sběračka
+Různé bylinky.
+Ovoce.
+Fajnové masíčko.
+Pohár na pití.
+Mísa.
+Koření.
+Kořenky.
+Pohárek.
+Kuchyňský nůž.
+Oplatky.
+Klobáska.
+Tahle láhev obsahuje vonící tekutinu.
+Oblek.
+Ručník.
+Vědro.
+Pekáč.
+Hrnec.
+Uvnitř ohniště je malý hrnec, ve kterém se dá připravovat pomalu jídlo.
+Polštář.
+Velká pánev na pečení.
+Kožený kartáč.
+Vodní proud.
+Umyvadlo.
+Vodní bariéra.
+Velký keramický džbánek.
+Sekretář.
+V šuplíkách tohoto stolu leží různé nedůležité věci.
+Komoda.
+Tohle je docela velká konvice. Mohou v ní být zásoby, voda nebo jídlo.
+Ve vodní nádrži je divná rostlina, která svými silnými pulzující pohyby čerpá vodu ze země.Tato fontána zřejmě slouží jako zásobárna vody.
+Voda v nádrži páchne jako zkažená. Tady se pravděpodobně sbírá odpad. 
+Vodní rostliny.
+Byliny.
+Exotická rostlina.
+Popínavé rostliny.
+Places for further Cutmap events.
+Schodiště. Vede dolů skrz podlahu.
+Schodiště vede nahoru skrz podlahu.
+Tohle je zřejmě nějaká postel. Je vyplněná pískem, což nabízí neuvěřitelné pohodlí díky jeho hrubým ale kulatým zrnkům.
+Obrovský tvar připomíná sedací nábytek. Chová se jako rostlina. Nepochybně vyrostla. Povrch je měkký a elastický.
+Fontána domu.
+Vodní kanály pravděpodobně slouží jako přívod pitné vody. Vedou domem jako malé potůčky.
+Zatuchlý zápach a díry v předmětu vedou k závěru, že se jedná o toaletu. Tento  "nábytek" je také vytvořen z rostlin, mohutně roste díky pravidelnému hnojení.
+Tady se odehrávají nejnaléhavější aktivity života.
+Na této pánvi se vaří sladkokysele vonící jídlo.
+Sedadlo.
+Masivní dřevěný stůl.
+Rostlina s velkými listy.
+Dveře.
+Nůž.
+Krátká dýka.
+Dýka.
+Dlouhá dýka.
+Krátký meč.
+Iskaiský nůž.
+Iskaiská dýka.
+Iskaiské stileto.
+Iskaiský krátký meč.
+Dlouhé Iskaiské stileto.
+Iskaiský meč.
+Velký Iskaiský meč.
+Dlouhý Iskaiský meč.
+Iskaiské kopí.
+Velká Iskaiská dýka.
+Krátké Iskaiské stileto.
+Velké Iskaiské stileto.
+Dlouhý Iskaiský meč.
+Malý luk.
+Luk.
+šíp.
+Dlouhý šíp.
+Kožený štít.
+Malý Iskaiský štít.
+Iskaiský štít.
+Velký Iskaiský štít.
+Kožená čepice.
+Iskaiská kožená čepice.
+Iskaiská kovová čepice.
+Iskaiská kovová helma.
+Iskaiský chránič hrudi.
+Iskaiský kovový chránič hrudi.
+Lehké Iskaiské brnění.
+Iskaiské brnění.
+Prázdná láhev.
+Zelená léčebná dávka.
+Tyrkysová léčebná dávka.
+Modrá léčebná dávka.
+červený nápoj.
+Fialový nápoj.
+Modrý nápoj.
+Klíč.
+Lano.
+Baterka.
+Iskaiský poznámkový blok.
+List papíru.
+An Iskai ring book.
+An Iskai ring pad.
+Tužka.
+Krátká tužka.
+Lavička.
+Tohle sedadlo doslova vyrůstá ze země a je docela pohodlné.
+Dřevěná tyč. Na vrcholu je nějaké znamení.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+{CNTR}The planet: Into the jungle.
+{CNTR}The planet: Forest and waterfall.
+{CNTR}The planet: Through the desert.
+{CNTR}2D: Iskai interior design.
+{CNTR}2D: Iskai inn.
+{CNTR}2D: Dark druids: Gloomy but beautiful.
+{CNTR}2D: The "decadent".
+{CNTR}2D: The descendants of the Celts.
+{CNTR}3D: The cursed Dji-Fadh place (organic dungeon).
+{CNTR}3D: Jirinaar, city of the Iskai.
+{CNTR}3D: Halls of the dark druids.
+{CNTR}3D: Mixed Pixlers dungeon.
+{CNTR}3D: The little cave.
+{CNTR}3D: On board of the Toronto.
+{CNTR}{FAHI}{INK 006}Welcome to the incredible ALBION-shortcut-map {NORS}(TM) {FAHI}!{NORS} ^ ^ {INK 001}Press Alt-F7 to return to this map at any time.
+{CNTR}Beloveno, the port town of the south.
+{CNTR}{INK 001}Welcome to a work-in-progress - version of ^ {HIGH}ALBION{NORS}. ^ {JUST} Please keep in mind that this version is BY NO MEANS REPRESENTATIVE OF THE GAMEPLAY of the finished product! There are still some essential parts of the program missing. Please refer to the printed manual which is enclosed with this CD. ^ ^ Currently you are in a demo-map, which gives you access to different areas of ALBION. Press Alt-F7 to return to this map. Just go through the doors to take a look at the exceptionally wide range of in-game-graphics. Except for the user-interface, all texts are still in German, sorry. ^ ^ How to play: Simply put, if you want to move, use the left mouse-button, if you want to do or to cancel something, press (or hold down) the right mouse-button. That's it, have fun poking around. ^ ^ PLEASE TAKE A LOOK AT THE MANUAL!
+REMARK: It's possible to do some simple puzzle-solving in the next 3D-scenario. Your goal is simply to reach the exit of this level, a ladder similar to the one where you've been entering the map. If you find a keyboard on the wall, the correct code is 1042.
+REMARK: The next 2D-scenario allows you to do some puzzles based on the functions of the program that are already included. There are a lot of hints by one of the members of your party since this is still a beginners scenario, but alas, they're in German, too.
+REMARK: This is one of the game's areas which we have started to fill with life. The persons who don't answer if you try to speak to them, will come up with a special dialogue screen shortly.
+REMARK: To leave the next room, step on the green plate on the floor, and watch the greenish transparent walls!
+An Isle of Peace: The Dji Cantos place.
+Rainer
+Drirr
+Sira
+Mellthas
+Harriet
+Joe
+Khunag
+Siobhan
+{BIG }{CNTR} "Release possible" bit toggled!

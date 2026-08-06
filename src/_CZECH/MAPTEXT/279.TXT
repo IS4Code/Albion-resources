@@ -1,0 +1,156 @@
+﻿empty
+Nikomu z družiny se sem nechce položit ruce. (alespoň co se svých rukou týče)
+Rozměrná pohovka.
+Velký sekretář.
+Rošt.
+Postel.
+Ohniště (krb).
+Přikrývka.
+Iskaiské příbory.
+Talíř.
+Nádobka.
+Klobása.
+Flákota masa podobná šunce.
+Sběračka.
+Různé rostlinky.
+Ovoce.
+Speciální pokrm.
+číše.
+Mísa.
+Koření.
+Kořenky.
+šálek.
+Kuchyňský nůž.
+Koláčky.
+Klobáska.
+Tato láhev obsahuje aromatickou tekutinu.
+Látka.
+Ručník.
+Kbelík.
+Pánev na pečení.
+Hrnec.
+V tomto kotlíku je na tyč nasazená nádobka, která slouží k pozvolné tepelné úpravě pokrmů.
+Poduška.
+Velká pánev na pečení.
+Kartáč na kůže.
+Vodní stružka.
+Nádrž na vodu.
+Bariéra proti vodě.
+Hliněný džbán.
+Psací stůl.
+Všechny druhy nedůležitých drobných předmětů zaplňují šuplíky stolu.
+Truhla.
+Tohle je slušně velký hrnec. Možná že slouží jako zásobárna jídla nebo vody.
+Ve vodní nádrži roste zvláštní rostlina, která pumpuje vodu ze země pulzním způsobem. Zřejmě slouží jako pumpa a zásobuje tak zdejší lid vodou.
+Voda v tomto bazénu je kalná a zahnívající. Zde se patrně shromažďují splašky.
+Vodní rostliny.
+Léčivé rostliny.
+Exotická květena.
+Popínavá rostlina.
+Places for further Cutmap events.
+Schodiště. Stáčí se dolů do podlaží.
+Schodiště vedoucí do dalšího patra.
+Tohle je zřejmě nějaký druh postele. Je vyplněna pískem, jehož hrubá, ale zakulacená zrnka znamenají pro někoho patrně ohromující komfort a pohodlné lože.
+Svým nezvykle velkým tvarem to připomíná sedací nábytek. Ale chová se to jako rostlina. Dokonce, jak se zdá, to i roste. Povrch to má měkký a elastický.
+Domovní fontána.
+Vodní stružky jsem dovádí nejspíš pitnou vodu. Proplétají se domem jako malé potůčky.
+Zápach hniloby a otvory v tomto objektu vás vedou k závěru, že se budu jednat o zdejší variantu záchodu. Tento druh "zařízení" je také rostlinného původu a silně se mu daří díky pravidelnému hnojení. (tak takhle si představuju symbiózu s přírodou)
+Zde jsou vykonávány skutečně naléhavé potřeby v životě každého jednotlivce.
+Na tomto pekáči se připravuje sladce vonící a koláč připomínající pokrm.
+Křeslo.
+Masivní dřevěněný stůl.
+Rostlina s velkými listy.
+Dveře.
+Nůž.
+Krátká dýka.
+Dýka.
+Velká dýka.
+Krátký meč.
+Iskaiský nůž.
+Iskaiská dýka.
+Iskaiská dýka 'bodce'.
+Iskaiský krátký meč.
+Velká iskaiská dýka 'bodce'.
+Iskaiský meč.
+Velký iskaiský meč.
+Iskaiský dlouhý meč.
+Iskaiské kopí.
+Velká iskaiská dýka.
+Krátká iskaiská dýka 'bodce'.
+Velká iskaiská dýka 'bodce'.
+Velký iskaiský meč.
+Malý luk.
+Luk.
+šíp.
+Dlouhý šíp.
+Kožený štít.
+Malý iskaiský štít.
+Iskaiský štít.
+Velký iskaiský štít.
+Kožená čapka.
+Iskaiská kožená čapka.
+Iskaiská železná helmice.
+Iskaiská železná helma.
+Iskaiský chránič hrudi.
+Iskaiský železný hrudní plát.
+Lehké iskaiské brnění.
+Iskaiské brnění.
+Prázdná láhev.
+Zelený hojivý lektvar.
+Tyrkysově zabarvený hojivý lektvar.
+Modrý hojivý lektvar.
+červený nápoj.
+Fialový nápoj.
+Modrý nápoj.
+Klíč.
+Lano.
+Pochodeň.
+Iskaiský zápisník.
+útržek papíru.
+Iskaiská kniha.
+Iskaiský blok.
+Tužka.
+Krátká tužka.
+Lavička.
+Toto sedátko doslova a do písmene vyrůstá ze země a je docela pohodlné.
+Dřevěnná žerď. Na její špičce visí znak.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Za dveřmi se nachází obytné části domu. Dveře jsou pečlivě uzamčeny a je na nich petlice. Všechny služby kouzelnického cechu jsou nabízeny v této místnosti a ne v soukromých prostorách.
+"Vítejte v kouzelnickém cechu. Doufám, že nepovažujete magické schopnosti za pouhé výplody pověrčivosti a bláznovství, protože jestli ano, tak jste tu rozhodně na špatném místě. Avšak pokud věříte v nadpřirozené schopnosti a hledáte někoho, s kým byste si o tom mohli popovídat, nebo pokud chcete z magické říše něčemu naučit, budete se tu cítit jako doma. A i kdybyste měli třeba další problémy s magií, nebo byste si chtěli jen popovídat, pak se posaďte a můžeme si spolu promluvit."
+"Jestli se chcete naučit nová kouzla, zajděte si k Jikraii. Ona je vůdcem našeho cechu a kam jen magické oko hole dohlédne, nejlepším učitelem. Leč Jikraii nemá vždycky volný čas. Když se vám ji nepodaří zastihnout, zajděte za ní později."
+"Podívejte, naučil jsem se kouzlo, které dokáže změnit můj drahokam na modro. Co, vy mi nevěříte? No dobrá, původně byl modrý, ale neměl tak sytě modrou barvu."
+"Jikraii odešla do svatyně, aby podpořila naše bojovníky svojí magií. Jestli se nepletu, vy s tím máte něco společného."

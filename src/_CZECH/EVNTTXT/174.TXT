@@ -1,0 +1,10 @@
+﻿{BLOK000} "Jak byste měli vědět, jsem Druid a obzvláště znalý amuletů." {WORDamulets}
+"Togi Din, moji zachránci! Rád vás znovu vidím... zvláště vás Mellthasi a vás Siro!" {WORDMellthas}{WORDSira}
+"Togi Din, moji zachránci! Rád vás znovu vidím!"
+"Má velká vášeň, jak víte. Kdybych nalezl alespoň Cantův amulet, bylo by tím částečně omluveno selhání mé výpravy."{BLOK010}"Byl by Cantův amulet skutečně hoden takového rizika?"
+"To jsou zajímaví lidé. Jejich čelní orgán je obzvlášť úchvatný. Rád bych si někdy promluvil s jedním z jejich učenců. Možná bych si mohl udělat výlet do Jirinaaru."
+"Okouzlující,  osobo, {LEAD}{NAME}. Nebylo by divu, kdyby se do ní zamiloval dokonce i člověk."
+"Siro, jsem šťastný a vděčný za to, co jste udělala pro Mellthase." {WORDIskai}
+"{LEAD}{NAME}, Vlastního syna bych nemiloval více, než miluji Mellthase. Jsem pyšný na jeho znalosti. A jsem také pyšny, že nalezl někoho, člověka nebo ne, kdo ho miluje a kdo mu pomáhá překonat jeho handicap."
+"Mellthasi, ty víš, že tě mám rád jako syna. Buď na cestě se svými společníky opatrný." {WORDIskai}
+"Canto je duchovní praotec a legendární předek všech Druidů. říká se, že byl tím, kdo před stovkami nebo tisíci let přivedl lidstvo do této země. Jeho moudrost a znalosti byly velké - tak velké, že mnozí ho uctívají téměř jako boha. Staré knihy se zmiňují, že nosil amulet. Který mu, předpokládá se, byl darován samotnou Danu. Vypraví se o něm množství podivuhodných věcí. Například se předpokládá, že toho, kdo jej nosí chrání před všemi zbraněmi a magií. Přirozeně, je to pouze legenda, ale za podstoupené riziko mi stál."

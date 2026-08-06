@@ -1,0 +1,9 @@
+﻿{BLOK000} "Stavím domy z rostlin. Jsem si jisty, že jste jich tady kolem viděli hondě."
+"Skeima Din, nepotkali jsme se už? Slyšeli jste ty řeči o Kontosovi?" {WORDrumors}
+"Nikdo z nás neví, co si o tom máme myslet. Kontos svým vesničanům říká, že jsme odpovědní za výskyt těch příšer kolem svatyně. Déle se tomuto problému vyhýbat nemůžeme. Ale je pobuřující říkat, že je to naše práce! Kdybyste věřili Kontosovi, tak jsme zlí. Zeptejte se hospodského Edjirra. Myslí si to samé co já. ^ ^ slyšeli jste o tom?" {BLOK010} "Ano." {BLOK011} "Ne." {WORDshrine}{WORDcreatures}{WORDtaboo}
+"Vidíte? Nevím proč to říká. Co myslí, že dokáže?"
+"Ne? Dobře, možná to není tak důležité..."
+"Ano, raději tam nevstupujte. Právě tam probíhají naše náboženské obřady. Je to pro nás posvátné místo."
+"Tabu existuje velmi dlouho, co si vzpomínám. Tabu vzniklo z historických důvodů, což bych vám raději ani nevysvětloval."
+"Ano?"
+"Nikdo neví, odkud tyto bytosti přicházejí. Zdají se být magického původu, a většina je jich kolem svatyně, ačkoliv jsme je neviděli vyjít z naší svatyně."

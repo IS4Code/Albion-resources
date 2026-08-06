@@ -1,0 +1,8 @@
+﻿{BLOK000}"Jsem fyzik a xenobiolog ve vládních službách."{WORDgovernment service}
+"Ach, nazdar, Driscolle! Doufám, že se cítíš na náš let."{WORDflight}
+"Zdravím, Driscolle. Co máš na mysli?"{WORDflight}
+"Tedy, ve vládních službách jsem, protože nabízejí jedny z mála možností dělat praktickou práci venku aniž by byli dlužni nějaké z větších společností jako DDT." {WORDDDT}
+"Jsem netrpělivý vyzkoušet si tvé letecké dovednosti. Pro mne je význačná každá chvíle, kdy vidím nový svět, i když tak sterilní, kterému tvoje společnost dala neuvěřitelně poeticky název 'Nugget.' Samozřejmě by mne bývalo více zajímalo objevování krásy jako byla Joshi. ^ ^ Ale to by znamenalo, že celý tento komplex podstoupil tuto cestu zbytečně - dokonce i když by to byla pastva pro oči pro starého ochránce životního prostředí, jako jsem já." {WORDNugget}{WORDJoshi}{WORDenvironmentalist}{WORDcomplex}
+"Jsem netrpělivý vyzkoušet si tvé letecké dovednosti. Pro mne je význačná každá chvíle, kdy vidím nový svět, i když tak sterilní, kterému tvoje společnost dala neuvěřitelně poeticky název 'Nugget.' Samozřejmě by mne bývalo více zajímalo objevování krásy jako byla Joshi. ^ ^ Ale to by znamenalo, že celý tento komplex podstoupil tuto cestu zbytečně - dokonce i když by to byla pastva pro oči pro starého ochránce životního prostředí, jako jsem já." {WORDNugget}{WORDJoshi}{WORDenvironmentalist}{WORDcomplex}
+{BLOK000}"Co můžeš říci o..."{BLOK001}"Podívej se na tohle..."{BLOK004}"Uvidíme se brzy."{BLOK005}"Co děláš?"
+"Tedy později."

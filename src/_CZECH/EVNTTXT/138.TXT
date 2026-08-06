@@ -1,0 +1,12 @@
+﻿{BLOK000}"Jsem svobodný lovec a dobrodruh a dělám, co mě zrovna napadne."
+"Dsarii-ma! Jaké cizí tváře ve městě! Jeden na krátký čas odcestuje a náhle jsou zde noví a zajímaví lidé!"{BLOK010}"Doufám, že vaše cesta byla úspěšná?"
+"Oh, jsem rád, že jste se vrátili živí. Na začátku cesty jsem byl blízko strašidelného místa, kde se měl ve zvyku potulovat starý Argim. ^ ^ Jsou tam nějací velmi divní dravci."{WORDArgim}{WORDpredators}
+"Ano, většina z nich je velmi agresivní. Nejhorší byly bytosti s tlamou ve spodu a párem žahavých, nenasytných paží. říkám vám, byly to nenasytné! Naštěstí jsem objevil ovoce, které je ochromilo."{WORDfruit}
+"Jsou nepoživatelná, ale ve střetu s těmi ústy velice užitečná. Rád bych vám nějaké přenechal, za rozumnou cenu."{BLOK010}"Ano, to ovoce by se nám mohlo hodit."{BLOK011}"Ne děkujeme. Nevěděli bychom co s ním dělat."
+"Jak říkáte. Musíte uznat, že přes tento druh bytostí nikde nepřejdete."
+"Dsarii-ma!"
+"Dsarii-ma! Tedy, přece jenom potřebujete ovoce k omráčení tlam?"{BLOK010}"Ano, to ovoce by se nám mohlo hodit."{BLOK011}"Ne, děkujeme. Nevěděli bychom, co s ním dělat."
+"Nechám vám pět kusů ovoce za 40 zlaťáků, souhlasíte?"
+"Je mi líto, ale nemáte dostatek peněz."
+{INK 001}Vrik předává nějaké ovoce. ^ ^ {INK 002}"Tady jste."
+"Ha, nemáte na ovoce dostatek místa! Vraťte se zpátky, až nebudete mít takový náklad."

@@ -1,0 +1,56 @@
+﻿-free-
+Strom s velkými listy.
+Popínavá rostlina.
+Listnatá rostlina.
+Kaktus.
+Přízemní porost.
+Skály.
+Došková střecha.
+Mostní zábradlí.
+Schodiště.
+Starý, ztrouchnivělý kmen.
+Spadané listí.
+Tato rostlina vyvíjí pulzující pohyb, kterým čerpá vodu ze země.
+Vodopád.
+římsy.
+Dveře.
+Sloup.
+Rozbitý sloup.
+Odtud vytéká voda.
+Olejová lampa.
+štít.
+Vlající zástava.
+Stolička.
+Peřeje.
+Stůl.
+Otevřená kniha.
+Kniha.
+Voda.
+Velká houbovitá rostlina.
+Vodní rostlina.
+Kvetoucí vodní rostlina.
+železná tyč.
+Kamenný plát.
+{CNTR} Na štítu stojí : ^ ^ {INK 006} úzká stezka. ^ Cantosův dům: Sever.
+Po čase tichých úvah a hluboké koncentrace, {LEAD}{NAME} najednou cítí, že jeho/její myšlenky jsou jasnější.
+Meditace je neúspěšná. ^ ^ {LEAD}{NAME} cítí, že energie, která obklopovala toto místo, je již vyčerpána.
+{LEAD}{NAME}ova meditace je neúspěšná. ^ ^ Zdá se, že energie tohoto místa by se měla znovu obnovit.
+{CNTR} Na štítu je napsáno: ^ ^ {INK 006} ^ Důležitá cesta. Cantosův dům: Východ.
+{CNTR} Na štítu je napsáno: ^ ^ {INK 006} Důležitá cesta. ^ Cantosův dům: Sever.
+{CNTR} Na štítu je napsáno: ^ ^ {INK 006} Západ: Dlouhá cesta.
+{LEAD}{NAME} se na okamžik koncentruje a vychází z meditace s obrovskou silou.
+Po své meditaci, se {LEAD}{NAME} cítí, jako když má více kontroly nad svým tělem.
+{LEAD}{NAME} chvíli medituje a pozoruje, že se pohybuje rychleji!
+Pocit, který je obtížné popsat, přetrvává i po {LEAD}{NAME} meditaci. Cítí se optimističtěji, jako by měl v životě najednou méně problémů.
+{LEAD}{NAME} cítí, že se jeho/její duch stal po meditaci ustálenější.
+Po své meditaci, se {LEAD}{NAME} cítí více spojen s magickými silami než kdykoliv předtím.
+Z mlhy vystupuje malý ostrov. Tomovi a jeho společníkům se odhaluje místo neuvěřitelné krásy. Ostrov je dále rozdělen kanály a je zarostlí vznešenými stromy. Nad krajinou se klenou elegantní mosty, malá obydlí splývají s okolím a v pozadí je možné vidět obrovský dům. ^ ^ Mírumilovná atmosféra leží nad tímto místem. ^ ^ Frill opouští loď a ostatní ho následují. Malá loď okamžitě odplouvá a Frill se otáčí ke svým hostům:
+"Vítejte na ostrově Dji Cantos. Máte možnost vidět to, co mnoho jiných ještě nevidělo. Následujte mě do našeho domu, kde se setkáte s někým, koho již znáte."
+Společníci následují Frilla beze slov a jsou pohlceni jejich okolím...
+Tom je překvapen, když před sebou vidí Nemose, kterého znal jako vůdce Druidů z Gratogele. ^ ^ Jak se zdá, také patří do tajné společnosti, která žije na tomto ostrově.
+"Vítám tebe i tvé společníky Tome Driscolle."
+"Togi Din, Nemos. Je to báječné tě zase vidět, i když musím připustit, že okolnosti mě překvapují jen málo."
+"To je pochopitelné. Máme ti toho tolik co říct."
+"A co ty Tome Driscolle, co všechno nám řekneš. ^ ^ Nyní mne prosím následuj do domu. Probereme  si tam spoustu informací."
+{LEAD}{NAME} cítí, že jeho/její energie po meditaci vzrostla!
+Květiny bohyně.

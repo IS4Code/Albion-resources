@@ -1,0 +1,12 @@
+﻿{BLOK000}"Já roznáším jídlo a pití."
+"Skeima Din a vítejte v bodré U Rudného Dolu."{WORDmine}{WORDUmajo-Kenta}{WORDdrink}{WORDovernight stay}
+"Díky, vůbec nic vám nerozumím. {FAT }ale{NORS} pokud byste chtěli něčím přispět, měl bych říct, že je zvyk, že cizinec objedná rundu. Co byste na to řekli?"{BLOK010}"Rádi bychom koupili rundu."
+"Tohle je to proč se naše hospoda tak jmenuje a támhle opravdický rudný důl. Navštivte hornický cech, jenž je na sever od města."{WORDMiners}
+"Vy byste to udělali? Stojí to pět zlatých valounů. Ještě pořád to chcete udělat?"
+"To je hanba."
+"Udělám to, ale musíte platit dopředu."
+"úžasné gesto - mnohokrát díky. Promluvte si se mnou až to roznesu."
+"Skeima Din, cizinci. ^ ^ Mohu vám říct malé tajemství?"{WORDsecret}
+"Ta hráčka je hrozně namyšlený, ha ha. řekněte jí, že je 'Královna Krásy'. Uvidíte, co se stane."
+"Chcete něco k jídlu a pití ?"{BLOK010}"Ano, prosím."{BLOK011}"Ne, díky."
+"Bohužel tady přespat nemůžete, ale jděte do cechu horníků. Jsou velmi pohostinní a rádi přijmou cizince na noc."

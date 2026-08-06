@@ -1,0 +1,48 @@
+﻿!
+Když někdo šlápne na desku přede dveřma, tak se rozsvítí (deska). V tom samém okamžiku se otevřou i dveře.
+Nášlapný plát se rozsvítil.
+Tohle vypadá jako plát s průhledným, světélkující povrchem.
+Když se tato deska rozsvítila, dveře na "západní" straně této místnosti se otevřely.
+Přepínač.
+Přepínač nemění svou polohu ani po několikerém zatlačení.
+Dveře se pokusily zavřít, ale zůstaly otevřeny. Zřejmě detekoval sensor v jejich okolí něčí přítomnost.
+V severní zdi je výklenek.
+Výklenek je prázdný, čeká tu na den, kdy do něho někdo něco dá.
+Výklenek.
+Zprava sem dolehl hluk.
+Jakmile se dveře s červenými světly otevřely, takmile nemile se ty se zelenými zavřely. Cesta zpátky není možná!
+Tohle je servisní robot. Vykonává neznámý úkol.
+Dveře. Není tu vidět žádný mechanismus na otvírání.
+Fluoreskující žárovka. Vyzařuje studené bílé světlo.
+Ocelový nosník.
+Poloprůsvitné zdi značí servisní přístup. žebřík uprostřed vede nahoru.
+Digitální panel pro zadávání číselných kódů.
+Dveře s červenými světly po straně. Není vidět žádný mechanismus na otvírání.
+Dveře s zelenými světly po straně. Není vidět žádný mechanismus na otvírání.
+Dveře s modrými světly po straně. Není vidět žádný mechanismus na otvírání.
+"Zatím dobrý. Pokusme se teď odsud dostat do oblasti, kde je reaktor aniž by nás někdo překvapil. Když se nám to nepodaří, budeme mít okamžitě na krku jak Neda, tak ostrahu. Musíme vyřadit nějaká zvláštní jistící zařízení, abychom se tam dostali."
+Servisní robot. Zdá se býti deaktivován.
+Tom si chvíli pohrával s robotom, než mu přišel Joe na pomoc. Po několika úpravách, se servisní stroj rozběhl a jeho elektrický život ho uvedl do pohybu.
+Joe podrobil robota několika úpravám. Robot se probral k životu a začal nekontrolovatelně pobýhat sem a tam.
+Přepínač přidělaný ke stěně z plexiskla ocelovou oporou.
+Spínač se na chvilinku rozsvítil, ale kromě toho se nic nestalo.
+Jakmile {LEAD}{NAME} pohnul spínačem, zeď okamžitě zmizela ve stropě !
+Velké controlní světlo.
+Blikající pozemní deska.
+"Tento typ podlažních desek je obecně kontrolován srvisními roboty. Oni mohou stisknout desku, když okolo přes ní projíždějí. My bychom pak měli být schopni otevřít dveře."
+Po stisknutí spínače, ovládání a strop začal svítit.
+Všechny zářící světla se okamžitě vypnula.
+"Zřejmě tu máme co do činění s časově nezávislým ovládáním."
+Spínač s kontrolním světlem vedle.
+"Ha! Tenhle hluk je hudba do mých uší. Jestli se teď dveře neotevřou budu velmi překvapen. Zajímalo by mně jaký pitomec programoval systémy tady dole!"
+"Střílej! Vsadil bych, že je tu další časový spínač."
+Světelné tabule zhasly.
+"Sakra! Já předpokládám, že teď musíme aktivovat spínače v koridoru před tím, než se dostaneme nazpět. Nikdy se nám to nepovede za tak krátký čas. Je to příliš daleko. Idiot, který instaloval tohle by měl mít uřezané prsty."
+"Ano, to to bylo!Za námi vyjela plexisklová zeď! Těd musíme zaktivovat časový spínač!"
+"Tohle vede do haly před jádro reaktoru, ale vstupní panel pro kód je velký problém.  Já totiž neznám vstupní kód. To je zlé.
+"Myslím, že to vede do haly před jádro reaktoru, le nejsem jist, že vstupní kanel pro kód bude problém. Ale počkej chvilku... co ty poznámky co jsme našli! V těch se hovořilo o kódu!"
+"Kus papíru s číslem, dobře, dobře. Víte, že je striktně zakázáno psát vstupní kódy kamkoliv kvůli bezpečnostním regulacím a tak podobně.  ^ ^ Samozřejmě znám několik Alzheimerovývh kandidátů , kteří si napsali kódy a nechali je ležet na jejich pracovišti. Museli se cítit docela hloupě když je napopáté inspector šel zachránit protože si zapomněli svůj kód. Některý z těchto papírů se pak mohl najít.^ ^ Samozřejmě kód zde není, ten papír na kterém to zřejmě všechno bylo napsáno je dávno spálen. 
+"Hey, kam jdeš chlape? Už jsme skoro tady. Proč pro Krista pána se checeš obrátit zrovna teď.?"
+Nástěnná skříňka.
+Někdo zapomněl malý kus papíru ve skříňce.
+Nic se neděje.

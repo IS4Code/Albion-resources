@@ -1,0 +1,10 @@
+﻿"{BLOK000} "To je má funkce, vést a řídit Rada Spravedlnosti."
+"Skeima Din, my jsme se předtím neviděli. Jsem nový president rady. Jsem si jistý, že znáte strašlivou historii mého předchůdce." {WORDhistory}{WORDsituation}
+"Skeima Din." {WORDhistory}{WORDsituation}{WORDtown hall}
+"Jsem Herrasuv následník. Nevím jestli jste slyšeli ten příběh. Herras byl zavražděn v noci ve své posteli. Myslíme, že Gard a Riko jsou tím vinni, jelikož uprchli. Perron vždycky říkal,v že jim nemůžeme věřit." {WORDGard}{WORDRiko}
+"Já jsem Zerruma."
+"Nemyslím, že už je tady uvidíme."
+"Perron je jedním že členů mé rady."
+"Tak se řika našemu městu."
+"Kontosovy plany vesly ve skutečnost a právě se svým vojskem okupuje svatyni a přilehlé okolí. Je překvapivé, jak obyvatelé Kounosu stojí za svým vůdcem. Má na ně značný vliv. Opravdu by mě zajímalo, jestli je to chyba Iskaiu, která dala za vznik těmto strašlivým příšerám. V každém případě, Kontos prohlašuje, že tohle je to co se tam děje a jeho nohsledi tomu věří. V každém případě, nemůžete Iskaie nařknout za způsob jak reagují . Oni také posílají bojovníky ke svatyni a můžete si představit, co se tam děje. Jasné ale je, že jejich tabu, pýcha  a náboženství jsou znásilňovány. I když jste smíšená skupina, tak vás stejně v některých krámech asi neobslouží. Vztahy mezi Iskaii a lidmi jsou teď´ velmi napjaté !"
+"Radnice je nejkrásnější stavba v Belovenu. Měli byste se tu trochu porozhlédnout. Nikdo vás nebude zastavovat."

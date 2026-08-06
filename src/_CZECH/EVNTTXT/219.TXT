@@ -1,0 +1,9 @@
+﻿{BLOK000}"No, zlatíčka. Podle mého oblečení určitě poznáte, kde pracuju. Zastavte se někdy! Jasně, většina chlapů nepřizná, že tu a tam zajdou do bordelu."{WORDbrothel}
+"Skeima Din! Hmmm, co to vidím za urostlý chlapy? Hej, žádný strachy, nic se vám nestane; všechno uspokojení co potřebuji, dostávám v práci. Ale proč mě někdy nenavštívíte v "Domě u červených záclonek"? Nemusíte se bát ulepkaných koberců a vzdychání, většině našich zákazníků se tam opravdu líbí. á, mimochodem, jmenuji se Kariah, ráda vás poznávám. Popovídáme si trochu víc, až mě přijdete navštívit, co?"
+"áááhoj, myslím, že jsme se už setkali. Neříkejte, že jste ještě nebyli "U červený záclonky", že ne? Jste takoví puritáni, nebo nemáte peníze? Nebo si myslíte, že to u nás nemá úroveň?" {BLOK010} "No, možná nepotřebujeme vaše služby tak moc, jak si myslíte." {BLOK011} "ó, přijdeme moc rádi. Už se nemůžeme dočkat, až tam budem!"{BLOK012} "Na rozdíl od tebe máme na práci něco důležitého."{BLOK013}"Někdy bychom se stavili, ale teď právě máme něco důležitého."
+"No, když jste tak prudérní, he he... Nebudu vás už dál zdržovat od vašich důležitých záležitostí. šťastnou cestu!"
+"Opravdu? Myslíte to vážně? Všichni? Hmmmm...."
+"Tak? A co je to za důležitou věc? Ale já tu nechci začít nějaké filozofické rozprávky. Kromě toho máte opravdu na práci důležité věci. Asi bych už dál neměla plýtvat vaším drahocenným časem."
+"To je v pohodě. Přeju vám úspěch při řešení vašeho problému."
+"Pracuji tam. Je to těžká práce!"
+"To jsem já."

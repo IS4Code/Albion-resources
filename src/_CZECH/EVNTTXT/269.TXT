@@ -1,0 +1,2 @@
+﻿{BLOK000} "Já jsem obchodník."
+"Skeima din, ^ ^ doufám, že mám, co chcete. Jiné obchody v Srimalinaru, víte? Pokud nemám, co chcete, tak musíte jít do Belovena. Ačkoliv jídlo si můžete koupit v hospodě." {WORDBeloveno}{BLOK010} "Chtěli byste si tady něco koupit?"

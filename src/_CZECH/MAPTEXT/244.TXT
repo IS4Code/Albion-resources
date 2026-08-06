@@ -1,0 +1,30 @@
+﻿-free-
+Východ.
+{LEAD}{NAME} řekl(a) "Takhle se daleko nedostaneme" a ukázal na zem. Teď se i ostatním ozřejmila skutečnost, že koleje končí zrovna u vstupu. Nicméně se dá vyrazit do tunelu i pěšky.
+"žijóva, vsadil bych se, že jsme právě proběhli zdí! Asi to byla jen iluze. Páni, ale vypadalo to sakra skutečně."
+Truhla.
+Schodiště.
+Ve stropu se tu nalézá otvor.
+Díra, do které Tom a ostatní zahučeli, je příliš hluboká, než aby se jí dalo vylézt zpět po laně.
+Dveře.
+Stůl a truhla.
+žhavý plamen.
+"žů!"
+"Dveře se otevřely!"
+Tyto dveře se nedají odemknout klíčem.
+Tlačítko na zdi.
+Jáma.
+Magická clona vyvedená v duhových barvách.
+Tyto dveře se nedají odemknout klíčem.
+Držadlo lepí(nebo možná píchá)!
+Kontaktní deska.
+{CNTR} Nápis na zdi. ^ {INK 006}{FAT } Vraťte se!
+Držadlo.
+{LEAD}{NAME} našel skrytý čudl na zdi!
+Není vidět ani zámek, ani závora, ani žádný spínač. Dveře otevírá patrně nějaký skrytý mechanismus. Barva plamenů se na dveřích odráží velmi rozdílně. červené a zelené barevné tóny jsou výrazně patrnější. Zato modré není vidět prakticky vůbec. Dveře jsou s největší pravděpodobností citlivé na světlo.
+"Podívejte! ^ Tato stěna má kolem svého obvodu nějaké drážkové zařízení. Vypadá to velmi nezvykle. Myslím, že se dá spustit pomocí páky v podlaze. Taky v ní je něco jako krb. Možná oheň slouží k pohánění tohoto mechanismu. ^ ^ Opravdu věřím tomu, že se takovéto zdi dají ovládat pomocí mnoha pák."
+"K čemu tato páka je? Nejspíš je propojena s jednou z těchto zdí s drážkami."
+"Je tu něco jako takové pérko nebo pružinka."
+Ze severu přichází hrozný zvuk. Zní jako by tam někdo vrtal do země díru a chtěl, aby to všichni nejen slyšeli, ale i cítili.
+"Slyšeli jste ten drtivý zvuk? Podle mě vycházel z místnosti, kterou jsme se přišli."
+Stěna na kolejničkách.

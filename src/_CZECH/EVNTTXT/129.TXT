@@ -1,0 +1,32 @@
+﻿{BLOK000}"Nyní jsem hlavou cechu, ale nejsem z toho příliš nadšen."
+ 
+"Vidíme to co děláme jako směs magie, umění a řemesla. Jsme jeden z nejstarších cechů v Jirinaaru a, jak jistě víte, jsme díky naší magii schopni tvořit, měnit a natrvalo proměňovat rostliny. To znamená, že můžeme vyrábět celé domy z živého rostlinného materiálu, který není pouze krásný, ale také splňuje nutné předpoklady pro kvalitu bydlení."
+"Jsem velmi zarmoucen smrtí mého nejlepšího přítele. Skutečně nevím, jak se s touto ztrátou vyrovnám."
+!
+!
+"Sira je Akiirova jediná dcera. Přešla k Dji-Kas, což ho velmi rozhněvalo."
+ 
+"S velkými obtížemi jsem byl schopen zastavit členy mého cechu ve zbrojení a útoku na dům Dji-Kas."
+"Náš cechovní dům soupeří s budovou rady o titul nejkrásnější stavby v Jirinaaru. Stále ho udržujeme a vylepšujeme a používáme ho jako ukázku našich znalostí, jak můžete vidět ve východním křídle."
+!
+"Mohl skutečně poslat nájemného vraha na Akiira? Já nevím."
+!
+dummy
+dummy
+dummy
+dummy
+dummy
+"Slyšeli jste o tom? Tedy, budu upřímný, Argimův příběh je trapnou součástí historie našeho cechu. ^ ^ Byl hlavou Dji-Fadh téměř před 150 lety. Tehdy se budova cechu Dji-Fadh nacházela mimo město. Byla to velkolepá budova blízko Han, ve středu lesa. Argim měl ve svém oboru velké nadání, ale nestálou povahu. To byl důvod, proč jeho nejvyšší cíl byl zamítnut: stát se jedním z Vyvolených. Když se dozvěděl o rozhodnutí, přestal se ovládat. Přísahal, že vzdor všemu dosáhne nesmrtelnosti. V nezodpovědné demonstraci síly zničil celou stavbu a změnil ji v divné místo, kterému se nyní každý vyhýbá. říká se, že tomu místu vtiskl svého ducha."{WORDHan}
+"Jsou zde místa, kde je síla Bohyně obzvlášť silná a kde jsou magické činy silnější a často také obtížnější. Tento druh energetických center nazýváme Han."
+dummy
+"Dsarii-ma. Neptejte se mě, prosím, na Akiira. Byl mým přítelem a dosud nemohu uvěřit, že je mrtev."{BLOK010}"Omluvte nás, ale byli jsme pověřeni nalezením vrahů. Mohl byste nám říci vše, co by nám mohlo pomoci?"
+"Dsarii-ma. Předpokládám, že dosud hledáte prchajícího vraha."{BLOK010}"To je pravda, Bradire. Přihodilo se vám něco?"
+"Oh, Bohyně! Tak naše zákony byly v této věci rovněž sepsány vámi, lidmi. Dokonce i když nejste odpovědný za to, co se přihodilo! Ale k vaší otázce: naneštěstí nemohu pomoci. Já skutečně nevím, co se to ve Fasiirovi vzalo."{WORDFasiir}{WORDmurder}
+"Nikdy na tuhle záležitost nezapomenu. Nedokážete si představit, jak moc bych vám rád pomohl, ale nemohu vám říci nic nového."
+"Skutečně bych si přál, abych vám mohl pomoci. Sbohem!"
+{INK 001}Když {LEAD}{NAME} tiše ukázal dýku, Bradir ucukl a dokonce i lidé rozeznali ztrápený pohled v jeho očích. Popošel blíže a řekl: ^ ^ {INK 002}"To je divné. Chvíle, které jsem se bál mi nejvíce přinesla úlevu. Odpusť mi, Akiire!" ^ ^ {INK 001}{FAT }Bradir útočí!
+Bitva pokračuje, dokud se Bradir nevzdá, nebo není "zabit". Pokud je "zabit", ukáže se, že je dosud naživu. Pak vysvětlí Akiirovy úmysly. Ve skutečnosti to byl plánovaný únik do Sebainah, což vysvětluje předcházející události.
+Po bitvě Bradir klesne na kolena. Bolest způsobila zmatený výraz jeho tváře a jeho oči se staly čistými.
+"Musíme ho vzít k ranhojiči, rychle. Jinak se nikdy nedozvíme, proč nás napadl."
+Bradir je rychle dopraven k ranhojiči. ^ ^ Jakmile je vyléčen, koná se shromáždění v budově rady v pokoji Sebainah, kde Bradir musí vysvětlit své počínání. ^ ^ Navíc byli předvoláni i Tom, Reiner, Drirr a Sira, dcera zavražděného Akiira.
+ONLY FOR DEBUGGING! CARRY OUT BRADIR ENCOUNTER?

@@ -1,0 +1,9 @@
+﻿{BLOK000}"Jsem Sebai-li Klanu Rudého Háje, člen rady."{WORDclan}
+"Dsarii-ma."
+"Dsarii-ma, pronásledovatelé Akiirových vrahů."
+"Náš Klan se především zabývá obchodem."{WORDtrade}
+"Máte slabou paměť? říkal jsem, že náš Klan je poškozený obchodem."
+"Prodáváme zboží na Nakiridaani, ale také do vzdálenějších měst, jakým je Beloveno."{WORDBeloveno}{WORDNakiridaani}
+"Už jste zapomněli? Prodáváme zboží na Nakiridaani, ale také do vzdálenějších měst, jakým je Beloveno. "{WORDBeloveno}{WORDNakiridaani}
+"To je přístavní město, daleko na východ odsud."
+"Jak jsem už řekl: je to přístavní město, daleko na východ odsud."

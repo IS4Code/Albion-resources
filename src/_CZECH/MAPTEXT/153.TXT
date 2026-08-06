@@ -1,0 +1,67 @@
+﻿!
+Servisní robot normálně zaneprázdněn svými tajemnými úkoly  se cílevědomě hrne vpřed {LEAD}{NAME} a {HIS } jeho přátelům.
+Deska se rozsvítila. 
+Tohle vypadá jako podlaha s průhledným světélkujícím povrchem.
+Tady je laserová bariéra právě před {LEAD}{NAME}. Pach vařícího kovu a zkratů je ve vzduchu. Paprsky světla jsou tak silné, že vytváří prach z proudícího vzduchu .
+Spínač..
+Umístěný spínače se nezměnilo.
+{LEAD}{NAME} a {HIS } jeho přátelé vstoupili do světelné bariéry. Je to rychlý milosrdný konec. Laserové paprsky anihilovali jejich těla tak rychle, že ani nemohli pocítit bolest.Byli mrtvý dávno, než jejich těla dopadla na zem.
+Robot je úplně zničen laserovou bariérou.
+Nástěnná skříňka je prázdná, připravená přijmout předměty.
+Nástěnná skříňka.
+Je tu část zdi, která byla upnuta speciálními šrouby. 
+{LEAD}{NAME} ztratil šrouby. Víko spadlo na podlahu a ukázalo komplikované elektronické ovládání
+A servisní robot.
+Dveře. žádný spouštěcí mechanismus není v dohledu.
+Světélkující žárovka. Vyzařuje studené, bílé světlo.
+Ocelový paprsek.
+Poloprůhledná zeď značí servisní přístup. žebřík uprostřed míří nahoru. Lze poněm lézt. 
+Digitální keypad pro zadávání numerických kódů.
+Dveře s červenými světly na straně . Není vidět žádný otevírací mechanismus.
+Dveře se zelenými světly na straně. Není vidět žádný otevírací mechanismus.
+Dveře s modrými světly na straně. Není vidět žádný otevírací mechanismus.
+{LEAD}{NAME} vytrhl jeden elektronickou součástku. Jiskry létají z rozbitých ovládacích prvků.
+Servisní robot. Vypadá, že je deaktivován.
+{LEAD}{NAME} vytrhl některé součástky ze zdi. Náhle však silný elektrický výboj prošel skrz{HIS } ruku.
+Elekronika zde je na cimpcamr. 
+Spínač, připevněný k plexiglasu železnými podpěrami.
+Spínač se na krátkou chvíli rozsvítil, ale nic se nestalo.
+Jakmile (LEAD}{NAME} použil spínač, zeď překvapivě okamžitě zmizela ve stropě! Uh...?
+Velké kontrolní světlo.
+Blikající podlahová deska.
+Za otvorem ve zdi jsou komplikované elektronické součástky. 
+Po použití spínače se ovládání a strop okamžitě rozsvítily. 
+Všechny červené blikající světla ihned zhasla.
+"Zřejmě tu máme tu čest s časově nezávislým ovladačem."
+Spínač s kontrolním světýlkem vedle sebe.
+"Ha! Tenhle hluk je hudba mým uším! Jestliže se dveře neodevřou teď, tak budu velmi překvapen. Rád bych věděl, které nemehlo blokovalo dole systém.!"
+"Střílej! Vsadím se, že je tu další proklatej časovej spínač."
+Světelná deska zhasla.
+Sakra! Já myslím, že teď budeme aktivovat čtyři spínače v koridoru před tím než se dostanem nazpátek. To nedokážeme udělat v tak krátké časové periodě. Je to příliš daleko. Tomu idiotovi co sem tohle nainstaloval by měl někdo utnout prsty u rukou!"
+"Jo! To je ono. Najednou se za námi objevily plexisklové zdi. Teď musíme použít časový spínač!"
+"Tohle vede do haly před jádro reaktoru, ale vstupní panel pro kód je velký problém.  Já totiž neznám vstupní kód. To je zlé.
+"Myslím, že to vede do haly před jádro reaktoru, le nejsem jist, že vstupní kanel pro kód bude problém. Ale počkej chvilku... co ty poznámky co jsme našli! V těch se hovořilo o kódu!"
+"Kus papíru s číslem, dobře, dobře. Víte, že je striktně zakázáno psát vstupní kódy kamkoliv kvůli bezpečnostním regulacím a tak podobně.  ^ ^ Samozřejmě znám několik Alzheimerovývh kandidátů , kteří si napsali kódy a nechali je ležet na jejich pracovišti. Museli se cítit docela hloupě když je napopáté inspector šel zachránit protože si zapomněli svůj kód. Některý z těchto papírů se pak mohl najít.^ ^ Samozřejmě kód zde není, ten papír na kterém to zřejmě všechno bylo napsáno je dávno spálen. 
+"Hej co tu děláš chlape? Už jsme skoro tady! Proč pro pána boha se teď chceš vrátit zpět?"
+Některé dráty a komponenty vyvěrají z této zdi. Právě se to vlastně opravuje, ale práce ještě není hotová. Takže je lepší na to nesahat.
+Má se to Joe pokusit opravit? {BLOK000} "Ano." {BLOK001} "Ne, radši ne."
+"Dobrá, to nebude trvat dlouho"
+"Tak a je to. Ha, to byl pravděpodobně energetický zdroj pro dveře tady vedle. Podívej jsou otevřené"
+"Ano, jak říkáš.."
+Tady Joe udělal opravy.
+Ovládání laserových bariér právě teď nepracuje správně. části bariér se zapínají a vypínají v různých intervalech.
+Ned, humanoidní tělo, které slouží umělé inteligenci Toronta jako komunikační interface s lidmi na palubě bydlí v této kajutě.
+To je čtečka karet. Nyní by měla být zámkem na dveře, ale dveře jsou už otevřeny.
+čtečka karet..
+Vstupní kódová klávesnice. Kód již byl zadán.
+Mnoho různě zbarvených kontrolních světel je na zdi.
+Několik naprosto stejných osob vystoupilo z temnot této místnosti a vydalo se směrem k{LEAD}{NAME} a {HIS }jeho přátelům.
+"Těla AI" Takže Ned má k dispozici celý arsenál těchto androidů!"
+"Dobrý úsudek Driscolle. Jsem překvapen jak umíněně jednáte proti zájmům společnosti a obecnímu dobru. Neuvěřitelné. Jak jistě pochopíte, musím proti vám použít sílu abych zastavil akt terorismu" ^ ^ {INK 001} Umělá těla útočí!
+{INK 001} Joe se zůčastněně podívá  a říká : ^ ^ {INK 002} "Hmm, uvidíme, měl bych to moci opravit jen s několika malými změnami."
+"Oh ne! Podívejte na ty roboty. Vsadil bych, že každý z nich je naprogramován k útoku!"
+"Tome Driscolle, naposledy vám přikazuji abyste okamžitě skončil všechny aktivity namířené proti společnosti a dostavil se neodkladně do administrativní místnosti."
+"Opravdu si myslíš, že jsem přišel až jsem abych si pokec s hezky formulujícím nicméně směšným vystoupením AI?"
+"Obával jsem se, že nebudeš přístupný k rozumným argumentům. Buď si jistý, že toto tělo neporazíš tak jednoduše jako při našem prvním setkání." ^ ^ {INK 001} Tělo umělé inteligence útočí!
+"Podívej zeď s barevnými kontrolkami zmizela!"
+"Laserová bariéra. Tyhle věci jsou naprosto smrtící! Pojďme zjistit jak deaktivovat lasery. Mohli bychom být schopni otevřít některé panely s nějakým speciálním nádobíčkem. Možná pak deaktivujem bariéry."

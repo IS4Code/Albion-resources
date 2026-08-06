@@ -1,0 +1,97 @@
+﻿-free-
+Vír.
+Skalní římsa.
+Plovoucí vodní rostliny.
+Voda je hluboká a proud je v těchto místech velmi silný.
+Vodní rostliny.
+Skála (kámen).
+Spletité vzdušné kořeny.
+Mohutné exotické rostlinstvo.
+Hustá džungle.
+Strom se zakulacenou korunou.
+Pavoučí strom. Jeho rudé kořeny přitahují hmyz, který je jimi následně otráven.
+Strom s cibulovitými listy.
+Popínavá rostlina.
+Přizemní porost.
+Rostlinky 'síťovky'.
+Zástupce stébelnaté flóry.
+Skaly (kamení).
+Kořeny a ulámané větvoví.
+Houby.
+Keř.
+Kaktusoidní rostlina.
+Skály (kamení).
+Vodopád.
+Mokřina.
+Rostlina se zde uchytila na skále (kameni).
+Skalní římsa.
+Tyto rostliny září nádhernými odstíny barev.
+Městská zeď napůl tvořená vegetací.
+Městská brána.
+Mostní pilíř.
+Most rasy Iskai.
+Díky svým početným úponkům, poskytuje tato rostlina vydatnou pomoc při lezení na skálu. Důkladně obrostla skalní stěnu svými kořeny, které tak poskytují solidní úchyty a 'stupačky'.
+Voda je v těchto místech klidná a poměrně mělká. Dno je pokryté oblázky a není tu téměř žádný proud.
+Peřeje.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Nachází se tu průlom, kterým se dá dostat do podzemních částí zřícené budovy.
+Vstup do města Jirinaar.
+Ztrouchnivělé prkno se propadlo pod {LEAD}{NAME} a zranilo ho/ji! Ostatní to obešli.
+Tohle musí být zbytky dřívějšího Dji-Fadhova obydlí!
+"To musí být místo, kde jsme přistáli! Páni, někdo to tu řádně poklidil. Není tu ani památka po lodi..."
+"Hej, tady mezi haraburdím leží něco, co by se nám ještě mohlo hodit!"
+Země je v těchto místech porušena. Toto je místo ztroskotání. (zde skončila jedna naděje a začíná další...)
+"Kvíík?" ^ ^ {INK 001} Zvíře se na {LEAD}{NAME} překvapeně podívalo, ale pak ho/ji ignorovalo.
+Roj podezřele vypaseného hmyzu.
+Malá létající žvižátka, mají pěkně pichlavá párátka!
+A krondir!
+Malý, ale dobře obrněný živočich. Zatím si nevšímá ani {LEAD}{NAME} ani jeho/jejích společníků.
+Velké létající zvíře. Nevypadá agresivně.
+Keř se zralými plody, které se matně lesknout.
+Tento keřík už někdo očesal. Nejsou na něm už žádné plody.
+"Tohle je keř Triifalai. Je velmi vzácná. Její plody používá rasa Dji-Kas pro svoji magii. Měli bysme si s sebou nějaké vzít, rasa Dji-Kas si jich nesmírně cení. A když jim nějaké přineseme, určitě je náležitě ocení."
+Když se přiblíží bodavý hmyz, malá lahvička repelentu ho dokáže na čas udržet v bezpečné vzdálenosti!
+Janiis doprovodil Toma a jeho přátele do přístavu, kde už na ně čekala loď. ^ ^ Rozloučili se a loď vyplula z přístavu na širé moře...
+"Dělám si starosti s tím, co nás na cestě k místu, kde přistálo Toronto, ještě všechno čeká."
+"Doufejme jen, že žádná nebezpečenství."
+"Myslím, že jsme si při vyšetřování svého prvního kriminálního případu vedli docela dobře. ^ ^ Po tom všem, co jsme spolu už prožili, navrhuji, abychom zapomněli jednou provždy na veškeré formality. Co myslíš, Rainere? A ty, Drirr? Siro?"
+Všichni souhlasili, že zapomenou na formality.
+Plavba trvala mnoho dní, během nichž Drirr naučil(a) ostatní jazyk, kterým se mluví na ostrově, na který právě mířili. ^ ^ Plavba ubíhala poklidně a po celou dobu vál příhodný vítr.
+Až se jednoho dne objevila na obzoru země...
+Do skály je zapuštěný symbol oka.
+"Tyto symboly jsou tu už velmi dlouho. Nalézají se všude po celé planetě. Ale nikdo přesně neví, odkud se vzaly ani jaký je jejich účel."
+{LEAD}{NAME} umístil(a) amulet se symbolem bohyně do skály. ^ ^ Brána se se zaskřípěním otevřela a družina vešla do jeskyně.
+"Můžu použít k otevření brány amulet bohyně, který mám u sebe."
+{INK 006}{CNTR}{BIG } End of the ALBION DEMO{INK 003}{NORS} ^ ^ {JUST} We hope that you have had fun with this demo. If you would like to continue your journey with Tom Driscoll and his companions, you can do so at any time with the complete version of ALBION. ^ To give you an idea of the adventures which still lie ahead, we have included a couple of snapshots from the next chapters....
+{INK 002}{CNTR}{BIG }ALBION{INK 001}{NORS} ^ ^ ^ Nyní k dostání všude!!

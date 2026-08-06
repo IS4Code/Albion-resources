@@ -1,0 +1,7 @@
+﻿!
+"Toto je Khamulon, domov Kengeta Kamulose. Doporučujeme cizincům, aby do Khamulonu vstoupili jen ti, kdo mají zvláště závažný důvod. ^ ^ Máš takový důvod?"{BLOK010}"Promiňte že ruším, musíme jít."
+"Toto je Khamulon, domov Kengeta Kamulose. Doporučujeme cizincům, aby do Khamulonu vstoupili jen ti, kdo mají zvláště závažný důvod. ^ ^ Máš takový důvod?"{BLOK010}"Promiňte že ruším, musíme jít."{BLOK011}"Přišli jsme jednat s Kengetem Kamulosem."
+"Pro vaše vlastní dobro doufám, že váš důvod proč jste přišli je důstojný a důležitý. ^ ^ Teď mě následujte do Khamulonu. Představím vás Rhainovi, příteli Cuaina, našeho vládce."
+"Sbohem."
+{FAT }"Vy!"{NORS} ^ ^ "Nevím co máte společného s událostí, která otřásla Khamulonem. Nemáme právo vás zabít, ale v Khamulonu už nemůžete dál zůstat. Teď jděte."
+"Neřekl jsem to dost jasně? ^ ^ Vypadněte odsud!"

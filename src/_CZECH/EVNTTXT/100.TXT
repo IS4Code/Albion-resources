@@ -1,0 +1,59 @@
+﻿empty
+"Toto je to, co nazýváme sami sebou."
+"Zkušený Tvůrce může vypěstovat velkou sedací rostlinu ve 4 dnech. Jsou báječné na sezení a děti kolem nich rády skotačí." {WORDFormer}
+"Ano, máme množství výtečných věcí, obvykle z lesní zvěře. Lidé dávají přednost zvěřině, ačkoliv chovatelé dobytka nabízejí své maso o něco levněji. {WRNR----}"
+"Ve velkých domech je odpadová voda prohnána skrze trubky ve zdech do bazénu. Rostliny v něm ji vyčistí před tím, než je vrácena do řeky."{BLOK010}"Není příliš špinavá. řeka může znečištěnou vodu pohltit. Proč taková vydání?"
+"Jsou zde dva menší klany, které se živí chovem dobytka. Jejich stáda jsou většinou blízko města."
+"Každý, kdo si to může dovolit má vodu tekoucí skrze celý dům. Vypadá to překrásně, jenom musíš dávat pozor, aby s ní děti netropili neplechu..." {WORDhouse}
+"Velmi rádi spojujeme krásy přírody s pohodlími domova. Tvůrci z cechu Dji-Fadh mohou vystavět celé stavby z rostlin! Samozřejmě, není to levné; jsou zde domy, které jsou zbudovány z kamene a písku a pouze částečně z rostlin od Dji-Fadh. Především chudí lidé žijí v tom, co nazýváme 'mrtvé domy'."{WORDFormer}{WORDDji-Fadh}{WORDguild}
+"Dji-Fadh, neboli Tvůrci, jsou jedním z nejstarších cechů v Jirinaaru. Sami sebe považují především za stavitele a, s jejich magií, mohou upravit rostliny a přeměnit je v trvalé stavby. Cechovní dům Dji-Fadh se nachází v severozápadním rohu Jirinaaru. Od té dávné události s Argimem získává na vlivu."{WORDmagic}{WORDJirinaar}{WORDArgim}{WORDguild}
+"Měl bys vědět, ze Dji-Kas je jméno cechu kouzelníků Jirinaaru. Najdeš je v jihozápadní části města. Zde jsou prováděny četné pokusy s magicky nadanými z našeho lidu. Magie Dji-Kas je umění s mnoha stránkami: lečí, tvoří a ničí." {WORDmagic}{WORDJirinaar}{WORDguild}
+"Většina rodin náleží k větším společenstvím, Klanům. Klany povstaly postupem mnoha let skrze příbuzenské vztahy, věrnosti několika rodin, nebo někdy třebas jen z hospodářských důvodů. Mnoho klanů se specializovalo na určitou profesi, je to lov, řemesla nebo cokoliv. Sebai většiny vlivných rodin jsou hlavy klanů a někteří z nich jsou vysláni jako zástupci do rady Jirinaaru."{WORDSebai}
+"Rada Jirinaaru je vládou celé Nakiridaani. Schází se v budově rady ve středu města. Každé čtyři roky, Sebai Nakiridaanských klanů zasedají v radě a zvolí mezi sebou Sebainah, hlavu rady. Sebainah vládne našemu lidu, ale v důležitých záležitostech potřebuje souhlas rady. Komise rady, takzvané poradní kruhy, to jsou skupiny lidí, kteří byli doporučeni nejméně jedním členem rady k pečování o určité záležitosti. Například volbu Sebai, spory nebo rodinné záležitosti, jako rozvody."{WORDSebai}{WORDSebainah}{WORDNakiridaani}{WORDJirinaar}{WORDclan}
+"Nyní, přirozeně, jsou zde kritické hlasy, především od neklanových rodin a klanů, jejichž členové nepřijali poctu obřadu Sebai. Ti nemají téměř žádný vliv na vládu a považují to za velkou nespravedlnost."
+"Sebainah, jako hlava rady, má velký vliv. V časech krize může rada dokonce udělit Sebainah zvláštní pravomoce a Sebainah se v té chvíli stane pánem nad životem a smrtí na Nakiridaani. Avšak normálně Sebainah spolupracuje s radou. Má v ní dva hlasy a rozhodující hlas při nerozhodném hlasování." {WORDNakiridaani}{WORDcouncil}
+"Když se partneři rozhodli strávit své životy společně, vystrojí velkou oslavu, během níž jsou spojeni navždy. ^ Manželství může být oficiálně zrušeno pouze odpovídajícím poradním kruhem. Normálně jsou páry spojeny pro zbytek svého života a pokusí se vytvořit svoji vlastní domácnost. V tom případě jsou často podporovány svými druhými partnery, kteří jim, pokud by chtěli, dávají příležitost k úniku z domu svých rodičů."{WORDcouncil}{WORDsecondary partner}
+"Sestry nevěsty a bratři ženicha jsou považováni za druhé partnery manželů. Občas sdílejí dům a pokud po tom skutečně touží, také lože. Avšak v období plodnosti je spaní s druhým partnerem největším tabu." {WORDfertility}{WORDsiblings}
+"Velká hodnota je přičítána sourozeneckým vztahům v našich rodinách. Například, jakmile někdo dosáhne dospělosti, má odpovědnost a rozhodovaní nad mladšími sourozenci, dokonce více než rodiče."{WORDmaturity}
+"Dospělost je dosažena desátým rokem života a nejsi nucen dodržovat pravidla starších."
+"ženy jsou plodné pouze tři měsíce v roce. To je čas Fadhiim a oslava začíná velkou slavností. Během té doby je v platnosti tabu pro manželé a jejich druhé partnery."{WORDsecondary partner}{WORDmarriage}
+"Obřad Sebai je nejmocnější magický akt, kterého jsme schopni. Může být proveden každým, s alespoň nepatrným magickým nadáním. ^ Měl bys vědět, že v Trii má během prvního týdne znovuzrozený zvláštní schopnosti. Když se dospělý dotkne novorozeného Trii proti němu, může přenést celé své já do duše dítěte. On nebo ona může začít život znovu; tělo dospělého zemře ve chvíli obřadu. ^ Normálně je zakázané vykonat obřad bez souhlasu poradního kruhu. Mimo to, únos znovuzrozeného je zde nejhorším zločinem. Podle našich zákonů jsou zločinec a celá jeho rodina potrestáni smrtí. ^ Pouze několik neobyčejných lidí, Vyvolených, může podstoupit obřad. Kromě toho, rituál se nemůže uskutečnit bez souhlasu matky novorozence. Obvykle je to partner nebo sestra Vyvoleného. ^ ^ Když je obřad vykonán, Vyvolený přijímá titul Sebai, doplněn o číslo, které označuje, po kolikáté on nebo ona obřadem prošli." {WORDmagic}{WORDTrii}{WORDcouncil}{WORDChosen}
+"Je velmi obtížné dosáhnout postavení Vyvoleného, osoby oprávněné k obřadu Sebai a konečně to vždy závisí na hlasech příslušného poradního kruhu. ^ ^ Jsou zde různé možnosti k udělení pocty obřadu. Například, když se někdo prokáže velkou osobní odvahou nebo sebeobětováním. Pokud on nebo ona zemře, bratr nebo sestra mohou být učiněni Sebai k poctě této osoby. ^ ^ Celkem často se také stává, že je zvolen někdo, kdo dosáhne vysoké hodnosti v Stiriik. Obecně jsou za ně považováni lidé s jedinečnými znalostmi, pokud tyto znalosti používali ku prospěchu všech."{WORDSebai}{WORDcouncil}{WORDStiriik}
+"Trii, které každý z nás nosí na svém čele, je velmi zvláštní orgán. Je viděn jako centrum ducha. Jeho poranění může vést k narušení osobnosti, ztrátě paměti a dokonce smrti. ^ Pokud dva lidé nasměrují své Trii proti sobě, mohou cítit emoce toho druhého a zvláště nadaní jedinci mohou číst druhé osobě myšlenky."
+"Stiriik jsou odpovědni za dodržování zákonů. Pohánějí před soud zločince a snaží se vnést trochu pořádku do našich životů. ^ ^ Od člena Stirrik je požadováno velkém množství disciplíny, vlastnosti, které si velice vážíme. Avšak jak je tomu často s ideály... V některém případě mnoho rekrutů nevydrží u Stiriik dlouho."
+"Zákony jsou projednávány radou a pokud jsou porušeny, jsou vynuceny Stiriik. Avšak celá rodina zločince je ve snaze zabránit narušování pořádku odpovědna za jeho chování. Pokud Stitiik okamžitě nedopadnou zločince, je úkolem rodiny najít vzpurného člena, nebo jinak zločin vyřešit. V tomto případě jsou samozřejmě podporováni a sledováni nejméně jedním Shiriikem."{WORDcouncil}{WORDStiriik}
+"Cech Dji je organizací mnoha určitých povolání, a těch je zde velké množství: cech Tvůrců Dji-Fadh, Kouzelníků, Kupců, a cech Lovců."{WORDDji-Fadh}{WORDDji-Kas}{WORDbuy}
+"Umění nesmí být vykonáváno rukama a pouze několik ho může vykonávat hlavou. Pouze málo má nadání měnit věci nebo je tvořit z ničeho silovou svých duchů a s požehnáním Bohyně. Zde jsou pouze dva cechy zabývající se magií, Tvůrci nebo Dji-Fadh a Dji-Kas." {WORDDji-Fadh}{WORDDji-Kas}{WORDGoddess}
+"Většina z nás věří, že po smrti se vrátíme tam, odkud jsme přišli: Velké Vědomí, které je tvořeno všemi našimi předky a často je nazýváno Bohyně. říkají, že čím více příkladný život povedeme, tím více zůstaneme sami sebou po začlenění do Bohyně."
+"Jirinaar je největší město našeho lidu. Má dlouhou historii a jeho přístav ho činí obchodním střediskem Nakiridaani."{WORDNakiridaani}{WORDhistory}
+"Nakiridaani je jméno země v níž se nyní nacházíš. Je to rozlehlý ostrov slavný pro svou džungli a jeho rozmanité rostliny a zvířata."
+"V budově řady najdete Sebai-Giz Frill, který je proslulý jako velký učitel historie. Jistě vám bude moci povědět o minulosti více než mohu já."
+"Zjistil jsem, že lidé jsou zajímavé bytosti. Vypadají jako malé, silné stromy a s každým jejich krokem zasazuje do země kořeny. Slyšel jsem, že jsou velmi silní a mohou se dožít neuvěřitelného staří."
+"Budovu rady je snadné najít. Je to velká stavba ve středu města, na ostrově v řece."
+"Městská Brána je v jižní části města, blízko budovy rady."{WORDcouncil building}
+"Zbraně a výzbroj můžete nakoupit v severovýchodní čtvrti města. V přístavní oblasti na jihovýchode je velký obchod se všemi druhy užitečných předmětů a také kupec se zásobami."
+"Blízko přístavu je velmi známá krčma. Držte se jihovýchodně."
+"Přístav se nachází v jihovýchodní části Jirinaaru."
+"Joker. Ztratili jste paměť?"
+"Udeřil vás někdo do Trii? To byste měli vědět sami."
+"Předpokládám, že se na to ptáte kvůli svým zvláštním společníkům."
+"K řádnému opatření průvodního listu, musí být tento označen vedle jména podepsaného osobitou vůni. Každý z nás má malou vonnou žlázu za ušima, která vytváří zřejmou vůni."
+"Oblékání má pro nás ozdobný význam. Nosit mnoho oblečení je považováno za velmi vyzývavé, co může vzbudit něčí zvědavost více, než zakrytá část těla?"
+"Pokud hledáte pomoc pro svá zranění, jděte do Dji-Kas. Jsou mezi nimi někteří schopní ranhojiči."{WORDDji-Kas}
+"Slyšel jsem zvěsti, že ví, lidé, plné pociťujete vaši bolest. My můžeme naši bolest ovládat nejméně dokud se nevzbudíme. Děti se této technice učí až když jsou starší a mohou rozpoznávat vážná zranění."
+"Toto slovo znamená začátečník, student a je používáno jako titul."
+"Ve většině případů je toto slovo použito se jmény. To znamená, že osoba je mistr ve svém oboru."
+"Divná otázka. žijeme na tomto světě. Pocházíme z něj, vstupujeme do Bohyně a Bohyně je svět. ^ ¡žili byste rádi ve své vlastní špíně?"
+"Akiir je hlavou Dji-Fadh."{WORDDji-Fadh}
+"Tato věrolomná vražda je pobuřující! Doufejme, že vás hon na prchajícího vraha bude úspěšný!"
+"Tragédie, která, věřím, tvoří dějiny."
+"Je Sebainah Nakiridaani. Obvykle ji můžeš najít v budově rady ve středu města."
+"Je starší Stri Dji-Das, milovaný občan města."{WORDDji-Kas}{WORDStri}
+"Nikdy bych nevěřil, že Fassir by byl schopen zavraždit Akiira!"{WORDAkiir}
+"Ihned jsem cítil, že Fassir není typ Iskai, který by byl schopen vraždy."
+"Je nejnadanější ranhojička ve městě. Báječná žena; je vždy přístupná jednání."
+"Argim byl hlavou Dji-Fadh před téměř 150 lety a jeho život se stal jednou z našich legend. Tenkrát byl cechovní dům Dji-Fadh mimo město. Byla to velkolepá stavba. Argim měl ve svém oboru velké nadání, ale nestálou povahu. To byl důvod, proč jeho nejvyšší cíl byl zamítnut: stát se jedním z Vyvolených. Když se dozvěděl o rozhodnutí, přestal se ovládat. Přísahal, že vzdor všemu dosáhne nesmrtelnosti. V nezodpovědné demonstraci síly zničil celou stavbu a změnil ji v divné místo, kterému se nyní každý vyhýbá. říká se, že tomu místu vtiskl svého ducha."{WORDDji-Fadh}{WORDChosen}
+"Je jich zde spousta, ale toto je sotva čas na vyprávění příběhu. Omluvte mě."
+"Chcete mě urazit? Och, vy víte, co to slovo znamená! Ach, dobře... Hir Hir! Je to jméno zvířete, které se netěší velké přízni, protože se živí většinou výkaly!"
+"Nic o tom nevím."
+"Sebai-Giz Frill je slavný učitel historie. Samozřejmě, je často pryč na cestách. Pokud je v Jirinaaru, můžete ho najít v jeho pracovně ve východním křídle budovy rady."{WORDcouncil}

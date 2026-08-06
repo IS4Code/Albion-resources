@@ -1,0 +1,3 @@
+﻿!
+{LEAD}{NAME} a společníci vstoupili do světla. Byli naplněni báječným, plovoucím pocitem. ^ ^ Po upadnutí do snového stavu, společníci cítí přítomnost vědomí, které se zdá existovat na všech místech planety současně. Skrze světlo vedou rozličné cesty.{BLOK010}{CNTR}{INK 001} Nakiridaani, ostrov Iskai {BLOK011}{CNTR}{INK 001} Gratogel, vlast dávných Keltů {BLOK012}{CNTR}{INK 001} Maini, jižně od velké země {BLOK013}{CNTR}{INK 001} Maini, severně od velké země {BLOK014}{CNTR}{INK 001} Horká poušť Umaja {BLOK015}{CNTR}{INK 001} Dji-Cantos Ostrov Míru
+Cesta skrze moře světla začala a skončila v tu samou chvíli.

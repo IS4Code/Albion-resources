@@ -1,0 +1,9 @@
+﻿{BLOK000} "Oh, já tady ve městě řídím obchod s jídlem."
+"Co? Vy tady? Prosím, pomozte nám. Teď bychom vaši pomoc opravdu potřebovali. Odhalte zlověstného Kontose - možná můžeme zabránit nejhoršímu! Můžete přesvědčit obyvatele Kounosu, že se v Kontosovi mýlili! My to nemůžeme udělat, protože oni by si hned mysleli, že je chceme rozeštvat. Ale vy pro to nemáte žádný důvod. Určitě jste také lépe informováni o Kontosovi než já?" {BLOK010} "My věříme, že Kontos má pravdu." {BLOK011} "Sami v tom nemáme úplně jasno." {BLOK012} "Kontos znamená velké nebezpečí, ale my s tím nemůžeme nic dělat." {WORDKontos}{WORDshrine}
+"Jste si tím jisti??? Podle toho co jsem slyšel má Kontos úplně jiné plány. Ale vidím, že vás také přesvědčil."
+"Musíte o něm získat víc informací. Samozřejmě že mnohdy neuslyšíte pravdu, ale pokud budete pozorně naslouchat, určitě si o něm uděláte představu."
+"Ale můžete! Seberte proti němu důkazy, ptejte se lidí a ukažte Mahinosům, že se v Kontosovi mýlili. Už jsem slyšel o nějakých spiknutích, ve kterých měl Kontos prsty. Musíte pokračovat v pátrání!"{WORDevidence}
+"Udělejte něco!"
+"Myslím, že se tu konflikt vyhrocuje! Možná ještě můžete zabránit nejhoršímu, když se vám podaří najít důkazy proti Kontosovi!"
+"Ano, určitě. Musíme najít proti Kontosovi co nejvíc důkazů. Musíme navštívit co nejvíc lidí a zeptat se jich na to. Musíte prostě něco najít! Ukažte obyvatelům Kounosu pravdu!"
+"To jsem já."

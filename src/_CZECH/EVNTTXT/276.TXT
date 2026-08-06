@@ -1,0 +1,2 @@
+﻿{BLOK000} "Já kupuji potraviny."
+"Pojďte dál! ^ ^ Věřím, že jste opravdu hladoví! Právě mám spoustu čerstvého ovoce ze Srimalinaru." {BLOK010} "Ano, rádi bychom si koupili něco k jídlu." {WORDSrimalinar}

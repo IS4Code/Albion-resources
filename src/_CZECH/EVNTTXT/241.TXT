@@ -1,0 +1,7 @@
+﻿{BLOK000} "Jsem členem Rady Spravedlnosti. Nemohu vám o tom nic říct a vy to vědět nepotřebujete."
+"Skeima Din, máte opravdu neodkladný problém?"
+"Skeima Din, mám spoustu práce. Prosím nerušte mě, pokud nepřicházíte s něčím skutečně důležitým."
+"Bohužel jsem teď velmi vytížený. Nemám na vás vůbec čas."
+"Pak zase neobtěžujte."
+"Tak se jmenuji."
+"Neptejte se mě prosím, mám moc práce."

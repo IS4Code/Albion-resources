@@ -1,0 +1,23 @@
+﻿{BLOK000}"Jsem rybář a námořník." {WORDsailor}
+"Togi Din, cizinci. Co pro vás může prostý námořník udělat?"{BLOK010}"Togi Din, Garris! Hledáme cestu do Maini, země na východě." {WORDsailor}{WORDsea voyage}
+"Přirozeně. Cena za plavbu je dvěsta zlaťáků. Samozřejmě, každý poutník potřebuje povolení od našeho krále, Tharnose. Promluvte si s ním o vaší cestě. Najdete ho v jeho domě ve středu vesnice." {WORDTharnos}{WORDsea voyage}
+"Máte Tharnosovo povolení k cestě?"
+"Vše je připraveno na vaši cestu. Můžeme vyrazit tak brzy, jakmile od vás dostanu dvěstě zlaťáků."
+"Ah, Tharnosovo povolení. Výborně. Nyní, pokud máte s sebou dvěstě zlaťáků, cesta může začít."
+"Mohu pyšně říci, že jsem nikdy neztratil cestujícího a že jsem nejlepší rybář ve vesnici!"
+"Togi Din! Jste připraveni na plavbu? ^ ^ Jak víte, vše co potřebujete je dvěstě zlaťáků a Tharnosovo povolení."
+"Togi Din! Myslel jsem si, že vás znovu uvidím! Pokud potřebujete na delší výlet po moři, rád vám budu k službám."
+"Předtím, než přijmu poplatek za výlet, musím se nejprve zeptat Tharnose na povolení."
+"Velmi dobře. Pojďme okamžitě vyrazit."
+"Togi Din, cizinci. Jste připraveni na vaši plavbu? ^ ^ Víte, že vše co potřebujete je dvěstě zlaťáků a Tharnosovo písemné povolení!"{BLOK010}"Ano, máme zlato a povolení. Výlet může začít."{BLOK011}"Máme vše, ale rádi bychom ještě trochu počkali."
+"Togi Din, cizinci. Jste připraveni na plavbu? ^ ^ Víte, že vše co potřebujete je dvěstě zlaťáků a Tharnosovo písemné povolení!"{BLOK010}"Naneštěstí, nemáme písemně povolení do Tharnose. Sbohem."
+"Togi Din, cizinci. Jste připraveni na plavbu? ^ ^ Víte, že vše co potřebujete je dvě stě zlaťáků a Tharnosovo písemné povolení!"{BLOK010}"Ještě potřebujeme zlato. Vrátíme se tak brzy, jakmile ho budeme mít dostatek. Sbohem."
+"Jak říkáte. Do té doby."
+"Promluvte si s Tharnosem. Za malou laskavost vám určitě povolení dá."
+"Hodně štěstí v získávání zlata."
+"Togi Din! Jsem překvapen, že vás znovu vidím! Pokud potřebujete uskutečnit další plavbu, rád vám budu k službám!"{BLOK010}"Ano, proč ne. Zde je dvěstě zlaťáků."{BLOK011}"Ne, děkujeme. Možná později."
+"Togi Din! Jsem překvapen, že vás znovu vidím! Pokud potřebujete uskutečnit další plavbu, rád vám budu k službám!"{BLOK010}"Ne, děkujeme. Nemáme právě peníze."
+Garrisovy námořnické dovednosti znovu zabezpečily klidnou a bezproblémovou plavbu. Brzy, {LEAD}{NAME} a {HIS } společníci bezpečně dorazili na Beloveno.
+"Přirozeně. Cena za plavbu je dvěstě zlaťáků. Samozřejmě, každý poutník potřebuje povolení od Tharnose. Promluvte si s ním o vaší plavbě. Najdete ho v jeho domě ve středu vesnice."{BLOK010}"Už máme zlato i povolení! Plavba může začít."{BLOK011}"Máme vše co potřebujeme, ale rádi bychom zůstali o trochu déle."
+"Přirozeně. Cena za plavbu je dvěstě zlaťáků. Samozřejmě, každý poutník potřebuje povolení od Tharnose. Promluvte si s ním o vaší plavbě. Najdete ho v jeho domě ve středu vesnice."{BLOK010}"Dosud nemáme Tharnosovo povolení!"
+"Přirozeně. Cena za plavbu je dvěstě zlaťáků. Samozřejmě, každý poutník potřebuje povolení od Tharnose. Promluvte si s ním o vaší plavbě. Najdete ho v jeho dome ve středu vesnice."{BLOK010}"Dosud nemáme zlato, vrátíme se později."

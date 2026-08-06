@@ -1,0 +1,169 @@
+﻿-free-
+Větve a kořeny.
+Pletený košík
+Skleněná nádoba na vodu a ostatní drinky.
+Sud.
+Velkolepá zvířecí kůže.
+Vědro.
+Hliněná mísa.
+Láhev.
+Talíř.
+Hliněný džbán.
+Džbán.
+Nůž.
+Vidlička.
+Lžíce.
+Hliněná nádobka.
+Skály.
+Mísa.
+Nástroj na obdělávání půdy.
+Sekera.
+Pokrývka hrudi.
+Dřevěná truhla.
+štědře zdobená truhla ze dřeva.
+Komnata úlevy.
+Pokrývka.
+Dřevěná káď.
+železná konev.
+Skříň.
+V těchto policích našly své místo samé bezvýznamné věci, patrně dekorativního charakteru.
+Psací stůl (sekretář).
+Koště.
+Rošt.
+Můžeš si tu opéci maso.
+Ohniště (krb).
+Tepaná karafa.
+Sběračka.
+Dekorativní meč na zeď.
+Dřevěný stůl.
+Stolička.
+Zalomená stolička.
+Masivní jídelní stůl.
+Pařez.
+Dvě překřížená kopí.
+Velký sud naplněný podivnou tekutinou.
+Pípa.
+Prostěradlo.
+Pohodlná a nádherně zdobená postel.
+Tato postel je obyčejná, ale praktická.
+Kuchyňský stůl.
+Ohniště (nebo krb).
+Ohniště (krb) sálá příjemné teplo.
+Zdobený hrnec.
+Sušené bylinky.
+Lidská lebka.
+Zdobený štít.
+Kovový hrnec.
+Zdobený meč.
+Dveře.
+Konvice.
+Nůž.
+Krátká dýka.
+Dýka.
+Dlouhá dýka.
+Krátký meč.
+Meč.
+Dýka (druh bodce)
+Házecí dýka.
+Sekerka.
+Sekera.
+Malý luk.
+Luk.
+šíp.
+Malý, kožený štít.
+Kožený štít.
+Kulatý štít.
+Velký štít.
+Kožená čapka.
+Reliéfní čapka.
+Kovová mísa (pohár, váza, číše).
+Kožená vesta.
+Kožené brnění (?).
+Reliéfní kožená vesta.
+Pár bot.
+Pár velkých bot.
+Prázdná láhev.
+Zelený léčivý lektvar.
+Tyrkysově zbarvený léčivý lektvar.
+Modrý léčivý lektvar.
+Klíč.
+Lano.
+Prsten.
+Pochodeň.
+Kladivo.
+Schody. Vedou nahoru.
+Schody. Vedou dolu.
+Pult.
+Kobercová rohož.
+Pokojová rostlina.
+Květináč.
+Do země je tu zasazen nádherně zdobený ornament. Symboly na něm zobrazené označují společenstvo zabývající se výrobou výstroje a výzbroje.
+Do země je tu zapuštěn nádherný ornament, který zdobí velký krystal.
+železný stůl.
+Kovadlina.
+železný štít.
+železná truhla.
+Komín od kovářské výhně.
+Závěs na zdi.
+Neobsazená poduška. Je tuze krásná a obyčejně slouží toliko jako dekorativní předmět.
+Několik vzácných kousků drahokamů.
+Vystavená deska se zbraněmi a štíty.
+Prázdná výstavní plocha.
+Mísa s ohněm.
+Mísa na oheň bez ohně.
+Volná rukojeť.
+Rukojeť.
+Místo pro vodu.
+Kladivo.
+Kladívko.
+Kladivo.
+Speciální kladivo.
+Kleště.
+Pilník.
+Pilníček.
+Kůží potažený razník s ďourou (možná, pardon).
+šroubovák.
+Malý šroubovák (tzv. šroubováček).
+železná pila.
+Určitý nástroj.
+Kádinka.
+Hasák.
+Maxinůžky.
+Mísa.
+Hezké nůžky.
+Láhev.
+Několik láhví.
+Ampule.
+červená ampule.
+Kovová schránka.
+Kovový objekt.
+Sdrátovaný objekt.
+železná mísa.
+Mosazné kule.
+Mísa s vodou.
+Mísa.
+Moždíř.
+Lupa.
+Lékařské kleště.
+Těžký, krátký meč.
+Zdobený meč.
+Dvojitá dýka (typ bodce).
+Dlouhý meč.
+Skříň určená k vystavení zboží.
+Police s cennými ukázkami kovářského umění, ornamenty a drahokamy.
+Těžební vozík.
+Kolejnice.
+Nárazníková zarážka.
+židle.
+Stroj na výbrus diamantů.
+Východ.
+"Skeima Din...Bratři a sestry...není dnes báječný den?"
+"Už nikdy nebudu hrát! Prohrál jsem víc jak 1000 zlatých. To je skoro tolik, o kolik mě obehrála Nelly. říkám vám, lidé tu nehrají fér. Nenechte se jimi ukecat do hry, nebo dopadnete jako já."
+"Mluvili jste už s Konny? Obvykle sem zajde, když ji zbude čas. Ráda si s lidmi povídá o jejich putování a dobrodružství. Až ji potkáte, tak si s ní můžete o tom promluvit."
+"Hi, hi, jak vidím, už vás nějaká hmyzoidní potvora pobodala. Naštěstí, většina z nich je neškodná. Kolem pouště je hodně komárů a jiného létajícího hmyzu. Proto se tu také tak daří hmyzožravým rostlinám. Jen si všimněte, jak lapají hmyz."
+"Nevidíte, že umírám žízní? Z cesty, z cesty!"
+"Skeima Din."
+"Doufám, že už brzy budu velký jako vy! Pak budu moci taky chodit, kam budu chtít."
+{INK 002} Děvčátko se na vás poplašeně podívalo, ale neřeklo nic.
+"Je tu taková nuda. Není tu s kým si promluvit a všichni mí kamarádi jsou tak daleko. Moji rodiče mě nikdy nenechávají samotnou..."
+"Být tebou, nechodil bych do jižních částí pouště! Před nějakým časem se z těch končin ozval hrozivý burácející zvuk a já jsem viděl do těch míst zřítit se z oblohy něco obrovského. Blikalo to, vrhalo to záblesky a točilo se to kolem vlastní osy. Nikdy jsem ještě neviděl něco tak obrovského. Většina lidí mi to nevěří, ale já to viděl na vlastní oči a ty nelžou! Nikdo z nich ale nemůže popřít, že slyšel ten ohlušující hřmot, ale každý si pro něj našel nějaké vysvětlení. Nechtějí prostě připustit, že mám pravdu. Jsem si jistý, že je to něco zlého. Já bych tam být vámi rozhodně nechodil. Už o tom nebudu mluvit, beztak si už o mně všichni myslí, že jsem pesimista. Ale jestli chcete, můžete si o tom hluku promluvit s ostatními."

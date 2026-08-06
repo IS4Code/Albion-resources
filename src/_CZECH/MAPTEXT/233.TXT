@@ -1,0 +1,192 @@
+﻿-free-
+Větve a kořeny.
+Pletený košík
+Skleněná nádoba na vodu a ostatní drinky.
+Sud.
+Velkolepá zvířecí kůže.
+Vědro.
+Hliněná mísa.
+Láhev.
+Talíř.
+Hliněný džbán.
+Džbán.
+Nůž.
+Vidlička.
+Lžíce.
+Hliněná nádobka.
+Skály.
+Mísa.
+Nástroj na obdělávání půdy.
+Sekera.
+Pokrývka hrudi.
+Dřevěná truhla.
+štědře zdobená truhla ze dřeva.
+Komnata úlevy.
+Pokrývka.
+Dřevěná káď.
+železná konev.
+Skříň.
+V těchto policích našly své místo samé bezvýznamné věci, patrně dekorativního charakteru.
+Psací stůl (sekretář).
+Koště.
+Rošt.
+Můžeš si tu opéci maso.
+Ohniště (krb).
+Tepaná karafa.
+Sběračka.
+Dekorativní meč na zeď.
+Dřevěný stůl.
+Stolička.
+Zalomená stolička.
+Masivní jídelní stůl.
+Pařez.
+Dvě překřížená kopí.
+Velký sud naplněný podivnou tekutinou.
+Pípa.
+Prostěradlo.
+Pohodlná a nádherně zdobená postel.
+Tato postel je obyčejná, ale praktická.
+Kuchyňský stůl.
+Ohniště (nebo krb).
+Ohniště (krb) sálá příjemné teplo.
+Zdobený hrnec.
+Sušené bylinky.
+Lidská lebka.
+Zdobený štít.
+Kovový hrnec.
+Zdobený meč.
+Dveře.
+Konvice.
+Nůž.
+Krátká dýka.
+Dýka.
+Dlouhá dýka.
+Krátký meč.
+Meč.
+Dýka (druh bodce)
+Házecí dýka.
+Sekerka.
+Sekera.
+Malý luk.
+Luk.
+šíp.
+Malý, kožený štít.
+Kožený štít.
+Kulatý štít.
+Velký štít.
+Kožená čapka.
+Reliéfní čapka.
+Kovová mísa (pohár, váza, číše).
+Kožená vesta.
+Kožené brnění (?).
+Reliéfní kožená vesta.
+Pár bot.
+Pár velkých bot.
+Prázdná láhev.
+Zelený léčivý lektvar.
+Tyrkysově zbarvený léčivý lektvar.
+Modrý léčivý lektvar.
+Klíč.
+Lano.
+Prsten.
+Pochodeň.
+Kladivo.
+Schody. Vedou nahoru.
+Schody. Vedou dolu.
+Pult.
+Kobercová rohož.
+Pokojová rostlina.
+Květináč.
+Do země je tu zasazen nádherně zdobený ornament. Symboly na něm zobrazené označují společenstvo zabývající se výrobou výstroje a výzbroje.
+Do země je tu zapuštěn nádherný ornament, který zdobí velký krystal.
+železný stůl.
+Kovadlina.
+železný štít.
+železná truhla.
+Komín od kovářské výhně.
+Závěs na zdi.
+Neobsazená poduška. Je tuze krásná a obyčejně slouží toliko jako dekorativní předmět.
+Několik vzácných kousků drahokamů.
+Vystavená deska se zbraněmi a štíty.
+Prázdná výstavní plocha.
+Mísa s ohněm.
+Mísa na oheň bez ohně.
+Volná rukojeť.
+Rukojeť.
+Místo pro vodu.
+Kladivo.
+Kladívko.
+Kladivo.
+Speciální kladivo.
+Kleště.
+Pilník.
+Pilníček.
+Kůží potažený razník s ďourou (možná, pardon).
+šroubovák.
+Malý šroubovák (tzv. šroubováček).
+železná pila.
+ Určitý nástroj.
+Kádinka.
+Hasák.
+Maxinůžky.
+Mísa.
+Hezké nůžky.
+Láhev.
+Několik láhví.
+Ampule.
+červená ampule.
+Kovová schránka.
+Kovový objekt.
+Sdrátovaný objekt.
+železná mísa.
+Mosazné kule.
+Mísa s vodou.
+Mísa.
+Moždíř.
+Lupa.
+Lékařské kleště.
+Těžký, krátký meč.
+Zdobený meč.
+Dvojitá dýka (typ bodce).
+Dlouhý meč.
+Skříň určená k vystavení zboží.
+Police s cennými ukázkami kovářského umění, ornamenty a drahokamy.
+Těžební vozík.
+Kolejnice.
+Nárazníková zarážka.
+židle.
+Stroj na výbrus diamantů.
+Východ.
+Vchod do tunelů.
+"Až doteď mě vždycky chytli. Po pravé straně jsem viděl příhodný kout. Zkusím se tam schovat."
+"U bohyních fuseklí, vždycky se mi do plic dostane tolik prachu. Je to fakt záhul na plíce, když pracuješ v podzemí po delší dobu. Měl bych si opatřit něco na nos, než se vydám do těchto tunelů, jinak se mi bude dosti špatně dýchat. Tohle je dost nedobrý pro zdraví a to nemluvím o spoustě možných nebezpečí, která ti hrozí především ze shora. A to si ještě spousta rozličných lidí stěžuje, že chceme za drahokamy a rudu příliš mnoho. Věřili byste tomu?"
+"Uklízím horníkům umývárny a koupelny."
+"Skeima Din, Bekkina jest mojím jménem. Jste tu na návštěvě? Nuž dobrá tedy. Ať se vám tu líbí. Možná se potkáte s mým mužem. Je horským knězem a je neustále něčím zaměstnán. Má jen jednoho kolegu a nemůže si dopřát příliš mnoho volna. Takové vytížení je pro rodinný život téměř zničující. řeči, že požadujeme příliš mnoho zlata, jsou přehnané a nesmyslné. Nikdo tu nic nedostal."
+"Jsem trochu unaven(a). Bohužel jsem musel(a) včera celý den pracovat. Prosím, omluvte mě."
+"Viděli jste tu někde Zebenna. Už mi vážně leze na nervy. Pořád si stěžuje na naše ceny. Pravděpodobně nemá nic lepšího na práci. No, asi se po něm podívám sám. Přeji vám příjemný den."
+"Nuže dobrá tedy. Běžně do své kuchyně návštěvníky nevodím. Buďte tu tedy vítáni. Já jsem Rekkejos a jsem tu něco jako šéfkuchař."
+"Polévka s masovými knedlíčky."
+"Rybí řezy v bylinné omáčce."
+"Zeleninový čubr s hranostajem." (pokud jste zdatní gurmáni, tak originál zněl 'soufflé se sugo')
+"čerstvé pečivo plněný zeleninovou pastou."
+"Zapečená Akarva (?) s chutnými žlutými houbami."
+"Dnešní specialitou je rejnok s dvojitou porcí cibule a česneku."
+"Nemůžu se rozhodnout, ale asi navařím ještě jeden hrnec."
+"Ovocné soufflé s kozí omáčkou." (a zaječími bobky)
+"Angreštový koláč s ořechovou omáčkou."
+"Pečené žaludy s bukvicovým salátem."
+"Dneska chystám studenou mísu."
+"Už mě nic dalšího nenapadá. Co bych ještě mohl pro dnešek udělat?"
+"Skeima Din. Pomáhám Rekkejosovi s vařením. Má pořád napilno, protože sem chodí jíst všichni horníci. Nedokázal by sis ani představit, jaké hostiny jsou tu na denním pořádku. Samozřejmě, můj šéf je skutečný šéfkuchař."
+"Skeima Din. Jestli jste tu na návštěvě, můžu pro vás připravit na noc pokoj."
+"Už jste slyšeli o proslulém 'kameni tisíce vidění'? Mykonou, ten starý brusič diamantů mi o něm řekl."
+"Ahojky! Vy lidé říkáte 'ahojky', že?
+"Zrovna se věnuji hře. Chcete se ke mně přidat?"
+"Hahaha! Proč nosíte tak legrační ohoz?"
+"No, milý utřinose. Až budeš větší, tvá matka ti to vysvětlí. Nepocházíme z těchto končin a tam, odkud pocházíme, je tohle naprosto běžný oděv."
+"Jsem Bah a mám žízeň."
+"Chcete vědět, co je dneska k obědu/k večeři?"
+"Myslím, že bude lepší, když tam půjdu sám. Horníci nám zakázali vstupovat do tunelů. Budu mít tak větší šanci, že se tam dostanu, aniž by si mě někdo všiml."
+"Zjistil jsem tajné obřadní heslo. Jen doufám, že je to to pravé."
+Plechovka.
+"Budete si přát strávit zde noc?"

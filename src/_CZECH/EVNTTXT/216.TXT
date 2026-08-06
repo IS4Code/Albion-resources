@@ -1,0 +1,10 @@
+﻿{BLOK000}"Chytám divoký zvířata v lesích, zabíjím je a pak prodávám maso. Takže byste mi mohli řikat lovec, řezník a obchodník, jo?"{WORDhunter}
+"Thkeima Din, cizinci. Jsem Aurino a řád vás poznávám. No, jak vám chutná naše sugo?" {BLOK010} "Thkeima... Skeima Din. Díky za optání. Je to dobrý pití.!" {BLOK011} "Skeima Din, Aurino. Potěšení je na naší straně. Ale tohle sugo je opravdu dost nechutný!"
+-free-
+"Hmm, normálně to dlouho trvá, než mu přijdete na chuť, žejo. Ale já vám věřím. Pokud si s ním nevypálíte krk...."{WORDsorrow}
+"He he he. Líbíte se mi. Aspoň jste upřímný. Kdyby byl takovej každej, nebylo by v Belovenu tolik potíží."{WORDsorrow}
+"No, co byste dělali, kdybyste nemohli věřit ani těm nejdůležitějším lidem ve městě?"{BLOK010} "Můžeš mluvit víc konkrétně?"
+"Prostě, soudní rada by měla bejt pro lidí. Jednou jsem se hádal se sousedem. Bylo to kvůli vlastnictví pozemku. Náš chytrej soudní sněm měl udělat právnický rozhodnutí, to se v takovejch případech dělá. Ale nepomohli ani mě, ani sousedovi. Prostě nám ten majetek zabavili, chápete? Tomu nerozumím. Něco s tou soudní radou není v pořádku."{WORDpiece of land}
+"Mám rád svou práci, dík!"
+"To s tím nemá co dělat. Jen sem to řek jako příklad, jasný?"
+"To jsem já."

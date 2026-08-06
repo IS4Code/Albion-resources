@@ -1,0 +1,5 @@
+﻿{BLOK000}"Jsem král Vanella."{WORDking}{WORDVanello}
+"Togi Din, poutníci. Rádi byste se mnou mluvili?"{BLOK010}"Hledáme velký kovový předmět, který spadl z oblohy. Slyšel jste o něčem takovém?"
+"Ne, nerad jsem vás zklamal. Skutečně bych o takové události na Gratogelu musel slyšet."{WORDGratogel}
+"Togi Din. Co pro vás ještě mohu udělat?"
+"Ano, jsem vůdce lidí na Vanellu."

@@ -1,0 +1,15 @@
+﻿{BLOK000} "Já jsem mág od Kenget Kamulů, ale distancuji se od nich a teď žiji na vlastní pěst."
+"Skeima Din, ^ ^ mluvíte s Khunagem. Co od mne chcete? Jsem nerad rušen, i když pro něco důležité." {WORDimportant}
+"Skeima Din, ^ ^ prosím nerušte mě, pokud to není vyloženě potřeba." {WORDimportant}
+"O čem chcete se mnou mluvit?" {BLOK010} "Mohl byste nám podat užitečnou informaci?" {BLOK011} "Vypadáte jako mág." {BLOK012} "Hledáme učitele." {BLOK013} "Co si myslíte o místní politické situaci?" {BLOK014} "Už vás nebudeme obtěžovat."
+"Ne, proč bych měl?"
+"Tak podívejte; Já nejsem žádný učitel."
+"Nevidím žádný problém. Příležitostné nesouhlasy jsou normální. Nebo máte jinou definici problému?"
+"Skeima Din."
+"Dobrý postřeh. Nechci před vámi zakrývat, že jsem mág, ale to už je dávno pryč. Přesto jsou mé magické schopnosti větší, než kdy předtím. Proč vás to tak zajímá?" {BLOK010} "Někdo s vašimi schopnostmi by se nám hodil na našich cestách."
+"Na jaké cestě právě jste?" {BLOK010} "Dobře..."
+A tak Tom vypráví o nejdůležitějších bodech jejich cesty a o nadcházejících úkolech. ^ ^ "Bylo by hezké vidět vaši mateřskou loď. Přidal bych se k vám alespoň na krátkou chvíli, pokud byste mě chtěli." {BLOK010} "Dobře, prvně bychom rádi o vás věděli trochu víc." {BLOK011} "Byli bychom šťastní, kdybyste se přidal k nám." {BLOK012} "Budeme o vaší nabídce přemýšlet."
+"Neměli byste o mě vědět všechno. Nejdříve jsem nějaký strávil u Kenget Kamulů. V té době jsem získal své magické schopnosti. Teď žiji nějaký čas tady a můžu si dělat co chci. ^ ^ Samozřejmě bych vám byl platný se svými magickými schopnostmi." {BLOK010} "Jestli chcete, tak pojďte s námi." {BLOK011} "Znovu vám děkujeme za vaši nabídku."
+"řekněte mi své rozhodnutí."
+"Dobrá, půjdu s vámi."
+"Věřím, že vaše skupina je už dost velká."

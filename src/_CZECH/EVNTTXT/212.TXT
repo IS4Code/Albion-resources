@@ -1,0 +1,11 @@
+﻿{BLOK000} "ó, já tady ve městě spravuji obchod s jídlem."
+"Víte že všichni obyvatelé Kounosu brzy obsadí Srimalinarský chrám?" {BLOK010} "Kde jsi to zjistil?" {BLOK011} "Je to jisté?" {BLOK012} "Zabráníme tomu!" {WORDshrine}
+"Ano, situace je vážná. Kontos přesvědčil své následovníky, aby obsadili svatý chrám v Srimalinaru a potlačili tam zlo. Promluvte s ním. Může vám svůj postup vysvětlit."{WORDevil}{WORDshrine}
+"Teď už to ví celé Beloveno. Posel z Kounosu nám to řekl. Jděte tam a zeptejte se Kontose."
+"Každý to ví. Takové zprávy se šíří jako oheň!"
+"Určitě, řekl nám to posel."
+"Ale proč? Jestli je chrám tak nebezpečný, pak by se s tím mělo něco dělat."
+"Myslím, že se s tím něco musí udělat!"
+"Je to pořád horší a horší, jak odtud přicházejí ti zlí tvorové! Každý o tom mluví! Kontos na tom ale už naštěstí pracuje! Jen se ho zeptejte. Může vám ten problém vysvětlit lépe než já." {WORDKontos}{WORDevil}
+"Je dobře, že existují lidé, jako je on!"
+"To jsem já."

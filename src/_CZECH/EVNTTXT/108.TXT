@@ -1,0 +1,6 @@
+﻿{BLOK000}"Tedy, učím se a někdy pomáhám porcovat zvěřinu, kterou přinesou lovci. To je když se nemohu odkrást."
+"Oh, lidé! Ah, chci říci Dsarii-ma!"{BLOK010}"Dsarii-ma. Jak jsi starý?"
+"Dsarii-ma. Chcete ode mne něco?"
+"Už jsou mi čtyři roky. Brzy se naučím, jak potlačit bolest. Ale bude to pěkně dlouho před tím, než budu dospělý!"{WORDpain}{WORDmaturity}
+"Nevím, zdali to lidé mohou dělat, ale my máme způsob. Myslím, že se můžete naučit se od bolesti oprostit. Já se to chystám naučit příště. My starší bratři a sestry to už můžeme dělat.{WORDsiblings}"
+"Už jsem to říkal. Brzy se naučím, jak se oprostit od bolesti."

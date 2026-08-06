@@ -1,0 +1,10 @@
+﻿{BLOK000}"Nechci se chlubit, ale jsem tu ten nejvíce uznávaný a kvalifikovaný kouzelník. Po mnoho let jsem se zabýval náboženskými teoriemi... Proč vám to povídám? Vy zřejmě nemáte vědomosti vědeckého rázu, abyste to dokázali pochopit."
+"Nevidíte snad, že jsem zaneprázdněn? Nesnáším, když mě někdo vyrušuje při přípravě mého proslovu. Takže, co chcete?"{WORDspeech}{WORDKounos}
+"Už zase vy? Poslouchejte. Já jsem velmi společenský tvor, ale nemám čas jednat s každým cizincem, který si to štráduje po okolí - obzvláště tehdy, když si připravuji svoji řeč. Takže jestli je něco, co mi chcete říct, sem s tím a buďte struční."{WORDspeech}{WORDKounos}
+"čas od času si musím zdokonalit své obecné povědomí o obyvatelích Kounosu. Kvůli tomu jsem také ustanovil něco, co by se dalo nazvat druhem náboženské služby... Myslím, že takto to nejlépe pochopíte. Touto cestou už mí bratři získali velké znalosti. Jsou mi za to vděční a nutno říci, že právem. Zastávám tu nesmírně důležitou funkci a pro Kounos a jeho obyvatele chci jen to nejlepší. Dodávám jejich životům smysl. Teď mají něco, pro co mohou žít a věřte mi, to je to nejdůležitější."{WORDbelieve}
+"Nemyslím, že byste dokázali pochopit principy našeho náboženství za několik minut. Proto vám je jenom nastíním:  vůdcovství našeho nejvyššího Lorda a neustálé zdokonalování naší kultury tvoří nejdůležitější část naší víry."{WORDreligion}
+"Je nebezpečné svěřit tajemství magie cizincům. Proto vám už neposkytnu žádné další informace, i když se pokládám za jednoho z nejschopnějších učitelů. A mimo to, nemám na to ani čas. Ale domnívám se, že to byl vlastně účel vaší návštěvy, nemám pravdu?"
+"Nyní jste si již pravděpodobně všimli, že je náš život vázán na tradice. To je pro nás dobré, protože se tak alespoň můžeme soustředit na naše náboženství a důležité stránky našeho života."
+"Ke komu si tak asi myslíte, že mluvíte, hm?"
+"Já s tím nemám nic společného. Co s tím chcete dělat? Klidně to zahoďte - je to bezcenný padělek."
+"Tohle je útržek nějakého dokumentu. Co to má co dělat se mnou? Co s tím chcete dělat? Bez zbývající části je k ničemu."

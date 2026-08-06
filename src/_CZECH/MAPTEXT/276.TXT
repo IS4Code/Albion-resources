@@ -1,0 +1,6 @@
+﻿ 
+Dveře.
+Na dveřích není zámek. Nedají se otevřít ručně ani pomocí klíče.
+Kdokoli uvidí tento amulet musí zemřít!
+{LEAD}{NAME} našel/našla 10 zlaťáků.
+"Je to neuvěřitelné, ale tato zeď je jen iluze - můžeme jí klidně projít."

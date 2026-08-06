@@ -1,0 +1,166 @@
+﻿-free-
+Větve a kořeny.
+Pletený košík
+Skleněná nádoba na vodu a ostatní drinky.
+Sud.
+Velkolepá zvířecí kůže.
+Vědro.
+Hliněná mísa.
+Láhev.
+Talíř.
+Hliněný džbán.
+Džbán.
+Nůž.
+Vidlička.
+Lžíce.
+Hliněná nádobka.
+Skály.
+Mísa.
+Nástroj na obdělávání půdy.
+Sekera.
+Pokrývka hrudi.
+Dřevěná truhla.
+štědře zdobená truhla ze dřeva.
+Komnata úlevy.
+Pokrývka.
+Dřevěná káď.
+železná konev.
+Skříň.
+V těchto policích našly své místo samé bezvýznamné věci, patrně dekorativního charakteru.
+Psací stůl (sekretář).
+Koště.
+Rošt.
+Můžeš si tu opéci maso.
+Ohniště (krb).
+Tepaná karafa.
+Sběračka.
+Dekorativní meč na zeď.
+Dřevěný stůl.
+Stolička.
+Zalomená stolička.
+Masivní jídelní stůl.
+Pařez.
+Dvě překřížená kopí.
+Velký sud naplněný podivnou tekutinou.
+Pípa.
+Prostěradlo.
+Pohodlná a nádherně zdobená postel.
+Tato postel je obyčejná, ale praktická.
+Kuchyňský stůl.
+Ohniště (nebo krb).
+Ohniště (krb) sálá příjemné teplo.
+Zdobený hrnec.
+Sušené bylinky.
+Lidská lebka.
+Zdobený štít.
+Kovový hrnec.
+Zdobený meč.
+Dveře.
+Konvice.
+Nůž.
+Krátká dýka.
+Dýka.
+Dlouhá dýka.
+Krátký meč.
+Meč.
+Dýka (druh bodce)
+Házecí dýka.
+Sekerka.
+Sekera.
+Malý luk.
+Luk.
+šíp.
+Malý, kožený štít.
+Kožený štít.
+Kulatý štít.
+Velký štít.
+Kožená čapka.
+Reliéfní čapka.
+Kovová mísa (pohár, váza, číše).
+Kožená vesta.
+Kožené brnění (?).
+Reliéfní kožená vesta.
+Pár bot.
+Pár velkých bot.
+Prázdná láhev.
+Zelený léčivý lektvar.
+Tyrkysově zbarvený léčivý lektvar.
+Modrý léčivý lektvar.
+Klíč.
+Lano.
+Prsten.
+Pochodeň.
+Kladivo.
+Schody. Vedou nahoru.
+Schody. Vedou dolu.
+Pult.
+Kobercová rohož.
+Pokojová rostlina.
+Květináč.
+Do země je tu zasazen nádherně zdobený ornament. Symboly na něm zobrazené označují společenstvo zabývající se výrobou výstroje a výzbroje.
+Do země je tu zapuštěn nádherný ornament, který zdobí velký krystal.
+železný stůl.
+Kovadlina.
+železný štít.
+železná truhla.
+Komín od kovářské výhně.
+Závěs na zdi.
+Neobsazená poduška. Je tuze krásná a obyčejně slouží toliko jako dekorativní předmět.
+Několik vzácných kousků drahokamů.
+Vystavená deska se zbraněmi a štíty.
+Prázdná výstavní plocha.
+Mísa s ohněm.
+Mísa na oheň bez ohně.
+Volná rukojeť.
+Rukojeť.
+Místo pro vodu.
+Kladivo.
+Kladívko.
+Kladivo.
+Speciální kladivo.
+Kleště.
+Pilník.
+Pilníček.
+Kůží potažený razník s ďourou (možná, pardon).
+šroubovák.
+Malý šroubovák (tzv. šroubováček).
+železná pila.
+Určitý nástroj.
+Kádinka.
+Hasák.
+Maxinůžky.
+Mísa.
+Hezké nůžky.
+Láhev.
+Několik láhví.
+ Ampule.
+červená ampule.
+Kovová schránka.
+Kovový objekt.
+Sdrátovaný objekt.
+železná mísa.
+Mosazné kule.
+Mísa s vodou.
+Mísa.
+Moždíř.
+Lupa.
+Lékařské kleště.
+Těžký, krátký meč.
+Zdobený meč.
+Dvojitá dýka (typ bodce).
+Dlouhý meč.
+Skříň určená k vystavení zboží.
+Police s cennými ukázkami kovářského umění, ornamenty a drahokamy.
+Těžební vozík.
+Kolejnice.
+Nárazníková zarážka.
+židle.
+Stroj na výbrus diamantů.
+Východ.
+Na štítu stojí: {CNTR}{INK 006} čerstvé potraviny, nejlepší kvalita.
+"Doufám, že vás nešokují naše ceny. Ale mějte na paměti, že všechno zboží je dováženo lodí."
+"Všichni mají pořád žízeň. Ujistěte se, že s sebou máte dost vody, obzvláště pokud se vydáte do pouště."
+"Ahoj..." {INK 001} špitla holčička stydlivě.
+"Skeima Din."
+"Skeima Din, jsem Keralt, vyrábím nářadí a zbraně už odmalička. Už jste se byli podívat v našem cechu?"
+"To se musíš vykecávat {FAHI}s každým{NORS} cizincem?"

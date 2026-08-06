@@ -1,0 +1,190 @@
+﻿-free-
+Větve a kořeny.
+Pletený košík
+Skleněná nádoba na vodu a ostatní drinky.
+Sud.
+Velkolepá zvířecí kůže.
+Vědro.
+Hliněná mísa.
+Láhev.
+Talíř.
+Hliněný džbán.
+Džbán.
+Nůž.
+Vidlička.
+Lžíce.
+Hliněná nádobka.
+Skály.
+Mísa.
+Nástroj na obdělávání půdy.
+Sekera.
+Pokrývka hrudi.
+Dřevěná truhla.
+Bohatě zdobená truhla ze dřeva.
+Komnata úlevy.
+Pokrývka.
+Dřevěná káď.
+železná konev.
+Skříň.
+V těchto policích našly své místo samé bezvýznamné věci, patrně dekorativního charakteru.
+Psací stůl (sekretář).
+Koště.
+Rošt.
+Můžeš si tu opéci maso.
+Ohniště (krb).
+Tepaná karafa.
+Sběračka.
+Dekorativní meč na zeď.
+Dřevěný stůl.
+Stolička.
+Zalomená stolička.
+Masivní jídelní stůl.
+Pařez.
+Dvě překřížená kopí.
+Velký sud naplněný podivnou tekutinou.
+Pípa.
+Prostěradlo.
+Pohodlná a nádherně zdobená postel.
+Tato postel je obyčejná, ale praktická.
+Kuchyňský stůl.
+Ohniště (nebo krb).
+Ohniště (krb) sálá příjemné teplo.
+Zdobený hrnec.
+Sušené bylinky.
+Lidská lebka.
+Zdobený štít.
+Kovový hrnec.
+Zdobený meč.
+Dveře.
+Konvice.
+Nůž.
+Krátká dýka.
+Dýka.
+Dlouhá dýka.
+Krátký meč.
+Meč.
+Dýka (druh bodce)
+Házecí dýka.
+Sekerka.
+Sekera.
+Malý luk.
+Luk.
+šíp.
+Malý, kožený štít.
+Kožený štít.
+Kulatý štít.
+Velký štít.
+Kožená čapka.
+Reliéfní čapka.
+Kovová mísa (pohár, váza, číše).
+Kožená vesta.
+Kožené brnění (?).
+Reliéfní kožená vesta.
+Pár bot.
+Pár velkých bot.
+Prázdná láhev.
+Zelený léčivý lektvar.
+Tyrkysově zbarvený léčivý lektvar.
+Modrý léčivý lektvar.
+Klíč.
+Lano.
+Prsten.
+Pochodeň.
+Kladivo.
+Schody. Vedou nahoru.
+Schody. Vedou dolu.
+Pult.
+Kobercová rohož.
+Pokojová rostlina.
+Květináč.
+Ozdobný ornament zasazený do podlahy.
+Překrásný ornament ozdobený obřím krystalem je tu zapuštěn do země.
+železný stůl.
+Kovadlina.
+železný štít.
+železná truhla.
+Komín odvádějící kouř z výhně.
+Závěs na zeď.
+Neobsazená poduška. Je tuze krásná a obyčejně slouží toliko jako dekorativní předmět.
+Několik vzácných kousků drahokamů.
+Vystavená deska se zbraněmi a štíty.
+Prázdná výstavní plocha.
+Mísa s ohněm.
+Mísa na oheň bez ohně.
+Volná rukojeť.
+Rukojeť.
+Místo pro vodu.
+Kladivo.
+Kladívko.
+Kladivo.
+Speciální kladivo.
+Kleště.
+Pilník.
+Pilníček.
+Kůží potažený razník s ďourou (možná, pardon).
+šroubovák.
+Malý šroubovák (tzv. šroubováček).
+železná pila.
+ Určitý nástroj.
+Kádinka.
+Hasák.
+Maxinůžky.
+Mísa.
+Hezké nůžky.
+Láhev.
+Několik láhví.
+ Ampule.
+červená ampule.
+Kovová schránka.
+Kovový objekt.
+Sdrátovaný objekt.
+železná mísa.
+Mosazné kule.
+Mísa s vodou.
+Mísa.
+Moždíř.
+Lupa.
+Lékařské kleště.
+Těžký, krátký meč.
+Zdobený meč.
+Dvojitá dýka (typ bodce).
+Dlouhý meč.
+Skříň určená k vystavení zboží.
+Police s cennými ukázkami kovářského umění, ornamenty a drahokamy.
+Těžební vozík.
+Kolejnice.
+Nárazníková zarážka.
+židle.
+Starý stroj na výbrus diamantů.
+Olejová lampa.
+Rukojeť.
+S pákou se nedá hnout. {LEAD}{NAME} zabral(a) vší silou, ale nebylo to nic platné. Vypadá to, že  je páka nějak blokována.
+S pákou už bylo hnuto. Teď už je zase zaseklá.
+Tohle vypadá na kabel. Páka je pravděpodobně nějak spojena s noži, které jsou v podlaze za ní.
+Tohle jsou velmi ostré nože vycházející z podlahy. Vypadá, že jsou navzájem propojeny.
+Nože sice budí dojem, že by je bylo možné vymlátit kladivem, ale něco v podlaze jim poskytuje velice solidní oporu.
+Nože jsou zaraženy do otvoru.
+Je jednoduché je kladivem zarazit zpět do podlahy a uvolnit si tak cestu.
+Místnost plná mečů a nožů. Některé z nich jsou již rozbité.
+Nože, zaražené do podlahy, jsou velmi ostré. Jsou uspořádány zcela náhodně a budí dojem, že jsou součástí nějakého experimentu.
+{CNTR} štít hlásá: ^ {INK 006}{FAT } Pozor, smrtelné nebezpečí! ^ Jestliže se aktivují všechny tři páky najednou, dojde k přetížení mechanismu! ^ Věnujte pozornost současnému nastavení přepínačů!
+Ovladač nožů pro spojovací místnost na jihozápadě.
+Ovladač nožů pro hlavní halu na východě.
+Ovladač nožů pro důl na severozápadě.
+Mechanismus přetížen.
+Tyto nože jsou ve své pozici mimořádně pevné. Určitě se dají nějak odstranit - ale jak, to je otázka.
+Ach, nože pokračují za zdí doleva! Vypadá to, že je jich tu celý řetěz.
+Zámek je vydatně zrezivělý. Jeho kvalita je již značně nevalná.
+Některé části zámku ruply. Je otevřeno.
+Kontaktní deska.
+Hlavní hala.
+Vypadá to, že se nic nestalo.
+Podle všeho magická síla pominula, protože se předměty přestaly měnit.
+Předmět se změnil.
+Kovadlina.
+Má vynalézavost nezná mezí. ^ Musíš jen vědět, jak na to! ^ ^ Akka.
+8:00 - 11:00
+Dveře jsou zamčené a klíčová dírka je blokována železnou západkou. Jestli se tyto dveře dají otevřít, tak to rozhodně nebude klíčem.
+Vstup do dolů.
+Kruhové schéma.
+železný nášlapný spínač.

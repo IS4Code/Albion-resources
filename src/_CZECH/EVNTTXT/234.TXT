@@ -1,0 +1,7 @@
+﻿{BLOK000} "Jsem členem koncilu Spravedlivých a i když to je těžké, musím dohlédnout na to, že bude brán zřetel na zájmy lidí."
+"Skeima Din, nemám mnoho času. Brzy odcestuji do svatyně v Srimalinaru." {WORDshrine}{WORDtown hall}
+"Konflikt mezi Iskai a lidmi se začíná stupňovat. Mnoho iskaiských bojovníků přišlo bránit měst, protože lidí obsadili svatyni. Mezitím si Iskai vytvořili na celou lidskou rasu špatný názor i přesto, že ne všichni lidé na tomto kontinentu podporují Kantosův plán. Ale Iskaiové to takhle nevidí, posuzují všechny lidí stejně. Výsledkem čehož si {FAT }někteří{NORS}  lidé vytvořili špatné mínění o Iskai. Celková atmosféra se stala tak napjatou, že už nikdo nikomu nedůvěřuje. Nebuďte překvapeni, když si nebudete moci v některých obchodech nic koupit. Jestli chcete vědět, o co tu jde, jděte do svatyně v Srimalinaru. "{WORDconflict}{WORDKontos}
+"Podle Kontose bysme mi, lidé, měli zabrat iskaiskou svatyni, protože se tam údajně věnují černé magii. Já si tím ovšem nejsem jistý. Mimoto si nemyslím, že můžeme rozhodovat o osudech druhých."
+"Držté se od něho co nejdál!"
+"Koncil se schází pravidelně v koncilovém domě a někdy, když jde o velkou událost, pozveme celé město do naší zasedací místnosti. Je tam mnoho malých místností, které používáme k diskusím, a které mohou být pronajaty i k jiným účelům. V jižním křídle je velká zasedací místnost a střední zasedací místnost. V severním křídle můžete nalézt menší místnosti a uprostřed je kuchyně a stravovací kumbál... eh, místnost. Buďte tu jako doma."
+"To jsem já."

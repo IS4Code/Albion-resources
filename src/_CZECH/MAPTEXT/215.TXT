@@ -1,0 +1,70 @@
+﻿-free-
+Zvláštní uskupení pouštních kamenů.
+Písečná duna.
+Kamenný sloup.
+Balvan.
+Pouštní květina.
+Písečná houba.
+Hmyzožravá rostlina.
+Masožravá rostlina.
+Kvetoucí kaktus, který kvete pomalu a roste ještě pomaleji.
+části rostliny.
+Bylinné rostliny.
+Skály.
+Chomáče trávy.
+Kořeny, kusy dřeva, větve.
+Kamenný hrad vystavěný z kamene (hm).
+Peřeje.
+Voda je v těchto místech hluboká a proud se tu zdá být silný.
+Vodní rostliny.
+Výhonky vodních rostlin.
+Vodní vír.
+Stinný strom.
+Těmto prérijním stromům se daří i ve velmi vyschlé půdě.
+Prérijní květina.
+Kamenná věž.
+štěrk.
+Velký kamenný most.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+{LEAD}{NAME} najednou promluvil: ^ "Už je mi zase nějak divně. Možná bychom si měli vzít to, co jsme koupili v Umajo-Kenta."
+{LEAD}{NAME} najednou promluvil: ^ "Už je mi zase nějak divně. Kdyby jsme jen koupili tu látku v Umajo-Kenta. Ta by se nám teď určitě hodila."
+Družina je velmi unavena a vyčerpána z putování pouští. Schopnosti všech členů družiny drasticky vysychají.
+Všechno to putování pouští družinu nesmírně ztrhalo a jsou na ní už patrny první známky vyčerpání.
+"Cestuji z Umajo-Kenta do vězení a pak zase zpátky."
+Toto je vchod do věznice.
+Zámek je velmi slušný kousek. I zkušený zloděj by si s ním těžko poradil.
+S hlasitým úderem vězeňské dveře opět zapadly. Bez klíče se je znovu otevřít nepodaří.
+{INK 001} žalářník promluvil k družině: ^ {INK 002} "Skeima Din. ^ Za normálních okolností sem cizinci nemají přístup. Ale jestli chcete, můžete se tu porozhlédnout."
+"Chcete tedy navštívit vězení?"
+Ssssssss...
+"Jak se opovažujete se tu znovu objevit! Chcete pomoci dalšímu vězni v útěku? ^ ^ Radši se odsud kliďte!"

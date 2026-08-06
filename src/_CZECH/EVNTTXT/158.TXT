@@ -1,0 +1,5 @@
+﻿{BLOK000}"Jsem řemeslník."{WORDartisan}
+"Togi Din, cizinci.
+"Ano, zdobím a natírám hliněné hrnce a další předměty. Najděte propletené tvary, které všude tak mnoho milujeme. "{WORDshapes}
+"Barvy a symboly jsou pro nás velmi důležité. Spletité čáry, které se jeví souměrné, ale po bližším prozkoumání nejsou a záhadné formy, které mohou v jednu chvíli ornamenty a v další tvářemi démonů. Vše záleží na světle a pozorovateli! Naše největší umělecká díla mohou propůjčit magické síly předmětům skrze jejich symboly! Přirozeně, takové předměty jsou velmi opatrované."{WORDmagic}{WORDmagical items}
+"Jsou zde obchodníci, kteří nabízejí cennosti jako tyto ve Vanellu a tak, myslím, v Aballonu."{WORDVanello}{WORDAballon}

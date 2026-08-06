@@ -1,0 +1,6 @@
+﻿{BLOK000}"Pracuji v tomto domě a zařizuji věci pro Osvícené."{WORDaffairs}{WORDEnlightened Ones}
+"á, návštěva! Zdravím vás, vítejte v domě Osvícených".
+"V tomto domě nejsou žádné velké poklady, ale je tu ukryto mnoho moudrosti. Je tu například mnoho zajímavých svitků s kouzly. Smím některé z nich prodávat. Snažím se vydělat pro spolek trochu peněz, protože místní lidé se neradi zabývají takovými světskými záležitostmi."{WORDspell scrolls}
+"Takže pokud tomu dobře rozumím, svitky umožňují čarovat i těm, kdo nemají ten dar. Samozřejmě že svitky se po použití rozpadnou. Ovšem pokud už někdo zná příslušný druh kouzla, může si ho už navždy zapamatovat."{BLOK010}"Prosím ukaž nám svitky, které máš na prodej."
+"Jako každý tady, rád pro tyhle lidi pracuji. Někdy jsou v praktickém životě trochu mimo realitu, tak se snažím trochu vylepšit naši finanční situaci tím, že prodávám svitky s kouzly."{WORDspell scrolls}
+"Zdravím vás, cizinci! Chtěli byste se podívat na svitky s kouzly, které prodávám?"{BLOK010}"Ano, rádi bychom. Ukaž, co máš."

@@ -1,0 +1,173 @@
+﻿empty
+žádný člen skupiny sem rozhodně nehodlá vložit ruku.
+Velká pohovka.
+Velká skříň.
+Gril.
+Postel
+Krb.
+Peřina.
+Iskaiské nože.
+Talíř.
+Nádoba.
+Klobása.
+Něco podobné šunce.
+Sběračka
+Různé bylinky.
+Ovoce.
+Fajnové masíčko.
+Pohár na pití.
+Mísa.
+Koření.
+Kořenky.
+Pohárek.
+Kuchyňský nůž.
+Oplatky.
+Klobáska.
+Tahle láhev obsahuje vonící tekutinu.
+Oblek.
+Ručník.
+Vědro.
+Pekáč.
+Hrnec.
+Uvnitř ohniště je malý hrnec, ve kterém se dá připravovat pomalu jídlo.
+Polštář.
+Velká pánev na pečení.
+Kožený kartáč.
+Vodní proud.
+Umyvadlo.
+Vodní bariéra.
+Velký keramický džbánek.
+Sekretář.
+V šuplíkách tohoto stolu leží různé nedůležité věci.
+Komoda.
+Tohle je docela velká konvice. Mohou v ní být zásoby, voda nebo jídlo.
+Ve vodní nádrži je divná rostlina, která svými silnými pulzující pohyby čerpá vodu ze země.Tato fontána zřejmě slouží jako zásobárna vody.
+Voda v nádrži páchne jako zkažená. Tady se pravděpodobně sbírá odpad. 
+Vodní rostliny.
+Byliny.
+Exotická rostlina.
+Popínavé rostliny.
+Places for further Cutmap events.
+Schodiště. Vede dolů skrz podlahu.
+Schodiště vede nahoru skrz podlahu.
+Tohle je zřejmě nějaká postel. Je vyplněná pískem, což nabízí neuvěřitelné pohodlí díky jeho hrubým ale kulatým zrnkům.
+Obrovský tvar připomíná sedací nábytek. Chová se jako rostlina. Nepochybně vyrostla. Povrch je měkký a elastický.
+Fontána domu.
+Vodní kanály pravděpodobně slouží jako přívod pitné vody. Vedou domem jako malé potůčky.
+Zatuchlý zápach a díry v předmětu vedou k závěru, že se jedná o toaletu. Tento  "nábytek" je také vytvořen z rostlin, mohutně roste díky pravidelnému hnojení.
+Tady se odehrávají nejnaléhavější aktivity života.
+Na této pánvi se vaří sladkokysele vonící jídlo.
+Sedadlo.
+Masivní dřevěný stůl.
+Rostlina s velkými listy.
+Dveře.
+Nůž.
+Krátká dýka.
+Dýka.
+Dlouhá dýka.
+Krátký meč.
+Iskaiský nůž.
+Iskaiská dýka.
+Iskaiské stileto.
+Iskaiský krátký meč.
+Dlouhé Iskaiské stileto.
+Iskaiský meč.
+Velký Iskaiský meč.
+Dlouhý Iskaiský meč.
+Iskaiské kopí.
+Velká Iskaiská dýka.
+Krátké Iskaiské stileto.
+Velké Iskaiské stileto.
+Dlouhý Iskaiský meč.
+Malý luk.
+Luk.
+šíp.
+Dlouhý šíp.
+Kožený štít.
+Malý Iskaiský štít.
+Iskaiský štít.
+Velký Iskaiský štít.
+Kožená čepice.
+Iskaiská kožená čepice.
+Iskaiská kovová čepice.
+Iskaiská kovová helma.
+Iskaiský chránič hrudi.
+Iskaiský kovový chránič hrudi.
+Lehké Iskaiské brnění.
+Iskaiské brnění.
+Prázdná láhev.
+Zelená léčebná dávka.
+Tyrkysová léčebná dávka.
+Modrá léčebná dávka.
+červený nápoj.
+Fialový nápoj.
+Modrý nápoj.
+Klíč.
+Lano.
+Baterka.
+Iskaiský poznámkový blok.
+List papíru.
+An Iskai ring book.
+An Iskai ring pad.
+Tužka.
+Krátká tužka.
+Lavička.
+Tohle sedadlo doslova vyrůstá ze země a je docela pohodlné.
+Dřevěná tyč. Na vrcholu je nějaké znamení.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+"Dsarii-ma! Omluvte me, mám teď spoustu práce."
+"Dsarii-ma, drazí návštěvníci. Rozhlédněte se a poznejte naše umění!"
+"Dsarii-ma. Teď si nemám čas povídat, musím studovat."
+{LEAD}{NAME} pokus o navázání komunikace se nepovedl, protože {HIS } oslovený je hluboce soustředěný a mumlá nesrozumitelná slova.
+"Dsarii-ma. Omluvte mě, musím ještě udělat nějakou práci."
+"Dsarii-ma, návštěvníku. Jsem tady úplně nový. Někdo jiný by vám dal lepší informace."
+"Dsarii-ma. Bohužel nemám mnoho času, ctěný návštěvníku. Fontána v jedné z našich budov nefunguje tak, jak by měla. Kéž bych se býval stal lovcem!"
+"Dsarii-ma, hosté domu bratrstva. Doufám, že se vám líbí naše umění a budete o něm vyprávět ve svém dalekém domově!"
+"Dsarii-ma. Do bratstva jsem byl přijat teprve nedávno. Je to krásná budova, že?"
+Tyto dveře vedou ven.
+Dveře jsou zavřeny na závoru.
+"Tady je nádrž, do které odtéká odpadní voda z domácností potrubím v podlaze. Ty rostliny vodu v nádrži vyčistí předtím, než se podzemním systémem kanálů vrátí zpět do řeky."
+"Toto je toaleta vytvořená z obrovské rostliny. Tato rostlina výkaly velmi rychle a prakticky bez zápachu zpracuje. Musíte ji jen hlídat, aby, díky pravidelnému hnojení, příliš nepřerostla."
+"Tento nábytek je velmi oblíbený ve velkých rodinách. Je vyroben z živého rostlinného materiálu. ^ ^ Tkanina je měkká a elastická a v případě poškození poškozená část sama zaroste."
+"Jestli chcete, můžete se jít podívat na fontánu toho domu. Ve větších klanových domech je po ní velká poptávka. Najdete ji v jižní části budovy. Teď vás nechám, abyste si o samotě prohlédli dům bratrstva."
+"Moc děkujeme, že jste nás provedla, Aliis. Jistě chápete, že si nemůžeme koupit žádné z děl vašeho bratrstva."
+"Ha ha! Ano, to je mi jasné! ^ ^ Možná, že byste chtěli hovořit s  Akiir, naším velitelem, nebo Bradir, jeho zástupcem. Naleznete je v severní části budovy. Opatrujte se!"
+!
+Po skončení bitvy padne Bradir na kolena. Bolest mu smyla pomatený výraz z tváře a jeho oči se rozjasnily.
+"Musíme ho vzít rychle k léčiteli. Jinak se nikdy nedozvíme, proč na nás zaútočil."
+Bradir je rychle přepraven k léčiteli. ^ ^ Jakmile byl ošetřen, sešel se v koncilu sněm, v místnosti Sebainah, kde musel Bradir vysvětlit svůj čin. ^ ^ Kromě Toma, Rainera a Drirra, byla povolána i Sira, dcera zavražděného Akiira.
+{CNTR} Na štítu stojí: {INK 006} ^ ^ Sever: Vůdce cechu, Východ: Ukázkové křídlo, ^ ^ Jih: Fontána, Západ: školící středisko

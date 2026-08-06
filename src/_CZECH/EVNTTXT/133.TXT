@@ -1,0 +1,25 @@
+﻿{BLOK000}"Jsem Dra Dji-Fadh. Právě se učím, jak vypěstovat zdi."{WORDwalls}
+ 
+"Vidíme to co děláme jako směs magie, umění a řemesla. Jsme jeden z nejstarších cechů v Jirinaaru a, jak jistě víte, jsme pomocí naší magie schopni tvořit, měnit a natrvalo proměňovat rostliny. To znamená, že můžeme vyrábět celé domy z živého rostlinného materiálu, který není pouze krásný, ale také splňuje nutné předpoklady pro kvalitu obydlí." {WORDmagic}{WORDJirinaar}
+"Stri Akiir je hlavou našeho cechu. Je největším umělcem a kouzelníkem, který tvrdě pracuje v zájmech našeho cechu. Všichni doufáme, že se jednoho dne stane jedním z Vyvolených."{WRNR----}
+"Jsme skutečně šokováni. Ariirova smrt je pro náš cech velkou ztrátou. Dji- Kas jsou schopni čehokoliv, ale tohle? Nepředstavitelné! Naštěstí Sebainah učinila drastická opatření!"{WORDDji-Kas}
+"Taková tragédie! Akiirovo chování je hanebné, ale předpokládáme, že poznání jeho blížící se smrti narušilo jeho jinak čistou mysl."
+"Sira je Akiirova jediná dcera. Přešla k Dji-Kas, což ho velmi rozhněvalo. {WORDDji-Kas}
+ 
+"Oh, vrhači semen! Jsem si jist, že jste si všimli, že většina z nás nemá z Dji-Kas velmi přátelské pocity. často lákají pomocí slibu naše největší magické talenty pryč. Jejich řemeslo nemá žádný účel a smysl a,vyjma jejich ranhojičů, nejsou nijak prospěšní naší společnosti."
+"Náš cechovní dům soupeří s budovou rady o titul nejkrásnější stavby v Jirinaaru. Stále ho udržujeme a vylepšujeme a používáme ho jako ukázku našich znalostí, jak můžete vidět ve východním křídle."{WRNR----}{WORDJirinaar}
+"Je vůdcem Dji-Kas."{WORDDji-Kas}
+"Ten vrah! Zasluhuje smrt a nic jiného!"
+"Od té doby, co jste smazali obvinění proti němu, je znovu hlavou Dji-Kas."
+"Je Akiiruv zástupce, přátelský a skromný Iskai."{WORDIskai}
+"Velmi se trápil Akiirovou smrtí. Naštěstí, nyní je hlavou našeho cechu, jeho četné povinnosti ho zmátly."
+"Můžete vidět, že největší břemeno z Bradira spadlo, když jste vyřešili tu složitou záležitost kolem Akiirovy smrti."
+"Jsem si jist, že vrhači semen tu vraždu ukuli! Kdo by věřil, že jejich duchovní rozklad zajde tak daleko!"
+"Tedy, musím říci, že tyto události ukázaly, jak rychle si jeden může udělat ukvapené závěry o Dji-Kas."
+"Slyšeli jste o tom? Tedy, budu upřímný Argimův příběh je trapnou součástí historie našeho cechu. ^ ^ Byl hlavou Dji-Fadh téměř před 150 lety. Tehdy se budova cechu Dji-Fadh nacházela mimo město. Byla to velkolepá budova blízko Han, ve středu lesa. Argim měl ve svém oboru velké nadání, ale nestalou povahu. To byl důvod, proč jeho nejvyšší cíl byl zamítnut: stát se jedním z Vyvolených. Když se dozvěděl o rozhodnutí, přestal se ovládat. Přísahal, že vzdor všemu dosáhne nesmrtelnosti. V nezodpovědné demonstraci síly zničil celou stavbu a změnil ji v divné místo, kterému se nyní každý vyhýbá. říká se, že tomu místu vtiskl svého ducha."{WORDHan}
+"Jsou zde místa, kde síla Bohyně je obzvlášť silná a kde magické skutky jsou posíleny a často také obtížnější. Tento druh energetických center nazýváme Han."{WRNR----}
+dummy
+"Dsarii-ma!"
+"To je část našich základních cechovních znalostí. Nic obzvlášť vzrušujícího, ale brzy se dostanu k uměleckým částem, jako jsou střešní kopule."{WORDdomes}
+"Jak už jsem řekl, je to část našich základních cechovních znalostí. Nic obzvlášť vzrušujícího, ale brzy se dostanu k uměleckým částem, jako jsou střešní kopule."{WORDdomes}
+"Ano. Kopule, které můžete vidět na některých střechách jsou rostlinné struktury, složené především z vodou naplněných buněk různých barev. To je způsob, jakým skrze ně může pronikat světlo."

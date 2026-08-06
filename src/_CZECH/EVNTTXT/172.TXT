@@ -1,0 +1,5 @@
+﻿{BLOK000}"Jsem považován za nadaného učitele magických umění." {WORDmagic}
+"Togi Din, mé děti. Hledáte, jak zlepšit své znalosti magie Druidů?" {BLOK010}"Ano, to je pravda, Ouktero. Nauč nás, prosím, novým dovednostem."
+"Strávil jsem polovinu svého života zprostředkováváním znalostí našich předků a vedením nerovného boje se zapomnětlivostí." {WORDforget}
+"Tedy, mám zde některé studenty, kteří jsou pilní a dychtiví se učit. Ale je jich zde méně a méně, takže naše výsledky jsou v porovnání s minulostí slabší. Ale nedávno nám svitla naděje. Sklizně v několika minulých letech byly tak dobré, že většina mladých lidí se začala zajímat o věci, které nemají s běžným životem co dělat."
+"Magie, nazývaná také božské umění, je zakořeněna ve znalostech, které naši předkové přijali od Danu a jež se snažíme uchovat a rozšířit. Ti, kdož jsou požehnáni magickým nadáním potřebují roky tréninku a cvičení, aby se stali mistry svého umění." {WORDDanu}

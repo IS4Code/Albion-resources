@@ -1,0 +1,72 @@
+﻿empty
+"Tomu říkáme my."
+"Zkušený Tvůrce umí vypěstovat velkou rostlinu na sezení za 4 dny. Skvěle se na nich sedí a děti kolem nich rády skáčou." {WORDFormer}
+"Ano, máme mnohem víc chutných věcí. Většinou se dělají z lesních zvířat. Lidé raději loví, ale chovatelé zvířat prodávají maso za mírně nižší ceny."
+"Ve velkých budovách proudí odpadní voda trubkami ve zdi do nádrže. Rostliny vyčistí vodu, než ji vrátíme do řeky."
+free
+"Kdo si to může dovolit, má proudící vodu po celém domě. Vypadá to moc krásně, jen musíte dávat pozor, aby děti nedělaly s vodou skopičiny....." {WORDhouse}
+"Rádi kombinujeme krásu přírody s pohodlím domova. Tvůrci cechu Dji-Fadh vědí, jak udělat kompletní struktury z našich rostlin! Samozřejmě to není levné; některé domy jsou jen z kamenů či z písku, nebo jsou jen částečně postaveny z rostlin Dji-Fadhu. V takzvaných "mrtvých domech" žijí převážně chudí lidé." {WORDDji-Fadh}
+free
+free
+free
+free
+free
+free
+free
+free
+free
+"Dospělosti se dosahuje v deseti letech a pak už nemusíte poslouchat dospělé."
+"ženy jsou plodné jen tři měsíce v roce. Toto období se nazývá Fadhim a oslava začíná velkou hostinou. Během této doby platí tabu pro ženaté a vdané a jejich druhotné partnery."
+"Rituál Sebai je nejmocnější kouzlo, kterého jsme schopni. Může ho provozovat každý, bez ohledu na kouzelnické nadání. ^ Určitě víte, že Trii novorozenců mají velmi zvláštní schopnosti během prvního týdne života. Pokud se dospělý dotkne svým Trii Trii novorozeněte, může přenést své celé já do ducha dítěte. On nebo ona mohou začít nový život; tělo dospělého zemře při obřadu ve stejnou chvíli. ^ Přirozeně je zakázáno provozovat tento obřad bez svolení městské rady. Vedle únosu novorozence je to nejhorší zločin! Podle našeho zákona je zločinec a celá jeho rodina odsouzena k smrti. ^ Pouze několik vyjímečných jedinců, Vyvolených, může tento obřad podstoupit. Kromě toho se rituál nesmí odehrát bez svolení matky novorozence. Většinou je to partnerka, nebo sestra Vyvoleného.^ ^ Když se obřad uskuteční, Vyvolený obdrží titul Sebai, po němž následuje číslo označující kolikrát on či ona rituál podstoupili."{WORDmagic}{WORDTrii}{WORDChosen}
+"Je velmi těžké obdržet status Vyvoleného, abyste mohli podstoupit rituál Sebai. Zákonná rada to musí odhlasovat. ^ Je několik možností, jak docílit tohoto čestného rituálu. Pokud například někdo vyniká odvahou, nebo se dokáže sám obětovat. Když někdo zemře, jeho bratr či sestra mohou být vybráni pro Sebai jako vzpomínka na tuto osobu.^ často se stává, že někdo, kdo se těší velké váženosti u Stiriiků je vyvolen. Obecně řečeno mají šanci lidé s vyjímečným talentem a schopnostmi, pokud své schopnosti užívají pro obecné blaho všech."{WORDSebai}
+"Trii, které má každý z nás na čele, je velmi zvláštní orgán. Bereme ho jako střed ducha. Zranění Trii může vést k poruchám osobnosti, ztrátě paměti a dokonce může přivodit smrt. ^ Když se dva lidé dotknou Trii, mohou navzájem cítit své emoce a zvláště nadaní jedinci mohou také číst myšlenky toho druhého."
+free
+free
+free
+free
+"Většina z nás věří, že po smrti se vrátíme tam, odkud jsme přišli: k Velkému Vědomí, které tvoří všichni naši předkové a často se nazývá Bohyní. říká se, že čím příkladnější život člověk vede, tím více zůstane sám sebou, až splyne s Bohyní."
+"Velké město Iskaiů. Tam žijí naši předkové."
+free
+free
+"Vidím, že lidé jsou zajímavé bytosti. Vypadají jako malé silné stromy, které při každém kroku zapouštějí kořeny do země. Slyšel jsem, že jsou velmi silní a mohou se dožít neuvěřitelně vysokého věku."
+free
+free
+free
+free
+free
+free
+free
+free
+free
+"ó, naše oblečení má pro nás dekorativní význam. Když někdo má na sobě množství oděvů, působí to provokativně. Protože co může být víc vzrušující a vzbuzovat zvědavost, než zakrývání částí těla?"
+free
+"Slyšel jsem zvěsti o tom, že vy lidé jste úplně vydáni na milost a nemilost své bolesti. My svou bolest umíme ovládat, přinejmenším když jsme vzhůru. Děti se tuto techniku učí až když jsou starší, aby uměly rozpoznat vážná zranění."
+"Toto slovo znamená "začátečník, žák" a používá se jako titul."
+"Většinou se toto slovo připojuje k jménu. Znamená to, že daná osoba je mistrem svého oboru."
+free
+free
+free
+free
+free
+free
+free
+free
+free
+"O tom nic nevím."
+"Je jich spousta, ale teď není čas na to, abych vám něco vykládat. Omluvte mě."
+"Chcete mě urazit? á, vy myslíte co to slovo znamená! No, dobře..hm hm... je to jméno zvířete, které se netěší zrovna velké úctě, protože se živí převážně výkaly!"
+"Nic o tom nevím."
+"Většinou se bojí a neútočí. Ale slyšel jsem, že jsou někdy agresivní, když jsou ve skupině. Vstup do sítě tunelů je blízko Kounosu. Je tam pravděpodobně hodně kritahů."{WORDKounos}
+"Vlastně si myslím, že jste šli přes Kounos během vaší cesty. Je to malá vesnička, kde lidé žijí velmi tradičním způsobem. Vesnice leží na náhorní plošině velkého horského pásu."
+"Sugo je jeden z našich oblíbených nápojů. Určitě ho musíte někdy ochutnat. Ale musím vás varovat, že sugo je koncentrovaný ovocný džus s vysoce povzbuzujícím účinkem. Kdo není na sugo zvyklý, měl by ho pít opatrně. Nebylo by to poprvé, kdy cizinec nebyl schopen po dvou skleničkách pokračovat v rozhovoru."
+"Je to jméno naší země."
+"Náš chrám má pro nás velký náboženský význam. Naše náboženství zakazuje, aby tam vkročil cizinec, protože by mohl narušit věčné vědomí našich mrtvých." {WORDconsciousness}{WORDdead}
+"Všichni naši zesnulí bratři a sestry, jenž byli čestní a vedli dobrý život, dosáhnou věčného vědomí."
+"Je to velké přístavní město v Maini. Je to na jižní straně velkého horského pásu." {WORDMaini}
+"Náš svatostánek se nachází na jihu Srimalinaru, před velkým horským pásem. Vědomí každého dobrého Iskaie tam najde svůj věčný klid. Prosím, nevstupujte dovnitř. Existuje tabu, které zakazuje cizincům vstupovat do chrámu a my to považujeme za vážné porušení našich zákonů, pokud to někdo nerespektuje."{WORDtaboo}{WORDconsciousness}
+"Kontos je vůdce druidů v horské oblasti Kounosu. Je to velmi záhadná postava. Nelíbí se mi!"
+"To je místo, kde my Iskaiové žijeme v Maini. Přestože Srimalinar má dost velkou rozlohu, je nás tu jen několik. Je tu jedna taverna a máme tu společenství kouzelníků."
+"Naštěstí ses ho zbavil."
+"Ano, má drahá žena. Vždycky se o mě tak stará. Ale můžete jí říct, že dnes nebudu pracovat moc dlouho."
+"To je Edjirrova žena."
+"Uprostřed Srimalinaru je společenství kouzelníků. Určitě ho musíte navštívit."

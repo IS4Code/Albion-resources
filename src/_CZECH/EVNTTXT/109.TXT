@@ -1,0 +1,12 @@
+﻿{BLOK000}"Jmenuji se Krinn. Jsem Stri Lovu v Klanu Jižního Větru. Jsem odpovědný za výcvik mladých lovců."{WORDhunt}{WORDtraining}{WORDStri}
+"Dsarii-ma, hosté domu."
+"Dsarii-ma, návštěvníci. Ještě byste ode mne něco rádi?"
+"Většina členů našeho klanu vždy loví divoká zvířata, jako jsou krondirové nebo warniakci. Já jsem se neúčastnil lovu po tři roky. Jsem na to příliš starý: víš, dosáhl jsem již svého 38 roku. Nedávno mne Klan navrhl radě na obřad Sebai. Byl jsem velmi poctěn, ale odmítl jsem." {WORDcouncil}{WORDSebai}{WORDclan}{WORDwarniak}{WORDkrondir}{BLOK010} "Vy jste odmítl obřad, Krinne? Můžete mi říci proč?"
+"Je to záležitost mé osobní víry. Obecně se předpokládá, že novorozeně nemá vlastní osobnost. Nicméně by mi to připadalo, jako kdybych uhasil život. ^ Stranou toho, měl jsem plný život a nebojím se jeho konce."
+"Jak jsem vám vysvětlil, kvůli svému věku bych raději zůstal v této nádherné budově." {WORDhouse}
+"Díky svým rozsáhlým zkušenostem, mohu učit mladé lovce všemu, co potřebují, včetně lovu dravců, jakými jsou krondirové a warniakove." {WORDkrondir}{WORDwarniak}
+"Jak už víte, učím mladé lovce všemu, co potřebují pro přežití a úspěšný lov."
+"Oh ano, slyšel jsem o Akiirove vrahovi. Hodně štěstí při lovu!"
+"Sbohem."
+"Warniak je obří okřídlený obratlovec. Na své zadní části má hrozně jedovaté žihadlo. Jeho jed může zmrzačit nebo zabít nerozumnou zraněnou osobu. ^ ^ Přesto jsou warniaci hodně loveni, neboť jejich těla obsahují nevyčerpatelnou zásobu minerálu pro hojivé léky. Kupci za warniakovy koule platí vysoké ceny!"
+"Krondir je obří dravec, obyčejně běhající po dvou nohách. Je velmi silný a strašlivý protivník. Naštěstí, ve většině případů, krondirové jsou samotářská zvířata. Jejich maso je téměř nepoživatelné a často je používáno jako návnada pro jiné dravce. Avšak krondirové mají v rohu na čele strukturu podobnou našim Trii, která je velmi oblíbenou ozdobou. Můžete za ni dostat dobře zaplaceno."{WORDTrii}

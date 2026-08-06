@@ -1,0 +1,132 @@
+﻿-free-
+Větve a kořeny.
+Pletený košík
+Skleněná nádoba na vodu a ostatní drinky.
+Sud.
+Velkolepá zvířecí kůže.
+Vědro.
+Hliněná mísa.
+Láhev.
+Talíř.
+Hliněný džbán.
+Džbán.
+Nůž.
+Vidlička.
+Lžíce.
+Hliněná nádobka.
+Skály.
+Mísa.
+Nástroj na obdělávání půdy.
+Sekera.
+Pokrývka hrudi.
+Dřevěná truhla.
+Bohatě zdobená truhla ze dřeva.
+Komnata úlevy.
+Pokrývka.
+Dřevěná káď.
+železná konev.
+Skříň.
+V těchto policích našly své místo samé bezvýznamné věci, patrně dekorativního charakteru.
+Psací stůl (sekretář).
+Koště.
+Rošt.
+Můžeš si tu opéci maso.
+Ohniště (krb).
+Tepaná karafa.
+Sběračka.
+Dekorativní meč na zeď.
+Dřevěný stůl.
+Stolička.
+Zalomená stolička.
+Masivní jídelní stůl.
+Pařez.
+Dvě překřížená kopí.
+Velký sud naplněný podivnou tekutinou.
+Pípa.
+Prostěradlo.
+Pohodlná a nádherně zdobená postel.
+Tato postel je obyčejná, ale praktická.
+Kuchyňský stůl.
+Ohniště (nebo krb).
+Ohniště (krb) sálá příjemné teplo.
+Zdobený hrnec.
+Sušené bylinky.
+Lidská lebka.
+Zdobený štít.
+Kovový hrnec.
+Zdobený meč.
+Dveře.
+Konvice.
+Nůž.
+Krátká dýka.
+Dýka.
+Dlouhá dýka.
+Krátký meč.
+Meč.
+Dýka (druh bodce)
+Házecí dýka.
+Sekerka.
+Sekera.
+Malý luk.
+Luk.
+šíp.
+Malý, kožený štít.
+Kožený štít.
+Kulatý štít.
+Velký štít.
+Kožená čapka.
+Reliéfní čapka.
+Kovová mísa (pohár, váza, číše).
+Kožená vesta.
+Kožené brnění (?).
+Reliéfní kožená vesta.
+Pár bot.
+Pár velkých bot.
+Prázdná láhev.
+Zelený léčivý lektvar.
+Tyrkysově zbarvený léčivý lektvar.
+Modrý léčivý lektvar.
+Klíč.
+Lano.
+Prsten.
+Pochodeň.
+Kladivo.
+Schody. Vedou nahoru.
+Schody. Vedou dolu.
+Pult.
+Kobercová rohož.
+Pokojová rostlina.
+Květináč.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+{CNTR}{INK 006} Nejlepší sečné, bodné a střelné zbraně: Otevřeno od 8 dopoledne  do 10 večer.
+Tohle je východ.
+"Skeima Din cizinci, udělali jste dobře, že jste si vybrali zrovna tento obchod. Zbraně tu jsou vyšší kvality, než té, kterou byste dostali v běžném obchodě."
+"Některé části oděvu které máte na sobě jsou opravdu dost zvláštní..."
+"Jednoduše se beze zbraně necítím bezpečně. Přirozeně, musíte jít s dobou. Proto také věnuji velkou pozornost nákupu nových zbraní."
+"Bdím na tím, aby si tu lidé mohli koupit vždycky jen to nejlepší!"

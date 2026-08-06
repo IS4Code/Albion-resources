@@ -1,0 +1,79 @@
+﻿-free-
+Zvláštní uskupení pouštních kamenů.
+Písečná duna.
+Kamenný sloup.
+Balvan.
+Pouštní květina.
+Písečná houba.
+Hmyzožravá rostlina.
+Masožravá rostlina.
+Kvetoucí kaktus, který kvete pomalu a roste ještě pomaleji.
+části rostliny.
+Bylinné rostliny.
+Skály.
+Chomáče trávy.
+Kořeny, kusy dřeva, větve.
+Kamenný hrad vystavěný z kamene (hm).
+Peřeje.
+Voda je v těchto místech hluboká a proud se tu zdá být silný.
+Vodní rostliny.
+Výhonky vodních rostlin.
+Vodní vír.
+Stinný strom.
+Těmto prérijním stromům se daří i ve velmi vyschlé půdě.
+Prérijní květina.
+Kamenná věž.
+štěrk.
+Velký kamenný most.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Městská zeď.
+Městská brána.
+{LEAD}{NAME} najednou promluvil: ^ "Už je mi zase nějak divně. Možná bychom si měli vzít to, co jsme koupili v Umajo-Kenta."
+{LEAD}{NAME} najednou promluvil: ^ "Už je mi zase nějak divně. Kdyby jsme jen koupili tu látku v Umajo-Kenta. Ta by se nám teď určitě hodila."
+Družina je velmi unavena a vyčerpána z putování pouští. Schopnosti všech členů družiny drasticky vysychají.
+Všechno to putování pouští družinu nesmírně ztrhalo a jsou na ní už patrny první známky vyčerpání.
+"Cestuji mezi vězením a Umajo-Kenta a starám se tak o jídlo."
+Zatarasený vstup.
+Ssssssss...
+"Uvidíme, jestli se tu Ohl někde objeví."
+"Jsem rád, že jste přišli. Rád vám pomůžu, ale nejdřív bych chtěl drahokam."
+"Dovolíte mi nahlédnout do vašeho batohu a přesvědčit se, že tam drahokam opravdu je?"
+"V tom případě vás nedovedu ke vchodu."
+"Bohužel nemáte drahokam. Neukážu vám místo, kde se nalézá vstup, dokud pro mne nebudete mít drahokam! Nicméně se s vámi opět rád sejdu, pokud mi budete moci nabídnou takový kámen."
+"Děkuji vám mnohokrát, to je moc krásný kámen. Mám jich pouze 27, zatímco už mám 235 rubínů. Nedokážete si ani představit, jakou jste mi udělali radost. Zařadím si ho do své kolekce později. ^ ^ Dobrodinci, nyní mne následujte. Ukážu vám vchod! Držte se stále za mnou. Snadno byste mezi těmi všemi bludnými kameny mohli ztratit cestu."
+"Tak a jsme tady. V tom velkém kameni nalevo můžete vidět dveře. Jsou hned za tou hmyzožravou květinou. ^ ^ Ještě jednou vám co nejsrdečněji děkuji za ten drahokam a přeji vám hodně štěstí na vašich cestách! Teď už se ale opravdu musím vrátit. Jsem si jistý, že  víte proč. Ne každý den se vám podaří získat nový drahokam. čeká mě ještě hodně práce. Musím ho vyleštit, vyhladit, prohlédnout, prozkoumat, ozdobit svými iniciály, vybrousit, okrášlit, ukázat ho svým přátelům atd. Určitě budu mít do pozítří co dělat. ^ ^ šťastnou cestu, Skeima Din!"
+Do skály je vsazen symbol oka.
+"Tyto symboly jsou tu už velmi dlouho. Nalézají se všude po celé planetě. Ale nikdo přesně neví, odkud se vzaly ani jaký je jejich účel."
+{LEAD}{NAME} umístil(a) amulet se symbolem bohyně do skály. ^ ^ Brána se se zaskřípěním otevřela a družina vešla do jeskyně.
+"Můžu použít k otevření brány amulet bohyně, který mám u sebe."
+"Ten žár je nesnesitelný! ^ ^ Toto je země národa Umajo, národa železníků. Podle našich informací se na jih od těchto hor zřítila obrovská loď z kovu. ^ ^ Zeď na západ je částí Umajo Kenta, města kovu a drahokamů."

@@ -1,0 +1,25 @@
+﻿{BLOK000}"Nechci se chlubit, ale jsem tu ten nejvíce uznávaný a kvalifikovaný kouzelník. Po mnoho let jsem se zabýval náboženskými teoriemi... Proč vám to povídám? Vy zřejmě nemáte vědomosti vědeckého rázu, abyste to dokázali pochopit."
+"Slyšel jsem, že jste navštívili koncil Spravedlivých?" {WORDcouncil}{WORDproblems}
+"Nejste nikdy spokojeni, že je to tak? Chápu, že se vás může zmocňovat panika a že jste asi znepokojeni kvůli hrozícímu nebezpečí." {WORDcouncil}{WORDproblems}
+"Belovenský koncil Spravedlivých je jen fraška. Jen žvaní, činy však nečiní žádné. My, narozdíl od nich, ano." {BLOK010} "Podle nás máte v koncilu své spojence." {BLOK011} "My máme odlišné názory než oni." {BLOK012} "Souhlasíme."
+"Spojenci? To je nesmysl. Byl bych rád, kdyby spolu Beloveno a koncil více spolupracovali, ale o to tu nejde. Neměli byste věřit všemu, co slyšíte. Mám nepřátele, to je jisté. Existuje mnoho závistivých lidí, kterým je trnem v oku můj úspěch a mé renomé - prostě mě o ně chtějí připravit. Ale vy jste inteligentní a zajisté dokážete rozlišit pomluvy od pravdy."
+"Ach, nejste nic než banda přitroublejch mamlasů, které neví, kam by se ve světě tak přifařili." {BLOK013} "Mysli si o nás co chceš." {BLOK014} "Ve tvém zájmu, bych už radši držel kušnu..."
+"Věděl jsem, že nakonec přijdete na to, o co tu jde. Není mnoho takových, kdo k tomu za jejich života dospějí."
+"Zklamali jste mě. Ale, na druhou stranu, co jsem taky mohl očekávat od chumlu pobudů?"
+"Nebo co?! Na něco jsem se vás ptal! {BLOK015} "Och, chtěli jsme říci, že už jsme na odchodu." {BLOK016} "Dobře děláte, jinak byste totiž mohli začít litovat svého chování!"
+"Ještě jednou vám říkám, abyste vypadli. Už minule jsem vás informoval, že mám spoustu práce a nemám čas se s vámi vybavovat."
+"Chcete mi vyhrošovat? Hííík, varuji vás, nebudu váhat a zavolám stráže, když na to přijde." {BLOK017} "O tom nepochybujeme." {BLOK018} "Nemyslíme si, že je nutné aby došlo k boji!"
+"Už vás mám plný protézy, vypadněte odsud!"
+"Však vy mě poznáte! STRážE! STRážE!!"
+"Když už jste se mě na to zeptali, dobrá, řeknu vám to. Na severu kontinentu je něco nebezpečného, zrovna poblíž iskaiské vesnice v Srimalinaru. Je tam sklepení, které iskaiové používají již po mnoho generací jako svoji svatyni a modlitební místo. Pravidelně se tam schází a pro všechny cizince na toto místo a jeho okolí uvalili tabu. Toto tabu je všemi přísně dodržováno. To je oficiální verze, nebo respektive ta, které všichni věří. Ale není pravdivá! Lidé jsou naivní a uvěří čemukoli. ^Nikdo se nerozhodl to místo prozkoumat, ale já ano! Pravda je ta, že se pod záštitou 'posvátné svatyně' ukrývají Iskaové před zraky světa své tajemné pokusy s černou magií. Zahrávají si se silami, se kterými bych si ani já nedovolil něco začít. A snad ani nemusím zmiňovat nebezpečí, která číhají v takovém počínání a jak lehce se to všechno může zvrtnout, když si s magií zahrává někdo, kdo na to nemá. ^ ^ Ovšem oni se to rozhodli risknout a nyní za to platí úroky. Jejich vlastní síly je ovládly. Vymklo se jim to kompletně z rukou. Výskyt příšer v okolí svatyně je jen prvním příznakem nadcházející zkázy, která se skrz toto místo dostane jednoho dne na svět. Musíme s tím něco udělat, než bude příliš pozdě. A i přesto, že si koncil v Belovenu myslí, že není třeba do věci nijak zasahovat, my tady v Kounosu nebudeme jen tak nečině sedět!" {WORDbelieve}{WORDtaboo}{WORDmagic}{WORDKounos}{WORDdanger}
+"Nemyslím, že byste dokázali pochopit principy našeho náboženství za několik minut. Proto vám je jenom nastíním:  vůdcovství našeho nejvyššího Lorda a neustálé zdokonalování naší kultury tvoří nejdůležitější část naší víry."{WORDreligion}
+"Je nebezpečné svěřit tajemství magie cizincům. Proto vám už neposkytnu žádné další informace, i když se pokládám za jednoho z nejschopnějších učitelů. A mimo to, nemám na to ani čas. Ale domnívám se, že to byl vlastně účel vaší návštěvy, nemám pravdu?"
+"Nyní jste si již pravděpodobně všimli, že je náš život vázán na tradice. To je pro nás dobré, protože se tak alespoň můžeme soustředit na naše náboženství a důležité stránky našeho života."
+"Neříkal jsem vám už to tom, co tu máme za problém?" {BLOK020} "Ano, říkal." {BLOK021} "Nemyslíme."
+"Už je to natolik vážné, že s tím musíme něco udělat. Mí kmenový bratři se mnou souhlasí a plně podporují můj plán."{WORDplan}
+"Vykonáme co musí být vykonáno! Obsadíme svatyni a zabráníme tak Iskai v jejich ničemných snahách. Možná zničíme tu jejich čarodějnickou dílnu, ale o tom rozhodneme až na místě." {BLOK022} "Ale co tabu?"
+"Na tabu kašlem. Beloveno by nám mělo být vděčno za to, co pro něj děláme. Obsadíme to tam, jak jen to bude možné, protože to je správné!" {BLOK023} "Neznamená to otevřenou válku mezi Iskai a lidmi?"
+"Hele, nerad bych se opakoval. Musíme zachránit zemi dřív, než na ní vtrhnout hrozné příšery. A moc našeho nepřítele s každým dnem roste!"
+"Ke komu si tak asi myslíte, že mluvíte, co?"
+"Já s tím nemám nic společného. Co s tím chcete dělat? Klidně to zahoďte - je to bezcenný padělek."
+"Tohle je útržek nějakého dokumentu. Co to má co dělat se mnou? Co s tím chcete dělat? Bez zbývající části je k ničemu."

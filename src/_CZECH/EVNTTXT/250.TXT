@@ -1,0 +1,14 @@
+﻿"{BLOK000} "To je má funkce, vést a řídit Radu Spravedlnosti."
+"Je od vás hezké, že jste se zastavili - Skeima Din. Zrovna je tu velmi napjatá situace díky Kontosově okupaci svatyně." {WORDsituation}{WORDassassination}{WORDdiscrepancies}
+"Stalo se to uprostřed noci. Slyšel jsem vykřiknout stráže, kteří stali před mojemi dveřmi. Kdybych si nedal pod polštář těžkou šavli, nebyl bych se schopen sám bránit. útočnici byli natolik překvapeni z mé urputné obrany, že utekli. Byli maskováni a já je nemohl poznat, ale řekl bych, že to mohli být Gard s Rikem. Kromě toho právě zmizeli. Ještě nemám žádnou ochranu, ale myslím, že už mám jisté kontakty. Kdybych nebyl tak dobře připraven, už bych tu asi nebyl. Doufám, že přijmete tu odměnu jako vyjádření mých díku. {WORDreward}{WORDPerron}{WORDwarning}
+"Opravdu si to zasloužíte! Vemte si tenhle klič a jděte do pokladnice na radnici. Vemte si všechno co chcete."{WORDkey}
+"Dal jsem vám klíč nebo ne? Myslel jsem to vážně - vemte si všechno co chcete!"{WORDkey}
+"Klič je od místnosti s pokladem. Myslím, že to naleznete sami nebo ne?"
+"Co očekávate? Musíme jmenovat nové radní, když je jisté, že Gard a Riko byli součástí toho spiknutí. Teď mohu vyřešit důležité problémy."
+"Nemyslim, že už je tady uvidíme."
+"Perron je velmi otevřený a já vím v čem za něm stojím. Někdy svou otevřenost přežene a to je velký problém."
+"Tak se říká našemu městu."
+"To jsem já."
+"Kontosovy plány vešly ve skutečnost a právě se svým vojskem okupuje svatyni a přilehlé okolí. Je překvapivé, jak obyvatele Kounosu stojí za svým vůdcem. Má na ně značný vliv. Opravdu by mě zajímalo, jestli je to chyba Iskaiu, která dala za vznik těmto strašlivým příšerám. V každém případě, Kontos prohlašuje, že tohle je to co se tam děje jeho nohsledi tomu věří. V každém případě, nemůžete Iskaie nařknout za způsob jak reagují . Oni také posílají bojovníky ke svatyni a můžete si představit, co se tam děje. Jasné ale je, že jejich tabu, pýcha a náboženství jsou znásilňovány. I když jste smíšená skupina, tak vás stejně v některých krámech asi neobslouží. Vztahy mezi Iskaii a lidmi jsou teď´ velmi napjaté !"
+"Radnice je nejkrásnější stavba v Belovenu. Měli byste se tu trochu porozhlédnout. Nikdo vás nebude zastavovat."
+"Znovu vám mockrát děkuji za vaší informaci. Vybrali jste si odměnu?"

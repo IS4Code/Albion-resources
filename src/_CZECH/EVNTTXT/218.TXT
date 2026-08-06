@@ -1,0 +1,17 @@
+﻿{BLOK000}"Chytám divoký zvířata v lesích, zabíjím je a pak prodávám maso. Takže byste mi mohli řikat lovec, řezník a obchodník, jo?"
+"Thkeima Din, chcete se podívat na mapu?" {WORDmap}{WORDKontos}
+"Ještě jednou krásnej den. Už jsme se setkali." {WORDmap}{WORDKontos}
+"Kontose znám už dlouho. Dřív to byl dobrej chlapík a mohli ste s nim lehce mluvit, ale už to nejde. Ani náhodou. Před ňákejma rokama se začal hrabat v černý magii a v náboženství. Teďka si myslí, že je nejchytřejší Druid na celý planetě, chápete? Dřív bydlel tady v Belovenu, ale pak se dal dohromady s Rikem a vod tý doby to s nim šlo z kopce. Teďka má hodně příznivců z Kounosu, který věřej jeho teoriím. řek bych, že většina brzo zjistí, že to nemá v hlavě úplně v pořádku."{WORDcontinent}{WORDKounos}{WORDmagic}{WORDtheories}
+"No, myslím všechny Maini, chápete? Beloveno, Thrimalinar, Kounos, všecko. Celej sever a jih země."
+"Určitě jste tam už byli? To je ta malá vesnička na skalní plošině, kde furt ještě mají tradiční způsob života, chápete? Kontos tam provedl ten svůj trik. Nemám ho moc rád."
+"Kouzlům moc nerozumím. Nikdy sem je nepotřeboval, chápete?"
+"Nechci do toho moc strkat nos. Ale chytrej chlapík jako Kontos může něco províst, žejo?"
+"Nelíbí se vám? Nic moc vám o tom neřeknu; nejsem žádnej expert. Ta věc se celý roky válela u mě na půdě."
+"Fakt o tom nic nevím."
+"No, míval jsem celý roky na půdě mapu. Můj děda vždycky říkal, že je to vzácná mapa, chápete? Jeho předkové prej zakopali svůj majetek na místě, kde je na mapě ta značka, hehe. No, musím říct, že ničemu takovýmu nevěřím, ale lidí jako jste vy asi jo. No - jenom proto že jste to vy, prodám vám tu mapu za směšně nízkou cenu 200 zlatejch. Máte zájem?"{BLOK010} "Ano, vezmeme si ji." {BLOK011} "Máme zájem, ale ne za takovou cenu." {BLOK012} "Zaplatíme 175 zlaťáků!" {BLOK013} "Ne, díky, nemáme zájem."
+"No, skvěle. Určitě nebudete toho obchodu litovat."
+"Tak, uděláme z toho teda sto dvacet pět pro vás. Jo?" {BLOK014} "No, oukej." {BLOK015} "Ne, to je moc!"
+"Chtěl jsem to prodat, ne dát."
+"Můžete si to rozmyslet. Ta nabídka furt platí."
+"To jsem já."
+"Asi nemáte moc zlaťáků, co?!"

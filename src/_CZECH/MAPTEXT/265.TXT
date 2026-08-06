@@ -1,0 +1,139 @@
+﻿-free-
+Větve a kořeny.
+Pletený košík
+Skleněná nádoba na vodu a ostatní drinky.
+Sud.
+Velkolepá zvířecí kůže.
+Vědro.
+Hliněná mísa.
+Láhev.
+Talíř.
+Hliněný džbán.
+Džbán.
+Nůž.
+Vidlička.
+Lžíce.
+Hliněná nádobka.
+Skály.
+Mísa.
+Nástroj na obdělávání půdy.
+Sekera.
+Pokrývka hrudi.
+Dřevěná truhla.
+Bohatě zdobená truhla ze dřeva.
+Komnata úlevy.
+Pokrývka.
+Dřevěná káď.
+železná konev.
+Skříň.
+V těchto policích našly své místo samé bezvýznamné věci, patrně dekorativního charakteru.
+Psací stůl (sekretář).
+Koště.
+Rošt.
+Můžeš si tu opéci maso.
+Ohniště (krb).
+Tepaná karafa.
+Sběračka.
+Dekorativní meč na zeď.
+Dřevěný stůl.
+Stolička.
+Zalomená stolička.
+Masivní jídelní stůl.
+Pařez.
+Dvě překřížená kopí.
+Velký sud naplněný podivnou tekutinou.
+Pípa.
+Prostěradlo.
+Pohodlná a nádherně zdobená postel.
+Tato postel je obyčejná, ale praktická.
+Kuchyňský stůl.
+Ohniště (nebo krb).
+Ohniště (krb) sálá příjemné teplo.
+Zdobený hrnec.
+Sušené bylinky.
+Lidská lebka.
+Zdobený štít.
+Kovový hrnec.
+Zdobený meč.
+Dveře.
+Konvice.
+Nůž.
+Krátká dýka.
+Dýka.
+Dlouhá dýka.
+Krátký meč.
+Meč.
+Dýka (druh bodce)
+Házecí dýka.
+Sekerka.
+Sekera.
+Malý luk.
+Luk.
+šíp.
+Malý, kožený štít.
+Kožený štít.
+Kulatý štít.
+Velký štít.
+Kožená čapka.
+Reliéfní čapka.
+Kovová mísa (pohár, váza, číše).
+Kožená vesta.
+Kožené brnění (?).
+Reliéfní kožená vesta.
+Pár bot.
+Pár velkých bot.
+Prázdná láhev.
+Zelený léčivý lektvar.
+Tyrkysově zbarvený léčivý lektvar.
+Modrý léčivý lektvar.
+Klíč.
+Lano.
+Prsten.
+Pochodeň.
+Kladivo.
+Schody. Vedou nahoru.
+Schody. Vedou dolu.
+Pult.
+Kobercová rohož.
+Pokojová rostlina.
+Květináč.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Sud je prázdný a relativně lehký. Družina ho dokáže tlačit.
+Na těchto štítech není nic napsáno.
+{INK 006}{CNTR} Koncilový dům v Belovenu.
+Tak tohle jsou dveře, milé děti.
+Dveře jsou zamčené. Zřejmě není nutné, abyste tyto dveře otevřeli.
+Tohle je východ.
+"Skeima Din. Přicházíte-li s dobrými úmysli jste v koncilovém domě vítanými hosty."
+"Snad budete schopni se tu zorientovat. Koncilový dům je velmi rozlehlá budova; snadno se můžete ztratit v jedné z mnoha chodeb, hal a kancelářských místností. Pamatujte, že východ a přijímací hala se nachází na severu. Ve střední části se rozprostírají poradenské místnosti a vedou tudy chodby do, které směřují do posvátné místnosti. V jižním křídle se nachází Velká hala. A za ní konferenční místnost nejvyššího koncilu. Přirozeně mám na mysli koncil Nejvyšší spravedlnosti. Rád vám opět s něčím pomůžu a pokud budete chtít, mohu vám vše ještě jednou zopakovat."
+"Nemyslíte, že by na návštěvu koncilu Nejvyšší spravedlnosti bylo lepší mít na sobě vhodnější oděv? Toto jsou posvátné komnaty a rádi bychom, aby cizinci ctili naše zvyky."
+"Skeima Din. Je báječné, že si tu mohou lidé nerušeně odpočinou například po schůzce plné napětí. Takové místo nenajdete jen tak někde."
+"Skeima Din. Já jsem jedním z nových členů koncilu. Ty jsi Tom a tohle jsou tvý přátelé, mám pravdu? Těší mě, že vás poznávám."
+"Skeima Din. Já jsem vystřídal Rika, stařešinu koncilu."
+"Neměli bychom snad varovat Herras? Instrukce Kariah speciálně toto zmiňovaly a kladly na to velký důraz. A i kdyby tomu tak nebylo, pořád je lepší, když ji varujeme s větší naléhavostí, než je zapotřebí, než když ji nevarujeme vůbec."

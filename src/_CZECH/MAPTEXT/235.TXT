@@ -1,0 +1,16 @@
+﻿{BLOK000} Městská brána {BLOK001} Hornická krčma {BLOK002} Cech horníků / Pokoje {BLOK003} Spolek výrobců výstroje a nářadí {BLOK004} Cech kovářský {BLOK005} Cech brusičů diamantů {BLOK006} Smíšené zboží {BLOK007} Jídlo
+Otevřeno mezi 8 a.m. a 8 p.m.
+Dveře.
+{CNTR} Na emblému vedle dveří stojí: {INK 006} Vítejte do Hornické krčmy.
+Zavřeno mezi 3 a.m. a 6 p.m.
+Zavřené dveře.
+Pomník.
+Nádoby patří obchodníku s jídlem.
+Touto bránou se dostaneš zpět do pouště.
+"Každý den docházím do věznice vystřídat kolegu na stráži. Chcete jít se mnou? Ale varuji vás; je to dlouhá a obtížná cesta."
+"Ha! Takže se opět setkáváme. Jste blázni, ha ha. Ale nebudu sketa a poskytnu vám informace, které jsem vám slíbil(a). První střípek je tento: Neřekl(a) jsem vám úplnou pravdu o své minulosti. Ale ráda bych vám to nějak vynahradila. Jestli hledáte zkratku do jižních částí kontinentu, můžu vám ukázat vchod do komplexu podzemních tunelů. Je nás jen pár, kteří víme, kde se nachází vstupní portál. Jestli vás to zajímá, můžeme se sejít o půlnoci před městskou branou. A teď už běžte. Musím se vrátit k práci."
+Poblíž někdo zvolal: {CNTR}{INK 006} "Máme ji!" "Sežer si to, mrcho!" {LEFT}{INK 001} Zdá se, že se opodál rozpoutal ohromný boj a podle výkřiků toho pro Nelly vypadá dost špatně.
+"Skeima Din, jste tu na návštěvě, nebo jste se stali novými obyvateli Umajo-Kenta? Naše město se pořádně rozrůstá."
+"Budu si muset ještě nějaké koupit."
+"Doufám, že jste sem přišli s dobrými úmysli. Nejsem si nikdy jistý, když narazím na skupinu lidí, o kterých nic nevím."
+"Dávejte si pozor na pouštní červy. Jsou to strašná stvoření. Nemůžete je vidět, protože číhají schováni v písku. Ale oni dokáží slyšet vaše kroky na míle daleko."

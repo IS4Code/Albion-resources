@@ -1,0 +1,175 @@
+﻿-free-
+Větve a kořeny.
+Pletený košík
+Skleněná nádoba na vodu a ostatní drinky.
+Sud.
+Velkolepá zvířecí kůže.
+Vědro.
+Hliněná mísa.
+Láhev.
+Talíř.
+Hliněný džbán.
+Džbán.
+Nůž.
+Vidlička.
+Lžíce.
+Hliněná nádobka.
+Skály.
+Mísa.
+Nástroj na obdělávání půdy.
+Sekera.
+Pokrývka hrudi.
+Dřevěná truhla.
+štědře zdobená truhla ze dřeva.
+Komnata úlevy.
+Pokrývka.
+Dřevěná káď.
+železná konev.
+Skříň.
+V těchto policích našly své místo samé bezvýznamné věci, patrně dekorativního charakteru.
+Psací stůl (sekretář).
+Koště.
+Rošt.
+Můžeš si tu opéci maso.
+Ohniště (krb).
+Tepaná karafa.
+Sběračka.
+Dekorativní meč na zeď.
+Dřevěný stůl.
+Stolička.
+Zalomená stolička.
+Masivní jídelní stůl.
+Pařez.
+Dvě překřížená kopí.
+Velký sud naplněný podivnou tekutinou.
+Pípa.
+Prostěradlo.
+Pohodlná a nádherně zdobená postel.
+Tato postel je obyčejná, ale praktická.
+Kuchyňský stůl.
+Ohniště (nebo krb).
+Ohniště (krb) sálá příjemné teplo.
+Zdobený hrnec.
+Sušené bylinky.
+Lidská lebka.
+Zdobený štít.
+Kovový hrnec.
+Zdobený meč.
+Dveře.
+Konvice.
+Nůž.
+Krátká dýka.
+Dýka.
+Dlouhá dýka.
+Krátký meč.
+Meč.
+Dýka (druh bodce)
+Házecí dýka.
+Sekerka.
+Sekera.
+Malý luk.
+Luk.
+šíp.
+Malý, kožený štít.
+Kožený štít.
+Kulatý štít.
+Velký štít.
+Kožená čapka.
+Reliéfní čapka.
+Kovová mísa (pohár, váza, číše).
+Kožená vesta.
+Kožené brnění (?).
+Reliéfní kožená vesta.
+Pár bot.
+Pár velkých bot.
+Prázdná láhev.
+Zelený léčivý lektvar.
+Tyrkysově zbarvený léčivý lektvar.
+Modrý léčivý lektvar.
+Klíč.
+Lano.
+Prsten.
+Pochodeň.
+Kladivo.
+Schody. Vedou nahoru.
+Schody. Vedou dolu.
+Pult.
+Kobercová rohož.
+Pokojová rostlina.
+Květináč.
+Do země je tu zasazen nádherně zdobený ornament. Symboly na něm zobrazené označují společenstvo zabývající se výrobou výstroje a výzbroje.
+Do země je tu zapuštěn nádherný ornament, který zdobí velký krystal.
+železný stůl.
+Kovadlina.
+železný štít.
+železná truhla.
+Komín od kovářské výhně.
+Závěs na zdi.
+Neobsazená poduška. Je tuze krásná a obyčejně slouží toliko jako dekorativní předmět.
+Několik vzácných kousků drahokamů.
+Vystavená deska se zbraněmi a štíty.
+Prázdná výstavní plocha.
+Mísa s ohněm.
+Mísa na oheň bez ohně.
+Volná rukojeť.
+Rukojeť.
+Místo pro vodu.
+Kladivo.
+Kladívko.
+Kladivo.
+Speciální kladivo.
+Kleště.
+Pilník.
+Pilníček.
+Kůží potažený razník s ďourou (možná, pardon).
+šroubovák.
+Malý šroubovák (tzv. šroubováček).
+železná pila.
+Určitý nástroj.
+Kádinka.
+Hasák.
+Maxinůžky.
+Mísa.
+Hezké nůžky.
+Láhev.
+Několik láhví.
+ Ampule.
+červená ampule.
+Kovová schránka.
+Kovový objekt.
+Sdrátovaný objekt.
+železná mísa.
+Mosazné kule.
+Mísa s vodou.
+Mísa.
+Moždíř.
+Lupa.
+Lékařské kleště.
+Těžký, krátký meč.
+Zdobený meč.
+Dvojitá dýka (typ bodce).
+Dlouhý meč.
+Skříň určená k vystavení zboží.
+Police s cennými ukázkami kovářského umění, ornamenty a drahokamy.
+Těžební vozík.
+Kolejnice.
+Nárazníková zarážka.
+židle.
+Stroj na výbrus diamantů.
+Východ.
+"Skeima Din, ^ ^ Kemilo jméno mé. Věnuji se zde opracovávání drahokamů. Mou specializací je výroba drobných uzávěrů na náhrdelnících a prstenech. Jsou tak malé, že je sotva zpozorujete. K jejich zhotovení potřebujete velmi trpělivých a klidných rukou a naprosto přesných nástrojů. Také lupa není k zahození. ^ ^ Ale protože pocházím z rodu, který má takovou mravenčí práci v krvi, není to pro mě těžké."
+"Coskon mi řekl, že prý hledáte někoho, kdo by vás naučil něco o zámcích a klíčích. Protože byste našli jen těžko někoho lepšího a protože se nechci jen tak zbůhdarma vytahovat, jsem ochoten vás něčemu přiučit."
+"Chcete se tedy pocvičit v otvírání zámků a zneškodňování pastí?"
+"Budete tu vždy vítáni."
+"Skeima Din, hledáte někoho? Nebo vám mohu pomoci v něčem jiném? Jestli máte nějaké speciální přání, měli byste se zeptat Coskona. On je vůdcem našeho společenstva a může vám poskytnou jakékoli informace, jaké si jen budete přát."
+"Jua! Sakra, řízl jsem se do prstu."
+"Teď mi krvácí i nehet!" (babička dycky říkala, že nešikovný maso musí pryč, třeba se to vztahuje i na nehty)
+"Předtím mi zase spadnul na nohu brusný kámen. {FAT }Všechno{NORS}už mě bolí!"
+"Prosím, nevyrušujte mě. Mám dneska ještě vybrousit další dva rubíny a vůbec netuším, jak to mám všechno stihnout. Pořád říkám, že se to nedá. Asi si založím vlastní odbor."
+"Jsem Coskonova žena. Starám se o domácnost a vařím pro členy společenstva."
+"Není mi dovoleno mluvit s cizinci, ale musím k nim být milá."
+"Toužíte si něco koupit? To by strýčka Mykonouva zajisté potěšilo. Vždycky se mu rozzáří očka, když může něco prodat... ouha... Jestli zjistí, že jsem vám tohle řekla, bude se určitě zlobit. Prosím, neříkejte mu nic."
+{LEAD}{NAME} a ostatní stáli v němém úžasu, jak před jejich zraky nabyl drahokam desetinásobného objemu. Dozajista má tento drahokam magické schopnosti, ale odkud pochází? Legenda praví, že kdokoli se dotkne takového kamene, dokáže číst ostatním lidem jejich myšlenky...
+Obrovský klenot rotuje v ornamentu a vrhá jasně rudé záblesky. Celý tento objekt také úžasně září.
+{LEAD}{NAME} se dotkl(a) kamene a pokusil(a) se číst něčí myšlenky, ale i přes velkou vynaloženou snahu neuspěl(a). Nicméně jeho/její tělo naplnila posilňující příjemná esence z kamene.
+{CNTR}{INK 006} Na ceduli stojí: ^Prosím, nedotýkejte se vystavených exponátů! ^

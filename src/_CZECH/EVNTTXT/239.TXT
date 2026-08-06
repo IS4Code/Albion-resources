@@ -1,0 +1,10 @@
+﻿{BLOK000} "Jsem jedním z nových členů Rady Spravedlnosti. Práce je pro mě hodně náročná. Myslím ale, že to zvládnu." 
+"Padá na nás nebe!" {WORDwho?}{WORDtown hall}
+"Nebe! Nebe! Chci říct, že na nás padá nebe. Oh, omluvte mé hysterické chování. Jsem jenom velmi zmatený, protože se nic nedaří a ještě se chystá válka." {WORDwar}
+"Cože?! Vy nic nevíte? Ale vždyť o tom každý mluví! Tomu tedy nerozumím..." {BLOK010} "Uklidněte se prosím." {BLOK011} "Nevíte něco nového?"
+"Já JSEM úPLNě KLIDNý! Předpokládám, že to má něco společného s těmi hroznými zprávami, jež se dozvídám."
+"Nebude trvat dlouho a začne válka. Ozbrojeni lidé a Iskaiové se shromáždili u Srimalinarovy svatyně. Ne každý je v přízni Kontosových plánů, alespoň ne v Belovenu, ale bohužel to Iskaiové neví. A oni už vůbec lidem nevěří. Kdo ví, možná uvěří vám. Alespoň byste byli schopni přijít na to co s Kontosem..." {WORDshrine}{WORDKontos}
+"Bohužel vypukne válka, pokud se nic nezmění. Být vámi, jel bych tam."
+"Věřím, že jenom málo lidí zná skutečné Kontosovy plány."
+"To jsem já."
+"Mělo by vám to být známé."

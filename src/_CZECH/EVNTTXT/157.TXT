@@ -1,0 +1,5 @@
+﻿{BLOK000}"Jsem ženou Tharnose, krále Tuathu."{WORDTharnos}{WORDTuath}
+"Togi Din, návštěvníci. Naneštěstí mám na vás málo času. Připravuji motlidby k Danu."{BLOK010}"Proč se k ní modlíte, Ferino?"{WORDDanu}
+"To se týká velmi soukromého problému, o němž nechci mluvit."
+"Togi Din. Co ode mne chcete?"
+"Togi Din, užiteční návštěvníci! Vkládala jsem velké naděje do toho, že nám přinesete štěstí. Ráda bych vám poděkovala."

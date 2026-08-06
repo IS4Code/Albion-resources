@@ -1,0 +1,5 @@
+﻿{BLOK010} "Já jsem válečník nebo válečník, jek někteří tvrdí. Pokud chcete, budu cestovat s vámi. Já také cestuji kolem světa, abych viděl nové věci a posbíral nějaké zkušenosti."
+"Skeima Din, ^ ^ pokud hledáte ozbrojence do vaší družiny, pak já jsem k dispozici. Mohlo by být užitečné mít sebou válečníka. Nejsem šermířský mistr, ale mám mnoho zkušeností. V každém případě bych se k vám rád přidal. ^ ^ Je mi jedno proč a jak půjdu, pokud budu moct putovat po světě, učit se nové věci a cvičit se v boji." {BLOK010} "Budeme rádi, když se k nám přidáte." {BLOK011} "Děkujeme za nabídku, ale naše skupina je kompletní."
+"Dobrá, půdu s vámi."
+"Možná budete potřebovat válečníka jindy."
+"Věřím, že vaše skupina je už dost velká."

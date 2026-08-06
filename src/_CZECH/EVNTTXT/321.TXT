@@ -1,0 +1,8 @@
+﻿{BLOK000}"Mé postavení vůdce Druidů tady moc neznamená, a jsem rád. Tady jsme si všichni rovni."
+"Togi Din. Doufám, že se ti tady líbí. Je to klidný ostrov, kde člověk může meditovat, aby nabral sílu od Animebony."{WORDAnimebona}{WORDmeditate}
+"Bytost požehnala tomuto místu. Zde je její síla ještě větší, než kdekoli jinde v Albionu. Na tomto ostrově jsou určitá místa, kde můžeš skrze meditaci vyrůst na těle i na duchu." {WORDAlbion}{WORDEntity}{WORDplaces}
+"Najdeš ta místa, když budeš sledovat květiny Bohyně." {WORDGoddess' flowers}
+"Tyto malé, krásně vybarvené květiny prý rostou na místech, kterým se dostalo zvláštní požehnání Bytosti."
+"Dsarii-ma, přátelé. Doufám, že úspěšně pokračujete v hledání informace, kterou potřebujeme k vytvoření semínka." {WORDseed}
+"Dsarii-ma, přátelé. Jak vidím, ještě jste neodjeli do centra nebezpečí, Toronta. Prosím pospěšte si."{WORDToronto}
+"ó, Bero! Daří se mu dobře, už je to zase on."

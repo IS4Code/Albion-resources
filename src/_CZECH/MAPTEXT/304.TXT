@@ -1,0 +1,148 @@
+﻿ 
+Rozbuška
+Křeslo.
+Postýlka.
+Ovládací panel jaderného reaktoru.
+Servisní panel. Uprostřed je terminál.
+Ovládací panel.
+Letový ovládací panel.
+Ovládací panel.
+Syntetický záchod.
+Kabinet.
+Umyvadlo.
+Ručníky.
+Kartáček na zub(y).
+Monitor monitorující chodbu.
+Kontrolní monitory.
+část reaktoru.
+Sudy s odpadky, splašky, fekáliemi a toxickým materiálem.
+Vypnutá konzole.
+Lampa.
+Talíř.
+Sklenice.
+Pohár.
+Nádoba.
+Láhev.
+Plechovka.
+Krabice.
+Kontejner.
+Slánka a pepřenka.
+Sójový sos
+Hrnek.
+Malá konzerva.
+Lopata.
+Rýč.
+Francouzák.
+šroubovák.
+Přenosná příruční konzole.
+ODS (osobní digitální spolupracovník).
+Kleště.
+Příbory a hrneček.
+Nádobí.
+Automatické dveře.
+Loď.
+Přepravník.
+Sprcha.
+Vozítko.
+Značení na zemi.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Bezpečností ostraha se sotva vzdálila z dohledu ostatních, když Tom ucítil ostré bodnutí na krku. Obsah injekce proměnil jeho okolí ve vesmír potažený černým suknem.
+Za nějaký čas se Tom probral v nemocniční posteli.
+"Zatraceně! Moje hlava! Co to mělo všechno znamenat? To se všichni zbláznili?"
+"Dveře jsou zamčené! Driscolle, jsi v pěkným průšvihu. Něco tady nehraje."
+Dveře jsou zamčené a nedají se otevřít.
+Konzole na monitorování životních funkcí.
+"Udělali z téhle nemocniční místnosti vězeňskou celu!"
+"Tome! Počkej, zkouším se dostat dovnitř!"
+Dveře se najednou otevřely a objevil se v nich starý Tomův přítel Joe.
+"Joe! Konečně s přízněná duše! O co tu jde? Proč mě tu drží jako nějakýho krimi..."
+"Klid, klid! Uklidni se. ^ ^ Předně je důležité, že jsi vůbec naživu. Už jsme si mysleli, že jste s Hofstedtem mrtvý."
+"Promiň, kamaráde. Jsem taky rád, že tě vidím."
+"To je v pořádku. Nevím, kolik máme ještě času. Možná sis všiml, že jsem otevřel dveře za pomoci falešné karty."
+"Už mě napadlo, že tvá návštěva tady asi není oficiální. Prostě mi řekni, co se to tu děje!"
+"Teď zrovna nemůžu! Nejdřív povídej ty. Všechno, stručně a jasně."
+"Stručně a jasně? člověče, nemáš ponětí jak..."
+Tom popsal své neuvěřitelné zkušenosti jak nejlépe to dokázal. Zmínil rasu Iskai a rasu lidskou a nastínil svá dobrodružství, která prožil na této planetě překypující životem. ^ ^ Joe byl čím dál víc udiven.
+"No páni. Na to si musím sednout. ^ ^ Kdybych tě neznal tak dobře, věřil bych, že ses mírně pomátl. To všechno je skutečně pravda?"
+"Ty víš, že bych si tohle všechno nedokázal vymyslet. Hofstedt by ti to mohl všechno potvrdit, kdyby býval nezůstal s Dji Cantosy."
+"Ano, to by to pomohlo vysvětlit. Ale potom tento svět není..."
+"Teď je řada na tobě, příteli. Co se stalo tady?"
+"Všechno je jak má být. A to je právě ten problém."
+"Nechceš mi snad říct, že si tu ještě nikdo nevšiml, že na této planetě není něco v pořádku?"
+"Přemýšlej! Kdyby si byl přistál na Zemi u prostřed pouště Gobi a neviděl bys nic jiného než nehostinnou mrtvou písečnou planinu, co by sis potom o takové planetě myslel?"
+"Poloha na přistání byla zvolena chytře, to je jistý. Nikdo tak nemůže říct, že palubní počítač a kapitán Brandt udali posádce falešná data."
+"Zřejmě. Ale kromě toho je tu spousta dalších věcí. ^ ^ Fakt, že je atmosféra více dýchatelná, než jsme zprvu věřili, se dá jen těžko ignorovat. ^ ^ A dále jsme při prvních těžebních pracích narazili na hrozně zvláštní a nesmírně houževnatá zvířata. Taková to vysoce vyvinutá forma života by jen ztěží mohla existovat na prakticky mrtvé planetě."
+"A nikdo nepojal ani to nejmenší podezření."
+"No. Tyto tvory zahnaly bezpečnostní jednotky. Z počátku zde byla celá série nevysvětlitelných nehod a ztroskotání. To nás zaměstnávalo natolik, že jsme měli sotva čas se pořádně vyspat, natož pak přemýšlet. ^ ^ Kapitán zvolil metodu "hrubé síly". To nás stálo mnoho munice a materiálu, ale s tou spoustou výzbroje, kterou jsme si s sebou přinesli, jsme se přes všechny tyto problémy jednoduše přenesli. ^ ^ Pozvolna pak všechny tyto příhody ustaly. Prémie se zdvojnásobili a mnoho lidí to začalo vidět jinak. Nikdo další už neměl příležitost se o tomto světě dozvědět cokoli nového. Konečně všichni si byli dobře vědomi, že je zakázané opustit základnu."
+"Všechno to do sebe perfektně zapadá. Teď je mi naprosto jasné, proč mě takto elegantně odklidili z cesty. ^ ^ Byl jsem příliš naivní. Ale nikdy bych neřekl, že DDT je schopna použít tak drastických metod. Někdo toho ale někdy bude zatraceně litovat!"
+"Možná. Nebo taky ne. ^ ^ To všechno vrhá ale na smrt inspektora Beeglese úplně jiné světlo."
+"Správně. Mohl si všimnout, že se manipuluje s daty, které zasílala sonda a pokusil se kontaktovat svůj úřad na Zemi, když v tom ho objevili."
+"Záměrné přetížení dimenzionální transferní jednotky C mohl mít na svědomí pouze Ned, palubní počítač. Jestliže je do celé záležitosti zainteresována celá umělá inteligence lodě, jakože máme důvod si to myslet, pak bysme měli být velmi opatrní. Na lodi není moc zařízení, které by se nedaly kontrolovat palubním počítačem."
+"Nicméně se odsud musíme dostat a musíme si o tom promluvit s ostatními členy posádky! Znám se se spoustou z nich. Když budou znát celou a skutečnou pravdu o tomto světě, nedokážu si představit, že budou i nadále pracovat na ničení této planety, prémie neprémie."
+"Možná. V každém případě bude hodně náročné jenom zastavit celou těžební operaci. ^ ^ Ale to není hlavní problém. Hlavní problém představuje palubní počítač."
+"Co může udělat? Odříznout nás od energie? Ned může mít kamery, ale určitě k nim nemá přimontované kulomety."
+"Před pár týdny jsem objevil něco, co ví pravděpodobně jen hrstka lidí na palubě: Není tu jen jeden android, prostřednictvím nějž s námi palubní počítač komunikuje. Jsou jich desítky! ^ ^ A androidi už nebezpečí představují, obzvlášť je-li jich tolik. Dokáže-li Ned kontrolovat všechny androidy najednou a začne-li něco tušit, dojde k masakru!"
+"Och, děláš si ze mě srandu? Myslíš, že DDT snad použije síly proti svým vlastním lidem?"
+"Na to si musíš přijít sám. Jestliže loď takové to velikosti, nedokáže splnit svůj úkol, znamená to především obrovskou finanční ztrátu. ^ ^ To by znamenalo pro společnost její konec. ^ ^ To je motiv pro vyřešení situace i za pomoci zcela vyjímečných prostředků, nemyslíš?"
+"O.K. ^ ^ Můžu ti vyprávět dlouhý příběh o tom, jak se tato planeta a její obyvatelé stali mojí součástí během dlouhé cesty až sem, a ještě mnohem dál, ^ ^ Dodám už ale jen jednu věc: ^ ^ Tento svět bude zplundrován jen přes moji mrtvolu. Vyjádřil jsem se dost jasně?"
+Joe se chvíli mlčky díval na Toma. Pak po chvilce přemýšlení řekl:
+"Tento svět musí ukrývat fantastická místa a já bych je rozhodně rád navštívil. ^ ^ Myslím, že toho budu litovat, ale... jsem s tebou."
+"Co na to můžu říct? Já..."
+"Co třeba 'Díky'? Ne, zapomeň na to!"
+"Máš nějakou představu, co bysme měli dělat dál?"
+"Musíme se pokusit ochromit přívod energie k centrálnímu počítači. Pak si můžeme promluvit s celou posádkou a lidmi z ostrahy. Předpokládám, že všichni z ostrahy nejsou krvežíznivý trotlové. Pak bysme mohli uskutečnit menší revoluci bez toho, aby došlo ke střetu s androidy."
+"Já zase předpokládám, že asi nebude možné jen tak vytáhnout centrální počítač ze zásuvky, že?"
+"Věděl jsem, že se na to zeptáš. ^ ^ Centrální palubní počítač, který obsahuje Nedovu umělou inteligenci, a než se zeptáš, patrně i inteligenci všech ostatních androidů, se nalézá ve speciálním krytu, kterému nedokáží ublížit ani podmínky panující ve vesmíru. Zdroj energie je bezdrátový. Naší jedinou šancí je dostat se do hlavní ovládací místnosti fúzního reaktoru. Tam musí být konzole, kterou se dá přerušit napájení do centrálního palubního počítače."
+"A jaké máme šance se tam, a pokud možno i zpátky, dostat živi?"
+"Za normálních okolností ne moc velké. ^ ^ Ale můžou nám pomoci dvě věci. První, reaktor je ve stejné sekci v které se nyní nalézáme. A druhá, palubní počítač se právě teď radí s kapitánem, s největší pravděpodobností právě o tobě. Nedova verbální komunikace s lidskými bytostmi ho stála vždycky mnoho strojového času, mnohem víc, než všechny ostatní úkoly. To znamená, že Toronto i nadále kontroluje, ale všechny ostatní úkoly náročné na výpočetní čas jsou potlačeny. ^ ^ Například vizuální vyhodnocování obrazu dodávaného kamerami. ^ ^ Abych to zkrátil: mohlo by se nám tak podařit dostat se do místnosti s ovládací konzolí přes servisní podlaží, aniž by si nás všiml, zamezit přísunu jeho energie a informovat všechny na palubě o této planetě."
+"To zní dobře. Hurá na reaktor!"
+"To je všechno, co k tomu řekneš? ^ ^ No dobře. Nejdřív musíme najít přístup na servisní podlaží. Tato sekce byla vyklizena, ale my bysme ji neměli opouštět, jinak se nám za zadek okamžitě přilepí bezpečnostní jednotky a zabásnou nás dřív, než stačíš říct švec. A už vůbec nepočítej s tím, že bys jim snad stačil odvyprávět svůj příběh."
+"No dobře. Tak dem už?"
+Otvírač dveří (?) ^ ^ Vedle číselného panelu je slot na vložení kódové karty. ^ ^ Kód už byl zadán.
+Otvírač dveří (?) ^ ^ Vedle číselného panelu je slot na vložení kódové karty.
+"Za těmito dveřmi by měl být servisní panel, a tam by se nám také mělo podařit slézt do servisního podlaží."
+"Tyto dveře jsou přechodové. Jsem si jistý, že mají vysokou prioritu při spouštění poplachu. Když je otevřeme, okamžitě po nás půjdou bezpečnostní jednotky i palubní počítač."
+"Tohle vede do hlavní oblasti nemocniční stanice a ke kasárnám bezpečnostních jednotek. Je tam hodně lidí. Bude lepší, když se pokusíme najít vchod do servisního podlaží odsud."
+"Dokážeš ty dveře otevřít? Nemělo by to být těžší, než otevřít ty moje dveře, že?"
+"No, pravděpodobně. Ale já už mám jen {FAT } jednu {NORS} programovatelnou kartu. Víš jak je těžký přijít k takovým věcem? Nedosti na tom, tyhle dveře vypadají, že se dají otevřít pouze pomocí kódu."
+"A kde se k nějakému dostaneme?"
+"Nemám ponětí."
+Tady je kousek papíru s napsaným kódem.
+"Ha! Není nic lepšího, než lidská skleróza a roztržitost! ^ ^ Je dobře, že tu je tolik lidí, kteří si nepamatují své přístupové kódy a ještě víc těch, kteří je ztrácí. Zkusme tento!"
+Klávesnice pro zadávání číselných kódů.
+{TECF}{CNTR} ZADEJTE VSTUPNí KóD
+{TECF}{CNTR} ZADANý KóD NESOUHLASí. ^ ^ PříSTUP ZAMíTNUT.
+{TECF}{CNTR} KóD PřIJAT. SERVISNí PANEL JE PříSTUPNý.
+"Ach, servisní panel. Kód pro tento přístup je 1712."
+"Přístupový kód je 1712."
+{TECF}{CNTR}KóD SOUHLASí. DVEřE OTEVřENY.
+Dveře jsou zamčené.
+V této skříňce je zelená kódová karta!
+Když si Tom začal zámek prohlížet podrobněji, Joe řekl:
+"Ještě jednou ti to zopakuji: nech to plavat. Určitě bysme tím spustili poplach."
+Je tu uskladněno několik energetických nápojů.
+"No, z papíru, který jsem našli, brachu!"
+žebřík. Vede dolu.
+Na cestě přes servisní podlaží se Tomovi a Joeovi podařilo taktak uniknout bezpečnostním jednotkám. ^ ^ Rychle proběhli ošetřovnou aby našli cestu ven.
+Tom a Joe téměř dosáhli východu, když zahlédli jednoho z androidů, jak jim blokuje cestu ke svobodě.
+"Tom Driscoll, Joe Bernard, váš odpor proti lodním ustanovením a vaše zřejmá snaha postavit se proti zájmům firmy, učinila použití hrubé síly jako jediné možné cesty. ^ ^ Je mi líto."
+Android pozvedl svou zbraň!
+Poškozen ohnivou koulí (fireballem), android beznadějně zavrávoral.
+"Můj bože! ^ ^ Co to {FAT } bylo {NORS} ? Jaks to dokázal?"
+"Malý dárek, který mi dali na ostrově Dji Cantos. ^ ^ Nějaké další otázky?"
+"Hafo. Ale už nemám pochybnosti o tvém příběhu."
+"Dobrá. ^ ^ O.K., Jdem do toho. Bude dost těžký dostat se přes tu zatracenou poušť nezpozorován."

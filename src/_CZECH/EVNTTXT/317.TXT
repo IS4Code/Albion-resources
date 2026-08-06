@@ -1,0 +1,10 @@
+﻿{BLOK000} "Jsem Birrh, léčitel a učitel umění léčit v této oblasti. Vypadáte zvědavě. Co byste chtěli vědět?" {WORDEns}
+"Ens je to, co tě udržuje při životě. Je to tvé já. Ens tě odlišuje od mrtvých, stejně jako od všech věcí, které existují."{BLOK010}"Tak Ens je duše ?"
+"Ne. Duše je určitá třída Animenkny. Podle Bathriga mají duši jen lidé. říká, že zvířata nemají duši. Mají tedy duši Iskai ? Těžko říct. V každém případě duše není nic víc než pokus Animenkny klasifikovat a kategorizovat pro sebe Ens. Pokud byste chtěli Ens popsat slovy, museli byste říct, že je to duše a vědomí. Ale Ens je samozřejmě nedělitelné. ^ ^ A kdybych řekl, že vaše duše je tělem Ens a vaše vědomí jeho pohyb, pak to bude asi pro váš způsob uvažování to nejlepší vysvětlení. Ale vždy mějte na paměti, že tělo se nemůže oddělit od toho, co koná." {WORDBathrig}
+"Bathrig... Nemůžu popřít, že kolem této bytosti je něco fascinujícího. Nikdo ještě Animebonu neobrátil proti ní samé s větším důvtipem. Jeho slova zněla jako svoboda a Animebona, ale vlastně řekl Animenkna." {WORDAnimebona}{WORDAnimenkna}
+"Ať vám slouží zdraví a mír s vaším Ens." {WORDEns}{BLOK010}"Potřebujeme, abys nám pomohl jako léčitel, Birrhu."
+"Zdravím vás. Doufám, že získáte znalosti, které jsou potřeba k vytvoření semínka."{WORDseed}{BLOK010}"Potřebujeme, abys nám pomohl jako léčitel, Birrhu."
+"Jak vidím, ještě jste se nevydali na cestu do centra nebezpečí, Toronta. Ať vám Animebona žehná."{WORDAnimebona}{WORDToronto}{BLOK010}"Potřebujeme, abys nám pomohl jako léčitel, Birrhu."
+"Ale samozřejmě! Jak vám mohu pomoci?"{BLOK010}"Máme tu zraněné." {BLOK011} "Potřebujeme vyléčit nemoc."{BLOK012}"Jeden očarovaný předmět nám dělá problémy."{BLOK013}"Není to tak špatné,omluv nás.Musíme jít."
+"Přirozeně, sbohem."
+"Znám většinu druhů tělesných zranění. Když budete potřebovat pomoc, kdykoli přijďte."

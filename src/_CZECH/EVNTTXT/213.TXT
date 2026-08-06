@@ -1,0 +1,7 @@
+﻿{BLOK000} "ó, já tady ve městě spravuji obchod s jídlem."
+"Skeima Din. Nemluvili jsme už spolu? Slyšel jsem, že řešíte ten konflikt. Myslím, že je to skvělé. Mnoho lidí ve vás vkládá své naděje, zvláště když už nikdo nikomu nevěří. Když už o tom mluvíme: Nevím přesně jak je to s Kontosem. Jeden dobrý přítel mi řekl, že existuje spojení mezi ním a členy městské rady Gardem a Rikem, kteří hráli důležitou roli ve spiknutí proti Herrasovi. Myslím, že by se to mělo vyšetřit! Já pro to asi nemám tolik diplomatického taktu. Ale jestli vám záleží na téhle zemi, pak se snažté pomoct. Budete vypadat jako neutrální prostředník. Možná můžete najít důkaz pro nebo proti Kontosově vině."{WORDKontos}{WORDshrine}
+"Jak jsem řekl, už si nejsem jistý, co si mám o něm myslet. Mohli byste shromáždit nějaké důkazy, které by ho mohli očistit, nebo naopak usvědčit?" {BLOK010} "A jaký druh důkazů máte na mysli?" {BLOK011} "Jak máme tu věc řešit?"
+"Samozřejmě, musí existovat nějaké dokumenty, z kterých vyplývá, kdo má něco společného s Kontosem."
+"Nemám ponětí - takové pátrání není ani trochu bezpečné!"
+"Myslím, že situace je vážná. Nestaly se plány Kontose a jeho následovníků skutečností?"
+"To jsem já."

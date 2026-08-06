@@ -1,0 +1,7 @@
+﻿{BLOK000}"Jsem královna Aballonu."{WORDAballon}
+"Togi Din, návštěvníci Aballonu. Vítejte v ovocném sadu Gratogelu." {BLOK010}"Hledáme velký kovový předmět, který spadl z oblohy. Slyšela jste o něčem takovém?" {WORDAballon}{WORDGratogel}
+"Myslíte to vážně? Ne, nikdo mi o takové podivnosti neříkal."
+"Togi Din. Co ode mne chcete?"
+"Nejkrásnější ovoce na Gratogelu roste zde. Danu a Lugh milují naši zemi, pravděpodobně tak, jako já. Rok za rokem máme dobré sklizně."{WORDDanu}{WORDLugh}
+"Jak už jsem řekla, jsme pyšní na skutečnost, že nejkrásnější ovoce na Gratogelu roste zde. Danu a Lugh milují naši zem pravděpodobně stejně jako já a tak máme rok za rokem dobré sklizně." {WORDDanu}{WORDLugh}
+"Stojíte před právoplatnou královnou Aballonu.{WORDAballon}"

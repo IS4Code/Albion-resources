@@ -1,0 +1,17 @@
+﻿{BLOK000}"Tedy, pokud se nepokusím uzdravit ošklivě zraněné lidi, dám alespoň pozor na zraněné lovce z našeho klanu."{WORDclan}
+"Dsarii-ma, moji bývalí pacienti!"
+{INK 001}Tohle je Giria, která se postarala o Tomova a Rainerova zranění. {INK 002} ^ ^ "Dsarii-ma! Jsem šťasten, že se nám povedlo vás vyléčit, Tome. Když si poprvé přišel do našeho domu, říkal jsem si, že by to byl zázrak. Ale vaše rasa, zdá se, je velmi odolná. {WORDhealing}{BLOK010}"Girio! Rád vás znovu vidím. Rádi bychom vám poděkovali za všechno, co jste pro nás udělala."{BLOK011}"Ah, Giria. Neuvěříte, jak rádi jsme unikli z vaší tyranie v nemocničním pokoji!"
+"Byla to pro mne čest. Po všech těch poškrábaných a pokousaných lovcích, byla vaše léčba zajímavou změnou. {WORDhunter}"
+"Jak lichotivé. Možná bys upřednostnila, kdybychom tě nechali se zvířaty v lese?"
+Uražená Giria ukončila rozhovor.
+"Oh, znovu ti příjemní lidé."{BLOK010}"Girio, omluv nás, prosím. Pouze jsme žertovali. My víme, že ti máme mnoho co poděkovat."{BLOK011}"Hej, jenom jsme se snažili napodobit váš divný humor!"
+"Přijímám vaši omluvu. Možná jsem byla trochu hrubá. Někdy zapomínám, že vy, lidé, nemůžete ovládat bolest."{WORDpain}
+"Můj zájem o vaši rasu byla zřejmě chyba. Podle všeho nejste obeznámeni s nejprostšími základy vděčnosti."
+Giria se dále o rozhovor nezajímá a odvrací se.
+"Och, vidím, že jeden z vás je vážně zraněn! Měli byste navštívit ranhojiče Dji-Kas. Nemohu léčit tak vážná zranění. Mám vám tam rychle ukázat cestu?" {BLOK010}"Ano, ukaž nám ji, Girio!"{BLOK011}"Ne, velice děkujeme, ale cestu známe."
+"Já především ošetřuji menší zranění našich lovců. K léčení vážných zranění přivedeme ranhojiče z Dji-Kas, nebo běžte do jejich domu. Tam také prodávají léky."{WORDhunter}{WORDDji-Kas}{WORDmedicine}
+"Tedy, jak už jsem řekla, s vážnějšími zraněními byste raději měli jít k Dji-Kas."
+"Náš klan si na živobytí vydělává především lovem. V Jirinaaru jsou chovatelé dobytka, ale lidé dávají přednost zvěřině. Více uznávané zvíře je loveno pro větší zisk. Někdy dokonce pořádáme lovy beze zbraní k zasvěcení mladých lovců. Jistě si dokážete představit, co s nimi mám za práci."
+"Myslím, že už jsem se o tom zmiňovala: náš klan se živí převážně lovem. V Jirinaaru jsou chovatelé dobytka, ale lidé dávají přednost zvěřině. Více uznávané zvíře je loveno pro větší zisk. Někdy dokonce pořádáme lovy beze zbraní k zasvěcení mladých lovců. Jistě si dokážete představit, co s nimi mám za práci."
+"Dji-Kas vyrábějí nápoj, který posílí zraněné tělo a urychlí hojení. Myslím, že vám trochu dám: lahvičky nejsou levné, ale určitě vám můžeme jednu věnovat." {INK 001}Giria dává {LEAD}{NAME} malou lahvičku s tyrkysově zabarvenou tekutinou uvnitř.
+"Je mi líto, {LEAD}{NAME}, ale nemůžeme si dovolit dát vám nějaké další léky. Avšak Dji-Kas vám rádi nějaké prodají."

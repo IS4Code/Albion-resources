@@ -1,0 +1,7 @@
+﻿{BLOK000} "Jsem jeden z klanových lovců."{WORDhunter}{WORDclan}
+"Dsarii-ma, hosté domu. Vidím, že Giria vás znovu postavila na nohy." {WORDGiria}{BLOK010} "Dsarii-ma. Co je smyslem této části domu?"
+"Toto je místo k odpočinku. Protože jsem byl zraněn při lovu, pravděpodobně zde strávím nějaký čas." {WORDhunt}
+"Dsarii-ma. Co pro vás mohu udělat?"
+"Giria dává pozor na zraněné našeho klanu, stejně jako pomohla vám. Ona je báječná žena: ale velmi snadno se urazí, tak buďte opatrní." {WORDclan}
+"Ano, právě jsme pronásledovali naši kořist, v severozápadní části Nakiridaani, když jsem vběhl do skupiny krondiru. Než se mi ostatní vrhli na pomoc, krondirové už mě začali žvýkat." {WORDNakiridaani}{WORDkrondir}
+"Krondirové jsou velká nebezpečná a dravá zvířata. Obávaní protivníci, samice jsou obzvlášť divoké. Mají strukturu podobnou Trii v rohu na čele, který je velmi ceněn, jako ozdoba. ^ ^ Ale pokud se zajímáš o jejich lov, měl bys ztratit slovo s Krinnem, Stri lovu. Poznáte ho podle jeho šedo-hnědé kožešiny." {WORDTrii}{WORDStri}

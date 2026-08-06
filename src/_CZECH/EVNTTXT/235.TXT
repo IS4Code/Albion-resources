@@ -1,0 +1,6 @@
+﻿{BLOK000} "Jsem členem koncilu Spravedlivých a i když to je těžké, musím dohlédnout na to, že bude brán zřetel na zájmy lidí."
+"Vítejte, jsem rád, že vás opět vidím." {WORDshrine}{WORDtown hall}
+"Víte, že vás teď každý vyhledává? Možná to Možná to pro nás nevyznívá dobře, ale kdybyste tu nebyli, skončilo by všechno úplně jinak. Vaše diplomatické schopnosti nám velmi pomohly a jménem svým i koncilu bych vám chtěl poděkovat." {WORDKontos}
+"Je vážně skvělé, že jste před ním zachránili nás a vlastně celý Kounos."
+"Koncil se schází pravidelně v koncilovém domě a někdy, když jde o velkou událost, pozveme celé město do naší zasedací místnosti. Je tam mnoho malých místností, které používáme k diskusím, a které mohou být pronajaty i k jiným účelům. V jižním křídle je velká zasedací místnost a střední zasedací místnost. V severním křídle můžete nalézt menší místnosti a uprostřed je kuchyně a stravovací kumbál... eh, místnost. Buďte tu jako doma."
+"To jsem já."

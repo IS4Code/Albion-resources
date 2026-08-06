@@ -1,0 +1,59 @@
+﻿Fear 1
+
+
+
+
+
+
+
+
+Magician 1
+
+Animal 1
+Fear 2
+Fear 3
+
+
+
+
+
+
+
+
+
+
+
+
+Magician 2
+Magician 3
+
+Animal 2
+Animal 3
+Storm 1
+Storm 2
+Storm 3
+Plague 1
+Plague 2
+Plague 3
+Beastmaster
+
+
+
+Sanddiver 1
+Sanddiver 2
+Sanddiver 3
+Service robot
+AI Body 1
+AI Body 2
+Bandit 1
+Bandit 2
+Bandit 3
+
+
+
+
+
+
+
+
+AI Body 2

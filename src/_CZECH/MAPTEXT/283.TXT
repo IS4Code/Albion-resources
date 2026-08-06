@@ -1,0 +1,23 @@
+﻿{BLOK000} Zbraňmistr {BLOK001} Zbrojmistr {BLOK002} Smíšené zboží {BLOK003} Krčma {BLOK004} Hotel {BLOK005} Potraviny {BLOK006} Koncilový dům {BLOK007} Léčitelka {BLOK008} Městská brána {BLOK009} Přístav {BLOK010} Tržiště {BLOK011} Byt {BLOK012} Byt {BLOK013} Byt {BLOK014} Byt
+Velký kamenný kvádr.
+Dveře.
+Dveře jsou zamčené a nedají se otevřít. Nikdo tu pravděpodobně zrovna není.
+Zde se kontroluje dodané zboží.
+Je tu velká plaza (???) s fontánou, stoly nádobkami a nádobami. Skoro to vypadá na tržiště.
+{INK 006}{CNTR} Chrániče, přilbice a brnění.
+{INK 006}{CNTR} Vrhací, sečné a bodné zbraně.
+{INK 006}{CNTR} Smíšené zboží.
+"Tak jsem dorazili do Belovena, kamarádi! Navrhoval bych, abysme se nejdřív porozhlédli po městě. Možná tak vypátráme něco o Torontu. Jakkoli se ale musíme pokusit pokročit v našem pátrání, toto velké město k tomu jistě poskytne dostatečné množství příležitostí."
+Fontána.
+"Skeima Din, sháníte něco konkrétního?"
+Opatrným vyptáváním se snaží Tom a jeho společníci zjistit, jestli někdo z obyvatel města neví něco o údajném přistání vesmírné lodi Toronto. Ale nevypadá to zatím moc dobře: Zimos neví ani neslyšel o ničem. Jestliže mluví pravdu, pak místo přistání Toronta musí být daleko odsud. Pak ovšem vyvstává otázka, kde. Možná že se jim podaří sehnat nějaký spolehlivý způsob dopravy, když se seznámí lépe se zdejšími lidmi. Proto je také nesmírně cenné seznámit se blíže s městem a jeho okolím.
+"Jestli chcete něco získat, pak musíte mluvit s lidmi. To je jediná cesta, jak tu můžete k něčemu přijít. Pokud nebudete mluvit, nikam se tady nedostanete. Mluvte s lidmi často! Vyplácí se být vytrvalý. Zrovna nedávno jsem takhle 'vykecal' od jednoho svého souseda zdobenou fontánku. Nepotřeboval ji už roky, ale musel jsem se ho ptát zas a znovu, než mi ji konečně daroval. Někteří lidi jsou prostě ňoumové. Většina lidí tu je taková. A někteří mění svá rozhodnutí podle politické situace. Jednoduše buďte s lidmi a mluvte k nim."
+"Bohužel nemám čas na vlasatou (dlouhou) konverzaci. Ale až bude  příležitost si s někým pohovořit, zeptejte se ho na horský průsmyk, Kounos a Srimalinar."
+"Až opustíte město, mějte se na pozoru před krondiry. Jsou to agresivní pronásledovatelé."
+"Prosím, nepřecházejte na svých toulkách po okolí naše pole. V loni jsme přišli o čtvrtinu sklizně jenom proto, že někteří lidé neměli na práci nic lepšího, než si na našem poli vyšlapat zkratky."
+"Někdy trávím v přístavu celé hodiny a naslouchám šumění vln a vodních ptáků. Přírodní síly a harmonie mě nepřestane nikdy fascinovat. Není to snad báječné, cítit svěží, solí provonělý vzduch a cítit vodní tříšť na tvářích?"
+"Co pohledáváte v těchto končinách? Lidi jsou čím dál divnější a divnější..."
+"Nepotřebujete vědět, ani nemůžete znát, všechno."
+"Skeima Din. Jestli se budete chtít seznámit s lidmi, navštivte krčmu. Také si můžete na noc pronajmout pokoj."
+"Jestli jste tu noví, měli byste o sobě dát nejdřív vědět v koncilovém domě!"
+{CNTR}{INK 006} Zavřeno. Otevřeno od 8 a.m. do 10 p.m.

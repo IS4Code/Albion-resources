@@ -1,0 +1,5 @@
+﻿{BLOK000} "Jsem jedním z nových členů Rady Spravedlnosti. Práce je pro mě hodně náročná. Myslím ale, že to zvládnu." 
+"Jsem rád, že jste se opět u mě zastavili. Teď se mi v práci docela daří. Není divu vzhledem k tomu, co se bude dít dál."{WORDlately}{WORDtown hall}
+"Myslím, že víte o čem mluvím, ha ha."
+"To jsem já."
+"Mělo by vám to být známé."

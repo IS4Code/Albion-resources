@@ -1,0 +1,147 @@
+﻿free
+Ohniště (krb).
+Svícen.
+Pletený košík.
+Dřevěný stůl.
+Stolička.
+Baldachýnové lože. Díky těm lebkám by se také dalo nazývat "Pekelné lože."
+Psací stolek.
+židle.
+Oheň tu vytváří sloup plamene a vrhá na ztemnělé okolí pitoreskní stíny. Ty mohou vyvolat v náhodném pozorovateli úzkostlivé pocity.
+Sloupec s hrozivě pitvořícím se xichtem.
+Dětská postýlka. Stejně jako většina nábytku ani ona nevypadá dvakrát pohodlně.
+Sud.
+Koberec utkaný ze suchých stébel.
+Skleněná konvice.
+Záclony.
+Truhla.
+Kabinet.
+Pochodeň.
+Povalují se tu drobné nepotřebné předměty.
+Velké dřevěné necky.
+Velké dřevěné police.
+Tuto postel asi zrovna nikdo nevyužívá.
+Rozličné sečné, bodné a střelné zbraně; všechny vypadají nanejvýš nebezpečně.
+Police na zbraně.
+štít.
+Lebka naražená na kůl. Nepříjemný zápach naznačuje, že k tomu hrůznému činu došlo teprve nedávno.
+Na těchto slaměných paňácích se trénují a testují bojovné dovednosti.
+Dřevěná tyč obalená slámou slouží k trénování bojových technik.
+Terč pro střelbu z luku.
+Tác s jídlem.
+Bylinky.
+Truhla.
+Karafa.
+Naběračka.
+Kbelík.
+Lžíce.
+Lžíce a vidlička.
+Pohár na pití.
+Pohár na pití.
+Náčiní na dopravu poživatin z talíře do orálního otvoru (úst).
+Talíř.
+Nádobka.
+Zelenina.
+Koláčky.
+Koření.
+železný talíř.
+Hliněná nádoba.
+Velký skleněný džbán.
+Skleněná nádoba.
+Dřevěná bedna.
+Velká skleněná dóza.
+Láhev.
+Papírky na poznámky.
+Kniha.
+Několik knih.
+Kniha vázaná v kůži. Zdá se být cenná.
+Psací potřeby.
+Otevřená kniha. Na levé straně je vidět technický výkres; na pravé je potom k němu popis.
+Psací brk.
+Těžký, krátký meč.
+Těžká dýka.
+Dveře.
+Ohromná kuchyňská kamna pro přípravu pokrmů a nápojů.
+Závěs na zdi.
+Potrhané závěsy.
+Ošumělé dřevěné postele.
+Zdobený sloup.
+Zvířecí kůže.
+Schody vedoucí nahoru.
+Schody vedoucí dolu.
+Otevřené zásuvky s drobnými předměty.
+Kádinka.
+Pěkné nůžky.
+ Ampulka.
+Těžký meč.
+Ampulky.
+Zvětšovací sklo (lupa).
+Velké utěrky.
+Utěrka.
+Koberec.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Kenget odebral od družiny zlato, za které chtěli zaplatit Vyšší vědění! ^ ^ {LEAD}{NAME} a ostatní společníci byli hrubě uvaleni do temné cely. ^ ^ Po chvíli se všichni opět zotavili.
+"Bravo, Khunagu! Použití tajné chodby byl výtečný nápad!"
+"Za mého času se ta chodba nehlídala!"
+"Co myslíš, že bysme teď měli dělat? Teda kromě přemýšlení, kolik těch vybraných mučících technik, které nám tvoji bývalý kolegové slíbili, asi tak přežijeme..."
+"Pokud ti můžu připomenout, byl jsem jedním vysoce postaveným mezi Kengety a ti měli možnost vlastnit určité znalosti, jejichž použití je dokázalo ochránit před neopatrnými činy jejich níže postavených bratří. ^ ^ To obnášelo následující..."
+Khunag šmátral za kamennou klenbou poměrně dlouho...
+"Tohle by mělo otevřít dveře cely. Prubněme to!"
+"Dobrá! Dveře už nejsou zavřené víc! Ale zajímalo by mě, jak se teď dostaneme k Vyššímu vědění."
+"Někde v okolí je průchod k příslušenství, které se nachází před vnitřní částí. Jelikož jsme byli chyceni na zkratce, nemáme už jinou možnost, než to vzít přímo tudy. Nebude to bez nebezpečí, ale nemáme navybranou."
+"Nejdřív se musíme dostat z tohoto žaláře."
+Když {LEAD}{NAME} otevřel dveře, Kengeti, kteří stáli za nimi, vzhlédli. ^ ^ Překvapení na jejich tvářích brzy vystřídal hněv a vyrazili proti svým dřívějším zajatcům!
+Tyhle dveře mají solidní zámek. A závoru - taky solidní.
+Jsou tu uskladněny nějaké flašky a klíček!
+Pod houněmi se tu schovává báječný meč!
+Zde jsou uskladněny nějaké sušené jídlo.
+"Přesně! Tady to je. Blížíme se do Khamulonovi oblasti, která byla postavena jako obranná stavba. částečně tomuto účelu slouží ještě dnes. ^ ^ Nebude to lehké. Pojďme."
+Masivní kamenné schodiště.
+Dveře jsou pevně zamčeny.

@@ -1,0 +1,6 @@
+﻿{BLOK000}"Pracuji s Dji-Kas. Většinou cestuji za účelem nákupu všech druhů věci."{WORDDji-Kas}
+"Dsarii-ma, návštěvníci města!"
+"Měli byste vědět, že Dji-Kas je jméno cechu kouzelníků Jirinaaru. Najdete je v severozápadní části města. Zde je prováděno množství magických experimentů těmi z nás, kteří jsou magicky nadaní. Magie Dji-Kas je umění mnoha tváří: uzdravuje, tvoří a ničí. ^ Rozhodně byste měli navštívit cechovní dům a promluvit si s Fasiirem. Rád se setká s takovými zvláštními navštěvníky!"{WORDFasiir}{WORDJirinaar}{WORDmagic}
+"Vy jste ještě zde? Pamatujte, velký dům v jihozápadní části města."
+"Doufám, že najdete vraha a napravíte přímo celou tu záležitost. Znáte Dji-Kas. Ti by nikdy nenaplánovali něco tak lstivého."
+"Vy jste nyní velmi oblíbený mezi členy cechu Dji-Kas, ne?"

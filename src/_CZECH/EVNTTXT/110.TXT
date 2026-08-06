@@ -1,0 +1,7 @@
+﻿"{BLOK000}Ve skutečnosti jsem lovkyně. Ale nyní s mým manželem mám na starosti obchodní záležitosti Klanu."
+"Dsarii-ma, hosté. Jsem Larina, Wrinnova manželka. Už jsem byla spravena o tom, že jste nám pomohli v našich finančních záležitostech a ráda bych vám za to poděkovala."{BLOK010} "Měli bychom vám poděkovat za vaši pomoc, Larino. Bylo by ode mne netaktní, zeptat se vás na důvod vašich finančních problémů?"{BLOK011}"Omluvte mne, pokud je to příliš osobní, ale co si myslíte o skutečnosti, že váš manžel je Sebai?"{WORDmarriage}{WORDSebai}
+"Oh, rozhodně máte právo to vědět. Samozřejmě, musím vás požádat, aby to zůstalo mezi námi. ^ Není zde žádný určitý důvod, ale v uplynulých letech byly náklady Klanu jednoduše trochu vysoké. Podívejte, Wrinn je význačný vůdce Klanu, jinak by se nestal Sebai, ale cenní si veřejného image našeho Klanu. Po obřadu Sebai zde byly velké oslavy a některá rozšíření domů Dji-Fadh, která byla velmi drahá, zvláště pak velká fontána."{WORDDji-Fadh}{WORDSebai}
+"Považuji to za velkou poctu, být ženou Sebai. Tělo, které Wrinn nyní obývá, je dítě, které jsme on a já splodili - ideální kombinace. Nadto, Wrinn si mne vzal, když jsem byla velmi mladá a nyní, po jeho boku, vypadám ještě o několik let mladší."
+"Oh, mimochodem: Přeji vám hodně štěstí při chytání Akiirova vraha!"
+"Dsarii-ma. Mohu vám pomoci?"
+"Mějte se dobře, hosté Klanu Jižního Větru."

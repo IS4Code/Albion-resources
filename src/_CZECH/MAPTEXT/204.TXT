@@ -1,0 +1,67 @@
+﻿-free-
+Travina.
+Skály.
+Porost.
+Větve a kořeny.
+Ostřice.
+Ovocný stromek.
+Strom se zakulaceným vrškem.
+Strom s širokými listy.
+Peřeje.
+Vír.
+Vodní rostliny.
+Voda je hluboká a proud silný.
+Výhonky vodních rostlin.
+Kvetoucí květena.
+Stinný strom.
+Tyto rostliny hrají všemi barvami.
+Zelenina.
+Balvan.
+Voda je v těchto místech klidná a mělká. Na dně se povaluje nespočet oblázků. Není tu téměř žádný proud.
+Ovocný strom.
+Plot.
+Stéblovitá rostlina.
+Popínavá plazivka.
+Keř.
+Rostlina s rozložitými listy.
+Vodopád.
+Skalní římsa.
+Rostlina rostoucí na skalní římse.
+Toto popínavá rostlina uchytila své hadovitě rozvětvené tělo na nepravidelném skalním povrchu tisíci svými výhonky. Jeví se býti velmi bytelnou, pročež velice příhodnou pro šplhací aktivity všeho druhu (směrem vzhůru).
+Dřevěný mostík.
+Obilná pole.
+Houby.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Statný muž věnoval {LEAD}{NAME} temný pohled a neodpověděl.
+{INK 001} Noční hlídač vrhl na {LEAD}{NAME} ostrý pohled, když se ten pokoušel prozkoumat dveře {HE  } řekl: ^ ^ {INK 002} "Cizinci, vydali jste se po nebezpečných cestách. Doufám, že neberete své životy na lehkou váhu a že ani nepomýšlíte na to, že byste se vydali ke Kenget Kamulosovi bez našeho svolení?"
+V těchto místech jsou ve skále sotva patrné pukliny. ^ ^ Všechny pokusy o vstup jsou marné. Tudy to nepůjde.
+"Můj bože, mi to přežili!"
+Vyčerpáni členové družiny ulehli, aby si tak odpočinuli a nabyli nových sil.
+"Khunagu, musíme si promluvit o tom, co se stalo Kengetu Kamulosovi. ^ ^ Zneužil jsi nás jako nástroj své pomsty a následně tak ohrozil naše životy."
+"Nebudu se omlouvat za to, co se stalo. Grrr, Cuain, předtím, než jsem poznal tu svini Cairnaina, byla jediná lidská bytost, které jsem věnoval svou lásku. Cairnain ukončil jediné šťastné období mého života. Alespoň jeho smrt mi přinesla trochu radosti. ^ ^ Jsem si jistý že víte, že to, že tu jsem, má osobní motiv. ^ Věřím, vzhledem k tomu co se stalo, že vám musím nabídnou opět své služby jako bojovník. Jestliže si však budete myslet, že se bez mého talentu obejdete, půjdu. Tak řekněte. Mám odejít nebo zůstat?" (jaký je váš první dojem - pozn. idiot)
+Měl by Khunag opustit družinu?
+"Nechci mít nic společného s někým, kdo je ochoten obětovat životy svých přátel pro své sobecké cíle. ^ ^ Chci Khunagu, aby si nás opustil."
+"Těžko chápu tvé motivy, Khunagu. ^ ^ Ale potřebujeme tvých válečnických schopností. ^ ^ Můžeš s námi zůstat, ale varuji tě! Už nás nikdy nepodveď."
+"Jak si přejete. Sbohem."
+"Má pomsta je naplněna. Zůstanu s vámi a budu vám pomáhat, dokud nenajdu nový smysl života."
+Ve skále je zapuštěný symbol oka.
+"Tyto symboly jsou tu už velmi dlouho. Nalézají se všude po celé planetě. Ale nikdo přesně neví, odkud se vzaly ani jaký je jejich účel."
+{LEAD}{NAME} umístil(a) amulet se symbolem bohyně do skály. ^ ^ Brána se se zaskřípěním otevřela a družina vešla do jeskyně.
+"Můžu použít k otevření brány amulet bohyně, který mám u sebe."
+"Toto je vchod do domu Kengeta Kamulose. ^ ^ Myslím, že bychom s sebou měli mít někoho, kdo se tu vyzná. A pak teprve jít dovnitř. ^ ^ Co třeba Khunag v Belovenu? Slyšel jsem, že kdysi býval členem tohoto kultu. ^ ^ Zeptejme se ho tedy, zda-li by nám nedělal společnost."
+Keřík s plody.

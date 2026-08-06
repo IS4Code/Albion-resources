@@ -1,0 +1,134 @@
+﻿-free-
+Větve a kořeny.
+Pletený košík
+Skleněná nádoba na vodu a ostatní drinky.
+Sud.
+Velkolepá zvířecí kůže.
+Vědro.
+Hliněná mísa.
+Láhev.
+Talíř.
+Hliněný džbán.
+Džbán.
+Nůž.
+Vidlička.
+Lžíce.
+Hliněná nádobka.
+Skály.
+Mísa.
+Nástroj na obdělávání půdy.
+Sekera.
+Pokrývka hrudi.
+Dřevěná truhla.
+Bohatě zdobená truhla ze dřeva.
+Komnata úlevy.
+Pokrývka.
+Dřevěná káď.
+železná konev.
+Skříň.
+V těchto policích našly své místo samé bezvýznamné věci, patrně dekorativního charakteru.
+Psací stůl (sekretář).
+Koště.
+Rošt.
+Můžeš si tu opéci maso.
+Ohniště (krb).
+Tepaná karafa.
+Sběračka.
+Dekorativní meč na zeď.
+Dřevěný stůl.
+Stolička.
+Zalomená stolička.
+Masivní jídelní stůl.
+Pařez.
+Dvě překřížená kopí.
+Velký sud naplněný podivnou tekutinou.
+Pípa.
+Prostěradlo.
+Pohodlná a nádherně zdobená postel.
+Tato postel je obyčejná, ale praktická.
+Kuchyňský stůl.
+Ohniště (nebo krb).
+Ohniště (krb) sálá příjemné teplo.
+Zdobený hrnec.
+Sušené bylinky.
+Lidská lebka.
+Zdobený štít.
+Kovový hrnec.
+Zdobený meč.
+Dveře.
+Konvice.
+Nůž.
+Krátká dýka.
+Dýka.
+Dlouhá dýka.
+Krátký meč.
+Meč.
+Dýka (druh bodce)
+Házecí dýka.
+Sekerka.
+Sekera.
+Malý luk.
+Luk.
+šíp.
+Malý, kožený štít.
+Kožený štít.
+Kulatý štít.
+Velký štít.
+Kožená čapka.
+Reliéfní čapka.
+Kovová mísa (pohár, váza, číše).
+Kožená vesta.
+Kožené brnění (?).
+Reliéfní kožená vesta.
+Pár bot.
+Pár velkých bot.
+Prázdná láhev.
+Zelený léčivý lektvar.
+Tyrkysově zbarvený léčivý lektvar.
+Modrý léčivý lektvar.
+Klíč.
+Lano.
+Prsten.
+Pochodeň.
+Kladivo.
+Schody. Vedou nahoru.
+Schody. Vedou dolu.
+Pult.
+Kobercová rohož.
+Pokojová rostlina.
+Květináč.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+"Co tu chcete? Jestli chcete cestovat do Belovena, jděte na jih. Jestli do Srimalinaru, jděte na sever."
+"Mluvili jste už s Kontosem? On je mocný vůdce naší vesnice. Je taky velmi inteligentní! ^ ^ U našeho vůdce ve sklepení je velká místnost, kde se scházíme na pravidelná setkaní. Kontos tam také experimentuje s magií ohně, je vynikající kouzelník. Ovšem oblasti jeho výzkumu a působnosti jsou utajené."
+"Skeima Din, ^ ^ Můžu vám nabídnout slušnou sumu zlata, pokud mi budete mít co prodat. To je způsob, jak si vydělávám na živobytí. Vykupuji od lidí různé věci a opět je jiným lidem prodávám. Můžete si takto zařídit docela příjemný život. Docela, každopádně nejsem chudý..."
+"Radši se na mně ničeho nedopouštějte, nebo zavolám svého velkého bratra!"
+"Skeima Din, ^ ^ Už jste se viděli s Kontosem, naším velkým vůdcem? Dokáže vyřešit všechny vaše problémy, když na ně má čas."
+"Chcete se dozvědět nejnovější novinky? Právě bylo dokázáno, že Iskai experimentují ve své svatyni v Srimalinaru s černou magií! Měli jsme o tom už podezření delší dobu, ale teď máme konečně i jistotu. Iskai se snaží o nadvládu nad světem, ty bestie! ^ ^ Už dlouhou dobu se tajně věnovali výzkumu mocných magických zbraní. Ty strašné příšery všude okolo to jen dokazují, zahrávají si s černou magií, s ďáblem a možná ještě s něčím mnohem horším, hovoří se dokonce i o tajemném Mamoulasovi! Kontos má pravdu! Naší jedinou šancí je bojovat s nimi a zabránit jim tak ještě v něčem mnohem horším! Lidé z Belovena nám nevěří, ale kdybysme měli čekat, až uvěří, bylo by už pozdě. Proto zaútočíme a uděláme, co je správné! ^ ^ A jestli mi nevěříte, tak navštivte Iskai a bude přesvědčeni, to vám garantuju! Nepustí vás do své zkázonosné svatyně, protože by tak každý mohl vidět všechna ta zvěrstva. Snaží se všechny ošálit tím, že předstírají, že je svatyně chráněna neporušitelným tabu, ale na to my jim neskočíme!"
+"čas nadešel. Učiníme konec iskaiské magii a jejich rádoby svatyni. Tím se také vypořádáme s příšerami, které na nás Iskai neustále posílají a pravidelně vytvářejí nové a nové. Kdybychom ještě chvíli počkali, bylo by už pozdě nadobro. Měli byste podpořit náš plán a bojovat s námi na Kontosově straně proti zlým Iskaiům. Jdeme do jejich svatyně. Musíme oblehnout Iskai a zničit jejich hříšný plán. Pojďte a pomozte nám!"
+"Máte něco na prodej?"

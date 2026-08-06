@@ -1,0 +1,184 @@
+﻿-free-
+Větve a kořeny.
+Pletený košík
+Skleněná nádoba na vodu a ostatní drinky.
+Sud.
+Velkolepá zvířecí kůže.
+Vědro.
+Hliněná mísa.
+Láhev.
+Talíř.
+Hliněný džbán.
+Džbán.
+Nůž.
+Vidlička.
+Lžíce.
+Hliněná nádobka.
+Skály.
+Mísa.
+Nástroj na obdělávání půdy.
+Sekera.
+Pokrývka hrudi.
+Dřevěná truhla.
+štědře zdobená truhla ze dřeva.
+Komnata úlevy.
+Pokrývka.
+Dřevěná káď.
+železná konev.
+Skříň.
+V těchto policích našly své místo samé bezvýznamné věci, patrně dekorativního charakteru.
+Psací stůl (sekretář).
+Koště.
+Rošt.
+Můžeš si tu opéci maso.
+Ohniště (krb).
+Tepaná karafa.
+Sběračka.
+Dekorativní meč na zeď.
+Dřevěný stůl.
+Stolička.
+Zalomená stolička.
+Masivní jídelní stůl.
+Pařez.
+Dvě překřížená kopí.
+Velký sud naplněný podivnou tekutinou.
+Pípa.
+Prostěradlo.
+Pohodlná a nádherně zdobená postel.
+Tato postel je obyčejná, ale praktická.
+Kuchyňský stůl.
+Ohniště (nebo krb).
+Ohniště (krb) sálá příjemné teplo.
+Zdobený hrnec.
+Sušené bylinky.
+Lidská lebka.
+Zdobený štít.
+Kovový hrnec.
+Zdobený meč.
+Dveře.
+Konvice.
+Nůž.
+Krátká dýka.
+Dýka.
+Dlouhá dýka.
+Krátký meč.
+Meč.
+Dýka (druh bodce)
+Házecí dýka.
+Sekerka.
+Sekera.
+Malý luk.
+Luk.
+šíp.
+Malý, kožený štít.
+Kožený štít.
+Kulatý štít.
+Velký štít.
+Kožená čapka.
+Reliéfní čapka.
+Kovová mísa (pohár, váza, číše).
+Kožená vesta.
+Kožené brnění (?).
+Reliéfní kožená vesta.
+Pár bot.
+Pár velkých bot.
+Prázdná láhev.
+Zelený léčivý lektvar.
+Tyrkysově zbarvený léčivý lektvar.
+Modrý léčivý lektvar.
+Klíč.
+Lano.
+Prsten.
+Pochodeň.
+Kladivo.
+Schody. Vedou nahoru.
+Schody. Vedou dolu.
+Pult.
+Kobercová rohož.
+Pokojová rostlina.
+Květináč.
+Ozdobný ornament zasazený do podlahy.
+Překrásný ornament ozdobený obřím krystalem je tu zapuštěn do země.
+železný stůl.
+Kovadlina.
+železný štít.
+železná truhla.
+Komín odvádějící kouř z výhně.
+Závěs na zeď.
+Neobsazená poduška. Je tuze krásná a obyčejně slouží toliko jako dekorativní předmět.
+Několik vzácných kousků drahokamů.
+Vystavená deska se zbraněmi a štíty.
+Prázdná výstavní plocha.
+Mísa s ohněm.
+Mísa na oheň bez ohně.
+Volná rukojeť.
+Rukojeť.
+Místo pro vodu.
+Kladivo.
+Kladívko.
+Kladivo.
+Speciální kladivo.
+Kleště.
+Pilník.
+Pilníček.
+Kůží potažený razník s ďourou (možná, pardon).
+šroubovák.
+Malý šroubovák (tzv. šroubováček).
+železná pila.
+ Určitý nástroj.
+Kádinka.
+Hasák.
+Maxinůžky.
+Mísa.
+Hezké nůžky.
+Láhev.
+Několik láhví.
+Ampule.
+červená ampule.
+Kovová schránka.
+Kovový objekt.
+Sdrátovaný objekt.
+železná mísa.
+Mosazné kule.
+Mísa s vodou.
+Mísa.
+Moždíř.
+Lupa.
+Lékařské kleště.
+Těžký, krátký meč.
+Zdobený meč.
+Dvojitá dýka (typ bodce).
+Dlouhý meč.
+Skříň určená k vystavení zboží.
+Police s cennými ukázkami kovářského umění, ornamenty a drahokamy.
+Těžební vozík.
+Kolejnice.
+Nárazníková zarážka.
+židle.
+Stroj na výbrus diamantů.
+železná vana.
+Východ.
+"Nikdo nesmí projít!"
+"Ale my neseme velmi naléhavou zprávu. Může na tom záležet budoucnost vašeho lidu!"
+"Hmm, tak to je něco jiného. Dobrá tedy, dovolíme vám projít. Ale varuji vás, jestli nemluvíte pravdu, budete potrestáni."
+"Skeima Din."
+"Nemám na vás čas. Musím provést ještě celé zúčtování za tuto sezónu."
+"Buďte pozdraveni, už jsem slyšel od strážných, že jste sem přišli s naléhavou zprávou. Viděli jste se už Sojekose? On tomu tady velí. V každém případě byste za ním měli zajít."
+"Ehm? No dobře. Ale co chcete po mně? Eh?"
+"Nechtěli jsme vás vyrušit."
+"Ehe? Ehm. Skeima Din."
+"He, he, to byl opravdu legrační chlápek."
+"Skeima Din, provedl vás tady už někdo? Ve střední části budovy najdete různé poradní místnosti; v severozápadní části se nachází společné ložnice; v jihozápadní části je kuchyně a zásobárna. Tam můžete taky něco zakousnout, kdybyste náhodou dostali hlad. Ve východní části jsou potom pokoje pro hosty. Je tam umývárna a několik postelí. Východ se nalézá na konci prostřední chodby."
+"Takže, potřebuji ještě dvě peprné mušky a Jabbovu pastu. Ale kruci, tohle sem ještě taky nenamíchal. Byli byste tak laskavý a šli mi z cesty. Pořád se mi pletete pod nohy."
+"Kam se zas poděla Kotilla? člověk aby na tu drobotinu pořád dohlížel... říkala jsem jí, aby zůstala tady. Jestli ji uvidíte, tak ji vyřiďte, že se má okamžitě vrátit domů. čeká tu na ní vana plná vody."
+"Nechci se koupat! Nechci, nechci!!! Už jsem se koupala před deseti dny. Ne. Nepůjdu. Nenajde mě. Umím se schovávat dobře. Ale prosím, neříkejte ji, že ste mě tu viděli."
+"Já jsem nejvyšší řídící Umajo-Kenta a nařizuji vám, abyste se přede mnou poklonili! Všichni! Tváře na zem! Tímto vás shledávám vinnými z neposlušnosti a odsuzuji vás k TRESTU SMRTI, který bude VYKONáN IHNED..."
+Z vedlejší místnosti je slyšet ženský hlas: "Prijukosi, dneska už bylo těch her dost! Teď tě čeká koupání..."
+"Nééé! Nechci se koupat! Pořád se jen musíme koupat. Je to tak hrozné! Mami, já jsem se ještě od posledního koupání vůbec nestačil zašpinit. Radši si budu ještě chvíli hrát na nejvyššího řídícího a na vojáčky..."
+"OKAMžITě se koukej vrátit, ať už seš tady!" 
+"Ach jo, budu se muset jít vykoupat, nebo se z toho snad zvencne..."
+"Ale mami, dneska už jsem se přece koupal... och, vy nejste moje máma. Kdo jste? Vy musíte být ti důležití cizinci!"
+"Na zítřek připravuje náš kuchař víc koláčů. Mmm, miluju koláče."
+"Skeima Din. Dovolte mi se představit: Peukko jméno mé. Zastupuji tu Sojekose. Ale protože je momentálně přítomen, můžete jít přímo k němu, máte-li mu něco."
+"Dali byste si něco malého k snědku?"
+"Ať vám chutná."

@@ -1,0 +1,136 @@
+﻿-free-
+Větve a kořeny.
+Koš.
+Skleněná nádoba na vodu a další nápoje.
+Barel.
+Nádherná zvířecí kožešina.
+Košík.
+Keramický poár.
+Láhev.
+Talíř.
+Keramická konvice.
+Konvice.
+Stolní nůž.
+Vidlička.
+Lžíce.
+Keramická skříň.
+šutry.
+Pohár.
+Farmářské náčiní.
+Sekyrka.
+Víko truhly.
+Dřevěná truhla.
+štědře dekorovaná dřevěná truhla.
+Opočívací místnost.
+Víko.
+Velký dřevěný džber.
+Velký ocelový kotlík
+Kredenc.
+Na polici jsou všechny druhy různých věcí.
+Sekretář.
+Koště.
+Gril..
+Můžete na tom grilovat maso.
+Ohniště.
+Karafa.
+Sběračka.
+Dekorativní nástěný meč.
+Dřevěný stůl.
+Stolice.
+Stolička.
+Masivní stůl na večeři.
+Kořen.
+Dvě zkřížená kopí.
+Velký barel napuštěný podivnými látkami.
+Pípa.
+Přikrývka.
+Komfortní a velmi pěkně dekorovaná postel.
+Tato postel je rovná, ale praktická.
+Kuchyňský stůl.
+Ohniště.
+Z ohniště sálá příjemné teplo.
+Dekorativní hrneček.
+Sušené rostliny.
+Lidská lebka.
+Dekorativní štít.
+Ocelový hrnec.
+Dekorativní meč.
+Dveře.
+Kotlík.
+Nůž.
+Krátká díka.
+Dýka.
+Velká dýka.
+Krátký meč.
+Meč.
+Stileto.
+Házecí dýka.
+Malá sekera.
+Sekyrka.
+Malý luk.
+Luk.
+šíp.
+Malý kožený štít.
+Kožený štít.
+Kulatý štít.
+Velký štít.
+Kožená čapka.
+čepice s reliéfem.
+Kovový půl pohár.
+Kožená vesta.
+Kožené brnění.
+Vesta s reliéfem.
+Pár střevíců.
+Pár vysokých bot.
+Prázdná láhev.
+Zelená léčivý lektvar.
+Léčivý lektvar.
+Modrý léčivý lektvar.
+Klíč.
+Provaz.
+Prsten.
+Louč.
+Kladivo.
+Schody. Vedou nahoru.
+Schody. Vedou dolů.
+Přepážka.
+Rohožka.
+Domácí rostlina.
+Květináč.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+"Togi Din, travelers. Of course, you may enter Arjano."
+"Togi Din. I hope you find Bero alive. I must confess I wouldn't dare go into the forbidden part!"
+"Togi Din, Bero's Saviors. Your deed will be the substance of many stories!"
+"Togi Din, travelers. This is Arjano, the Guardian of Knowledge. Welcome to the Center of the Druids of Gratogel. ^ ^ Anyone can see that you come from far away. May I ask what your purpose is here?"
+"Togi Din. We come to ask the Druid Bero for a special amulet."
+"You want to see Bero, hmm? ^ ^ Please be patient. I will be back shortly."
+"So, this is the Center of the Druids. Judging from the access going down, the rest of the center is underground. ^ ^ I was shocked when I saw the little hut."
+"Ah, there is the man in the white gown again!"
+"Strangers, I have talked with our chief, Nemos. ^ ^ He is ready to meet with you."
+{LEAD}{NAME}and {HIS } companions follow the Druid under the earth...

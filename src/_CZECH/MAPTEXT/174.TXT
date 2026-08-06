@@ -1,0 +1,124 @@
+﻿ 
+Krabice s pojistkami.
+Křeslo. 
+Postýlka.
+Kontrolní panel nukleárního reaktoru. 
+Servisní panel.
+Kontrolní konsole.
+Letová kontrolní onsole.
+Kontrolní panel.
+Chemická toaleta. 
+Skříň.
+Umyvadlo. 
+Ručník. 
+Kartáček na zuby.
+Dozorčí koridorová kamera.
+Kontrolní monitory.
+část reaktoru. 
+Barely s nepořádkem, vodou  a toxickýmu materiály.
+Vypnutá konsole.
+Lampa.
+Talíř.
+Sklenička.
+Pohárek.
+Nádoba.
+Láhev.
+Ocelová konev.
+Krabice
+Nádoba.
+Sůl a pepř. 
+Sojovka.
+Hrnec. 
+Malý hrnec.
+Lopatka.
+Rýč.
+Francouzák.
+šroubovák.
+Přenosná, ruční konsole.
+Osobní digitální asistet. 
+Kleště.
+Cutlery and a drinking cup.
+Mísa.
+Automatické dveře.
+Raketoplán.
+Nádoba.
+Lopatka.
+Vozidlo.
+Značky na zemi.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+A giant lock.
+Z tohoto místa je za silně cloněnými a filtračními vrstvami pokrytými průhledy vidět srdce Toronta: fúzní reaktor. Ochočená sluneční energie mu dodává vstupní energii.
+Kontrolní panel reaktoru.
+"Tohle je ta konzole, o které jsem mluvil, Tome. Když mi budeš držet palce, můžu se pokusit odříznout centrální počítač od jeho zdroje energie. Mám se o to pokusit?"
+Má se teď Joe pokusit manipulovat s konzolí? {BLOK000} Ano, ať se o to pokusí! {BLOK001} Ne, ať ještě chvíli počká.
+"Neotálejme příliš dlouho. Nechci, aby nás chytili."
+"Podařilo se nám dostat tak daleko. Teď se pokusme dostat Semínko do reaktoru. Jsem opravdu notně zvědavý, co se stane..."
+"Mám začít teď?"
+"Tohle je reaktor! Podívej se na ta světla! Instalovali tu průzory, které dovolí jen nepatrné části světelné energie, dostat se sem do místnosti. Je to fantastický pohled!"
+Joe se dal do práce.
+"Tak se na to podívejme. Nejsem expert na tyhle konzole, ale tohle musí být..."
+Najednou byl Joe vyrušen rozhlasem!
+"Tome Driscolle a Joe Bernarde, zanechte okamžitě svých pokusu na ovládací konzoli. ^ ^ Bezpečností komando je už na cestě. Musíme vás vzít oba dva do vazby. Neklaďte odpor, bezpečností komando je ozbrojeno!"
+"Ale ne! Palubní počítač!"
+"Nede! Jak jste si s Brandtem mohli myslet, že se vám podaří zatajit pravdu o této planetě?"
+!
+"Prostě zadej: Ano! ^ ^ Předpoklady jsou příznivé a šance dobré. Existence společnosti ospravedlňuje určité procento rizika."
+"{FAT } Cože? {NORS} Vy nám říkáte přímo do tváře, že jste při plném vědomí zamýšlel zničit tento svět! ^ ^ Já..."
+"Co uděláme s kapitánem Brandtem? Když nedokáže zjistit, co se stalo během letu, ztratí svoji licenci navždycky!"
+"To je pravda. Následně bude kapitán Brandt podroben důkladnému vyšetřování. Pak bude přirozeně DDT donuceno ho propustit. ^ ^ Bude muset strávit zbytek svého života jako historicky nejbohatší nezaměstnaný. ^ ^ Bohužel vás musím oba držet pod zámkem dokud mise neskončí. Nemějte ale strach, poskytnu vám veškeré pohodlí, které byste mohli potřebovat."
+"Jistě. A měsíc je ze zelenýho sejra. ^ ^ Joe?"
+"Ano?"
+"Je čas zmizet. A rychle."
+Tom a Joe vyrazili z místnosti jak dvě dělové koule! Jejich jedinou nadějí je ošetřovna, z které vedou dveře ven.
+Automatické dveře.
+"Hej, máme tu něco dokončit, pamatuješ? Nechceš snad zase vypadnout, že ne?"
+části systému reaktoru.
+Když vstoupila družina do kontrolní místnosti reaktoru, Tomovi se navrátilo vědomí.
+"Podařilo se nám dostat tak daleko. Teď se pokusme dostat Semínko do reaktoru. Jsem opravdu notně zvědavý, co se stane..."
+"Zapomeňte na to. Hra skončila, Driscolle. Položte zbraně na zem!"
+"Plukovníku Privere! Dovolte mi vysvětlit..."
+Bezpečnostní jednotky okamžitě znovu zaútočily.
+"Zatraceně. ^ ^ S některými těmito muži jsem hrával po nocích karty. ^ ^ Zatraceně."
+"Pojďme k reaktoru."
+"Jsem rád, že jsme tentokrát nemuseli bojovat. S některými těmi chlápky se znám osobně. ^ ^ OK, pojďme k reaktoru."
+Plukovník Priver a jeho muži opustili místnost.
+Zrovna když si družina myslela, že se jí to podařilo, uviděli před jádrem reaktoru černý kryt. Pouze červené kontrolní světlo a zařízení, které někdo narychlo namontoval na jednu stranu dokáže narušit hladký povrch tohoto černého krytu.
+"To je hotová tvrz, která chrání centrální počítač!"
+"Dobře. Napadením plukovníka Privera a jeho mužů jste dokázali, že jste ochotni použít síly a teroristické taktiky. Musím zabránit dalšímu zlovolnému ničení soukromého majetku sám."
+"Dobře. Potom co, se plukovník Priver a jeho muži provinili proti zaměstnanecké smlouvě, jsem nucen zabránit dalšímu zlovolnému ničení vlastnoručně."
+"Tento... sud má pro nás znamenat nějaké nebezpečí? Tomu nemůžu uvěřit!"
+"Nevím. Ta věc na straně toho 'sudu' mi připadá jako velice výkonný laser..."
+{CNTR}{FAHI} Android zaútočil!
+A následovala bitva mezi skupinou a laserem vyzbrojenou centrální jednotkou ve svém nezničitelném krytu. Když už byli dva ze skupiny v bezvědomí a zbývající začínali propadat zoufalství, začalo SEMíNKO zářit. Je-li použita, následuje finální sekvence. ^ ^ Konečná fáze se ještě tvoří a odlaďuje!
+Android okamžitě zaútočil.
+V zoufalství hodil Tom zářící semínko na reaktor!
+{INK 001} Semínko se stalo středem zářícího světla!
+Ohromnou strukturou Toronta proběhlo chvění. Nejprve jen lehké, neslyšné, pak vibrace kovových částí začaly sílit, zatímco se lodí šířily matné záblesky. ^ ^ Najednou se kovem prodraly a vykvetly květy celého barevného spektra! ^ ^ Kov skřípal a ohýbal se pod sílou rostlin!
+I ti členové posádky, které nepřesvědčila o životě na této planetě ani ukázka, začali s děsem prchat z lodě. ^ ^ Když se prodraly až na povrch, nabídlo Toronto neuvěřitelný pohled...
+účinek semínka je jednoduší, než jeho stvořitelé věřili a silnější, než kdokoli doufal: ^ ^ Během několika minut, byla celá instalace zničena. ^ ^ Zničena? Nebo přestavěna? Obrovská ukázka cizí technologie byla nahrazena rajskou oázou uprostřed pouště. Tentokrát zvítězil iracionalismus a magie nad racionálnem a holou vědou.
+"My..." "My jsme pořád na živu!" ^ ^ "{FAT } Jsme pořád živí! {NORS}"
+Zranění členové družiny se probrali, jak Tom vykřikl...
+"Podívejte se na to! Všechno je prorostlé rostlinami!"
+"Ano! železný kolos je mrtev!"
+"Ne. Právě teď ožil."
+"Energie je pryč, centrální počítač je pryč! ^ ^ Pořád nemůžu uvěřit tomu, že jsme to přežili. ^ ^ Pokusme se odsud nějak dostat. Sem zvědav, jak vypadá nyní Toronto z venku."
+"{FAT } No né! {NORS}" ^ ^ Semínko vzalo svou práci doslova! Taková podívaná!"
+"Ha! To je to, čemu říkám magie! Fantazie! řeknu vám, že tohle za to nebezpečí stálo!"
+"Je to nádhera! Ale je to ironie: Bez neměřitelné lodní energie, by takový krok nebyl možný. ^ ^ Zranění na Animebonině straně se zacelilo, bolest ustala."
+"Velké dobrodružství skončilo, přátelé. Nyní se zase musíme vrátít ke každodenní práci. Támhle jsou muži a ženy, včetně jedné, na které mi velmi záleží, kterým teď musím vysvětlit, že tento svět se právě stal jejich novým domovem, jejich jedinou budoucností. ^ ^ Pojďme..."
+{FAHI}{INK 003}{CNTR}KONEC
+"Semínko vyhodilo reaktor do povětří! Jsme {FAT }MRTVI{NORS}!"

@@ -1,0 +1,158 @@
+﻿empty
+žádnému z členů skupiny se tam nijak zvlášť nechce dát ruku.
+Velká pohovka.
+Velká skříň.
+Gril.
+Postel.
+Krb.
+Přehoz přes postel.
+Iskai příbor.
+Talíř.
+Nádoba.
+Uzenka.
+Kus masa připomínající šunku.
+Naběračka.
+Různá koření.
+Ovoce.
+Zvláštní maso.
+šálek.
+Mísa.
+Koření.
+Malé kořenky.
+Hrníček.
+Kuchyňský nůž.
+Koláčky.
+Malá uzenka.
+Tato láhev obsahuje aromatickou tekutinu.
+Ubrus.
+Ručník.
+Kýbl.
+Pánev.
+Hrnec.
+V této konvici je na tyčce malý hrnec, ve kterém můžete jídlo pomalu ohřát.
+Polštář.
+Velká pánev.
+Kartáč.
+Vodní kanál.
+Vodní nádrž.
+Vodní bariéra.
+Velký hliněný hrnek.
+Psací stůl.
+V šuplíkách tohoto stolu leží různé nedůležité věci.
+Komoda.
+Tohle je docela velká konvice. Mohou v ní být zásoby, voda nebo jídlo.
+Ve vodní nádrži je divná rostlina, která svými silnými pulzující pohyby čerpá vodu ze země.Tato fontána zřejmě slouží jako zásobárna vody.
+Voda v nádrži páchne jako zkažená. Tady se pravděpodobně sbírá odpad. 
+Vodní rostliny.
+Byliny.
+Exotická rostlina.
+Popínavé rostliny.
+Places for further Cutmap events.
+Schodiště. Vede dolů skrz podlahu.
+Schodiště vede nahoru skrz podlahu.
+Tohle je zřejmě nějaká postel. Je vyplněná pískem, což nabízí neuvěřitelné pohodlí díky jeho hrubým ale kulatým zrnkům.
+Obrovský tvar připomíná sedací nábytek. Chová se jako rostlina. Nepochybně vyrostla. Povrch je měkký a elastický.
+Fontána domu.
+Vodní kanály pravděpodobně slouží jako přívod pitné vody. Vedou domem jako malé potůčky.
+Zatuchlý zápach a díry v předmětu vedou k závěru, že se jedná o toaletu. Tento  "nábytek" je také vytvořen z rostlin, mohutně roste díky pravidelnému hnojení.
+Tady se odehrávají nejnaléhavější aktivity života.
+Na této pánvi se vaří sladkokysele vonící jídlo.
+Sedadlo.
+Masivní dřevěný stůl.
+Rostlina s velkými listy.
+Dveře.
+Nůž.
+Krátká dýka.
+Dýka.
+Dlouhá dýka.
+Krátký meč.
+Iskaiský nůž.
+Iskaiská dýka.
+Iskaiské stileto.
+Iskaiský krátký meč.
+Dlouhé Iskaiské stileto.
+Iskaiský meč.
+Velký Iskaiský meč.
+Dlouhý Iskaiský meč.
+Iskaiské kopí.
+Velká Iskaiská dýka.
+Krátké Iskaiské stileto.
+Velké Iskaiské stileto.
+Dlouhý Iskaiský meč.
+Malý luk.
+Luk.
+šíp.
+Dlouhý šíp.
+Kožený štít.
+Malý Iskaiský štít.
+Iskaiský štít.
+Velký Iskaiský štít.
+Kožená čepice.
+Iskaiská kožená čepice.
+Iskaiská kovová čepice.
+Iskaiská kovová helma.
+Iskaiský chránič hrudi.
+Iskaiský kovový chránič hrudi.
+Lehké Iskaiské brnění.
+Iskaiské brnění.
+Prázdná láhev.
+Zelená léčebná dávka.
+Tyrkysová léčebná dávka.
+Modrá léčebná dávka.
+červený nápoj.
+Fialový nápoj.
+Modrý nápoj.
+Klíč.
+Lano.
+Baterka.
+Iskaiský poznámkový blok.
+List papíru.
+An Iskai ring book.
+An Iskai ring pad.
+Tužka.
+Krátká tužka.
+Lavička.
+Tohle sedadlo doslova vyrůstá ze země a je docela pohodlné.
+Dřevěná tyč. Na vršku je cedule.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Ve sklepě je o něco chladněji než nahoře.
+"Dsarii-ma. Ach, mohl bych prospat celý den. Doufám, že jsem nechytil nějakou nemoc."
+"Musím se vrátit do postele a přitom nejsem ještě vůbec unavený!"
+"Iskaiské děti jsou podobnější svým lidským protějškům víc, než by kdo věřil."
+"Dsarii-ma, vy širokoúhlí lidé!"
+Osoba {INK 001}{LEAD}{NAME} zamumlala: {INK 002} ^ ^ "Dsarii-ma. Ham nahahelou helist, nehuhu hluhit."
+Test

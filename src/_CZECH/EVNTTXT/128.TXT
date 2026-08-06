@@ -1,0 +1,24 @@
+﻿{BLOK000}"Já jsem Stri Dji-Fadh a zástupce Akiira." {WORDrepresentative}{WORDAkiir}
+ 
+"Vidíme to co děláme jako směs magie, umění a řemesla. Jsme jeden z nejstarších cechů v Jirinaaru a, jak jistě víte, pomocí magie jsme schopni tvořit, měnit a natrvalo proměňovat rostliny. To znamená, že můžeme vyrábět celé domy z živého rostlinného materiálu, který není pouze krásný, ale také splňuje nutné předpoklady pro kvalitu bydlení." {WORDmagic}{WORDJirinaar}
+"Stri Akiir je hlavou našeho cechu a jsem pyšný, že ho mohu považovat za přítele. Je význačný umělec a kouzelník, který tvrdě pracuje v zájmech cechu. Všichni doufáme, že se jednou stane Vyvoleným."{WORDChosen}
+!
+!
+"Sira je Akiirova jediná dcera. Přešla k Dji-Kas, což ho velmi rozhněvalo." {WORDDji-Kas}
+ 
+"Ouha, páni semenáři! Jsem si jist, že jste si všimli, že většina z nás má vůči Dji-Kas nepřátelské pocity. často pomocí slibů lákají pryč naše největší magické talenty. Jejich řemeslo postrádá směr, smysl a vyjma jejich ranhojičů, nejsou prospěšní naší společnosti."
+"Náš cechovní dům soupeří s budovou rady o titul nejkrásnější stavby v Jirinaaru. Stále ho udržujeme a vylepšujeme a používáme ho jako ukázku našich znalostí, jak můžete vidět ve východním křídle." {WORDcouncil building}{WORDJirinaar}
+"Je vůdcem Dji-Kas."{WORDDji-Kas}
+"Ten vrah! Zasluhuje smrt a nic víc!"
+!
+"To je mé jméno, ano."
+dummy
+dummy
+dummy
+dummy
+"Slyšeli jste o tom? Tedy, budu upřímný, Argimův příběh je trapnou součástí historie našeho cechu. ^ ^ Byl hlavou Dji-Fadh témeř před 150 lety. Tehdy se budova cechu Dji-Fadh nacházela mimo město. Byla to velkolepá stavba blízko Han, ve středu lesa. Argim měl ve svém oboru velké nadání, ale nestálou povahu. To byl také důvod, proč jeho nejvyšší cíl byl zamítnut: stát se jedním z Vyvolených. Když se dozvěděl o rozhodnutí, přestal se ovládat. Přísahal, že vzdor všemu dosáhne nesmrtelnosti. V nezodpovědné demonstraci síly zničil celou stavbu a změnil ji v divné místo, kterému se nyní každý vyhýbá. říká se, že tomu místu vtiskl svého ducha."{WORDHan}
+"Jsou zde místa, kde je síla Bohyně obzvlášť silná a kde magické akty jsou silnější a často také obtížnější. Tento druh energetických center nazýváme Han." {WORDGoddess}
+dummy
+"Dsarii-ma, poutníci. Co mi přinášíte?"
+"Podporuji Akiira v jeho práci a vyučuji pokročilé Dra. Jsem velmi šťasten, že to mohu dělat; a když Bohyně dá, doufám, že nebudu nikdy muset dělat nic jiného."{WORDGoddess}{WORDDra}
+"Jak už jsem řekl, skutečně s Akiirem rád pracuji."

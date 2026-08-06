@@ -1,0 +1,28 @@
+﻿{BLOK000}"Povolání? Už dlouho jsem neviděl denní světlo. Nevěříte, že tu mohu pracovat? Před tímto strašlivým nedorozumněním jsem dělala kněžku a léčitelku."{WORDmisunderstanding}
+{WORDmisunderstanding}"Eh? Kdo tedy jste? A jak jste se sem dostala?"{BLOK010}"Ptáme se vás na něco!"{BLOK011}"Jsme tu na návštěvě a sháníme jistou informaci."
+"Musíte mě odsud dostat. Jsem nevinná!{WORDmisunderstanding}
+"Musíte mi věřit, Jsem nevinná. Nemohu ztratit nejlepší roky svého života. Prosím pomožté mi!"{BLOK010}"Nic o vás nevíme!"{BLOK011}"Ne, nejste tu pro nic za nic."{BLOK012}"Možná bychom si o tom mohli promluvit."{BLOK013}"Proč bychom měli?"
+"Nestihnu vám vše povědět před koncem návštěv. Ale koukněte se na mě a posuďte. Jsem kriminálník? Nejsem. Byl to omyl, justiční omyl!" {BLOK010}"Věříme vám."{BLOK011}"Nevěřím, že někdo může vidět do duše jiného."{BLOK012}"Nevěříme vám."
+"Ano, to je můj osud. Nikdo mi ne věří - vůbec nikdo!"
+"Věříte mi? Pak mi pomožte! Prosím!"{WORDhelp}
+"Přirozeně to nemůžete udělat. Ale můžete si o někom udělat představu. Jak vám mám dokázat svou nevinu?"{WORDinnocence}
+"Ano, stačí - je nejlepší se vůbec neptat. Mohla bych způsobit ještě víc problémů. Vždyť to není váš problém, že nevinní lidé sedí za mřížemi. ^ ^ Je to pořád to samé: je to protože lidí jako vy tyto justiční omyly páchají."{WORDmisjudgment}
+"Co byste rádi věděli?"{BLOK010}"Důvod rozsudku."{BLOK011} "Kdy se to stalo?"{BLOK012}"Jak dlouho ještě musíte zůstat v kriminále?"
+"To zajímalo i pacienta, jehož jsem léčila. Byl velmi nemocný a já už mu nemohla pomoci. Obvinili mě že zanedbání lékařské péče, ale byla závažná choroba a on nebyl ve formě. Zkusila jsem všechno co jsem mohla, ale bohužel to nebylo dost."
+"To bylo před třemi lety."
+"O sedm víc. Takže jsem za to v kriminálu deset let. Což je dost tvrdé, poněvadž jsem nevinná."
+"Velitel stráže Umajo-Kenta není soudce, ale bohužel se tak chová. Nebere svůj úřad příliš vážně. Když se zeptáte, tak jistě řekne, že jsem vinná, ale musí mít špatné svědomí, protože ví, že lže. Prosím pomožte mi!"{WORDhelp}
+"Jestli mi chcete pomoct, tak mne nechte jít. Klíč je nalevo od dveří. A já už se nějak dostanu k hlavnímu východu. ^ ^ Pokud mi skutečně pomůžete, tak vám budu opravdu vděčná!" {BLOK010}"To není důležité."{BLOK011}"Jak vám můžeme poct?"{BLOK012}"Nepomůžeme vám!"{WORDkey}
+"Kdo ví, možná bych vám také mohla pomoct."{WORDgratitude}
+"Mohla bych vám opatřit něco důležitého."{WORDsomething}
+"Vy to jistě odmítnete!"
+"Hmm, Věřím, že bych si o tom mohli promluvit, pokud nám řeknete pravdu!"
+"Pomstím se vám!"{WORDgratitude}
+"Dobrá, pak vám řeknu proč jsem tady."{WORDpatient}
+"Ano, Ano, to je velmi dobré. Ptejte se."
+"Hmm, potom bychom vám jistě pomohla. Ale na oplátku mi musíte udělat laskavost." {WORDfavor}
+"Musíte mi pomoct, abych se dostala z tohohle vězení."{WORDhelp}
+"Já na to nedošáhnu! Ale pro vás to bude snadné. Visí napravo od dveří."
+"To co doopravdy potřebují je klíč, který visí vedle dveří od cely."{WORDkey}
+"To jsem já."
+"Moc vám děkuji, přátele! ^ ^ Je ve vás něco dobrého. Teď mě nesmí spatřit stráže. Potkáme se znova ve městě, kde vám budu moct poděkovat."

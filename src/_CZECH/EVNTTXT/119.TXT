@@ -1,0 +1,8 @@
+﻿{BLOK000}"Při mé práci písaře mám také běžný talent jako Tri-Hadh." {WORDTri-Nadh}{WORDwriter}
+"Dsarii-ma. Mohu vám nějak pomoci?"
+"Předpokládám, že jste položil tuto otázku kvůli svým lidským společníkům, {LEAD}{NAME}."
+"Tri-Nadh jsou lidé, kteří, když se dotknou Trii někoho dalšího, necítí pouze jejich pocity, ale také všechny myšlenky. Většina z nich toho zvláštního daru využívá pouze v poradním kruhu zabývajícím se zákonem. Například, v důležitých jednáních prověřují partnerovu upřímnost."{WORDTrii}
+"Přeji vám štěstí při pronásledování Akiirových vrahů."
+"Zde, v poradních kruzích je činěno množství malých i velkých rozhodnutí. Abychom si udrželi přehled, musíme všechna zapisovat. Mám tuhle práci rád, dokonce i když mi připadá velmi zvláštní."
+"Jak už jsem vám vysvětlil, udržuji v pořádku záznamy, k usnadnění práce poradních kruhů."
+"Sbohem."

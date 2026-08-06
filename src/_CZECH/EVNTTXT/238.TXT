@@ -1,0 +1,7 @@
+﻿{BLOK000} "Jsem jedním z nových členů koncilu Spravedlivých. Práce je pro mě skutečnou výzvou. Doufám, že dokážu cokoli." 
+"Vítejte a Skeima Din. Dovolte, abych se vám představil: Jmenuji se Mellthar a jsem jedním že dvou nových členů koncilu. Kdo by si byl býval pomyslel, že Gard a Riko byli takový lstivý bastardi a že spolupracovali s Kontosem?" {BLOK010} "No, někteří lidé pojali určité podezření..." {BLOK011} "Lidé vás vždycky něčím překvapí." {WORDtown hall}{WORDMellthar}
+"Ach, tady jste." {WORDtown hall}{WORDMellthar}
+"Vy myslíte Perrona. Ano, nebrali jsme ho vážně."
+"Můžete to říci znovu."
+"To jsem já."
+"Už byste s tím měli být obeznámeni."

@@ -1,0 +1,7 @@
+﻿ 
+{INK 001} Mellthas vzhlédl když si na něj promluvil. {INK 002}{BLOK010} "Mellthasi, myslím, že bychom se měli vlámat do zakázané části Arjana a pokusit se zachránit Bera." {BLOK011} "Dík za konverzaci, Mellthasi."
+{INK 001} Mellthas vzhlédl když si na něj promluvil. {INK 002}{BLOK010} "Mellthasi, mohu se tě zeptat na něco osobního? Ty ses opravdu zamiloval do Siry?" {BLOK011} " Dík za konverzaci, Mellthasi."
+{INK 001} Mellthas něco dlouho píše na kus papíru, který pak podrží pod {LEAD}{NAME}ovým nosem. ^ ^ {INK 002} "Ano. První mentální kontakt s ní byl tím nejkrásnějším momentem mého života. Celá její bytost je okouzlující a já dokonce shledávám její cizí tělo přitažlivým. ^ ^ miluju ji."
+{INK 001} Mellthas energicky pokyvuje hlavou a vede kamarády skrze zamčené dveře do Arjanské knihovny.
+{INK 001} Hluchoněmý Mellthas vzhlédl když si všiml že se na něj mluví. {INK 002}{BLOK010}"Promiň, ale právě teď mě nenapadá o čem bychom mohli diskutovat, Mellthasi."
+{INK 001} Mellthas přikývl {LEAD}{NAME}.

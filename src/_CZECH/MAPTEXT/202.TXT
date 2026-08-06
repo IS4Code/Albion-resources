@@ -1,0 +1,65 @@
+﻿-free-
+Tráva.
+Skály.
+Přízemní porost (bez vyšších cílů).
+Větévky a kořínky.
+Ostřice (patrně nějaká kravina, ehm, travina).
+Malý ovocný stromeček.
+Strom s kulatou korunou.
+Strom s širokými listy.
+Peřeje.
+Vír.
+Vodní rostlina.
+Voda tu je hluboká a proud silný.
+Výhonky vodní rostliny.
+Kvetoucí rostlina.
+Stínový strom.
+Tyto rostliny hrají všemi barvami.
+Zelenina.
+Balvan.
+Voda je v těchto místech klidná a mělká. Na dně se vyhřívá několik kamenů a i menší mezi nimi leží poklidně (z čehož vyplývá, že tu není takřka žádný proud). 
+Ovocný strom.
+Plot.
+Stébelnatá rostlina.
+Popínavá rostlina.
+Keř.
+Rostlina s velkými listy (patrně druh listovníku).
+Vodopád.
+Skalní římsa.
+Rostlina rostoucí na římse.
+Toto popínavá rostlina uchytila své hadovitě rozvětvené tělo na nepravidelném skalním povrchu tisíci svými výhonky. Jeví se býti velmi bytelnou, pročež velice příhodnou pro šplhací aktivity všeho druhu (směrem vzhůru).
+Dřevěný mostík.
+Obilná pole.
+Houby.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+ 
+{CNTR} Emblém hlásá: ^ ^ {INK 006} Dům Arethy, královny Aballonu.
+{CNTR} Zde stojí: ^ ^ {INK 006} Ovoce Aballonu.
+{CNTR} Na vybledlém emblému je sotva čitelný nápis: ^ ^ {INK 006} Nakupuji a prodávám mnoho užitečného.
+{CNTR} "Oink?"
+{CNTR} "Rriik?"
+"Togi Din, mládeži! Určitě by bylo velmi pěkné být znovu mladý a cestovat."
+"Ten podivín Rifrako vlastní amulet, který jeho nositele varuje před blížící se divokou zvěří, nebo ještě něčím mnohem horším. Velmi cenná a užitečná věcička."
+"Togi Din, poutníci. Zajděte se podívat do Bennova obchůdku. Sklizeň byla tento rok tak dobrá, že snížil ceny!"
+"Togi Din, blahoslavení! Má matka mi říká, že bych neměla mluvit s cizinci, ale já s nimi stejně mluvím. Je to tak vzrušující!"
+"{CNTR} Na emblému je napsáno: ^ ^ {INK 006} K Aballonu: jděte jihozápadním směrem
+Do skály je zasazen symbol oka.
+"Tyto symboly jsou tu už velmi dlouho. Nalézají se všude po celé planetě. Ale nikdo přesně neví, odkud se vzaly ani jaký je jejich účel."
+{LEAD}{NAME} umístil(a) amulet se symbolem bohyně do skály. ^ ^ Brána se se zaskřípěním otevřela a družina vešla do jeskyně.
+"Můžu použít k otevření brány amulet bohyně, který mám u sebe."
+Najednou z úkrytu vyskočilo několik otrhaných ničemů. ^ ^ Zaútočili!

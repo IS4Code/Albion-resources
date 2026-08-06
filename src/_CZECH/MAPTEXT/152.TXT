@@ -1,0 +1,10 @@
+﻿!
+Je tu obrovská mašina - zřejmě pro těžení obrovských množství rudy. 
+"Ou podívej, mini těžič rudy Zřejmě už není víc místa ve stroji samotném a tak to skladují tady."
+Světélkující žárovka. Vyzařuje studené, bílé světlo. 
+Oranžové signální světlo.
+"O.K., to je ono. Tahle hal obklopuje jádro reaktoru. Odsuď budeme schopni dosáhnout samotného jádra."
+"Konečně jsme dosáhly našeho cíle. Teď už se nemůžeme obrátit zpět{LEAD}{NAME}! Pojďme to dokončit."
+"Co to bylo? Já se nehodlám otočit nazpětkdyž jsme došli tak daleko!"
+Masivní ocelové dveře.
+"Hala reaktoru! Už to skoro máme. Rychle do reaktorové místnosti.!"

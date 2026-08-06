@@ -1,0 +1,225 @@
+﻿empty
+žádný člen skupiny nemá chuť sem vložit ruku.
+Velká pohovka.
+Velká skříň.
+Gril.
+Postel
+Krb.
+Peřina.
+Iskaiské nože.
+Talíř.
+Nádoba.
+Klobása.
+Něco podobné šunce.
+Sběračka
+Různé bylinky.
+Ovoce.
+Fajnové masíčko.
+Pohár na pití.
+Mísa.
+Koření.
+Kořenky.
+Pohárek.
+Kuchyňský nůž.
+Oplatky.
+Klobáska.
+Tahle láhev obsahuje vonící tekutinu.
+Oblek.
+Ručník.
+Vědro.
+Pekáč.
+Hrnec.
+Uvnitř ohniště je malý hrnec, ve kterém se dá připravovat pomalu jídlo.
+Polštář.
+Velká pánev na pečení.
+Kožený kartáč.
+Vodní proud.
+Umyvadlo.
+Vodní bariéra.
+Velký keramický džbánek.
+Sekretář.
+Na tomto stole leží pouze velké množství malých nezajímavých věcí.
+Truhla.
+To je docela velký hrnec. Pravděpodobně se doně dá lecos schovat. Jídlo, voda a tak.
+V tomto reservoáru je podivná roslina, ktrá mocnými pohyby pumpuje ven vodu. S největší pravděpodobností slouží tato fontána jako zdroj vody.
+Voda v téhle kaluži nečistě páchne. Tady zřejmě skladují splašky a odpad.
+Vodní rostliny.
+Bylinky.
+Exotická rostlina.
+Pnoucí rostlina.
+Places for further Cutmap events.
+Schody vedoucí dolů skrz podlahu.
+Schody vedoucí nahoru skrz podlahu.
+Tohle je zřejmě nějaký druh postele. Je vyplněna pískem, který nabízí neobvyklý komfot díky svojí hrubé ale příjemné struktuře.
+Tahle velká věc bude asi něco na sezení. Chová se to jako rostlina. Roste to. Povrch je měkký a elestický.
+Domovní fontána.
+Tenhle vodní proud zřejmě slouží jako zdroj pitné vody. Jeho prameny plynou skrz celý dům jako malá říčky.
+Zatuchlý zápach a díry v předmětu vedou k závěru, že se jedná o toaletu. Tento  "nábytek" je také vytvořen z rostlin, mohutně roste díky pravidelnému hnojení.
+Tady se odehrávají nejnaléhavější aktivity života.
+Sladké,se děla na této panvičce.
+Sedačka.
+MAsivní dvěvěný stůl.
+Vlké listnatá rostlina.
+Dveře.
+Nůž.
+Krátká dýka.
+Dýka.
+Dlouhá dýka.
+Krátký meč.
+Iskaiský nůž.
+Iskaiská dýka.
+Iskaiské stileto.
+Iskaiský krátký meč.
+Dlouhé Iskaiské stileto.
+Iskaiský meč.
+Velký Iskaiský meč.
+Dlouhý Iskaiský meč.
+Iskaiské kopí.
+Velká Iskaiská dýka.
+Krátké Iskaiské stileto.
+Velké Iskaiské stileto.
+Dlouhý Iskaiský meč.
+Malý luk.
+Luk.
+šíp.
+Dlouhý šíp.
+Kožený štít.
+Malý Iskaiský štít.
+Iskaiský štít.
+Velký Iskaiský štít.
+Kožená čepice.
+Iskaiská kožená čepice.
+Iskaiská kovová čepice.
+Iskaiská kovová helma.
+Iskaiský chránič hrudi.
+Iskaiský kovový chránič hrudi.
+Lehké Iskaiské brnění.
+Iskaiské brnění.
+Prázdná láhev.
+Zelená léčebná dávka.
+Tyrkysová léčebná dávka.
+Modrá léčebná dávka.
+červený nápoj.
+Fialový nápoj.
+Modrý nápoj.
+Klíč.
+Lano.
+Baterka.
+Iskaiský poznámkový blok.
+List papíru.
+Iskaiský blok.
+Iskaiský kroužkový blok.
+Tužka.
+Krátká tužka.
+Lavička.
+Tohle sedadlo doslova vyrůstá ze země a je docela pohodlné.
+Dřevěná tyč. Na vršku je cedule.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+"Dsarii-ma, návštěvníku radnice."
+"Dsarii-ma. Já jsem jen přepracovaný písař. Prosím odpusďte my cenní hosté."
+"Dsarii-ma. Jsem součástí rady pro budování řeky. Nemyslím, že bychom si mohli něco říct."
+"Dsarii-ma. Promiňte mi Sebainah si přeje abych udělal něco co nemá odkladu."
+"Dsarii-ma. Pokud vy stejně tak jako další cizinci budte chtít Sebai-Giz Frilla, najdete ho v jeho pracovně ve východním křídle budovy. Ale občas bývá pryč."
+"Já náležím k radě pro rodiné záležitosti. Někdy je to velmi těžká práce, protože argumenty nepřílič často vyhrávají nad emocemi. Ale, pardon. Mluvím příliš. jsem si zcela jist, že máte mnohem důležitější věci na starost."
+"Dsarii-ma. Já vám mnoho nepomůžu. Jsem jeden z Vris`ových uklízečů amám na starost tuto budovu."
+"Dsarii-ma. Podívejte na ty krásné rostliny v předsíni. Já se o ně starám!"
+Dveře vedou ven.
+{FAHI}-SCRIPT SEQUENCE--{NORS} ^ ^ Tom a Rainer vběhli do zassedací haly kde byla ceremonie přerušena Akiirovým vrahem. Celá parta posléze dostala za úkol vyřešit tuto vraždu. Získals další informace o vraždě. Drirr se přidává k partě!!!^ ^ Posléze je zjištěno, že uprchlý vrahoun byl spatřen v blízkosti Dji-kas gildovního domu. Všichni se tam vydávají...
+První pomoc je poskytnuta úplně grogy Tomovi po jeho příchodu do radní budovy.
+Unavený Rainer obdržel první pomoc krátce poté co vstopil do radní budovy...
+Bradir začíná ztrácet klid spolu s tím jak Sebainah k němu hovoří.
+"Bradire, prosím vysvětli nám tvou neobvyklou reakci když jsi viděl starožitnou dýku, kterou měl vrah."
+"Sebainahu, dýka byla součástí vrahovi odměny. Původně my však patřila. Když ji nyní vidím, ztrácím dech.^ ^"Jsem velmi rád, že to všechno skončilo."
+"říkáš, žes odměnil vraha? Ty, pane bože, jsi nechal popravit svého přítele?"
+"Ne, Bože. Já jsem ho nenajal!"
+"Ale znáš osobu, která tu vraždu objednala?"
+"Ano, Sebainahu ^ ^ Byl to ... Akiir sám."
+{CNTR} "CO?"
+{CNTR} "Nemožné!"
+{CNTR} "To není možné!"
+"Já vím, že Bradir byl nejbližší a nejčestnější z otcových přátel. Nechme ho pokračovat."
+"Akiir už více než rok věděl, že má nevyléčitelnou nemoc. Při nejlepším mu zývalo šest měsíců života. Pak když zjistil Sirino rozhodnutí přidat se ke guildě Dji-Kas, drasticky se změnil a stal se  daleko více nevypočitatelný. Velmi nepředvídatelný.^ ^ Před nějakou dobou přišel za mnou s plánem na svou vraždu. Krom toho, že sechtěl pomstít Fasirovi, chtělještě aby Sira opustila cech Dji-Kas. Mnoho dní jsem se sním pokoušel o jeho plábu hovořit, ale nechtěl změnit  svá rozhodnutí. is mind. Naléhal na mně, při našem přátelství, abych vyplnil jeho poslední přání. Nemohl jsem udělat jinak!!! ^ ^ On podplatil Dji-Kas Kriis s absudní částkou peněz a pověřil vraha z lidského spolku Kamulos  s jeho vraždou. Posléze jsme byli smluveni na schůzku ve starém centru cechu po té co bude skutek hotov. Doufali jsme, že místní dravci se postarají o svědky. Posledních několik týdnů bylo úplně nejhorších v mém životě. Abych potvrdil má slova jsem ochoten podstoupit test Tri-Nadh. Pokud to bude třeba rád svá slova zopakuji."
+NAstalo dlouhé ticho ve které se všichni snaží ztrávit podivný příběh.  ^ ^ Sira, Akiirova dcera začala mluvit první:
+"Bradir byl přítel mojí rodiny už od mého dětství, podle mého tedy za toto nemůže. Milovala jsem svého otce, ale...vím, že občas dokázal být velmi tvrdohlavý. Navíc v těchto extrémních podmínkách... ^ ^ Klidně takhle mohl reagovat. A klidně i kvůli mně, bože můj to je hrozné. ^ ^ Věřím Brandirovým slovům."
+"Já také věřím Brandirovi. Je mimo podezření. ^ ^ Vrať se do svého cehu Brandire. BUdeš tam toho muset mnoho vysvětlit. ^ ^ Fasiir, který byl křivě obžalovaný, bude okamžitě rehabilitován. ^ ^ Kriis, the uplacený Dji-Kass bude muset za toto zodpovídat."
+"Znamená to, že jsme měli vyřešit vraždu. Je to tak Sebainahu Janiis?"
+"Ano, tak to je. Děkuji vám lidé, a tobě také Drirr, za vyřešení této věci. Nic víc nestojí v cestě vaším dobrodružným cestám." 
+"Jsme dobrý tým. Tome a Rainere, pokud chcete, velmi ráda vás doprovodím na cestách. Alespoň zažiju něco vzrušení."
+"Skvěle, Drirr! Jsem rád, že jseš s námi."
+"Tome a Rainere, já vždycky dělám impulsivní rozhodnutí^ ^ Já bych se chtěla také přidat. Po tom co se zde stalo. Chci se odtud dostat a půjdu úplně kamkoliv, slibuji. ^ ^ Výlet mi udělá jen dobře, a moje magické schopnosti by zas naopak mohly pomoci vám. Co myslíte moji přátelé?
+"Samozřejmě jseš vítána Siro. Máme před sebou zřejmě ještě velmi dlouhou cestu a čím více nás bude tím lépe!"
+"I když Akiirův tragický plán ve mne zanechal smutný pocit, jsem velmi rád, že se věci konečně ujasnily. ^ ^ Tome a Rainere, jste stále vítaní hosté zde v městě Jirinaar. Když se budete chtít vydat na cesty pohovořte se mnou. Nyní náše schůzka skončila."
+Tom, Rainer, Drirr, a Sira opustily Sebainahovu místnost.
+Tom and Rainer vstoupili do radnice právě včas. ^ ^ V sestkávací místnosti nalezli velmi malou skupinu Iskaii. ^ ^ Sebainah je ihned zdraví:
+"Dsarii-ma, Tome a Rainere, vítejte na našem setkání. Předtavuji vás Akiirovi, který je hlavou cechu he guild Zakladatelů, taktéž mu řikáme cech Dji-Fadh."
+"Dsarii-ma."
+"A toto je člen rady...."
+Sebainah je náhle přerušen maskovanou postavou, kterávtrhla do místnosti. šokovaní Tom a RAiner zjišťují, že se jedná o lidskou bytost!
+Než může kdokoliv zaragovat, člověk vystřelil malou šipku. Akiir padnul k zemi!
+"Stiriik! Chytťe člověka!"
+"Akiir je mrtvý. Ať žije světle Božím."
+"Vrah unikl skrze okno, Sebainahu! S okamžitou platností začneme prohledávat město!"
+"Musíme jednat rychle. pošlete pro Driir - Stiriika pro lidské zájmy a potřeby. ^ ^ Ctění členové rady, Briid, můj synovče: Prosím nyníé mne opusttě. Jsem smuten, že měl obřad tak tragický konec.^ ^ Tome ad Rainere, musím s vámi hovořit."
+"Dsarii-ma, Sebainahu Janiis.
+"Dsarii-ma, Drirr. BYl jsi informován o Akiirově vraždě??"
+"Ano, jaký to šok!"
+"Skutečně,  Drirr, jsm se jist, že už jsi slyšela o našech dvou návštěvnících. Jsou tu cizí a potřebují tvou pomoct, aby mohli vyřešit zločin."
+"Budu vedle nich se vším co mám, Sebeinahu, přísahám. ^ ^ Tome a Rainere, omlouvám se, že se setkáváme za takových okolností."
+"Dsarii-ma, Drirr. Jsme trochu přešlý z toho co se stalo."
+"Věřím tomu co říkaš. Měly bychom pravděpodobně hovořit se Sebai-Giz Frill nejdříve. Mohl by nám říct o lidském pokolení ze kterého vzešel i vrah. Pojďme do jeho místnosti. Jsem si jist, že nám poradí."
+"Drirr! Proradný vrah byl spatřen v blízkosti cechovního domu mágů Dji-Kas!"
+"Stopa! Pojďme ihned do domu Dji-Kas!"
+Všichni z nich pospíchali do domu Mágů.
+"Tyto dveře vedou do místnosti starosty města Sebainah Janiise. A teď vás opustím.
+"Tome a Rainere, toto je velmi těžká doba. Velmi těžká..Někdo si myslí, že jste vrahové jenom z toho důvodu, že jste lidé. A to není dobře. Já neznám vaši rasu tak dobře, ale přesto si myslím, že jste touto zprávou stejně šokováni jako já."
+"Janiis, nikdo nám nikdy neřekl, že na této planetě jsou lidé. My sami se nyní musíme vzpamatovat z toho šoku!"
+"Vy to nevíte? Já myslel...To jste museli špatně pochopit naši první konversaci. ersation. Měli byste vědět, že jsme vás původně chtěli předat lidem z ostrovů."
+"Mluvíte jako kdyby vaše nabídka nemohla být dále držena,po tom co se stalo."
+"Je to tak. Musím jednat podle zákonů našich lidí příslušejících k tomuto typu zločinu. Ve jménu kompensace za často nedisciplinovanou náturu mnoha Iskai, vzniklo Právo rodiné odpovědnosti. Aby se ujistilo, že hříšník si svůj čin opravdu rozmyslí, celá jeho rodina za něj přebírá důsledky jeho činů. Pokud Stiriik nemůže okamžitě zatkout zloducha, rodina je nucena najít svého zločiného člena nebo vyřešit celý případ. SAmozřejmě, že i při tom jsou podporováni a hlídáni alspoň jedním Stiriikem. ^ ^ Protože jste jediní lidé v Jirinaaru, budete muset převzít odpovědnost rodiny. Nyní jste zavázáni vyřešit tuto vraždu a najít viníky. Jen poté vám budu moci umožit pokračování vašich cest."
+"Ale my jsme v tomto světě stále cizí. Jak můžeme najít viníka tohoto těžkého zločinu?"
+"Já již jsem poslal proschopného Stiriika. Pomůže vám s vaším nelehkým úkolem."
+"To vypadá, že nemáme na výběr, je to tak?"
+"Bohužel, ano. Já nemohu měnit zákony: Já vám jen mohu popřát mnoho štěstí v honu na uprchléo vraha a kohokoliv kdo mu vydal tak hrozivý rozkaz."
+"Jste si jist, že to bylo někým  objednáno?"
+"Bezpochyby. Vrah přísluší k lidské rase, která je slavná pro jejich zabijácké schopnosti. Tihle lidé málokdy vraždí kvůli vlastním zájmům. Měli byste si pohovořit s Frillem, slyšel jsem, že je opět v paláci. Jistě už je na cestě sem.  ^ ^ áhh, tady je Drirr, Stiriik, který vás bude doprovázet.
+{CNTR}{INK 001} Vývěsní štít říká: ^ ^ {INK 006} ^ ^ Pracovna Sebai-Giz Frilla{INK 006}
+{CNTR}{INK 001} Vývěsní štít říká: ^ ^ {INK 006} ^ ^ Pracovna Sebainaha Janiise, starosty Jirinaaru.
+Drirr se přidala k Tomovi and Rainerovi. ^ ^ Společně se vydali do pracovny mudrce, Frilla, který se právě vrátil z dlohé cesty ^ ^ Drirr říká Frill je nejstarší Iskai z Nakiridaani a je velice moudrý.
+"Naštěstí, Stiriik z Městské Hlídky uvidí vraha velmi brzy. ^ ^ "Asi bychom měli prohledat ulice města."
+Všichni ihned pospíchali do cechovního domu Mágů Jirinaaru, Dji-Kas. ^ ^ Vrah nebyl bohužel nalezen na ulici, takže všichni vstoupili do domu.....
+"Tato  Sebainah vypadá jako místní šéf. here. Jsem zvědav, co po nás bude chtít."
+Bradir je rychle transportován k Healerovi. ^ ^ Okamžitě, jak je ošetřen, je v budově rady, přímo v místnosti Sebainaha, porada ve které Brandir musí vysvětlil své činy. ^ ^ Krom Brandira byli pozváni i gathering Tom, Rainer,Driir a Sira, nešťastná dcera tragicky zesnulého Akiira.

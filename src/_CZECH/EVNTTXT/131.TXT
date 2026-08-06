@@ -1,0 +1,33 @@
+﻿{BLOK000}"Ukazuji návštěvníkům úspěchy umění Dji-Fadh."{WORDDji-Fadh}
+ 
+"Vidíme to co děláme jako směs magie, umění a řemesla. Jsme jeden z nejstarších cechů v Jirinaaru a, jak jistě víte, jsme pomocí naší magie schopni tvořit, měnit a natrvalo proměňovat rostliny. To znamená, že můžeme vyrábět celé domy z živého rostlinného materiálu, který není pouze krásný, ale také splňuje nutné předpoklady pro kvalitu jeho bydlení." {WORDmagic}{WORDJirinaar}
+"Stri Akiir je hlavou našeho cechu. Je největším umělcem a kouzelníkem, který tvrdě pracuje v zájmech našeho cechu. Všichni doufáme, že se jednoho dne stane jedním z Vyvolených."{WRNR----}
+"Jsme skutečně šokováni. Ariirova smrt je pro náš cech velkou ztrátou. Dji- Kas jsou schopni čehokoliv, ale tohle? Nepředstavitelné! Naštěstí Sebainah učinila drastická opatření!"{WORDDji-Kas}
+"Taková tragédie! Akiirovo chování je hanebné, ale předpokládáme, že poznání jeho blížící se smrti narušilo jeho jinak čistou mysl."
+"Sira je Akiirova jediná dcera. Přešla k Dji-Kas, což ho velmi rozhněvalo. {WORDDji-Kas}
+ 
+"Pcha, semenáři! Jsem si jist, že jste si všimli, že většina z nás nemá z Dji-Kas velmi přáteské pocity. často lákají pomocí slibů pryč naše největší magické talenty. Jejich řemeslo nemá žádný účel a smysl a vyjma jejich ranhojičů, nejsou nijak prospěšní naší společnosti."
+"Náš cechovní dům soupeří s budovou rady o titul nejkrásnější stavby v Jirinaaru. Stále ho udržujeme a vylepšujeme a používáme ho jako ukázku našich znalostí, jak můžete vidět ve východním křídle."{WRNR----}{WORDJirinaar}
+"Je vůdcem Dji-Kas."{WORDDji-Kas}
+"Ten vrah! Zasluhuje smrt a nic jiného!"
+"Od té doby, co jste smazali obvinění proti němu, je znovu hlavou Dji-Kas."
+"Je Akiiruv zástupce, přátelský a skromný Iskai."{WORDIskai}
+"Velmi se trápil Akiirovou smrtí. Naštěstí, nyní je hlavou našeho cechu, jeho četné povinnosti ho zmátly."
+"Můžete vidět, že největší břemeno z Bradira spadlo, když jste vyřešili tu složitou záležitost kolem Akiirovy smrti."
+"Jsem si jist, že vrhači semen tu vraždu ukuli! Kdo by věřil, že jejich duchovní rozklad zajde tak daleko!"
+"Tedy, musím říci, že tyto události ukázaly, jak rychle si jeden může udělat ukvapené závěry o Dji-Kas."
+"Slyšeli jste o tom? Tedy, budu upřímný, Argimův příběh je trapnou součástí historie našeho cechu. ^ ^ Byl hlavou Dji-Fadh téměř před 150 lety. Tehdy se budova cechu Dji-Fadh nacházela mimo město. Byla to velkolepá budova blízko Han, ve středu lesa. Argim měl ve svém oboru velké nadání, ale nestalou povahu. To byl důvod, proč jeho nejvyšší cíl byl zamítnut: stát se jedním z Vyvolených. Když se dozvěděl o rozhodnutí, přestal se ovládat. Přísahal, že vzdor všemu dosáhne nesmrtelnosti. V nezodpovědné demonstraci síly zničil celou stavbu a změnil ji v divné místo, kterému se nyní každý vyhýbá. říká se, že tomu místu vtiskl svého ducha."{WORDHan}
+"Jsou zde místa, kde síla Bohyně je obzvlášť silná a kde jsou magické činy silnější a často také obtížnější. Tento druh energetických center nazýváme Han."{WRNR----}
+dummy
+"Dsarii-ma! Ah, vy jste ti hosté Klanu Lovců, mnoho jsem toho o vás slyšel. Vítejte v cechovním domě Dji-Fadh! Rádi byste viděli něco z našeho cechovního řemesla?"{WORDDji-Fadh}{BLOK010}"Ano, rádi bychom si udělali malou procházku, Aliis!"
+"Dobře tedy, následujte mě, prosím. Východní křídlo, kde se nyní nacházíme, bylo vybudováno jako slavnostní, pro předvedení úspěchů Dji-Fadh."
+"Dsarii-ma! Vy nechcete koupit dům, nebo ano? Hir, hir!"
+"Dsarii-ma."
+"Dsarii-ma! Rád s vámi znovu mluvím!"
+SEQUENCE FOLLOWS!
+"Zde vidíte bazén, kde shromažďujeme z domu odpadní vodu kam je posílána skrze potrubní systém v podlaze. Rostliny v bazénu ji čistí před tím, než je vrácena do řeky podzemním systémem kanálů."
+"Toto je toaleta udělána z obří rostliny. Rostlina zpracovává kaly rychleji a téměř bez odéru. Musíš si jenom dávat pozor, aby kvůli pravidelnému hnojení nevyrostla příliš."
+"Větší rodiny mají velmi rády tyto pohovky. Jsou také udělané z živé rostlinné tkáně. ^ ^ Povrch je měkký a pružný. Pokud je poškozena, jednoduše doroste znovu."
+"Pokud byste rádi, podívejte se na domovní fontánu, opečovávanou  ve velkém klanovém domě. Je k nalezení v jižní části domu. Nyní vás nechám, abyste si cechovní dům sami prozkoumali."
+"Velice vám děkujeme, že jste nás provedla, Aliis. Jistě pochopíte, že nechceme koupit nějaké práce vašeho cechu."
+"Hir, hir! Ano, dovedu si to představit! ^ ^ Avšak, možná byste rádi hovořili s vůdci našeho cechu. ^ ^ Najdete je v severní části domu. ^ ^ Sbohem!"

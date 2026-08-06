@@ -1,0 +1,4 @@
+﻿{BLOK000}"Prodávám všechny druhy jídla a bylin."{WORDfood}{WORDspices}
+"Dsarii-ma! Jakou lahůdkou vám mohu posloužit?"{BLOK010}"Dsarii-ma. Máme zájem o trvanlivé zásoby na cestu."
+"Tedy, maso a všechny druhy lesního ovoce, které byly konzervovány."
+"Vyvrcholení každého jídla! Avšak, pro vás, jako pro poutníky, pravděpodobně nejsou tak vzrušující."

@@ -1,0 +1,7 @@
+﻿{BLOK000} "Jsem členem koncilu Spravedlivých. Starám se o to, aby se všem žilo dobře."
+"Vítejte v Belovenu. Já jsem Gard, člen koncilu Spravedlivých." {WORDcouncil}{WORDtown hall}
+"Měli jste na srdci ještě něco? Jsem docela zaneprázdněn. Už brzy budeme zasedat na dalším koncilu." {WORDtown hall}{WORDcouncil}
+"Jsem jedním že třech členů koncilu. Moji kolegové jsou Riko a pak ještě Perron. Riko je zamlklý patron, ale je fajn. Měl bych také zmínit, že Perron je vnímavý a citlivý muž. Nenech se jím znepokojit. Ještě je tu Harras, president koncilu. Můžete navštívit všechny z nás. Doufám, že si svůj pobyt v našem městě užijete. Vynasnažíme se abyste se tu cítili co nejlépe. Kdybyste něco potřebovali, dejte mi vědět. Jsem tu vždycky pro vás." {WORDRiko}{WORDPerron}{WORDGard}
+"Riko a Perron jsou dalšími dvěma členy koncilu."
+"To jsem já."
+"Klidně se tu porozhlédněte. Náš koncilový dům je dost velký."

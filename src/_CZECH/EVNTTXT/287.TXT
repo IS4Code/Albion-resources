@@ -1,0 +1,9 @@
+﻿{BLOK000} "Já jsem hráč."
+"Skeima din. ^ ^ Dali byste si partičku? Když budete hrát dobře, tak můžete vyhrát spoustu zlata. Ale můžete i hodně prohrát, jestli máte smůlu." {WORDgame}
+"Je to hra v kostky." ^ ^ Nejdřív, já vrhnu třemi kostkami a pak vy. Pokud hodíte víc nebo stejně jak já, tak je vklad váš... jinak je můj. To je fér, ne?" {WORDstake}
+"Vložím 10 mincí a vy přidáte dalších 10. Pokud byste chtěli hrát, pak mi to řekněte, abych připravil kostky." {WORDthrow the dice}
+"Máte dost zlata!"
+"Teď jste neměli štěstí. Vyhrál jsem, takže vklad patří mně. Díky za hru."
+"Blahopřeji vyhráli jste! Vyhráli jste. Vklad je váš!"
+"Cože?! Myslíte, že jsem podvodník? štvete mě. Nemohu tomu uvěřit. Myslíte to vážně?" ^ ^ "Nevím, co bych měl říct. Podívejte můžeme hrát zadarmo." {WORDfree game}
+"Myslím, že jedna volná hra stačí!"

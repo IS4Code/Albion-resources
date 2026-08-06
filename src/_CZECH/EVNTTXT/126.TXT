@@ -1,0 +1,22 @@
+﻿{BLOK000}"Nedávno jsem objevil své magické nadání, díky Bohyni, a od té doby jsem zde byl jako Dra."{WORDmagic}{WORDGoddess}{WORDDra}
+ 
+"Naše magie je v tomto světě hluboce zakořeněna. Například, všechny naše kouzla od nás vyžadují soustředit své duševní síly ve zvláštním druhu semen. Jsme také pyšní na pestrost našeho řemesla. Známe magii k tvoření a ničení, zraňování a hojení. ^ Jako znak našeho cechu, nosíme na kůži zvláštně zabarvený vzor. Vůdce Dji-Kas je Sebai-fre FAsiir. Všechen svůj čas tráví v cechovním domě."{WORDseed}{WORDhealing}{WORDFasiir}{WORDguild house}
+"Sebai-fre Fasiir založil náš cech před více než 120 lety. Je mezi Dji-Kas žijící legendou a význačným učitelem."
+"Není to semeno samotné, které vytváří magický efekt, ale duch Dji-Kas, který bývá nalezen v jeho středu. Semena pocházejí ze zvláštní rostliny, nazývané Triifalai, což znamená 'Trii Bohyně.' Jsou prodávána v cechovním domě."{WORDTrii}{WORDGoddess}
+"Vpravo od vchodu do cechovního domu najdete Stri Rejiru, Mistryni v Léčebném Umění. Ona zahojí vaše zranění."
+"To je jméno rostliny, která produkuje semena velké hodnoty. {WORDseed}"
+ 
+"Oh, stavitelé. Vztahy mezi našimi cechy jsou občas trochu problematické. Naše rozmanitá řemesla přitahují některé jejich nejtalentovanější členy. A kdo je může obviňovat? Kdo by nechtěl vložit celé své úsilí do stavby domů, bez ohledu na to, jak jsou krásné? Možná jsou Dji-Fadh trochu rozhněvaní, protože jsme postavili náš cechovní dům bez jejich pomoci."
+"Cechovní dům byl dlouhou dobu v jihozápadním rohu Jirinaaru. Vystavěn Dji-Kas byl domovem mnoha členů cechu a všech Dra."{WORDDra}
+"Nikdy jsme neposlali Akiirova vraha! Kriis lže, Bohyně ví proč. Nemáme žádné důvody dělat něco tak hanebného!"{WORDGoddess}
+"Dovolte mi ještě jednou poděkovat, že jste nás očistili od podezření z Akiirovy vraždy!"
+"Akiir je hlavou Tvůrců, cechu, který se od nás v mnohém liší. Zvláště pak Akiir nechce opustit svou cestu vyhýbání se konfliktům."{WORDFormer}
+"Neznáte Fasiira tak dobře jako ti, kteří s ním, jako já, tráví většinu dne. Nikdy by neuchystal takový zločin! Ale pochybuji, že budete věřit slovům člena jeho cechu."
+"Jsem opravdu vděčný, že jste očistili jeho jméno."
+"Nevím nic o vraždě."
+dummy
+dummy
+dummy
+dummy
+dummy
+"Dsarii-ma. Co chcete, prosím?"

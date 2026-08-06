@@ -1,0 +1,80 @@
+﻿-free-
+Travina.
+Skály.
+Porost.
+Větve a kořeny.
+Ostřice.
+Ovocný stromek.
+Strom se zakulaceným vrškem.
+Strom s širokými listy.
+Peřeje.
+Vír.
+Vodní rostliny.
+Voda je hluboká a proud silný.
+Výhonky vodních rostlin.
+Kvetoucí květena.
+Stinný strom.
+Tyto rostliny hrají všemi barvami.
+Zelenina.
+Balvan.
+Voda je v těchto místech klidná a mělká. Na dně se povaluje nespočet oblázků. Není tu téměř žádný proud.
+Ovocný strom.
+Plot.
+Stéblovitá rostlina.
+Popínavá plazivka.
+Keř.
+Rostlina s rozložitými listy.
+Vodopád.
+Skalní římsa.
+Rostlina rostoucí na skalní římse.
+Toto popínavá rostlina uchytila své hadovitě rozvětvené tělo na nepravidelném skalním povrchu tisíci svými výhonky. Jeví se býti velmi bytelnou, pročež velice příhodnou pro šplhací aktivity všeho druhu (směrem vzhůru).
+Dřevěný mostík.
+Obilná pole.
+Houby.
+Keltské obydlí.
+Vstup do keltského obydlí.
+Ohrada pro dobytek.
+Branka v plotu.
+Městká zeď.
+Brána do města.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Ploty rozdělující jednotlivá uzemí. Při pohledu na ně člověka napadne, jak se původní obyvatelé při jejich stavbě vypořádali s tak strmými svahy...
+"Oink."
+živočich drží bobříka mlčení (nebo se s vámi nebaví, nebo jednoduše nemluví).
+"Během dne musím sklízet na polích a starat se o dobytek. Pocházím ze Srimalinaru, Iskaiského města na severozápad od Maini."
+Vchod do jeskyně.
+{LEAD}{NAME} našel (našla) ukrytý poklad.
+Kounos.
+Je tu zvláštní ticho. Nejsou slyšet žádné lidské hlasy, žádné zvuky. Jakoby se nad vesnicí drželo něco zlověstného. Vesničané se pravděpodobně shromáždili ve svatyni v Srimalinaru, aby se připravili na boj proti rase Iskai a obsazení jejich svatyně.
+"Ztrať se! Musíme hájit toto místo."
+"Neměj strach - už brzy zaútočíme a učiníme tak přítrž všem těm hrůzám."
+Lidé si prohlíží {LEAD}{NAME} a ostatní s neskrývanou zlobou. Iskai stojící v jedné z předních řad promluvil: ^ ^ "Je pravda, že hledáte důkazy, abyste mohli ze zločinu obvinit Kontose? I kdyby se vám podařilo najít takový důkaz, pochybuji, že by to odvrátilo hrozící válku. Nevím, kdy Mahinosové zaútočí, ale jak můžete vidět, nejsou zrovna pokojní." ^ ^ Někteří z Mahinosů okamžitě zareagovali: ^ ^ "Nesmysl! ^ Ukončíme tuto nestoudnou frašku a ukážeme světu, o co vlastně pod touto střechou jde. čekáme už jen na Kontose, aby vydal povel k útoku." ^ ^ {LEAD}{NAME} přelétl pohledem dav, ale Kontose v něm nespatřil. Kvůli napjaté atmosféře se {LEAD}{NAME} a {HIS } jeho/její společníci rozhodli do svatyně nevstupovat. ^ ^ Kdyby tak jen dokázal někdo najít usvědčující důkaz proti Kontosovi... Možná by pomohlo promluvit si ještě jednou se všemi lidmi. Nebo by bylo možné najít něco usvědčujícího v jeho laboratoři. Nebo v Iskaiském městě Srimalinaru? Ať už to je ale jakkoli, Iskai tím jsou velmi ovlivněny a určitě to nenechají jen tak plavat.
+Tom prošel mezi oběma skupinami a držel přitom usvědčující dokument tak, aby ho mohl každý vidět. Najednou ze svatyně vyšel Kontos a okamžitě k mručícímu davu svého lidu promluvil:
+"Nevěřte mu! Nevěřte mu ani slovo! Je to jen laciný trik. Snaží se vás zmást. Ten dokument je prachsprostý podvrh. Padělek, falzifikát!"
+"I kdyby jen polovina dokumentu souhlasila s Edjirrovou verzí, pak je tento dokument pravý. Prosím, můžu ho teď hned vidět?"
+Tom předal listinu skupince tvořené iskaiskou rasou. Několik dalších se shromáždilo kolem, když začali studovat listinu. Náhle se z řad Mahinosů vynořil Darios a požádal Iskaii, jestli by si tu listinu mohl také prohlédnout. Začali se utvářet mumlající debatující skupinky a i přes všechny Kontosovi snahy, začínali být Mahinosové co se jeho proklamované neviny týkalo, čím dál tím více skeptičtí. ^ ^ {LEAD}{NAME} a jeho/její {HIS } společníci se přesunuli na místo, ze kterého mohli oslovit obě znesvářené skupiny. Informovali oba národy o své dřívější konverzaci na toto téma a o důkazu, který našli. Obě skupiny začali být už vážně nepokojné a shromáždění přerostlo v divoký zmatek. ^ ^ Kontos tu stál jak zkamenělý, když shledal, že ztrácí pevnou půdu pod nohama. Nakonec se rozhodl k poslednímu zoufalému kroku a vykřikl:
+"Poslouchejte! Mluvím pravdu! Dokážu vám, že tohle místo je plné hrůz a bezpráví! Vstoupím do svatyně a vrátím se s důkazem své neviny."
+"Jestli znesvětíš naši svatyni, pomstíme se!"
+"Pcha - svatyně - prázdná slova."
+Kontos vstoupil do posvátné budovy, následován několika Iskai. ^ ^ Mezitím se Darios vrátil ke svým klanovým bratřím. Všichni se kolem něj okamžitě seskupili a on jim vše chvatně vyložil. Mahinosové se tvářili zmateně a rozčileně. Iskaiská rasa jakbysmet. Pak, po nějaké chvíli, předstoupil mluvčí a oznámil:
+"Jsme si naprosto jisti, že je listina pravá a že jsme plně porozuměli jejímu obsahu. Darios s námi souhlasil, poté, co si sám listinu přečetl. ^ ^ Listina je smlouvou mezi Kontosem, Rikem a Gardem. Kdysi dávno tito tři objevili něco, o čem jsme neměli ani potuchy. Pod naší posvátnou svatyní se nachází velké naleziště vzácných kovů a nerostů. To také vysvětluje proč někdo - pravděpodobně Kontos - vstoupil do svatyně a vyhloubil v ní několik jam: s největší pravděpodobností kvůli vzorkům. Kontos je inteligentní a má značné geografické znalosti. Odvažujeme se tvrdit, že věděl moc dobře, že je tohle velmi cenné naleziště. A tak jsme zjistili, že naše svatyně stojí už celé generace na nesmírně vzácném nalezišti a mi o něm neměli po celou tu dobu ani potuchy. Teď už je jednoduché pochopit Kontosovi plány. Svými smyšlenými řečmi se snažil každého přesvědčit, že je svatyně nebezpečná pro nás všechny. Naštěstí se mu to podařilo jen částečně. Plán předpokládal zničení svatyně, takže by už nic nebránilo poklidné těžbě. Gardova a Rikova účast na tomto plánu spočívala v tom, že dohlíželi na situaci v Belovenu. šířili tam stejné pověsti o nebezpečnosti naší svatyně. Jako odměnu požadovali, přirozeně, podíl na zisku. Listina dokonce obsahovala výši tohoto podílu. Také využili svého vlivu u koncilu, kde promluvili Kontosovým jménem. Ale Kontos udělal osudnou chybu. Předpokládal, že Matka Země vydá své nerostné bohatství kriminálníku bez Jejího souhlasu. Ovšem Kontos na takové věci nevěří. Zastává názor, že všechno může být vyřešeno jen pomocí matematiky a magie.
+"Ale co všechna ta strašná stvoření. Byli zde, že? Ještě teď tu na ně můžeme narazit. Nevyšli snad ze svatyně?"
+"Ne, ty taky vytvořil Kontos. Je jediným mágem v celém Maini, který dokáže vyvolat a povolat taková stvoření. Všichni jeho blízcí známí to mohou potvrdit. Podařilo se mu s těmito stvořeními však dosáhnout dvou věcí: mohl si vyzkoušet své schopnosti a jejich stvořením si poskytnout falešné důkazy, které by potvrdily jeho tvrzení. Naštěstí se naše magie nezaměřuje takovýmto směrem."
+Tento dlouhý proslov zviklal i posledního Mahinoha, který stále ještě stál za Kontosem. Davem proběhl nový neklid a mezi Mahinosy se rozpoutala bouřlivá diskuse. ^ ^ Vypadalo to, jakoby ještě pořád nemohli uvěřit, že se stali jen pouhými nástroji Kontosova chamtivého plánu. A i když zůstává nezodpovězených ještě pár otázek, je jasné, že lid Kounoský byl podveden. ^ ^ LEAD}{NAME} a další členové družiny zabránili nejhoršímu. Teď už je jen otázkou času, kdy se oba národy usmíří. Slušnější a rozumnější z Mahinosů se iskaiské rase omluvili; ostatní zamířili zpátky do Kounosu - uražení a pokoření. V jednom však mají obě rasy jasno - díky vašemu zásahu nedošlo ke krveprolití a spor se vyřešil mírovou cestou. Jak rasa Iskai, tak Mahinosové, se budou těšit, že je brzy opět navštívíte. ^ ^ Najednou jste si uvědomili, že je tu ještě jeden velký problém. ^ ^ Co dělá vlastně Kontos ve svatyni?
+Keřík s plody.
+Vchod do svatyně.
+Bude lepší neporušit tabu a zachovat tak svátost tohoto místa! Tom a ostatní členové družiny se proto rozhodli do svatyně nevstupovat.
+Dveře do této chýše jsou zavřené.
+Do Srimalinaru - severně přes most.
+Lidským bytostem není dovoleno vstoupit na posvátné místo iskaiské rasy.
+"Hmm... Myslím, že tu máme problém. Navrhuji, abychom proto vyzpovídali důležité lidi v každé vesnici a městě. Možná bysme o tom měli popřemýšlet - pokud se nám podaří najít něco konkrétního, určitě se najdou lidé, kteří nám pomohou."
+"Skeima Din! ^ ^ To jsem rád(a), že jsem vás konečně našla, hledal(a) jsem vás všude. Posílá mě Kariah. Má pro vás něco velmi důležitého - je to velmi naléhavé. Já jen vím, že je to otázka života a smrti! Prosím, jděte do jejího domu v Belovenu jak nejrychleji můžete. Jděte hned! Pokud se z jakéhokoli důvodu zdržíte, může být už pozdě. Pokud jste měli něco v plánu, budete na to mít dost času potom."

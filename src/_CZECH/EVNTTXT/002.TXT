@@ -1,0 +1,39 @@
+﻿{SUBJ}{NAME} vypije zelený lektvar a hned se cítí trochu lépe!
+Tento text není zajímavý.
+{SUBJ}{NAME} vypije lektvar tyrkysové barvy a cítí se o mnoho lépe!
+{SUBJ}{NAME} vypije modrý lektvar a cítí se skoro úplně zdravý!
+{SUBJ}{NAME} vypije červenou tekutinu ^ ^ {HIS }mysl se rozjasní a vrátí se trochu duševní energie.
+{SUBJ}{NAME} vypije fialovou tekutinu. ^ ^ Zdá se, že se mu vrací schopnost koncentrace.
+{SUBJ}{NAME} vypije modrou tekutinu. Velká část {HIS } duševní energie se hned vrací!
+{SUBJ}{NAME} vypije tekutinu stříbrné barvy a cítí, jakoby jed v HIS }těle neutralizoval!
+Když {SUBJ}{NAME} vypije zlatohnědý nápoj {HIS }zmatená mysl se vyčistí a {HE }konečně je opět {HIM }sám sebou!
+V těle se rozlije příjemný pocit, {SUBJ}{NAME} když vypije {HE }zlatavou tekutinu. Nemoc odchází z {HIS }těla!
+Povzbuzující nápoj {SUBJ}{NAME} způsobí, že se cítí lépe!
+Když {INVE}{NAME} si navlékne bílý prsten {HIS }na prst, {HE }zjistí, že už ho nikdy nemůže sundat! {INVE}{NAME} se cítí oslaben!
+{CNTR} Někdo napsal dvě čísla útržek kruhového grafu: ^ ^ {INK 006}12
+{CNTR} Někdo napsal číslo na útržek kruhového grafu : ^ ^ {INK 006}3
+{CNTR} Někdo napsal číslo na útržky kruhového grafu : {INK 006}4
+{CNTR} Někdo ve spěchu napsal řadu čísel na kus papíru : ^ ^ {INK 006} 1001
+{CNTR} Druhá část listiny chybí!
+Obě části listiny jdou přesně k sobě. Původní listina je znovu pohromadě!
+{INVE}{NAME} bere do ruky obsidiánový meč {HIS }.Už ho nemůže nikdy odložit a {INVE}{NAME} cítí, jakoby zbraň odčerpávala jeho {HIS }životní energii a vytrvalost!
+červený meč je prokletý! {INVE}{NAME} nemůže ho odložit a cítí, jakoby vysával sílu a energii z jeho {HIS }těla!
+Křišťálová rukověť dýky pevně přilnula k jeho ruce a {INVE}{NAME} on {HE }cítí, jak mu z těla uniká {HIS } síla!
+{INVE}{NAME} všimne si, že modrá čepel je zakletá: Dýka mu brání provozovat {INVE}{NAME} magii!
+černý kámen na přilbě vysává sílu z jeho těla {INVE}{NAME}; je začarovaný!
+"Tento amulet je symbolem mého spojení s Dji Cantos. Neodložím ho".
+"Měl bych nechat amulet tam, kde je. Je příliš cenný na to, abych ho odložil."
+{INK 001}Harriet se probudí, když se amuletu někdo dotkne a chabě se brání:{INK 002} ^ ^ "Prosím, ne. Tenhle amulet je mým soukromým majetkem!"
+Malý červený kamínek se přilepí Tomovi na kůži. Nemůže se uvolnit.
+"Omlouvám se, ale raději bych si tohle nechal. Budu to potřebovat."
+{INK 001}Mellthas zavrtí hlavou, chce si své psací prostředky nechat. Je to jeho jediný prostředek komunikace.
+"Je to velmi důležité. Měli bychom to raději nechat kde to je, než se něco stane."
+{INVE}{NAME} probere se z bezvědomí a říká:
+Listina obsahuje zajímavé informace. Upozorňuje na dohodu, kterou uzavřeli Kontos, Gard, and Riko. Cestovatelé nerozumějí všemu co je tam napsáno, protože většina toho je v jistém zakódovaném jazyce. Jde patrně o nějaký druh smlouvy, jak rozdělit cenné předměty. Nic víc v tuto chvíli nemůžeme říct. ^^ Možná tenhle malý důkaz poslouží k vyjasnění konfliktu, který mezi sebou mají Iskai a Mahinos!
+Tom se nechce vzdát semínka - kvůli kterému bylo tolik potíží a nebezpečí.
+Zápiskům, které obsahují Nejvyšší moudrost, mohou zřejmě porozumět jen opravdoví mistři magie. Pergamen pokrývají složité návody a básně plné spletitých veršů.
+Je tu napsána podivná směs kouzelnicky znějící hatmatilky a technické návody. Dji Cantos by pravděpodobně věděl, co to znamená.
+{INK 001} Na listu pergamenu je napsáno následující: {INK 003}Odvaha není vždy odměněna. Stejně ale zůstaň odvážný. 
+{LEAD}{NAME} sní byliny a cítí, jakoby jeho {HIS }tělo a duše byly očištěny!
+{INK 001}{LEAD}{NAME}:{INK 002} "Raději bychom měli nechat klíč, kde je. Nechtěl bych to tu ztratit."
+{INK 001}{LEAD}{NAME}:{INK 002} "Raději bychom měli nechat spis, kde je. Nechtěl bych ho tu ztratit.

@@ -1,0 +1,3 @@
+﻿{BLOK000}"Jsem obchodník s obyčejnými i mimořádnými věcmi... ano, hmm."{WORDmerchant}
+"Togi Din. Ach, jak vidím jste poutníci, hmm? Dobře, velmi dobře! Potkali jsme se někdy před tím? Na tom nezáleží, hmm? Musíte potřebovat něco, co vám usnadní cestu? Nebo jste přinesli pro starého Rifraka něco nádherného z dalekých zemí, hmm?" {BLOK010}"Ukaž nám, prosím, co nabízíš, můj dobrý Rifrako."
+"Ano, obchoduji s krásnými věcmi, užitečnými věcmi a někdy magickými věcmi, ano!"

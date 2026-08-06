@@ -1,0 +1,39 @@
+﻿free
+"Většina z nás tu žije ráda, kvůli krásnému podnebí, a samozřejmě také kvůli městu samotnému. Zdá se, že poušť je vyprahlá, ale má to své kouzlo. V Umajo-Kenta jsou také krásné rostliny. ^ ^ Když žijete mezi mořem a pouští, cítíte velmi zvláštní klima a výborný vzduch. Doufám, že se tu budete cítit dobře. ^ ^ řeknu vám něco víc o Umajo-Kenta: ^ ^ Jelikož jsme jediní, kdo umí vyrábět a zpracovávat kovy, máme dost dobré živobytí a můžete tu koupit spoustu cenných věcí. Pokud sháníte něco speciálního, určitě to tu najdete - pokud jste schopni za to zaplatit. Samozřejmě je tu velmi drahé jídlo, protože všechno musíme dovážet lodí. Také byste měli navštívit některé tradiční spolky, kterých je tu spousta." {WORDmetal}{WORDguilds}{WORDplants}
+"Kov je pro nás velmi důležitý. Jsme jediná kultura, která zná rituál Bohyně Země. Umíme pracovat v dolech a těžit rudu a drahé kameny. Mnozí se snažili to napodobit. Ale s naší vírou se neslučuje, abychom zneužívali poklady našeho světa. Kdo se o to pokusí, pocítí hněv Matky Země a potká ho velké neštěstí." {WORDritual}{WORDMother Earth}
+"Nejdůležitější cechy jsou společenství horníků a horských kněží, dále cech leštičů diamantů a cech kovářů zbraní. Všechna tato společenství mají svůj cechovní dům ve městě. Nejdůležitější členové společenství se tu pravidelně sektávají. Cechovní domy jsou také otevřeny hostům." {WORDDiamond Polisher}{WORDMiners}{WORDWeaponsmith}{WORDEquipmentmaker}
+"Tento rituál smí řídit jen horští kněží. Vzdáváme úctu Matce Zemi a je nám dovoleno zemi otevřít a těžit rudu a drahé kameny. Nemůžeme si však vzít víc, než nám Bohyně dovolí. Samozřejmě že tento obřad je tajný a nikdo vám toto tajemství nevyzradí."{WORDMother Earth}
+"Vládne nad zemí a trestá každého, kdo se vůči ní dopustí zločinu. Ti, kdo neprovozují rituál budou stiženi jejím hněvem a neštěstím." {WORDwrath}{WORDbad luck}{WORDritual}
+"Pokud zanedbáte obřad, chodby se bortí, dělníci se propadají do šachet, všechno exploduje, nemůžete se nadechnout a dějí se různé hrozné věci."
+"Výroba zbraní je nejstarším řemeslem v našem městě. Kromě tradičních nožů a bodných zbraní, štítů, helmic, se vyrábí i mnoho dalších věcí."
+ "Horníci těží rudu a drahokamy, zatímco horští kněží provozují náboženské obřady a klaní se Matce Zemi. {WORDritual} Společenství je velmi důležité, protože všechny další cechy používají hrubý materiál. Umíte si asi představit, že je to zdrojem problémů a často dochází ke konfliktům." {WORDreligion}
+"Zpracovávají drahokamy z dolů a vyrábí z nich cenné šperky. Většina se jich vyváží. Také prodávají šperky zde."{WORDprice}
+"Naši výrobci vybavení mají vždy hodně práce s novými vynálezy. Je neuvěřitelné, co všechno jsou schopni vymyslet. Už jste asi slyšeli o fenomenálních skákacích zbraních, nebo jste viděli bytelný zámek na dveřích či kufru. To byla jistě práce výrobců vybavení. Lidé z tohoto cechu přicházejí často s novými nápady a někdy zapomínají na naše náboženství."
+"Je to opravdu velmi drahé....."
+"Na severozápadě, blízko cechu horníků najdete hostinec "Rudný Důl". Je to jediná taverna tady, ale je dost velká."
+"V Umajo-Kenta není stručně řečeno žádná oficiální radnice, Pokud máte nějaký požadavek, nebo problém, musíte jít za předsedou magistrátu. Najdete ho v severovýchodní části města."
+"Kdysi žil v našem městě léčitel. Ale protože žijeme na vysoké úrovni, jen málokdo někdy onemocní. Léčitel byl většinou bez práce. Jednoho dne se odstěhoval pryč. Od té doby musíme shánět doktora, když někdo z nás onemocní. Nebo vezmeme nemocného na velký ostrov. ^ ^ Můžete si koupit prostředky proti nevolnosti, otravě a podobně. Jsou k dostání v našich obchodech se smíšeným zbožím."
+"Kounos je malá vesnička, kde se stále žije tradičním způsobem. Je těžké popsat cestu do Kounosu, protože leží v pásu hor velkého ostrova. Je to odtud dost daleko."
+"Srimalinar je malé, krásné iskaiské město. Ale je odtud velmi daleko. Nachází se na severu země, severně od Belovena, na druhé straně horského pásu." {WORDIskai}
+"Náboženství je také velmi důležitou součástí našeho života. Věříme v Matku Zemi, které musíme děkovat za své bohatství. A samozřejmě také věříme v rituály a starou tradici, která nám umožňuje žít tu tímto způsobem." {WORDmother}{WORDritual}
+"Pokud vím, žádní Iskai tu nežijí. Dávají přednost vybrané vegetaci a tropickému klimatu. My sice máme ve městě nějaké rostliny, ale skoro všude kolem je poušť." {WORDplants}
+"Naštěstí jsou ve městě dvě fontány, které zajišťují dobrou pitnou vodu, kterou též zaléváme naše krásné palmy, stromy a trávníky." {WORDwater}
+"Na severu je městská brána. Je přímo za malou strážnicí."
+"Vždycky nás potěší, když cizinci platí v našich obchodech tvrdou měnou. Najdete tu velký sortiment zboží. Je tu obchodník se zbraněmi, armádní výzbrojí, prodejce potravin a obchod se smíšeným zbožím. Několik obchodů je přímo součástí cechovních domů. V obchodech se smíšeným zbožím můžete najít vybrané klenotnické kousky, ale také nejnovější výrobky od výrobců vybavení."{WORDguild}
+"V Umajo-Kenta se platí zlatými mincemi. Samozřejmě existují i jiné druhy měny, kterou můžete použít při obchodování s některými lidmi, ale já bych to už nikdy neudělal...he he."
+"V Albionu jsou tři podnebné pásy: mírný, teplý a pouštní. Já osobně to mám nejraději tady v poušti."
+"To jsou Druidové. Ovládají černou magii. Nechci s nimi mít nic společného."
+"Přístav Umajo-Kenta leží na jihozápadě. Nemůžete ho minout, když půjdete na jih. Mezi Belovenem Umajo-Kenta je lodní spojení." {WORDUmajo-Kenta}
+"Většina lodí převáží zboží do Umajo-Kenta a naopak. Také jsou tu lodě pro osobní přepravu. Lodní spojení mezi Belovenem a Umajo-Kenta je pravidelné." {WORDUmajo-Kenta}{WORDship}
+"Ano, pěkné počasí, že?"
+"Skeima Din. No, v podstatě to znamená "krásný den."
+"Co se týče zpracování kovů, máme monopol. Kromě nás nikdo neví, jak těžit rudu, aniž by se poškodila Matka Země."{WORDmother}{WORDMiners}
+"Je tu rudný důl, který leží v západní části města. Je tu také hostinec stejného jména."
+"Je to na severu země. Je to velmi daleko, pokud jdete pěšky. Vchod je na velkém útesu."
+"Znáte ji? ^ ^ Nelly byste se raději měli vyhnout. Bude vás vodit za nos a hrát svou hru na neviňátko. Určitě o ní nic nevíte, protože byste věděli o potížích, které už způsobila."
+"Kde jste tohle slyšeli? Nakukal vám to Zard, ten pesimista? S umíněností tvrdí, že něco velmi podivného slétlo dolů z nebe.^ ^ Připouštím, že bylo na jihu slyšet nějaký hrozný hluk, ale myslím, že to byla jen jedna ze zdejších divokých pouštních bouří."
+"Někde se tu asi potuluje. Když jí najdete, měli byste na to být předem připraveni. My ji také hledáme. Synja, ubohé děvče, byla její první nevinnou obětí, a jestli Nelly hned nenajdeme, brzy budou další."
+"Dali jsme jí to. Přesně co si zasloužila. Ubohý život... Nepřežila to a jsem rád."
+"V poušti přirození není moc života, ale vždycky se tu najdou místa, kde je snesitelné podnebí - jako tam, kde jsme vystavěli naše město. Vodu čerpáme z přírodních pramenů a také používáme dešťovou vodu. Potraviny nám přiváží lodě."{WORDships}{WORDclimate}
+"Je tu pro nás dost vody k přežití, ale musíme být opatrní. Nesmíme používat mořskou vodu, protože je moc slaná. Získáváme tedy vodu z přírodních pramenů v zemi a shromažďujeme dešťovou vodu. Protože neprší moc často, musíme často čerpat z pramenů."
+"Je to známý sběratel drahokamů."

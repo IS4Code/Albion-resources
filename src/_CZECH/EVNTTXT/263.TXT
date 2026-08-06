@@ -1,0 +1,11 @@
+﻿{BLOK000} "Já jsem tady hospodský. Dali jste si už moje sugo? Je opravdu dobré."
+"Pojďte blíž, Skeima Din! Mám pro vás nějaké informace. Zajímá vás to?" {BLOK012} "Ne, díky." {BLOK013} "Podle toho o co jde." {BLOK014} "Ano, zajímá." {WORDinformation}
+"Dobře, když vás to nezajímá , tak vás to nezajímá. Chcete si koupit nějaké jídlo?" {BLOK010} "Ano, prosím." {BLOK011} "Ne, díky."
+"Mohlo by vás to zajímat. Týká se to rady v Belovenu." {BLOK015} "Proč by nás to mělo zajímat?" {BLOK016} "Tak to nás to zajímá."
+"Samozřejmě, ale nic není zadarmo... co takhle nějaké zlaťáky."
+"Možná se vám podaří použít tuto informaci k vašemu užitku."
+"Nazdar. Chovejte se jako doma. Dáte si něco k pití?" {BLOK010} "Ano, díky." {BLOK011} "Ne, děkujeme."
+"Já jsem Edjirr."
+"Slyšel jsem že spolehlivého zdroje, že se v Rada Spravedlnosti v Belovenu chystá spiknutí. Chtějí zavraždit prezidenta. Je tam někdo, kdo má v radě velký vliv. Nevím kdo to je, ale jeho vliv bude bez Herrase větší. ^ ^ Přirozeně se nemohu zaručit, že je to pravda. ^ ^ A promluvte si s Arrimem, jenž žije v domě nájemných dělníků. Můžete se od něho naučit důležité věci."
+"Dáte za to 80 zlaťáků?"
+"Neobjednávejte si, na co nemáte."

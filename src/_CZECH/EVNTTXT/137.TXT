@@ -1,0 +1,9 @@
+﻿{BLOK000}"Jsem obchodník. Právě podnikám pro Wanii."{WORDWania}
+"Dsarii-ma! Tak vy jste ti lidé, slyšel jsem o vás!"{WORDhumans}
+"Dsarii-ma. Tak jsme se znovu setkali."{WORDwares}
+"Nakupuji zboží pro její obchod."{WORDwares}
+"Vše, co může být potřeba. Mimochodem, máte co nabídnout?" {BLOK010}"Ano, myslím, že tady pro vás něco mám."{BLOK011}"Ne, ne. Právě teď ne."
+"Velmi špatně. Jsem znám svými dobrými cenami. Víte, že jsem rád, když se lidé vrací."
+"Dsarii-ma. Tak jsme se znovu setkali."{BLOK010}"Rádi bychom vám něco nabídli, Rabire."
+"Waniin obchod najdete v přístavní oblasti, v jihovýchodní části města. Stojí za to, ho navštívit!"
+"Tak, co pro mne máte, {LEAD}{NAME}?"

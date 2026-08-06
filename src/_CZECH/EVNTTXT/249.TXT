@@ -1,0 +1,14 @@
+﻿"{BLOK000} "To je má funkce, vést a řídit Radu Spravedlnosti."
+"Tady jste! Pořád tomu nerozumím, ale vaše teorie byla správná. Někdo mě opravdu chtěl zavraždit. Nevím jak vám poděkovat. Zachránili jste mi život. V každém případě na vás čeká velkolepá odměna." {WORDreward}{WORDassassination}{WORDdiscrepancies}{WORDrumors}{WORDwarning}
+"Stalo se to uprostřed noci. Slyšel jsem vykřiknout straže, kteří stali před mými dveřmi. Kdybych si nedal pod polštář těžkou šavli, nebyl bych se schopen sám bránit. útočníci byli natolik překvapeni z mé urputné obrany, že utekli. Byli maskováni a já je nemohl poznat, ale řekl bych, že to mohli být Gard s Rikem. Kromě toho právě zmizeli. Ještě nemám žádnou ochranu, ale myslím, že už mám jisté kontakty. Kdybych nebyl tak dobře připraven, už bych tu asi nebyl. Doufám, že přijmete tu odměnu jako vyjádření mých díků. {WORDreward}{WORDPerron}{WORDwarning}
+"Opravdu si to zasloužíte! Vemte si tenhle klíč a jděte do pokladnice na radnici. Vemte si všechno co chcete."{WORDkey}
+"Dal jsem vám klíč nebo ne? Myslel jsem to vážně - vemte si všechno co chcete!"{WORDkey}
+"Klič je od místnosti s pokladem. Myslím, že to naleznete sami nebo ne?"
+"Co očekáváte? Musíme jmenovat nové radní, když je jisté, že Gard a Riko byli součástí toho spiknutí. Teď mohu vyřešit důležité problémy."
+"Nemyslím, že už je tady uvidíme."
+"Perron je velmi otevřený a já vím v čem za něm stojím. Někdy svou otevřenost přežene a to je velký problém."
+"Tak se říká našemu městu."
+"To jsem já."
+"Dobrá, stále nevím co je na tom pravdy, ale slyšel jsem, že víc a víc strašlivých příšer vychází ze svatyně. Raději tam vůbec nechoďte; je tam tabu, které znemožňuje lidem, aby vstoupili do svatyně a ta patří Iskaium."
+"Radnice je nejkrásnější stavba v Belovenu. Měli byste se tu trochu porozhlédnout. Nikdo vás nebude zastavovat."
+"Znovu vám mockrát děkuji za vaší informaci. Vybrali jste si odměnu?"

@@ -1,0 +1,7 @@
+﻿{BLOK000} "Jak vidíte, mám malý krám, kde prodávám potraviny. Doufám, že vás nevyděsí vysoké ceny." {WORDprices}
+"Skeima din, ^ ^ Mám zde chutné maso a čerstvé pečivo. Co byste rádi?" {BLOK010} "Rádi bychom si koupili něco k jídlu." 
+"Skeima Din, je tu čerstvé ovoce a sugo z Belovena. Vyberte si z našeho jen kvalitního zboží." {BLOK010}"Rádi bychom si koupili něco k jídlu."
+"Díky moc. Mějte set."
+"Můžete říct, že jeto drahé, ale nezapomeňte, že potraviny jsou dováženy lodí. V poušti se nedá nic pěstovat a  voda je zde velmi vzácná. Mořská voda se použít nedá a dešťová je vzácná. A také ji používáme pro rostliny ve městě. Ale obyvatelé Umajo-Kenta se tady mají dobře, protože horníci mají monopol na železo.Cizinci tvrdí, že je tu velmi draho, ale zde nic levnějšího nenajdete." {WORDmonopoly}{WORDdesert}{WORDplants}{WORDwater}{WORDbuy}
+"Bohužel vám nemohu udělat zvláštní cenu, ale za to se vám zaručím za kvalitu mého zboží." {WORDwares}
+"Potraviny si můžete nakoupit u Zeibe. Prodává všechno možné, od mečů až po hojivé masti. Pokud sháníte zbraně, pak raději jděte k Jerosovi. Tem má větší nabídku. Já prodávám potraviny a šperky seženete u Mykonou. Najdete ho v cechu  Brusičů diamantů. Jeros prodává na trhu a  Zeibe má vlastní obchod, který se nachází blízko." {WORDDiamond Polisher}{WORDWeaponsmith}

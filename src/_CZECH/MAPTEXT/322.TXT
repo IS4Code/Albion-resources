@@ -1,0 +1,218 @@
+﻿free
+Hořící pochodeň.
+Pochodeň.
+Závěs na zdi.
+Police s knihami.
+Sud.
+Velký sud s otvorem pro stáčení.
+Pípa.
+Koberec.
+Pohovka.
+Křeslo.
+Maxi křeslo.
+Lavička.
+Postranní stolek.
+Kuchyňský stolek.
+Konzerva.
+Psací stůl.
+Přikrývka.
+Prázdné police.
+Klobásky a plátky masa visící a sušící se.
+Různé druhy nepotřebností se tu ledabyle povalují a stěžují tak otírání prachu.
+Ohniště (krb).
+Skleněná láhev.
+Postel.
+Kabinet.
+Sekretář.
+židle.
+Prázdný tác.
+Nádoba.
+Pohár na pití.
+Talíř.
+Sklenice, šálky, nože.
+Na talíři si trůní samé kulinářské delikatesy.
+Kniha.
+Bylinky.
+Koláčky.
+Koření.
+Role šunky.
+Aromatický kořen.
+Rozevřená kniha jejíž titul zní: "Důležitost interpunkčních znamének v kontexu stylistickém i jazykovém podléhající politické korekci."
+Různé druhy knih.
+Tato kniha kritizuje právo obratlovců na život.
+Dlouhá, vkusně vyřezávaná tabule.
+Ostrý kuchyňský nůž.
+Láhev.
+Poškozená láhev.
+Dřevěná bednička.
+Skleněná nádobka.
+Polštář.
+Dveře.
+Trouba na ohřívání jídla a nápojů.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+"Zdravím! Zastav se u Althey v jihovýhodním křídle budovy. Pro návštěvníky má zajímavé nabídky."
+"Rád bych pracoval v tomto domě. Na světě jsem viděl spoustu míst, ale tento ostrov je nejkrásnější."
+"Zdravím vás návštěvníci! Už jste rozmýšleli? Promluvte s Nemosem; zná místa osvěty."
+Tato rostlina pumpuje vodu.
+PHASE 2!
+PHASE 3!
+Tom a jeho společníci si sotva zvykli na elegantní architekturu domu, když narazili na jakýsi návštěvní pokoj. Očekávalo je malé setkání lidí a Iskaiů...
+"Opět tě zdravím Tome Driscolle. Dříve, než ti povím o tomto místě, dovol mi představit lidi, kteří patří do našeho shromáždění. ^ ^ Kromě Sebai-Giz Frilla, kterého již znáš z Jirinaaru, zahrnují Drannagha, učence magie a mistra umění ve vytváření magických objektů."
+"Vítej mezi Osvícené."
+"Sebai-Dre Birrh, mistr v léčení."
+"Dsarii-ma, Tom Driscoll."
+!
+"Irkith, učenec ság a příběhů z dávných časů."
+"Buďte zdrávi cizinci."
+"A konečně Harriet, náš nejmladší člen. Slyší hlas Animebona."
+"Zdravím tě Tome Driscolle a Rainere Hofstedte."
+"Tome, vysvětlím vám, kde jste a co od vás chceme. Musím být stručný, proto se vám má řeč bude možná zdát neskromná. ^ ^  Jsme skupina lidí, kteří si říkají Dji Cantos nebo taky Osvícení. Skutečné jméno naší organizace, směsice Iskaiských a lidských výrazů, vyjadřuje, že naše organizace byla založena před dávnými lety lidmi a Iskai. členové naší skupiny mají hlubší znalosti o struktuře tohoto světa než běžní učenci. Kdykoliv pozoruhodný člověk dosáhne určitého stupně znalostí, prozradíme mu naše tajemství, které z něho dělá jednoho z Osvícených Dji Cantos. ^ ^ Naše společnost začala, když se lidé stěhovali na Albionu. Velký Cantos, vůdce lidí, založil naši skupinu téměř před 2000 lety společně se dvěma nejvýznamnějšími učenci Iskaiů. Sdíleli znalost energie, která umožnila lidským bytostem transport právě sem. Je to také zdroj magie tohoto světa. Oni a my, jako jejich dědici, víme o existenci Animebona, bytosti tohoto světa." 
+"Pokračuj prosím. Co je význačné na této Animeboně?"
+"Animebona je souhrnem veškerého života tohoto světa a dokonce má své vlastní myšlení a cíle. Stopy jejích kořenů se dají nalézt ve spoustě regionů v Albionu, jako bohyně Iskaiů nebo Danu lidí. ^ ^ Byla to ona, kdo mluvil s Cantosem a vedla lidi sem skrz Zemi Mlhy.
+"Omluvte mě, ale bude ještě spousta času později na ukojení vaší žízně po znalostech, důstojný Rainere. ^ ^ Prozatím pouze potřebujete znát, že se znalostmi tohoto světa jsme převzali určitou odpovědnost. Od té doby, co Frill oznámil váš příjezd do Jirinaar naší skupině, sledovali jsme vás a zapisovali si informace."
+"Víte, kde se nachází naše největší vesmírná loď Toronto?"
+"Ano Tome Driscolle, opravdu víme kde tento gigantický kovový kolos přistál, a i když přistál na Velké Poušti, muselo nás to zajímat. ^ ^ Ta loď je ztělesněním všech důvodů, proč Cantos před mnoha lety vedl své lidi z Animenkna. Nyní nás Helromier vyrovnal, nebo se to přinejmenším zdá."
+"Nemosi, naprosto nerozumím tomu, co říkáš. Cožpak obyvatelé Albionu doposud nenašli Toronto?"
+"Podle našich informací ne. Ale my nejsme vševědoucí, Tome Driscolle. ^ ^ Až doposud tvé činy dokazovaly tvoji důvěryhodnost. Proto bychom rádi vybudovali spojení mezi našimi a tvými lidmi. Rádi bychom znali cíle Helromierů na našem světě."
+"Podle našich informací ne. Ale my nejsme vševědoucí, Tome Driscolle. ^ ^ Až doposud tvé činy dokazovaly tvoji důvěryhodnost. Proto bychom rádi vybudovali spojení mezi našimi a tvými lidmi. Rádi bychom znali cíle Helromierů na našem světě."
+"Rád. Již teď by měla být založena výzkumná stanice. Jsem si jistý, že moji lidé budou chtít vše zdokumentovat  a budou také pokládat ohromné množství otázek. Skupina nejlepších učenců tohoto světa je, přirozeně, ideálním zdrojem informací. ^ ^ Byl by jsi tak laskav a nápomocen a pokračoval s námi k místu přistání Toronta?" 
+"Děkuji ti za tvé dobré úmysly, Tome Driscolle. Jako důkaz naši důvěry bych ti rád dal tento malý kámen. Slouží jako znak nejvyššího uznání naší společnosti a také tě bude chránit před neštěstími." ^ ^ {INK 001} Nemos umístil malý kamínek na Tomovu hruď. Pevně se přilepil na jeho kůži. {INK 002} ^ ^ Tvoje gigantická loď se nachází v zemi Umajo, daleko na severozápad odtud. ^ ^ Proto, aby cesta byla co možná nejrychlejší, a předpokládejme že souhlasíš, rádi bychom aby jsi vzal sebou Harriet jako svého společníka. ^ ^ Jako členka naší skupiny má přístup k možná největšímu magickému Animebonu, který je pro nás dostupný: ^ ^ Jeskyně Bohyně umožňuje rychlou přepravu, přesně tak, jako když Animebona přivedl Canta a jeho lid na toto místo."
+"Dostáváme se k bodu, kde mě již nic více nepřekvapí."
+"Trpělivost Rainere. Nemosi, rádi přijímáme tvoji nabídku. ^ ^ Harriet, vítej v naší malé skupině."
+"Určitě to bude velmi zajímavý výlet, Tome Driscolle."
+Hariet se stala členkou družiny.
+"Ačkoliv se s Helromiery chceme setkat velmi brzy, stále si musíme nalézt čas na úvahy a diskuse."
+"Už si to velice přeji! Rád bych se naučil více!"
+"Nyní se vrátíme ke každodenní práci, ale každý z nás ti Tome rád odpoví na tvé otázky, obzvláště pak Rainer. ^ ^ Rozhlédněte se po domě a načerpejte sílu na cestu - možná malou meditací v přírodě okolo. Ta byla obzvláště požehnána Bytostí. Její síly zde budou silnější. ^ ^ Pokud nikdo nemá žádné námitky, ukončuji toto shromáždění."
+Nikdo nemá námitky a skupina se pomalu rozchází.
+"Toto je vchod do jeskyně, kde můžeme zahájit cestu s pomocí Animebonaů. Tome, jsi si jistý, že chceš nyní odejít nebo raději zůstaneš o něco déle?"
+Jít do jeskyně a pokračovat v cestě?
+Právě když všichni hledí směrem ke vchodu do jeskyně, Rainer promluví:
+"Tome, dovol mi něco říci. Toto místo vědomostí mě silně přitahuje; je tolik věcí, které bych se mohl naučit od těchto lidí. ^ ^ Zkrátka řečeno, zůstanu zde. ^ ^ Rád bych se ponořil do tajů tohoto světa a mohl se brzy navrátit na palubu Toronta. Tedy členové spojovacího týmu by zde pak měli mít známé spojení. ^ ^ Myslím si, že to zvládnete i bez mé spolupráce, že?"
+"Měli jsme toho spolu dokončit více Rainere, budu postrádat tvé přátelství. Mělo mi být jasné, že by jsi nemohl postrádat tyto učence. Tolik kolegů zde, hmm? ^ ^ Přeji ti vše nejlepší. Uvidíme se brzy: Brzy se vrátím s prvním kontaktním týmem."
+"Držím ti palce Tome. Brzy na viděnou! ^ ^ Och ano, tady... vezmi si moji výzbroj. Už ji nebudu potřebovat."
+Rainer se rozloučil se všemi z družiny a rozdělil jim své věci. Pak se vrátil do domu. Tom s ostatními vstoupil do jeskyně...
+"Harriet, možná by bylo lepší chvíli počkat."
+Tom se svými společníky vešli do vstupní haly Cantova domu. Osvícení se rychle shromáždili. ^ ^ Tom, sotva dechu popadaje, oznamoval plány, které palubní počítač a Kapitán Brandt hodlají uskutečnit: ničení planety bude pokračovat.
+"Naše nejhorší obavy se potvrdily. Animenknané nás konečně dostali. Měli jsme počítat s tím, že bychom mohli čelit stejné situaci jako naši praotci."
+"A jsi si jistý, že několik tuctů Helromierů, ať už jsou jejich lodě jakkoli velké, znamenají hrozbu pro celý náš svět?"
+"Birrhu, musíš si uvědomit, že tato loď je schopná se zvětšovat. Zařízení se rozrůstá víc a víc. Jde o samoudržovací proces. Zabere to čas, ale poškození Albionu je nezměřitelné."
+"Podle všeho se mi Tome zdá, že tě znepokojuje chování tvých helromierských společníků. Znamená to tedy, že jsi na naší straně?"
+"Nemosi, prozkoumal jsem podstatnou část tohoto světa a mé cesty mě přivedly blíže k Albionu a jeho obyvatelům. Proto zajisté protestuji proti pokračování projektu, ale potom, jak se k nám zachovali na palubě Toronta, jsem připraven udělat cokoli. Vedení lodi chce krveprolití!"
+"Co se vlastně stalo?"
+"Abych to zkrátil, tady Joe mě zachránil. Pak jsme se snažili vyřadit palubní počítač abychom mohli informovat posádku o tomto světě. ^ ^ Vznešený Dji Cantosi, měl by si vědět, že ne každý na palubě Toronta je připraven úmyslně obětovat životem nasycený svět. ^ ^ V každém případě jsme prohráli. Palubní počítač nás informoval, že vedení společnosti udělá cokoli bude nutné, ať již to bude zákonné či nikoli. Jak se zdá, pro společnost je to otázka života a smrti. Během našeho útěku jsme se dozvěděli, proč palubní počítač mluvil tak otevřeně o plánech společnosti: byla to past. ^ ^ Zachránili jsme si životy jen díky malému kamínku, který jsi mi Nemosi daroval."
+"Počítal jsem s nekalými triky společnosti, ale nedokázal jsem odhadnout, že by to mohlo dojít až tak daleko."
+"Přemýšlej o tom. Byl to spolehlivý plán: náhodná smrt inspektora pracujícího s nenahraditelnou jednotkou COM. žádný způsob jak se spojit se Zemí. Během doby vyšetřování by celá věc skončila. Vláda si nemůže dovolit poslat sem někoho jiného."
+"Nyní vyvstává otázka: Co budeme dělat?"
+"Ty Dji Cantosi jsi nám pověděl o Animeboně, o bytosti tohoto světa. Cožpak jsi neřekl, že má určitý druh vědomí? To bude tolerovat ničení sebe sama?"
+"Ano, přirozeně se Animebona bude snažit bránit."
+"Měl jsem podivné vidění když jsem čekal na tebe Tome. Svět, Bytost cítí...bolest."
+"Tome, vzpomeň si na to, co se stalo, když jsme začali těžit suroviny. Pochopil jsem pouze polovinu toho, co zde bylo řečeno, ale obtíže, kterým jsme čelili na začátku nebyly normální. ^ ^ Ale všechno se zlepšilo, když jsme angažovaly do celé věci více prostředků." 
+"Animebona není všemocná. Nezaútočí proti kopáčům vyzbrojenými lopatami a snažícími se zneuctít její tělo. ^ ^ Naproti tomu je považována za ztělesnění Amineknů. Její magie zmůže velmi málo proti zásadám Animenknů, důvodu proč naši lidé utíkali před mnoha lety."
+"Znamená to, že jsme proti kovovému kolosu bezmocní?"
+"Musíme přemýšlet. Jsem rád, že tři z Helromierů, včetně učence, přešli na naši stranu. Možná, že společně nalezneme cestu jak odvrátit nastávající hrozbu."
+Zatímco Tom a Joe odpočívali, jeden z Osvícených a Rainer udržovali živou a horlivou diskusi. Příští den se Tomovi a jeho společníkům dostalo jejich rozhodnutí.
+"Myslíme si, že jsme našli možné řešení. Určitě to bude nejobtížnější magická operace, jakou jsme kdy podnikli, ale může nám poskytnou aspoň jakous takous šanci."
+"Neříkal jsi, že magie nemůže zaútočin na Toronto?"
+"A to byl právě náš problém. Ale s pomocí Rainera Hofstedta se o to můžeme pokusit. Neměli bychom zaútočit na Animenkny, technologický základ Helromierů; měli bychom z toho udělat část magického procesu, abychom mohli z kovového kolosu přesednout do něčeho jiného."
+"Bohužel plán má jednu nebo dvě vady."
+"To, co se Rainer Hofstedt snaží říci je to, že vytvoříme magický artefakt. Jeho síla bude obrovská, ale ne úplně předvídatelná. A musí být použit na velký zdroj energie uvnitř lodi."
+"Abych byl přesný, na fúzní reaktor."
+"Zpomal, zpomal. Takže první muška je ta, že {FAT } se {NORS} musíme vrátit k Torontu. A {FAT } co {NORS} musíme udělat, proč to musí být zrovna reaktor?"
+"Pokusíme se vytvořit něco, čemu říkáme SEMíNKO. Je to spojení velmi rozdílných magických principů. Většinu znalostí o tvorbě tohoto semínka máme k dispozici. ^ ^ Ačkoliv postrádáme dvě klíčové informace. Ty  drží dvě rozdílné kultury, které spolu málokdy spolupracují. ^ ^ Prvními jsou Kováři nebo Umajo. Jak již bylo řečeno, musíme zapojit animenknaské principy do naší práce, aby to mělo nějaký účinek na loď. Umajové pracují na hranici mezi Animenknou a Animebonou. Zabývají se jak technologiemi, tak magií. Od nich se potřebujeme naučit, jak lze ovlivnit kov za pomoci magie. ^ ^ Bohužel se obávám, že Umajové se nebudou chtít podělit o své znalosti s cizinci."
+"Chápu. A ta druhá věc?"
+"Je také zapotřebí vědět, jak takové množství energie ovládnout. Jen Kenget Kamulosové mají tuto zkušenost."
+"Kult vrahů!"
+{INK 001} Khunag se nepatrně pousmál. ^ ^ {INK 002} "Toto je hlavní oblast magie Kenget Kamulos."
+"Kengeťané jsou na tom dobře i co se týče hospodářství. Pokusíme se jim nabídnou zajímavou nabídku. Naše komunita je mnohem bohatější než by se mohlo zdát."
+"Mohl bych se pokusit uzavřít dohodu s mými bývalými bratry. Mohl bych se o to pokusit."
+"Tedy Nemosi: nejdříve musíme získat chybějící znalosti, a pak, jak říkáme, musíme skočit do jámy lvové. Na Torontův reaktor použijeme magicky nabitý objekt, a pokud jsem to dobře pochopil, nikdo vlastně neví, co to udělá. ^ ^ že?"
+"Hmm, podle tebe, hmm, ano, tedy celkově vzato to tak je. Ty a tví společníci jste zdatní v boji a máte i tolik potřebné zkušenosti. Ale pochopili bychom, kdybyste..."
+"O.K., O.K., ušetříme vás vašich obav. Stěží mohu teď říci 'ne'. Jestliže i ostatní jsou připraveni riskovat, můžeme vyrazit."
+Nikdo není proti.
+"Dobrá. Dovolte mi tedy, abych to shrnul: ^ ^ Vydáme se k Umajům a pokusíme se získat znalosti týkající se vlivu magie na kov. Rovněž se musíme dostat do centra vražedného kultu jménem Kenget Kamulos a přijdeme tam s nabídkou, která se doufejme neodmítá. ^ ^ Pak se můžete pokusit vyvinout magické semínko, které vezmeme do reaktoru na Torontu a pak už budeme jen čekat a sledovat, co se stane."
+Všichni souhlasně přikývli, pak promluvil Joe.
+"Mám nápad: Zatímco budete riskovat svůj krk, starý Joe bude vše zaznamenávat. Nahraju vše s kamerou, kterou mám. Při troše štěstí se nám podaří nahrát záznam do lodní komunikační sítě až dorazíme na Toronto. Když se nám podaří zablokovat palubnímu počítači přístup k ovládacímu panelu alespoň na několik minut, můžeme vysvětlit vše o planetě a varovat každého aby opustil loď."
+"To zní dobře. Teď to ještě uskutečnit."
+"Přátelé, nemáme žádný důvod, proč bychom se měli ještě zdržet. Pojďme a získejme to, co ještě potřebujeme."
+Dji Cantos předal 1500 zlatých a rozpustil shromáždění. Tom a jeho společníci jsou připraveni vstoupit do jeskyně Bohyně.
+Tom a jeho společníci svolávají Osvícené a pyšně jim podávají dva svitky s důležitými informacemi. ^ ^ Vyčerpaní společníci a Dji Cantos studují svitky. O něco později se koná další shromáždění...
+"Děkuji ještě jednou za svitky! Připravovali jsme se na to mnoho dní. Vedli jste si velice statečně. Teď již je dokončení úkolu na nás."
+Dji Cantos s Harrietem, vytvořili kruh ve vstupní místnosti a ponořili se do hluboké koncentrace. Za okamžik je místnost zahlcena oslnivým světlem!
+Vyčerpaní, jeden za druhým, opouštějí kruh. Za chvíli zůstávají pouze Nemos, Drannagh a Harriet. Světlo pomalu pohasíná a odhaluje všemocné dílo, vzešlé z úsilí největších magických talentů této planety.
+"Je dokonáno. Díky ti Animebono!"
+S obřadnou úctou Nemos představuje družině úchvatný objekt, který vypadá jako obrovské semínko.
+"Toto je podstata Animebony. Nechť magie protentokrát zvítězí nad animenknaskými principy racionálna. Užijte toto semínko ve jménu dobra."
+"Děkuji ti Nemosi. ^ ^ Ehm, toto semínko nevypadá příliš mocně, nemyslíte?"
+{INK 001} Nemos se neočekávaně rozesmál. {INK 002} ^ ^ "Počkejte! Strom, který vyroste z normálního semínka je impozantnější než to, z čeho vzešel. ^ ^ Nyní je čas, abyste vzali semínko na místo určení. Tome, dobře si rozmysli, které společníky si hodláš vzít sebou na tento nebezpečný úkol. Sestav vhodnou partu a pak již déle neotálej. ^ ^ Vkládáme veškerou naši naději do tebe a tvých společníků."
+"Provedeme to, jak nejlépe dokážeme. Jakmile sestavím dobrý tým, odcestuji do Umajo Kenty a pak podél hor do oblasti, kde přistálo Toronto. ^ ^ Když jsme předtím prchali z lodi, Joe a já jsme viděli vhodnou cestu kudy by se dalo dostat do vnitř."
+"Je tam postranní vchod s malým zámkem, který byl původně navržen jako východ pro torontské bezpečnostní vojsko."
+"Pokusíme se tam dostat. Než se probijeme k reaktoru, pokusíme se spustit Joeovy záznamy a varovat tak posádku. To může přinést rozruch, který můžeme využít ve vlastní prospěch. ^ ^ Joe, jsou záznamy připraveny?"
+"Samozřejmě. Upravil jsem to tak, aby nejdůležitější části byly na začátku. I když se podaří palubnímu počítači přerušit přenos krátce po začátku, obsah zprávy by měl být zřejmý. Tady..."
+Joe podává záznam a malý čip společníkům.
+"Tento čip by měl na nějaký čas izolovat ovládací panel, který použijeme, před možným zásahem palubního počítače. ^ ^ Dobrá, já jsem svůj úkol splnil. Jen ještě jedna věc: nejsem ani dobrý válečník ani nemám magické schopnosti jako většina lidí zde. Nicméně Tome, rád bych šel s tebou, protože bych mohl být nápomocen, až se dostaneme na Toronto. Záleží to na tobě Tome. Prosím, rozmysli si to."
+"Díky Joe. O tvé nabídce budu přemýšlet. ^ ^ A nyní: Na Toronto!"
+Všichni přítomní přejí misi šťastný průběh a úspěch. útok na Toronto může začít každým okamžikem.

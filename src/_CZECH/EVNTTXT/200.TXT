@@ -1,0 +1,44 @@
+﻿free
+"Líbí se ti Beloveno? Je to velmi staré město, s dlouhou tradicí, a ve velkém přístavu kvete obchod. Je tu pěkná taverna, doktor, hodně obchodů a radnice - krásný dům, na který jsou obyvatelé Belovena zvláště hrdí. V severní části města máme malý park. Je to pěkné místo, kdybyste si chtěli odpočinout. Také je tu blízko hospoda. Už víte, kde je městská brána. Pokud chcete pokračovat v cestě, najděte horský průsmyk."{WORDtavern}{WORDtown hall}{WORDhealer}{WORDcity gate}{WORDmountain pass}{WORDshops}{WORDinn}{WORDharbor}
+"Nebyli jste tu už někdy? Jmenuje se to "Otevřený výčep" a je to ve stejné budově jako hospoda. Pokud tu chcete zůstat přes noc, tohle je to pravé místo. Ve Výčepu se pořád něco děje a čepuje se tu nejlepší sugo."{WORDsugo}
+"Máme velikou radnici, kde se odehrávají všechna naše jednání. Při oficiálních příležitostech se zde schází městská rada. Přes den na radnici také sídlí Městský soud. Radnice je tou největší budouvou v Beloveno a určitě byste ji měli vidět. Najdete ji na Západě."{WORDcouncil}{WORDCouncil of the Just}
+"Městský soud spravuje naše město. Jsou v něm zastoupeni tři radní a předseda, Herras-Qennikos. Pokud něco potřebujete, najdete ho na radnici přes den."{WORDtown hall}{WORDPerron}
+"Sugo je náš oblíbený nápoj. Musíš ho ochutnat! Ale upozorňuji na to, že sugo je kvašená ovocná šťáva s vysoce povzbuzujícími účinky. Ten, kdo není na sugo zvyklý, by ho měl pít opatrně! Nebyl bys prvním cizincem, který po dvou skleničkách nebyl schopen pokračovat v konverzaci."
+"Naše léčitelka se jmenuje Ramina. Její klinikou je malý skromný dům v severní části Belovena. Ramina má vyjímečné znalosti a také je velmi dobrosrdečná. Pokud onemocníte, pomůže vám."{WORDsick}
+"Kounos je malá vesnička, kde lidé stále ještě dodržují tradice. Cesta do Kounosu je strmá a dá se těžko popsat, protože vesnice leží na náhorní plošině. Snažté se najít skalní stěny, na kterých rostou velké popínavé rostliny. S trochou námahy se vám podaří vylézt na náhorní plošinu. Kounos je dost vysoko, ale když budete opravdu hledat, najdete ho."
+"Kontos je druid, který bydlí v Kounosu. Stal se uznávaným náboženským vůdcem. Kontos je velmi inteligentní a slyšel jsem, že je to velmi dobrý kouzelník. Slyšel jsem o něm spoustu dobrého, i špatného."{WORDKounos}
+"Ano, je tu mnoho jeskyní. V některých žijí poustevníci, ale většina jeskyní je prázdných. Je tu také jedna zvlášť velká jeskyně, které se vždycky vyhneme. Je tak velká, že se v ní můžete navždycky ztratit, a bohužel se to také už stalo. Tři obyvatelé Belovena v této jeskyni zmizeli. Ale pokud chcete jít do jeskyní, vezměte si velké zásoby a lano. Vchody najdete podél pásu hor."
+"Možná jste už viděli malá černá zvířátka, která v noci cupitají ulicemi. říkáme jim kritahové, a kromě toho, že mají ve zvyku krást malé lesklé předměty, jsou celkem neškodná. Kritahové žijí v některých horských jeskyních, ale bohužel vám nemohu říct ve kterých přesně."
+"Srimalinar je krásná Iskaiská vesnička. Leží na severu Belovena na druhé straně hor. Stejně jako u obyvatel Kounosu, i tady hraje v životě lidí důležitou roli náboženství. Blízko města je kaple, kterou lidé pravidelně navštěvují. Je tu také spolek kouzelníků."{WORDguild}{WORDshrine}
+"To je sklepení blízko vesnice Srimalinar. Musím vás varovat, že je lepší tam nechodit, protože tabu nedovoluje cizincům vstup do kaple a okolní oblasti. Obyvatel Srimalinaru velmi rozzlobí, když někdo poruší toto tabu! {WORDtaboo}{WORDSrimalinar}
+"Správně, přes úbočí hor vede stezka, která spojuje severní a jižní část naší země. Je to velmi úzká cestička, která je sotva vidět, protože se málokdy používá.Vede přes Kounos a pak pokračuje na sever do Srimalinaru. Nikdy jsem tam nebyl a proto vám o tom nemůžu podat žádné informace."{WORDnorthern side}{WORDsouthern side}{WORDKounos}{WORDSrimalinar}{WORDBeloveno}
+"No, tyhle lebky nejsou zrovna moc moderní. Přesto stále visí v mnoha rezidencích jako dekorativní předměty. Jsou to dědictví našich vzdálených předků."
+"Je to hned vedle městského parku. Je to blízko taverny."
+"To je severní část velkého horského pásu. Tam je Srimalinar. Můžete se dam dostat cestou přes hory."{WORDpass}
+"Všechno dál na jih od velkého horského pásu je jižní strana. Patří tam Beloveno a přístav. Už jste byli někdy na severní straně?" {WORDharbor}
+"Toto tabu se týká kaple v Srimalinaru. Iskaiové v této vesnici berou toto staré tabu velmi vážně!"
+"Pokud hledáte lidí se silnými magickými schopnostmi, pak musíte do vesnice Kontos v Kounosu, nebo hledejte v Srimalinaru." {WORDSrimalinar}
+"Jak vidíte, stavíme své stavby jednoduše a účelně. Naší nejkrásnější budovou je asi radnice." {WORDtown hall}
+"Obyvatelé Belovena nejsou moc nábožensky založení. V Kounosu a Srimalinaru je tomu samozřejmě přesně naopak." {WORDKounos}{WORDSrimalinar}
+"Srimalinar je vesnice na severní straně země, kde žijí Iskaiové. Je tam také společenství kouzelníků."{WORDmagic}{WORDIskai}{WORDguild}
+"Nejbližší společenství kouzelníků je v Srimalinaru." {WORDmagic}{WORDSrimalinar}
+"Městská brána je na severu, přímo za malou strážnicí. Dříve tu bývaly tři městské brány. Tehdy jste také mohli odejít z Belovena na západ a na východ. Můžete tam najít zříceniny malých strážnic."
+"Trh najdete uprostřed, přímo za radnicí. Pokud budete mít štěstí, najdete tržnici otevřenou."
+"Vždycky nás potěší, když cizinci platí v našich obchodech tvrdou měnou. Najdete tu veliký sortiment zboží. Máme zbraně - a vojenské vybavení, potraviny a obchod se smíšeným zbožím. Ramina, naše léčitelka, také nabízí své služby. Většina obchodů je umístěna kolem tržnice." {WORDmarket square}{WORDcurrency}
+"V Belovenu se platí zlatými mincemi. Samozřejmě někteří lidé jsou možná ochotni obchodovat i s jinými druhy měny, ale já o tom nic nevím....hahaha."
+"V Albionu jsou tři klimatická pásma: mírné, teplé a pouštní. Já osobně mám nejraději mírné."
+"Zpracovatelé kovů jsou na východě země a mají monopol na naši kovodělnou výrobu. Zřejmě na ně na cestě narazíte."
+"Nemohu vám toho moc říct o Kenget Kamulos, jen že mají nesmírnou moc a používají černou magii. Já jsem rád, když s nimi nemám nic společného....žijí ve východní části země."
+"Přístav Beloveno je na jihu. Když půjdete na jih, nemůžete ho minout. Někdy můžete už z dálky vidět špičky stožárů velkého množství lodí, které jsou tu zakotveny. {WORDships}
+"Většina lodí převáží zboží do Belovena a naopak. Vlastně tu není moc lodí pro přepravu pasažérů. Pokud chcete cestovat, bude lepší se přesunout po pevnině." {WORDby land}
+"Mám na mysli cestu přes horský průsmyk!" {WORDpass}
+"Před mnoha lety hodně lidí ve městě onemocnělo záhadnou nemocí. Proběhlo to v několika vlnách. V některých případech tato nemoc dokonce způsobila smrt. Naštěstí už asi nikdo touto nemocí netrpí."
+"To je také v našem městě."
+"Pěkné počasí, co?"
+"Herras je předsedou soudního zastupitelstva."
+"Perron, Gard a Riko jsou členové soudního zastupitelstva. Jejich předsedou je Herras."
+"Skeima Din. No, v podstatě to znamená "krásný den."
+"To je jméno naší země."
+"Jsou to opatrované souhrnné položky."
+"Herras byl předsedou soudního zastupitelstva."
+"Nevím, kde jsou."

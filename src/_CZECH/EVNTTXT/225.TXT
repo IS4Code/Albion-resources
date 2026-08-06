@@ -1,0 +1,4 @@
+﻿{BLOK000}"No, broučánci, myslím že můžete podle mého oděvu uhádnout, kde pracuji. Přijďte mě tam někdy navštívit! Samozřejmě většina mužů není ochotna připustit, že čas od času zajdou do bordelu."
+"Vítejte, Kariah vás vítá. To je skvělé, že jste se tu opět zastavili. Všichni tu o vás mluví. Ještě jednou bych vám chtěla poděkovat za vaši pomoc. Nový koncil odvádí dobrou práci a nálada ve městě - ne, nálada na celém kontinentu, se velice zlepšila. Co chystáte na příště?"{BLOK010} "Je těžké to vysvětlit..." {BLOK011} "Musíme splnit určité poslaní a pokračovat v naší cestě."
+"Výborně. Usuzuju, že vám asi nemůžu nijak pomoci, jinak byste mě požádali o pomoc už požádali. Každopádně vám přeji hodně štěstí a možná, že se ještě setkáme, kdo ví?"
+"To jsem já."

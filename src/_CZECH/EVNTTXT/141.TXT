@@ -1,0 +1,6 @@
+﻿{BLOK000}"Na moři jsem navigátor; nyní odcházím na pevninu."{WORDnavigator}{WORDland leave}
+"Dsarii-ma. Mohu vám pomoci?"
+"Ano, navštívil jsem spoustu přístavů, ale většinou jsem cestoval mezi tímto a Belovenem." {WORDBeloveno}
+"Naše loď je právě nyní prověřována. Mělo by se to odbýt, zatímco se ve městě poohlédnu po nějaké zábavě."{WORDfun}
+"Spoustu zábavy obvykle můžete najít v Domě Větru, krčmě v přístavní oblasti. Zastavte se někdy."{WORDharbor}
+"Přístavní město je na východ, kde je uzavírána spousta obchodů."

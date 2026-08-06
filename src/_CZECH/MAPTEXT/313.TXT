@@ -1,0 +1,174 @@
+﻿free
+Ohniště (krb).
+Svícen.
+Pletený košík.
+Dřevěný stůl.
+Stolička.
+Baldachýnové lože. Díky těm lebkám by se také dalo nazývat "Pekelné lože."
+Psací stolek.
+židle.
+Oheň tu vytváří sloup plamene a vrhá na ztemnělé okolí pitoreskní stíny. Ty mohou vyvolat v náhodném pozorovateli úzkostlivé pocity.
+Sloupec s hrozivě pitvořícím se xichtem.
+Dětská postýlka. Stejně jako většina nábytku ani ona nevypadá dvakrát pohodlně.
+Sud.
+Koberec utkaný ze suchých stébel.
+Skleněná konvice.
+Záclony.
+Truhla.
+Kabinet.
+Pochodeň.
+Povalují se tu drobné nepotřebné předměty.
+Velké dřevěné necky.
+Velké dřevěné police.
+Tuto postel asi zrovna nikdo nevyužívá.
+Rozličné sečné, bodné a střelné zbraně; všechny vypadají nanejvýš nebezpečně.
+Police na zbraně.
+štít.
+Lebka naražená na kůl. Nepříjemný zápach naznačuje, že k tomu hrůznému činu došlo teprve nedávno.
+Na těchto slaměných paňácích se trénují a testují bojovné dovednosti.
+Dřevěná tyč obalená slámou slouží k trénování bojových technik.
+Terč pro střelbu z luku.
+Tác s jídlem.
+Bylinky.
+Truhla.
+Karafa.
+Naběračka.
+Kbelík.
+Lžíce.
+Lžíce a vidlička.
+Pohár na pití.
+Pohár na pití.
+Náčiní na dopravu poživatin z talíře do orálního otvoru (úst).
+Talíř.
+Nádobka.
+Zelenina.
+Koláčky.
+Koření.
+železný talíř.
+Hliněná nádoba.
+Velký skleněný džbán.
+Skleněná nádoba.
+Dřevěná bedna.
+Velká skleněná dóza.
+Láhev.
+Papírky na poznámky.
+Kniha.
+Několik knih.
+Kniha vázaná v kůži. Zdá se být cenná.
+Psací potřeby.
+Otevřená kniha. Na levé straně je vidět technický výkres; na pravé je potom k němu popis.
+Psací brk.
+Těžký, krátký meč.
+Těžká dýka.
+Dveře.
+Ohromná kuchyňská kamna pro přípravu pokrmů a nápojů.
+Závěs na zdi.
+Potrhané závěsy.
+Ošumělé dřevěné postele.
+Zdobený sloup.
+Zvířecí kůže.
+Schody vedoucí nahoru.
+Schody vedoucí dolu.
+Otevřené zásuvky s drobnými předměty.
+Kádinka.
+Pěkné nůžky.
+ Ampulka.
+Těžký meč.
+Ampulky.
+Zvětšovací sklo (lupa).
+Velké utěrky.
+Utěrka.
+Koberec.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+"Musíme se bezpodmínečně pokusit postavit Khunaga na nohy. ^ ^ Určitě by nám mohl dát dobrou radu, která se nám bude hodit právě tady."
+{LEAD}{NAME} se rozhlíží okolo. ^ ^ Toto je zřejmě obydlená část Khamulonu.
+"Máme štěstí! Propadlá půda nás dovedla přímo do vnitřní oblasti! Jsme blízko hlavního vchodu. ^ ^ Všichni Kengeťané nás zde okamžitě napadnou. ^ ^ Dám vám instrukce jak se dostat ke dveřím, které nás dovedou přímo do míst, kde jsou uschováno Vyšší vědění."
+Dveře jsou zamčené.
+"Toto je hlavní vchod do vnitřní oblasti. Dveře jsou obvykle zamčené."
+Kouzelný svitek od Kenget Kamulos leží zde!
+{LEAD}{NAME} vidí křišťálovou sekeru!
+Jsou zde uložené nějaké posilující nápoje!
+{LEAD}{NAME} vidí amulet!
+"Nechoďme touto cestou! Tyto dveře nevedou do místnosti, kde jsou uschováno Vyšší vědění."
+"Toto jsou správné dveře! Vedou do místnosti Vyššího vědění!"
+"Všechny dveře vycházející z této haly vedou do vnitřního prostoru knihoven. Obvykle jsou hojně navštěvovány. ^ ^ Připravme se na možné útoky!"
+"Toto je předsíň před komnatou, kde leží Vyšší vědění. ^ ^ Jsme zde!"
+"Tyto dveře vedou do ložnice a nejsou pro nás užitečné. Myslím si, že bychom měli jít na sever!"
+Dveře jsou zavřené na závoru.
+Arthor, Pán Ceremonií; Rhain, který přivítal Toma a jeho společníky Khamuloňanům; a Cuain, sedí v pokoji za dveřmi! ^ ^ Zmatený Kengetský vetřelec.
+"Co si myslíš! žádný špinavec nesmí vstoupit do této místnosti. A žádný špinavec odsud živý nikdy neodejde!"
+"Rhaine, kroť se. Obzvláště špinavci tě nikdy nesmí vyvést z rovnováhy."
+"Vylož si to podle sebe. Co tady chceš? A jak jsi se sem dostal!"
+"Nepřijali nás a proto jsme museli najít vlastní cestu. Je to důležité. Velmi důležité. Koneckonců, ovlivní to vaši existenci a tak ať je po vašem!"
+"Kdo jsi, kdož hledá smrt a dovoluje si zde promluvit? A kdo jsou tví společníci?
+"Jmenuji se Tom Driscoll, a jako ty, pocházím z planety Země. Pouze jsem se tam narozdíl od tebe i narodil a přiletěl jsem sem ve vesmírné lodi. Moji společníci jsou přátelé, kteří mne doprovázejí na mé misi. Albion je v nebezpečí. Loď, ze které přicházím, již začala ničit vaši planetu, vznešený Cuaine. Potřebujeme vaše Vyšší vědění k zastavení zániku a zničení lodi."
+"Jsi blázen Driscolle. Tvé srdce je zdvořilé a necítí nenávist, která tě doprovází."
+"Byl jsi zrazen pozemšťane! Vyšší vědění je zde, ale ty je nedostaneš. Kengeťané neutečou z poslední války, která byla předpovězena dávno předtím. Vypadá to, že nadešel čas, kdy volání Kamulosů po Poslední bitvě bylo vyslyšeno."
+"Nevím, jakou nenávist máš na mysli, vznešený Cuaine. Ale já vím, že nikdo ve skutečnosti neví, kdo se zúčastnil poslední bitvy. A říká se, že i muži, kteří byli nečestní, mohou zemřít na té správné straně. Ale nikdo neví, čí život se ocitne na té správné straně, když nastane Poslední bitva. Všichni mí společníci chtějí zachránit Albion. Jsme na vaší straně!"
+"Předpokládejme, že máš pravdu pozemšťane. Předpokládejme, že Poslední bitva Kengeťanů bude podpořena právě muži, kteří nepřekonali svůj vztek, ale staví se za jedinou správnou věc, která tu přichází v úvahu. Předpokládejme, že k tomu, abych vyhrál Poslední bitvu ti musím poskytnout naše Vyšší vědění. Měl bych to udělat? Samozřejmě že ano!"
+"Předpokládejme dále, že v Poslední bitvě Iskaiové, dokonce i ženy Iskaiů a lidské bytosti budou na naší straně. Pak tedy, kdo bude stát na straně druhé? Moc jich nezbývá. Možná Khunagové, zrádci? Ano, určitě Khunagové, mám pravdu?"
+"Ale kdo bude na tvé straně? Myslel sis, že tě nepoznám? Mohl sis změnit obličej zrádče, ale lež v tvých očích zůstává! Tvoje zbabělost, která nakazila tuto místnost, je tu stále s námi!"
+"Byl jsi podveden Driscolle! Nemůžeš být posel Poslední bitvy! A i kdybys mohl být, nezůstal bys na naší straně! Proč jsi sem Khunagu vlastně přišel?"
+"Co mě přivádí Cairnaine? Ty znáš odpověď! Kdo na mě nastrojil vraždu Cuaina? Stále slyším tvůj hlas: 'To je tvůj příkaz Khunagu. úkol, který ti přidělili Kamulosané. Jdi a zabij Arghagha!' Pomsta je to, co mě přivádí a to je taky jediný důvod, proč jsem tady. Používal jsi mě pouze jako nástroj své moci. Tato stvoření patří mně. Nebudeš je postrádat, když mě porazíš, ale já je ano. A dokonce jim dám Vyšší vědění. A to je také důvod, proč budou bojovat po mém boku, i když jsem je podvedl. Dnes uvidíš svého boha."
+"Co to má znamenat Khunagu?"
+"Je mi líto Tome!"
+"Tvoje lži nikoho nezajímají Khunagu. Tvoje svatokrádež je nenapravitelná právě tak, jako tvoje ostuda. V této bitvě můžeš bojovat s pomocným vojskem. Vždycky jsem měl podezření na způsob tvého boje; pouze zajistit, že tví protivníci zahynou tak bolestivě, jak jen je to možné. Ne, nikdo ti tady nevěří. Ale máš pravdu, neušetřím tvé pomocníky, když tě porazím. Tedy, všimni si, kdo je zde vznešený, Driscolle. Skoro je mi tě líto, ale jsi na špatné straně."
+"Nemáme nic společného s tvými nekalými úmysly!"
+"Jsi blázen Driscolle, a vždycky jsi byl. Pro tebe jsou jen nástrojem mé pomsty. Arghagha jsem měl rád, ale Cairnain nás se svými úmysly hnal stranou. Dokonce i uspěl v ovládání mé dobré vůle proti Cuainům. Používal mě pro svůj cíl právě tak, jako teď já používám tebe k pomstě starého Cuaina. Vždycky jsem věděl, že zrádce Cairnainů čekal na nás v této místnosti. Ale jak říkám: získáš své Vyšší vědění. Když mi naposledy pomůžeš."
+"Vlastně by to mohl udělat Driscolle. Možná by ti mohl dát Vyšší vědění později. Ačkoliv na tvém místě bych si nebyl tak jistý. Ale nemáme čas na zbytečné povídání. žádné vznešené slovo nikdy nevyjde z úst Khunaga. Už dostatečně znesvětil naši svatyni svými páchnoucími tvrzeními. Je čas aby zemřel. ^ ^ {FAT }Připrav se na střetnutí s Kamulosem!"
+útěk je zbytečný: Cairnain, Cuain, nyní ovládaný bohem Kamulose, okamžitě znovu útočí!
+Po hrozné bitvě na okamžik zavládne ticho. Zbylý Kenget Kamulos hledí na mrtvolu jejich Cuaina, který již není ovládán bohem Kamulosem.
+"Ty...Ty jsi porazil Cuaina když byl ovládán Kamulosem!"
+"Za to budeš trpět po tři roky, špinavý pse!"
+"Zadrž Arthore! Sám jsi viděl, čeho jsou tito bojovníci schopní! Určitě mohou být poraženi když zavoláme ostatní, ale musíme zvážit následky! {FAT } Kamulos {NORS} byl v otevřeném boji poražen jedním ze špinavců! To bude větší šok pro ostatní než pro nás."
+"Při vší úctě máte pravdu!"
+"Cuainovu smrt vyložíme důstojnou cestou."
+"špinavče, máš to, po čem jsi šel. Zůstaneš naživu i navzdory svému nevýslovnému činu. Vyprovodím tě ven z Kamulosu únikovou cestou. Už se sem nikdy nevracej. O této události nikdy nikomu neříkej. Jinak nebude žádné místo na světě, kde by ses před námi mohl schovat."
+Rjaom směřuje s {LEAD}{NAME} a společníky tiše skrz úzké průchody k trhlině v horském svahu. Bez dalších slov nechává každého projít skrz otevírající a zavírající se maskované dveře.

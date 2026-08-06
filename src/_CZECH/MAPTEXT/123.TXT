@@ -1,0 +1,22 @@
+﻿!
+Velký hliněný hrnec. Není v něm nic cenného.
+Barel. Neobsahuje nic zajímavého.
+Sbírka starého nepořádku. {LEAD}{NAME} drobná prohlídka stejně nepřinesla nic zajímavého.
+Tento plechový nepořádek zřejmě patří ke zbytkům raketoplánu. Samozřejmě {LEAD}{NAME} v tom bohužel nenašel vůbec nic funkčního. 
+Truhla. Neobsahuje nic co by se vyplatilo brát s sebou.
+Velká houbě podobná rostlina.
+Zeď z rostlin vypadá na tomto místě křehká; hluboké zlomy pronikly materiálem. Vypadá to, že by se zde se správným vercajkem  dalo něčeho dosáhnout.
+{LEAD}{NAME} udeřil do zdi mocnou ranou krumpáčem. Zeď se sesunula a vytvořila průchod!
+Náhle se stalo několik věcí najednou: ^ The zeď za skupinou spadla, zdi před ní se pohly a byli roztrhány superostrými drápy! ^ ^ Zabijácké nestvůry vyšli z nově vytvořené pasáže a útočí!
+V této váze bylo nalezeno trvanlivé jídlo.
+{LEAD}{NAME} se podařilo najít jídlo.
+{LEAD}{NAME} myslí, že je něco zajímavého pod tímto smetím!
+Truhla.
+Pod ostrým kouskem oceli, {LEAD}{NAME} viděl něco co upoutalo{HIS } pozornost!
+{LEAD}{NAME} našel něco použitelného v této truhle.
+{INK 001}{LEAD}{NAME} našel chronometr mezi těmito kousky oceli. Tom říká: ^ ^ {INK 002} "Neuvěřitelné! Tyhle hodinky pořád fungují!
+{INK 001} Tom:{INK 002} ^ ^ "Podívejte, tady je několik dobrých nábojů!"
+{INK 001} Tom:{INK 002} ^ ^ "Jaké štěstí. Tyhle léky jsou poškozené, ale stále použitelné!"
+Pod starými věcmi je něco zajímavého!
+"Spadlo to! Co je to za druh zvířat? Vypadají opravdu agresivně. Dávej pozor, Driscolle!"
+"Tady je to místo, kde se to zavalilo. Možná můžeme odstranit zával pomocí krumpáče z truhly."

@@ -1,0 +1,6 @@
+﻿{BLOK000} "Takže, tady u Dji Cantos nebo u Osvícených mám na starost stejnou věc jako v Jirinaaru: studuji historii." {WORDEnlightened Ones}
+"Dsarii-ma, přátelé. Jak se vám líbí naše malé místo k setkání?"{BLOK010}"Krásná stavba, a park kolem domu je jako rajská zahrada. Musíte sem často chodit."
+"To je pravda. V Jirinaaru jsem dobře známý tím, že často cestuji. Teď vidíte, kam většinou mé cesty vedou. Přepravní jeskyně nám umožňují, abychom se častěji scházeli a vyměňovali si nápady." {WORDtransport caves}
+"Dsarii-ma, je skvělé zase s tebou mluvit."
+"Dsarii-ma, přátelé. Doufám, že úspěšně pokračujete v získávání znalostí, které potřebujeme k vytvoření semínka." {WORDseed}
+"Dsarii-ma, přátelé. Jak vidím, ještě jste neodjeli do centra nebezpečí, Toronta. Přeji vám hodně štěstí, a ať Animebona požehná vaše počínání." {WORDAnimebona}{WORDToronto}

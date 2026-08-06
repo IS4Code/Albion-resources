@@ -1,0 +1,66 @@
+﻿-free-
+Tráva.
+Skály.
+Přízemní rostlinky.
+Větévky a kořínky.
+Ostřice.
+Ovocný stromek.
+Strom s kulatou korunou.
+Strom s čepelovitými listy.
+Peřeje.
+Vír.
+Vodní rostlina.
+Voda tu je hluboká a proud silný.
+Výhonky vodní rostliny.
+Kvetoucí květena.
+Stínový strom.
+Tyto rostliny hrají nádhernými odstíny barev.
+Zelenina.
+Balvan.
+V těchto místech je voda klidná a je vidět až na dno. Není tu téměř žádný proud a ze dna ti na odiv vystavují oblázky svá oblá nahá těla.
+Ovocný strom.
+Plot.
+Stéblovitá rostlina.
+Popínavá plazivka.
+Keř.
+Rostlina s velkými listy (patrně druh listovníku).
+Vodopád.
+Skalní římsa.
+Rostlina rostoucí na římse.
+Toto popínavá rostlina uchytila své hadovitě rozvětvené tělo na nepravidelném skalním povrchu tisíci svými výhonky. Jeví se býti velmi bytelnou, pročež velice příhodnou pro šplhací aktivity všeho druhu (směrem vzhůru).
+Dřevěný mostík.
+Obilná pole.
+Houby.
+Městská zeď.
+Brána do města.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+žádná odpověď.
+Na lodi je malá posádka nezvykle tichých Iskai, která se, jak se zdá, dobře zná s Frillem.
+Frill se ujmul řízení lodi a tak začala několika denní plavba na jih.
+Až se jednoho dne objevil na obzoru závoj mlhy. Loď se k němu rychle přiblížila...
+útesy. Nebezpečí! Jeskyně hrozí zřícením!
+Vchod do jeskyně.
+Vchod je zamřížován a uzamknut. Po klíčové dírce ani vidu, ani slechu.
+Z této strany je vidět petlice, která by mohla pomoci. {LEAD}{NAME} ji odsunul.
+Do Srimalinaru a Kounosu vede cesta na západ přes hory.
+Přístup k horám umožňují popínavé rostliny.
+free
+free
+Ve skále je zapuštěný symbol oka.
+"Tyto symboly jsou tu už velmi dlouho. Nalézají se všude po celé planetě. Ale nikdo přesně neví, odkud se vzaly ani jaký je jejich účel."
+{LEAD}{NAME} umístil(a) amulet se symbolem bohyně do skály. ^ ^ Brána se se zaskřípěním otevřela a družina vešla do jeskyně.
+"Můžu použít k otevření brány amulet bohyně, který mám u sebe."
+Keřík s plody.

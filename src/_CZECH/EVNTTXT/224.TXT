@@ -1,0 +1,6 @@
+﻿{BLOK000}"No, broučánci, myslím že můžete podle mého oděvu uhádnout, kde pracuji. Přijďte mě tam někdy navštívit! Samozřejmě většina mužů není ochotna připustit, že čas od času zajdou do bordelu."
+"Skeima Din, co můžu říct? Nevypadá to dobře. Srimalinští a kounoští bojovníci se shromáždili ve svatyni, aby se připravili k boji. Situace je velmi špatná. Poslední dobou mě to už notně deprimuje."{WORDHerras}
+"Prosím omluvte mě, ale nemám zrovna náladu vám teď něco vysvětlovat."
+"Už se s vámi o tom nechci bavit. Kdybyste byli bývali něco udělali, něco, mohl být ještě naživu."
+"To jsem já."
+"Co je s Herrasem?"

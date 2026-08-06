@@ -1,0 +1,4 @@
+﻿{BLOK000} "Já jsem tady hospodský."
+"Vážně věříte tomu, že na vás budu ještě čekat? Kdybych byl vámi, tak bych se tu neukazoval- hlavně kdybych člověk." {WORDhuman}
+"Každý o tom mluví. Lidé chtějí přepadnout naší svatyni, protože jsou přesvědčeni, že je nebezpečná. VůBEC NIC NETUší! ale je tu pár příhod, pro které nemáme žádné vysvětlení. Okolo svatyně jsou viděny něco jako příšery : Nevím odkud přišli, ale nepocházejí z našeho světa. Vždy je tam někdo z našich a jsem si jistý, že by si to zapamatovali. Ale zdá se, že lidí to nezajímá. řekl bych, že nás lidé nechtějí poslouchat. Jestli prolomí naše tabu, pak budou problémy. ^ ^ Promluvte si s Kontosem sami. Možná přišel na něco nového!" {WORDtaboo}
+"Já jsem Edjirr."

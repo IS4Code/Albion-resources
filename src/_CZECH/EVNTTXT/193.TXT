@@ -1,0 +1,7 @@
+﻿{BLOK000}"Jak bys měl vědět, jsem kapitán této lodi."
+"Co je to, Driscolle? Můj čas je s blížícím se přistáním drahocenný." {BLOK010}"Pane, rád bych se vás pouze zeptal, zdali mi můžete říci přesný čas pro let člunu."
+"Je mi líto, Driscolle, nemám nyní čas. Dávejte pozor na hlášení reproduktorů, jež určí čas startu."
+"Nemohu vám dát více informací, Driscolle. Příliš by mne to zdrželo. Můstek za krátko oznámí čas startu přes reproduktor. ^ ^ Nyní mne prosím omluvte, ještě mám spoustu práce."
+"Měl jste se naobědvat už dávno. Neslyšel jste hlášení? Když to uděláte rychle, prosím, ale nepokoušejte příliš naši trpělivost."
+{BLOK004}"Nashledanou, pane."{BLOK005}"Co děláte?"
+"Ahoj, Driscolle."

@@ -1,0 +1,9 @@
+﻿{BLOK000}"No, broučánci, myslím že můžete podle mého oděvu uhádnout, kde pracuji. Přijďte mě tam někdy navštívit! Samozřejmě většina mužů není ochotna připustit, že čas od času zajdou do bordelu."
+"Och, tady jste. Tisíceré díky za to, že se vám to podařilo! Jsem velmi šťastná a děkuji vám za pomoc, nejhoršímu bylo zabráněno. Jsem si jistá, že se vám nový koncil odmění za vaše dobré činy. A i já jsem ochotna vám bez zdarma... Ale, co je s vámi? Není vám dobře? Vypadáte nějak divně." {BLOK010} "Myslím, že to bude tím vyčerpáním z uplynulých dní." {BLOK011} "To brzo přejde..."{BLOK012} "Ne, všechno je v pořádku." {WORDcouncil}{WORDHerras}
+"Hm, někdy vypadáte dost legračně. V každém případě jsem ráda, že jsou ještě lidé jako vy." {WORDpraise}
+"Zasloužili jste si to!"
+"šel bych tam hned. Věci se vážně změnily."
+"Och, to jste opět vy. Všechno se stalo tak, jak jsem říkala. A říkala jsem to mockrát. Herras je mrtvý a vy byste měli na tom cítit také svůj podíl viny. Co by vás to stálo? Co? ^ ^ No, skvělé. Herras je mrtvý a už se s tím nedá nic udělat. Omluvte mě, ale už nemám náladu se s vámi déle vybavovat." {WORDcouncil}{WORDHerras}
+"Už se o tom s vámi nechci bavit. Kdybyste byli bývali udělali alespoň něco, mohl žít."
+"To jsem já."
+"Co je s Herrasem?"

@@ -1,0 +1,181 @@
+﻿-free-
+Větve a kořeny.
+Koš.
+Skleněná nádoba na vodu a další nápoje.
+Barel.
+Nádherná zvířecí kožešina.
+Košík.
+Keramický poár.
+Láhev.
+Talíř.
+Keramická konvice.
+Konvice.
+Stolní nůž.
+Vidlička.
+Lžíce.
+Keramická skříň.
+šutry.
+Pohár.
+Farmářské náčiní.
+Sekyrka.
+Víko truhly.
+Dřevěná truhla.
+štědře dekorovaná dřevěná truhla.
+Opočívací místnost.
+Víko.
+Velký dřevěný džber.
+Velký ocelový kotlík
+Kredenc.
+Na polici jsou všechny druhy různých věcí.
+Sekretář.
+Koště.
+Gril..
+Můžete na tom grilovat maso.
+Ohniště.
+Karafa.
+Sběračka.
+Dekorativní nástěný meč.
+Dřevěný stůl.
+Stolice.
+Stolička.
+Masivní stůl na večeři.
+Kořen.
+Dvě zkřížená kopí.
+Velký barel napuštěný podivnými látkami.
+Pípa.
+Přikrývka.
+Komfortní a velmi pěkně dekorovaná postel.
+Tato postel je rovná, ale praktická.
+Kuchyňský stůl.
+Ohniště.
+Z ohniště sálá příjemné teplo.
+Dekorativní hrneček.
+Sušené rostliny.
+Lidská lebka.
+Dekorativní štít.
+Ocelový hrnec.
+Dekorativní meč.
+Dveře.
+Kotlík.
+Nůž.
+Krátká díka.
+Dýka.
+Velká dýka.
+Krátký meč.
+Meč.
+Stileto.
+Házecí dýka.
+Malá sekera.
+Sekyrka.
+Malý luk.
+Luk.
+šíp.
+Malý kožený štít.
+Kožený štít.
+Kulatý štít.
+Velký štít.
+Kožená čapka.
+čepice s reliéfem.
+Kovový půl pohár.
+Kožená vesta.
+Kožené brnění.
+Vesta s reliéfem.
+Pár střevíců.
+Pár vysokých bot.
+Prázdná láhev.
+Zelená léčivý lektvar.
+Léčivý lektvar.
+Modrý léčivý lektvar.
+Klíč.
+Provaz.
+Prsten.
+Louč.
+Kladivo.
+Schody. Vedou nahoru.
+Schody. Vedou dolů.
+Přepážka.
+Rohožka.
+Domácí rostlina.
+Květináč.
+A fire container.
+Police plné knih.
+Knihy.
+Knihy.
+Otevřené knihy.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+{CNTR} Na vývěsním štítě stojí^ ^ {INK 006} Makaio, Mistr hojitby.
+{CNTR} Toto říká: ^ ^ {INK 006} Torko, Mistr Vědění.
+{CNTR} štít říká: ^ ^ {INK 006} Ouktero, Mistr nauky o magii Druidů
+{CNTR} Vývěsní štít říká: ^ ^ {INK 006} Nemos, Mistr druidů
+{CNTR} štít říká: ^ ^ {INK 006} K halám Knih
+{CNTR} štít říká: ^ ^ {INK 006} Hlavní pracovna
+{CNTR} Tady se píše^ ^ {INK 006} K ložnicím. ^ Návštěvníci, nevstupujte.
+{CNTR} Dveře jsou zavřeny závorou.
+-coming soon: long dialog-
+"Dostali jsme se do malé potyčky. Raděj jsem měl zůstat v posteli.Sakra!"
+"Togi Din a mnoho štěstí při hledání Mistra Bera!"
+"Togi Din! VY jste zachránili mistra Bera. jaký to skutek!"
+"Togi Din. To je pracovna. Jen si pomožte k čemukoliv, co by mohlo pomoci Beroovi!"
+"Togi Din, Beroovi zachránci..ha, ha, ha..ubohý ďábel bude muset naslouchat spoustě protivných vtipů o této neúspěšné expedici!"
+"Togi Din. Pro mě jako Beroova studenta je těžké studovat když on může být v nebezpečí smrti."
+"Togi Din! Jsem rád, že jste zachránili mého mistra Beroa a že je stále v dobrém zdraví. Mnohokrát děkuji!"
+"Togi Din. Varoval jsem Beroa aby nechodil do zapomenuté části. Je tak netrpělivý!"
+"Togi Din. Omluvte mne, jsem zaneprázdněn."
+"Vítejte cestovatelé do Arjana - 2000 let staré školy Druidů.
+"Togi Din, Nemos. Omluvte mne pokud vás budu nudit svou zvědavostí, ale opravdu je to 2000 let?"
+"Každopádně naše záznamy sahají do doby kdy nás sem dovedl Velký Canto ze Země našich Otců."
+"Mohu se zeptat, kde je Země vašich Otců a jak jste se dostali až sem?"
+"Když byla Země našich Otců zničena Křižáky, Velký Canto a Danu vedli skupinu Vybraných skrz Království Mlhy až sem do Albionu."
+"Teď mi povězte, co vás sem přivádí, a proč chcete hovořit s Berem?"
+"BYli jsme požádáni, abychom přinesli specifický amulet. Myslíme, že bychom kvůli tomu měli vidět Bera."
+"Rozumím. Bohužel s ním nemůžete hovořit. Nemohu s ním hovořit ani já."
+"Proč, je nemocný, nebo se mu něco stalo?"
+"Ne. Je mrtvý."
+"Byl na cestě?"
+"Ne tak docela.Je stále v této budově.   ^ ^ Vidím, že budu muset začít více odzadu. Jak víte, tato budova je velmi, velmi stará. Byla založena krátce po příchodu Vybraných. Božstvo, DAnu, nám projevil přízeň a nechal nás postavit tuto budovu na jeho výsostné půdě....ano.^ ^ Teď, je zde nepočítaně částí této budovy - mnohem více pokojů neýž bychom mohli užít. Velká část budovy byla uzavřena  na takřka 400 let. Došlo k neshodám se skupinou Druidů, které jsme nazývali Uctívači Ohně, a ti se potom stali známým cechem Kenget Kamulos. ^ ^ Později došlo k velkým nepokojům a nedorozuměním, které vedli až k nechtěnému exodu rebelů. Stavba stále nese stopy po válce a je vyplněna ďábelskými mechanismy a osídle nechutnými zplozenci pekel. ^ ^ I přes všechny tyto vědomosti, slezl Bero dolů do této prokleté části budovy zvané Drinno, aby nalezl nějaké magické artefakty."
+"A vy myslíte, že my jsme ti praví, kteří by ho měli zachránit?"
+"Přesně tak."
+"Nebylo by lepší dát dohromady dobře vyzbrojenou partu válečníků z této oblasti?"
+"Musíte vzít v úvahu, že Drinno Zapomenutá část byla tabu na mnoho století. Nikdo tam dolů nepůjde. ^ ^ Ale vy vypadáte neovlivněni našimi tabu a také jsem slyšel, že Iskai jsou nebojácní bojovníci."
+{INK 001} Tom se rozhlédl okolo. {INK 002} ^ ^ "Naše další cesta nyní záleží na tomto amuletu. Co myslíte? Měly bychom přijmout tuto práci?"
+"Práci? jestli tím myslíš, že bychom se měli podívat dolů, pak jsem s tebou."
+"Já neodejdu při prvních známkách nebezpečí. Zůstanu s tebou Tome."
+"Dobře. Já bych nazval všechny nebzpečí pouhými pověrami, kdybyych neviděl podivné věci, které se zde dějí...divné... ^ ^ Neočekávejte ode mne hrdinské činy, ale já půjdu."
+"Dobrá, jsem rád, že jste se rozhodli jít. Mohl bych vám krít záda. BYlo velmi náročné ho zdržet od toho úmyslu jít dolů, do Driina.^ ^ Dovolte mi představit Beroova nevlastního syna Mellthase. Je sice hluchoněmý, ale jeho duch je čistý jako paprsky slunce. Rád vás bude doprovázet."
+{INK 001} Mellthasova tvář ukázala trochu strnulý úsměv, ale on ihned napsal něco na na kousek papíru:{INK 002} ^ ^ "Jsem velmi potěšen! Jen prosím, vydejme se brzy na cestu, jsem velmi znepokojen!
+"Bero si připravil jídelní dávky, před tím, než slezl dolů. Není hlupák. Já myslím, že by se někde zabarikádoval, pokud by měl potíže. ^ ^ Pravděpodobně není důvod spěchat, ale nemáte mnoho času....... ^ ^ Arjanští Druidové vás budou podporovat, jakbude v jejich moci. já vám přeji Lughhovo požehnání. Pokud si ještě budete přát se mnou hovořit, budu ve východní části tohoto podlaží."
+{INK 001} Mellthas napsal na kus papíru a ukázal:(INK 002} ^ ^ "řekněte my, až budete hotovi k sestupu. Dovedu vás ke vchodu. Prosím pospěšte."
+Druidové vypadají zděšeně, že je někdo zraněný. Poskytli mu první pomoc.
+Návrat se obešel bez závažnějších potíží.  Bero je zdraven s upřímným a úvítáním a několika příkřejšími slovy. Všichni vatoupili do místnosti Nema, hlavy Druidů.
+"Bero, já myslím, že tě ušetřím důtek. Ty sám víš co všechno jsi riskoval.."
+"Zcela jistě to byla chyba, šplhat dolů. Nicméně, lituji toho, že Mellthas jeho společnost musela podstoupit tyto nebezpečí.  ^ ^ Rád bych vám ještě jednou poděkoval za všechno."
+"Co bych ještě rád řekl? Bero je docela často tvrdohlavý jako beran, ale ať se děje co se děje, jsem neuvěřitelně šťastný, že je nazpátek vcelku. ^ ^ ^ Teď, jak jsem porozuměl, ehmm, dobře.. neobvyklá příhoda se stala mezi Mellthasem a ehmm..ah... Sirou?"
+"Nemos, jak můžeš hádat, docela jsme se překvapili. Rádi bychom pokračovali ve své cestě společně."
+{INK 001} Mellthas souhlasně přikyvuje.
+"Ano, proč ne. Přeji ti štěstí Mellthasi... ^ ^ Nikdo tady ve městě Gratogel neporozumí poutu mezi člověkem a Iskai a možná, možná je to tak lepší, alespoň nyní...."
+"Mluvme o pokračování cesty: Bero, je mi líto, ale musím žádat specifický amulet, který jsme nuceni obstarat."
+"Samozřejmě Tome.Prosím následujte mne do pracovny."
+"Tady je Amulet Síly. Je to to nejmenší co pro vás mohu udělat. ^ ^ Všem vám přeji, a speciálně tobě Mellthasi a tobě Siro, aby vám DAnu žehnal na vašich cestách."
+{LEAD}{NAME} naplnil vědro vodou.
+Fontána plná čisté vody.

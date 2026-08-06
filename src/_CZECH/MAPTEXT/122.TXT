@@ -1,0 +1,68 @@
+﻿!
+"Je tu inkoustově černá tma. Potřebujeme světlo!"
+Temné jeskyně jsou zarostlé všemi druhy rostlin a ničím ničím nepřipomínají budovy. Mnoho vůní tu provívá chodbami. Rozličtý šelest a kradmé pohyby značí, že tu našlo domov nespočet forem života.
+Zvláštně tvarovaný keř.
+Jakmile se {LEAD}{NAME} dotkl rostliny, ta začala zářit všemi barvami!
+{LEAD}{NAME} se dotkl duhové rostliny.
+Ve vzduchu visí zvláštní pach.
+"To je pach predátorů. Měli bychom být opatrní!"
+Kořenu podobné čudo. Je to pohyblivé, ale nebude asi povahy agresivní.
+Zářící a pohyblivá chapadla tu lezou v těchto místech ze země. Pokouší se chytit všechno, co se pokusí hnout a strávit to.
+"Zajímavé stvoření. Povšimněte si silné luminiscence chapadel. Je těžké říct, jestli se díváme na exemplář zdejší flóry, nebo fauny, každopádně se tato forma života jeví býti masožravou."
+"Chápu to tak, drahý Rainere, že ať už jsi svými ohromujícími slovy myslel cokoli, tak si tím především myslel, abysme se tomu vyhli. Moudrá rada, které se milerád podřídím, věř mi."
+Jak se {LEAD}{NAME} přiblížil(a) k chapajícímu chapadlu, chaplo ho/ji a přitáhlo si ho/ji ke chřtánu!
+"Připadá mi, že světélkování chapadel není náhodné. Myslím, že tím láká svoji kořist. Světlo v těchto místech hraje v životě zdejších tvorů patrně dosti významnou roli."
+"Mám nápad. Možná bysme se vyhli dalšímu nepříjemnému střetnutí s tímto predátorem, kdybysme odhodili naše pochodně. Možná reaguje jenom na světlo."
+Teď, když už je všude tma, jsou chapadla nepohyblivá.
+Velké, houbě podobné, cosi.
+Ve stěně se objevil průchod!
+Tohle je duhový keř. Podivně září i přesto, že se ho nikdo nedotkl.
+"Podívejte! Kamkoli stoupneme, země začne na tom místě zářit! úžasné!"
+Obrovský bachor ozubený ohnilými čelistmy šířící do okolí silný zápach rozkladu.
+"Co to je za strašnou věc! Rozhodně bysme se tomu měli vyhnout."
+"Každá životní forma má právo na svou existenci, Driscolle. Nicméně to neznamená, že bysme měli obětovat své životy pro její přežití, v tom jsem s vámi zajedno."
+"Nikdy jsem neviděl nic takového. Vypadá pěkně smrtonosně."
+{LEAD}{NAME} se přiblížil ke chtřánu a spadl do něho. Síla zavírajících čelistí je hrozivá!
+{LEAD}{NAME} vhodil do rozevřeného chřtánu kus masa. Reakce byla okamžitá. Zřejmě uspokojeno zavřelo chřtán.
+Chřtán je pevně zavřen.
+{LEAD}{NAME} a jeho/její společníci si tu všimli něčeho velmi zvláštního. ^ Pulzující stěny se zdají být živé, dokonce víc, než ty prorostlé rostlinami. Je tu cítit intenzívní vůně sena a léčivých rostlin.
+Všichni cítí, že je tohle zvláštní místo. Nepopsatelný pocit přemohl jak {LEAD}{NAME}, tak i jeho/její společníky. Všechny jejich smysly z intenzívněly a rozbušely se jim srdce. Byl to jeden z těch momentů, kdy cítíte, že žijete {FAT } naplno {NORS}. ^ ^ Místností se toulaly světélkující stíny. Na druhé straně stojí velká průsvitá stavba. ^ ^ Za rotujícím objektem leží lidské tělo.
+{LEAD}{NAME} a ostatní přepadl světélkující stín! ^ Příjemný pocit, který jimi projel, se vystupňoval do bolestivé intenzity. Nenadálý příval blaha způsobil všem závrať a bolesti hlavy.
+Velká stavba vzdáleně připomíná čelo Iskai. Vyzařuje pocit vitality a životní síly. Hlavy {LEAD}{NAME} i celé družiny navštívila neodbytná závrať.
+Zbytky lidského těla leží za rotujícím tvarem.
+Světélkující tvar. Přiblížení vyvolává mírný pocit závrati.
+{LEAD}{NAME} opatrně sáhl na povrch...
+{INK 001}{LEAD}{NAME} opatrně sáhl na povrh... {INK 002} ^ ^ "Ajííí!" ^ ^ "Páni, bylo to, jako by mi někdo majznul lopatou mezi lopatky. Ou, moje hlava. Sakra, pěkně to BOLí!"
+{INK 001}{LEAD}{NAME} se opatrně dotknul povrhu stavby... ^ ^ {INK 002} "Och, něco cítím! ^ Je to jakobych se dotkl něčího Trii, ale mnohem silnější! ^ ^ Já... dostávám se s tím do kontaktu..."
+"Takže to je to co Argim, nebo to čím se stal, myslel!"
+Tato zeď je plná trhlin.
+{LEAD}{NAME} uštědřil slabšímu místu pořádnou ďahu. Zeď se zřítila a odhalila tak chodbu!
+Světélkující tvar. Přiblížení se vyvolává příjemný, lechtivý pocit.
+{LEAD}{NAME} obezřetně sáhl po světélkujícím předmětu. Ten se najednou rozšířil a obklopil všechny společníky dříve než stačili uhnout! Líbivý pocit provanul {LEAD}{NAME} i ostatní členy.
+"Takový báječný pocit! Ale co to probůh bylo?"
+"Vypráví se příběhy o 'světlech bohyně', které plápolají na posvátných místech na světě. Naplní klidem ty, kteří je objeví, a přinesou jim štěstí. To je poprvé, co jsem viděl takové světlo. Báječný zážitek!"
+"Pěkný příběh, ctěný Drirre. Ovšem já bych si přál, abych s sebou měl měřící přístroje, které by mi pomohli objasnit tento fenomén..."
+Divná létající zviřátka se tu vznáší ve vzduchu. Jakmile zahlédli návštěvníky, přiblížili se...
+Létající pidižvíci se dotkli {LEAD}{NAME}. Jejich zvědavosti bylo zřejmě učiněno zadost, protože něco zakvičeli a odletěli.
+"Tato neškodná stvoření jsou vegetariáni. Vytváří svítící plyn, díky kterému mohou takto létat.
+{CNTR} Zaútočit na stavbu?
+"Báječné! Jen si představte:..." ^ ^ {INK 001}{LEAD}{NAME} popsal ostatním kontakt s Argimovým vědomím.
+{LEAD}{NAME} prozkoumal hromadu smetí, ale nenašel nic než smetí.
+Tohle by mohly být ostatky nešťastné oběti jeskynních predátorů. ^ ^ {LEAD}{NAME} si všiml něčeho zajímavého.
+Vyjela jehla a zapíchla se {LEAD}{NAME} do prstu! To mu způsobilo prudkou bolest!
+Stará truhla, která patrně pamatuje ještě dobu, kdy byla tato budova osídlena. Je na ní starý zámek.
+{LEAD}{NAME}a další členové skupiny vidí mrtvolu druhého vraha. šelma dostala šelmu. ^ ^ Hej, něco se tu zatřpytlo {LEAD}{NAME}!
+{INK 001} Drirr:{INK 002} ^ ^ "Kenget Kamulos měl s sebou starodávnou ozdobnou dýku Iskaie, unikátní kousek! ^ Konečně stopa! Možná nám řekne víc starý učenec Frill. Měli bysme ho vyhledat v koncilovém domě.
+{INK 001}Rainer:{INK 002} ^ ^ "Měl s sebou starodávnou ozdobnou dýku Iskaie, unikátní kousek! ^ Konečně stopa! Možná nám řekne víc starý učenec Frill. Měli bysme ho vyhledat v koncilovém domě.
+{INK 001}Tom:{INK 002} ^ ^ "Měl s sebou starodávnou ozdobnou dýku Iskaie, unikátní kousek! ^ Konečně stopa! Možná nám řekne víc starý učenec Frill. Měli bysme ho vyhledat v koncilovém domě.
+Velká rostlina. Její povrch je uzpůsoben k zachytávání odkápávajících kapek ze stropu.
+Když se {LEAD}{NAME} rostliny, začali se její kořeny hýbat. Rostlina odběhla!
+Rostlina se rozechvěla.
+Tohle vypadá jako pozůstatky vraha.
+Zřejmě tato mrtvola patřila Akiirivu vraha (a očividně ještě patří).
+Zvláštní, létavé zviřátko.
+{LEAD}{NAME} hodit jedno zvláštní ovoce do otvoru. Chapadla si dala okamžitě pohov a zmizela v zemi!
+Všichni se cítí krapet silnější!
+Všichni se mohou pohybovat rychleji!
+Všichni mají větší výdrž!
+Když se hořící pochodeň přiblížila, pohyb chapadel se zrychlil. Musí reagovat na světlo louče!

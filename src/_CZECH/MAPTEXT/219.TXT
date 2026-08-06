@@ -1,0 +1,74 @@
+﻿-free-
+Zvláštní uskupení pouštních kamenů.
+Písečná duna.
+Kamenný sloup.
+Balvan.
+Pouštní květina.
+Písečná houba.
+Hmyzožravá rostlina.
+Masožravá rostlina.
+Kvetoucí kaktus, který kvete pomalu a roste ještě pomaleji.
+části rostliny.
+Bylinné rostliny.
+Skály.
+Chomáče trávy.
+Kořeny, kusy dřeva, větve.
+Kamenný hrad vystavěný z kamene (hm).
+Peřeje.
+Voda je v těchto místech hluboká a proud se tu zdá být silný.
+Vodní rostliny.
+Výhonky vodních rostlin.
+Vodní vír.
+Stinný strom.
+Těmto prérijním stromům se daří i ve velmi vyschlé půdě.
+Prérijní květina.
+Kamenná věž.
+štěrk.
+Velký kamenný most.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Ssssss...
+Zatarasený vchod.
+"Podle mě je teď příliš riskantní přiblížit se k Torontu. Zkusme najít jinou cestu."
+S určitou námahou se Tom sebral.
+"No dobrá. Zkusíme se k Torontu připlížit za tmy."
+Vyhýbáním se pracovních strojů a jam, podařilo se nakonec družině dostat se k Torontu nepovšimnuté. Tomovi se podařilo otevřít postranní vchod, aniž by aktivoval alarm. Jakmile byli všichni uvnitř, poklop zase rychle zavřel.
+Když vystoupila družina z tunelu, z Tomova hrdla se vydral výkřik:
+"Podívejte! Krouží tu loď z Toronta!"
+Loď se přiblížila. Družina byla podle všeho zpozorována. Loď přistála!
+{INK 001} Tom se otočil ke svým společníkům se slovy: ^ ^ {INK 002} "Pojďte! Nemějte strach! Bude tam trochu těsno, ale budeme tam muset být jenom chvíli."
+Tom vlezl dovnitř a zjistil, že tu není žádný pilot. Loď byla ovládána dálkově.
+Najednou se dveře do lodi zabouchly! Tom je uvězněn v lodi bez svých přátel a loď odstartovala! ^ ^ Během vzletového manévru zaplnil kabinu plyn. Tom ztratil vědomí a upadl na podlahu. Z letu si nepamatoval vůbec nic...
+Tom a Joe se úspěšně vyhnuli průzkumnému týmu Toronta. Tom zamířil k ústí jeskyně, která vede pod horami do Umajo Kenta. Dosáhnou svého cíle za úsvitu.
+Všichni se vřele objali na opětovné shledání. Po radosti z uvítání a z toho, že se všichni opět vidí, Tom představil Joa a hrubě nastínil, co se stalo.
+"Něčeho podobného jsme se obávali, Tome. Už jsem mluvil s dalšími Dji Cantosi. ^ ^ Vraťme se nyní na ostrov, abychom se mohli poradit, jak dál!"
+Jediné, v co si Tom ještě troufal doufat, se mu splnilo. ^ ^ Kamarádi čekali na jeho návrat.

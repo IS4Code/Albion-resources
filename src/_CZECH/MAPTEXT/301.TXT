@@ -1,0 +1,89 @@
+﻿ 
+Rozbuška
+Křeslo.
+Postýlka.
+Ovládací panel jaderného reaktoru.
+Servisní panel. Uprostřed je terminál.
+Ovládací panel.
+Letový ovládací panel.
+Ovládací panel.
+Syntetický záchod.
+Kabinet.
+Umyvadlo.
+Ručníky.
+Kartáček na zub.
+Monitor monitorující chodbu.
+Kontrolní monitory.
+část reaktoru.
+Sudy s odpadky, splašky, fekáliemi a toxickým materiálem.
+Vypnutá konzole.
+Lampa.
+Talíř.
+Sklenice.
+Pohár.
+Nádoba.
+Láhev.
+Plechovka.
+Krabice.
+Kontejner.
+Slánka a pepřenka.
+Sójový sos
+Hrnek.
+Malá konzerva.
+Lopata.
+Rýč.
+Francouzák.
+šroubovák.
+Přenosná příruční konzole.
+ODS (osobní digitální spolupracovník).
+Kleště.
+Příbory a hrneček.
+Nádobí.
+Automatické dveře.
+Loď.
+Přepravník.
+Sprcha.
+Vozítko.
+Značení na zemi.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Mohutný zámek.
+Z tohoto místa je za silně cloněnými a filtračními vrstvami pokrytými průhledy vidět srdce Toronta: fúzní reaktor. Ochočená sluneční energie mu dodává vstupní energii.
+Kontrolní panel reaktoru.
+"Tohle je ta konzole, o které jsem mluvil, Tome. Když mi budeš držet palce, můžu se pokusit odříznout centrální počítač od jeho zdroje energie. Mám se o to pokusit?"
+Má se teď Joe pokusit manipulovat s konzolí? {BLOK000} Ano, ať se o to pokusí! {BLOK001} Ne, ať ještě chvíli počká.
+"Neotálejme příliš dlouho. Nechci, aby nás chytili."
+"Konečně! Tak tohle je místnost s reaktorem. Fúzní reaktor je přímo támhle. Stojí za to se tam kouknout! ^ ^ Jinak bysme se měli poohlížet po konzoli."
+"Mám začít teď?"
+"Tohle je reaktor! Podívej se na ta světla! Instalovali tu průzory, které dovolí jen nepatrné části světelné energie, dostat se sem do místnosti. Je to fantastický pohled!"
+Joe se dal do práce.
+"Tak se na to podívejme. Nejsem expert na tyhle konzole, ale tohle musí být..."
+Najednou byl Joe vyrušen rozhlasem!
+"Tome Driscolle a Joe Bernarde, zanechte okamžitě svých pokusu na ovládací konzoli. ^ ^ Bezpečností komando je už na cestě. Musíme vás vzít oba dva do vazby. Neklaďte odpor, bezpečností komando je ozbrojeno!"
+"Ale ne! Palubní počítač!"
+"Nede! Jak jste si s Brandtem mohli myslet, že se vám podaří zatajit pravdu o této planetě?"
+!
+"Prostě zadej: Ano! ^ ^ Předpoklady jsou příznivé a šance dobré. Existence společnosti ospravedlňuje určité procento rizika."
+"{FAT } COžE? {NORS} Vy nám říkáte přímo do tváře, že jste při plném vědomí zamýšlel zničit tento svět! ^ ^ Já..."
+"Co uděláme s kapitánem Brandtem? Když nedokáže zjistit, co se stalo během letu, ztratí svoji licenci navždycky!"
+"To je pravda. Následně bude kapitán Brandt podroben důkladnému vyšetřování. Pak bude přirozeně DDT donuceno ho propustit. ^ ^ Bude muset strávit zbytek svého života jako historicky nejbohatší nezaměstnaný. ^ ^ Bohužel vás musím oba držet pod zámkem dokud mise neskončí. Nemějte ale strach, poskytnu vám veškeré pohodlí, které byste mohli potřebovat."
+"Jistě. A měsíc je ze zelenýho sejra. ^ ^ Joe?"
+"Ano?"
+"Je čas zmizet. A rychle."
+Tom a Joe vyrazili z místnosti jak dvě dělové koule! Jejich jedinou nadějí je ošetřovna, z které vedou dveře ven.
+Automatické dveře.
+"Hej, máme tu něco dokončit, pamatuješ? Nechceš snad zase vypadnout, že ne?"
+části systému reaktoru.

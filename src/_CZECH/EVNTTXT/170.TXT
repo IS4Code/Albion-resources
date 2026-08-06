@@ -1,0 +1,9 @@
+﻿{BLOK000}"Jsem vůdcem Druidů Gratogelu." {WORDdruids}{WORDGratogel}
+"Togi Din. Oh, bože! Vidím, že někteří z vás jsou těžce raněni. Běžte rychle k Makaiovi, blízko vchodu. Rád se zhostí vašich zranění. Promluvit si můžeme potom."
+"Togi Din, moji prospěšní návštěvníci. Doufám, že jste udělali pokrok ohledně Drinna." {WORDDrinno}{WORDBero}
+"četl jsem o tom. Strašné zařízení. Zde by však měli být předměty, použitelné k neutralizaci takových polí. Kniha mluví o duhově zbarvené holi."
+"Většina pastí dolní soustavy tam byla zbudována proti rychlým útočníkům. Myslím, že většina plamenů může být jednoduše uhašena vodou. Takže si naplňte několik věder!"
+"Dívejte se, kam šlapete, přátelé. Díky neopatrným návštěvníkům, spustivším mechanismus, by mohla být osvobozena spousta démonů."
+"Staré značky, hmm? Minulost je příliš zkalená, abychom věděli, co znamenají. Naneštěstí vám o nich nemohu mnoho říci."
+"Togi Din! Rád vás opět vidím. Mohu pro vás něco udělat?"
+"Sbohem. Jsem si jist, že se znovu uvidíme."

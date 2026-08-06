@@ -1,0 +1,184 @@
+﻿ 
+Rozbuška
+Křeslo.
+Postýlka.
+Ovládací panel jaderného reaktoru.
+Servisní panel. Uprostřed je terminál.
+Ovládací panel.
+Letový ovládací panel.
+Ovládací panel.
+Syntetický záchod.
+Kabinet.
+Umyvadlo.
+Ručníky.
+Kartáček na zuby.
+Monitor monitorující chodbu.
+Kontrolní monitory.
+část reaktoru.
+Sudy s odpadky, splašky, fekáliemi a toxickým materiálem.
+Vypnutá konzole.
+Lampa.
+Talíř.
+Sklenice.
+Pohár.
+Nádoba.
+Láhev.
+Plechovka.
+Krabice.
+Kontejner.
+Slánka a pepřenka.
+Sójový sos
+Hrnek.
+Malá konzerva.
+Lopata.
+Rýč.
+Francouzák.
+šroubovák.
+Přenosná příruční konzole.
+ODS (osobní digitální spolupracovník).
+Kleště.
+Příbory a hrneček.
+Nádobí.
+Automatické dveře.
+Loď.
+Přepravník.
+Sprcha.
+Vozítko.
+Značení na zemi.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+"Zase ten divný sen - už se mně musel zdát aspoň desetkrát. Co jen znamená? ^ ^ Dokonce si ani nevzpomínám, že by se mě dříve zdály barevné sny ... ^ ^ No, půjdu se projít, abych se z toho trochu dostal. Doufám, že mi už brzo oznámí, kdy se mám nalodit do výsadkového modulu na průzkumný let."
+"Tak co svalovce! Vyspal ses dobře?"
+"Christine! Jsem rád že tě zase vidím! ^ Cítím se hrozně. Měla jsi pravdu minulou noc, měl jsem zůstat s tebou. Už se mi zase zdál ten šílený sen. Zdá se být ... čím dál jasnější..."
+"Musí být dost šílený. Většinou tě jen tak něco nerozhází. Musí to mít něco společného s dimenzionálním skokem. Zůstaň dnes večer se mnou a já už tu hroznou noční můru zaženu!"
+"Ten sen se mně začal zdát už před skokem a není tak strašný. Je jen silně intenzivní. ^ ^ Nechme to plavat. Prostě se budu chvíli potloukat po lodi. Možná někde narazím na kapitána Brandta a konečně se tak dozvím, kdy se Snoopy vyrazíme."
+"Se Snoopym? Cožpak jsi...? Páni, to si musel spát fakt tvrdě. Ten výbuch byl slyšet po celé sekci!"
+"Výbuch? Mluv k věci! O čem to sakra mluvíš, Chris? Co se stalo se Snoopym?"
+"Během skoku měl na starost dimenzionální jednotku. Došlo však k přetížení a následné silné explozi. říká se, že byl všude kolem..., promiň."
+"Ach... to je strašný! Něco takového tě donutí zastavit se a přemýšlet. To učinilo Hofstedta jediným vládním úředníkem na palubě, že?"
+"Jo, slyšela jsem, že teď na ten průzkumný let s tebou poletí místo Snoopyho právě on."
+"No, není tohle skvělej začátek nového dne? Ale myslím, že to nebude až tak hrozný... Hofstedt je v pohodě a nehoda do mého průzkumného letu vlastně nijak přímo nezasáhla. Budu si o tom muset ještě promluvit s Joem."
+"Tvůj parťák byl dnes přidělen do severovýchodní sekce, blízko vstupu do komunikačního střediska. ^ ^ No, už budu muset běžet - ještě mně čeká hodně práce. Uvidíme se později, pusinko."
+"Měj se Christine."
+Tyto dveře jsou zablokované.
+"Omluv mě, Driscolle! Nemysli si nic špatnýho, ale já mám rád své soukromí. Prosím zůstaň venku."
+"Tady není nic k vidění. Prosím pokračujte dál."
+{INK 001} Tento muž je Rainer Hofstedt - fyzik, xenobiolog a vládní inspektor. Zdá se, že je rád, že tě vidí.
+"Driscolle, ty parde stará! To sem rád, že jsem na tebe taky narazil! Slyšel jsi už o Beeglesově nešťastné demisi?"
+"Nazdar Hofstedte. Moje přítelkyně mi to právě sdělila. Je to fakt děs-musel to být dost děsný pohled!"
+"Ty zabedněný tupý britský palice! Nebyl inženýr, ale předpokládalo se, že bude znát všechna rizika spojená s ovládáním COM jednotky během skoku. Pořád jsme ještě hodně daleko od úplného pochopení technologie nadsvětelné rychlosti. ďáblův vynález - úžasný a ovšem naprosto nepředvídatelný."
+"To z tebe ale činí jediného vládního úředníka na palubě, nemám pravdu?"
+"Ano, jsem poslední vládní šťoural na této lodi, nepřipomínej mi to prosím. Mluvil jsem s kapitánem Brandtem. Pořád trvá na dalších průzkumných letech a já mám nahradit, se vší úctou, Beegla. No Driscolle, vypadá to, že máš novýho pasažéra."
+"Nechci být bezcitný, ale loď potřebuje dva lidi, jedno jaké, kteří vědí, co mají dělat, nic víc. Pokud je mi známo, na odletu se nic nemění."
+"Souhlasím. A musím přiznat, že se na let už strašně těším. Odlet by se měl uskutečnit během několika příštích dní. Musíme počkat na kapitánovo ohlášení."
+"No, myslím že je to zatím všechno. Jsem si jistý, že se ještě předtím uvidíme. Zatím se měj, Hofstedte."
+"Ty taky, Driscolle."
+"čau Driscolle. Hodně štěstí při tvém letu."
+{INK 001} Ochranka vrhla na Toma podezíravý pohled. Tom na to nijak nezareagoval.
+"Ahoj Driscolle! Slyšel jsem, že máš novýho pasažéra, toho minulýho prý už seškrábali ze zdi. ^ Každopádně ti budu držet palce."
+"Ahoj Tome. Promiň, mám trochu honičku. Momentálně fakt nevím, co dřív. Zaskočím za tebou později."
+"Ahoj Tome. Rád bych viděl vnitřek té místnosti, víš, té kde to Snoopy koupil. škoda, že je tam u dveří ta stráž."
+{INK 001}Tom zkusil vyvolat z konzole nejnovější zprávy. Oznámení předcházela zpráva:{TECF} ^ ^ {CNTR} {INK 002}***Video data nejsou k dispozici*** ^ ***COM spojení není aktivní *** ^ Textový mód aktivován.
+"Nazdar Driscolle. Ubezpečuješ se, jestli seš ještě pořád na ty samý lodi? Můžu tě ujistit, že je všechno v naprostém ne-pořádku. Pořád je to ta stará dobrá kráska..."
+{TECF}NEWSFLASH (textový mód). ^ ^ {LEFT} "Evropská unie: 14. pokus o zavedení jednotné oficiální měny ztroskotal na odporu chodského odboje."
+{TECF} NEWSFLASH (textový mód): ^ ^ {LEFT} "Dědicové McCartneyho apelují na mezinárodní soudní dvůr. Zničí nezadržitelný postup Brazílie proti dědicům McCartneyho i poslední zbytky deštných pralesů? Některé země požadují, aby na záchranu majetku McCartneyho dědiců bylo vynaloženo všech dostupných prostředků a byly povolány obranné jednotky."
+{TECF} NEWSFLASH (textový mód). ^ ^ {LEFT} "řím - Papež John Paul uveřejnil své 14. pojednání o důležitosti ochrany dosud nenarozeného jedince. Tímto početím... ehm... počinem Vatikán opět posílil a sjednotil svou moc vůči organizaci na kontrolu porodnosti a otázku humálnosti potratů zatlačil do neplodného koutu. Zastávají betonový názor, že 'život vyvíjejícího se plodu je důležitější než okolnosti, za kterých se narodí a prostředí, i kdyby pro něj znamenalo třeba i smrt', konec citace. Také byla ustanovena jediná vyjímka; pokud by mělo dojít k ohrožení života matky je možné plod odebrat. Papež reagoval na používání antikoncepce slovy: 'Zatraceníhodný útok proti svrchované suverenitě nad lidským života, která přísluší pouze bohu. Ani stále vzrůstající populace a několikanásobné přelidnění mnoha regionů nemůže být dostatečným důvodem k potlačení tohoto přirozeného vývoje každé civilizace.'"
+{TECF} NEWSFLASH (textový mód). ^ ^ {LEFT} "Brusel - Ministr vnitra Spojených států pro Evropu, John McDermott, svolal sjezd na němž přednesl svůj proslov proti Vatikánu. Ostře kritizoval Vatikán za jeho náboženský fanatismus, za čím dál širší řady jeho stoupenců, kteří ztrácejí soudnost a přestávají chápat zákonitosti tohoto světa. Také vyjádřil velké znepokojení nad 'vymíváním mozků' mládeže, kdy slogany 'Kdo se nemodlí, je vyvrhel a skončí v našem pekle!' nejsou žádnou vyjímkou a nad stále narůstajícím vojenským arzenálem a uniformovanými stoupenci buditelských frakcí. Dokonce mají Spojené státy podezření, že Vatikán disponuje dosud neznámými biologickými zbraněmi a viry, proti nimž jsou účinné pouze látky obsažené v odpustcích, které jsou navíc napuštěny silně návykovou drogou, takže nutí jejich poživatele k dalším a dalším návštěvám církevních prostor, které se množí všude jako rakovina."
+{TECF} NEWSFLASH (textový mód) . ^ ^ {LEFT} "Stuttgart-Tokio - Mluvčí za společnost DDT poprvé vystoupil, aby reagoval na pomluvy, že se těžební loď zvaná 'Toronto' ztratila během své mise ve vesmíru. Podle mluvčího společnosti došlo pouze ke ztrátě spojení v důsledku výpadku lodního rádiového modulu. Samozřejmě samotná loď nepřestává zasílat souřadnice o své pozici z pouštní planety zvané Valoun v sektoru HR-13-4198. Z toho se všeobecně usuzuje, že lodní systémy pracují normálně a během několika let na Zemi přistanou první přepravní lodě s nákladem vyslané Torontem. Proto není nutné vyslat žádnou záchranou misi, která by stejně nikdy nemohla dorazit včas, protože by ji cesta trvala přinejmenším tři roky. Na základě této tiskové zprávy stoupla hodnota akcií DDT jen nepatrně."
+{TECF} NEWSFLASH (textový mód). ^ ^ {LEFT} "Strasburg - Rozhodnutí týkající se postihu uctívaní menšin bylo na každoročním sjezdu Sociologů všech zemí zamítnuto. Podle nejvyššího zmocněnce SSS (Svaz spojených sociologů), Anngreta Rybíze Angrešta, by neměli být bezbranné děti vystaveny tupým a zkázu hlásajícím apokalyptickým proslovům o blížícím se konci světa vyvrhovanými na svět skoro všemi náboženstvími. Nedávno president uvedl, že se na evropských školách nebývale zvýšil počet graffit s náboženskou tématikou. Dosavadní prostředky se ukázaly jako liché a tak Angrešt uvedl, že je důležité postihovat takovéto šiřitele individuálně a razantně. Pokud ani to nepomůže, bude nutné je klasifikovat jako 'nemocné' a bude s nimi i podle toho jednáno."
+{TECF} NEWSFLASH (textový mód). ^ ^ {LEFT} "ženeva - Ministři zahraničních věcí Evropy, Ameriky a Asie se dnes sešli na své pravidelné půlroční konferenci, aby projednali další mírovou spolupráci. To staví obchodní válku mezi Amerikou a Asií na čelní místo zájmu. Vzájemné celní tarify a poplatky spojené se zvýšenou kontrolou dováženého zboží opět vzrostly. I když asijský císař pohrozil, že odstoupí od společného projektu týkajícího se budování podmořského tunelu pod Beringovou úžinou, nebyl toto hlavní předmět konference. Konečné prohlášení nebude známo dříve než zítra večer."
+{TECF} NEWSFLASH (textový mód). ^ ^ {LEFT} "čínský vědec Huo Wong Gang získal letošní cenu šmoula roku za svůj průkopnický výzkum v oblasti plazmové fyziky. Huo Wong Gang se tak stal prvním číňanem, komu se podařilo tuto cenu získat a s ní obdržel i dotaci ve výši 470 miliónů kreditů. Cena šmoula roku se uděluje již 154. rok a je udělována vyjímečným lidem z vědních a obchodních oborů."
+{TECF} NEWSFLASH (textový mód). ^ ^ {LEFT} "Sportovní zpravodajství. Golf. V národním poháru mezi Irákem a USA je zatím skóre po třech kolech z pěti 2:1 pro favorizované USA."
+{TECF} NEWSFLASH (textový mód). ^ ^ {LEFT} "Upozornění na zemětřesení - zítra se neočekávají žádné vážnější erupce a otřesy půdy, 9. září 2230, ohrožená oblast San Andreas. Po loňském velkém zemětřesení se americké a pacifické zemské desky jen velmi zvolna dostávají do klidových poloh. Malá zemětřesení, která rozhodně nepřekročí 3.5 stupně Richterovi stupnice, lze očekávat pouze v Los Angelské oblasti. Na japonském pobřeží se taky žádné vážnější potíže neočekávají. Nicméně ve středomoří, na západ od Atén se očekávají mírné chvění. Měřící a vyhodnocující přístroje mezinárodní organizace monitorující seizmologickou činnost po celém světě předpokládají zemětřesení o síle 5ti stupňů Richterovy škály, což samozřejmě nebude mít vliv na toto řecké provinční město."
+{TECF} NEWSFLASH (textový mód). ^ ^ {LEFT} "Zatím se nepodařilo urovnat spor o výši platů mezi unií kosmonautů a nadnárodním centrem pro Vesmír a kdejakou černou díru. Představitelé pracujících pohrozili stávkou v případě, že se do dalšího kola jednání jejich zaměstnavatelé nedohodnou na vhodných krocích k zvýšení jejich mezd. Hlavním katalyzátorem vyhrocení konfliktu bylo, že vesmírní vědečtí pracovníci získávají ze svých experimentů navíc provizi, kdežto manuálně pracujícím je naopak z jejich už tak dost nízkých platů ještě mnohé strháváno. Zatímco mluvčí společnosti rázně popírá tutu domnělou 'utopistickou' provizi, unie kosmonautů propočítala, že bude jen v tomto roce vyplaceno více než 400 miliard kreditů na tuto 'utopistickou' provizi. "Chceme mít také nějaké to sousto z tohoto koláče," řekl mluvčí unie."
+{TECF} NEWSFLASH (textový mód). ^ ^ {LEFT} "Norimber - President evropského institutu pro práci všeho druhu, Ferda Jagoda, představil dnes svůj projekt na měsíc Srpen. Podle jeho zprávy by mělo být v srpnu v Evropě 76 miliónů nezaměstnaných. To odpovídá zhruba 16,7 %. Mluvčí sociální opozice evropského parlamentu Giuseppe Piscarator čelí bezohledné antisociální politice vládní unie, která, jak prohlásil, dovoluje nadnárodním společnostem dosahovat zisků i na úkor skutečnosti, že se většina evropským měst mění v chudinské zóny, aniž by proti tomu podnikla jakékoli kroky. Piscarator doslova řekl: "Je očividné, že vládní unie má osobní zájem na tom, aby americké podmínky života přetrvaly i zde v Evropě. Opozice nebude tolerovat takovéto 'utahování opasků' od těch, jejichž krky jsou skoro stejně široké, jako naše pasy."
+{TECF} NEWSFLASH (textový mód). ^ ^ {LEFT} "škola začne v Evropě zítra, v pondělí. Po deštivých prázdninách je očekáván krásný podzimní den. Unie ministerstva dopravy žádá všechny soukromé piloty, aby dbali zvýšené pozornosti kudy, a jak vysoko letí, zejména, aby se drželi na svých trasách, pročež je pravděpodobné, že by se mohlo dojít ke střetu se středoškoláky, letícími na svá dalším rokem pokračující, studia. Prosím, snažte se chovat ohleduplně." 
+{TECF} NEWSFLASH (textový mód). ^ ^ {LEFT} "Sága započatá 3. říjnem pokračuje. Asociace německých zaměstnavatelů navrhla zrušit tento den státní svátek, aby tak již příští rok nezvyšoval státní deficit. Dneska učinila své prohlášení exilová komora parlamentu. Její president, Herbert Hupka VI, varoval před vymazáním tohoto dne jako památky na den, kdy se staly sudety opět německou državou. Včera se k celé věci vyjádřil i státní návladní. Vládní unie však stále ještě mlčí."
+{TECF} NEWSFLASH (textový mód). ^ ^ {LEFT} "Upozornění na zemětřesení - zítra se neočekávají žádné vážnější erupce a otřesy půdy, 9. září 2230, ohrožená oblast San Andreas. Po loňském velkém zemětřesení se americké a pacifické zemské desky jen velmi zvolna dostávají do klidových poloh. Malá zemětřesení, která rozhodně nepřekročí 3.5 stupně Richterovi stupnice, lze očekávat pouze v Los Angelské oblasti. Na japonském pobřeží se taky žádné vážnější potíže neočekávají. Nicméně ve středomoří, na západ od Atén se očekávají mírné chvění. Měřící a vyhodnocující přístroje mezinárodní organizace monitorující seizmologickou činnost po celém světě předpokládají zemětřesení o síle 5ti stupňů Richterovy škály, což samozřejmě nebude mít vliv na toto řecké provinční město."
+{TECF} NEWSFLASH (textový mód). ^ ^ {LEFT} "čínský vědec Huo Wong Gang získal letošní cenu šmoula roku za svůj průkopnický výzkum v oblasti plazmové fyziky. Huo Wong Gang se tak stal prvním číňanem, komu se podařilo tuto cenu získat a s ní obdržel i dotaci ve výši 470 miliónů kreditů. Cena šmoula roku se uděluje již 154. rok a je udělována vyjímečným lidem z vědních a obchodních oborů."
+{TECF} NEWSFLASH (textový mód). ^ ^ {LEFT} "řím - Papež John Paul uveřejnil své 14. pojednání o důležitosti ochrany dosud nenarozeného jedince. Tímto početím... ehm... počinem Vatikán opět posílil a sjednotil svou moc vůči organizaci na kontrolu porodnosti a otázku humálnosti potratů zatlačil do neplodného koutu. Zastávají betonový názor, že 'život vyvíjejícího se plodu je důležitější než okolnosti, za kterých se narodí a prostředí, i kdyby pro něj znamenalo třeba i smrt', konec citace. Také byla ustanovena jediná vyjímka; pokud by mělo dojít k ohrožení života matky je možné plod odebrat. Papež reagoval na používání antikoncepce slovy: 'Zatraceníhodný útok proti svrchované suverenitě nad lidským života, která přísluší pouze bohu. Ani stále vzrůstající populace a několikanásobné přelidnění mnoha regionů nemůže být dostatečným důvodem k potlačení tohoto přirozeného vývoje každé civilizace.'"
+{TECF} NEWSFLASH (textový mód). ^ ^ {LEFT} "Zatím se nepodařilo urovnat spor o výši platů mezi unií kosmonautů a nadnárodním centrem pro Vesmír a kdejakou černou díru. Představitelé pracujících pohrozili stávkou v případě, že se do dalšího kola jednání jejich zaměstnavatelé nedohodnou na vhodných krocích k zvýšení jejich mezd. Hlavním katalyzátorem vyhrocení konfliktu bylo, že vesmírní vědečtí pracovníci získávají ze svých experimentů navíc provizi, kdežto manuálně pracujícím je naopak z jejich už tak dost nízkých platů ještě mnohé strháváno. Zatímco mluvčí společnosti rázně popírá tutu domnělou 'utopistickou' provizi, unie kosmonautů propočítala, že bude jen v tomto roce vyplaceno více než 400 miliard kreditů na tuto 'utopistickou' provizi. "Chceme mít také nějaké to sousto z tohoto koláče," řekl mluvčí unie."
+{TECF} NEWSFLASH (textový mód). ^ ^ {LEFT} "ženeva - Ministři zahraničních věcí Evropy, Ameriky a Asie se dnes sešli na své pravidelné půlroční konferenci, aby projednali další mírovou spolupráci. To staví obchodní válku mezi Amerikou a Asií na čelní místo zájmu. Vzájemné celní tarify a poplatky spojené se zvýšenou kontrolou dováženého zboží opět vzrostly. I když asijský císař pohrozil, že odstoupí od společného projektu týkajícího se budování podmořského tunelu pod Beringovou úžinou, nebyl toto hlavní předmět konference. Konečné prohlášení nebude známo dříve než zítra večer."
+{TECF} NEWSFLASH (textový mód): ^ ^ {LEFT} "Dědicové McCartneyho apelují na mezinárodní soudní dvůr. Zničí nezadržitelný postup Brazílie proti dědicům McCartneyho i poslední zbytky deštných pralesů? Některé země požadují, aby na záchranu majetku McCartneyho dědiců bylo vynaloženo všech dostupných prostředků a byly povolány obranné jednotky."
+{TECF}NEWSFLASH (textový mód). ^ ^ {LEFT} "Evropská unie: 14. pokus o zavedení jednotné oficiální měny ztroskotal na odporu chodského odboje."
+Konzola na vyvolávání zpráv.
+Masivní přepážka.
+"Ahoj Tome! Pojď dál, můžeme spolu strávit příjemný večer, víš?"
+Dneska Toma jeho sen nepronásledoval. ^ ^ Po několika hodinách Tom Christininu kabinu opět opustil.
+Tyto dveře vedou do Christininy kabiny. ^ Vypadá to, že se tu Chris momentálně nenachází.
+Tyto dveře vedou do Christininy kabiny. ^ Vypadá to, že je Chris uvnitř.
+{CNTR} Zaklepat na dveře?
+"Ahoj Tome! Jsem ráda, že tě vidím. Pojď dál; užijeme si."
+Klávesnice pro zadávání číselných kódů.
+{TECF}{CNTR} NESPRáVNý KóD. ^ ^ PříSTUP ODEPřEN.
+{TECF}{CNTR} ZADEJ PříSTUPOVý KóD.
+Tom slezl na servisní podlaží.
+{TECF}{CNTR} KóD SOUHLASí. SERVISNí PANEL JE NYNí K DISPOZICI.
+žebřík vede dolů na servisní podlaží.
+V této místnosti je přístupna jednotka COM. Tom se obezřetně rozhlédl po okolí, ale nikoho neviděl. Ve vzduchu se drží štiplavý zápach seškvařené elektroniky.
+Tohle jsou pozůstatky místnosti s COM jednotkou. Exploze musela mít silně devastující účinek.
+Tom se už chtěl otočit, když si najednou všiml, že pod zničenou konzolí něco leží. Podíval se blíž a byla to zbraň!
+"Jak se sem k čertu mohla dostat? Zbraně jsou na lodi přísně zakázány, může je mít pouze bezpečností ostraha! ^ ^ Každopádně je to velmi cenný nález..."
+Zničená COM jednotka. Už tu není nic dalšího, co by stálo za vzetí do soukromého vlastnictví.
+Zničená COM jednotka. Něco pod ní leží!
+části zničené COM jednotky.
+Nejprve se na tváři hlídkujícího důstojníka objevil zájem, který vzápětí briskně vystřídal hněv, když si uvědomil, že právě viděl někoho vyjít ze střežené oblasti!
+"Zůstaň stát kde jsi, Driscolle! Jak ses dostal do této zabezpečené oblasti? ^ ^ Nehýbej se, prohledáme tě!"
+Plukovník Priver Toma prohledal.
+"O.K. Teď můžeš odejít. Ale buď si jist, že tento incident bude zaznamenán do tvých osobních záznamů. To ti slibuji!"
+"Zbraň! Driscolle, zbláznil ses? Tohle se objeví v tvých osobních záznamech, na to můžeš vzít jed! ^ ^ Vypadni odsud a počítej s tím, že o nás ještě uslyšíš! ^ ^ {INK 001} Plukovník Priver zbraň zabavuje!"
+"Už zas ty! Toužíš po problémech nebo co?"
+"Nehýbej se!" ^ ^ {INK 001} Plukovník Priver Toma důkladně prohledal.
+Zde si Tom uskladňuje své osobní věci.
+Tento pokoj patřil inspektoru Beeglesovi.
+V této skříňce jsou nějaké zásobníky!
+Povzbuzující nápoje. Speciální mix vybuzujících medikamentů.
+Speciální nástroje jako jsou tyto, se mohou používat k páčení mechanických zámků!
+Potrava ve formě silně výživných tyčinek tu čekala na své nalezení.
+Vadná fluorescenční žárovka.
+Toto je hangár na Torontu. Všechny lety do vesmíru se uskutečňují právě odsud.
+{INK 001} Hlasité oznámení lodního rozhlasu se nese tříštivými ozvěnami chodbami: ^ ^ {INK 002} "Oznámení pro pilota Driscolla! Raketoplán připraven k odletu! Povolání ke startu bude brzy ohlášeno."
+{INK 001} Rozhlasové hlášení: ^ ^ {INK 002} "Zpráva pro pilota Driscolla. Prosím hlaste se v odletové místnosti."
+{INK 001} Rozhlasové hlášení: ^ ^ {INK 002} "Poslední výzva pro pilota Driscolla. Okamžitě se hlaste v hangáru."
+"Dobře. Radši bych tam měl jít."
+Tom rychle doběhl do hangáru, kde už na něj čekalo několik lidí.
+{FAT }{CNTR} Nyní následuje sekvence, při níž Tom a Rainer odstartují a zřítí se na planetu!
+Tom už byl v hangáru netrpělivě očekáván. Rychle nastoupil do připraveného raketoplánu.
+Za touto přepážkou se nalézají kabiny letových manažerů a kapitána lodi. Přístup dalším členům posádky do těchto míst není dovolen.
+Tudy se dá dostat na ošetřovnu a do obytných prostor bezpečnostních jednotek Toronta. Běžní členové posádky lodi sem nemají přístup.
+"Ach, konečně. Doufám, že jsem nezapomněl na nic z toho, co jsem si na let chtěl vzít s sebou."
+Ano.
+Tohle je hangár pro raketoplány.
+Přepážka oddělující velitelský můstek. Jen několik členů posádky sem má umožněn přístup. Tom mezi ně nepatří.
+Na tomto místě se setkávají členové posádky, je to taková společenská místnost.
+Před vchodem do místnosti s COM jednotkou stojí bezpečnostní ostraha. V této místnosti je nainstalována lodní komunikační zařízení.
+Místnost ve které Joe, dávný přítel Toma, zrovinka pracuje se nalézá za spodními dveřmi.
+Hlásit se k nalodění na raketoplán? {BLOK000} Ano, nahlásit. {BLOK001}Ne, ještě počkat.
+Tom došel ke konzoli a oznámil, že je připraven k odletu. ^ ^ Krátce potom v hangáru...
+Tom se prozatím ještě rozhodl výzvu ignorovat.
+{CNTR}{INK 002} Please consider that this is only a preview version. We would like you to excuse any bugs, missing parts, or unrefined areas. ^ ^ ^ {JUST}{INK 001} BRIEF INFO FOR THE PREVIEW VERSION: ^ ^ You are TOM DRISCOLL, a shuttle pilot on board the Toronto. The Toronto is a factory spaceship from a large corporation on Earth. The ship's mission is to mine raw materials on a large scale. The destination of the Toronto is the planet NUGGET, a desert world with extremely high amounts of raw materials. ^ ^ Shortly, you are to make an exploratory flight with a government inspector, Mr. Beegle, also called SNOOPY. The exploratory flight will take place in a small shuttle which can make a close-up, more detailed investigation of the planet. ^ ^ {LEFT} People you know best: ^ CHRISTINE - engineer and your girlfriend. ^ RAINER HOFSTEDT - scientist and second government official on board. ^ JOE - engineer and an old friend of yours. ^ ^ {JUST} This scenario serves as introduction to the story. There aren't many battles yet. Speak with people so you can learn more about your situation. There are also many puzzles to be solved. And, if you are successful, you can get an object which can make your journey through the game even easier. ^ ^ The action starts immediately after the introduction (see CD). TOM wakes up from a strange dream and begins his day. ^ ^ ^ {CNTR}OFF WE GO!
+Když vyšel Tom do chodby, uviděl jak se k němu blíží Christina, jeho dívka. ^ ^ Rozhodl se s ní promluvit.
+{FAHI} - SCRIPT SEQUENCE - {NORS} Here begins a script sequence which presents the flight to Albion, the crash, the first steps on the planet, the explosion of the shuttle, and the awakening at the Iskai.
+"OK, Driscolle, pro tvůj let je již všechno připraveno."
+"Všechna data, která budete během letu potřebovat, máte k dispozici v palubním počítači, pana Driscoll. ^ ^ Během letu budu komunikovat přímo s vámi, takže budeme moci okamžitě vyhodnotit došlá data."
+"Znáte své pokyny: proveďte kontrolní měření na orbitu a na stavební plošině a mi je pak porovnáme s výsledky zaslanými sondou. Dostaňte pana Hofstedta bezpečně dolů, Driscolle. ^ Hodně štěstí."
+"Děkuji, pane. Pokusím se. ^ ^ Jste připraven, Hofstedte?'
+"Jistě! šlápněte na to!'
+Tom se setkal s kapitánem Brandtem, se svým pasažérem, Rainerem Hofstedtem a androidem Nedem (zastupující na palubě umělou inteligenci) poblíž raketoplánu.
+Tom vyvedl loď bezpečně z mateřského hangáru. ^ ^ Tato malá loď, disponující však výkonným pohonem, je dostala nad cílovou planetu během pouhých několika hodin . . .
+"Můj starý známý Joe pracuje na konci této chodby. ^ ^ Měl bych ho jít navštívit."
+{CNTR}{INK 003} Welcome to the ^ ^ ^ {INK 006}{BIG }ALBION-DEMO{NORS}{INK 003}
+{INK 003} This demo contains the first two unaltered scenarios of the complete game. ^ ^ ALBION has many different features such as combat magic, traders, and trainers that do not appear until you've played for a while. If you would like a quick glance at a couple of battles and a 3-D dungeon, you can load the saved game called 'DEMO'. The game will begin with a cave entrance to the west, while off to the southwest is a city. Try out the fire ring which Rainer Hofstedt has with him in battle! ^ ^ Here's how you play: ^ WALK by pressing the left mouse button. If you want to DO something, press the right mouse button. ^ ^ In regards to the story: ^ You are Tom Driscoll, pilot on board a gigantic factory spaceship, the Toronto. Your job is to make an exploratory flight to the target planet in a small shuttle with a government official. Speak with the people in the Toronto in order to learn more about your situation. TIP: Weapons and ammunition can be found in this first scenario-just in case you encounter a battle. ^ ^ Have fun trying out ALBION. Note that you can save and continue playing with your demo saved game (simply copy the game status into a new SAVES directory) once you buy the complete ALBION game. ^ ^ Order the complete game now!

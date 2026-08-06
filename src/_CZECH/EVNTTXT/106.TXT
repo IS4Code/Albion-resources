@@ -1,0 +1,7 @@
+﻿{BLOK000}"Jsem lovkyně, jako spousta v našem Klanu. Avšak poslední Fadhiim byl pro mne šťastnou událostí. čekám dítěte, tak zůstávám doma. Protože ráda vařím, pomáhám v naší kuchyni."{WORDFadhiim}{WORDchild}{WORDkitchen}
+"Dsarii-ma, vzácní hosté."
+"Dsarii-ma. Chcete se mnou mluvit?"
+"Dsarii-ma. Slyšela jsem, že jste na stopě Akiirve vrahovi. Přeji vám hodně štěstí v lovu!"
+"Ano, pracuji společně s Gridrim. On je šéfkuchař a mohu se toho od něj spoustu naučit." {WORDGridri}
+"Tedy, jak jsem řekla, Gridri je náš klanový kuchař a mistr chutných jídel."
+"Ano, miluji děti! Zaměstnávají tě, ale stojí za to."

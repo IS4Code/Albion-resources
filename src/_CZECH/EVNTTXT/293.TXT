@@ -1,0 +1,4 @@
+﻿-free-
+"Skeima Din, ^ ^ Doufám, že jste zde za obchodem." {BLOK010} "Zajímají nás ornamenty a klenoty." {BLOK011} "Jaké je vaše povolání?" {BLOK012} "Díky za rozhovor."
+"Sbohem."
+"Brousím hrubé kameny a vyrábím z nich šperky, a  nebo prodávám, tak, jak jsou."

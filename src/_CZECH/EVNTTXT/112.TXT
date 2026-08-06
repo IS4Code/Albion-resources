@@ -1,0 +1,6 @@
+﻿{BLOK000}"Dsarii-ma. Mé jméno je Nisrii, člen rady a Tri-Nadh. Jsem odpovědný za zákony."{WORDlaws}{WORDTri-Nadh}
+"Dsarii-ma. Mohu vám pomoci?"
+"Předpokládám, že jste tu otázku položil kvůli svým lidským společníkům, {LEAD}{NAME}."
+"Tri-Nadh jsou lidé, kteří, když se dotknou Trii někoho dalšího, necítí pouze jejich pocity, ale také všechny myšlenky. Většina z nich toho zvláštního daru využívá pouze v poradním kruhu zabývajícím se zákonem. Například, v důležitých jednáních prověřují partnerovu upřímnost."{WORDlaws}
+"Přeji vám hodně štěstí v honu na Akiirova vraha."
+"Přeji vám na vaší cestě hodně štěstí."

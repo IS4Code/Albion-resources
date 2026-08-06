@@ -1,0 +1,15 @@
+﻿{BLOK000} "Jsem členem koncilu Spravedlivých a i když to je těžké, musím dohlédnout na to, že bude brán zřetel na zájmy lidí."
+"Skeima Din. Náš koncil je nyní kompletní." {WORDchanges}{WORDcouncil}{WORDassassination}{WORDKontos}
+"Dva nový členové koncilu nahradili Garda a Rika. Jsou pro všechno nové a je legrace s nimi pracovat. Chtěl bych vám ještě jednou poděkovat za vaši pomoc. Kdyby byl býval nebyl Herras varován, byl by dnes již mrtev. ^ A já jsem přišel na něco, co by vás mohlo také zajímat. Gard, Riko a Kontos mají něco společného. Riko to jen nepřímo nastínil, ale jsem si jist, že je to pravda. Kontos měl prostřednictvím nich velký vliv na vládu Belovena, což mi už došlo. Ale pořád ještě nevím, jaký je jejich hlavní záměr. Myslím, že ten atentát měl být jenom začátek." {WORDconnection}
+"Jak jsem řekl, na nic nového jsem v celé věci nepřišel, ale nepřestávám hledat."
+"Díky vaší pomoci je naše úsilí opět zaséváno na úrodnou půdu. Nový členové koncilu jsou dychtivý po práci."
+"Jsem opravdu šťasten, že jste tomu byli schopni zabránit!"
+"Herras shledal, že to bral příliš na lehkou váhu. Ale naštěstí se vše v dobré obrátilo."
+"Držté se od něho co nejdál!"
+"No, co bych měl říct. Máme tu chaos. Gard a Riko se vypařili, co byli přistiženi při atentátu. Své postavení v koncilu by si stejně už nedokázali udržet, protože teď mám neochvějnou jistotu, že jsou ve spojení s Kontosem. Kontos pomocí nich mohl ovlivňovat Beloveno. ^ Bohužel jsem měl pravdu, a kdyby jste mi bývali věřili, atentátu mohlo být zabráněno. Běda, nikdo mi nevěřil!{BLOK010} "Nemohli jsme vědět, že máte pravdu." {BLOK011} "Cožpak jsme tu za všechno odpovědní my?" {BLOK012} "Je nám to líto..."
+"Přirozeně že ne!"
+"To Herrase mezi živé nevrátí. Už nevím, co bych k tomu mohl dodat."
+"Co můžu ještě říct. Herras je mrtev."
+"Musíme ustanovit nový koncil. Nic jiného se dělat nedá."
+"Koncil se schází pravidelně v koncilovém domě a někdy, když jde o velkou událost, pozveme celé město do naší zasedací místnosti. Je tam mnoho malých místností, které používáme k diskusím, a které mohou být pronajaty i k jiným účelům. V jižním křídle je velká zasedací místnost a střední zasedací místnost. V severním křídle můžete nalézt menší místnosti a uprostřed je kuchyně a stravovací kumbál... eh, místnost. Buďte tu jako doma."
+"To jsem já."

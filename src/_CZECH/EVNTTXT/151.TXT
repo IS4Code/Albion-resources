@@ -1,0 +1,36 @@
+﻿empty
+"Držení dobytka je základem všeho bohatství. Ten, kdo má vysoké postavení obvykle vlastní dobytek, jehož část pronajímá svým lidem." {WORDceile}
+"Lidé, nebo společníci, jsou stoupenci muže, který je platí. Vzdají se časti svých zákonných práv, jako třeba nošení zbraně, pro množství peněz a výhodný nájem z dobytka. Během schůzí se zaváží odvádět svůj výnos pronajímateli, který tak získává postavení a vliv."{WORDcattle}{WORDlaw}
+"Je normální dávat děti do pěstounské péče, když jim je kolem sedmi nebo osmi let. Nevlastní otec se nazývá attio. Dítě se zde vyučí profesí a pěstouni upevní pouto mezi oběma rodinami. O dívku se pěstouni přestávají starat ve 14 letech, o chlapce v 17."
+"Oh, máme zde mnoho bohů. Ale největší je Lugh, velký bůh obchodu, poutníků a řemesla a Danu, velká Bohyně a matka, která je ztělesněním Albionu, našeho světa. Navíc jsou zde bohové farmářů, řemeslníků, básníků a válečníků, stejně jako množství menších bohů, uctívaných jejich skupinou obyvatel. Co se týká posmrtného života, učí se, že žijeme znovu v jiné, báječné zemi."{WORDwarrior}{WORDtrader}{WORDpoet}{WORDAlbion}
+"Tuath or Tribe je komunitou všech klanů a jejich rodin. Je řízena kmenovým králem."{WORDtribal king}
+"Králové jsou naši nejvyšší páni. řídí řádný chod Tuath, ačkoliv v důležitých záležitostech se radí s muži, nosícími zbraně. Je ztělesněním Tuath a jeho nejdůležitějším úkolem je zajištění souladu mezi lidmi a zemí. Pouze pokud je zde harmonie se zemí, můžeme doufat v dobrou sklizeň, zdravý dobytek, málo nemocí a mír."{WORDTuath}{WORDcattle}
+"Když je mír porušen, někteří z našich mužů se stanou válečníky. Ve chvíli, kdy je mír, nemáme mnoho mužů, kteří by se věnovali výlučně zbraním, aniž by měli nějakou další profesi."
+"Máme básníky ve velké úctě. Jsou obávaní, stejně jako mocní válečníci pro své dobře mířené satirické verše, jež mohou poškodit pověst stejně, jako neslavná porážka."{WORDwarrior}
+"Jsou zde ctihodní řemeslníci, jako hrnčíři, tkalci látek, nebo pletači košíků. Kováři zbraní, náležející k Umajo jsou zvláštní."{WORDUmajo}
+"Cech Umajo je v horké pouštní zemi, daleko na východ odsud. Stráží tajemství dobývání rudy z lůna Damu bez jejího uražení. Vyrábějí klenoty a všechny druhy zbraní. Jsou jediní, kteří mohou tyto věci vyrábět. ^ Avšak umění výroby zbraní učí. Tak jsou všichni kováři buď z Umaja, nebo lidé odsud, kteří se své řemeslo v Umaju naučili nebo někdo z členů jejich cechů, který se k němu zatím připojil. Před dávnou dobou zde byla s Umajo válka. ^ ^ Neboť pak byli více vstřícní ve svých cenách a výcviku kovářů zbraní. Ale dosud pronásledují kováře zbraní, kteří nejsou členy jejich cechu." {WORDDanu}
+"Máme zákonné učence, kteří spravují spravedlnost při rozepři mezi dvěmi stranami. Vůdce klanu je odpovědný za vykonání rozsudku." {WORDking}
+"Vykonáváme pro náš lid mnohé úkoly. Vyučujeme psaní a uchováváme a rozšiřujeme znalosti našich předků. Jsou zde ti, kdo spravují spravedlnost, ti, kteří jsou pověřeni výukou dětí, nebo ti, jež jsou prostředníky mezi bohy a lidmi. Jsou zde ranhojiči a mistři magických umění, kteří jsou považováni za nejvýše postavené druidy."{WORDmagic}{WORDArjano}{WORDGods}{WORDhealers}
+"Magie je také nazývána uměním bohů. Ti, kdož jsou požehnáni tímto darem, jsou drženi ve velké vážnosti." {WORDdruids}{WORDGods}
+"Pokud potřebujete pomoc pro svá zranění, jděte k Makaiovi. Jeho pokoj najdete blízko vchodu školy."
+"To je to, co nazýváme světem, v němž žijeme."
+"Konzervativní lidé věří, že je centrem veškeré síly, moci a osobnosti lidských bytostí. Proto tedy řada z nás uchovává lebky poražených nepřátel nebo hrdinských předků, protože nám přinášejí štěstí. Musím říci, že tuto myšlenu nyní už nějaký čas nevyučujeme."
+"Toto je místo, kde naši předkové poprvé vstoupili na tento svět. Starobylý strom ze země našich předků, Qrenno, roste zde. Je to náš největší oltář a slouží jako symbol požehnání Danu." {WORDDanu}
+"To je to, co se nazývá zakázanou částí Arjana. Před dávnými časy zde byla válka se vzbouřeneckou skupinou Druidů, kteří se později stali Kenget Kamulos. Dokonce i dnes Drinno ukrývá množství strašných bytostí, pocházejících z války."
+"Canto je duchovní otec všech Druidů a náš legendární hrdina. říkají, že byl tím, kdo přivedl lid do této země před stovkami nebo tisíci let. Jeho moudrost a znalosti byly velké... tak velké, že je často uctíván jako bůh."
+"často bývá slyšet hlupáky, kteří jsou vůči němu přezíraví, ale my víme, že plodí dobré válečníky a učence. Jejich druh magie je působivý a kreativní, a my se pokoušíme učit naše děti úctě k Iskai."
+"Kenget Kamulos představují temnou stránku naší minulosti a nerad o nich mluvím. Byli Druidy, kteří sami sebe příliš nadchli pro válečnické ideály a nalezly mocnou, ničivou magii. Jejich chování skončilo konfliktem, který vedl k utvoření zakázané části Arjana. Po tom všem odsud vzbouřenci odešli a stali se Kenget Kamulos."
+"Bero, ten starý trouba! Jeho vášeň pro magické artefakty pravděpodobně zmátla jeho jinak ostrou mysl. Doufejme, že je dole v Drinno dosud naživu." {WORDDrinno}
+"Je báječné, že jste ho našli dosud živého! Nyní bude možná přemýšlet než znovu podlehne své touze po dobrodružství."
+"Mnoho toho o tom nevím."
+"Klouta je vesnicí námořníků a rybářů na západním pobřeží našeho světadílu."
+"To je název naší školy, centra vědomosti lidí na Gratogelu." {WORDGratogel}
+"To je jméno země, ve které se právě nacházíte."
+"Vanello je vesnice blízko Arjano." {WORDArjano}
+"Aballon je vesnice jižně od velké hornaté oblasti."
+"Gratogel je rozdělen na severní a jižní stranu velkou hornatou oblastí. Je zde pouze jedna cesta, vedoucí skrze hluboký kaňon, a říká se, že průchod není zcela bez nebezpečí." {WORDdanger}
+"Proslýchá se o útocích na poutníky, kteří se velkou hornatou oblast pokoušeli projít."
+"Tharnos je kmenový král Klouty." {WORDtribal king}
+"To je jméno krále Venella." {WORDVanello}
+"Aretha je jméno královny Aballon." {WORDAballon}
+"Nemos je náš vůdce, muž, kterého máme ve velké vážnosti, pro jeho dobrotu a nezměrnou moudrost..."

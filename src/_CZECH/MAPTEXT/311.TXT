@@ -1,0 +1,216 @@
+﻿free
+Ohniště (krb).
+Svícen.
+Pletený košík.
+Dřevěný stůl.
+Stolička.
+Baldachýnové lože. Díky těm lebkám by se také dalo nazývat "Pekelné lože."
+Psací stolek.
+židle.
+Oheň tu vytváří sloup plamene a vrhá na ztemnělé okolí pitoreskní stíny. Ty mohou vyvolat v náhodném pozorovateli úzkostlivé pocity.
+Sloupec s hrozivě pitvořícím se xichtem.
+Dětská postýlka. Stejně jako většina nábytku ani ona nevypadá dvakrát pohodlně.
+Sud.
+Koberec utkaný ze suchých stébel.
+Skleněná konvice.
+Záclony.
+Truhla.
+Kabinet.
+Pochodeň.
+Povalují se tu drobné nepotřebné předměty.
+Velké dřevěné necky.
+Velké dřevěné police.
+Tuto postel asi zrovna nikdo nevyužívá.
+Rozličné sečné, bodné a střelné zbraně; všechny vypadají nanejvýš nebezpečně.
+Police na zbraně.
+štít.
+Lebka naražená na kůl. Nepříjemný zápach naznačuje, že k tomu hrůznému činu došlo teprve nedávno.
+Na těchto slaměných paňácích se trénují a testují bojovné dovednosti.
+Dřevěná tyč obalená slámou slouží k trénování bojových technik.
+Terč pro střelbu z luku.
+Tác s jídlem.
+Bylinky.
+Truhla.
+Karafa.
+Naběračka.
+Kbelík.
+Lžíce.
+Lžíce a vidlička.
+Pohár na pití.
+Pohár na pití.
+Náčiní na dopravu poživatin z talíře do orálního otvoru (úst).
+Talíř.
+Nádobka.
+Zelenina.
+Koláčky.
+Koření.
+železný talíř.
+Hliněná nádoba.
+Velký skleněný džbán.
+Skleněná nádoba.
+Dřevěná bedna.
+Velká skleněná dóza.
+Láhev.
+Papírky na poznámky.
+Kniha.
+Několik knih.
+Kniha vázaná v kůži. Zdá se být cenná.
+Psací potřeby.
+Otevřená kniha. Na levé straně je vidět technický výkres; na pravé je potom k němu popis.
+Psací brk.
+Těžký, krátký meč.
+Těžká dýka.
+Dveře.
+Ohromná kuchyňská kamna pro přípravu pokrmů a nápojů.
+Závěs na zdi.
+Potrhané závěsy.
+Ošumělé dřevěné postele.
+Zdobený sloup.
+Zvířecí kůže.
+Schody vedoucí nahoru.
+Schody vedoucí dolu.
+Otevřené zásuvky s drobnými předměty.
+Kádinka.
+Pěkné nůžky.
+ Ampulka.
+Těžký meč.
+Ampulky.
+Zvětšovací sklo (lupa).
+Velké utěrky.
+Utěrka.
+Koberec.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Khunag: {INK 002} ^ "Toto je vstupní oblast."
+Khunag: {INK 002} ^ "Jsme v blízkosti kuchyně."
+Khunag: {INK 002} ^ "Jsme v buňkách noviců."
+Khunag: {INK 002} ^ "Chodba k pokojům pro hosty a buňkám pro novice."
+Khunag: {INK 002} ^ "Místnost na cvičení pro druidí novice."
+Khunag: {INK 002} ^ "Místnost na cvičení pro bojovné novice."
+Khunag: {INK 002} ^ "Tohle je modlitebna.
+Khunag: {INK 002} ^ "Zásobárna."
+Khunag: {INK 002} ^ "Blížíme se k místnostem pro otroky."
+Khunag: {INK 002} ^ "Recepce pro návštěvníky."
+Khunag: {INK 002} ^ "Místnost pro nováčky."
+Khunag: {INK 002} ^ "Hlavní hala."
+Khunag: {INK 002} ^ "Prostory pro nováčky a jejich obytné buňky."
+"Nebuďte hloupí, návštěvníci! ^ ^ Jak vidíte, je lehké naši vstupní místnost ubránit!"
+"Buďte zdrávi, cizinci. Můžete opustit ubikace pouze v doprovodu Kengetů."
+"To znamená, že musíme nejprve počkat na Kengetské rozhodnutí ohledně Vyššího vědomí. ^ ^ Ale dejte na mě, budou proti."
+{INK 001} Otrok: {INK 002} ^ ^ "Jen zřídka tu máme návštěvu. Někdy se sám sebe ptám, zda-li žijí lidé taky mimo Khamulon."
+{INK 001} Otrok: {INK 002} ^ ^ "Nemáme dovoleno mluvit s cizinci."
+{INK 001} Otrokyně: {INK 002} ^ ^ "Můj syn se už brzy stane novicem řádu Kledos. Stane se z něj ten nejstatečnější bojovník!"
+{INK 001} Otrokyně: {INK 002} ^ ^ "Radši si promluvte s Jonatharhem, hlavním otrokem. Většinou je k nalezení v kuchyni."
+{INK 001} Otrok: {INK 002} ^ ^ "Prosím nezdržujte mě od práce. Už jsem byl ztrestán ažaž."
+{INK 001} Otrok: {INK 002} ^ ^ "Kdysi jsem patřil ke Kledo Kamulos. Ale kvůli lásce své ženy, jsem se vrátil mezi otroky."
+"Obdivuju válečníka Cuarnainna. Dokáže kontrolovat své tělo jako málokdo jiný."
+"Musím si na chvíli odpočinout, cizinci. Moje první lekce s mečem mě značně vyčerpala."
+"Jsem šťastný, že jsem povýšil z řad otroků mezi novice."
+"Nevím, o čem bych si mohl promluvit s cizinci. ^ ^ Mějte se."
+"Studie magie je mojím celoživotním dílem. Konečně můžu bojovat za čest Kamulosů, i když mám tak chatrné tělo!"
+"Nedávno jsem se naučil své první bojové kouzlo. Jaký je to úžasný pocit cítit tu energii, která mě naplňuje a povznáší mého ducha!"
+"Cvičím tu s nováčky. Musí se naučit přijmout a ovládnout strach a bolest."
+"Zdravíčko, cizinci. Já už jsem vystoupil z Khamulonu. Doufám, že tu jste proto, protože pro nás máte úkol. Strašně rád totiž dokazuju okolnímu světu dokonalé válečnické umění Kledo Kamulos v praxi!"
+"Můj trénink se zbraněmi na dálku téměř skončil. Brzy se naučím nejvyšší umění boje: boj beze zbraně!"
+"Obraťte se na Rhunagha, našeho kouzelnického mistra, jestli si chcete s někým popovídat. Většinu času tráví v modlitebně na východ od komplexu."
+"Tento rok tu máme obzvlášť talentované jedince. Trénink pokračuje nad očekávání zdařile. Kamulos bude uspokojen."
+"Spálit protivníka v žáru mého ducha je tou nejryzejší úctou, kterou můžu Kamulosu prokázat!"
+"Včera jsem si musel přečíst ohnivé kouzlo ze svitku! ^ ^ Neuvěřitelná zkušenost, protože svitek umožní použít kouzlo i osobám, které ho ještě neovládli!"
+"Cizinci tu nejsou vítáni!"
+"Prostor Kleda a Oqulo Kamulose by neměly být znesvěceny cizinci. Setrvejte proto v prostorách pro nováčky."
+"Schody za těmito dveřmi vedou do obytných oblastí těch, kteří už ovládli Kledo Kamulos i Oqulo Kamulos. My tam nemáme povolen přístup."
+Dveře jsou zavřené. Stráž promluvila k {LEAD}{NAME} : {INK 002} ^ ^ "Cizinci sem nemají přístup!"
+Tyto dveře vedou ven. Jsou zavřeny na závoru. Jeden strážný si všiml {LEAD}{NAME} a promluvil k němu/ní:
+Dveře jsou zamčené.
+V tomto otevřeném šuplíku se povaluje kouzelný svitek.
+Všechny druhy maličkostí a drobnůstek tu nalezly svůj klid. Některé z nich vypadají zajímavě.
+Někdo tu zanechal svitek s kouzlem!
+V této truhle je třpytící se prsten!
+Tato truhla ukrývá potřebné věci.
+Nějaké jídlo.
+{LEAD}{NAME} vidí nádherně tvarovaný amulet!
+Nějaké léčivé lektvárky!
+Skříňka s lahvemi.
+Uvnitř plamené mísy je nějaký přepínač!
+Malá páčka je přitavena k misce. ^ ^ {LEAD}{NAME} opatrně aktivoval žhavý čudl!
+Ve stěně se objevil průchod!
+"Bezva! Můžeme se dostat do vnitřní oblasti pomocí tajné chodby!"
+V truhle jsou nějaké nápoje!
+"Prosím nevyrušujte mě při mých studiích! Dal bych přednost tomu, kdybyste opustili můj pokoj."
+{INK 002} "Buďte pozdraveni, cizinci. Omluvte mě, musím se soustředit na svá studia."
+{INK 001} Nováček vykřikl: ^ ^ {INK 002} "Hej! Na nic mi tu nešahejte! A radši hned vypadněte!"
+Najednou se postranní skrytou chodbou rozlehlo zvolání!
+{CNTR}{INK 002} "Co tu děláte? ^ ^ {FAHI}POPLACH! {NORS} "
+{INK 002} "Pokusili jste se znesvětit vnitřní prostory Khamulonu!"
+{INK 002} "Vzdáte se?"
+{INK 002} "Chcete, aby se vám dostalo cti bojovat? Máte ji mít!" ^ ^ {INK 001} Kenget Kamulos zaútočil!
+Objevili se další Kenget Kamulos!
+Kenget Kamulos okamžitě opět zaútočili!
+"Vezměte je do prostor pro vězně!"
+Stráž dovedla družinu do nitra hory. Paprsky soumraku ukázaly další chodby, které protkávaly horu. Tohle místo musí být gigantické!
+"Buďte zdrávi. Nemíváme tu zrovna moc návštěvníků. ^ ^ Vyložte mi veškeré důvody, proč tu jste. Mluvte přímo k věci."
+"Jak si přejete. ^ ^ Přišli jsme, abychom vám nabídli obchod. ^ Jsme ochotni zaplatit vám nemalou sumu zlata, za určitou část vašich magických znalostí, která se týká využití velkého množství energie."
+"{FAT } Vy chcete Vyšší vědění? {NORS} ^ ^ Vy máte tolik arogance chtít po nás jádro našich magických vědomostí?"
+"Přesně tak. {FAT } Vy {NORS} jste nás žádal o otevřenost. Musíme vykonat nesmírně důležitou misi."
+"Nikdy nás nezajímají motivy našich návštěvníků. Máte pravdu, vaše otevřenost se nedá přehlédnout. ^ ^ Předtím, než učiním unáhlený závěr, budu si to muset probrat s Cuainem, naším náčelníkem. ^ ^ Budu vás muset dovést do prostor pro hosty. Tam se budete moci volně pohybovat, taktéž máte k dispozici oblast otroků a nováčků. Nepokoušejte se proniknout do dalších oblastí. ^ ^ Dám vám brzy na srozuměnou naše stanovisko."
+Skupina byla dovedena dlouhými chodbami a halami až do prostorné místnosti.
+"Hmm, Kengetova reakce byla kladnější než jsem očekával. Alespoň nás hned nevyhodil nebo neuvěznil."
+"Věřte mi, jsem si jistý, že chystají něco, co se nám nebude ani trošku líbit. ^ ^ Kengeti se nikdy nevzdají svých Vyšších vědomostí."
+"Nemáme pravděpodobně jiného východiska, než že musíme čekat a mít se napozoru. ^ ^ Můžeme se aspoň trochu porozhlédnout po okolí. čím víc se toho o tomto místě dozvíme, tím líp."
+"Teď jsem si tak vzpomněl na něco, co by vás určitě zajímalo. ^ ^ Jak víte, podle mě Kenget Kamulos nikdy dobrovolně Vyšší Vědění nevydají. Proto si ho musíme obstarat bez jejich svolení. ^ ^ Když jsem byl ještě nováčkem, dozvěděl jsem se o obytné buňce, z které byl přístup do chodby, která vedla do vnitřních částí. Když budu mít trochu štěstí, najdu místnost, ve které se, kromě jiných zajímavých věcí, ukrývají i záznamy o Vyšším vědění. ^ ^ Co si to tom myslíte?"
+Má Khunag vést celou družinu do obytné buňky, z které vede tajná chodba? {BLOK000} Ano, hned. {BLOK001} Ne, ještě vyčkat.
+"Jak chcete. Věřím, že je to jediná cesta, jak lze Vyšší vědění získat."
+Khunag vede skupinu do obytné buňky v severní oblasti pokojů pro nováčky.
+"Tady to je. Musí tu být někde ukrytý přepínač."
+"Zatraceně. Někdo v této obytné buňce je."
+"Jestli si to pamatuju správně, tajný vchod do vnitřních oblastí je v této obytné buňce. Musí tu být někde ukrytý spínač."
+"Teď jsem si tak vzpomněl na něco, co by vás určitě zajímalo. ^ ^ Jak víte, podle mě Kenget Kamulos nikdy dobrovolně Vyšší Vědění nevydají. Proto si ho musíme obstarat bez jejich svolení. ^ ^ Když jsem byl ještě nováčkem, dozvěděl jsem se o obytné buňce, z které byl přístup do chodby, která vedla do vnitřních částí. Tohle je ta obytná buňka."
+"Kengeti nás nechávají dlouho čekat. Ještě jednou na vás naléhám, využijme té tajné chodby. Je tu vysoká pravděpodobnost, že se nám tak podaří Vyšší vědomí získat!"
+"čas od času vám dám vědět, kde se zrovna nalézáme. Khamulon je velmi rozlehlý. Skoro celá hora byla vyhloubena za pomoci otroků a magie."
+Khunag vede skupinu do obytné buňky v severní oblasti pokojů pro nováčky.

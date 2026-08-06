@@ -1,0 +1,137 @@
+﻿-free-
+Větve a kořeny.
+Koš.
+Skleněná nádoba na vodu a další nápoje.
+Barel..
+Nádherná zvířecí kožešina.
+Košík.
+Keramický poár.
+Láhev.
+Talíř.
+Keramická konvice.
+Konvice.
+Stolní nůž.
+Vidlička.
+Lžíce.
+Keramická skříň.
+šutry.
+Pohár.
+Farmářské náčiní.
+Sekyrka.
+Víko truhly.
+Dřevěná truhla.
+štědře dekorovaná dřevěná truhla.
+Opočívací místnost.
+Víko.
+Velký dřevěný džber.
+Velký ocelový kotlík
+Kredenc.
+Na polici jsou všechny druhy různých věcí.
+Sekretář.
+Koště.
+Gril..
+Můžete na tom grilovat maso.
+Ohniště.
+Karafa.
+Sběračka.
+Dekorativní nástěný meč.
+Dřevěný stůl.
+Stolice.
+Stolička.
+Masivní stůl na večeři.
+Kořen.
+Dvě zkřížená kopí.
+Velký barel napuštěný podivnými látkami.
+Pípa.
+Přikrývka.
+Komfortní a velmi pěkně dekorovaná postel.
+Tato postel je rovná, ale praktická.
+Kuchyňský stůl.
+Ohniště.
+Z ohniště sálá příjemné teplo.
+Dekorativní hrneček.
+Sušené rostliny.
+Lidská lebka.
+Dekorativní štít.
+Ocelový hrnec.
+Dekorativní meč.
+Dveře.
+Kotlík.
+Nůž.
+Krátká díka.
+Dýka.
+Velká dýka.
+Krátký meč.
+Meč.
+Stileto.
+Házecí dýka.
+Malá sekera.
+Sekyrka.
+Malý luk.
+Luk.
+šíp.
+Malý kožený štít.
+Kožený štít.
+Kulatý štít.
+Velký štít.
+Kožená čapka.
+čepice s reliéfem.
+Kovový půl pohár.
+Kožená vesta.
+Kožené brnění.
+Vesta s reliéfem.
+Pár střevíců.
+Pár vysokých bot.
+Prázdná láhev.
+Zelená léčivý lektvar.
+Léčivý lektvar.
+Modrý léčivý lektvar.
+Klíč.
+Provaz.
+Prsten.
+Louč.
+Kladivo.
+Schody. Vedou nahoru.
+Schody. Vedou dolů.
+Přepážka.
+Rohožka.
+Domácí rostlina.
+Květináč.
+A fire container.
+Police plné knih.
+Knihy.
+Knihy.
+Otevřené knihy.
+Fontána vyplněná čistou vodou.
+{LEAD}{NAME} vyplnil vědro vodou.
+Mechanický spínač.
+Spínač je zaseklý. Nelze s ním pohnout.
+Spínací páka.
+Ohnivá koule na podlaze. Vyzařuje světlo a teplo.
+{LEAD}{NAME} vběhnul do plamenů a zapálil se!
+{LEAD}{NAME} vyprázdnil vědro s vodou do ohnivé koule a uhasil plameny!
+Kamená deska s ustupujícím povrchem.
+Další ohnivá koule je uhašena.
+Tato cesta je blokována ostrými meči, které pronikají z podlahy.
+Malé mosazné díry v podlaze.
+Ustupující podlaha.
+Poškozený spínač.
+Uhašená ohnivá koule.
+{LEAD}{NAME} vložil páku do poškozeného spínače. Vypadá to, že znovu funguje!
+žlutá vzorkovaná kamená deska. Vypadaá to, že by šla dolů, pokud by naní někdo vstoupil.
+Nic se neděje. Spínač je neprovozuschopný.
+Nic se neděje.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+"Já myslím, že je třeba vstoupit na tyto podlažní desky ve správném pořadí, aby to vyvolalo nějakou odezvu."
+"Víš možná se mýlím, ale pojal jsem dojem, že ten zkřížený obrazec na podlaze ve tvaru mečů, není pouhá schoda okolností a náhod. Je to podivné.."
+"Podívejte na šedou kámenou desku na zdi. Zajímalo by mne, jestli se stane něco zvláštního, pokud ji stisknu!"
+{INK 001}{LEAD}{NAME} zírá na kamennou desku. Uprostřed je část, která se dá stisknout.  Než může kdokoliv cokoliv říci, Drirr povídá: ^ ^ {INK 002} "Na co čekáme? Nechte mě to zkusit!" ^ ^ {INK 001} Drirr stopnula na kamenou desku naprosto bez otálení. Okamžitě však z podlahy vyletěly ostré čepele a zablokovaly cestu!
+"Dobrá práce,Drirr, můj zvědavý příteli. A teď nám pověz co máme dělat dál?"
+"Dobrá. Alespoň čepele nevyskočily pod naše nohy. Co je s tou deskou tady? Vyskočila nahoru, když jsme tu první , s Driinou pomocí stiskli.."
+{INK 001}{LEAD}{NAME}:{INK 002} "ARGHH..sakra! Tos měla být ty Drirr, čí kožich se měl připálit!"
+"Podívejte sem! čepele zajely zpátky do podlahy! Co říkáte! Pojďme dál!"
+"TA věc spustila mechanismus. čepele vyjely z podlahy!!"
+Zvuk tisknoucích se kamených desek je slyšet z jihovýchodního směru.
+V této truhle je několik zlatých a nádherně vytvořený prsten.

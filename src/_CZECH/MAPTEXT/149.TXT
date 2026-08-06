@@ -1,0 +1,131 @@
+﻿-free-
+Větve a kořeny.
+Koš.
+Skleněná nádoba na vodu a další nápoje.
+Barel..
+Nádherná zvířecí kožešina.
+Košík.
+Keramický poár.
+Láhev.
+Talíř.
+Keramická konvice.
+Konvice.
+Stolní nůž.
+Vidlička.
+Lžíce.
+Keramická skříň.
+šutry.
+Pohár.
+Farmářské náčiní.
+Sekyrka.
+Víko truhly.
+Dřevěná truhla.
+štědře dekorovaná dřevěná truhla.
+Opočívací místnost.
+Víko.
+Velký dřevěný džber.
+Velký ocelový kotlík
+Kredenc.
+Na polici jsou všechny druhy různých věcí.
+Sekretář.
+Koště.
+Gril..
+Můžete na tom grilovat maso.
+Ohniště.
+Karafa.
+Sběračka.
+Dekorativní nástěný meč.
+Dřevěný stůl.
+Stolice.
+Stolička.
+Masivní stůl na večeři.
+Kořen.
+Dvě zkřížená kopí.
+Velký barel napuštěný podivnými látkami.
+Pípa.
+Přikrývka.
+Komfortní a velmi pěkně dekorovaná postel.
+Tato postel je rovná, ale praktická.
+Kuchyňský stůl.
+Ohniště.
+Z ohniště sálá příjemné teplo.
+Dekorativní hrneček.
+Sušené rostliny.
+Lidská lebka.
+Dekorativní štít.
+Ocelový hrnec.
+Dekorativní meč.
+Dveře.
+Kotlík.
+Nůž.
+Krátká díka.
+Dýka.
+Velká dýka.
+Krátký meč.
+Meč.
+Stileto.
+Házecí dýka.
+Malá sekera.
+Sekyrka.
+Malý luk.
+Luk.
+šíp.
+Malý kožený štít.
+Kožený štít.
+Kulatý štít.
+Velký štít.
+Kožená čapka.
+čepice s reliéfem.
+Kovový půl pohár.
+Kožená vesta.
+Kožené brnění.
+Vesta s reliéfem.
+Pár střevíců.
+Pár vysokých bot.
+Prázdná láhev.
+Zelená léčivý lektvar.
+Léčivý lektvar.
+Modrý léčivý lektvar.
+Klíč.
+Provaz.
+Prsten.
+Louč.
+Kladivo.
+Schody. Vedou nahoru.
+Schody. Vedou dolů.
+Přepážka.
+Rohožka.
+Domácí rostlina.
+Květináč.
+A fire container.
+Police plné knih.
+Knihy.
+Knihy.
+Otevřené knihy.
+Fontána naplněná čistou vodou.
+{LEAD}{NAME} naplnil vědro čistou vodou.
+Mechanický spínač.
+Spínač je zaseklý. Nedá se s ním pohnout.
+Spínací páka.
+Ohnivá koule na podlaze. Vyzařuje světlo a teplo.
+{LEAD}{NAME} vběhl do plamenů a podpálil se!
+{LEAD}{NAME} vyprázdnil do ohně vědro s vodou a uhasil ho tím!
+Kamená deska s klesajícím povrchem.
+Další ohnivá koule byla uhašeny.
+Tato cesta je blokována ostrými meči, které vyvěrají z podlahy.
+Malé mědené díry v podlaze.
+Ustupující deska na zemi.
+Zničený spínač.
+Uhašená ohnivá koule.
+{LEAD}{NAME} vložil páku do poškozeného spínače. Už opět funguje!
+žlutě vzorkovaná kamená deska. Vypadá, že by mohla klesnout pokud by na ni někdo vstoupil.
+Nic se nestalo. Spínač je nefunkční.
+Nic se neděje..
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+"Mellthasi! Tys našel svého starého opatrovníka?"
+Mellthas si bez hlesu prohlíží svého nevlastního otce ^ ^ Pak jdou společně ke svým přátelům.
+Se spoustou gest uvádí Mellthas do společnosti Beroa. Se Siřrnou pomocí vysvětluje jak se Sira a Mellthas cítí spolu dobře. ^ ^ Pak pospýchají nazpátek jak jen to je možné.
+Bero, kterého hledali bloudí v této zanebané místnosti!^ ^ Jeho zoufalství se rychle mění v radost, když vidí své zachránce a zvláště Mellthase!
+Mellthas se dal zase dohromady, když viděl kdo tu stojí.

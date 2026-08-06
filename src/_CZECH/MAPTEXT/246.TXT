@@ -1,0 +1,23 @@
+﻿-free-
+Dveře.
+Dveře jsou zaseklé, ačkoli nejsou zamčené.
+Kdokoli chce procházet dveřmi, může procházet dveřmi! (ehe?)
+Tyto dveře ruka neotevře.
+Magická ploška.
+Ve stropě tu je otvor, ale je příliš vysoko, ani po laně se tam nedá vylézt.
+Toto pole vypadá odlišně od těch všech, která jste viděli dříve.
+Schodiště.
+Kdo mě teď obtěžuje? Co chcete? Vsadím se, že vám dal Sebenno klíč, který stejně jako on k ničemu není. Prosím, nevyrušujte mě. Mám spoustu práce, musím se vypořádat se svým náročným studiem. Dřív než odejdete, poslechněte radu od starého Kossotta: dávejte si pozor na démony. ^ ^ He, he, he."
+"Tady jste. Slyšel jsem, že mě hledáte. Sojekos mi svěřil tajnou informaci, kterou vám mám poskytnou, ale neposkytnu vám ji, dokud pro mě na oplátku něco neuděláte, ^ ^ Velmi dlouhou dobu jsme zkoumali rituální obřad, abychom nebyli závislí na Horských kněžích. Dostali jsme se docela daleko, ale pořád ještě neznáme to nejdůležitější - magické slovo. Už se neopovážíme ukázat v Hornickém cechu, protože už jsme u nich dříve takto slídili - neúspěšně, bohužel. Několikrát nás chytli. ^ ^ Pokud se vám podaří zjistit toto magické slovo a řeknete mi ho, předám vám tu informaci, kterou potřebujete. To vám slibuji na svou čest."
+"Víte to magické slovo?"
+"Pak ho prosím zkuste zjistit. Vím, že to dokážete, protože vám stále důvěřují. řeknu vám, co potřebujete vědět, když pro náš cech uděláte tuto laskavost."
+"Co je to?"
+"Nevěřím, že je tohle mocné heslo pro obřadní rituál."
+"Matko naše pozemská - to je ono. Měl jsem být schopen přijít na to sám. No, slib je slib. ^ ^ Ze všeho nejdřív vám děkuji za vaši pomoc. A teď chci, aby jeden z vás přistoupil, abych mu mohl dát svitek a říci, co a jak."
+{LEAD}{NAME} si odhlasoval(a), že to bude on(a) a přistoupil(a) ke Kossottovi. Obdržel(a) svitek a vyčerpávající vysvětlení. Všichni ostatní pozorně naslouchali, ale kromě {LEAD}{NAME} tomu nikdo plně neporozuměl. Po chvíli Kossotto skončil a {LEAD}{NAME} měl(a) na tváři vyčerpaný výraz. Každopádně důležitá ingredience na vytvoření semínka byla nalezena!
+"Přeji vám hodně štěstí!"
+"Už není nic, co bych pro vás mohl ještě udělat."
+"říká se: 'Matko Země, ochraňuj mě.'"
+"Naším jazykem: 'Umajo Danu'."
+"Nemůžete si s sebou vzít svitek, protože ho nemáte kam dát!"
+Prázdný sud.

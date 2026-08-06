@@ -1,0 +1,29 @@
+﻿!
+Když někdo šlápne na desku přede dveřma, tak se rozsvítí (deska). V tom samém okamžiku se otevřou i dveře.
+Nášlapný plát se rozsvítil.
+Tohle vypadá jako plát s průhledným, světélkující povrchem.
+Když se tato deska rozsvítila, dveře na "západní" straně této místnosti se otevřely.
+Přepínač.
+Přepínač nemění svou polohu ani po několikerém zatlačení.
+Dveře se pokusily zavřít, ale zůstaly otevřeny. Zřejmě detekoval sensor v jejich okolí něčí přítomnost.
+V severní zdi je výklenek.
+Výklenek je prázdný, čeká tu na den, kdy do něho někdo něco dá.
+Výklenek.
+Zprava sem dolehl hluk.
+Jakmile se dveře s červenými světly otevřely, takmile nemile se ty se zelenými zavřely. Cesta zpátky není možná!
+Tohle je servisní robot. Vykonává neznámý úkol.
+Dveře. Není tu vidět žádný mechanismus na otvírání.
+Fluoreskující žárovka. Vyzařuje studené bílé světlo.
+Ocelový nosník.
+Poloprůsvitné zdi značí servisní přístup. žebřík uprostřed vede nahoru.
+Digitální panel pro zadávání číselných kódů.
+Dveře s červenými světly po straně. Není vidět žádný mechanismus na otvírání.
+Dveře s zelenými světly po straně. Není vidět žádný mechanismus na otvírání.
+Dveře s modrými světly po straně. Není vidět žádný mechanismus na otvírání.
+Kombinace číslel byla zřejmě správná: dveře vedle panelu se otevřely.
+Nic se nestalo.
+YES! Máme to!
+žebřík. Vede dolu.
+Rytmické poblikávání panelů na zemi pravděpodobně značí nějakou funkci.
+Vadná fluorescentční žárovka.
+{INK 001} Tom uložil do výklenku ve zdi zbraň. {INK 002} ^ ^ "Tak. Teď když se mi sem podaří dostat se z druhé strany, budu moci ostrahu ošálit a zbraň bude moje!"

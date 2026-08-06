@@ -1,0 +1,462 @@
+﻿nůž
+krátká dýka
+dýka
+dlouhá dýka
+krátký-meč
+meč
+obouručák
+Lughova dýka
+Danusovo světlo
+bodná rána
+dvojitý zásah
+těžký krátký-meč
+dekorativní meč
+vrhací dýka
+dlouhý meč
+malá sekera
+sekera
+bojová sekera
+malá bojová sekera
+velká bojová sekera
+obouruč. boj. sekera
+bojová palice
+bojové kladivo
+Iskai nůž
+Iskai dýka
+Iskai stiletto
+Iskai krátký meč
+velký Iskai stilet
+Iskai meč
+velká Iskai šavle
+Iskai dlouhý meč
+Iskai kopí
+velká Iskai dýka
+Iskai krátký stilet
+Bradirův stilet
+big Iskai sword
+malý luk 
+luk
+dlouhý luk
+šíp
+dlouhý šíp
+minivrhač blesků
+vrhač blesků
+mušketa
+blesk
+otrávený blesk
+pistole
+malý kožený štít
+kožený štít
+kulatý štít
+velký štít
+vroubený štít
+kovový štít
+malý Iskai štít
+Iskai štít
+velký Iskai štít
+kožená přilba
+hřeby pobitá přilba
+kovový polokrunýř
+kovová helma
+Iskai kořená přilba
+Iskai kovová přilba
+Iskai kovová helma
+kožená vesta
+kožené brnění
+hřeby pobitá kůže
+lehká kroužk. zbroj
+těžká kroužk. zbroj
+Iskai hrudní plát
+Iskai kovový plát
+lehká Iskai zbroj
+Iskai zbroj
+boty
+vysoké boty
+prázdná láhev
+zelený léč. lektvar
+turecký léč. lektvar
+modrý léčivý lektvar
+červený lektvar
+fialový lektvar
+modrý lektvar
+Hunter-clan key
+klíč
+zbrojařův klíč
+klíč ke dveřím
+klíč od vězení
+klíč od truhly
+klíč k žaláři
+Herrassin klíč
+klíč od dveří
+Klíč pána příšer
+provaz
+hadí látka
+krystalová látka 
+Danusův obojek
+ledový kruh
+ohnivý kruh
+kruh hněvu
+kruh zbožnosti
+kniha
+louč
+louč (hořící)
+bedna
+bedna
+krabice
+talíř
+bylinky
+bylinky
+zákusky
+koření
+bedna
+plechovka
+bedna
+bedna
+bedna
+kuchyňský nůž
+bedna
+láhev
+láhev
+kniha
+příbor
+šálek
+kniha
+bedna
+bedna
+bedna
+bedna
+bedna
+láhev
+vonný kořen
+láhev
+rozbitá lahev
+bedna
+láhev
+kniha
+polštář
+talíř
+sběračka
+byliny
+ovoce
+studená pečeně
+lahev
+lahev
+košík
+hadr
+ručník
+šálek
+kartáč na chlupy
+lžíce
+šálek
+ulita
+koření
+ovoce
+malá  bedna
+příbor
+talíř
+vidlička
+bedna
+salám
+šunka
+lžíce
+kleště
+kartotéka
+malá kartotéka
+krumpáč
+šroubovák
+kladivo
+kladívko
+ploché kladivo
+speciální kladivo
+kleště na ohýbání
+kuchyňský nůž
+zákusky
+ovoce
+malý šroubovák
+šálek
+pilka na kov
+nářadí
+francouzský klíč
+kovová krabička
+kovová konstrukce
+drátěná konstrukce
+kovová mušle
+mosazné kuličky
+ampulka
+ampulky
+červená ampulka
+kladivo
+nůžky
+mísa
+francouzský klíč
+ostré nůžky
+láhev
+lahvička
+láhev s vodou
+mísa
+minomet
+lupa
+pinzeta
+uzený salám
+hliněná mísa
+hliněná mísa
+vidlička
+stolní nůž
+talíř
+lžíce
+hliněná bedna
+bliněná bedna
+hliněná bedna
+hliněná bedna
+hliněná bedna
+hliněná bedna
+příbor
+džbánek
+hliněná bedna
+roh na pití
+talíř
+hliněný džbán
+naběračka
+hliněná bedna
+hliněná bedna
+hliněná bedna
+hliněná bedna
+hliněná bedna
+košík
+polštář
+těžký krátký meč
+těžká dýka
+kovové brnění
+kniha
+kniha vázaná v kůži
+noty
+tužka
+kniha
+kniha
+košík
+košík
+zelenina
+kovový hrnek
+zákusky
+naběračka
+skleněná bedna
+skleněná bedna
+velká sklen. nádoba
+talíř
+talíř
+láhev
+láhev
+dřevěný džbán
+velký skleněný džbán
+velká skleněná váza
+hliněná bedna
+hliněná bedna
+hliněná bedna
+proutěný koš
+Iskaiský pozn. blok
+poznámky
+Iskai zvonící kniha
+Iskaiský bloček
+tužka
+krátká tužka
+páka
+vědro vody
+oko monstra
+kompas
+hodiny
+sekera na kopání
+duhová hůl
+modrá hůl
+dobrá Iskai dýka
+speciální šroubovák
+modrá kódová karta
+červená kódová karta
+zelená kódová karta
+tyrkys. kódová karta
+notebook
+tyrkys. hud. krystal
+modrý hud. krystal
+červ. hud. krystal
+zelený hud. krystal
+purpur. hud. krystal
+fial. hud. krystal
+okrový hud. krystal
+kus masa
+sekera
+dlouhý šíp
+šíp
+pás blesků
+kanystr
+paklíč
+stimdrink
+kovové brnění
+kovové brnění
+sklenice
+šálek
+šálek
+bedna
+bedna
+láhev
+láhev
+šálek
+nádobka
+nádobka
+nádobka
+konzerva
+pohár
+číše
+plechovka
+džbán
+džbán
+pepř a sůl
+sojová omáčka
+nádoba
+malá plechovka
+nádoba
+lopata
+rýč
+francouzák
+francouzák
+šroubovák
+příruční konzole
+PDA
+šroubovák
+kleště
+stříbrný náhrdelník
+zlatý náhrdelník
+stříbrný prsten
+prsten se zlatem
+zlatý prsten
+stříbrný řetízek
+řetízek se zlatem
+zlatý řetízek
+diamantový přívěšek
+drahokam
+drahokam
+drahokam
+drahokam
+drahokam
+drahokam
+drahokam
+drahokam
+drahokam
+drahokam
+Triifalaiské semínko
+přívěšek pro štěstí
+zlodějský amulet
+amulet rychlosti
+ochranný amulet
+amulet výkonu
+amulet síly
+Porenoil
+vonná voda
+křišťálová dýka
+Dýka slunce
+Ohnivé ostří
+Kamulosův pohled
+Berla mrazilka
+krystal. vrh. sekera
+přilba s křišťálem
+Helma Lungova palice
+listina
+část listiny
+část listiny
+Snový štít
+Lughův štít
+zkázonosná koule
+krondir Trii
+diamant
+Tharnosovo svolení
+Ohňová koule
+dotek plemene
+Meč stínů
+Rudý meč
+Křišťálová dýka
+Modrá dýka
+Helma bludn. kamene
+Sněhový prsten
+pracovní oděv
+oděv
+Kámen vidění
+znalost želez. magie
+"Vyšší vědomí"
+Kengetův znak
+SEMíNKO
+SEMíNKO
+kódová zpráva-část 1
+kódová zpráva-část 2
+kódová zpráva-část 3
+mapa sklepení
+video kamera
+zálohovací zařízení
+Joevům čip
+světelná hůl
+světelná hůl
+amulet bohyně
+malá koule Warniaka
+Dji Cantosův kámen
+Trnová past
+spěch
+Názor na život
+protijed
+lék proti šílenství
+antibiotikum
+ledový úlomek
+levový křišťál
+lavina mrazu
+lék proti oslnění
+oslepující jiskra
+Oslepující paprsek
+Oslepující bouře
+uspávací výtrus
+Trnová past
+odstranit past
+Lék proti paralýze
+vyléčit opilost
+léčit slepotu
+léčit otravu
+infikace houbami
+světlo
+regenerace
+pohled na mapu
+Ten kdo nosí život
+Teleport
+Rychlý ústup
+levitace
+kámen
+Bohyní hněv
+podráždění
+zotavení
+Bersek
+vyhnat ducha
+vyhnat duchy
+exodus démonů
+Malá ohňová koule
+Kouzelný štít
+Hojivý lektvar
+chlouba
+šok
+Panika
+Otrávený kámen
+Blesk
+déšť ohně
+hromový blesk
+Ohňobití
+Bouře
+past s bleskem
+Velká past s bleskem
+Blesková mina
+Velká blesková mina
+Ukrást život
+ukrást magii
+osobní ochrana
+Kamulosův pohled
+odstranit past
+berla šokovka
+těžká zbraň
+Iskaiské obutí
+barevná mapa
+mapa pokladu
+Mellthasovy zápisky
+Mellthasovo písátko
+laser

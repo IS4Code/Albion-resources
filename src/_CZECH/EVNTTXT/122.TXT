@@ -1,0 +1,40 @@
+﻿{BLOK000} "Byl jsem poctěn tím, že mohu být hlavou Dji-Das."
+"Myslím, že je Akiirův přítel."
+"Naše magie je v tomto světě hluboce zakořeněna. Například, všechny naše kouzla od nás vyžadují soustředit své duševní síly ve zvláštním druhu semen. Jsme také pyšní na pestrost našeho řemesla. Známe magii k tvoření a ničení, zraňování a hojení. ^ Jako znak našeho cechu, nosíme na kůži zvláštně zabarvený vzor. Vůdce Dji-Kas je Sebai-fre FAsiir. Všechen svůj čas tráví v cechovním domě." {WORDseed}{WORDhealing}{WORDFasiir}{WORDguild house}
+{INK 001} Fassi jedná zábavně. {INK 002} "Tedy, hovoříte s ním!"
+"Není to semeno samotné, které vytváří magický efekt, ale duch Dji-Kas, který bývá nalezen v jeho středu. Semena pocházejí ze zvláštní rostliny, nazývané Triifalai, což znamená 'Trii Bohyně.' Jsou prodávána v cechovním domě."{WORDTrii}{WORDGoddess}
+"Vpravo od vchodu do cechovního domu najdete Stri Rejiru, Mistrini v Léčebném Umění. Ona vyléčí vaše zranění."
+"To je jméno rostliny, která produkuje semena velké hodnoty. {WORDseed}"
+ 
+"Oh, stavitelé. Vztahy mezi našimi cechy jsou občas trochu problematické. Naše rozmanitá řemesla přitahují některé jejich nejtalentovanější členy. A kdo je může obviňovat? Kdo by nechtěl vložit celé své úsilí do stavby domů, bez ohledu na to, jak jsou krásné? Možná jsou Dji-Fadh trochu rozhněvaní, protože jsme postavili náš cechovní dům bez jejich pomoci."
+"Cechovní dům byl dlouhou dobu v jihozápadním rohu Jirinaaru. Vystavěn Dji-Kas byl domovem mnoha členů cechu a všech Dra."{WORDDra}
+"Nikdy jsme neposlali Akiirova vraha! Kriis lže, Bohyně ví proč. Nemáme žádné důvody dělat něco tak hanebného!"{WORDGoddess}
+"Dovolte mi ještě jednou poděkovat, že jste nás očistili od podezření z Akiirovy vraždy!"
+"Akiir je hlavou Tvůrců, cechu, který se od nás v mnohém liší. Zvláště pak Akiir nechce opustit svou cestu vyhýbání se konfliktům."{WORDFormer}
+"Neznáte Fasiira tak dobře jako ti, kteří s ním, jako já, tráví většinu dne. Nikdy by nespáchal takový zločin! Ale pochybuji, že budete věřit slovům člena jeho cechu."
+"Jsem opravdu vděčný, že jste očistili jeho jméno."
+"Nevím nic o vraždě."
+dummy
+dummy
+dummy
+dummy
+dummy
+"Dsarii-ma a vítejte v domě Dji-Kas. Měl bych se představit: Fassir, starší Stri Dji-Kas a Sebai-fre. ^ Slyšel jsem o působivé, a v konečném důsledku také neblahé, magii vašeho létajícího stroje. Jak si dovedete představit, rozhovor s vámi mne velmi zajímá. Můžete stručně vysvětlit, jak vaše magie pracuje?" {BLOK010} "Rád se o to pokusím. Fasiire" {BLOK011} "Nemyslím, že by se mi to povedlo dobře vysvětlit."
+"Děkuji vám za vaši ochotu ukojit mou zvědavost." ^ ^ {INK 001}{LEAD}{NAME} vysvětluje. ^ {INK 002} "Nazýváme ji technologií. Jsou zde dokonalé stroje, které nám umožňují cestovat vzduchem ze světa do světa. Jsou především založeny na jednoduchých principech, avšak..." ^ ^ {INK 001} Je to dlouhé vysvětlování, často přerušované Fasiirovými překvapivě bystrými otázkami. Pak říká: ^ ^ {INK 002} "To je úžasné. Pokud dobře rozumím, vaše stroje čerpají energii z látky, bez toho, aby se musely uchylovat k použití duchovních nebo magických prostředků!"
+{INK 001} V tom se do toho vkládá Reiner. {INK 002} "Omluvte mne, Fasiire. Slyšel jem vás a jiné Iskai hovořit o magii a to se mi zdá nezapadá do upřímné povahy vašeho lidu. My jsme před stovkami let vypověděli magii do říše pověr a..." ^ ^ {INK 001} Fasiir: ^ {INK 002} "Nyní rozumím! Tak vy věříte, že magie jsou pověry, pomocí kterých se snažíme porozumět zákonům světa! Věřte mi, tak to není! Musíte pocházet z divného světa, takového, který zná pouze energii ze hmoty. Dovolte mi, něco vám ukázat! Následujte mne, prosím, do naší pokusné místnosti!"
+"Jak říkáte. Přirozeně máte právo nechat si svá tajemství pro sebe. Prosím omluvte mne, mám na práci jiné věci."
+-dummy-
+"Oh, vidím, že potřebujete léčivé síly! Prosím, rychle běžte do místnosti u vchodu. Tam vám pomohou!"
+"Dsarii-ma." {BLOK010} "Omluvte nás, pokud jsme vás urazili Sebai-fre. Rád se vám pokusím vysvětlit naši 'magii', pokud to považujete za důležité." {BLOK011} "Omluvte nás, musíme jít."
+"Dsarii-ma, návštěvníci. Mohu pro vás ještě něco udělat? Doufám, že nechcete další ukázku. Po tom všem se necítím zrovna nejlépe, hir hir!"
+"Akiir! Před mnoha lety zde byl spor a od té doby jsme byli nepřátelé. Něco se mezi námi stalo, že... Promiňte mi, ale raději bych o tom nemluvil."
+"Jak už jsem řekl, nechci o našem nepřátelství mluvit."
+SEQUENCE FOLLOWS!
+{INK 001} V tom se do toho vkládá Tom: {INK 002} ^ ^ "Omluvte mne, Fasiire. Slyšel jem vás a jiné Iskai hovořit o magii a to se mi zdá nezapadá do upřímné povahy vašeho lidu. My jsme před stovkami let vypověděli magii do říše pověr a..." ^ ^ {INK 001} Fasiir: ^ {INK 002} "Nyní rozumím! Tak vy věříte, že magie jsou pověry, pomocí kterých se snažíme porozumět zákonům světa! Věřte mi, tak to není! Musíte pocházet z divného světa, takového, který zná pouze energii ze hmoty. Dovolte mi, něco vám ukázat! Následujte mne, prosím, do naší pokusné místnosti!"
+Fasiir vede své hosty do místnosti, kde v prostřed bahnité podlahy vyčnívá kamenitý povrch.
+"Nejkrásnější části magie je skutečnost, že můžeme tvořit věci, i pokud jsou to pouze všední předměty. ^ ^ Podívejte!"
+"Driscoll, Já... Viděl jsi to? To je... Myslím... ^ ^ Já se zblázním! Ten strom je skutečný! To není trik!"
+"To je skutečně něco! Ti lidé nejsou lháři, to je jisté. To bylo bez nějakých urychlovačů růstu."
+"Království za pár měřících přístrojů! Nemohou si dělat legraci z fyzikálních zákonů!"
+"Vidím, s jistým uspokojením, že jsem rozptýlil vaše pochybnosti. Doufám, že si nyní o našem nadáni budete myslet něco trochu jiného. ^ ^ Byla to pro mne pocta, mluvit s vámi, {LEAD}{NAME}. Pokud chcete, můžete se zde porozhlédnout, ale nyní se musím vrátit ke své práci."
+"V tom případě, děkujeme za působivou ukázku vašich schopností Fasiire."

@@ -1,0 +1,53 @@
+﻿empty
+Malý mechanický spínač.
+Spínač.
+Velká páka.
+Stavba ze sklu podobnému materiálu stojí na zemi.
+Dveře.
+Dveře jsou pevně zavřené. žádný zámek v dohledu.
+Zamknuté mřížoví. Bez zámku.
+Fontána naplněná čistou vodou.
+žhavé plameny vycházejí z mosazného kotouče na zemi.
+Mosazný kotouč na zemi.
+Mosazný kotouč s velkým otvorem uvnitř.
+Plápolající oheň. Vyzařuje velké množství energie.
+Průsvitná zeď z velmi pevného materiálu.
+Toto vypadá jako druh silového pole. Vydává tak hlasitý bzučivý zvuk, že se z něj vlasy řadí do pozoru a {LEAD}{NAME} zuby drnčí o sto devět.
+Velká díra v podlaze.
+Ve stropě tu je otvor.
+Kamenný sloup s prohlubní.
+V tomto sloupu plápolá oheň.
+Dveře jsou pevně zamčené.
+Starý sud.
+Zaprášená váza. {LEAD}{NAME} se do ní podíval, ale nic v ní nenašel.
+Kmen s kovovými částmi nábytku.
+Hromada haraburdí. {LEAD}{NAME} ji prohledal, ale nenašel nic zajimavého.
+Spínač si prosadil trvalou pozici.
+V těchto místech se zeď jeví velmi křehce.
+{LEAD}{NAME} uštědřil zdi několik svých prominentních buchů. Zeď se pod nimi zřítila!
+{LEAD}{NAME} naplnil kbelík vodou.
+{LEAD}{NAME} vstoupil do plamenů a došel tak popálenin druhého stupně.
+{LEAD}{NAME} vychrstl na plameny kýbl vody a úspěšně je tím uhasil.
+Další plamen byl uhašen.
+{LEAD}{NAME} vběhl do plamenů a ucítil prudkou bolest, která mu proběhla celý tělem! Po několika nekonečných vteřinách silové pole zmizelo.
+Když se ho tyč dotkla, silové pole zmizelo! Tyč se proměnila v prach.
+Všem se podařilo vylézt po laně hore!
+Letící ohnivá koule. Vyzařuje nesnesitelný žár.
+Najednou všichni pocítili nesnesitelný žár: ohnivá koule se přiblížila!
+"Neuvěřitelné. Nedokážu pochopit, co drží tyto ohnivé koule ve vzduchu. Je to bublina hořícího plynu? Ale jak může být tak stálá? Záhada."
+"Začínám podezřívat svou příčetnost! Toto pole nevypadá, že by bylo elektrického původu a další zdroj energie se nedá zjistit. Co to proboha udržuje "nabité"? Skoro to vypadá, že tato planeta vznikla jenom proto, aby mohla popírat všechny fyzikální zákony."
+"Pozor! Tyto skleněné stavby mají mnoho využití. Spouští skryté mechanismy, často spojené s ohněm."
+Podlažní konstrukce aktivována.
+Touto stěnou prochází mnohé trhliny.
+-empty-
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+I navzdory své zvláštní barvě, vyzařují plameny velký žár.
+Plameny chytily {LEAD}{NAME} a jeho/její společníky!
+!

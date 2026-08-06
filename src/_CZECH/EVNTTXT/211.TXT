@@ -1,0 +1,11 @@
+﻿{BLOK000} "Oh, já zde ve městě řídím obchod s jídlem."
+"Skeima Din, nevíte náhodou něco o iskaiském chrámu zla?" {BLOK010} "Ne, víme jen to, co říkají všichni." {BLOK011} "Co je s tím chrámem?" {WORDshrine}
+"Dnes je to skoro pozitivní, když neslyšíte nic nového o tom chrámu, protože dosud jsme o něm slyšeli jen zvěsti plné zkázy a hrůzy."{WORDbad news}
+"Vy jste o tom nic neslyšeli? Od toho místa se držte dál. Nad tím místem je tabu a různí lidé říkají, že se kolem potloukají hrozné bytosti. Je jich tam stále víc a víc. Vycházejí z podivného sklepení, kam nikdo kromě Iskaiů nemůže vstoupit. Jsou to tak divní lidé. Ale jeďte do Srimalinaru a promluvte si s významnými lidmi, jako je Edjirr, správce taverny a Arrim, který žije ve stodole. Promluvte s nimi, čím dřív, tím líp." {WORDtaboo}
+"Co?! Co myslíš tím, 'divný Iskai?' Iskai rozhodně není o nic legračnější nebo divnější než člověk. Jestli něco nesnáším, pak je to předpojatost! Raději bychom měli změnit téma."
+"Přirozeně to neplatí pro všechny Iskai- jeďte do Srimalinaru a ověřte si to. Jen nechoďte blízko jejich chrámu, protože tam je tabu a stále víc těch děsivých příšer." {WORDtaboo}
+"O tom by se nemělo žertovat! Berou to velmi vážně. Existuje už dlouhou dobu, pokud si vzpomínám."
+"Proč vás zajímá to tabu? Já vám o tom nic víc nemohu říct."
+"Ano, obyvatelé Srimalinaru jsou velice pobožní a pravidelně chodí do chrámu. Nevím, co tam dělají. Také nevím, jestli tam chodí i teď, protože se to tam hemží tolika příšerami. Kontos pevně zastává názor, že se lidé musí zakročit, než bude příliš pozdě a záplava příšer napadne zemi."{WORDKontos}
+"Raději se ho zeptej sám. Je to vůdce vesnice Kounos."
+"To jsem já."

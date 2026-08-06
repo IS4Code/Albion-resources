@@ -1,0 +1,2 @@
+﻿{BLOK000} "Má práce je vyrábět a prodávat zbraně. Tím živím svou rodinu."
+"Vítejte v Poschově obchodu se zbraněmi. Najdete zde kvalitní zbraně a dobré ceny. Některé kusy jsou přímo od železo kujců, kteří vyrábějí nejlepší zbraně! Zboží, které tu vidíte pochází z dalekých zemí. Vozíme ty věci přes hory!Jak můžete vidět, mám kvalitní a moderní zboží. Jsem si jistý, že naleznete vše, co sháníte." {WORDMetalmakers}{WORDmountain pass}{BLOK010} "Jaké druhy zbraní prodáváte?" {BLOK011} "Umíte i něco opravit?"

@@ -1,0 +1,9 @@
+﻿!
+"Ahoj! Jsem rád, že ses zastavil!"{BLOK010}"Jak se ti líbí zdejší život, když jsi pryč z Toronta?"{BLOK011}"Jak jsi daleko s dokumentací?"{BLOK012}"Už musíme jít. Dej na sebe pozor, Joe!"
+"Fantastické! Planeta opravdu překračuje veškerý tvůj popis, Tome. Nikdy jsem nebyl milovníkem přírody, ale tohle je něco neuvěřitelného. Hofstedt a zdejší lidé se tu o mě dobře starají. Ještě to tu asi nějaký čas vydržím!"
+"Výborně. Je tu ještě spousta věcí, které by se měly zdokumentovat. Nejtěžší je sesbírat materiál tak, aby naši lidé na palubě Toronta rychle pochopili, jak neuvěřitelně krásný svět tohle ve skutečnosti je. Také se musíme nějak vypořádat se skutečností, že AI udělá všechno, aby přerušil spojení."
+"Dávej pozor, Tome!"
+"Ahoj! Už jde do tuhého, chápete? Poslouchejte: Vím, že nejsem velký bojovník, ale určitě mohu pomoct, když se budete chtít dostat k reaktoru Toronta. Půjdu s vámi, jestli chcete."{BLOK010}"Máš pravdu, Joe. Tvé znalosti by nám mohly pomoct. Pojď s námi!" {BLOK011}"Stále se ještě rozmýšlíme, koho vezmeme s sebou. Prosím, počkej chvilku."
+"Výborně!" {INK 001}Joe se přidává k přátelům.
+"Když myslíš. Možná je pro mě ze zdravotních důvodů lepší, když zůstanu tady. ^ ^ Opatruj se."
+{INK 001}Skupina je už pohromadě!{INK 002}"Hej, už jsi přivedl spoustu lidí. Já už se sem nevejdu."

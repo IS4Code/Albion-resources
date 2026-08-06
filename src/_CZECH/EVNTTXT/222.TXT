@@ -1,0 +1,10 @@
+﻿{BLOK000}"No, broučánci, myslím že můžete podle mého oděvu uhádnout, kde pracuji. Přijďte mě tam někdy navštívit! Samozřejmě většina mužů není ochotna připustit, že čas od času zajdou do bordelu."
+"Skeima Din, Kariah vás vítá. Mám pro vás naléhavou informaci! Velmi naléhavou!"{WORDinformation}
+"Skeima Din, přemýšleli jste o tom, co jsem vám řekla? Prosím jednejte, jak jen to půjde. Zvážili jste to všechno?"{WORDinformation}{WORDyes}{WORDno}
+"Děvka nemá lehký život! Před několika nocemi, jsem obdržela konkrétní zprávu, že Herras, prezident koncilu Spravedlnosti, má být zavražděn. Jsou za tím Riko a Gard. ^ ^ Prosím! Nemůžu vám to dokázat, ale potřebuji vaši pomoc! Udělejte s tím něco. Jste moje poslední naděje; prosím věřte mi. Zabraňte atentátu!" ^ ^ Taky vím, že k němu dojde již velmi brzo. Ale pořád ho můžete ještě odvrátit!"{WORDassassination}{WORDhint}
+"Prosím, udělejte to!"
+"Jak jste se rozhodli?" {BLOK010} "Musíme počkat." {BLOK011} "Uvidíme, co budeme moci udělat."
+"Nečekejte příliš dlouho! čas plyne a Gard s Rikem dříve či později vykonají ten hrozný čin!"
+"Musíte pochopit, nemůžu vám říct od koho mám tu informaci. Už takhle jsem se vystavila nebezpečí až až. Také jsem se dozvěděla, že k atentátu má dojít již velmi brzy."
+"Atentát se má uskutečnit již velmi brzo! Možná vám Herras uvěří, když se pokusíte zastavit Garda a Rika. Kdyby Herras zemřel, koncil by ovládla zlá většina. Prosím, snažte se tomu zabránit. Většina lidí ve městě je příliš zaslepena, než aby to viděla, nebo to ani vidět nechce."
+"To jsem já."

@@ -1,0 +1,6 @@
+﻿{BLOK000}"Jsem strážce háje."
+"Togi Din. Chovejte se, prosím, podle zvyku háje - klidně." {WORDgrove}
+"Toto je místo, kde naši praotci poprvé vstoupili na tento svět. Toto je Qrenno, stromový útvar ze země našich předků. Je to náš největší oltář a slouží jako symbol laskavosti Danu. Dostalo se mi velké cti strážit ho a chránit před nebezpečím." {WORDDanu}{WORDdanger}
+"Ačkoliv jsem pouze sám, mám způsoby a prostředky k ochránění háje před znesvěcením."
+"Hudební krystal. Jaký poklad! Přiznávám, že mne svádí, protože se zde cítím trochu osamělý. Nikomu to neříkejte, ale nabízím vám výměnou za něj jednu z mých zbraní. Je to mocná magická zbraň, která vás může ochránit od mnohého nebezpečí." ^ ^ {INK 001} Frinos dává {LEAD}{NAME} magickou zbraň výměnou za hudební krystal!
+"Děkuji vám, ale jeden hudební krystal k zahnání osamělosti čas od času stačí."

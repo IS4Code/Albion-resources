@@ -1,0 +1,7 @@
+﻿{BLOK000} "Já jsem tady hospodský. Dali jste si už moje sugo? Je opravdu dobré." {WORDsugo}
+"Vítejte u 'Velkého Sudu'. Vy nejste odsud. Měli byste si s někým promluvit. Jste z Belovena?" {WORDBeloveno}
+"Nazdar. Bohužel mám špatnou náladu. To proto, že jsem slyšel ty řeči o Kontosovi a to mě znepokojuje. Měli byste asi mluvit s Kontosem sami, pokud se o tom dovědět víc. Je to vůdce Mahinů v Kounu. ^ ^ Ale nechtěl bych vám kazit náladu. Chovejte se jako doma. Přejete si koupit nějaké potraviny?" {BLOK010} "Ano, děkujeme." {BLOK011} "Ne, díky."
+"Myslel sem, že jste přišli odtamtud. Jsem si jistý, že jste potom byli v Kounosu. Je to malá vesnice na úpatí hor."
+"Ne? Potom tam musíte jít. Jsem si jistý, že tam potkáte spoustu zajímavých lidí."
+"Já jsem Edjirr."
+{BLOK010} "Rádi bychom nakoupili jídlo."

@@ -1,0 +1,9 @@
+﻿{BLOK000} "Stavím domy z rostlin. Jsem si jisty, že jste jich tady kolem viděli hondě."
+"Skeima Din, účastníte se té války, která právě začíná?" {BLOK010} "Jaký druh konfliktu to je?" {BLOK011} "Pokud vám to pomůže, tak to rádi uděláme." {BLOK012} "Bohužel, na to nemáme vůbec čas."{WORDconflict}
+"To je nebezpečný postoj. Nakonec jste tu hosté a jestli začne válka, tak s největší pravděpodobností zasáhne i vás." 
+"To by nám všem pomohlo, jsem si tím jistý. Je vždycky dobré, když máte po ruce několik neutrálních diplomatických přátel."
+"Teď nemám žádné dobré zprávy. Ale vypadá to, že Kontos přesvědčil své nohsledy, že svatyně je nebezpečná, a ti se pokusí s tím něco dělat. A to znamená, že znásilní naše tabu nebo zajdou ještě dál a napadnou nás přímo. Je to jenom spekulace, ale kdo ví? Naše svatyně není nebezpečná. Bohužel vám to nemohu dokázat, ale tyhle směšné příšery odjinud. Ale musím připustit, že nevím odkud přicházejí." {WORDcreatures}{WORDshrine}{WORDtaboo}
+"Ano, raději tam nevstupujte. Právě tam probíhají naše náboženské obřady. Je to pro nás posvátné místo."
+"Tabu existuje velmi dlouho, co si vzpomínám. Tabu vzniklo z historických důvodů, což bych vám raději ani nevysvětloval."
+"Ano?"
+"Nikdo neví odkud tyto bytosti přicházejí. Zdají se být magického původu, a většina je jich kolem svatyně, ačkoliv jsme je neviděli vyjít z naší svatyně."

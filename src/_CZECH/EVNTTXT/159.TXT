@@ -1,0 +1,9 @@
+﻿{BLOK000}"Jsem válečnice."{WORDa warrior?}
+"Togi Din, cizinci. Co chcete?"
+"Neříkejte to! Já vím, myslíte si, že je to pro ženy neobvyklé povolání! Pokud ženy našeho lidu obyčejně pečují o dům a děti, ženy, které mají vůli a sílu vykonávat jakoukoliv profesi. Podívejte se na mě, mohu se v boji vypořádat s mnoha muži a mnoho z nich, kteří věřili, že jsou silnější jsem poslala k ranhojiči!"{BLOK010} "Ferino, nechtěla byste mne cvičit v boji z blízka?"
+"Obzvlášť nerada se opakuji!"
+"Togi Din! Rádi byste trochu trénovali?"{BLOK010}"Ano, mohl bych potřebovat trochu cvičení v boji z blízka!"
+{INK 001}"Dobře, {LEAD}{NAME}, dejte mi {PRIC} zlato a já vás naučím některé bojové triky, které jste ještě nikdy předtím neviděli!"
+Ferina možná mluví arogantně, ale své řemeslo ovládá. Po krátkém tréninku s ní, {LEAD}{NAME} cítí, jak se {HIS } schopnosti pro boj z blízka zlepšily.
+"Pokud se budete chtít něco naučit, zaskočte znovu, {LEAD}{NAME}. Sbohem!"
+{LEAD}{NAME} předává požadovaný obnos. Trénink s Farinou začíná.

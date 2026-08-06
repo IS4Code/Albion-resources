@@ -1,0 +1,9 @@
+﻿{BLOK000} "Oh, já ve městě řídím obchod s jídlem."
+"Skeima Din. Našli jste už důkazy proti Kontosovi?"{BLOK010} "Ne." {BLOK011} "Ano." {BLOK012} "Potvrdilo se, že Kontos je nevinen!"{WORDKontos}{WORDevidence}
+"Pak pokračujte v pátrání!"
+"Konflikt u chrámu Srimalinaru se stále stupňuje. Můžeš ho zastavit, když odhalíš Kontosovu skutečnou tvář. Máš pro to důkaz. Můžeš významně pomoc celé zemi a já tě žádám, abys to udělal. Jdi k chrámu a ukonči celou tu věc!"{WORDshrine}
+"Co že máte?! Myslím, že bych měl říct lidem ve městě o vašich záměrech. Mnoho z nich by to asi zajímalo..."
+"Je v srimalinarském chrámu a brzy nastane svatá válka."
+"To je dost špatné - jdi a podívej se sám. Kontos se možná dá zastavit. Pokud to nejde, válka je nevyhnutelná."
+"Pokud máte důkazy, pak je použijte k odhalení Kontose."
+"To jsem já."

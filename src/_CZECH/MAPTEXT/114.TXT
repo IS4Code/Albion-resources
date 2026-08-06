@@ -1,0 +1,204 @@
+﻿empty
+žádný člen skupiny sem rozhodně nehodlá vložit ruku.
+Velká pohovka.
+Velká skříň.
+Gril.
+Postel
+Krb.
+Peřina.
+Iskaiské nože.
+Talíř.
+Nádoba.
+Klobása.
+Něco podobné šunce.
+Sběračka
+Různé bylinky.
+Ovoce.
+Fajnové masíčko.
+Pohár na pití.
+Mísa.
+Koření.
+Kořenky.
+Pohárek.
+Kuchyňský nůž.
+Oplatky.
+Klobáska.
+Tahle láhev obsahuje vonící tekutinu.
+Oblek.
+Ručník.
+Vědro.
+Pekáč.
+Hrnec.
+Uvnitř ohniště je malý hrnec, ve kterém se dá připravovat pomalu jídlo.
+Polštář.
+Velká pánev na pečení.
+Kožený kartáč.
+Vodní proud.
+Umyvadlo.
+Vodní bariéra.
+Velký keramický džbánek.
+Sekretář.
+V šuplíkách tohoto stolu leží různé nedůležité věci.
+Komoda.
+Tohle je docela velká konvice. Mohou v ní být zásoby, voda nebo jídlo.
+Ve vodní nádrži je divná rostlina, která svými silnými pulzující pohyby čerpá vodu ze země.Tato fontána zřejmě slouží jako zásobárna vody.
+Voda v nádrži páchne jako zkažená. Tady se pravděpodobně sbírá odpad. 
+Vodní rostliny.
+Byliny.
+Exotická rostlina.
+Popínavé rostliny.
+Places for further Cutmap events.
+Schodiště. Vede dolů skrz podlahu.
+Schodiště vede nahoru skrz podlahu.
+Tohle je zřejmě nějaká postel. Je vyplněná pískem, což nabízí neuvěřitelné pohodlí díky jeho hrubým ale kulatým zrnkům.
+Obrovský tvar připomíná sedací nábytek. Chová se jako rostlina. Nepochybně vyrostla. Povrch je měkký a elastický.
+Fontána domu.
+Vodní kanály pravděpodobně slouží jako přívod pitné vody. Vedou domem jako malé potůčky.
+Zatuchlý zápach a díry v předmětu vedou k závěru, že se jedná o toaletu. Tento  "nábytek" je také vytvořen z rostlin, mohutně roste díky pravidelnému hnojení.
+Tady se odehrávají nejnaléhavější aktivity života.
+Na této pánvi se vaří sladkokysele vonící jídlo.
+Sedadlo.
+Masivní dřevěný stůl.
+Rostlina s velkými listy.
+Dveře.
+Nůž.
+Krátká dýka.
+Dýka.
+Dlouhá dýka.
+Krátký meč.
+Iskaiský nůž.
+Iskaiská dýka.
+Iskaiské stileto.
+Iskaiský krátký meč.
+Dlouhé Iskaiské stileto.
+Iskaiský meč.
+Velký Iskaiský meč.
+Dlouhý Iskaiský meč.
+Iskaiské kopí.
+Velká Iskaiská dýka.
+Krátké Iskaiské stileto.
+Velké Iskaiské stileto.
+Dlouhý Iskaiský meč.
+Malý luk.
+Luk.
+šíp.
+Dlouhý šíp.
+Kožený štít.
+Malý Iskaiský štít.
+Iskaiský štít.
+Velký Iskaiský štít.
+Kožená čepice.
+Iskaiská kožená čepice.
+Iskaiská kovová čepice.
+Iskaiská kovová helma.
+Iskaiský chránič hrudi.
+Iskaiský kovový chránič hrudi.
+Lehké Iskaiské brnění.
+Iskaiské brnění.
+Prázdná láhev.
+Zelená léčebná dávka.
+Tyrkysová léčebná dávka.
+Modrá léčebná dávka.
+červený nápoj.
+Fialový nápoj.
+Modrý nápoj.
+Klíč.
+Lano.
+Baterka.
+Iskaiský poznámkový blok.
+List papíru.
+An Iskai ring book.
+An Iskai ring pad.
+Tužka.
+Krátká tužka.
+Lavička.
+Tohle sedadlo doslova vyrůstá ze země a je docela pohodlné.
+Dřevěná tyč. Na vrcholu je nějaké znamení.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+{CNTR} Nadpis hlásá: ^ ^ {INK 006} Pokoj Stri Dji-Kas
+{CNTR} Na štítu zde stojí: ^ ^ {INK 006} Pokoj Dra Dji-Kas
+Strom vypadá velmi zvláštně; jeho kořeny se rozprostírají na kamenné podlaze. Nicméně se zdá, že mu to tak vyhovuje. Co ho drží při životě je záhada.
+"Dsarii-ma. Ať se děje, co se děje, musím se soustředit na svá studia. Ostatní Dra si myslí, že jsem blázen, ale magie je pro mě důležitější než jejich malichernosti."
+"Dsarii-ma. Prosím, běžte se poohlédnout po někom jiném, já musím přemýšlet."
+{INK 001} Osoba, ke které bylo družinou hovořeno, nereagovala. Zdá se, že je ponořena hluboce do svých myšlenek."
+"Dsarii-ma, návštěvníci našeho cechu. Omluvte mě, pořád mám hodně práce."
+"Zatraceně. Další pokus selhal! Grrrr! Radši běžte za někým, kdo bude mít lepší náladu."
+{INK 001} Osoba, ke které družina promluvila, jedná velmi roztržitě. Přeletěla Toma zrakem a řekla: ^ ^ {INK 002} "řekněte mi lidé, máte také někdy pocit, že nedokážete myslet na nic jiného než na jednu konkrétní ženu? Ale, to nic..."
+"Dsarii-ma, Dsarii-ma. Hledám opět svá zkušební data. Tihle mladí Dra mají v hlavě jen samé nesmysle. Nicméně se jim vždycky podaří... Omluvte mě."
+Toto jsou venkovní dveře.
+{FAHI}--SCRIPT SEQUENCE--{NORS} ^ ^ Uprhlý vrah byl viděn v tomto domě, uplacený Dji-Kas Kriis tvrdí, že on nikdy nevydal rozkaz k vraždě. Sira se polekala a zmizela.
+Když se {LEAD}{NAME} pokusil(a) prozkoumat obsah truhly, majitel domu si toho všiml a pravil:
+"Vznešení hosté, tohle není obchod ani tržnice! ^ ^ Musím vás požádat, abyste nechali náš majetek na pokoji!"
+Na mechové zemi spočívá oblast tvořená kamenem.
+Fasiir zavedl návštěvníky do místnosti s kamennou podlahou, která spočívala na mechovém půdorysu.
+"Nejlepší na magii je to, že pomocí ní můžete vytvářet něco nového, i kdyby to měly být jen předměty každodenní potřeby. ^ ^ Podívejte se sem!"
+"Driscoll, já... Viděl jsi to? To je... Chci tím říct... ^ ^ Já asi blázním! Ten strom je skutečný! To nebyl trik!"
+"To je teda vážně něco! Tihle chlápci nejsou jen lacinými iluzionisty, to je jistý. Tohle byl za hranicí možností všech růstových urychlovačů."
+"Království za sadu měřících přístrojů! Nemůžou si přece jen tak dělat legraci z fyzikálních zákonů!"
+"Vidím, s uspokojivou jistotou i bez měřících přístrojů, že jsem byl schopen rozptýlit vaše pochybnosti. Doufám, že teď už budete o našem talentu smýšlet jinak. ^ ^ Byla to pro mě čest si s vámi popovídat, {LEAD}{NAME}. Jestli chcete, můžete se tu ještě chvíli zdržet, já se ale už musím vrátit ke své práci."
+"V každém případě vám děkujeme za působivou ukázku vašich schopností, Fasiire."
+"Dsarii-ma, pronásledovatelé Akiirových vrahů! ^ ^ Chtěli bychom vás ujistit, že s vraždou Akiiry nemáme nic společného! Kriis, ten zrádce, dostal zaplaceno za to, aby se pokusil uvalit vinu na Fasiira, našeho vůdce."
+"Dsarii-ma. Hledáte vraha Akiiry, správně? Najděte pravdu a přijdete na to, že je Fasiir a náš cech nevinný!"
+"Dsarii-ma, pronásledovatelé vraha. Bohužel vám nemůžu o celém incidentu říct nic víc než to, že my bychom nikdy něco takového nespáchali. Kriss, ten obchodník, lže!"
+Toa a Rainer, stejně tak jako jejich nový společník, Drirr, vstoupili do cechovního domu Dji-Kas Mágů. Doprovázeli je dva Stiriikové, místní policie. Nejdříve se setkali se Sirou, dcerou zavražděného Akiiry, která se k cechu Dji-Kas dostala jaksi "omylem".
+"Slyšela jsi už o smrti svého otce, Siro?"
+"Ano, já... už nikdy nebudu mít možnost si s ním promluvit. Ach, bohyně, to je... ^ ^ Nevíte, kdo to mohl udělat?"
+"Cítím s tebou, Siro. Ne, ještě ne. Ale slyšeli jsme, že byl uprchlí vrah viděn poblíž této budovy."
+Fasiir, představený cechu Dji-Kas Mágů, vstoupil.
+"Dsarii-ma. Slyšel jsem o Akiirově vraždě. Co vás k nám přivádí?"
+"Vrah byl viděn poblíž vaší budovy. Můžeme se tu trochu porozhlédnout?"
+"Samozřejmě. Nemáme co skrývat. ^ ^ Pojďte!"
+Najednou se z chodby vynořil člověk a Iskai. ^ ^ {FAT } On je tím uprchlým vrahem! {NORS} Když Iskai zpozoroval, že byli viděni, hodil zářící semínko!
+Když záblesk pominul, zůstal pouze Iskai. Vrah zmizel!
+"Myslím, že uprchl směrem na jih. Za ním! Stiriiku, postarej se o jeho komplice."
+"Zatraceně! Už zase uprchl oknem."
+Drirr se otočil k Iskai, který vytvořil to oslnivé světlo.
+"No, kdo jsi a proč si pomohl vrahovi utéct?"
+{INK 001} Fasiir, vůdce Dji-Kas, se vložil do rozhovoru: ^ ^ {INK 002} "Jmenuje se Kriis a BYL naším členem. ^ ^ Kriisi, ty mizernej prevíte, proč si dovolil vrahovi vejít do naší budovy?"
+"Ale Fasiire, ty, ty sám jsi mi k tomu dal rozkaz! A teď mě chceš obětovat? Tím si nijak nepomůžeš! To ty jsi vrahovi zaplatil!"
+"COžE? ^ ^ Zešílel jsi? Drirr, nevěř mu ani slovo! Nemám s tím nic společného!"
+"Znám důvod nenávisti mezi tebou, Fasiire, a Akiirem moc dobře. Měl jsi motiv vraždit!"
+"Po všech těch letech, zvolil bych si snad teď..."
+"Stiriiku, vezměte Kriise i Fasiira do vazby a držte ho tam do té doby, než nenajdeme vraha a nedozvíme se pravdu."
+"Drirre, rád bych odešel. Už tu nemůžu déle zůstat. Musím být sama a všechno si ještě jednou probrat."
+{INK 001} Drirr se otočil k Tomovi a Rainerovi: ^ ^ {INK 002} ^ ^ "Už jsme ho skoro měli! Každopádně už není v tomto domě. Ale mohli bysme ho ještě chytnout někde ve městě."
+Po oslnivém záblesku zůstávají oči všech ještě částečně oslněny.
+"Dobře, Drirre, vyrazíme. Jen ještě jednu věc: ^ O co šlo mezi Fasiirem a Akiirem?"
+"No, řeknu to stručně. Akkir si kdysi vzal Fasiirovu sestru. Když byli pak společně na lovu, Fasiirova sestra při něm přišla o život. Fasiir obvinil Akiira z její smrti, protože trval na lovu i přes špatné počasí. To byl důvod jejich dlouholetého nepřátelství. ^ Teď už nás nechte, ať můžeme prohledat město."
+{CNTR} Na štítu stoji: ^ ^ {INK 006} Na západ: Rejira - léčitelka
+{CNTR} Na štítu stoji: ^ ^ {INK 006} Velkoobchod Dji-Kas. Prodává se pouze od 7 a.m. do 9 p.m. Stri Kraiského času
+{CNTR} Na štítu stoji: ^ ^ {INK 006} Fasiirova dílna, vůdce Dji-Kas

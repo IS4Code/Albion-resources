@@ -1,0 +1,4 @@
+﻿{BLOK000}"Jsem zde v Arjanu starším ranhojičem" {WORDhealers}{WORDArjano}
+"Togi Din, poutníci, mohu vám pomoci? Dokud budete pátrat po ztraceném Berovi, mé služby, jako ranhojiče, jsou pro vás zdarma." {WORDBero}{WORDhealers}{BLOK010} "Ano, Makaio. Máme mezi sebou raněné."{BLOK011}"Potřebujeme vyléčit chorobu." {BLOK012}"Sužuje nás prokletý předmět."
+"Togi Din! Ah, Berovi zachránci, ten starý hlupák! Mohu vám pomoci?" {BLOK010} "Ano, Makaio. Máme mezi sebou raněné."{BLOK011}"Potřebujeme vyléčit chorobu."{BLOK012}"Sužuje nás prokletý předmět."
+"Mé léčitelské nadání se u mne projevilo, když jsem byl ještě dítě. Od té doby mi požehnání Danu dává radost ze schopnosti léčit druhé." {WORDDanu}

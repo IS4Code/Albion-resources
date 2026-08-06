@@ -1,0 +1,2 @@
+﻿{BLOK000} "Já prodávám štíty, brnění a jiné ochranné oděvy."
+"Skeima Din. ^ ^ Hledáte něco speciálního? Mohu vám prodat spoustu věcí na ochranu: brnění, oblečení, vesty, helmy, štíty, boty, atd. Jestliže jste zraněni, tak byste měli jít za Raminou a ona vám vaše." {WORDRamina}{BLOK010} "Co máte?"

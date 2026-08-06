@@ -1,0 +1,2 @@
+﻿{BLOK000} "Já jsem obchodník."
+"Skeima Din, ^ ^ můžete si být jistí, že zde najdete vše po čem toužíte. Od loučí až po léčivé nápoje, Mohu nabídnout všechno. Jinde tyto věci než v Belovenu." {BLOK010} "Rádi bychom něco koupili." {BLOK011} "Rádi bychom něco prodali." {WORDBeloveno}

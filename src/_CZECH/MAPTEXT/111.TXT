@@ -1,0 +1,227 @@
+﻿Prázdno
+žádnému z členů skupiny se tam nijak zvlášť nechce dát ruku.
+Velká pohovka.
+Velká skříň.
+Gril.
+Postel.
+Krb.
+Přehoz přes postel.
+Iskai příbor.
+Talíř.
+Nádoba.
+Uzenka.
+Kus masa připomínající šunku.
+Naběračka.
+Různá koření.
+Ovoce.
+Zvláštní maso.
+šálek.
+Mísa.
+Koření.
+Malé kořenky.
+Hrníček.
+Kuchyňský nůž.
+Koláčky.
+Malá uzenka.
+Tato láhev obsahuje aromatickou tekutinu.
+Ubrus.
+Ručník.
+Kýbl.
+Pánev.
+Hrnec.
+V této konvici je na tyčce malý hrnec, ve kterém můžete jídlo pomalu ohřát.
+Polštář.
+Velká pánev.
+Kartáč.
+Vodní kanál.
+Vodní nádrž.
+Vodní bariéra.
+Velký hliněný hrnek.
+Psací stůl.
+V šuplíkách tohoto stolu leží různé nedůležité věci.
+Komoda.
+Tohle je docela velká konvice. Mohou v ní být zásoby, voda nebo jídlo.
+Ve vodní nádrži je divná rostlina, která svými silnými pulzující pohyby čerpá vodu ze země. Tato fontána zřejmě slouží jako zásobárna vody.
+Voda v nádrži páchne jako zkažená. Tady se pravděpodobně sbírá odpad.
+Vodní rostliny.
+Byliny.
+Exotická rostlina.
+Popínavé rostliny.
+Místa pro další Cutmap události.
+Schodiště vedoucí dolů skrz podlahu.
+Schodiště vede nahoru skrz podlahu.
+Tohle je zřejmě nějaká postel. Je vyplněná pískem, což nabízí neuvěřitelné pohodlí díky jeho hrubým ale kulatým zrnkům.
+Obrovský tvar připomíná sedací nábytek. Chová se jako rostlina. Nepochybně vyrostla. Povrch je měkký a elastický.
+Fontána domu.
+Vodní kanály pravděpodobně slouží jako přívod pitné vody. Vedou domem jako malé potůčky.
+Zatuchlý zápach a díry v předmětu vedou k závěru, že se jedná o toaletu. Tento  "nábytek" je také vytvořen z rostlin, mohutně roste díky pravidelnému hnojení.
+Tady se odehrávají nejnaléhavější aktivity života.
+Na této pánvi se vaří sladkokysele vonící jídlo.
+Sedadlo.
+Masivní dřevěný stůl.
+Rostlina s velkými listy.
+Dveře.
+Nůž.
+Krátká dýka.
+Dýka.
+Dlouhá dýka.
+Krátký meč.
+Iskaiský nůž.
+Iskaiská dýka.
+Iskaiské stileto.
+Iskaiský krátký meč.
+Dlouhé Iskaiské stileto.
+Iskaiský meč.
+Velký Iskaiský meč.
+Dlouhý Iskaiský meč.
+Iskaiské kopí.
+Velká Iskaiská dýka.
+Krátké Iskaiské stileto.
+Velké Iskaiské stileto.
+Dlouhý Iskaiský meč.
+Malý luk.
+Luk.
+šíp.
+Dlouhý šíp.
+Kožený štít.
+Malý Iskaiský štít.
+Iskaiský štít.
+Velký Iskaiský štít.
+Kožená čepice.
+Iskaiská kožená čepice.
+Iskaiská kovová čepice.
+Iskaiská kovová helma.
+Iskaiský chránič hrudi.
+Iskaiský kovový chránič hrudi.
+Lehké Iskaiské brnění.
+Iskaiské brnění.
+Prázdná láhev.
+Zelená léčebná dávka.
+Tyrkysová léčebná dávka.
+Modrá léčebná dávka.
+červený nápoj.
+Fialový nápoj.
+Modrý nápoj.
+Klíč.
+Lano.
+Baterka.
+Iskaiský poznámkový blok.
+List papíru.
+Iskaiská kroužková kniha.
+Islaiský kroužek klíčů.
+Tužka.
+Krátká tužka.
+Lavička.
+Tohle sedadlo doslova vyrůstá ze země a je docela pohodlné.
+Dřevěná tyč. Na vršku je cedule.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+"Dám veškeré vybavení, které jsem s sebou dosud měl, sem."
+"Než opustíme dům, měli bychom jít do našeho pokoje. Uložil jsem zbytek našeho vybavení do té velké skříně."
+Tahle police je otevřená.
+Prostorný kabinet je odemčený.
+"Už jsem viděl některé části domu. Ta architektura je úžasná! Skoro všechno je uděláno z rostlin, jenom bůh ví jak to dělají. A skoro všude je voda. Lidé se tady často koupou a nahota tady zřejmě není žádné tabu. "
+"Není divu při tomhle vedru."
+"Omlouvám se za svoje nadšení, ale podívejte se támhle na ten obrovský předmět. Je to pumpa a funguje bez jakýchkoliv mechanických částí. Ti lidé, co tu žijí, jsou na svou fontánu určitě velmi pyšní."
+"Tome a Rainere, právě jsem přišel od Sebai. Přeje si s vámi mluvit. Následujte mě, prosím."
+"Jistě, rádi si s ním promluvíme."
+"Teď se snad konečně dozvíme, proč jsme byli zachráněni."
+"Nezlobte se, Driscolle. Asi bychom mezi sebou neměli v přítomnosti Sebai hovořit naším jazykem. Asi by to bylo neslušné."
+"Tome and Rainer, představený klanu Bojovníků jižního větru Sebai-li Wrinn, Teď vás nechám o samotě."
+"Je to ještě DíTě, Driscolle! To není možné!"
+"Smím vám připomenout, že jste chtěli mluvit pouze Iskaisky?"
+{CNTR} Nápis na štítu říká: ^ ^ {INK 006} Zásobovací komory. ^ Děti: myslete na následky!
+"Cítíš tu vůni, Driscoll! To je určitě kuchyně."
+"Odtamtud pocházelo to pekelně pálivé jídlo, kterým nás krmili."
+"Mám rád kořeněná jídla. Nemůžeme říct, že by nám to ublížilo."
+"Ty jsi nestrávil týdny s kýblem... no, změňme téma."
+"Už jsem zjistil, co to je. Věř mi nebo ne, je to záchod z rostlin!"
+"Hofstedt! ^ O.K. O.K. Pokusím se to zjednodušit: ^ WHAT - HAPPENED?"
+"Pamatuješ si naše nouzové přistání a to jak jsme vystupovali z lodi? Dobře. Krátce po tom raketa explodovala jako v nějaké špatné americké televizní show.  Moje první vzpomínka po té expolozi je jak nás nesli na nosítkách. Když jsem uviděl, kdo nám pomáhá, zase jsem hned omdlel. ^ Driscoll, tahle stvoření jsou INTELIGENTNí!"
+"Je mi jasné ... , že ten dům nevyrostl ze země. Ačkoliv, když se na něj podíváš pozorněji..."
+"Ty tomu nerozumíš, Je tady inteligentní život. Kontaktovali jsem třetí nelidskou rasu! Jejich kultura je fantastická a..."
+"Hofstedt, prosím! Točí se mi hlava i bez tvých pokusů o vysvětlení. Začni proboha od samého začátku. Jak to, že přístroje nefungovaly? Vystoupili jsme s dýchacími přístroji, protože jsem čekali svět jako na Marsu a skončili jsme v proklatý džungli, která byla hustší než cokoliv na Zemi!"
+"Netuším, co bylo špatně. Většinu faktů můžeš cítit vlastním tělem. Jsme na teplé planetě bohaté na kyslík, kde je neuvěřitelné bohatá fauna a flora. Gravitace je podle očekávání o něco nižší než 1 G. ^ ^ Až dosud se náš imunitní systém poradil se všemi místními mikroorganismy. Ta exploze tě zasáhla víc než mě. Byl jsi téměř 30 dní v bezvědomí. ^ ^ Přestaň! Ani to nezkoušej! Neměl bys vstávat ještě nejmíň 30 dní!"
+"Všiml jsem si! Je se mnou ještě něco?"
+"Myslím, že ne. Pár zlomených kostí, popáleniny a asi nějaká malá vnitřní zranění. Nejvíc jsem si dělal starosti s tím zraněním hlavy, ale zdá se, že jsi úplně v pořádku. Tvoje prostata je operovatelná ."
+"Díky. Pokračuj."
+"Docela rychle jsem byl zase na nohou a kontaktoval jsem naše hostitele. Kde začneme?"
+"Ty jsi vědec! Prostě se drž faktů."
+"Budu se snažit. Ti lidé tady si říkají Iskai. Jak jsi viděl, Mají postavu jako lidé, jen trochu vyšší a štíhlejší. Také ještě mají tělo pokryté srstí. ^ ^ Vypadá to, že se vyvinuly z dravců, alespoň podle tvaru jejich hlavy. Jinak bude jejich vývoj obdobný jako vývoj Homo Sapiens. ^ ^ Iskai jsou savci dvou pohlaví stejně jako my. Jejich technologie není příliš pokročilá, ale již jsou schopni  úchvatných architektonických výtvorů. ^ ^ Ti lidé, co tu žijí, se o nás dobře starali a pomáhali mi udržet tě při životě."
+"To znamená, že mě léčil nějaký šaman?"
+"Ne. I když na druhé straně: Kdo ví? První den tady jsem byl úplně mimo. Jediné, co si pamatuji, je, že jeden z nich byl v místnosti a trochu s námi pohrával. Nemyslím, že se na nás snažil zapůsobit nějakým kouzlem. Dělal něco se třpytivými semeny nějakých rostlin.Byl jsem moc slabí, abych se bránil, ale evidentně nám to neuškodilo. Potom jsem použil tři z našich zdravotních balíčků, abych tě dostal do současného stavu."
+"Drenis bat ardriiba na gendi?"
+"Kriidak na grriina, ah, strokiri. Badri?"
+"Frji wan drobia. Lanarii!"
+"No, vidím, že jsi neplýtval časem. Jejich jazyk jsi se naučil za čtyři týdny."
+"Umím jenom pár slov. Až na výslovnost je ten jazyk neuvěřitelně jednoduchý. Dám ti pár základních lekcí, abys mě dohonil."
+"Jenom pomalu, Hofstedt. Pořád se snažím pochopit tohle. Tahle situace je... Myslím... To, co tady prožíváme, je neuvěřitelné! Ve skutečném životě se takové věci normálním lidem nestávají..."
+"Ha, ha, buď zticha , Driscolle! Jsem si jistý, že každý, kdo prožil něco, co se stává jenom ve filmech, by se cítil stejně. Ale tohle se fakt děje! Přijmi to a shledáš, že to našem stojíš, jsou tvé vlastní nohy. Pak musíme najít cestu zpět do lodi."
+"Do lodi, správně. Byl bych opravdu překvapen, kdyby se nacházela ještě stále na orbitu."
+"Jsem si jistý, že přistála na předem propočítaném místě. Teď ji můžeme použít jako výzkumnou stanici namísto těžební kolonie. Touto cestou bude moci vaše společnost alespoň vydělat nějaké peníze na exkluzivní dokumentaci."
+"Musíme zjistit kde se nacházíme a jak se dostaneme na místo přistání. Protože byla naše raketka zničena a nedá se opravit, může cesta k Torontu trvat hodně dlouho."
+"To je pravda. Ale nejdřív se musíme naučit komunikovat. Prospěme se na chvíli a pak započneme s první lekcí."
+"O.K. A Hofstedte..."
+"Ano?"
+"Dík za všechno."
+"Tato rasa Iskai je hotovým rájem každého xenobiologa! V jednom okamžiku je jejich podobnost s lidskou rasou děsivá a v druhém je to naprosto odlišná rasa. Jen si představte následky toho rituálu Sebai! I přes svůj krátký životní cyklus jsou praktičti nesmrtelní! ^ ^ Co mě také naprosto udivilo je tento svět - jeho nesmírné nerostné ale především rostliné bohatství, avšak žádné zpracované suroviny, což činní naši loď docela cennou."
+"Dsarii-ma, hosté tohoto domu. Pokud byste zamýšleli jít lovit do lesů, musíte si nejdřív promluvit s Krinnem, Stri Lovu. Může vám dát dobrou radu. Poznáte ho podle jeho hnědo-šedého koženého pláště s šedými pruhy."
+{INK 001} Iskaiské dítě vyvalilo svá kukadla na lidi před sebou. Zjevně ho to, co uvidělo, ohromilo.
+"Dsarii-ma! Doufám, že jste si užili pohostinnosti klanu Jižního větru dosytosti a bylo vám s námi dobře."
+"Dsarii-ma. Vypadáte opravdu divně. Jste snad nemocní, nebo je něco v nepořádku s vaší kůží?"
+"Dsarii-ma. Omluvte mě, mohu se vybavovat jen po krátkou dobu. Musím se připravovat na další lov."
+"Dsarii-ma! Nejste větší než jsem já!"
+"Dsarii-ma. Jsem jedním z těch lidí, kteří vás našli. Až do konce života nezapomenu na tu explozi!"
+Dveře vedou ven.
+Na dveřích je kvalitní zámek.
+{LEAD}{NAME} otevřel(a) dveře Wrinn klíčem.
+V této truhle leží něco zajímavého!
+Truhla je zamčena.
+{LEAD}{NAME} otevřel(a) truhlu paklíčem.
+V tomto prostorném sekretáři je hodně místa.
+O několik týdnů později: Tom se uzdravil a naučil se základům jazyka Iskai s Rainerovou pomocí. Dnes poprvé se cítí dost silný na to, aby vstal z postele.
+{FAHI}--SCRIPT SEQUENCE--{NORS} ^ ^ Situace: Tom se probudí a uvidí 'svoji sestřičku', která ho překvapí, abychom tak řekli, nečlověčí tváří. ^ ^ Rainer vešel dovnitř a začal všechno vysvětlovat.
+"Nikdy, Hofstedte! I kdyby mě měla Giria sežrat, nebudu se tu válet už ani jeden den!"
+"Tvoje ošetřovatelka z toho nebude mít moc radost. Ale, prosím, uklidni se - vypadá to, že už brzy budeš zase chodit."
+"Jsem v pohodě, ne snad? Nadešel čas konečně opustit tuto místnost."
+"O.K. ^ Ale s Giriou si o tom promluvíš TY!"
+"Tome! Co to děláte! Neříkala jsem vám, abyste si šetřil síly? Teď už to nebude má vina, jestli se někde zhroutíte! řeknu Sebai-li Wrinn, že už jste zřejmě opět nabyl sil."
+"Uf! Myslel jsem si, že to bude horší! Neříkala nám o tom Sebai-cosi už dřív?"
+"Ano. Myslím, že je to hlava této rodiny. Musí být velmi starý, jestli jsem ji tedy pochopil správně."
+"To v porovnání s námi nemusí moc znamenat. Iskai se patrně dožívají jen 30 až 40 let."
+"Není divu, že jsou tak hrr. Připadají mi, že vždycky uhání o sto pédo. Jen se podívej na Giriu. Chtěl jsem ji poděkovat za její péči, trochu ji utišit, ale už byla pryč. ^ ^ Nevadí, koukněme se po domě."
+Tyto dveře vedou ven do města. Jsou zabezpečeny zámkem.
+{INVE}{NAME} odemknul dveře Wrinnovým klíčem.

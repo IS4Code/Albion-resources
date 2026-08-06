@@ -1,0 +1,47 @@
+﻿{BLOK000} Poradní budova, sídlo Sebainah {BLOK001} Městská brána {BLOK002} Dům klanu Jižního větru {BLOK003} Bratrstvo Dji-Kas  (Magicians) a Healer {BLOK004} Bratrstvo Dji-Fadh (Formers) {BLOK005} Taverna "Dům větrů"{BLOK006} Výroba zbraní {BLOK007} Potraviny {BLOK008} Smíšené zboží {BLOK009} Učitel boje
+{CNTR} Na vývěsním štítu stojí: ^ ^ {INK 006} Jirinaar Poradní dům
+{INK 001} Mladý Iskai není zvyklý na podobu lidských bytostí. Začne se nekontrolovaně smát a nemůže ze sebe vypravit ani slovo.
+"Dsarii-ma! Musím říct svojí sestře, že jsem vás potkal. Bude strašně žárlit!"
+"Dsarii-ma, návštěvníci města.  Chovejte se pokojně a přátelsky a nebudete zde mít žádné problémy."
+"Dsarii-ma. Buďte opatrní v přístavní oblasti. Je tam spousta horkých hlav."
+"Dsarii-ma, návštěvníci města. Užijte si návštěvu našeho města!"
+"Dsarii-ma, návštěvníci! Doufám, že se vám líbí ta spousta okouzlujících výhledů, které vám naše město nabízí."
+"Nechci s vámi mluvit."
+"Dsarii-ma. To město je neuvěřitelně veliké, že? žiji na venkově a tak mě to nikdy nepřestane udivovat!"
+"Raději bychom mu neměli říkat,že většina obytných komplexů na Zemi má víc obyvatel než celý Jirinaar..."
+"Dsarii-ma. Nedělejte si s tím hlavu, my Stiriik nemůžeme být všude."
+{CNTR}Vývěsní štít oznamuje: ^ ^ {INK 006} Wanja, Dům užitečného zboží. ^ Vstupujte mezi šestou a devatenáctou hodinou.
+{CNTR} Vývěsní štít oznamuje: ^ ^ {INK 006} Dům zbraní Snird. ^ Vítejte mezi desátou a dvacátou hodinou.
+{CNTR} na vývěsním štítu můžete číst: ^ ^ {INK 006} Dům větrů Zirra & Viri. ^ Veřejný dům.
+{CNTR} Nápis říká: ^ ^ {INK 006} Frinja, Dům dobrého jídla. ^ Otevřeno od 6.00 do 21.00.
+{CNTR} Vývěsní štít říká: ^ ^ {INK 006} Dům klanu Jižního větru.
+{CNTR} Toto stojí na vývěsním štítu: ^ ^ {INK 066} Dům bratstva Dji-Kas.
+{CNTR} Vývěsní štít říká: ^ ^ {INK 006} Dům bratrstva Dji-Fadh. ^ Vstup pro členy bratrstva.
+{CNTR} Nápis říká: ^ ^ {INK 006} Dům bratrstva Dji-Fadh. ^ Vstup pro veřejnost.
+Dveře jsou zavřeny na závoru a nikdo nereaguje na {LEAD}{NAME}ovo klepání. Obchod je určitě zavřen.
+Tyto dveře jsou zamčeny.
+{LEAD}{NAME} je osloven jedním z Iskai, který je oblečen do válečného brnění a stojí vedle městské brány. ^ ^ {INK 002} "Dsarii-ma, návštěvníku našeho města. Musím vás požádat, abyste neopouštěl město dříve, než budete mluvit se Sebainah Janiis. ^ Navíc je divočina, která obklopuje Jirinaar, nebezpečná pro cizince, kteří tuto oblast neznají."
+"Dsarii-ma, návštěvníci našeho města. Musím vás požádat, abyste neopouštěli bránu dříve, než budete mluvit se Sebainah Janiis. ^ Navíc je divočina, která obklopuje Jirinaar, nebezpečná pro cizince, kteří tuto oblast neznají."
+"Mimochodem, moji drazí kolegové, zde je hlavní budova Stiriik. Samozřejmě že jenom Stiriik mohou vstoupit do budovy, takže se tam nebudeme moci jít podívat. Ale, jen tak mezi námi, o moc nepřijdeme."
+"Dsarii-ma! Nezapomeňte si pohovořit se Sebainah Janiis."
+{INK 001} Tom a Rainer jsou osloveni Iskai oblečeným do válečného brnění. ^ ^ {INK 002} "Dsarii-ma, návštěvníci našeho města. Přicházím právě včas. Vidím, že jste se uzdravili ze svých zranění. ^ ^ Ve jménu Sebainah, představené rady, bych vás rád přivítal v Jirinaar. Sebainah by s vámi ráda hovořila. ^ ^ Naleznete ji v poradní budově, je to budova ve středu města.  Je obklopena řekou a nemůžete ji minout díky její velikosti. Sebainah je v poradní budově skoro každou denní hodinu. Můžete ji navštívit ve kteroukoli dobu. ^ ^ Pokud si to budete přát, mohu vás k ním samozřejmě odvést okamžitě."
+"Chcete, abych vás odvedl k Sebainah okamžitě?"
+"Návštěvu Sebainah příliš dlouho neodkládejte. Teď mě prosím omluvte."
+"Dsarii-ma. Doufám, že byl váš rozhovor se Sebainah příjemný."
+Iskai kráčí směrem k poradní budově. Tom a Rainer sotva stačí jeho rychlé chůzi, ale brzy dorazí k budově vlády města a vstoupí dovnitř.
+"Blahopřejeme k vaší perfektně diplomatické akci, Driscolle! Urazil jste urazil lidi, kteří zachránili naše životy. Nevadí, rád bych poukázal na to, kde jsou zbytky naší vesmírné lodě a jak je můžeme směnit za místní měnu."
+Dveře domu klanu Lovců jsou chráněny zámkem.
+{INVE}{NAME} otevírá dveře klíčem Wrinn.
+"Tento úžasný dům patří bohatému obchodníkovi, který žije velmi samotářským životem. Pochybuji, že se dostaneme dovnitř."
+"Tady žije jeden z radních. Pěkný domeček, co?"
+Druh fontány.
+Dveře domu klanu Lovců jsou chráněny zámkem.
+Dveře.
+{CNTR}{INK 003}{FAHI}YO! ^ ^ Uplynula hodina!
+{INK 001} Stiriik přichází k Drirr a bez dechu říká: ^ ^ {INK 002} "Dsarii-ma, Drirr! Do města právě přišel chovatel dobytka, kteří říká, že viděl jít vraha  Kenget Kamulos do zbořenin starého Former centra!"
+"Měli bychom jít co nejrychleji do staré radní budovy. Možná tam toho vraha ještě můžeme chytit!"
+"Díky, nejdříve bychom se rádi trochu porozhlédli po městě."
+"Dsarii-ma. Vítejte v Jirinaar."
+"Dsarii-ma a přeji hezkou cestu!"
+"Stará budova nebo, jak někdo říká, starý Argim, leží, myslím, na severovýchodě města. ^ ^ Nikdy jsem tam nebyl. ^ ^ Pojďme tam hned... možná tam toho člověka ještě chytíme!"
+{CNTR} Malý nápis zde říká: ^ ^ {INK 006} Bojové umění: 8.00 až 19.00.

@@ -1,0 +1,12 @@
+﻿"{BLOK000} "To je má funkce, vést a řídit Rada Spravedlnosti."
+"Jste tady znova. Skeima Din, je dobře, že jste se zastavili. V řadě jsou nějaké nesrovnalosti, které se teď musí vyjasnit. Proto nemám moc času, si s vámi promluvit." {WORDdiscrepancies}{WORDrumors}
+"Jak bych vám to vysvětlil. Jeden z radních, Perron, věří, že Gard a Riko nerozhoduji pro dobro lidí. Ale stále je to silná výtka, vyřčená Perronem, jenž někdy reaguje příliš rozzlobeně. ^ ^ Ale ať je jakkoliv, dokud to Perron nenechá být, musíme dát hlavy dohromady a probrat to. To nijak nezlepší okolní náladu. Gard a Riko jsou tvrdohlaví a tvrdí, že nemohou a nabudou s Perronem dále spolupracovat. Nerespektuji ho, ale on je opravdu čestný a já si nejsem moc jistý Gardem a Rikem. V každém případě se spis přidám k Perronovi. Jestli Gard a Riko zůstanou tak neústupní, pak rada nebude moci účinně pracovat. S tím problémem si musíme nějak poradit." {WORDGard}{WORDRiko}{WORDPerron}{WORDstubborn}{WORDmood}
+"Někdy je moc těžké s nimi spolupracovat."
+"Perron je velmi otevřený a já vím v čem za něm stojím. Někdy svou otevřenost přežene a to je velký problém."
+"Možná se Riko a Gard vzdají. Jinak budu muset přikročit k náhradnímu řešení."
+"Po poslední diskusi to nevypadá dobře."{WORDdiscussion}
+"Bohužel z konverzace vzešlo málo užitečných řešení."
+"Tak se říká našemu městu."
+"To jsem já."
+"Dobrá, stále nevím co je na tom pravdy, ale slyšel jsem, že víc a víc strašlivých příšer vychází že svatyně. Raději tam vůbec nechoďte; je tam tabu, které znemožňuje lidem, aby vstoupili do svatyně a to patří Iskaium."
+"Radnice je nejkrásnější stavba v Belovenu. Měli byste se tu trochu porozhlédnout. Nikdo vás nebude zastavovat."

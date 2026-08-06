@@ -1,0 +1,29 @@
+﻿{BLOK000}"Nyní jsem hlavou cechu, ale dle mého názoru jsem nedostatečnou náhradou za Akiira."
+ 
+"Vidíme to co děláme jako směs magie, umění a řemesla. Jsme jeden z nejstarších cechů v Jirinaaru a, jak jistě víte, jsme pomocí naší magie schopni tvořit, měnit a natrvalo proměňovat rostliny. To znamená, že můžeme vyrábět celé domy z živého rostlinného materiálu, který není pouze krásný, ale také splňuje nutné předpoklady pro kvalitu bydlení."
+"Dosud ho považuji za svého přítele. Kdo ví, jak bych se zachoval, kdyby jsem se dozvěděl o své blížící se smrti."
+!
+!
+"Sira je Akiirova jediná dcera. Přešla k Dji-Kas, což ho velmi rozhněvalo."
+ 
+"Obávám se, že události obklopující Akiirovu smrt příliš neposílily naše vzájemné vztahy. Uvidíme co přinese budoucnost, nebudu se bránit usmíření."
+"Náš cechovní dům soupeří s budovou rady o titul nejkrásnější stavby v Jirinaaru. Stále ho udržujeme a vylepšujeme a používáme ho jako ukázku našich znalostí, jak můžete vidět ve východním křídle."
+!
+Dosud jsem nenašel odvahu, omluvit se mu osobně, ale udělám to hned, jak bude méně rozhněvaný."
+"To je mé jméno, správně."
+"Shledávám, že je velmi těžké o tom všem hovořit. Pokouším si zapamatovat Akiira jako přítele, jehož duch byl poslední týdny zkoušen."
+dummy
+dummy
+dummy
+dummy
+"Slyšeli jste o tom? Tedy, budu upřímný, Argimův příběh je trapnou součástí historie našeho cechu. ^ ^ Byl hlavou Dji-Fadh téměř před 150 lety. Tehdy se budova cechu Dji-Fadh nacházela mimo město. Byla to velkolepá budova blízko Han, ve středu lesa. Argim měl ve svém oboru velké nadání, ale nestálou povahu. To byl důvod, proč jeho nejvyšší cíl byl zamítnut: stát se jedním z Vyvolených. Když se dozvěděl o rozhodnutí, přestal se ovládat. Přísahal, že vzdor všemu dosáhne nesmrtelnosti. V nezodpovědné demonstraci síly zničil celou stavbu a změnil ji v divné místo, kterému se nyní každý vyhýbá. říká se, že tomu místu vtiskl svého ducha."{WORDHan}
+"Jsou zde místa, kde síla Bohyně je obzvlášť silná a kde magické skutky jsou posíleny a často také obtížnější. Tento druh energetických center nazýváme Han."
+dummy
+"Dsarii-ma! Oh Bohyně, co vám mám na to říci? Mohu vás pouze požádat za odpuštění, že jsem nevyšel s pravdou ven dříve. Chvíle od Akiirovy smrti se nyní zdá jako strašná noční můra. ^ Děkuji vám, že jste mně probudili."{BLOK010}"Jak tvoji cechoví společníci reagovali, Bradire?"{BLOK011}"Už si s tím dále nedělej starosti, Bradire. Byl jsi v beznadějné situaci a tvůj smysl pro přátelství tě ctí."
+"Dsarii-ma, poutníci. Jste vítáni v cechu."{WORDAkiir}{WORDFasiir}
+"Nevím co říci. Vyjádřili své porozumění tím, že mne udělali hlavou cechu. Byl to nepopsatelně dobrý pocit to slyšet."
+"Děkuji vám za vaše utěšující slova, {LEAD}{NAME}. Jsem rád, že proti mě nic nemáte."
+"Než půjdete, rád bych vás požádal, abyste si vzali toto, jako výraz mých výčitek. Ne, skutečně, vezměte si to, prosím, opravdu chci, abyste to měli." ^ ^ {INK 001}Podává společníkům velký obnos zlata a důkaz - magickou, ozdobnou dýku. ^ ^ {INK 002}"Zlato pochází z Akiirova odkazu mě a dýka ve mně nyní vyvolává nepříjemné vzpomínky. A jak můžete vidět, nenarodil jsem se, abych byl bojovníkem."
+"Dsarii-ma. Oh, Siro! Dovol mi ještě jednou říci, jak mě celý tento příběh činí nešťastným. Musela jsi projít strašnými časy." ^ ^ {INK 001}Sira: ^ {INK 002}"Nebylo to lehké, Bradire, vědět, že můj otec zosnoval toto všechno kvůli mě. Ale víš stejně dobře jako já, že nebyl špatný Iskai. Projevil slabost tváří v tvář smrti a to je snadné odpustit. Ty jsi se mu pouze pokusil poskytnout poslední službu, jako přítel."{WORDAkiir}{WORDFasiir}
+"Sbohem."
+"Dávné dědictví, ale nyní patří vám. Vyvolává ve mně spoustu špatných vzpomínek."

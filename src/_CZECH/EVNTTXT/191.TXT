@@ -1,0 +1,8 @@
+﻿{BLOK000}"Jsem technický ředitel všech segmentů." {WORDsegments}{WORDladder}
+"Nazdar, Driscolle."
+"Kdykoliv je zde nějaký problém, technici přijdou za mnou a očekávají ode mne zázraky. Ale já nemohu vysvětlovat: nyní nahoru, let byl dosud velmi hladký. Toronto jsou skutečně velké peníze." {WORDToronto}
+"Jak jsem řekl: kdykoliv je zde nějaký problém, technici přijdou za mnou a očekávají ode mne zázraky. Ale já nemohu vysvětlovat: nyní nahoru, let byl dosud velmi hladký. Toronto jsou skutečně velké peníze." {WORDToronto}
+"Pouze dvě z osmi částí Toronta mají instalované život-udržující systémy: ten, který se nachází zde je pro bezpečnostní složky, nemocnici a elektrárnu. Ostatní části obsahují pouze těžební zásoby, které nepotřebují během letu udržovat, tudíž nezpůsobují žádné problémy." {WORDsecurity}
+"Nerozumíš? Oukej, ještě jednou: pouze dvě z osmi částí Toronta mají instalované život-udržující systémy: ten, který se nachází zde je pro bezpečnostní složky, nemocnici a elektrárnu. Ostatní části obsahují pouze těžební zásoby, které nepotřebují během letu udržovat, tudíž nezpůsobují žádné problémy." {WORDsecurity}
+{BLOK000}"Co můžeš říci o..." {BLOK001}"Podívej se na tohle..." {BLOK004}"Uvidíme se brzy!" {BLOK005}"Co děláš?"
+"Tedy později!"

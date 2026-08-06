@@ -1,0 +1,3 @@
+﻿{BLOK000} "Já jsem obchodník. Nakupuji a prodávám všechno možné. Mé zboží je vždy nejvyšší kvality."
+"Vítejte do mého zázračného krámu, buďte si jistí, že seženete co hledáte. Nebo chcete raději něco jiného? Můžu vám nabídnout další služby, díky svým magických zkušenostem. Mohu odčarovat zakleté předměty a podat vám o nich vyčerpávající informace. Samozřejmě to není zadarmo..." {BLOK010} "Můžeme se podívat na vaše zboží?" {BLOK011} "Rádi bychom, abyste nám prozkoumal jednu věc.{BLOK012}Prosím pomožte nám, máme zakletý předmět a nevíme, jak se toho zbavit."{BLOK013}"Díky za rozhovor."
+"Sbohem."

@@ -1,0 +1,5 @@
+﻿{BLOK000} "Já jsem tady hospodský."
+"Opravdu si nemyslím, že bych vás měl obsluhovat? Kdybych byl vámi, nezůstával bych tu. Měli byste jít do svatyně a pokusit se zastavit Kontose a jeho nohsledy, aby tam neprošli že svými záměry. Mám proti Kontosovi slušné důkazy!" {WORDevidence}
+"Můžete je mít, tak jako vám je nabízím. Mám také kopie. Je to jenom část listiny, kterou Kontos chtěl zničit. To říká hodně, že."
+"Už jsem vám dal listinu."
+"Já jsem Edjirr."

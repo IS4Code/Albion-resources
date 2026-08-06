@@ -1,0 +1,9 @@
+﻿{BLOK000}"Chytám divoký zvířata v lesích, zabíjím je a pak prodávám maso. Takže byste mi mohli řikat lovec, řezník a obchodník, jo?"{WORDhunter}
+"Thkeima Din. Hodně jsme o vás slyšeli. Líbí se vám Maini? Už jste byli v Kounosu? Už jste navštívili Kontose? Je to divnej chlapík." {WORDcontinent}{WORDKounos}{WORDKontos}{WORDMaini}
+"Eště jednou přeju dobrej den Už jsme se viděli." {WORDcontinent}{WORDKounos}{WORDKontos}
+"Kontose znám už dlouho. Dřív to byl dobrej chlapík a mohli ste s nim lehce mluvit, ale už to nejde. Ani náhodou. Před ňákejma rokama se začal hrabat v černý magii a v náboženství. Teďka si myslí, že je nejchytřejší Druid na celý planetě, chápete? Dřív bydlel tady v Belovenu, ale pak se dal dohromady s Rikem a vod tý doby to s nim šlo z kopce. Teďka má hodně příznivců z Kounosu, který věřej jeho teoriím. řek bych, že většina brzo zjistí, že to nemá v hlavě úplně v pořádku."{WORDcontinent}{WORDKounos}{WORDmagic}{WORDtheories}
+"No, myslím všechny Maini, chápete? Beloveno, Thrimalinar, Kounos, všecko. Celej sever a jih země."
+"Určitě ste tam už byli? To je ta malá vesnička na skalní plošině, kde furt eště mají tradiční způsob života, chápete? Kontos tam provedl ten svůj trik. Nemám ho moc rád."
+"Kouzlům moc nerozumím. Nikdy sem je nepotřeboval, chápete?"
+"Nechci do toho moc strkat nos. Ale chytrej chlapík jako Kontos může něco provést, žejo?"
+"To jsem já."

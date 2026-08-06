@@ -1,0 +1,5 @@
+﻿{BLOK000}"Jsem řemeslník a dělám hliněné nádoby."{WORDpottery}
+"Dsarii-ma! Nemohu tomu uvěřit! Myslel jsem, že příběhy o vás jsou pouze řeči."{WORDrumor}
+"Dsarii-ma! Rádi byste ode mne ještě něco?"
+"Ano, dělám většinu hrnců a mís, které vidíte v Jirinaaru."{WORDJirinaar}
+"Tedy, lidé moc mluví a někdy dokonce pěkně přehánějí."

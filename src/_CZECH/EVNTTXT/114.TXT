@@ -1,0 +1,4 @@
+﻿{BLOK000}"Hlídám budovu rady a její obyvatele. Například se ujišťuji, že jsou zde dostatečné zásoby a že budova dobře vypadá."
+"Dsarii-ma a vítejte v budově rady."
+"Dsarii-ma! Oh jaký strašný čin spáchali v této vznešené budově vaši lidští společníci. A to jsem měl pro lidi téměř pochopení!"{BLOK010}"Viděl jste na místě činu něco, čím byste nám mohl pomoci, Vrisi?"
+"Nic, vyjma toho, že vrah mohl prchnout jihozápadním směrem. ^ ^ A měl takový divný zápach, jako semena. Prošel jsem všechna koření v mé kuchyni, aniž bych našel něco podobného."

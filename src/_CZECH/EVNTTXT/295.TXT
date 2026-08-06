@@ -1,0 +1,12 @@
+﻿{BLOK000}"Já jsem Horský Kněz a mohu provést rituál."{WORDritual}
+"Skeima Din, jsem velmi zaměstnán spirituálními přípravami pro své kázání. Ale rád vám pomohu, pokud budu moct."{WORDpreparations}
+"Skeima Din, věřím, že se učit navzájem. ale bohužel mám hodně práce."{WORDwork}
+"V cechu jsou jenom dva Horští Kněží. Máme hodně práce a musíme provádět obřady dvakrát denně. jinak bychom urazili Matku Zemi. Samozřejmě se musíme psychicky připravit několik hodin před obřadem."{WORDritual}{WORDwork}
+"Ano, potřeba po rudě a drahokamech vzrůstá a vzrůstá- a my můžeme jenom pokračovat v těžbě."{WORDmining}
+"Ostatní cechy potřebují rudu a neobrobenné diamanty por další zpracování. Ale jenom my je můžeme těžit, jsme nuceni hodně pracovat, pokud chceme aby náš obchod prosperoval, a tak také samozřejmě činíme."{WORDtrade}
+"Jsme jediní, kdo může vyrábět železo a naše budoucnost je zajištěna tímto monopolem, protože vyvážíme železo do celého světa. Proto je velmi důležité uchovat si pro sebe naše rituály. Kdy by někdo jiný nabyl našich poznatků, tak už by nás nikdo nepotřeboval. ^ ^ Z tohoto důvodu, jsme na cizince opatrní. Před provedením rituálu se vždy přesvědčíme, že jsme sami. Jenom tak může obřad začít a my můžeme pokračovat v těžbě. Vůbec se nám nelíbí, když se cizinci potulují po našich tunelech. Tak si zapamatujte, můžete si prohlédnout cech, ale nevstupujte prosím do dolních tunelů."{WORDmining tunnel}
+"Tunely leží na severu, kde musíme kopat do velké skály. Je tam také pár kolejnic nakládacích zařízení. Ale jak už jsem říkal, nesnášíme cizince, co se plíží za našimi zády."{WORDespionage}
+"Pokud při tom někoho chytneme, tak jsme velmi nevybíraví. Nebylo by to poprvé, co to někdo zkoušel."{WORDattempt}
+"Před časem, jsme objevili Výrobce zřízení, Merdgera, který špicloval náš obřad."{WORDEquipmentmaker}
+"To je, proč nemáme s Výrobci zařízení dobré vztahy. Oni věří, že rituál je pověra. Slyšel jsem, že zkoušeli těžit rudu sami. Ale Matka Země, aby nepovolaní tak činili. Takže všechny jejich pokusy byly doposud neúspěšné. Merdger zatím oficiálně nepřipustil, že to jsou pověry. Ale sám zjišťuje, že udělal něco špatně a ptá se sám sebe proč. ^ ^ Nikdo neuspěje ve špiclování. Jsme teď velmi opatrní. Co se stala ta příhoda s Výrobci zařízení. Oni si myslí, že naše ceny jsou příliš vysoké, ačkoliv neuznají, že je to těžká práce. Je správné mít čestný zisk."{WORDshare}
+"Ostatní cechy nám také platí za rudu a hrubé diamanty. To je z čeho žijeme."

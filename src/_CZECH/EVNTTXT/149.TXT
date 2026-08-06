@@ -1,0 +1,10 @@
+﻿{BLOK000}"Jsem chovatel dobytka a mířím se svým stádem ven."{WORDcattle breeder}{WORDherd}
+"Dsarii-ma. Co potřebujete od starého Jirise?"{BLOK010}"Dsarii-ma. Můžete nám říci, jak se dostaneme do ruin Dji-Fadh?"
+"Ano. Ale jste si jistí, že se chcete setkat se starým Argimem? Předpokládá se, že se tam dějí divné věci! ^ ^ {INK 001}{LEAD}{NAME}: ^ {INK 002} Máme k cestě tam dobrý důvod. Můžete nám pomoci?" ^ ^ {INK 001}Jiris: ^ {INK 002}"Tak, dobře. Držte se severně až k jezeru. Pokračujte podél jeho východní strany, dokud nenarazíte na opuštěnou cestu. Sledujte ji, dokud neuvidíte mrtvou západní větev. Pokud se budete ještě chvíli držet těchto instrukcí, měli byste vidět starý most, pokud už nespadl do řeky. Buďte opatrní."
+"Chcete tam jít znovu? Dobře, to není můj problém. Tak tedy: Držte se severně až k jezeru. Pokračujte podél jeho východní strany, dokud nenarazíte na opuštěnou cestu. Sledujte ji, dokud neuvidíte mrtvou západní větev. Pokud se budete ještě chvíli držet těchto instrukcí, měli byste vidět starý most, pokud už nespadl do řeky. Buďte opatrní."
+"Už dlouho je to naše rodinná profese. Víte, ne každý může a chce kupovat drahé maso lovců a my nabízíme nejlepší kvalitu za málo peněz. Mám své stádo a povolání rád. Nejsem městský typ a raději žiji mimo něj."
+"Jak už jsem řekl: Už dlouho je to naše rodinná profese. Víte, ne každý může a chce kupovat drahé maso lovců a my nabízíme nejlepší kvalitu za málo peněz. Mám své stádo a povolání rád. Nejsem městský typ a raději žiji mimo něj."
+"Zvířatům se říká Miminové. Jsou z větší části přátelští a jejich maso je k nezaplacení. Starám se o ně a oni se starají o mne."
+"Neříkal jsem to už? ^ Zvířatům se říká Miminové. Jsou z větší části přátelští a jejich maso je k nezaplacení. Starám se o ně a oni se starají o mne."
+"Dsarii-ma! Jací zvláštní návštěvníci! ^ Oh, omluvte mě, nejsem tak uhlazený, jako lidé z města, hir, hir!"
+"Dsarii-ma! Tak vy jste ještě nebyli sežráni, hir, hir!"

@@ -1,0 +1,143 @@
+﻿-free-
+Větve a kořeny.
+Pletený košík
+Skleněná nádoba na vodu a ostatní drinky.
+Sud.
+Velkolepá zvířecí kůže.
+Vědro.
+Hliněná mísa.
+Láhev.
+Talíř.
+Hliněný džbán.
+Džbán.
+Nůž.
+Vidlička.
+Lžíce.
+Hliněná nádobka.
+Skály.
+Mísa.
+Nástroj na obdělávání půdy.
+Sekera.
+Pokrývka hrudi.
+Dřevěná truhla.
+Bohatě zdobená truhla ze dřeva.
+Komnata úlevy.
+Pokrývka.
+Dřevěná káď.
+železná konev.
+Skříň.
+V těchto policích našly své místo samé bezvýznamné věci, patrně dekorativního charakteru.
+Psací stůl (sekretář).
+Koště.
+Rošt.
+Můžeš si tu opéci maso.
+Ohniště (krb).
+Tepaná karafa.
+Sběračka.
+Dekorativní meč na zeď.
+Dřevěný stůl.
+Stolička.
+Zalomená stolička.
+Masivní jídelní stůl.
+Pařez.
+Dvě překřížená kopí.
+Velký sud naplněný podivnou tekutinou.
+Pípa.
+Prostěradlo.
+Pohodlná a nádherně zdobená postel.
+Tato postel je obyčejná, ale praktická.
+Kuchyňský stůl.
+Ohniště (nebo krb).
+Ohniště (krb) sálá příjemné teplo.
+Zdobený hrnec.
+Sušené bylinky.
+Lidská lebka.
+Zdobený štít.
+Kovový hrnec.
+Zdobený meč.
+Dveře.
+Konvice.
+Nůž.
+Krátká dýka.
+Dýka.
+Dlouhá dýka.
+Krátký meč.
+Meč.
+Dýka (druh bodce)
+Házecí dýka.
+Sekerka.
+Sekera.
+Malý luk.
+Luk.
+šíp.
+Malý, kožený štít.
+Kožený štít.
+Kulatý štít.
+Velký štít.
+Kožená čapka.
+Reliéfní čapka.
+Kovová mísa (pohár, váza, číše).
+Kožená vesta.
+Kožené brnění (?).
+Reliéfní kožená vesta.
+Pár bot.
+Pár velkých bot.
+Prázdná láhev.
+Zelený léčivý lektvar.
+Tyrkysově zbarvený léčivý lektvar.
+Modrý léčivý lektvar.
+Klíč.
+Lano.
+Prsten.
+Pochodeň.
+Kladivo.
+Schody. Vedou nahoru.
+Schody. Vedou dolu.
+Pult.
+Kobercová rohož.
+Pokojová rostlina.
+Květináč.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+"Jestli si chcete popovídat s někým z okolí, zajděte do krčmy. Tam se schází celá vesnice. Také tam žije Kontos, zdržuje se ve sklepeních pod krčmou."
+"Mellthas! ^ ^ MELLTHAS! To je od vás milé, že jste mě poctil svou návštěvou. Co vás ke mně přivádí?"
+Na Mellthasově tváři vykvetl kvítek radosti a jeho ruka počala horlivě plnit jeho poznámkový bloček písmenky.
+"Přivedl jsi s sebou i své přátele? To je báječné, jste v mém domě všichni vítáni."
+"Skeima Din. Jste Mellthasovi přátelé? ^ ^ To je báječné. Vyprávěl mi o vás. Až uvidíte Mellthase, prosím vyřiďte mu ode mne mé pozdravení a řekněte mu, že doufám, že se má dobře."
+"Až ho opět uvidíme, rádi mu to vyřídíme."
+"Děkuji vám. V každém případě jste tu vítanými hosty."
+"Jsem skutečně moc rád, že jste mě navštívili. Ale zrovna mám naspěch. Kontos brzy přednese svoji řeč a já se jí musím zúčastnit. Ale zastavte se prosím někdy jindy. Rád vám pak povím něco o sobě a o naší vesnici, nebo o tom, na co se mě zeptáte."
+"To je od vás hezké, že jste se zastavili na kus řeči. Ovšem nemám zrovna nejlepší náladu. Kontosova poslední řeč mě donutila se zamyslet. Není to tím, že bych snad pochyboval o jeho inteligenci, ale někdy je i na mě až příliš moc radikální."
+"Všeobecná nálada se tu zrovna pohybuje těsně pod bodem varu. Kontos naléhá, abychom obsadili svatyni v Srimalinaru. Ale, eh... ode mne to nevíte. Všichni stojíme za Kontosem, ale někdy si nejsem jistý, zda-li jsou všechna jeho rozhodnutí správná. Většina lidí o nich nepochybuje, leč bohužel já ano. Nevím nic o divných stvořeních a ta svatyně tam stojí už od doby, kdy jsem se narodil. Proč by měla být najednou tak nebezpečná? ^ ^ Asi o nic moc nejde a na celou záležitost se brzy zapomene. Každopádně většina z nás stojí pevně za naším vůdcem. Nevím, možná jsou mé obavy neopodstatněné."
+"Nevím, jestli jste si toho už všimli nebo ne, ale většina našich lidí už opustila vesnici a vydala se na cestu ke svatyni v Srimalinaru. Rozhodli jsme se ji obsadit a zničit jejího démona. Kontos tvrdí, že tam iskaiská rasa experimentuje s černou magií. ^ ^ Brzy vyrazím i já a stanu po boku svých bratří."
+"Jsem rád, že jste ke mně našli opět cestu. Děkujeme za všechno, co jste pro nás udělali."
+"Udělal bych pro Kontose všechno! I kdybych tím měl ohrozit svůj život. Alespoň bych věděl proč."
+"Nemyslete si, že jsme všichni tak nevlídní. Nicméně cizinci si musí nejdříve náš respekt něčím zasloužit."
+"Skeima Din. Moje jméno zní Kleronna. Jsem už skoro stejně stará jako můj bratr. I když máma pořád tvrdí, že ho nemůžu nikdy dohnat. Ale já ho jednou určitě doženu!"
+V dálce vedou rozhovor dva lidé a {LEAD}{NAME} se podařilo zachytit pár útržků jejich konverzace: ^ ^ "...říká se, že se Herras vydal do Belovena... pravděpodobně z jeho vlastních řad... velmi tragická situace..." ^ ^ Bohužel kvůli lomozu už nic dalšího nevyslechli... Když Mahinosové zpozorovali, že družina naslouchá, okamžitě přešli na jiné téma.
+"Musím vám říci něco velice důležitého!"

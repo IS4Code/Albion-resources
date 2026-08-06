@@ -1,0 +1,16 @@
+﻿{BLOK000}"Jak už jsem vám říkal, jsem král Klouty."
+"Togi Din, poutníci. Jsem kmenový král Klouty." {BLOK010} "Togi Din, Tharnos. Hledáme obří kovovou loď, která spadla z oblohy. Slyšel jste o takové věci?" {WORDKlouta}{WORDtribal king}
+"Ha, ha, ha, jste blázni? Omluvte mě, ale takovou hloupost už jsem dlouho neslyšel. Měli byste se obrátit na Druidy v Arjanu pro léčení." {WORDdruids}{WORDArjano}
+"Togi Din. Ach, znovu ti vtipní poutníci!" {WORDsea voyage}
+"Jsem vůdce Tuath Klouty a nejdůležitější muž zde. Co řeknu, to se stane!" {WORDTuath}
+"Nerozuměli jste mi snad? Jsem vůdce zdejšího lidu!"
+"Tak, vy byste rádi znovu opustili Kloutu. Garris, rybář, je zkušený námořník, který by vás mohl bezpečně vzít do Maini. Ale on a tím pádem i vy, k tomu potřebujete mé povolení. Nyní, přirozeně, bych mohl zajistit vaše schválení, ale je zde malá záležitost, kterou pro mne musíte zařídit. Jako cizinci jste pro to vhodnější, než někdo z této oblasti, neboť to vyžaduje velkou diskrétnost. Museli byste mi slíbit, že o tomto rozhovoru budete mlčet! ^ ^ Situace je taková: očekáváme, že král bude v plné psychické a fyzické kondici jinak to přinese neštěstí do Tuathu. Nyní, moje žena a já, dlouho čekáme děti. My a muži nosiči zbraní se stáváme netrpělivými. ^ ^ Potom tedy bych rád dostal amulet od Druidů v Arjanu, který by mohl posílit mou mužnost. Jsem si jist, že rozumíte, že nemohu pověřit tímto rozkazem někoho z mých mužů, nebo jít do Arjana osobně. Běžte k Berovi, Druidovi, a požádejte ho o posilující amulet. Přineste mi ho a já zajistím vaši cestu." {WORDdruids}{WORDArjano}{WORDTuath}
+"Ne, ne, cizinci! Máme dohodu! Nejprve mi přineste amulet od Bera, pak uvidíme v jiných záležitostech!" {WORDdruids}
+"Ha, ha, znovu na mne chcete zkoušet účinné žerty? Už jsem zajistil vaše povolení. Tak jděte za Garrisem - nic dalšího nestojí v cestě vaší pouti."
+"Ach, jak báječné! Dostali jste amulet! Já také dodržím své slovo a vypíši pro vás povolení. Vidíte? Za malou procházku jste udělali výborný obchod."
+"Dobře, dostali jste to pro mne jako amulet."
+"První účinek amuletu! Už cítím novou sílu, proudící skrze mne!"
+"To je mé jméno."
+"Nyní, pokud je tomu tak, měli bychom cestovat na Maini, velký ostrov východně odsud, tak rychle, jak jen to bude možné. Můžeš nám říci, zdali odsud můžeme takovou plavbu uskutečnit, o Tharnosi?"
+"Je nejlepší námořník ve vesnici. Najdete ho v jeho chatrči na severozápadním okraji Klouty."
+"To je název velké země východně od nás."

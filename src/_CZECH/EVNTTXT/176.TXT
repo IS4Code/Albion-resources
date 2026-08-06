@@ -1,0 +1,5 @@
+﻿{BLOK000}"Jsem ředitel knihovny v Arjanu." {WORDlibrary}{WORDArjano}
+"Togi Din. Vítejte do knihovny Arjana. Prosím utište se, ať nerušíte studenty." {WORDlibrary}{WORDArjano}{WORDspell scrolls}{BLOK010}"Máte na prodej nějaké dokumenty týkající se magie?"
+"Jsou zde nashromážděny vědomosti mnoha staletí. Před čtyřmi sty lety bylo vynalezeno umění tisku a tak už knihovna nepotřebuje tolik místa, jako dříve. Pergamenové svitky musely zabírat obrovský prostor. Tedy, všechny knihy, jež zde máme se týkají magie, filosofických úvah či učební látky pro děti a nováčky. Je mi líto, že jste nenašli více, co by vás zajímalo."
+"Tedy, skutečně, mám zde nějaké kouzelné svitky, které by vás mohly zajímat."
+"Kouzelný svitek dovolí praktikovat magii nenadaným. ^ ^ Avšak pokud je svitek přečten někým, kdo zná jednotlivé formy magie, on nebo ona se ho mohou naučit a používat pak kouzlo trvale."

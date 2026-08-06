@@ -1,0 +1,18 @@
+﻿{BLOK000}"Vymýšlím přístroj, který bych mohl vyzkoušet v našem testovacím sklepení."{WORDmechanisms}{WORDtest dome}
+"Je mi líto, ale mám velmi na spěch. Ceny rudy opět drasticky vzrostly a já si musím nejdříve vyjasnit pár věcí. ^ ^ Rád si s vámi popovídám jindy."
+"Skeima Din. To je hrozné. železná ruda se neustále zdražuje."{BLOK010} "Skeima Din, Zebenno, Merdger chtěl abychom vás pozdravili."
+"Pozdravy od Merdgera? ^ ^ Velmi děkuji. Jak znáte Merdgera?"{BLOK010} "Potkali jsme ho náhodou."{BLOK011}"Je to náš starý přítel."{BLOK012}"Přišli jsme, abychom ho spatřili, protože chceme vidět vaší testovací místnost."
+"Ano, Merdger je hodný přítel. A vyrobil mnoho úžasných věcí."{WORDdevelopments}
+"Tomu mohu jen těžko uvěřit. Znám všechny jeho přátele. Pokud mi chcete vyprávět pohádky, tak jděte někam jinam."
+"Co chcete dělat v mé testovací místnosti? Možná chcete vyzkoušet některý z mých nových přístrojů?"{WORDtest dome}{WORDmechanisms}
+"Ano, zkonstruoval mnoho zajímavých věcí. Jedny z posledních jsou jeho nápoje s nadpřirozenými vlastnostmi. Slyšel jste někdy o Porenoilu?"{WORDPorenoil}
+"Zeptejte se na to Agidy. žije na jihu a může opravdu tento olej ocenit. Také vám může dát několik rad na cesty."
+"Nemělo by se to dostat na veřejnost. Testujeme tam nové přístroje. Je úžasné čeho můžete dosáhnout s postupně zvyšující se technologií. Jsem hrdý na to, že jsme vyrobili tolik zajímavých věcí. Ale to je vše. Klíč vám dát nemohu."
+"Vytvářím nový ochranné mechanismy, které se budou používat jako zámky, hradby a jiné podobné věci. Je to smůla, že nemáme dost lidí, abychom je mohli otestovat." {WORDtest persons}
+"Nemohu najít dost lidí, kteří by byli schopni odpovědně tento vynález vyzkoušet. Moji kolegové to dělat nemohou, jelikož už jsou začleněni do vývojového týmu a už vědí o vynálezech všechno." {BLOK010}"My bychom mohli vyzkoušet nějaké vynálezy."{BLOK011}"Jsme si jistí, že někoho najdete."
+"Taky tomu věřím."
+"Hmmm, Neměl bych to dělat, ale asi vám ten klíč dám. Ale musíte být opatrní. Ne vše je úplně bezpečně." {BLOK010} "No ,vlastně raději ne." {BLOK011} "Podle všech testů. Buďte opatrní."
+"Rozumím tomu. Nezlobím se na vás."
+"Ano dobře. Dám vám ho, ale nikomu o tom neříkejte."
+"Na ten klíč máte málo místa!"
+"Teď už, ale opravdu musím jít. Merdger už na mě čeká. Přeju vám všech."

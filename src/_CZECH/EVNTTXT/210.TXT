@@ -1,0 +1,11 @@
+﻿{BLOK000} "Oh, já tady ve městě řídím obchod s jídlem."
+"Skeima Din, Neznám tě. Jsi tu na návštěvě?" {BLOK010} "Ano, jsme na dlouhé cestě." {BLOK011} "Co chcete vědět?"
+"Skeima Din. á, nedávno jsme spolu mluvili." {WORDtravel routes}
+"Pak vám každopádně přeji vše nejlepší a hodně štěstí na cestě. Znáte hlavní trasy z Belovena?"{WORDtravel routes}
+"V našem městě se nesetkáváme často s cizinci. Znáte hlavní trasy z Belovena?" {WORDtravel routes}
+"Mm, nejste tu dlouho, že? Doporučoval bych vám jet do Kounosu. Za prvé tam žijí moc zajímaví lidé. A také je to na cestě do Srimalinaru a tam by vám lidé určitě poradili a pomohli vám. Kounos je malá vesnička na skalní plošině v horách. Cesta je celkem obtížná, ale nevypadáte jako ti, kdo se hned vzdávají."{WORDKounos}
+"Opravdu mě rozzlobí, když něco vyprávím a dotyčný mne neposlouchá. Ale stejně, já bych šel do Kounosu. Za prvé tam žijí zajímaví lidé, je to na cestě do Srimalinaru a také by vám tam lidé poradili a poskytli materiál. Kounos je malá vesnička na skalní plošině v horách. Cesta tam není snadná, ale vy nevypadáte jako někdo, kdo se rychle vzdává."{WORDKounos}
+"Lidé vždycky mluví o pěšině, která vede do Kounosu, ale to je opravdu starý příběh. Opravdu tam kdysi býval přechod, ale my moc často do Kounosu nebo Srimalinaru nechodíme. Kromě toho tam byly pořád potíže s tím, komu vlastně cesta patří. Nikdy jsme se nedohodli a tak se o cestu nikdo nestará. Mezitím pěšina zarostla a nikdo už jí nemůže najít. Každopádně jestli umíte lézt po horách, můžete cestu najít. Sledujte popínavé rostliny, které visí přes skalní stěny a lezte vzhůru na severní plošinu."{WORDmountain pass}
+"Hledejte starou pěšinu, i když vlastně už není vidět."{WORDpass}
+"Jak říkají, hledejte starou cestu, nebo vlastně už neestistující přechod." {WORDpass}
+"To jsem já."

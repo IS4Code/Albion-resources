@@ -1,0 +1,10 @@
+﻿{BLOK000}"Ovládám všechny druhy práce se železem. Ale hlavně vyrábím zbraně."{WORDWeaponsmith}
+"Skeima Din, jmenuji se Gerwad. Doufám, že se vám v Umajo-Kenta líbí."{WORDUmajo-Kenta}
+"Skeima Din. Já už vás znám. Jak vidíte jsem, tak pracuji celý den se železem."{WORDmetal}
+"Nebavím se s lidmi, kteří se mne snaží okrást."
+"Zbrojíř má docela tvrdou práci. Není to lehké a celý den stojíte u ohně. Moc to nevynáší."{WORDmoney}
+"Dostávám dobrou cenu za své zboží, ale od té doby co horníci požadují víc a víc peněz za svou rudu, tak zisk není příliš velký."{BLOK010}"Můžou tohle dělat?" {BLOK011}"Proč si neseženete vlastní rudu?"
+"Ano, ale bohužel jenom Horští Kněží mohou provádět rituál Matky Země a tudíž nikdo jiný nemůže těžit rudu. Přesto se mi daří docela dobře. Bokem opravuji zbraně." {WORDritual}{WORDMiners}{WORDrepairs}
+"Není to lehké. Musíte znát ten rituál, jinak budete trpět. Matka Země je na tohle velmi přísná."{WORDritual}{WORDmother}{WORDbad luck}
+"{UNKN}??? ^ ^ Co to je ve světě  {UNKN}?
+"Opravuji tak, že to vypadá jako nové."{BLOK010}"Mohl byste nám něco opravit?"

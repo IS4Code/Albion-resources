@@ -1,0 +1,8 @@
+﻿{BLOK000}"Jsem matematik a navigační důstojník." {WORDnavigation officer}
+"Nazdar, Driscolle. Tak, je vše připraveno k letu?" {WORDflight}
+"Ach, Driscoll. Co pro tebe mohu ještě udělat?" {WORDflight}
+"Prověřil jsem znovu výpočty letové trasy. Vše je v zeleném poli - cesta nemá žádné kritické body. Měla by to být dětská hra."
+"Jak jsem už řekl, výpočty letové trasy jsou dokončeny a prověřeny."
+"Je to nyní dost obtížná práce. Dokonce ačkoliv, nebo možná proto, že máme Neda, zázračnou AI, na palubě. Jsem unaven z hledání chyb v jeho výpočtech během celého letu, ale žádné zde nejsou. Myslím, že jsem ze své práce odstranil potřebu vše prověřovat. Nikdo není připraven věřit ve 100% AI, ale myslím, že to nebude dlouho trvat a přijdou změny. " {WORDAI}
+{BLOK000}"Co můžeš říci o..." {BLOK001}"Podívej se na tohle..." {BLOK004}"Uvidíme se brzy!" {BLOK005}"Co děláš?"
+"Ahoj."

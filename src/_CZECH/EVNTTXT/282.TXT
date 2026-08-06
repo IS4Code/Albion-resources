@@ -1,0 +1,15 @@
+﻿{BLOK000}"Já jsem Výrobce zařízení, ale specializuji se na magické nápoje a lektvary."{WORDdrinks}
+"Vítejte, já jsem Merdger, člen cechu Výrobců zařízení."{WORDEquipmentmaker}
+"To jen tak na úvod..."
+"Někdo vám doporučil můj Porenoil? Hmm, velmi dobře, prodám vám láhev za 15 zlaťáků. Malá láhev stačí jen pro šest lidí."{BLOK010}"Ne díky."{BLOK011}"Ano, vezmeme si jednu láhev."{BLOK012}"Bereme jich pět za 75 zlaťáků."
+"Dobrá budiž."
+"Díky, je zaručené, že to pomůže. Pijte to po osmi hodinách při pochodu pouští."
+"Bohužel se zdá, že máte málo peněz."
+"Bohužel se zdá, že máte málo místa."
+"Klidně se po cechu porozhlédněte. Naše nejdůležitější vynálezy jsou vyvíjeny v podzemní dílně. Ale tam nemůžete vstoupit ."{WORDworkshop}
+"jak už jsem říkal, tato dílna není přístupná veřejnosti. Ani já ani Zebenno vám nedá klíč!{WORDkey}{WORDZebenno}
+"Zebenno je Výrobce zařízení. On má druhý klíč. Sami byste se ho ptát neměli, poněvadž je hodně nervózní. ^ ^ Hmm, vidím, že chcete o tom s ním mluvit. Dobrá, varoval jsem vás. Jestli vám dá klíč a něco se tam dole stane... Tak jste za to odpovědní."{BLOK010}"Drahý Merdger, my jsme vůbec odpovědní."{BLOK011}"Varoval jste nás a my si budeme dávat pozor."{BLOK012}"Nepůjdeme tam dolů."
+"Dobře, když říkáte."
+"To je lepší. To vás nemusí zajímat."
+"Blázen nejsem a stejně vám dávám ten klíč!? Doufám, že Zebenno vám ten svůj nedá. Ale je to docela kámoš. Navštivte ho a pozdravujte ho ode mne. Obvykle ho najdete s horníky. Stále nadává na ceny rudy, když nemá nic lepšího na práci."{WORDore prices}
+"Ano, ta se neustále zdražuje. Samozřejmě Zbrojmistr je tím postižen víc, jelikož potřebuje mnohem víc rudy než my. Ale co můžeme dělat? Protože neznáme ten rituál, tak nemůžeme těžit sami. Horníci používají své znalosti proti nám."{WORDritual}{WORDMiners}

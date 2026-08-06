@@ -1,0 +1,37 @@
+﻿{BLOK000}"Jmenuji se Branagh. Jsem válečník. Co jiného na tomto místě čekáš?"{WORDwarrior}
+"Kenget v našem starém jazyce znamená válečník. Kamulos je náš bůh."{WORDwarrior}{WORDGod}
+"Můj bůh je Kamulos - bůh války, bůh odvážných {WORDwarrior}{WORDcourage}
+"Nejde o to vůbec necítit strach: musíme se naučit ho překonávat. Jen ti, kdo nemají žádnou duši nemají vůbec strach. Proto jen ten, kdo je schopný může mít odvahu a jen odvážný zemře se ctí a slávou, beze zbraní. Zbabělec zemře jako otrok."{WORDhonor}{WORDspirit}{WORDweapons}{WORDslaves}
+"Každý kdo je odvážný dosáhne slávy. Největší čest je zemřít v boji, který sis sám vybral. Doufám, že budu mít to štěstí a budu také sedět u Kamulosova stolu, kde budou Kengeti ve slávě a s hrdostí čekat na Poslední bitvu."{WORDbattle}{WORDpride}{WORDLast Battle}{WORDfame}
+"Poslední zkouška. Poslední bitva může přinést věčnou slávu. Je to boj mezi odvahou a zbabělostí, mezi člověkem a jeho slabostí. Doufejme, že budu stát na té správné straně: s Kengety."{WRNR----}{WORDKenget Kamulos}
+"Má hrdost je součástí mé cti a kdo mne urazí, musí zemřít. Raději by sis měl dát pozor."
+"Usilování o čest je zářící cesta ke slávě. Největší slávu získám skrze čestný boj a, zvláště skrze důstojnou smrt." {WORDhonor}{WORDdeath}
+"ženy jsou bytosti druhého stupně. Stýkat se s nimi je stejně zahanbující jako stýkat se zvířaty, Iskai a obyčejnými lidmi. Manžel je bytostí druhého stupně, protože se stýká se svou ženou a není Kengetem. Proto, aby mohl dosáhnout prvního stupně a stát se Kengetem, nesmí se stýkat se ženami. Bojuješ také s mnohem větší odvahou, když stojíš po boku svého přítele a bratra." {WRNR----}{WORDwomen}{WORDKenget}
+"Zemřít v boji je nejvyšším cílem mého života! Zemřít v boji proti Khunagovi by bylo jako sen, který se splnil. Ale znalec obřadů bude o tomhle vědět víc." {WORDKhunag}
+"Je to náš vůdce. Náš nejvyšší Druid a nejvyšší vtělení našeho boha, věčného Kamulose. Jen se zeptej našeho odborníka na obřady!
+"říká se, že velcí Druidové je mohou porazit, ale ještě jsem žádné neviděl. Zřídkakdy se objevují venku. Obvykle hlídají tajné chodby a podobně. Na tohle by ses měl raději zeptat znalce kouzel."{WORDnature}{WORDdruids}
+"Svatyně se nachází v dolních poschodích. Vchod je u jižní brány, ale nedostanete se tam: žádný nečistý se tam nikdy nedostane."{WORDsecret passage}{WORDImpure One}
+"To je jméno zbabělého vraha našeho posledního Cuaina. Zabil ho když Kamulos spal, uprostřed našeho chrámu, v centrální místnosti."{WORDCuain}{WORDKamulos' Sleep}{WORDshrine}
+"Myslíš meče, nebo kouzla?"{WORDswords}{WORDmagic}
+"Combat je má modlitba, má oběť Kamulosovi."{WORDprayer}{WORDKamulos}
+"Jsme řadoví vojáci těla. Bojujeme svou fyzickou silou a dovedností. Zabíjíme se zbraněmi i beze zbraní, ale nepoužíváme kouzla. Jsme Kledové." {WORDweapons}{WORDmagic}{WORDKledo}{WORDbattle}
+"Musíš se zeptat Oqulů. To jsou bojovníci ducha."
+"My Kledové známe pět kategorií boje. Ta nejnižší je boj s malými bodnými zbraněmi, pak následuje boj s jednoručním mečem, boj na velkou vzdálenost, boj s dvouručním mečem, a pak nejvyšší forma našich fyzických schopností - boj beze zbraně. V tomto pořadí absolvujeme výcvik." {WORDtraining}
+"Stáváš se Kledem, když zvládneš boj s jednoručním mečem a učíš se zápas na velkou vzdálenost. Ne každému se podaří dosáhnout této fáze!"{WORDbattle}
+"Toto je první stupeň Druida po noviciátu."{WRNR----}
+"Jako Kledo nemůžeš používat kouzla, pokud nemáš magickou zbraň. Během noviciátu se učíš zacházet s pěti typy zbraní procházíš přechodným obdobím, které je nutné k tomu, abys dosáhl Artornu jako kněz."{WORDArtorn}{WRNR----}
+"Samozřejmě že znalec obřadů toho ví nejvíc. Nechtěl bych ti říct něco, co by se nezakládalo na skutečnosti. Je tu několik choulostivých otázek, jako používání drog a podobně. Proto by ses měl raději zeptat odborníka."{WORDdrugs}
+"Duch je základním prostředkem našeho řádu. Duch ovládá vše a pokud ho neumíš ovládat, nejvyšší čest ti bude odepřena."{WORDhonor}
+"Na tohle by ses měl raději zeptat odborníka."
+"Kdo zvítězí nad strachem, stane se Druidem. Každý, kdo dosáhne slávy, je Druid. A Druidové bojují kouzly. Zřejmě mohou dokonce ovládat démony."{WORDfear}{WORDhonor}{WORDmagic}{WORDdemons}
+"Den před novým rokem Kamulos odpočívá po bojích, které se minulý rok odehrály. Cuain též odpočívá a nemá v ruce žádné zbraně. Tím je zločin Khunagů ještě více opovrženíhodný." 
+"Toto jsou vězni, bytosti třetího stupně, kteří jsou ponecháni naživu, aby mohli vykonávat činnosti, které jsou pro Kengety ponižující. Tak dělají vše, co nějak souvisí s domácnosti. Jejich děti však mohou být vychovávány jako Kengeti, pokud vykáží určité schopnosti. Každý člověk, který projeví odvahu v boji se může stát Kengetem, nebo dokonce Cuainem. To, že se rodiče nechali ponižujícím způsobem zavřít ještě neznamená, že dítě je zbabělec. Zvláště pokud zde vyroste, vzdá se svých příbuzných a stane se členem naší rodiny."{WORDsteps} {WRNR----}{WORDKenget}{WORDCuain}{WORDcourage}{WORDbattle}{WORDfa mily}
+"Odvaha vyžaduje čistotu ducha. Používáme drogy jen při některých obřadech. Nejvíce mi chutná medové víno, ale kouření také není špatné." {WORDcourage}
+"Takže...Vstáváme dost brzy a před snídaní hodinu meditujeme. Pak pokračujeme v meditaci a dvě hodiny dopoledne věnujeme nácviku modlitby. Odpoledne je nácvik obřadu a další dvě hodiny modlitby. Večer meditujeme až do západu slunce. Meditaci věnujeme celkem dost času, zvláště v létě. Ale myslím, že to pomáhá v boji proti strachu." {WORDprayer}{WORDfear}
+"Nemáme nic proti rostlinám. Proč? Ani rostliny ani zvířata nebudou hrát roli v Poslední bitvě. Upřímně řečeno, nevím, co touto otázkou sleduješ." {WORDLast Battle}
+"Každý kdo ctí zákon je můj bratr. Nikdo tu nemá sestru. Odmítl jsem své rodiče, když jsem se stal Kengetem, protože oni patří pouze do druhého stavu." {WORDsteps}{WORDKenget}{WORDbrothers}
+"Ne, nevím nic o tajné chodbě. Co přesně touto otázkou sleduješ? Chceš si najmout zabijáky?" {WORDassassins}
+"Vlastně každý, kdo není Kenget je nečistý. Ale protože Kenget může být ukryt v každém člověku aniž si je toho vědom, člověk se může očistit důstojnou smrtí. Pro člověka je těžké pochopit, kdo je čistý, protože čistota je vyjádřena hlubokým porozuměním věčným Kamulovým zákonům v hodině smrti. Ale Kamulos to ví, a všechny očištěné mrtvé shromažďuje kolem svého stolu."
+!
+"Toto je pocit největšího štěstí a slávy. Když Kamulos naplní celou tvou duši a ta se promění v bojovnou sílu a odvahu čelit smrti. Tvůj strach už tě pak déle neovládá, ale spíše ty ho úplně ovládneš. Náš znalec boje ti o tom může říct více." {WORDspirit}
+"Zákon Kengeta Kamulose říká, že mám být pohostinný. Ale buďte, prosím, struční." {WORDCuain}

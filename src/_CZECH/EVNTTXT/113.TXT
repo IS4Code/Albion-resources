@@ -1,0 +1,6 @@
+﻿{BLOK000}"Neříkal jsem to? Pracuji jako písař v poradních kruzích."
+"Dsarii-ma, návštěvníci. Jsem zde, v poradních kruzích, písařem. Mohu vám nějak pomoci?"{BLOK010} "Co se přesně zapisuje?"{BLOK011}"šaty, co nosíte, jsou velmi pěkné."
+"Dsarii-ma, návštěvníci."
+"V poradních kruzích jsou denně činěna mnohá rozhodnutí. Každé z nich musí být zapsáno, což je právě to, co dělám. Není to příliš vzrušující zaměstnání, ale je velmi vážené."
+"Jsem překvapen, že vy, lidé, na to máte vkus. Oh, promiňte mi, nechtěl jsem to na vás tak vyhrknout. Těší mě, že jste si všimli. Víte, mám ve zvyku chodit nahý, ale v poslední době bych chtěl být trochu vyzývavý. Tak nyní nosím oblečení."{WORDnaked}
+"Oh, velice vám děkuji. Víte, mám ve zvyku chodit nahý, ale v poslední době bych chtěl být trochu vyzývavý. Tak nyní nosím oblečení."{WORDnaked}

@@ -1,0 +1,3 @@
+﻿{BLOK000}"Prodávám všechny druhy dobrého, porcovaného jídla."{WORDrations}
+"Togi Din, poutnici! Mohu vám udělat dobrou cenu na všechny druhy lahůdek z Aballonu."{BLOK010}"Ano, mohli bychom potřebovat nějaké zásoby na cestu."
+"Jak víte, Aballon je proslulý svým ovocem, ale má prasata jsou vykrmena a chutnají stejně dobře."

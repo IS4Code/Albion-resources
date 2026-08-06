@@ -1,0 +1,3 @@
+﻿free
+"Skeima Din, ^ ^ prosím buďte potichu a mějte pochopení pro pacienty na lůžku. Pokud jste zraněni, tak vás mohu vyléčit. Umím si také poradit se zakletími a z většinou neduhů. ^ ^ Co pro vás mohu udělat?" {BLOK010} "Prosím vylečte má zranění." {BLOK011} "Trpíme hned několika neduhy." {BLOK012} "Mohla byste odstranit zaklínadlo z jedné věci?" {BLOK013} "Jaké máte povolání?" {BLOK014} "Díky za rozhovor."
+"Lečím lidí a navracím jim zdraví."

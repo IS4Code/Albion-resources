@@ -1,0 +1,7 @@
+﻿{BLOK000} "Stavím domy z rostlin. Jsem si jisty, že jste jich tady kolem viděli hondě."
+"Co? Cizinci v našem městě? Jmenuji se Arrim a vítejte v Srimalinaru." {WORDSrimalinar}
+"ó, já už vás potkal. Nejsem si jistý, jestli vám budu k něčemu užitečný." {WORDSrimalinar}
+"Vidíte... jak je cenné znát naše město? Dobře, neměli byste se přibližovat ke svatyni. Je tam tabu, které znemožňuje vstup do svatyně. Musíte to respektovat, protože to místo má pro nás zvláštní význam. Pokud máte u sebe nějaké lesklé předměty, tak musíte být velmi opatrní. Nikdy je nenechte někde povalovat. žijí tam malá zvířata, kterým říkáme Kritahové. Obývají jeskyně v horách a kradou všechno, co se leskne a třpytí. Jsou to velmi plachá zvířata, ale občas je můžete zahlédnout." {WORDtaboo}{WORDshrine}{WORDkritahs}
+"Ano, raději tam nevstupujte. Právě tam probíhají naše náboženské obřady. Je to pro nás posvátné místo."
+"Tabu existuje velmi dlouho, co si vzpomínám. Tabu vzniklo z historických důvodů, což bych vám raději ani 
+"Ano?"

@@ -1,0 +1,31 @@
+﻿{BLOK000}"Mé největší magické nadání, za nějž jsem vděčen Bohyni, je umění léčit."{WORDhealing}
+ 
+"Naše magie je v tomto světě hluboce zakořeněna. Například, všechny naše kouzla od nás vyžadují soustředit své duševní síly ve zvláštním druhu semen. Jsme také pyšní na pestrost našeho řemesla. Známe magii k tvoření a ničení, zraňování a hojení. ^ Jako znak našeho cechu, nosíme na kůži zvláštně zabarvený vzor. Vůdce Dji-Kas je Sebai-fre FAsiir. Všechen svůj čas tráví v cechovním domě."{WORDseed}{WORDhealing}{WORDFasiir}{WORDguild house}
+"Sebai-fre Fasiir založil náš cech před více než 120 lety. Je mezi Dji-Kas žijící legendou a význačným učitelem."
+"Není to semeno samotné, které vytváří magický efekt, ale duch Dji-Kas, který bývá nalezen v jeho středu. Semena pocházejí ze zvláštní rostliny, nazývané Triifalai, což znamená 'Trii Bohyně.' Jsou prodávána v cechovním domě."{WORDTrii}{WORDGoddess}
+"Vpravo od vchodu do cechovního domu najdete Stri Rejiru, Mistryni v Léčebném Umění. Ona zahojí všechna zranění."
+"To je jméno rostliny, která produkuje semena velké hodnoty. {WORDseed}"
+ 
+"Oh, stavitelé. Vztahy mezi našimi cechy jsou občas trochu problematické. Naše rozmanitá řemesla přitahují některé jejich nejtalentovanější členy. A kdo je může obviňovat? Kdo by nechtěl vložit celé své úsilí do stavby domů, bez ohledu na to, jak jsou krásné? Možná jsou Dji-Fadh trochu rozhněvaní, protože jsme postavili náš cechovní dům bez jejich pomoci."
+"Cechovní dům byl dlouhou dobu v jihozápadním rohu Jirinaaru. Vystavěn Dji-Kas byl domovem mnoha členů cechu a všech Dra."{WORDDra}
+"Nikdy jsme neposlali Akiirova vraha! Kriis lže, Bohyně ví proč. Nemáme žádné důvody dělat něco tak hanebného!"{WORDGoddess}
+"Dovolte mi ještě jednou poděkovat, že jste nás očistili od podezření z Akiirovy vraždy!"
+"Akiir je hlavou Tvůrců, cechu, který se od nás v mnohém liší. Zvláště pak Akiir nechce opustit svou cestu vyhýbání se konfliktům."{WORDFormer}
+"Neznáte Fasiira tak dobře jako ti, kteří s ním, jako já, tráví většinu dne. Nikdy by neuchystal takový zločin! Ale pochybuji, že budete věřit slovům člena jeho cechu."
+"Jsem opravdu vděčný, že jste očistili jeho jméno."
+"Nevím nic o vraždě"
+dummy
+dummy
+dummy
+dummy
+dummy
+"Dsarii-ma, poutníci. Hledáte někoho, kdo vyléčí vaše zranění?"{BLOK010}"Ano, Rejiro, potřebujeme vaši pomoc."{BLOK011}"Vlastně ne, ale rádi bychom nějaké léky."{BLOK012}"Ne, děkujeme, pouze se rozhlížíme kolem."
+"Jak milé! Lidé to často nepřiznají."{BLOK010}"Ano, pojďme si promluvit." {BLOK011}"Naneštěstí musíme jít, Rejiro."
+{INK 001}{LEAD}{NAME}pověděl něco málo o tom, co se přihodilo během cesty. Rajira byla velmi štastná: ^ ^ {INK 002} "Velice vám děkuji. Mám ráda vzrušující rozhovory!"
+"Jaká hanba. Hodně štěstí na zbytku vaší cesty."
+"Oh, počkejte. Myslím, že tady pro vás mám malý dárek."
+SOON COMING: HEALER-SCREEN!
+SOON COMING: MERCHANT-SCREEN!
+"Pěkně se mi s vámi povídalo. Dávejte na sebe pozor!"
+"Jak vám mohu pomoci?"{BLOK010}"Jsme zraněni, Rejiro." {BLOK011}"Myslím, že jeden z nás je nemocen."{BLOK012}"Máme potíže s prokletým předmětem."
+"Mohu vám nabídnout napoj, který posiluje tělo a ducha."

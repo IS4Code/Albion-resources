@@ -1,0 +1,2 @@
+﻿{BLOK000}"Jsem kovář zbraní zde ve Vanellu."
+"Togi Din, poutníci. Co vám mohu k usnadnění vaší cesty nabídnout?"{BLOK010}"Ukažte nám, prosím, výběr vašich zbraní."{BLOK011}"Dokážete opravit tohle..."{BLOK012}"Sbohem."

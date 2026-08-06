@@ -1,0 +1,2 @@
+﻿{BLOK000} "Já jsem staršina našeho cechu."
+"Skeima Din. ^ ^ Pokud chcete, mohu vás zaučit do Iskaiské magie." {BLOK010} "Chtěli bychom se naučit nějaká kouzla." {WORDIskai}{WORDritual}

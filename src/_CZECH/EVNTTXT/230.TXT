@@ -1,0 +1,9 @@
+﻿{BLOK000} "Jsem členem koncilu Spravedlivých a i když to je těžké, musím dohlédnout na to, že bude brán zřetel na zájmy lidí."
+"Skeima Din, jak se máte? U mě to není nijak slavné, protože nálada je v konzilu už dost pod bodem mrazu." {WORDcouncil}{WORDBeloveno}{WORDtown hall}{WORDPerron}
+"Jak už asi víte, nejsem přesvědčen o tom, že Gard a Riko dělají pro dobro obyvatel a pro koncil maximum, skoro bych řekl, že dělají minimum. Nedávno jsem si s oběma o tom promluvil. To celou věc jenom zhoršilo. Nevěnovali mi pražádnou pozornost a řekli mi, velmi příkře, že mě nerespektují jako člena koncilu. Ale neudali pro to žádný důvod. To nemůžu přijmout, stejně tak jako Herras. ^ Zrovna teď probíráme tu nejdůležitější věc. Atmosféra je čím dál tím horší. Myslím, že už spolu nemůžeme nadále spolupracovat." {BLOK010} "Nemějte strach, brzy se všechno zlepší." {BLOK011} "Promluvíme si s Gardem a Rikem." {BLOK012} "Prostě je ignorujte."
+"Ignorujte? Musím probrat důležitá rozhodnutí a nemůžeme se přitom vzájemně jen tak ignorovat! Kdyby to jen bylo tak jednoduché..."
+"Proč by se měla situace zlepšit? Gard a Riko pro to nedělají zhola nic a já už si nevím rady."
+"To je od vás velmi milé, ale nemyslím, že byste s tím mohli něco udělat. Ale děkuji za váš zájem."
+"Koncil se schází pravidelně v koncilovém domě a někdy, když jde o velkou událost, pozveme celé město do naší zasedací místnosti. Je tam mnoho malých místností, které používáme k diskusím, a které mohou být pronajaty i k jiným účelům. V jižním křídle je velká zasedací místnost a střední zasedací místnost. V severním křídle můžete nalézt menší místnosti a uprostřed je kuchyně a stravovací kumbál... eh, místnost. Buďte tu jako doma."
+"To jsem já."
+"Doufám, že se vám naše město líbí. Můžete navštívit přístav na jihu, nebo si udělat výlet do Kounosu a Srimalinaru."

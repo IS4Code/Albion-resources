@@ -1,0 +1,9 @@
+﻿{BLOK000}"Dosud chodím do školy. Můj otec nemá mnoho příbuzných a tak nemusím jít do pěstounské rodiny."{WORDschool}{WORDfather}{WORDfoster care}
+"Togi Din! Vy jste návštěvníci ze vzdálených zemí, pravda? A chcete mluvit se MNOU? Oh, bože, to je poprvé, co jsem viděl chlupaté, ehm, myslím Iskai, na vlastní oči! Jste tak velcí!"{WORDGods}{WORDIskai}
+"Togi Din! Vy jste návštěvníci ze vzdálených zemí, pravda? A chcete mluvit se MNOU?"
+"Togi Din! Chcete se mnou znovu mluvit?"
+"Ano, Druidi přicházejí z Arjana a učí děti. Někdy je to nuda, ale někdy vyprávějí skutečně báječné příběhy."{WORDdruids}{WORDArjano}
+"Tedy, jak jsem řekl: Druidi přicházejí z Arjana a učí nás."{WORDdruids}{WORDArjano}
+"Slyšel jsem toho o nich spoustu. Někteří z nás je podceňují, ale jiní se jich obávají a váží si jich pro jejich válečnické dovednosti."{WORDwarrior}
+"Můj otec je jedním z nejlepších válečníků ve vesnici a slouží našemu králi!"{WORDking}
+"Tedy, nerad bych musel opustit mé rodiče, ale na druhou stranu bych rád měl druhou rodinu. Ale nejvíce se mi libí, jak to právě je."

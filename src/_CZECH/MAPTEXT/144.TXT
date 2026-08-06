@@ -1,0 +1,60 @@
+﻿empty
+Mechanický spínač.
+Na zdi je malé mechanické tlačítko.
+Malinkaté snadno přehlédnutelné tlačítko jevloženo do zdi.
+Podlažní deska. Vypadá to, že by mohla klesnout pokud na ni bude vkročeno.
+Dveře.
+Dveře jsou pevně zavřeny. Nikde není vidět zámek.
+Zamčená mříž. Nikde není vidět zámek.
+Fontána plná čiré vody.
+Pálivý plamen vyšel z měděného disku na podlaze.
+Měděný disk na podlaze.
+Měděný disk s velkým otvorem..
+Blikající plamen. Vyzařuje velké množství tepla.
+Průhledná zeď vytvořená z velmi pevného materiálu.
+To vypadá jako nějaký druh silového pole. Vytváří tak hlasité pípání, že vlasy stojí na hlavě a kořeny zubů {LEAD}{NAME} bolí z toho zvuků.
+Velká díra v podlaze.
+Je tu díra ve stropě.
+Několik květin užitých k dekoraci místnosti.
+Posez naznačujem, že tyto místnosti byli někdy obývány lidmi.
+Rozpadlý stůl.
+Starý barel.
+Zaprášená váza.{LEAD}{NAME} ji shlédl, ale nic nenašel.
+Tahle věc má na sobě nějaké ocelové příslušenství.
+Hromada starého svinstva. {LEAD}{NAME} ji prohrábl, ale nenašel nic co by za něco stálo.
+S tímto spínačem už nelze hnout.
+Zeď zde vypadá velmi křehká.
+{LEAD}{NAME} trefil zeď několika silnými ranami. Zeď se sesypala!
+{LEAD}{NAME} naplnil vědro vodou.
+{LEAD}{NAME} vstoupil do plamenů a chytil!
+{LEAD}{NAME} obrátil vědro s vodou nad plamenem a tak ho uhasil!
+Další oheň je uhašen!
+{LEAD}{NAME} vběhl do silového pole a ucítil neuvěřitelnou bolest prostupující {HIS } tělem. Po několika nekonečných sekundách světélkující pole vyhaslo.
+Jakmile se hůl dotkla pole, tak neznámá síla pominula. Z hole se však stal prach.
+Všichni vylezli nahoru s pomocí provazu!
+Poletující ohnivá koule. Vyzařuje nestrpitelný žár.
+Náhle všichni cítí nestrpitelný žár: ohnivá koule se dostala příliš blízko!
+"Neuvěřitelné. Nerozumím tomu co drží ohnivou kouli ve vzduchu. Je to planoucí vzduchová bublina? ALe jak může být tak trvalá? Záhadné."
+"Začínám pochybovat o své příčetnosti. Tohle pole nevypadá jako elektrického či jakéhokoliv jiného známého původu. CO to u všech čertů drží při životě? Tahle planeta vypadá jako by byla vytvořena jen kvůli tomu aby absolutně znepokojovala všechny  fyziky."
+Podlažní deska se trochu propadla.
+Stiknuta podlažní deska.
+Jeden z toulajících se plamenů dosáhl Toma a jeho přátel. Ten žár se nedá vydržet!
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Podivný lomoz přichází ze západu.
+Dveře v jihozápadní části místnosti se otevřely!
+Dveře na pravo od spínačů se otevřely.
+Kromě několika desek jsou na zemi ještě obrovské plameny, nervozně se mýhající přes podlahu.
+"Hmm! Velmi efektivní mechanismus!"
+Kamená zeď rychle zmizela v podlaze.
+Za mříží je velký spínač. Bohužel na něj nemůže být dosaženo. 
+Zavřená truhla.
+{LEAD}{NAME} myslí, že pod košem by mohlo být něco zajímavého.

@@ -1,0 +1,100 @@
+﻿ 
+Rozbuška
+Křeslo.
+Postýlka.
+Ovládací panel jaderného reaktoru.
+Servisní panel. Uprostřed je terminál.
+Ovládací panel.
+Letový ovládací panel.
+Ovládací panel.
+Syntetický záchod.
+Kabinet.
+Umyvadlo.
+Ručníky.
+Kartáček na zub.
+Monitor monitorující chodbu.
+Kontrolní monitory.
+část reaktoru.
+Sudy s odpadky, splašky, fekáliemi a toxickým materiálem.
+Vypnutá konzole.
+Lampa.
+Talíř.
+Sklenice.
+Pohár.
+Nádoba.
+Láhev.
+Plechovka.
+Krabice.
+Kontejner.
+Slánka a pepřenka.
+Sójový sos
+Hrnek.
+Malá konzerva.
+Lopata.
+Rýč.
+Francouzák.
+šroubovák.
+Přenosná příruční konzole.
+ODS (osobní digitální spolupracovník).
+Kleště.
+Příbory a hrneček.
+Nádobí.
+Automatické dveře.
+Loď.
+Přepravník.
+Sprcha.
+Vozítko.
+Značení na zemi.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+"Na tamté konzoli je nákres této oblasti."
+Konzole s velkou obrazovkou.
+"Na západě, na konci sekce tvaru L, by měl být vstup do servisního podlaží. Tam se musíme dostat."
+Dveře jsou zamčené.
+"Ty dveře stejně nevedou k cíli naší cesty. Musíme pokračovat."
+"Všechno je jak má být. Vypadá to, že jsme nespustili žádný poplach."
+"Ještě nás neodhalili. Doufejme, že nám to ještě chvíli vydrží."
+"Ještě pořád žádný poplach. Je to příliš dobré, než aby to byla pravda."
+"Zásah! Servisní panel, který hledáme, musí být hned za tím."
+"Ach! V tom výklenku támhle je konzola, která nám umožní získat přístup do komunikační sítě."
+Panel pro zadání vstupního kódu.
+Speciální šroubovák.
+Vypnutá laserová bariéra.
+Zapnutá laserová bariéra.
+"Musíme být ohledně těchto laserových bariér zatraceně opatrní! Sebemenší kontakt je osudný!"
+Deaktivovaná komunikační konzole.
+"O.K. Nyní se pokouším zadat Joevu dokumentaci týkající se Albionu do lodní sítě. ^ ^ Až je tam zadám, jsem si jist, že položíme palubní počítač a bezpečností síly na lopatky. Připrav se na lítý souboj."
+Tom vsunul datový modul, na kterém je zaznamenán život na tomto světě, do konzole a použil Joeho chipu aby zabránil zásahu palubního počítače na takovou dobu, na jakou to jen bude možné.
+"Pusť mě na to. Pokusím se manipulovat s konzolí tak, aby měl palubní počítač co možná nejdýl svázaný svý virtuální pracky."
+"Jsem si jist, že potom položíme palubní počítač a bezpečností síly na lopatky. Buď připraven ještě na tuhou bitvu."
+Joe vsunul datový modul, na kterém je zaznamenán život na tomto světě, do konzole a chvíli se s ním ještě zaobíral.
+"A je to! Záznam dokumentující život na této planetě se objeví na všech monitorech a bude slyšet ze všech reproduktorů, co jich jen na Torontu je. Tři, dva, jedna... teď!"
+{INK 001} Přehrávání záznamu započalo a Joevům hlas najednou zazněl ze všech reproduktorů na lodi: ^ ^ {INK 002} "Posádce celého Toronta. Toto jsou záznamy, které byly nahrány do lodního počítače přes zákaz řídících a velících důstojníků, kapitána a palubního počítače. Přináší důkaz, že na planetě se vyvinul život a dokonce i civilizace inteligentních bytostí. ^ ^ My, Tom Driscoll, Joe Bernard a skupina domorodých bytostí planety jsme vstoupili na Toronto. žádáme každého, aby urychleně opustil loď. Jsme rozhodnuti použít jakýchkoli prostředků, abychom zabránili Torontu ve zničení tohoto světa. Vedení lodi se pokusí přerušit toto vysílání za každou cenu. Nyní poslouchejte a dívejte se, jaká tato planeta skutečně je..." ^ ^ {INK 001} Záznam běžel, zatím nepřerušen, a ukazoval scény panenské přírody a každodenního života obyvatel Albionu.
+Siréna alarmu se mísila s Joeho hlasem vycházejícím z reproduktorů!
+Bezpečnostní jednotky se objevily!
+{INK 002} "Tady jsou ti teroristé!" {INK 001} ^ ^ Bezpečností jednotky zaútočily!
+Bezpečností jednotky útok okamžitě opakovaly!
+žebřík vedoucí dolů.
+Klávesnice k zadávání číselných kódů.
+{TECF}{CNTR} ZADEJTE PříSTUPOVý KóD
+{TECF}{CNTR} KóD NESOUHLASí. ^ ^ PříSTUP ODEPřEN.
+{TECF}{CNTR} KóD SOUHLASí. SERVISNí PANEL JE NYNí K DISPOZICI.
+"Ach, servisní panel! Přístupový kód je 1712."
+"Přístupový kód pro tento segment byl... Už vím, 1712!"
+{TECF}{CNTR}KóD SOUHLASí. VSTUP UMOžNěN.
+Přepážka vedoucí do vnějších prostor.
+"Tato sekce servisního podlaží je jedinou částí, která ještě leží mezi námi a fúzním zařízením. ^ ^ Jdeme na to."
+"Hotovo! Teď musíme najít konzoli, do které budeme moci vložit záznamy týkající se Albionu; to způsobí zdejším hlavounům jisté potíže."

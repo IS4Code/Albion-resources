@@ -1,0 +1,79 @@
+﻿empty
+Mechanický spínač.
+Na zdi je malé mechanické tlačítko.
+Malinkaté snadno přehlédnutelné tlačítko jevloženo do zdi.
+Podlažní deska. Vypadá to, že by mohla klesnout pokud na ni bude vkročeno.
+Dveře.
+Dveře jsou pevně zavřeny. Nikde není vidět zámek.
+Zamčená mříž. Nikde není vidět zámek.
+Fontána plná čiré vody.
+Pálivý plamen vyšel z měděného disku na podlaze.
+Měděný disk na podlaze.
+Měděný disk s velkým otvorem..
+Blikající plamen. Vyzařuje velké množství tepla.
+Průhledná zeď vytvořená z velmi pevného materiálu.
+To vypadá jako nějaký druh silového pole. Vytváří tak hlasité pípání, že vlasy stojí na hlavě a kořeny zubů {LEAD}{NAME} bolí z toho zvuků.
+Velká díra v podlaze.
+Je tu díra ve stropě.
+Několik květin užitých k dekoraci místnosti.
+Posez naznačuje, že tyto místnosti byli někdy obývány lidmi.
+Rozpadlý stůl.
+Starý barel.
+Zaprášená váza.{LEAD}{NAME} ji shlédl, ale nic nenašel.
+Tahle věc má na sobě nějaké ocelové příslušenství.
+Hromada starého svinstva. {LEAD}{NAME} ji prohrábl, ale nenašel nic co by za něco stálo.
+S tímto spínačem už nelze hnout.
+Zeď zde vypadá velmi křehká.
+{LEAD}{NAME} trefil zeď několika silnými ranami. Zeď se sesypala!
+{LEAD}{NAME} naplnil vědro vodou.
+{LEAD}{NAME} vstoupil do plamenů a chytil!
+{LEAD}{NAME} obrátil vědro s vodou nad plamenem a tak ho uhasil!
+Další oheň je uhašen!
+{LEAD}{NAME} vběhl do silového pole a ucítil neuvěřitelnou bolest prostupující {HIS } tělem. Po několika nekonečných sekundách světélkující pole vyhaslo.
+Jakmile se hůl dotkla pole, tak neznámá síla pominula. Z hole se však stal prach.
+Všichni vylezli nahoru s pomocí provazu!
+Poletující ohnivá koule. Vyzařuje nestrpitelný žár.
+Náhle všichni cítí nestrpitelný žár: ohnivá koule se dostala příliš blízko!
+"Neuvěřitelné. Nerozumím tomu co drží ohnivou kouli ve vzduchu. Je to planoucí vzduchová bublina? ALe jak může být tak trvalá? Záhadné."
+"Začínám pochybovat o své příčetnosti. Tohle pole nevypadá jako elektrického či jakéhokoliv jiného známého původu. CO to u všech čertů drží při životě? Tahle planeta vypadá jako by byla vytvořena jen kvůli tomu aby absolutně znepokojovala všechny  fyziky."
+Podlažní deska se trochu propadla.
+Stiknuta podlažní deska.
+V této zdi je mnoho hlubokých trhlin.
+-empty-
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Průhledná zeď vyjela vzhůru rychlostí světla.
+červená stěna zmizela a osvobodila tak příšeru!
+Dveře na pravo od spínačů se otevřely!
+S bránou se nedá hnout; je zablokovaná.
+"Přátelé, to je moje chyba, že jsme sem spadli. {FAT } Já {NORS} projdu těmito světelnými poli abychom mohli pokračovat v cestě."
+Strop se opět uzavřel potom, co jím všichni propadli do podlaží!
+"Drirr! Ty jsi nás všechny vehnal do záhuby! Zatraceně, nedotýkej se svými zbrklými prsty žádného spínače, dokud s tím nebudeme všichni souhlasit!"
+"Ou, sakra to bolí! Ano možná máš pravdu. Pokusím se dát dohromady. Před tím než mě sežvýkáte, zjistěme jak jsme přežili přistání."
+"Teď Drirr je zraněná a v bezvědomí! Těžce zaplatila za svou zvědavost."
+{LEAD}{NAME} pohnul spínačem, a napravo od něj {HIM } povstala zeď. Bohužel, je to zeď za ním, takže blokuje cestu...co se dá dělat.
+Zvedla se zelená zeď, ale za skupinou se také něco pohnulo!
+červená zeď zmizela a vypustila příšery!
+Ou, můj Bože. Pojďme odsud. Možná se dají ta monstra nějak zablokovat!
+Všichni propadli dírou v podlaze!
+Dveře napravo se zavřely.
+Dveře napravo se otevřely.
+"Mám z toho špatný pocit. Podívejte na ty stvůry za zdí; všechno tady vypadá jako past!"
+"Souhlas. Ale deska se spínači před námi je zelená. Zelené mají mít vždy positivní efekt."
+Mříž. To vypadá, že se s ní dá pohybovat. 
+Souhlasíš s  Drirřinou pomocíí?
+"Tvá odvaha je pozoruhodná, Drirr. Já, také nevidím jinou možnost. Mnoho štěstí."
+"Tudy ne! Tady musí být jiná cesta. Snažit se projít skrz tyto světelná pole je čisté bláznovství.
+Drirr se z hluboka nadechla a prosprintovala skrz pole! ^ ^ Bolestí vykřikla a sesula se na posledním poli.
+"Ou, BOže!!!! Ubohý přítel! Rychle pojďme jí pomoct!
+Je slyšet tlumený zvuk otevírajících se mříží.
+{LEAD}{NAME} myslí {HIS } viděl něco něco zajímavého pod košem!
+Malá jedem pomazaná šipka řízla (LEAD}{NAME} do prstu.
+{LEAD}{NAME} a další použili provaz k sestupu do hloubek.
+"Podívejte na tu hromadu oblázků. To vypadá jako kořiszt!"

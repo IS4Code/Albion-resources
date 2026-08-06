@@ -1,0 +1,10 @@
+﻿{BLOK000}"Jsem majitelkou tohoto obchodu."{WORDbusiness}
+"Dsarii-ma a vítejte do Domu Užitečných Rozmanitostí!"{BLOK010}"Dsarii-ma, Wanio. Rádi bychom se podívali na vaše zboží."
+"Moje rodina provozuje tento obchod nyní již po čtyři generace."{WORDfamily}
+"Můj manžel je námořník a často je pryč. Naštěstí, velmi dobře vycházím s jeho bratrem; on s námi žije a je můj druhý partner. A v domě pochopitelně žijí děti!"{WORDsecondary partner}
+"Jak už jsem říkala: ^ "Můj manžel je námořník a často je pryč. Naštěstí, velmi dobře vycházím s jeho bratrem; on s námi žije a je můj druhý partner. A v domě pochopitelně žijí děti!"{WORDsecondary partner}
+"Oh, Rabir pro mne pracuje. Milý kamarád; je velmi dobrý ve vyhledáváni kvalitních produktů. Pouze několikrát zaplatil příliš vysokou cenu."
+"Neříkala jsem vám to? Rabir pro mne pracuje. Je velmi milý kamarád."
+"Zde můžete vidět mé zboží. Dobře si prohlédněte všechny odlišné věci! Podívejte se na repelent, zbaví vás problémů s hmyzem."
+"Dělá to {PRIC} zlaťáků. Souhlasíte s tím, {INVE}{NAME}?"
+Wania podává {INVE}{NAME}předmět.

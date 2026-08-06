@@ -1,0 +1,159 @@
+﻿-free-
+Větve a kořeny.
+Pletený košík
+Skleněná nádoba na vodu a ostatní drinky.
+Sud.
+Velkolepá zvířecí kůže.
+Vědro.
+Hliněná mísa.
+Láhev.
+Talíř.
+Hliněný džbán.
+Džbán.
+Nůž.
+Vidlička.
+Lžíce.
+Hliněná nádobka.
+Skály.
+Mísa.
+Nástroj na obdělávání půdy.
+Sekera.
+Pokrývka hrudi.
+Dřevěná truhla.
+Bohatě zdobená truhla ze dřeva.
+Komnata úlevy.
+Pokrývka.
+Dřevěná káď.
+železná konev.
+Skříň.
+V těchto policích našly své místo samé bezvýznamné věci, patrně dekorativního charakteru.
+Psací stůl (sekretář).
+Koště.
+Rošt.
+Můžeš si tu opéci maso.
+Ohniště (krb).
+Tepaná karafa.
+Sběračka.
+Dekorativní meč na zeď.
+Dřevěný stůl.
+Stolička.
+Zalomená stolička.
+Masivní jídelní stůl.
+Pařez.
+Dvě překřížená kopí.
+Velký sud naplněný podivnou tekutinou.
+Pípa.
+Prostěradlo.
+Pohodlná a nádherně zdobená postel.
+Tato postel je obyčejná, ale praktická.
+Kuchyňský stůl.
+Ohniště (nebo krb).
+Ohniště (krb) sálá příjemné teplo.
+Zdobený hrnec.
+Sušené bylinky.
+Lidská lebka.
+Zdobený štít.
+Kovový hrnec.
+Zdobený meč.
+Dveře.
+Konvice.
+Nůž.
+Krátká dýka.
+Dýka.
+Dlouhá dýka.
+Krátký meč.
+Meč.
+Dýka (druh bodce)
+Házecí dýka.
+Sekerka.
+Sekera.
+Malý luk.
+Luk.
+šíp.
+Malý, kožený štít.
+Kožený štít.
+Kulatý štít.
+Velký štít.
+Kožená čapka.
+Reliéfní čapka.
+Kovová mísa (pohár, váza, číše).
+Kožená vesta.
+Kožené brnění (?).
+Reliéfní kožená vesta.
+Pár bot.
+Pár velkých bot.
+Prázdná láhev.
+Zelený léčivý lektvar.
+Tyrkysově zbarvený léčivý lektvar.
+Modrý léčivý lektvar.
+Klíč.
+Lano.
+Prsten.
+Pochodeň.
+Kladivo.
+Schody. Vedou nahoru.
+Schody. Vedou dolu.
+Pult.
+Kobercová rohož.
+Pokojová rostlina.
+Květináč.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Tento sud je rozbitý a pravděpodobně už je k ničemu.
+Tohle je východ.
+Připravují se tady tepelně neupravovaná jídla a lehčí pokrmy.
+Družina právě vstoupila do krčmy "U širé pěšiny". Je tu zatuchlo a teplo. Příznačné hospodské tlachání mnoha hostů činí normální konverzaci takřka nemožnou.
+{CNTR} Na štítu stojí: {INK 006} Oznámení.
+{CNTR} Na štítu stojí: {INK 006} Městský motel: Noční ubytování bez možnosti koupele.
+Tyto dveře mají spíše symbolický zámek a slouží jako 'separovač' mezi krčmou a penzionem, také spíše symbolický. Nicméně, protože jsou obě budovy volně přístupné z ulice, nejsou tyto dveře prakticky vůbec využívány (prostě je to jen taková stěna s klikou).
+Toma už tlačenice spolehlivě pohltila...
+"Myslím, že uvnitř bude bar."
+"Nemám rád, když ke mně mluví cizinci. Nevstoupím do vaší náboženské sekty, ani si od vás nehodlám nic koupit. Prosím, už mě neobtěžujte."
+"Prosím, věnujte mi trochu peněz. Můžete mi darovat nějaký ten halíř?"
+{LEAD}{NAME} dal(a) žebrákovi 0.8 zlatých mincí. ^ ^ "Děkuji vám co nejsrdečněji!"
+{LEAD}{NAME} dal(a) žebrákovi 0.8 zlatých mincí. ^ ^ "Och, to je od vás šlechetné. Jako mé poděkování, přijměte prosím moje malé tajemství. Hostinský si schovává všechny své peníze v kuchyni na polici pod utěrkou! A pamatujte - já vám nic neřekl."
+"To je hanba."
+"Radím vám, abyste se na cestu do jeskyní v horách vybavili pochodněmi a lany. Jednou jsem se tam ztratil a dlouho marně bloudil ve tmě. Věřte mi, není to nic příjemného."
+"Pche, co jste to za domýšlivce? Asi si myslíte, že na mě uděláte dojem, co? Tak to se teda pletete. Na mě udělají dojem pouze vyjímeční lidé, jako například Khunag, když mi ukázal jeden ze svých okázalých kouzelnických triků. Už jste se s ním setkali? Zábavný chlapík. Myslím, že je  v něm uvěznit rebelantský duch druida Kengeta Kamulosa, ale je těžké ho odhadnout. žije s Kariah."
+"Byli jste se už podívat v naší ubytovně pro hosty? Poutníci obého pohlaví ho rádi navštěvují. Možná, že jste se už setkali s Kariah, pracuje tam. Je stále velmi přátelská a hovorná, ale někdy jsou tyto její vlastnosti důvodem problémů. Dokážete si asi představit, že ne každému hostovi se to líbí."
+"Jak jen ten čas běží-Když jsem byla tak mladá, jako jste vy, užívala jsem si života docela jinak než dnes. I staří má ale své výhody, ale to pochopíte až budete staří."
+"Musím se jít najíst. Dovolte mi jen projít. Hmm, vy nejste odsud, že? čím dál víc cizinců se tu toulá po okolí. Ale neberte si to osobně: připadá mi to jen trochu podivné."
+"Jsem Gato Mork, strážce Svatého zákona a nařizuji vám vydat 1000 zlatých na dobročinné účely, nebo vám rozpářu kůži svým nožem, ha ha. Ne, vážně, právě čtu knihu o slavném Gato Morkovi, který bohatým bral a chudým dával. Celý svůj život zasvětil boji za spravedlnost. Byl to báječný muž."
+(zakašlání) "Těžko to tu snáším. Vzduch tu je prostě strašný! Zapáchá, je tu šílený dusno a je tu takový hluk, že musíš řvát, aby tě vůbec někdo slyšel. Kdyby mě můj přítel vždycky nezatáhl na takováhle místa, bylo by to pro mé plíce a uši mnohem lepší. Ale on rád navštěvuje bary, jako je například tento a já ho prostě miluji a tak musím s ním."
+"Budete si přát na noc nějaký pokoj?"
+Náhle stanul před {LEAD}{NAME} starý známý z Jirinaaru. Je jím Frill, dějepravec koncilu, který pomohl rozřešit vražedný komplot díky své znalosti Bradirovi dýky.
+"Dsarii-ma! Jsem tak rád, že jsem vás konečně našel."
+"Dsarii-ma, Frille! I my jsme rádi, že tě opět vidíme! Proč jsi nás hledal?"
+"Chci, abyste se mnou navštívili jedno místo, kde by si s vámi někteří lidé rádi popovídali. Nemůžu vám sdělit víc do doby, než budeme na místě."
+"To zní navýsost tajemně, ctěný Frille. Ale rádi tak učiníme, pomůže-li nám to dostat se blíž k našemu cíly."
+"Ou, to vám mohu zaručit!"
+"Ale nejdřív se musíme pokusit zabránit konfliktu, který hrozí vyvrcholit mezi Iskaii ze Srimalinaru a keltskou vesnicí. Měl by si vědět, že Mellthas a já máme zvláštní zájem na tom, aby lidská a iskaiská rasa žila v přátelském soužití." {INK 001} Sira upřesnila, jak se ona a Mellthas sblížili a vylíčila hrozící střetnutí mezi Iskaii a Kelty.
+"Zcela a plně s vámi souhlasím. Musíte se pokusit zabránit nejhoršímu! Poslední, co potřebujeme, je válka mezi našimi rody. Počkám tu na vás a vy se za tím pokuste o mírové urovnání sporu. Hodně štěstí!"
+"Slíbit mi něco a pak mi nedat nic, to je přesně to, co chci!"
+Je tu ukryto 90 zlatých mincí. Mají se Tom a ostatní členové družiny stát zloději?
+"čas od času si musíte promluvit s Kariah. Díky své profesi má spoustu bláznivých příběhů na vyprávění. Obyčejně se s ní můžete setkat u ní doma."

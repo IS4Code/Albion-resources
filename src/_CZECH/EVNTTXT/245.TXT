@@ -1,0 +1,8 @@
+﻿{BLOK000} "Jsem jedním z nových členů Rady Spravedlnosti."
+"Skeima Din. Jako dík za vaši pomoc mám pro vás malý dárek..." {BLOK010} "To nemůžeme přijmout." {WORDtown hall}{WORDArrek}{WORDMellthar}
+"Skeima Din, rád vás znova vidím." {WORDtown hall}{WORDMellthar}{WORDArrek}
+"Jen si to nechte. Možná se vám to bude hodit."
+"Tak se jmenuji."
+"To je další nový člen koncilu."
+"Pravděpodobně to tady znáte lépe než já."
+"Už jste dostali dárek!"

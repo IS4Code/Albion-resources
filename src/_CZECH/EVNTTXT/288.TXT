@@ -1,0 +1,14 @@
+﻿{BLOK000}"Ještě nemám žádná povolání."
+Dívka je velmi zasmušilá. Slzy jí stékají po tvářích a když mluví, tak měkce a třesoucím se hlasem: "Viděli jste tu zlou ženu, jež zavraždila mou matku? ^ ^ Nejdřív nám ukradla veškeré zlato. Když se maminka snažila bránit, tak ta žena vzala jednoduše nůž a zbodla ho mámě do zad!"{WORDriot}{WORDconsolation}
+"Celá vesnice tu ženu hledá. Všichni říkají, že se Nelly vrátila. Nelly je zlá žena. Každý jí teď hledá, dokonce i hlavní velitel."{WORDNelly}{WORDsearch}
+"Je to zlá žena, která zabila mou maminku, huuuhhhh."{WORDmommy}
+"Vždycky tady byla, když jsem jí potřebovala. A teď už není."{WORDparents}
+"říkají, že můžu žít v domě hlavního velitele. Můj tatínek je mrtvý už dlouho."
+"Má se každého zeptat, jestli nám pomůže najít Nelly. Pravděpodobně toho spáchá ještě víc! Ohl ji před časem viděl. Musí být ještě ve městě."{WORDOhl}
+"Ano pomáhá nám v hledání. ^ ^ Pomůžete taky?"{BLOK010}"Ano, jistě." {BLOK011}"Možná později."{BLOK012}"Ne, v žádném případě."
+"To je výborné. Ale dávejte pozor. Je velmi nebezpečná!"{WORDdanger}
+"Prosím pomožte nám."
+"To je hanba."
+"Ano, má ostrý nůž. A Ohl říká, že má i další zbraně. Musíte být opatrní."
+"Díky! ^ ^ Prosím pomožte nám v pátrání, jinak Nelly napáchá ještě více zla."{WORDevil}{WORDsearch}
+"Nelly musí být uvržena do žaláře, protože páchá strašlivé činy. Nějakým způsobem uprchla."

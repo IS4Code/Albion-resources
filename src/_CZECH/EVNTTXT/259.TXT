@@ -1,0 +1,8 @@
+﻿{BLOK000} "Stavím domy z rostlin. Jsem si jisty, že jste jich tady kolem viděli hondě."
+"Lidé??? Vy si ještě troufáte být zde? Dejte, v těchto dnech na vás nemáme příliš náladu." {WORDopinion}
+"O lidech jsme slyšeli jen samé špatnosti. Překvapuje vás to? Co byste řekli na to, že vám někdo odnese vaší nejhodnotnější jmění. Obklíčili to místo se svými válečníky a, nevím , pravděpodobně se vloupali do naší svatyně a znesvětili jí. A ať¡ je to jak chce, ty bytosti vylézají někde odtamtud. Mýlíte se! A my se budeme bránit. Nevzdáme se, i když to znamená válku! Nedivte se, že zde neseženete žádné zboží. Rozhodně nebudeme podporovat naše nepřátele." {WORDhumans} {WORDshrine}{WORDtaboo}{WORDcreatures}
+"Ve vaší družině je člověk!"
+"Budeme ji bránit, to pro jistotu."
+"Tabu existuje velmi dlouho, co si vzpomínám. Tabu vzniklo z historických důvodů, což bych vám raději ani nevysvětloval."
+"Ano?"
+"Nikdo neví odkud tyto bytosti přicházejí. Zdají se být magického původu, a většina je jich kolem svatyně, ačkoliv jsme je neviděli odtamtud vycházet."

@@ -1,0 +1,9 @@
+﻿{BLOK000}"Oh, nezmiňoval jsem se, že jsem šéfkuchař Klanu?"{WORDclan}
+"Ah, cizí hosté. Dsarii-ma! Moje jméno je Gridri, v našem domě jsem hlavou kuchyně."{WORDkitchen}
+"Dokonce před tím, než jsem vyrostl jsem rád vařil - neobvyklé zaměstnání pro dítě. Nyní mohu říci, že jsem jeden z nejlepších kuchařů v Jiriinaru. {WORDJirinaar}"{BLOK010}"činíš mne velmi zvědavým, Gridri. Bylo by od věci, požádat tě o malou ukázku tvého umění?" {BLOK011}"Víte, kuchyně našeho lidu je pro lidi trochu příliš kořeněná."
+"Omlouvám se, {LEAD}{NAME}, ale překročil jsem zásoby."
+"S největším potěšením. Zde je specialita ze sušeného masa, zabaleného v zelenině. Zůstává po dlouhý čas dobré a je vhodné pro cestovatele." ^ ^ {INK 001}Gridri dává {LEAD}{NAME} šest porcí.
+"Prosím! Rozmanitost koření je nejdůležitější součástí dobrého jídla! Jsem si jist, že si v mžiku zvyknete na kořeněnější variace."
+"Tedy, jak jsem řekl, jsem pyšný na to, že jsem považován za jednoho z nejlepších kuchařů v Jirinaaru."{BLOK010}činíš mě velmi zvědavým, Gridri. Bylo by od věci, požádat tě o malou ukázku tvého umění?" {BLOK011}"Víte, kuchyně našeho lidu je pro lidi trochu příliš kořeněná."
+"Dsarii-ma! Rád vás znovu vidím! Co pro  vás mohu udělat?"{WORDkitchen}
+"Oh, ona je schopná žákyně."

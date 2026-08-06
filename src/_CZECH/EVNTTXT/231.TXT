@@ -1,0 +1,9 @@
+﻿{BLOK000} "Jsem členem koncilu Spravedlivých a i když to je těžké, musím dohlédnout na to, že bude brán zřetel na zájmy lidí."
+"Chci si s vámi promluvit ve velmi naléhavé věci. Máte čas?" {BLOK010} "Určitě, o co jde?" {BLOK011} "Ne, bohužel máme mnoho na práci." {WORDtown hall}{WORDPerron}{WORDBeloveno}
+"To je velká škoda, ale respektuji vaše rozhodnutí."
+"Gard a Riko se neukázali na posledním zasedání koncilu. Chovají se velmi divně. Myslím, že něco chystájí. Vycházíte s většinou obyvatel Belovena a dalšími na vesnicích zadobře a tak bych byl rád, kdybyste mě o členech koncilu řekli něco, co já nevím. Kdybyste tedy přišli na to, o co tu jde, prosím, řekněte mi to. Události posledních dní nejsou normální. Doufám, že to nepovede ke konfliktu. Můžete pro mě udělat tuto laskavost? {BLOK012} "Myslíme, že ano."{BLOK013} "Uvidíme, co bude v našich silách." {BLOK014} "To je vysoce nepravděpodobné."
+"To mě těší. Nezneužiji vaší důvěry, ale je pro mě důležité vědět, jak se věci mají."
+"Vidím, že i vy jste proti mně konspirativně zaměření..."
+"Koncil se schází pravidelně v koncilovém domě a někdy, když jde o velkou událost, pozveme celé město do naší zasedací místnosti. Je tam mnoho malých místností, které používáme k diskusím, a které mohou být pronajaty i k jiným účelům. V jižním křídle je velká zasedací místnost a střední zasedací místnost. V severním křídle můžete nalézt menší místnosti a uprostřed je kuchyně a stravovací kumbál... eh, místnost. Buďte tu jako doma."
+"To jsem já."
+"Doufám, že se vám naše město líbí. Můžete navštívit přístav na jihu, nebo si udělat výlet do Kounosu a Srimalinaru."

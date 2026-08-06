@@ -1,0 +1,10 @@
+﻿{BLOK000}"Jsem zodpovědná za zásobení posádky jídlem a dalšími věcmi." {WORDfood}{WORDother}
+"Nazdar. Co to pro tebe bude? Malá svačinka? Mohu ti nabídnout pár tabulek dobré čokolády a není ani příliš sladká." {BLOK010}"Ano, prosím. Vždy se mi nějaké hodí."
+"Nazdar, Driscolle. Potřebuješ nějaké další zásoby?"{BLOK010}"Ano, prosím, mohl bych nějaké další potřebovat."
+"Nazdar. Je mi líto, nemám žádnou další čokoládu. Musím mít samozřejmě také nějakou pro ostatní. Ztloustl by jsi, Driscolle."
+"Tady nějaké máš." ^ ^ {INK 001} Podává Tomovi několik porcí.
+"Zásoby společnosti nejsou určeny labužníkům, ale s trochou intuice mohu naprogramovat kuchyň, aby z nich udělala něco jedlého."
+"Pokud chceš vidět nová videa, nebo tak, přijď se na mě podívat do mé kanceláře." {WORDvideos}
+"Výběr je široký. Až budeš mít příležitost, podívej se do mojí databanky."
+{BLOK000}"Co můžeš říci o..." {BLOK001}"Podívej se na tohle..." {BLOK004}"Uvidíme se brzy!" {BLOK005}"Co děláš?"
+"Uvidíme se později."

@@ -1,0 +1,10 @@
+﻿{BLOK000}"Jsem bezpečnostní důstojník s hodností plukovníka."
+"Pokračujte, tady není nic k vidění." {BLOK010}"Co se stalo? S ohledem na vaše zdraví byste se zde neměl zdržovat."
+"Musel jste slyšet o inspektorově nehodě s over-c COM jednotkou. Ta je až do odvolání uzavřena." {WORDCOM room}
+"Místnost zůstává pro posádku uzavřena, dokud zde bude hrozit nebezpečí od vadné jednotky. Konec otázek."
+"Buď rozumný chlapec, Driscolle. Pro tebe je to stále plukovník!"
+{HIGH} "Jsi blázen?" ^ {NORS} "Okamžitě tu zbraň odevzdej! Tohle bude mít vážný dopad na tvé osobní záznamy, Driscolle, to ti slibuji." ^ ^ {INK 001}Bezpečnostní bere od Toma zbraň.
+"Co ještě chcete? Nejsme placeni od mluvení." {WORDCOM room}
+"Odejděte odsud, Driscolle. Nechci se bavit s výtržníky, jako jste vy."
+{BLOK000}"Co můžeš říci o..."{BLOK001}"Podívej se na tohle..."{BLOK004}"Ahoj."{BLOK005}"Co děláš?"
+"Ahoj."

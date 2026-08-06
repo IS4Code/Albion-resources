@@ -1,0 +1,10 @@
+﻿{BLOK000}"Kontrolovala jsem dnes už čtyřikrát přistávací systém." {WORDlanding}
+"Ahoj miláčku. Tak, projdeme se, než člun odstartuje? Právě jsem přezkoušela systémy téhle mamutí plechovky chystající se na přistání." {WORDflight}{WORDlanding}{WORDdream}
+"Bongiorno, drahoušku. Co se stalo?
+"Pokud všechno pracuje a my předpokládáme že bude, tak se za čtyřicet pět minut pěkně zhoupneme. Potom by přistání mělo být za námi a části lodi se přetočí vodorovně. Pak budou jednotlivé segmenty orientované podle gravitace. Nezapomeňte si uklidit předměty ve vašich kabinách."
+"Nedělej si starosti, broučku. Systémy i jejich zálohy jsou ve skvělé formě. Vše pracuje bezchybně."
+"Závidím tobě a Hofstedtovi. Budete první, kdo uvidí Nugget. Držím ti palce, Tome. Dávej na sebe pozor, O.K.?" {WORDHofstedt}{WORDNugget}
+"Tedy, věřím, že si o tebe nemusím dělat starosti, pokud jsi alespoň z poloviny tak dobrý pilot, jak jsi mi říkal. Skutečně, drahý, nevytahuj se, O.K.? Mám tě opravdu ráda."
+"Můžeš ještě dostat ten šílený sen ze své hlavy? Je to tak zvláštní, jak se to vrací. Tedy, protože to není skutečná noční můra, doufám, že s tím budeš moci žít, dokud to nepřestane."
+{BLOK000}"Co můžeš říci o..." {BLOK001}"Podívej se na tohle..." {BLOK004}"Uvidíme se brzy!" {BLOK005}"Co děláš?"
+"Ahoj, chlapáku."

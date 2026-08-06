@@ -1,0 +1,17 @@
+﻿!
+"Co chceš, Tome?" {BLOK010}"Prosím, řekni mi něco o své minulosti, Khunagu."
+"Díky mým magickým schopnostem by bylo těžké zastírat, že jsem byl jednou členem. Má životní cesta se oddělila od cesty mých dřívějších bratří a sester a to je asi tak všechno, co bys o tom měl vědět. ^ ^ Raději si svou minulost nechávám pro sebe."{WORDKenget Kamulos}{WORDmagic}
+"Nemá smysl pokoušet se zjistit více o mé minulosti než co jsem sám ochoten odhalit, Tome. ^ ^ Kdysi jsem byl členem Kenget Kamulos a proto znám mnohé z jejich magického učení. Má životní cesta se oddělila od cesty mých dřívějších bratří a sester a to je asi tak všechno, co bys o tom měl vědět. ^ ^ Jak jsem již řekl, raději si svou minulost nechávám pro sebe." {WORDKenget Kamulos}{WORDmagic}
+"Kenget Kamulos znamená Bojovník boha Kamulose. Je to uzavřený řád, který se oddělil od Arjanských Druidů před mnoha stovkami let. Jsou to opravdoví bojovníci a žijí podle válečnických zvyklostí udatnosti a čestnosti. Po mnoho let byli mou jedinou rodinou, ale pak... pak se můj život stočil poněkud jiným směrem."
+"Narodil jsem se abych bojoval, ale jsem uvězněn ve slabém těle. Moje magie slouží výhradně k tomu účelu, abych získal čest v boji. Je to povznášející pocit cítit proudy magické energie protékat mou myslí. ^ ^ Bohužel již nemohu pracovat s Oqulskými mistry na vylepšování mých schopností. Své další vzdělání teď čerpám zásadně z magických svitků. " {WORDOqulo}{WORDspell scrolls}
+"Svitky jsou speciální magické dokumenty. Když jsou použity, rozpadnou se v prach. ^ ^ Dovolují i neobdarovanému, aby evokoval kouzlo. ^ ^ A za určitých podmínek, když je někdo dobře obeznámen s typem magie, který svitek popisuje, může se danému kouzlu naučit i do budoucna."
+"Co bys rád, Tome?" {BLOK010}" Stále přemýšlím o tom, že jsi riskoval životy nás všech, Khunagu."
+"O tom jsme již mluvili. ^ ^ Byl jsi nástrojem mé pomsty, tak to opravdu je. Ale já stejně věřím, že předpoklad, že by nám Cairnain dal přístup ke svým vědomostem dobrovolně, je nesprávný. ^ ^ Stál jsem po tvém boku v mnoha bitvách a naplnění mé odplaty pokládám za dostatečné zadostiučinění za to, co jsi mi byl dlužen. A už se o této věci nechci dále bavit."
+"Jak jsem již řekl, myslím si, že by další diskuse na toto téma byla zbytečná. Pokud chceš, půjdu svou cestou."
+"Jestli chceš tak já půjdu. Už se nikdy neuvidíme. Jseš si jistý, že to beze mne zvládnete?"
+"Udělám, jak říkáš. Přeji ti všechno nejlepší na tvé pouti. Sbohem."
+"To jsem si myslel."
+{BLOK000}"Co mi můžeš říci o..."{BLOK004}"Děkuji za konverzaci."
+{BLOK000}"Co mi můžeš říci o..."{BLOK003}"Byl bych rád kdybys nás teď opustil."{BLOK004} "Děkuji ti za rozhovor."
+"Mezi Kenget Kamulos jsou dva druhy bojovníků. Kledo Kamulos bojují svým tělem nebo zbraněmi. Oqulo Kamulos jsou bojovníci ducha."
+"Co bys rád, Tome?" {BLOK010}"Asi máš pravdu, Khunagu, musíme to vzít do svých rukou. Veď nás do tajného průchodu."

@@ -1,0 +1,3 @@
+﻿{BLOK000}"Obchoduji s nástroji a různými užitečnými předměty."{WORDuseful objects}
+"Togi Din, ctění zákazníci. Viděli byste rádi mé zboží?"{BLOK010}"Ano, prosím. Co nám můžete nabídnout?"
+"Svatá dobroto, rád bych vám ukázal své zboží..."
