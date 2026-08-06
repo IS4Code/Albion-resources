@@ -1,0 +1,8 @@
+﻿{BLOK000}"Ich bin Maschinenführer. Ich fahre gerade Tests über die Einsatzf"higkeit der Abbauanlagen."{WRNR0212}
+"Hallo, Driscoll. Wie steht's? Bald haben wir Nugget erreicht, dann hat für mich die faule Zeit ein Ende."{WRNR0186}
+"Hallo, Driscoll. wie steht's?"
+"Nun, zuerst werden die mitgebrachten Systeme genügend Erze abbauen, um eine Fertigung für weitere Roboter|systeme zu errichten. Dann entsteht ein selbstlaufender Prozeß, bei dem immer mehr überschüssiges Erz abf"llt, daß wir mit den billigen Containern nach Hause ballern."{WRNR0213}{WRNR0214}
+"Die neuen Modelle sind riesig, mit integrierten Selbstreperatur|kreisen. Sind unverwüstlich, die Dinger."
+"Es soll ja alle m"glichen Sorten auf Nugget geben".
+
+

@@ -1,0 +1,8 @@
+﻿{BLOK000}"I am a physicist and xenobiologist working for the government" {WRNR0221}
+"Ah, hello, Driscoll! All set for our flight together?" {WRNR0205}
+"Hello there, Driscoll. Well, what's on your mind?"{WRNR0205}
+"Well, I work for the government because it's one of the only ways for me to do some practical work out here without being in the pay of a big company like DDT."{WRNR0183}
+"Yes, I'm looking forward to admiring your flying skills at first hand. It's always a great thrill for me to see a new world with my own eyes. Even if it's a rather barren world like this one, which your company has so poetically named "Nugget". Naturally, it would have been more interesting to visit a beautiful planet like Joshi used to be.^^But then this ship would have had a wasted journey, which, as an old Envi, I wouldn't have been too sorry about." {WRNR0186}{WRNR0188}{WRNR0194}{WRNR0192}
+"As I say, I'm looking forward to admiring your flying skills at first hand. It's always a great thrill for me to see a new world with my own eyes. Even if it's a rather barren world like this one, which your company has so poetically named "Nugget". Naturally, it would have been more interesting to visit a beautiful planet like Joshi used to be.^But then this ship would have had a wasted journey, which, as an old Envi, I wouldn't have been too sorry about.." {WRNR0186}{WRNR0188}{WRNR0194}{WRNR0192}
+{BLOK000}What can you tell me about... {BLOK001}Take a look at this... {BLOK004}See you later. {BLOK005}What's your job?
+

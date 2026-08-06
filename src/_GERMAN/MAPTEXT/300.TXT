@@ -1,2 +1,184 @@
 ﻿ 
 Ein Sicherungskasten.
+Ein Sessel.
+Eine Liege.
+Das Steuerpult für den Atomreaktor.
+Ein Servicepanel. In der Mitte befindet sich eine Tastatur zur Eingabe eines Codes.
+Eine Steuerungskonsole.
+Eine Flugsteuerungskonsole.
+Ein Kontrollpult.
+Eine chemische Toilette.
+Ein Schrank.
+Eine Spüle.
+Handtücher.
+Zahnputzzeug.
+Eine Anzeige für die Korridor-Überwachung.
+Kontroll-Anzeigen.
+Ein Teil des Reaktors.
+F"sser mit Müll, Wasser, Gift- und Rohstoffen.
+Eine ausgeschaltete Konsole.
+Eine Lampe.
+Ein Teller.
+Ein Glas.
+Ein Becher.
+Ein Beh"lter.
+Eine Flasche.
+Eine Kanne.
+Eine Dose.
+Ein Gef"ß.
+Ein Pfeffer- und ein Salzstreuer.
+Sojasoße.
+Ein Topf.
+Eine kleine Dose.
+Eine Schaufel.
+Ein Spaten.
+Ein Schraubenschlüssel.
+Ein Schraubenzieher.
+Eine Handkonsole.
+
+Eine Zange.
+Besteck und ein Becher.
+Geschirr.
+Eine Automatik-Türe.
+Ein Shuttle.
+Container.
+Eine Dusche.
+Ein Fahrzeug.
+
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+"Schon wieder dieser Traum. Muß das zehnte Mal sein; was soll das nur?^^ Kann mich auch nicht erinnern, je in Farbe getr"umt zu haben...^^ Na ja, werde mir noch ein wenig die Füße vertreten. Hoffentlich wird bald durchgegeben, wann ich das Shuttle zu unserem Vorausflug starten soll."
+"Hallo, Großer! Na, ausgeschlafen?"
+"Christine! Sch"n, Dich zu sehen, Schatz!^ Ich fühle mich wie ger"dert. Du hattest mal wieder recht, gestern abend. H"tte doch bei Dir schlafen sollen. Ich hatte wieder diesen verrückten Traum. Er wird jedesmal... deutlicher."
+"Ist schon verrückt. Du bist doch sonst kein Sensibelchen. Hat bestimmt was mit dem over-c - Sprung zu tun. Bleib heute Nacht bei mir, und ich werde Dir die Alptr"ume schon austreiben!"
+"Der Traum begann schon vorher, und es ist eigentlich auch kein Alptraum. Er ist nur so intensiv!^^ Ach egal, was soll's. Ich werde mal 'ne Runde drehen. Vielleicht treffe ich K"ptn Brandt und bekomme heraus, wann ich mit Snoopy starten soll."
+"Snoopy? Hast Du denn nicht...? Junge, Du mußt einen guten Schlaf haben. Die Explosion war durch das ganze Segment zu spüren!"
+"Explosion? Mach's nicht so spannend! Von was redest Du, Chris? Was ist mit Snoopy?"
+"Der Inspektor hat w"hrend des Sprunges an der over-c - Comanlage gesessen. Das Ding hat sich überladen und ist f"rmlich explodiert. Snoopy's Bestandteile waren im ganzen Raum zu finden, heißt es."
+"Was für'n Hammer! Junge, das muß ich erstmal verdauen! Dann ist Hofstedt nun der einzige Regierungs|beauftragte an Bord."
+"Ja, ich habe geh"rt, daß Du den Vorausflug nun mit ihm anstatt Snoopy unternehmen sollst."
+"Der Tag f"ngt ja hervorragend an. Na ja, Hofstedt ist ganz in Ordnung, und an meinem Flugplan "ndert sich durch den Unfall sicher nichts. Ich werde mal eine Runde mit Joe über die Sache quatschen."
+"Dein Kumpel ist heute im "Nordosten" des Segmentes eingeteilt, in der N"he des Zugangs zum Comraum.^^ O.K. Ich werde mich auch mal auf'n Weg machen. Hab' noch viel Arbeit. Bis dann, Süßer."
+"Tschüß, Christine."
+Diese Tür ist verschlossen.
+"Ähem, Driscoll: Sei mir nicht b"se, aber ich h"tte jetzt gern etwas Privatsph"re. Bitte bleib draußen."
+"Hier gibt es nichts zu sehen. Gehen Sie bitte weiter."
+{INK 001}Dies ist Rainer Hofstedt, Physiker und Xenobiologe und Aufsichts|beauf|tragter der Regierung. Aufgeregt beginnt er ein Gespr"ch.
+"Dricoll! Gut, daß ich Sie treffe! Haben sie schon vom Tod Inspektor Beegles geh"rt?"
+"Hallo, Hofstedt. Ja, meine Lebensgef"hrtin hat mir gerade von der Sache berichtet. Muß ja ein scheußlicher Anblick gewesen sein!"
+"Dieser sture britische Dicksch"del! Er war zwar kein Techniker, aber das der Betrieb der Comanlage w"hrend des over-c - Sprunges nicht problemlos ist, h"tte er eigentlich wissen müssen. Diese ganze Überlichttechnik ist noch lange nicht v"llig unter Kontrolle. Der arme Teufel!"
+"Das macht sie nun zum einzigen Regierungs|repr"sentanten an Bord, nicht wahr?"
+"Der einzige Schnüffler, ja. Erinnern Sie mich bloß nicht daran!^^ Wie dem auch sei: Ich hatte gerade ein Gespr"ch mit Kapit"n Brandt. Er will den Vorausflug trotzdem durchführen, mit meiner Wenigkeit anstelle von Beegle.^^ Sieht aus, als h"tten Sie einen neuen Passagier, Driscoll."
+"Ich m"chte nicht piet"tslos erscheinen, aber dem Shuttle ist es gleich, welche zwei Personen es bef"rdert. Von mir aus kann der Flug planm"ßig stattfinden."
+"Ich muß zugeben, daß ich mich sehr auf den Flug freue. Der Abflug sollte in den n"chsten Tagen stattfinden. Wir müssen wohl auf die Durchsage des Kapit"ns warten."
+"So ist es.^ Wir sehen uns sicher noch vorher. Bis dann, Hofstedt!"
+"Ja, bis dahin, Driscoll."
+"Grüß' Sie, Driscoll. Viel Glück bei ihrem Flug."
+{INK 001}Der Sicherheitsmann wirft Tom nur einen mißmutigen Blick zu. Er antwortet nicht.
+"Hallo, Driscoll! Habe geh"rt, Du hast 'nen neuen Passagier, jetzt, wo sie den Inspektor von der Wand gekratzt haben.^Ich drück Dir jedenfalls die Daumen für den Flug."
+"Hi, Tom. Sorry, bin 'n bißchen in Eile. Voller Dienstplan! Bis sp"ter."
+"Hallo, Tom. M"chte zu gern wissen, wie es jetzt im Comraum aussieht, wo es Snoopy erwischt hat. Zu bl"d, das die Secus davor Wache schieben."
+{INK 001}Tom versucht, die letzten Nachrichten von der Konsole abzurufen. Vor den Meldungen erscheint folgendes:{TECF}^^ {CNTR}{INK 002}***Videodaten nicht verfügbar***^ ***Comverbindung nicht aktiv***^^ Textmodus aktiviert.
+"Hallo, Driscoll. Na, noch einen Blick auf Ihr Shuttle werfen? Ist alles in bester Ordnung mit dem Ding."
+{TECF}NEWSFLASH (Textmodus):^^{LEFT} 18- Europ"ische Union: Der 14. Versuch der Einführung einer einheitlichen offiziellen W"hrung ist am Widerstand Deutschlands gescheitert.
+{TECF}NEWSFLASH (Textmodus):^^{LEFT} 19- McCartney-Erben rufen Inter|nationalen Gerichts|hof an. Bedroht der Enteignungs|versuch Brasiliens an den McCartney-Erben die letzten zusammen|h"ngenden Regen|wald|gebiete? Besitz der Erben|gemein|schaft soll durch Eingreifen der Schutztruppen gesichert werden, fordern einige Staaten.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{TECF}NEWSFLASH (Textmodus):^^{LEFT} 19- McCartney-Erben rufen Inter|nationalen Gerichts|hof an. Bedroht der Enteignungs|versuch Brasiliens an den McCartney-Erben die letzten zusammen|h"ngenden Regen|wald|gebiete? Besitz der Erben|gemein|schaft soll durch Eingreifen der Schutztruppen gesichert werden, fordern einige Staaten.
+{TECF}NEWSFLASH (Textmodus):^^{LEFT} 18- Europ"ische Union: Der 14. Versuch der Einführung einer einheitlichen offiziellen W"hrung ist am Widerstand Deutschlands gescheitert.
+Eine Konsole zum Abruf von Nachrichten.
+Ein riesiges Schott.
+"Guten Abend, Tom! Komm rein und laß uns einen gemütlichen Abend verbringen."
+In dieser Nacht bleibt Tom von seinem Traum unbehelligt...^^ Einige Zeit sp"ter, Tom verl"ßt Christines Kabine.
+Dies ist die Tür zu Christine's Kabine. Sie ist im Moment nicht anwesend.
+Dies ist die Tür zu Christine's Kabine.^ Chris scheint anwesend zu sein.
+{CNTR}An die Tür klopfen?
+"Hallo, Tom! Sch"n, Dich zu sehen. Komm rein, wir machen es uns gemütlich."
+Eine Tastatur zur Eingabe von Zahlencodes.
+{TECF}{CNTR}FALSCHER CODE. ÖFFNUNG VERWEIGERT.
+{TECF}{CNTR}ÖFFNUNGSCODE EINGEBEN:
+Tom steigt in die Service-Ebene hinab.
+{TECF}{CNTR}CODE KORREKT. ÖFFNE SERVICEPANEL.
+Die Leiter führt hinab in die Service-Ebene.
+Dies ist tats"chlich der Comraum! Tom sieht sich vorsichtig um, aber niemand ist hier. In der Luft h"ngt der Geruch nach verschmorter Elektronik.
+Das sind also die Überreste der Comanlage. Die Explosion muß in der Tat verheerend gewesen sein.
+Tom will sich gerade abwenden, da f"llt sein Blick auf einen Gegenstand, der unter der zerst"rten Konsole liegt. Es ist eine Waffe!
+"Wie um alles in der Welt kommt die Kanone hier her? Außer für Secus sind Waffen an Bord strengstens verboten!^^ Ein interessanter Fund jedenfalls..."
+Die zerst"rte Comanlage. Es ist nichts weiter Interessantes dort zu finden.
+Die zerst"rte Comanlage. Darunter liegt etwas!
+Scherben der zerst"rten Comanlage.
+Auf den Gesichtern der Sicherheitsoffiziere ist erst Verblüffung, dann Zorn zu sehen, als sie jemanden aus dem von ihnen bewachten Bereich spazieren sehen!
+"Bleiben Sie stehen, Driscoll! Wie kommen Sie in den abgesperrten Bereich?^^ Rühren Sie sich nicht, wir werden eine Leibesvisitation durchführen!"
+Colonel Priver tastet Tom ab...
+"In Ordnung. Sie k"nnen gehen. Aber das wird Folgen für Ihre Personalakte haben, das kann ich ihnen versprechen!"
+"Eine Waffe! Driscoll, sind Sie wahnsinnig? Das wird Folgen für Ihre Personalakte haben, darauf k"nnen Sie sich verlassen!^^ Verziehen Sie sich, Sie werden von uns h"ren!"^^{INK 001} Colonel Striver hat die Waffe konfisziert!
+"Schon wieder Sie! Sagen Sie, suchen Sie Ärger, oder was?"
+"Bleiben Sie ruhig!"^^{INK 001} Colonel Priver durchsucht Tom gründlich.
+Dies ist Toms Aufbewahrungsort für private Gegenst"nde.
+Dies war der Raum Inspektor Beegles.
+In diesem Schrank sind eine Menge Patronen!
+Medipacs. Eine abgestimmte Mischung hochwirksamer Medikamente.
+Spezialwerkzeuge dieser Art lassen sich hervor|ragend zum Knacken von mecha|nischen Schl"ssern zweck|entfremden!
+Hier ist Nahrung in Form von Konzentratriegeln zu finden.
+Eine defekte Leuchtstoffr"hre.
+Dies ist der Shuttlehangar der TORONTO. Von hier aus werden alle Flüge der kleinen Raumfahrzeuge gestartet.
+{INK 001}Eine Lautsprecherdurchsage hallt durch die G"nge des Schiffes:^^ {INK 002}"Durchsage für Pilot Driscoll: Shuttle zum Start vorbereitet. Startaufruf folgt in Kürze."
+{INK 001}Eine Lautsprecherdurchsage:^^{INK 002} "Durchsage für Pilot Driscoll: Bitte melden Sie sich zum Start des Erkundungsfluges."
+{INK 001}Eine Lautsprecherdurchsage:^^{INK 002} Letzter Aufruf an Pilot Driscoll. Finden Sie sich sofort zum Start im Shuttlehangar ein!
+"Also gut. Ich muß mich wohl auf den Weg machen."
+Tom l"uft mit eiligen Schritten zum Shuttlehangar. Er wird dort bereits erwartet.
+{FAHI}{CNTR}Nun folgt eine dicke Scriptsequenz: Tom & Rainer fliegen los und stürzen ab!
+Im Shuttlehangar wird Tom bereits erwartet. Schnell l"uft er zu dem vorbereiteten Shuttle.
+Dieses Schott führt zu den Kabinen des Führungspersonals und des Kapit"ns. Der Zutritt ist für andere Crewmitglieder nicht m"glich.
+Hier geht es in das Segment der TORONTO, das die Krankenstation und die Unterkünfte des Sicherheits|personals enth"lt. Regul"re Besatzungs|mitglieder haben hier keinen Zutritt.
+"Aha, endlich ist es soweit. Ich sollte nicht vergessen, alles mitzunehmen, was ich auf diesem Flug dabei haben m"chte, wenn es losgeht."
+Yep.
+
+Das Schott zur Kommandobrücke. Nur wenige Besatzungs|mitglieder haben hier Zutritt, Tom geh"rt nicht zu ihnen.
+Dies ist die Messe des Schiffes, Treffpunkt und Verpfleg|ungsraum für die Besatzung.
+Vor dem Eingang zum Comraum, wo die Kommuni|kations|anlagen des Schiffes unter|gebracht sind, stehen zwei Sicherheits|beauftrage Wache.
+Hinter der unteren Tür ist der Raum, in dem Joe, ein alter Freund Tom's, gerade arbeitet.
+Zum Start des Shuttlefluges melden? {BLOK000}Ja, starten {BLOK001}Nein, noch warten
+Tom geht zu einer Konsole und gibt seine Startbereitschaft durch.^^ Kurz darauf im Shuttlehangar...
+Tom beschließt, den Aufruf vorerst zu ignorieren.
+{CNTR}{INK 002}Bitte bedenken Sie: dies ist eine Preview-Version. Wir bitten, Bugs, fehlende Teile und mangelnde Feinabstimmung zu entschuldigen.^^^^ {JUST}{INK 001} KURZINFO FÜR PREVIEWVERSION:^^ Sie sind TOM DRISCOLL, ein Shuttlepilot an Bord der TORONTO. Die TORONTO ist ein Fabrik|raumschiff eines irdischen Konzerns, dessen Aufgabe der Abbau von Rohstoffen in großem Stil ist. Das Ziel der TORONTO ist ein Planet, der NUGGET genannt wurde, eine Wüstenwelt mit großen Rohstoffvorkommen.^^ Sie sollen in Kürze mit einem Regierungs|kontolleur, Mr. BEEGLE, genannt SNOOPY, einen Vorausflug in einem kleinen Shuttle unternehmen, um den Zielplaneten vorab n"her zu untersuchen.^^{LEFT} Ihnen n"her bekannte Personen:^ CHRISTINE - Technikerin und ihre derzeitige Partnerin.^ RAINER HOFSTEDT - Wissenschaftler und zweiter Regierungs|beauftragter an Bord.^ JOE - Techniker und ein alter Freund von ihnen.^^{JUST} Dieses Szenario dient zur Einführung in die Handlung, es gibt noch keine K"mpfe. Sprechen Sie mit Personen, um n"here Informationen zu Ihrer Situation zu erhalten. Es gibt auch ein Puzzle zu l"sen; bei Erfolg kann man einen Gegenstand behalten, der einem das sp"tere Vorankommen erleichtert.^^ Die Handlung setzt direkt nach dem Intro (siehe CD) ein. TOM erwacht aus seinem seltsamen Traum und beginnt seinen Tag.^^^ {CNTR}LOS GEHTS!
+Als Tom auf den Gang hinaustritt, sieht er von rechts Christine, seine Lebens|gef"hrtin, auf sich zukommen.^^Freudig geht er ihr entgegen, um mit ihr zu sprechen.
+{FAHI}- S C R I P T S E Q U E N Z - {NORS}^^ Hier wird eine Scriptsequenz beginnen, die den Flug nach Albion, den Absturz, die ersten Schritte auf dem Planeten, die Explosion des Shuttles und das Erwachen bei den Iskai darstellt.
+"Driscoll, es ist alles bereit für ihren Flug."
+"Alle erforderlichen Daten zur Kursbestimmung stehen ihnen in den Systemen des Shuttles zur Verfügung, Mister Driscoll.^^W"hrend des Fluges werde ich direkt mit Ihnen kommunizieren, um Ihnen die Auswertung der übertragenen Daten sofort miteilen zu k"nnen."
+"Sie kennen Ihren Auftrag: Durchführung von Meßreihen im Orbit und vor Ort zur Verifizierung der Sondendaten. Bringen Sie Mister Hofstedt gut hinunter, Driscoll.^ Viel Glück."
+"Danke, Sir. Ich werde mich bemühen.^^Sind Sie bereit, Hofstedt?"
+"Aber sicher! Geben Sie Gas, Driscoll!"
+Neben dem Shuttle trifft Tom auf Kapit"n Brandt, den Androidenk"rper von Ned, dem AI-System des Schiffes und natürlich auf Rainer Hofstedt, seinen Passagier.
+Tom bringt das Shuttle sicher aus dem riesigen Mutterschiff.^^Das kleine Raumfahrzeug hat einen kr"ftigen Antrieb, und so sind die beiden schon nach ein paar Stunden in der N"he des Zielplaneten...
+"Am Ende dieses Ganges dort oben arbeitet Joe, das alte Haus, im Augenblick.^^Ich sollte ihn bald mal besuchen."
+
+

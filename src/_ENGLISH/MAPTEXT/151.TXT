@@ -1,0 +1,48 @@
+﻿!
+The floor panel in front of the door lights up when trodden on, and at the same time the door opens.
+Floor panel lights up.
+Here there is a floor panel with a transparent illuminated surface.
+When this floor panel lights up, the door in the "west" of the room opens.
+A switch.
+
+The door tries to close, but remains open. A sensor must have registered that someone else is in the doorway.
+There is a wall cupboard on the "north" wall.
+The wall cupboard is empty, ready to put objects in.
+A wall cupboard.
+The noise came from the right, quite a distance away.
+As soon as the door with the red lights opens, the one at the back with the green markings shuts. The way back is blocked!
+
+A door. You can't see how to open it.
+A fluorescent tube. It sheds a cold white light.
+A steel girder.
+The translucent walls indicate a service entrance. The ladder in the centre leads upwards.
+
+A door with red lights at the side. There is no opening mechanism to be seen.
+A door with green lights at the side. There is no opening mechanism to be seen.
+A door with blue lights at the side.There is no opening mechanism to be seen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A wall cupboard.
+
+Nothing's happening.

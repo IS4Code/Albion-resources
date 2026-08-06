@@ -1,0 +1,10 @@
+﻿{BLOK000}"Ich bin für die Versorgung der Besatzung mit Nahrung und Anderem verantwortlich."{WRNR0061}{WRNR0216}
+"Hallo. Womit kann ich dienen? 'Ne kleine Zwischenmahlzeit? Ich habe 'n paar gute Schokoriegel zu bieten. Ist nicht so süß, das Zeug." {BLOK010}"Ja, gerne. Immer her damit."
+"Hallo, Driscoll. Noch'n bißchen Nachschub gef"llig? Die Firma wird's verkraften." {BLOK010}"Ja, gerne. K"nnte noch was davon vertragen."
+"Hallo. Sorry, keine Schokoriegel mehr. Ich muß langsam darauf achten, daß die anderen auch etwas abbekommen. Du wirst noch fett werden, Driscoll."
+"Hier hast Du 'ne Packung."^^ {INK 001}Sie überreicht Tom einige Rationen.
+"Es nicht gerade Feinschmeckerkost, was uns die Firma eingelagert hat. Aber mit ein bißchen Intuition beim Programmieren der Küche mache ich daraus ein genießbares Essen."
+"Wenn Du neue Videos oder was zu lesen brauchst, wende Dich an mich, wenn ich in meinem Büro bin."{WRNR0217}
+"Die Auswahl ist groß, schau bei Gelegenheit meine Datenbank durch."
+{BLOK000}Was kannst Du sagen über... {BLOK001}Schau Dir mal dies hier an... {BLOK004}Bis demn"chst! {BLOK005}Was ist Dein augenblicklicher Job?
+

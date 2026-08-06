@@ -1,0 +1,8 @@
+﻿
+"Hello, Driscoll."
+"Whenever something gets stuck someplace, they all come to me and expect me to perform miracles. Still, I shouldn't complain, this flight's gone without a hitch so far. The TORONTO's worth every cent she cost."{WRNR0182}
+"Well, like I said: whenever something gets stuck someplace, they all come to me and expect me to perform miracles. Still, I shouldn't complain, this flight's gone without a hitch so far. The TORONTO's worth every cent she cost."{WRNR0182}
+"Out of the eight segments on the TORONTO, only two have life support systems installed: this one here, and the segment where the Secus, the sick bay and the reactor core are. The other segments contain machinery and materials for excavation. They don't need to be serviced during flight, so they don't bother me."{WRNR0201}
+"Didn't you understand what I said? Listen: out of the eight segments on the TORONTO, only two have life support systems installed: this one here, and the segment where the Secus, the sick bay and the reactor core are. The other segments contain machinery and materials for excavation. They don't need to be serviced during flight."{WRNR0201}
+{BLOK000}What can you say about... {BLOK001}Take a look at this... {BLOK004}See you soon! {BLOK005}What's your job at the moment?
+

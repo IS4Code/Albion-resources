@@ -1,0 +1,7 @@
+﻿{BLOK000}"I'm the Captain of this ship, as I'm sure you're aware."
+"What do, you want, Driscoll? I'm very busy, so close to landing." {BLOK010}"Sir, I was just wondering if you knew for definite when the Shuttle will be taking off."
+"I'm sorry, Driscoll, I don't have the time right now. You'll be notified of your flight time over the loudspeakers."
+"I can't tell you for definite yet, Driscoll. It won't be long, though. The bridge will tell you in plenty of time over the loudspeakers.^^Now please excuse me, I've got a lot to do."
+"You should have taken off ages ago, Driscoll. Didn't you hear the announcements? I know it's up to you to decide when you take off, but you really shouldn't test our patience too much."
+
+

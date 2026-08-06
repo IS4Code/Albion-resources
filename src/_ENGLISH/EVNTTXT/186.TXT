@@ -1,0 +1,6 @@
+﻿{BLOK000}"I am a mathematician and navigator."{WRNR0203}
+"Hello, Driscoll. All set for the flight?"{WRNR0205}
+"Ah, Driscoll. What else can I do for you?"{WRNR0205}
+"I've been checking through the calculations for your flight. Everything's A-OK, no critical points in the journey. Should be a piece of cake."
+"As I said, the calculations for the flight are ready and checked."
+"Pretty hard job this time. Even though we've got Ned, the wonder AI, on board - or maybe because we do. All through the flight I was trying to prove the AI had made an error, but I couldn't find a thing. I'm gonna rationalise myself out of a job before long with these checks. People don't trust the AI systems a hundred per cent yet, but I think that's about to change."{WRNR0184}

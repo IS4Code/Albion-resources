@@ -1,0 +1,10 @@
+﻿{BLOK000}"I'm responsible for providing the crew with food and other things."{WRNR0061}{WRNR0216}
+"Hello. What can I do for you? Want a little snack? I can let you have a couple of good chocolate bars, not too sweet." {BLOK010}"O.K>, hand them over."
+"Hello, Driscoll. Want some more supplies? The company can afford it." {BLOK010}"Yes, O.K., I could use some."
+"Hello. Sorry, I'm fresh out of chocolate bars. I've got to make sure the others get some too. You'll be putting on weight, Driscoll."
+"Here's a pack."^^ {INK 001}She gives Tom some rations.
+"The company hasn't exactly provided us with gourmet provisions, but with a bit of imagination when I program the kitchen, I'll make something edible out of them."
+"If you need some new videos or something to read, come and see me when I'm in my office."{WRNR0217}
+"There's plenty of choice; have a look through my data bank sometime."
+{BLOK000}What can you say about... {BLOK001}Take a look at this... {BLOK004}See you soon! {BLOK005}What's your job at the moment?
+

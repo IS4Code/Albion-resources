@@ -1,0 +1,148 @@
+﻿ 
+Ein Sicherungskasten.
+Ein Sessel.
+Eine Liege.
+Das Steuerpult für den Atomreaktor.
+
+Eine Steuerungskonsole.
+Eine Flugsteuerungskonsole.
+Ein Kontrollpult.
+Eine chemische Toilette.
+Ein Schrank.
+Eine Spüle.
+Handtücher.
+Zahnputzzeug.
+Eine Anzeige für die Korridor-Überwachung.
+Kontroll-Anzeigen.
+Ein Teil des Reaktors.
+F"sser mit Müll, Wasser, Gift- und Rohstoffen.
+Eine ausgeschaltete Konsole.
+Eine Lampe.
+Ein Teller.
+Ein Glas.
+Ein Becher.
+Ein Beh"lter.
+Eine Flasche.
+Eine Kanne.
+Eine Dose.
+Ein Gef"ß.
+Ein Pfeffer- und ein Salzstreuer.
+Sojasoße.
+Ein Topf.
+Eine kleine Dose.
+Eine Schaufel.
+Ein Spaten.
+Ein Schraubenschlüssel.
+Ein Schraubenzieher.
+Eine Handkonsole.
+
+Eine Zange.
+Besteck und ein Becher.
+Geschirr.
+Eine Automatik-Türe.
+Ein Shuttle.
+Container.
+Eine Dusche.
+Ein Fahrzeug.
+
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eine Tastatur zur Eingabe von Zahlencodes.
+{TECF}{CNTR}ÖFFNUNGSCODE EINGEBEN:
+{TECF}{CNTR}FALSCHER CODE. ÖFFNUNG VERWEIGERT.
+{TECF}{CNTR}CODE KORREKT. ÖFFNE SERVICEPANEL.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

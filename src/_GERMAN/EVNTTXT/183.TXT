@@ -1,0 +1,10 @@
+﻿{BLOK000}"Ich checke heute zum vierten Mal die Systeme zur Landung durch." {WRNR0206}
+"Hallo Schatz. Na, noch ein wenig die Füße vertreten, bevor der Shuttleflug losgeht? Ich checke gerade die Systeme zur Landung dieses riesigen Pottes." {WRNR0205}{WRNR0206}{WRNR0207}
+"Bongiorno, Süßer. Was gibt's?"
+"Wenn alles klappt, und davon ist auszugehen, müssen wir uns für ca. 45 Minuten anschnallen. Danach sollte die Landung vollzogen sein und die Segmente des Schiffes sind horizontal ausgeklappt. Dann besteht innerhalb der Segmente wieder die korrekte Schwerkraft|richtung. Vergiß nicht, das Zeug in Deiner Kabine gut zu verstauen."
+"Mach Dir mal keine Sorgen, mein Süßer. Die Systeme und alle Backupkreise sind topfit. Das l"uft wie am Schnürchen."
+"Ich beneide Dich und Hofstedt. Ihr werden den ersten Blick mit eigenen Augen auf Nugget werfen. Ich drücke Dir die Daumen für den Flug, Tom. Paß' bitte auf Dich auf, ja?"{WRNR0200}{WRNR0186}
+"Na, wenn Du nur ein halb so guter Pilot bist, wie Du mir erz"hlt hast, muß ich mir ja keine Sorgen machen. Im Ernst, Schatz, bau' keine Scheiße, ja? Ich mag Dich wirklich."
+"Der Traum geht Dir immer noch nicht aus dem Kopf, was? Ist schon seltsam, daß er immer wiederkehrt. Aber es ist ja eigentlich kein Alptraum. Du kannst sicher damit leben, bis er von allein wieder verschwindet."
+{BLOK000}Was kannst Du sagen über... {BLOK001}Schau Dir mal dies hier an... {BLOK004}Bis demn"chst! {BLOK005}Was ist Dein augenblicklicher Job?
+

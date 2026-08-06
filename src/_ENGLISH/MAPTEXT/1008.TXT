@@ -1,0 +1,62 @@
+﻿ 
+A fuse box.
+An armchair.
+A couch.
+The control desk of the nuclear reactor.
+
+A control console.
+A flight control console.
+A control desk.
+A chemical toilet.
+A cupboard.
+A wash basin.
+Hand towels.
+Tooth brushes and toothpaste.
+An indicator for corridor security.
+Security indicators.
+Part of the reactor.
+Containers for garbage, water, toxic material and raw materials.
+A console, turned off.
+A lamp.
+A plate.
+A glass.
+A tumbler.
+A receptacle.
+A bottle.
+A pot.
+A can.
+A receptacle for fluids.
+A salt and pepper shaker.
+Soy sauce.
+A saucepan.
+A small can.
+A shovel.
+A spade.
+A spanner.
+A screwdriver.
+A hand console.
+A PDA. (Personal Digital Assistant)
+A pair of pliers.
+Cutlery and a mug.
+Crockery.
+An automatic door.
+A Shuttle.
+Containers.
+A shower.
+A vehicle.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.

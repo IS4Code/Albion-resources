@@ -1,0 +1,184 @@
+﻿ 
+A fuse box.
+An armchair.
+A couch.
+The control desk of the nuclear reactor.
+A service panel. In der centre is a keypad for entering a code.
+A control console.
+A flight control console.
+A control desk.
+A chemical toilet.
+A cupboard.
+A wash basin.
+Hand towels.
+Tooth brushes and toothpaste.
+An indicator for corridor security.
+Security indicators.
+Part of the reactor.
+Containers for garbage, water, toxic material and raw materials.
+A console, turned off.
+A lamp.
+A plate.
+A glass.
+A tumbler.
+A receptacle.
+A bottle.
+A pot.
+A can.
+A receptacle for fluids.
+A salt and pepper shaker.
+Soy sauce.
+A saucepan.
+A small can.
+A shovel.
+A spade.
+A spanner.
+A screwdriver.
+A hand console.
+
+A pair of pliers.
+Cutlery and a mug.
+Crockery.
+An automatic door.
+A Shuttle.
+Containers.
+A shower.
+A vehicle.
+
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+Place marker for other Cutmap Events.
+"That dream again. Must be the tenth time; what does it mean?^^ Can't ever remember dreaming in colour before...^^ Well, I guess I'll stretch my legs for a while. I hope the order comes through soon to take off for the Shuttle's reconnaissance flight."
+"Hi there, big guy! Had a good sleep?"
+"Christine! Good to see you, honey!^ I'm absolutely whacked. You were right; I should have stayed with you last night. I had that crazy dream again. Every time it gets... clearer."
+"It sure is crazy. You're not usually such a sensitive soul. It must be something to do with the over-c - leap. Stay with me tonight, and I'll make you forget these silly nightmares!"
+"The dream began before that, and it isn't really a nightmare. It's just so intense!^^ Ah, what the hell. I'm going for a walk. Maybe I'll meet Captain Brandt and find out when I'm supposed to take off with Snoopy."
+"Snoopy? Didn't you...? Wow, you must really be a deep sleeper. You could hear the explosion all over the segment!"
+"Explosion? What explosion do you mean? What are you talking about, Chris? What's happened to Snoopy?"
+"The Inspector was sitting at the over-c comcontrols during the leap. The equipment overloaded and just blew up. They say they found Snoopy's remains all over the place."
+"That's terrible! I just can't believe it! That means now Hofstedt is the only government official on board."
+"Yes, I've heard he'll be coming with you on the reconnaissance flight instead of Snoopy."
+"What a great start to the day. Oh well, Hofstedt's not so bad, and the accident probably won't make any difference to my flight plan. I'll have a talk with Joe about it."
+"Your pal's been assigned to the "north-east" of the segment today, near the entrance to the Comroom.^^ O.K., it's time I was going. I've got a lot of work to do. See you later, honey."
+"So long, Christine."
+This door is locked.
+"Ahem, Driscoll: Nothing personal, but I'd rather be on my own right now. Stay outside please."
+"There's nothing to see here. Go on."
+{INK 001}This is Rainer Hofstedt, physicist and xenobiologist and a government supervisory official. He begins to speak excitedly.
+"Driscoll! I'm glad I've met you! Have you heard about Inspector Beegle's death?"
+"Hello, Hofstedt. Yes, my partner just told me about it. It must have been a horrific sight."
+"That obstinate British idiot! I know he wasn't a technician, but he must have known how difficult it is to control the Comsystem during the over-c leap. We still don't fully understand this super-light technology yet. Poor devil!"
+"That makes you the only government official on board, doesn't it?"
+"The only nosey parker, yes. Don't remind me!^^ Anyway, I just talked to Captain Brandt. He wants to go ahead with the flight, with yours truly instead of Beegle.^^ Looks like you've got a new passenger, Driscoll."
+"I don't want to sound hard-hearted, but it makes no difference to the Shuttle which two people are on board. I don't see why the flight shouldn't go ahead as planned."
+"I must admit, I'm really looking forward to the flight. We should be taking off in the next few days. We'll have to wait for a message from the Captain."
+"That's right.^ I'll see you before then. See you later, Hofstedt!"
+"See you, Driscoll."
+"Hi, Driscoll. Good luck with your flight."
+{INK 001}The security man glances at Tom sullenly. He does not answer.
+"Hello, Driscoll! I hear you've got a new passenger, since they scraped the Inspector off the walls.^I'll keep my fingers crossed for you."
+"Hi, Tom. Sorry, I'm in a bit of a hurry. Heavy duty rota! See you later."
+"Hello, Tom. I'd like to see what the Comroom looks like since Snoopy got killed. Pity the Secus are guarding it."
+{INK 001}Tom tries to access the latest news from the console. The following messages appear before the news reports:{TECF}^^ {CNTR}{INK 002}***Video data not available***^ ***Comconection not active***^^ Text mode activated.
+"Hello, Driscoll. Having a look at the Shuttle? Don't worry, everything's fine."
+{TECF}NEWS FLASH (Text mode):^^{LEFT} 18- European Union: The 14th attempt to introduce an official common currency has failed as a result of Germany's opposition to the plan.
+{TECF}NEWS FLASH (Text mode):^^{LEFT} 19- McCartney heirs appeal to International Court of Justice. Will Brazil's attempt to dispossess the McCartney heirs threaten the last remaining expanse of rain forest? Some states have demanded that the heirs be protected by armed troops.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{TECF}NEWS FLASH (Text mode):^^{LEFT} 19- McCartney heirs appeal to International Court of Justice. Will Brazil's attempt to dispossess the McCartney heirs threaten the last remaining expanse of rain forest? Some states have demanded that the heirs be protected by armed troops.
+{TECF}NEWS FLASH (Text mode):^^{LEFT} 18- European Union: The 14th attempt to introduce an official common currency has failed as a result of Germany's opposition to the plan.
+A console for accessing news reports.
+An enormous bulkhead.
+"Good evening, Tom! Come in and make yourself comfortable."
+Tonight Tom is not troubled by his dream...^^ Some time later, Tom leaves Christine's cabin.
+This is the door to Christine's cabin. She is not there at the moment.
+This is the door to Christine's cabin.^ Chris seems to be in.
+{CNTR}Knock on the door?
+"Hello, Tom! Good to see you. Come in and make yourself comfortable."
+A keypad for entering number codes.
+{TECF}{CNTR}INCORRECT CODE. ENTRY REFUSED.
+{TECF}{CNTR}ENTER ENTRY CODE:
+Tom climbs down to the service level.
+{TECF}{CNTR}CODE CORRECT. OPENING SERVICE PANEL.
+The ladder leads down to the service level.
+This is the Comroom! Tom looks round cautiously, but there is nobody here. The smell of burned-out electronic circuits hangs in the air.
+So these are the remains of the Comsystem. It really must have been a terrific explosion.
+Tom is just about to turn away when he catches sight of an object lying under the wrecked console. It is a gun!
+"How on earth did this gun get here? Except for the Secus, weapons are strictly forbidden on board^^ An interesting find anyhow..."
+The destroyed Comsystem. There is nothing else of any interest to be found.
+The destroyed Comsystem. There is something under it!
+Pieces of the destroyed Comsystem.
+The faces of the security officers register surprise, then anger, as they see somebody wandering around the area they are guarding!
+"Hold it right there, Driscoll! How did you get into the cordoned-off area?^^ Don't move, we're gonna have to frisk you!"
+Colonel Priver frisks Tom...
+"OK, you can go. But this will go on your personal record, I can promise you that!"
+"A gun! Are you crazy, Driscoll? This is going to look very good on your personal record, isn't it?^^ Get out of here -you'll be hearing from us!"^^{INK 001} Colonel Striver has confiscated the gun!
+"You again? Are you looking for trouble?"
+"Keep still!"^^{INK 001} Colonel Priver searches Tom thoroughly.
+This is where Tom keeps his private possessions.
+This was Inspector Beegle's room.
+There are a lot of bullets in this cupboard!
+Medipacs. A measured mixture of highly effective medicines.
+It's not what they were intended for, but specialist tools like this are ideal for breaking open mechanical locks!
+There are some concentrated nutrition bars here.
+A broken fluorescent tube.
+This is the TORONTO's Shuttle hangar. This is where all the small ship's flights start from.
+{INK 001}An announcement booms through the ship's corridors:^^ {INK 002}"Message for Pilot Driscoll: Shuttle ready for take-off. Take-off call will follow shortly."
+{INK 001}An announcement over the loud speakers:^^{INK 002} "Message for Pilot Driscoll: Please report for take-off of reconnaissance flight."
+{INK 001}An announcement over the loud speakers:^^{INK 002} Last call for Pilot Driscoll. Report to Shuttle hangar for take-off immediately!
+"Ok, guess I'll have to be going."
+Tom hurries to the Shuttle hangar. They are waiting for him there.
+{FAHI}{CNTR}A long script sequence follows: Tom & Rainer fly away and crash!
+They are waiting for Tom in the Shuttle hangar. He hurries to the Shuttle, which is ready for take-off.
+This bulkhead leads to cabins of the captain and the senior crew members. No other members of the crew are permitted to enter this area.
+This leads to the section of the TORONTO where the sick bay and the security officers' accommodation are located. Other crew members are not permitted to enter this area.
+"Aha, we're ready at last. I must remember to take everything I might need during the flight."
+Yep.
+
+The bulkhead to the bridge. Only a small number of crew members are authorised to enter this area. Tom is not one of them.
+This is the ship's mess, where the crew get together and have their meals.
+Two security officers are standing guard at the entrance to the Comroom, where the ship's communication equipment is located.
+Behind the lower door is the room where Tom's old friend, Joe, is working.
+Announce take-off of Shuttle? {BLOK000}Yes, take off {BLOK001}No, wait
+Tom goes to one of the consoles and announces everything is ready for take-off.^^ Shortly afterwards, in the Shuttle hangar...
+Tom decides to ignore the call for the moment.
+{CNTR}{INK 002}Please remember this is a Preview Version. Please forgive us if you find any bugs, missing parts or lack of "fine-tuning".^^^^ {JUST}{INK 001} SHORT INFO FOR PREVIEW VERSION:^^ You are TOM DRISCOLL, a Shuttle pilot on board the TORONTO. The TORONTO is a factory space ship belonging to a company on Earth, whose mission is to extract large quantities of raw materials. The TORONTO is heading for a planet called NUGGET, a barren world with large deposits of raw materials.^^ You will soon be setting out on a reconnaissance flight in a small Shuttle with a government inspector, Mr. BEEGLE, nick-named SNOOPY, to investigate the planet.^^{LEFT} Your close associates:^ CHRISTINE - A Technician and your present partner.^ RAINER HOFSTEDT - Scientist and the second government representative on board.^ JOE - Technician and an old friend of yours.^^{JUST} This scenario is designed as an introduction to the action, and does not contain any battles. You have to talk to the characters to find out more about your situation. There is also a puzzle to be solved; if you solve it, you can keep an object which will help you later.^^ The action begins straight after the Intro (see CD). TOM wakes up from a strange dream and begins his day's work.^^^ {CNTR}HERE GOES!
+As Tom steps out into the corridor, he sees his partner, Christine, walking towards him from the right.^^Pleased, he goes up to her to speak to her.
+{FAHI}- S C R I P T  S E Q U E N C E - {NORS}^^ A script sequence begins here, describing the flight to Albion, the crash, the characters' first steps on the planet, the Shuttle explosion, and how the characters regain consciousness at the Iskai's settlement.
+"Driscoll, everything is ready for your flight."
+"All data necessary for plotting the course are available in the Shuttle's systems, Mister Driscoll.^^I will communicate with you directly during the flight so I can analyze the data for you immediately."
+"You know your mission: to carry out a series of measurements in orbit and on the planet itself to verify the data provided by the probe. Get Mister Hofstedt down safely.^ Good luck."
+"Thanks, Sir. I'll do my best.^^Are you ready, Hofstedt?"
+"Sure! Step on it, Driscoll!"
+At the Shuttle Tom meets Captain Brandt, Ned's android body, the ship's AI System, and his passenger, Rainer Hofstedt.
+Tom guides the Shuttle safely out of the huge mother ship.^^The little craft has a powerful drive, and in a couple of hours the two men are within range of their destination...
+"My old pal Joe is working at the end of this corridor.^^I think I'll go and look in on him."
+
+

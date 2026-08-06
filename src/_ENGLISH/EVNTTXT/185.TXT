@@ -1,0 +1,10 @@
+﻿{BLOK000}"I am a Security Officer, rank of Colonel."
+"Move along, there's nothing to see here." {BLOK010}"What's happened? You can't be standing here for the good of your health."
+"You must have heard about the accident involving the Inspector and the over-c - Comsystem. The Comroom is off limits until further notice."{WRNR0210}
+"The room will be off limits to the crew until we're certain there's no danger from the damaged equipment. Now stop asking questions."
+"Don't get fresh, Driscoll. I'm still Colonel to you."
+"{HIGH}Are you crazy?^ {NORS}Hand over that gun at once! This will go on your personal record, Driscoll, I can promise you that!"^^ {INK 001}Priver takes the gun from Tom.
+"What are you waiting for? We're not paid to stand around talking."{WRNR0210}
+"Get lost, Driscoll. I don't feel like arguing with trouble-makers like you."
+{BLOK000}What can you tell me about... {BLOK001}Would you take a look at this, please?... {BLOK004}Goodbye, Sir. {BLOK005}What is your job?
+

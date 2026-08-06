@@ -1,0 +1,8 @@
+﻿{BLOK000}"Ich bin Physiker und Xenobiologe im Regierungsdienst." {WRNR0221}
+"Ah, hallo, Driscoll! Ich hoffe, Sie fühlen sich fit für unseren Flug!" {WRNR0205}
+"Grüß' Sie, Driscoll. Na, was haben Sie auf dem Herzen?"{WRNR0205}
+"Nun, ich stehe in Regierungsdiensten, weil dies die eine der wenigen M"glichkeiten ist, praktische Arbeit hier draußen zu leisten, ohne im Sold einer großen Firma wie DDT zu stehen."{WRNR0183}
+"Ja, ich bin gespannt auf ihre Flugkünste. Es ist für mich jedesmal ein absoluter H"hepunkt, eine neue Welt mit eigenen Augen zu sehen. Auch wenn es sich dabei um eine offenbar eher karge Welt handelt, die Ihre Firma mit dem unglaublich poetischen Namen "Nugget" versehen hat. Eine Sch"nheit, wie es Joshi einmal war, w"re natürlich noch interessanter gewesen.^^Aber dann h"tte diese Anlage ja ganz umsonst den weiten Weg gemacht, auch wenn mich das als alten Envi ein wenig mit Schadenfreude erfüllt h"tte." {WRNR0186}{WRNR0188}{WRNR0194}{WRNR0192}
+"Wie gesagt, ich bin gespannt auf ihre Flugkünste. Es ist für mich jedesmal ein absoluter H"hepunkt, eine neue Welt mit eigenen Augen zu sehen. Auch wenn es sich dabei um eine offenbar eher karge Welt handelt, die Ihre Firma mit dem unglaublich poetischen Namen "Nugget" versehen hat. Eine Sch"nheit, wie es Joshi einmal war, w"re natürlich noch interessanter gewesen.^ Aber dann h"tte diese Anlage ja ganz umsonst den weiten Weg gemacht, auch wenn mich das als alten Envi ein wenig mit Schadenfreude erfüllt h"tte." {WRNR0186}{WRNR0188}{WRNR0194}{WRNR0192}
+{BLOK000}Was k"nnen Sie mir sagen über... {BLOK001}Schauen Sie sich dies hier mal an... {BLOK004}Bis sp"ter. {BLOK005}Was ist Ihre Aufgabe?
+

@@ -1,0 +1,21 @@
+﻿{BLOK000}"I'm simulating a couple of faults so I can check out the reserve systems."{WRNR0209}
+"Hello there, fella! Trying to interrupt my work, huh? Good idea!" {BLOK010}"Hi, Joe! Have you seen the Secus in the next room?" {BLOK011}"Joe! Last time you looked so whacked was after our tour round Osaka, just before take-off!"
+"Yes, they've blocked the entrance to the Comroom. Arrogant bastards." {BLOK010}"You're right. You know, I've always been the inquisitive kind. I'd like to take a look at the wreckage in the Comroom!"
+"Mmm, I know how to out-wit these cloak-and-dagger merchants. I could show you an entrance to the service deck. From there you should be able to give them the slip and get into the Comroom. How about it?"{WRNR0208} {BLOK010}"Great idea. Let's go!" {BLOK011}"Oh, it's not worth the bother. Forget it."
+"O.K., listen; the wall panels with the green lights conceal entrances to the service deck. You'll find one of these entrances at the top right of the room to the north of this one. You'll need to enter the code for this deck, which is "1042". Behind the entrance you'll find a ladder leading downwards, and then you can look for the service stairs up to the Com area."{WRNR0208}
+"Hey, that's not like you! Anyway, let me know if you change your mind."
+"The service deck is underneath the main deck, where we are right now. It leads to the ship's equipment and is used mainly by service robots and us technicians, when those tin cans can't fix something. ^^Don't forget, down there was designed with the robots in mind, so there are a lot of control panels and stuff on the floor that control the sewers. Have a good look round for switches if you get stuck. Keep your wits about you."
+"Give me a break. I'm up to my ears in work now we're so close to our objective! Anyhow, our marathon sake session in Osaka was worth it, wasn't it? Hah hah!"
+"Hi, Tom. Want a tip how you can get past the Secus?" {BLOK010}"O.K., O.K.! I give in. What do you have in mind?"
+"Well, see anything interesting?"{WRNR0208} {BLOK010}"I couldn't get through. I'll try again later." {BLOK011}"What was the code number for the service entrances?"
+"Don't forget to experiment with the switches and keep with the servicerobs, then you'll be OK."
+"Wow! Don't show that to anybody, or it'll be confiscated! A gun, that's hot stuff!"
+"Shit. Couldn't you have hidden the thing in the service deck and picked it up later from the other side? Oh well, it's too late now."
+"Oh, routine stuff, but plenty of it. I'm simulating all kinds of unlikely failures, but the ship's systems are coping with them with no trouble at all."
+"Well, see anything interesting?" {BLOK010}"Well, the over-c - Com is a real mess. But the best thing is, I found a gun there!"
+""Well, see anything interesting?" {BLOK010}"Well, the over-c - Com is a real mess. But the best thing is, I found a gun there! But those Secu bastards took it off me, because the way back through the service deck was blocked."
+"Ah, early signs of Alzheimer's, huh? The code's "1042". Good luck!"
+"Well, see anything interesting?" {BLOK010}"The over-c - Com is totally wrecked. They've got rid of Snoopy's remains, though."
+"Didn't you find anything else exciting? How disappointing."
+{BLOK000}What can you say about... {BLOK001}Take a look at this... {BLOK004}See you soon! {BLOK005}What's your job at the moment?
+

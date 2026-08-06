@@ -11,7 +11,7 @@ Der Wandschrank ist leer, bereit zur Aufnahme von Gegenständen.
 Ein Wandschrank.
 Das Geräusch kam von rechts, aus einiger Entfernung.
 Sowie sich die Tür mit den roten Leuchten öffnet, schließt sich hinten diejenige mit der grünen Markierung. Der Rückweg ist versperrt!
-Dies muß einer der Serviceroboter sein, von denen Joe gesprochen hat.
+Dies muß ein Serviceroboter sein. Er geht einer unbekannten Aufgabe nach.
 Eine Tür. Es ist kein Öffnungsmechanismus zu erkennen.
 Eine Leuchtstoffröhre. Sie strahlt kaltes, weißes Licht ab.
 Ein Stahlträger.
@@ -24,3 +24,6 @@ Die Zahlenkombination war offenbar korrekt: Die Tür neben der Tastatur hat sich
 Nichts passiert.
 Yeah! Made it!
 Eine Leiter. Sie führt nach oben.
+Das rhytmische Blinken der Bodeplatte deutet wohl auf eine besondere Funktion hin.
+Eine defekte Leuchtstoffr"hre.
+{INK 001}Tom deponiert die Waffe in dem Wandschrank.{INK 002}^^ "So. Wenn ich jetzt von der anderen Seite dieser Schleuse hier wieder an den Schrank drankomme, hab' ich die Secus gelinkt und die Waffe gehört mir!"

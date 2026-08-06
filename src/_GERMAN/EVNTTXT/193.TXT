@@ -1,0 +1,7 @@
+﻿{BLOK000}"Ich bin der Kapit"n dieses Schiffes, wie Sie wissen sollten.
+"Was gibt es denn, Driscoll? Meine Zeit ist knapp bemessen, so kurz vor der Landung." {BLOK010}"Sir, ich wollte nur fragen, ob Sie mir etwas Genaueres über den Zeitpunkt des Shuttlefluges verraten k"nnen."
+"Tut mir leid, Driscoll, ich bin in Eile. Bitte richten Sie sich wegen Ihres Abfluges nach den Laut|sprecher|durch|sagen."
+"Ich kann Ihnen noch keine genaue Auskunft geben, Driscoll. Es wird aber nicht mehr allzu lange dauern. Die Brücke wird den Abflug|termin rechtzeitig durch Laut|sprecher|durch|sagen bekanntgeben.^^Entschul|digen Sie mich nun bitte, ich habe noch viel zu tun."
+"Sie sollten doch schon l"ngst starten, Driscoll. Haben Sie die Durchsagen nicht geh"rt? Der Startzeitpunkt liegt zwar in ihrem Ermessen, aber sie sollten unsere Geduld nicht allzu lange auf die Probe stellen."
+
+

@@ -1,0 +1,7 @@
+﻿{BLOK000}"Ich bin Maschinenführerin für die Abbauroboter. Im Augenblick sichere ich allerdings den Lagerraum ab."{WRNR0218}
+"Hi, Tom! Hab'n bißchen wenig Zeit. Der Kapit"n hat mich dazu verdonnert, den Lagerraum für die Landung vorzubereiten."{WRNR0206}{WRNR0196}
+"Na, Du weißt doch. Normalerweise beginnt für unsereins der Job erst nach der Landung, wenn es mit dem Abbau der Rohstoffe losgeht."
+"Wenn bei der Landung die Schwerkraftverh"ltnisse durcheinander geraten, darf hier natürlich nichts mehr unbefestigt herumstehen."
+"Ja, was gibts'n noch, Tom?"
+{BLOK000}Was kannst Du sagen über... {BLOK001}Schau Dir mal dies hier an... {BLOK004}Bis demn"chst! {BLOK005}Was ist Dein augenblicklicher Job?
+

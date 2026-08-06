@@ -1,0 +1,10 @@
+﻿{BLOK000}"Ich bin Security - Offizier im Range eines Colonel."
+"Gehen sie weiter, hier gibt es nichts zu sehen." {BLOK010}"Was ist denn passiert? Sie stehen hier doch nicht zum Vergnügen herum."
+"Sie haben sicher von dem Unfall des Inspektors mit der over-c - Comanlage geh"rt. Der Comraum ist bis auf weiteres gesperrt."{WRNR0210}
+"Der Raum bleibt solange für die Besatzung geschlossen, bis keine Gefahr durch die defekte Anlage mehr besteht. Und jetzt ist Schluß mit der Fragerei."
+"Werden sie nicht frech, Driscoll. Für Sie immer noch Colonel."
+"{HIGH}Sind Sie wahnsinnig?^ {NORS}Geben Sie sofort die Waffe heraus! Das wird Folgen für Ihre Personalakte haben, Driscoll, das verspreche ich Ihnen!"^^ {INK 001}Priver nimmt Tom die Waffe ab.
+"Was wollen Sie denn noch? Wir werden nicht fürs Reden bezahlt."{WRNR0210}
+"Verschwinden Sie, Driscoll. Ich habe keine Lust, mit Unruhestiftern wie Ihnen zu diskutieren."
+{BLOK000}Was k"nnen Sie mir sagen über... {BLOK001}Schauen Sie sich dies hier bitte einmal an... {BLOK004}Auf Wiedersehen, Sir. {BLOK005}Was ist Ihre Aufgabe?
+
