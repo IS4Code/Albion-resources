@@ -1,0 +1,20 @@
+#!/bin/sh
+set -euo pipefail
+
+# Forms XLD from files passed
+
+count=$#
+
+printf "%s\0\\$(printf '%03o' "$((count % 256))")\\$(printf '%03o' "$((count / 256))")" "XLD0I"
+
+for file in "$@"; do
+  size=$(wc -c <"$file")
+  echo "Adding $file ($size B)..." >&2
+  
+  a=$((size / 256))
+  b=$((a / 256))
+  
+  printf "\\$(printf '%03o' "$((size % 256))")\\$(printf '%03o' "$((a % 256))")\\$(printf '%03o' "$((b % 256))")\\$(printf '%03o' "$((b / 256))")"
+done
+
+cat -- "/dev/null" "$@"

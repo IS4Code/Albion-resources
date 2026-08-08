@@ -1,0 +1,25 @@
+#!/bin/sh
+set -euo pipefail
+
+# Forms a character file from base data and name files
+
+index="$1"
+source="$2"
+shift 2
+
+if [ ! -s "$source" ]; then
+  # Empty file
+  exit
+fi
+
+dd "if=$source" bs=274 count=1 2>/dev/null
+
+for file in "$1" "$2" "$3"; do
+  name=$(sed -e "${index}q;d" -- "$file")
+  printf -v name "%.16s" "$name"
+  len=${#name}
+  printf "%s" "$name"
+  [ "$len" -ge 16 ] || dd if=/dev/zero bs=$((16 - len)) count=1 2>/dev/null
+done
+
+dd "if=$source" bs=274 skip=1 2>/dev/null

@@ -1,0 +1,16 @@
+#!/bin/sh
+set -euo pipefail
+
+# Encodes text using CR-LF
+
+crlf() {
+  while IFS= read -r line; do
+    printf "%s\r\n" "$line"
+  done
+  
+  if [ -n "$line" ]; then
+    printf "%s" "$line"
+  fi
+}
+
+cat -- "$@" | crlf

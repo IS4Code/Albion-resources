@@ -1,0 +1,50 @@
+#!/bin/sh
+set -euo pipefail
+
+# Identifies parts of a single XLD library
+
+xldi="$1"
+if [ "$xldi" -eq 0 ]; then
+  a=1
+  b=99
+else
+  a=$((xldi * 100))
+  b=$((a + 99))
+fi
+
+ext="$2"
+shift 2
+
+# Find largest index
+
+b=$(seq "$a" "$b" | while read -r num; do
+  printf -v index "%03d" "$num"
+  for dir in "$@"; do
+    if [ -f "$dir$index$ext" ]; then
+      echo "$num"
+      break
+    fi
+  done
+done | tail -1)
+
+if [ -z "$b" ]; then
+  exit
+fi
+
+# Fill holes
+
+empty="$(dirname "$0")/.empty"
+
+seq "$a" "$b" | while read -r num; do
+  printf -v index "%03d" "$num"
+  source="$empty"
+  for dir in "$@"; do
+    file="$dir$index$ext"
+    if [ -f "$file" ]; then
+      source="$file"
+      break
+    fi
+  done
+
+  printf "%s\n" "$source"
+done

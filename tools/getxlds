@@ -1,0 +1,23 @@
+#!/bin/sh
+set -euo pipefail
+
+# Identifies indices of XLD libraries that have any parts
+
+ext="$1"
+shift 1
+
+checkxld() {
+  index="$1"
+  shift 1
+  for dir in "$@"; do
+    set -- "$dir$index"??"$ext"
+    if [ -f "$1" ]; then
+      echo "$index"
+      break
+    fi
+  done
+}
+
+seq 0 9 | while read -r index; do
+  checkxld "$index" "$@"
+done

@@ -1,0 +1,29 @@
+#!/bin/sh
+set -euo pipefail
+
+# Forms text library from file
+
+uint16() {
+  num="$1"
+  printf "\\$(printf '%03o' "$((num % 256))")\\$(printf '%03o' "$((num / 256))")"
+}
+
+source="$1"
+
+if [ ! -s "$source" ]; then
+  # Empty file
+  exit
+fi
+
+count="$(wc -l <"$source")"
+echo "Adding $count lines..." >&2
+uint16 "$count"
+
+while IFS= read -r line; do
+  len="${#line}"
+  uint16 "$((len + 1))"
+done <"$source"
+
+while IFS= read -r line; do
+  printf "%s\0" "$line"
+done <"$source"

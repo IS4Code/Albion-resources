@@ -1,0 +1,13 @@
+#!/bin/sh
+set -euo pipefail
+
+# Forms WORDLIST entry from file
+
+source="$1"
+
+while IFS= read -r word; do
+  printf -v word "%.21s" "$word"
+  len=${#word}
+  printf "%s" "$word"
+  [ "$len" -ge 21 ] || dd if=/dev/zero bs=$((21 - len)) count=1 2>/dev/null
+done <"$source"

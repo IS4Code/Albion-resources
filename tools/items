@@ -1,0 +1,11 @@
+#!/bin/sh
+set -euo pipefail
+
+# Forms ITEMNAME.DAT from files
+
+paste -d "\n" -- "$1" "$2" "$3" | while IFS= read -r name; do
+  printf -v name "%.20s" "$name"
+  len=${#name}
+  printf "%s" "$name"
+  [ "$len" -ge 20 ] || dd if=/dev/zero bs=$((20 - len)) count=1 2>/dev/null
+done

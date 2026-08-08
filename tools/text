@@ -1,0 +1,9 @@
+#!/bin/sh
+set -euo pipefail
+
+# Encodes a text file
+
+map="$1"
+shift 1
+
+sed -f "$map" -- "$@"
