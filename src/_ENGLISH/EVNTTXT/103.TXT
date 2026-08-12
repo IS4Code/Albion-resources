@@ -1,0 +1,17 @@
+﻿{BLOK000}"Well, if I'm not trying to heal badly wounded humans, I take care of wounded hunters of our clan."{WORDclan}
+"Dsarii-ma, my former patients!"
+{INK 001}This is Giria, who took care of Tom's and Rainer's injuries. {INK 002} ^ ^ "Dsarii-ma! I'm happy that we succeeded in healing you, Tom. When you first came into our house, I wondered if you would make it. But, your race appears to be quite resilient. {WORDhealing}{BLOK010}"Giria! Great to see you. We would like to thank you for everything that you did for us."{BLOK011}"Ah, Giria. You can't believe how happy we are to have escaped your tyranny in the hospital room!"
+"It was an honor for me. After all the scratched and bitten hunters, treating you was an interesting change.{WORDhunter}"
+"How flattering. Maybe you would have preferred it if we had left you to the animals of the forest?"
+Offended, Giria ends the conversation.
+"Oh, the charming humans once again."{BLOK010}"Giria, please excuse us. We were only joking. We know that we have much to thank you for."{BLOK011}"Hey, we only tried to copy your race's strange humor!"
+"I accept your apology. Maybe I was somewhat crude. Sometimes I forget that you humans can't control pain."{WORDpain}
+"My interest in your race was obviously a mistake. Apparently, you are not familiar with even the simplest concepts of gratitude."
+Giria is no longer is interested in a discussion and turns away.
+"Oh, I see one of you is seriously wounded! You should go to the healers of the Dji-Kas. I cannot treat such severe wounds. Should I quickly show you the way there?" {BLOK010}"Yes, please show us the way, Giria!"{BLOK011}"No, thank you very much, we know the way."
+"Mainly, I just take care of our hunters' minor wounds. For healing serious injuries, we bring the healers of the Dji-Kas here, or go to their house. The Dji-Kas also sell medicine."{WORDhunter}{WORDDji-Kas}{WORDmedicine}
+"Well, as I already said, for serious injuries, you'd better go to the Dji-Kas."
+"Our clan earns its living mainly by hunting. There are animal breeders in Jirinaar, but most people prefer game. The more honorably an animal was hunted, the greater the profit. Sometimes we even conduct hunts without weapons to initiate the young hunters. You can imagine that I have a lot to do with them."
+"I believe I mentioned it already: our clan mainly earns its living by hunting. There are animal breeders in Jirinaar, but most people prefer game. The more honorably an animal was hunted, the higher the profit. Sometimes, we even conduct hunts without weapons to initiate the young hunters. You can imagine that I have a lot to do with them."
+"The Dji-Kas produce a beverage which strengthens injured bodies and accelerates healing. I think I will give you a little: the bottles are not cheap, but we can certainly spare one." {INK 001}Giria gives {LEAD}{NAME} a small bottle with a turquoise-colored liquid in it.
+"I'm sorry, {LEAD}{NAME}, but we can't afford to give you any more medicine. However, the Dji-Kas will be glad to sell you some."

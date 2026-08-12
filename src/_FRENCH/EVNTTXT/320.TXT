@@ -1,0 +1,6 @@
+﻿{BLOK000}"Hé bien, ici chez les Dji Cantos, ou illuminés, j'ai une fonction semblable à celle au conseil de Jirinaar, je m'intéresse à l'histoire."{WORDIlluminés}
+"Dsarii-ma, mes amis. Hé bien, comment vous plaît notre petit lieu de rassemblement?" {BLOK010}"Une installation magnifique, et la nature tout autour de la maison est paradisiaque. Vous êtes sûrement souvent ici."
+"C'est vrai. Je suis effectivement réputé à Jirinaar pour voyager beaucoup. Maintenant vous voyez où ces voyages me mènent le plus souvent. Les grottes nous permettent tous de nous réunir souvent ici pour des échanges de pensées."{WORDGrottes de transport}
+"Dsarii-ma. Content de vous parler de nouveau."
+"Dsarii-ma, mes amis. J'espère que vous progressez bien dans la recherche des connaissances pour la création de la graine."{WORDGraine}
+"Dsarii-ma, mes amis. Comme je vois, vous n'êtes pas encore partis pour le centre du danger, le Toronto. Je vous souhaite bonne chance et la bénédiction d'Animebona pour l'entreprise."{WORDAnimebona}{WORDTORONTO}

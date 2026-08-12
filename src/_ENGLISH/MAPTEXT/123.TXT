@@ -1,22 +1,22 @@
 ﻿!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A large, clay vessel. There is nothing of particular value in it.
+A barrel. It contains nothing interesting.
+A collection of old junk. {LEAD}{NAME} rummages around a little but can't find anything of value.
+This pile of metal apparently comes from the shuttle's remains. Of course, {LEAD}{NAME} does not find anything functional in it.
+A supply chest. It contains nothing worth taking.
+A large, mushroom-like growth.
+The plant wall appears to be fragile at this point; deep cracks penetrate the organic material. It looks as if something could be accomplished here with the proper tool.
+{LEAD}{NAME} strikes the wall with a mighty blow of the pickax. The wall collapses and creates a passage!
+Suddenly, several things start happening at once: ^ The ceiling collapses behind the group, the walls in front of them move and are torn down by sharp claws! ^ ^ Predatory creatures come out of the newly created opening and attack!
+Nonperishable foods are found in this vase.
+{LEAD}{NAME} finds some food rations here.
+{LEAD}{NAME} thinks he sees something interesting under this junk!
+A supply chest.
+Under the sharp pieces of metal, {LEAD}{NAME} sees something that catches {HIS } attention!
+{LEAD}{NAME} finds something useful in this chest.
+{INK 001}{LEAD}{NAME} finds a chronometer in the metal pieces. Tom says: ^ ^ {INK 002} "Unbelievable! This clock still works!"
+{INK 001} Tom:{INK 002} ^ ^ "Look! Here are a couple of good cartridges!"
+{INK 001} Tom:{INK 002} ^ ^ "What luck! These stimdrinks are scratched, but still usable!"
+There is something interesting under the old stuff.
+"A collapse! And what kind of animals are these? They look aggressive. Pay attention, Driscoll!"
+"This is where the wall has caved in. Maybe we can remove the cave-in with the pickax from the chest."

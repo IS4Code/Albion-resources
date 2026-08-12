@@ -1,0 +1,9 @@
+﻿{BLOK000}"Oh, didn't I mention that I'm the Clan's chief cook?"{WORDclan}
+"Ah, the foreign guests. Dsarii-ma! My name is Gridri, I'm head of the kitchen in our house."{WORDkitchen}
+"Even before I grew up, I liked to cook - an unusual occupation for a child. Now I can say I'm one of Jirinaar's best cooks. {WORDJirinaar}"{BLOK010}"You have made me curious, Gridri. Would it be out of line to ask for a little sample of your art?" {BLOK011}"Y people's cooking is a little bit too spicy for humans, you know."
+"I'm sorry, {LEAD}{NAME}, but I'm running out of supplies."
+"With the greatest pleasure. Here is a specialty made of dried meat wrapped in vegetables. It remains good for a long time and is ideal for travelers." ^ ^ {INK 001}Gridri gives {LEAD}{NAME} six rations.
+"Please! A variety of spices is the most important element of a good dish! I am sure you will get used to the spicier variations in no time."
+"Well, as I said, I'm proud to be considered one of Jirinaar's best cooks."{BLOK010}"You made me curious, Gridri. Would it be out of line to ask for a little sample of your art?"{BLOK011}"Y people's cooking is a little too spicy for human beings, you know."
+"Dsarii-ma! Good to see you again! What can I do for you?"{WORDkitchen}
+"Oh, she is a capable student."

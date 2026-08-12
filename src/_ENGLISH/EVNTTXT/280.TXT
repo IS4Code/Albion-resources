@@ -1,0 +1,10 @@
+﻿{BLOK000}"I do all kinds of metal work. However, I am mainly a weapon smith."{WORDWeaponsmith}
+"Skeima Din, Gerwad is my name. I hope you like it in Umajo-Kenta."{WORDUmajo-Kenta}
+"Skeima Din. I've already introduced myself to you. As you see, I work with metal all day."{WORDmetal}
+"I don't talk with people who try to steal from me."
+"Weapon smiths have to work fairly hard. It's not easy, and you stand right beside the fire all day. I don't even earn a lot of money for doing that."{WORDmoney}
+"I do get a good price for my goods, but the profit isn't very high since the miners are demanding higher and higher prices for metal ore."{BLOK010}"Can they simply do that?" {BLOK011}"Why don't you get your own ore?"
+"Yes, unfortunately, they can do that since no one besides the Mountain Priests can perform the ritual which allows the Miners to mine ore. Nevertheless, I do quite well. I repair weapons on the side." {WORDritual}{WORDMiners}{WORDrepairs}
+"It's not that simple. One must know the ritual to mine any ore, otherwise one will suffer grave misfortune. Mother Earth is very strict about this."{WORDritual}{WORDmother}{WORDbad luck}
+"{UNKN}??? ^ ^ What in the world is this {UNKN}?
+"I can make things almost as good as new."{BLOK010}"Can you repair something for us?"

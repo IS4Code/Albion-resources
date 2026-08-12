@@ -1,0 +1,2 @@
+﻿{BLOK000}"Je suis la grande savante de notre Guilde."
+"Skeima Din.^^Si vous voulez, je vous enseigne la magie Iskai."{BLOK010}"Nous voudrions bien apprendre des formules magiques."{WORDIskai} {WORDRituel}

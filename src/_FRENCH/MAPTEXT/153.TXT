@@ -1,0 +1,67 @@
+﻿!
+Les Technorobots, normalement occupés à exécuter leurs tâches mystérieuses, se dirigent tout droit vers {LEAD}{NAME} et ses compagnons.
+La dalle s'illumine.
+Il y a une dalle avec une surface lumineuse et transparente.
+Juste devant {LEAD}{NAME} il y a une barrière laser. Une odeur de métal chauffé à blanc flotte dans l'air. Les rayons lumineux sont si puissants qu'ils font briller les grains de poussière en suspension.
+Un interrupteur.
+L'interrupteur ne change pas de position.
+{LEAD}{NAME} et ses compagnons s'avancent vers la barrière laser. C'est une mort rapide et sans souffrance: les rayons coupent les corps trop vite pour que les douleurs atteignent le cerveau. Tous sont morts avant que les restes des corps touchent le sol.
+Le robot a été totalement détruit par la barrière laser.
+L'armoire est vide, prête à recevoir des objets.
+Une armoire.
+Il y a un panneau mural fixé avec des vis spéciales.
+{LEAD}{NAME} défait les vis. Le panneau mural tombe par terre et laisse apparaître une électronique de contrôle compliquée.
+Un Technorobot.
+Une porte. Il n'y a aucun mécanisme d'ouverture apparent.
+Une lampe fluorescente. Elle diffuse une lumière blanche et froide.
+Une poutrelle d'acier.
+Les murs semi-transparents marquent un accès au service. L'échelle du milieu mène vers le haut.
+Un clavier à dix touches pour entrer des codes.
+Une porte avec des voyants rouges sur les côtés. Il n'y a aucun mécanisme d'ouverture apparent.
+Une porte avec des voyants verts sur les côtés. Il n'y a aucun mécanisme d'ouverture apparent.
+Une porte avec des voyants bleus sur les côtés. Il n'y a aucun mécanisme d'ouverture apparent.
+{LEAD}{NAME} arrache quelques composants électroniques. Des étincelles fusent de l'endroit saboté.
+Un Technorobot. Il semble désactivé.
+{LEAD}{NAME} arrache quelques composants du mur. Un coup de courant lui traverse alors les membres!
+Cette électronique est sévèrement endommagée.
+Un interrupteur monté sur un mur en Plexiglas avec des traverses en acier.
+L'interrupteur s'illumine brièvement, mais il ne se passe rien d'autre.
+Dès que {LEAD}{NAME} actionne l'interrupteur, le mur disparaît en un clin d'oeil dans le plafond!
+Un grand voyant de contrôle.
+Une dalle clignotante.
+Derrière une ouverture dans le mur, on aperçoit des composants électroniques complexes.
+En actionnant l'interrupteur, les voyants de contrôle à l'arrière et les plafonniers s'allument.
+Brusquement, tous les témoins lumineux rouges s'éteignent.
+"Nous avons apparemment à faire à un contrôle minuté!"
+Un interrupteur avec un voyant de contrôle sur le côté.
+"Ah! Ce bruit, c'est de la musique dans mes oreilles! Si la porte ne s'ouvre pas maintenant, je m'énerve. J'aimerais connaître les timbrés qui ont programmé les systèmes, ici!"
+"Saleté. Je parie que nous avons encore à faire à un interrupteur minuté."
+Les dalles lumineuses s'éteignent.
+"Au diable! Je suppose que nous devons activer les 4 interrupteurs dans les couloirs pour passer. Nous n'y arriverons jamais en si peu de temps, le chemin à parcourir est trop long. On devrait faire de la chair à pâté du type qui a installé ça.!"
+"O.K.! Le tour est joué! Les murs de Plexiglas se sont levés là-bas! Maintenant, l'interruption minutée ne devrait plus poser de problème!"
+"Je suppose qu'on entre par ici dans le hall qui précède le noyau du réacteur. Ce code nous pose par contre un sacré problème. Tu vas peut-être penser que je suis idiot, mais JE ne connais pas le code!"
+"Je suppose qu'on entre par ici dans le hall qui précède le noyau du réacteur Ce code nous pose par contre un tout petit problème. Mais attend, ces bouts de papier qu'on a trouvé! Que la foudre me frappe s'ils n'indiquent PAS ce code!"
+"Un morceau de papier avec un numéro dessus, tiens, tiens... Tu sais qu'il est absolument interdit de noter n'importe quel code d'accès, question de sécurité, etc.^^Je connais par contre quelques candidats comme Alzheimer qui ont quand même noté leurs codes pendant la construction de l'installation et les ont déposés dans celle-ci. Ils se trouvaient trop nuls pour retourner pour la cinquième fois au service de surveillance et avouer avoir encore oublié leurs codes. Je suppose que c'est ce genre de cas. ^^Mais par contre, le code ne semble pas tout à fait complet, le morceau de papier a été déchiré."
+"Dis-moi, mon vieux, qu'est-ce que ça veut dire? Nous sommes à deux pas du but! Pourquoi veux-tu faire demi-tour maintenant, nom de Dieu?"
+Quelques fils et des éléments pendent de cette partie du mur. Apparemment, les travaux de réparation n'ont pas été achevés.
+Est-ce que Joe doit essayer de réparer ça? {BLOK000}"Oui, vas-y." {BLOK001}"Non, il ne vaut mieux pas."
+"O.K. Ce ne sera pas long..."
+"Voilà. C'est fait. Eh, c'était donc l'alimentation pour la porte d'à côté. Le machin est ouvert!"
+"Bon, ben, comme tu veux."
+C'est la partie que Joe a réparé.
+Le contrôle des barrières laser est visiblement perturbé. Des parties des barrières laser s'allument et s'éteignent par intermittence.
+Dans cette pièce, il y a Ned, le corps humanoïde qu'utilise l'IA du TORONTO comme interface de communication avec les hommes à bord.
+C'est un lecteur de cartes. Il sert visiblement comme verrou, mais il est déjà en position ouvert.
+Un lecteur de cartes.
+Un clavier à codes. Il a déjà été activé pour l'ouverture.
+Toute une série de voyants de contrôles de différentes couleurs est fixée au mur.
+Des niches de cette pièce sortent des personnages absolument identiques et se dirigent vers {LEAD}{NAME} et ses compagnons.
+"Les clones I.A! Ned dispose donc vraiment de tout un arsenal de ces androïdes!"
+"Bien observé, Driscoll. Je suis étonné avec quel acharnement vous agissez contre les intérêts de la société et l'intérêt public. Comme vous pouvez vous en douter, je suis obligé de durement réprimer cet acte de terrorisme." ^^ {INK 001}Les clones artificiels attaquent!
+{INK 001}Joe jette un oeil intéressé sur l'endroit et dit:^^ {INK 002} "Mmh, voyons voir. Je pourrais réparer ça en quelques tours de main."
+"Oh la merde! Regardez tous ces robots. Je parie que chacun d'eux est programmé pour l'attaque!"
+"Tom Driscoll, je vous somme une dernière fois de cesser toutes activités à l'encontre de la société et de vous rendre immédiatement à la direction du vaisseau."
+"Croyez-vous vraiment qu'on est allé si loin pour nous soumettre maintenant à l'appel aussi bien formulé que ridicule d'une I.A?"
+"Je craignais déjà qu'on ne puisse pas vous raisonner. Je vous assure que vous ne pourrez pas mettre ce clone aussi facilement hors de combat comme lors de notre dernière rencontre."^^{INK 001}Le clone I.A attaque!
+"Là! Le mur avec les voyants de contrôles de couleur a disparu!"
+"Une barrière laser! Ces machins sont absolument mortels!^^Voyons s'il existe un moyen de désactiver les lasers. Il existe peut-être des panneaux que l'on peut ouvrir avec un outil spécial. Nous pourrions alors essayer de saboter les barrières."

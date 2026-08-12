@@ -1,0 +1,10 @@
+﻿{BLOK000}"I am a cattle breeder and tend my herds outside."{WORDcattle breeder}{WORDherd}
+"Dsarii-ma. What do you want of old Jiris?"{BLOK010}"Dsarii-ma. Can you tell us how to get to the Dji-Fadh ruins?"
+"Yes. But are you sure you want to deal with old Argim? Strange things are supposed to happen there! ^ ^ {INK 001}{LEAD}{NAME}: ^ {INK 002} We have a reason for going there. Can you help us?" ^ ^ {INK 001}Jiris: ^ {INK 002}"Well, good. Keep going north until you run into a lake. Go around the east side of the lake until you run into an abandoned road. Follow it up to you see a dead end branching off to the west. If you go a little further in this direction you should see the old bridge, if it hasn't fallen into the river by now. Be careful there."
+"You want to go there again? Well, it's not my problem. Therefore: Keep going north until you run into a lake. Go around the east side of the lake until you run into an abandoned road Follow it up to you see a dead end branching off to the west. If you go a little further in this direction you should see the old bridge, if it hasn't fallen into the river by now. Be careful there."
+"This has been our family's profession for a long time. You see, not everyone can and wants to buy the hunters' expensive meat, and we offer the best quality for less money. I like my herds and my profession. I'm not a city person and enjoy life out here."
+"As I have already said: This has been our family's profession for a long time. You see, not everyone can and wants to buy the hunters' expensive meat, and we offer the best quality for less money. I like my herds and my profession. I'm not a city person and enjoy life out here. "
+"The animals are called mimins. They are friendly, for the most part, and their meat is outstanding. I take care of them and they take care of me."
+"Didn't I say that already? ^ The animals are called Mimins. They are friendly, for the most part, and their meat is outstanding. I take care of them and they take care of me."
+"Dsarii-ma! What strange visitors! ^ Oh, excuse me, I am not as refined as the city people, hir, hir!"
+"Dsarii-ma! So you haven't been eaten yet, hir, hir!"

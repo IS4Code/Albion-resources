@@ -1,0 +1,16 @@
+﻿{BLOK000}"As I already told you, I'm the king of Klouta."
+"Togi Din, travelers. I am the tribal king of Klouta." {BLOK010} "Togi Din, Tharnos. We are searching for a giant metal ship which fell from the sky. Have you heard of such a thing?" {WORDKlouta}{WORDtribal king}
+"Ha, ha, ha, are you crazy? Pardon me, but I haven't heard such nonsense in a long time. You ought to turn yourself over to the Druids of Arjano for treatment." {WORDdruids}{WORDArjano}
+"Togi Din. Ah, the travelers who tell jokes again!" {WORDsea voyage}
+"I am the chief of the Tuath of Klouta and the most important man here. What I say happens!" {WORDTuath}
+"Do you have trouble understanding? I'm the leader of the people here!"
+"So, you would like to leave Klouta again. Garris, the fisherman, is an experienced sailor who could safely take you to Maini. But he, and therefore you, need my permission to do this. Now, naturally, I could grant you such approval, but there is a small matter you must handle for me. As strangers, you are better suited for it than someone from this area, since it requires great discretion. You would have to promise me to keep quiet about this conversation! ^ ^ This is what the situation is: we expect a king to have full mental and, especially, physical powers since otherwise he could bring misfortune to the Tuath. Now, my wife and I have been wanting children for a long time. We, and the weapon-bearing men, are becoming impatient. ^ ^ Therefore, I would like to get an amulet from the Druids in Arjano which could reinforce my virility. I'm sure that you understand that I do not want to entrust this order to one of my men, or go to Arjano myself. Go to Bero, the Druid, and ask him for a strengthening amulet. Bring it to me and I will grant your travels." {WORDdruids}{WORDArjano}{WORDTuath}
+"No, no, strangers! We have an agreement! First bring me the amulet from Bero, then we will see about the other matter!" {WORDdruids}
+"Ha, ha, do you want to play practical jokes on me again? I've already granted you permission. So go to Garris - nothing more stands in the way of your journey."
+"Ah, how wonderful! You've got the amulet! I, too, will keep my word and write out permission for you. You see? You're making a fine deal, just for this little errand."
+"Right, you are to get an amulet like this for me."
+"A first rate amulet! I already feel new power flowing through me!"
+"That's my name."
+"Now, if that is so, we should travel on to Maini, the great island east of here, as fast as possible. Can you tell us if we can make such a sea journey from here, O Tharnos?"
+"He is the best sailor in the village. You will find him in his hut on the northwestern edge of Klouta."
+"That's the name of the great land to the east of us."

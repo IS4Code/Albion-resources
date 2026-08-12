@@ -1,0 +1,9 @@
+﻿{BLOK000} "I build houses out of plants. I'm sure you've seen many of them around here."
+"Skeima Din, are you intervening in the war that's starting?" {BLOK010} "What kind of a conflict is it?" {BLOK011} "If it will help you, then we will be glad to do it." {BLOK012} "Unfortunately, we have no time for that."{WORDconflict}
+"That's a dangerous attitude. After all, you are guests here and if it comes to a war, then it will most certainly affect you as well." 
+"That would help all of us, I am very sure of that. It is always good to have a couple of diplomatic friends who are in a neutral position."
+"Right now, there is no positive information. But if it comes out that Kontos has convinced his followers that the shrine is dangerous, then they are sure to try and do something against it. And that means that they either violate our taboo or they go even further and attack us directly. This is all speculation, but who knows? Our shrine is not dangerous. Unfortunately, I cannot prove that to you because of our taboo, but these funny creatures are coming from somewhere else. Of course, I must admit that I don't know where they're coming from either." {WORDcreatures}{WORDshrine}{WORDtaboo}
+"Yes, better not go in there. Our religious ceremonies take place in there. It is a very solemn place for us."
+"This taboo has existed for as long as I can remember. There is a historical reason for the taboo, which I would rather not explain to you now."
+"Yes?"
+"None of us know where these creatures are coming from. They appear to be of magical origin and are found mostly near our shrine. But they've never come OUT of our shrine."

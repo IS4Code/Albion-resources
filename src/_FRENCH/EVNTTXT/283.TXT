@@ -1,0 +1,28 @@
+﻿{BLOK000}"Métier? Ca fait longtemps que je n'ai plus vu le jour. Vous ne pensez tout de même pas que je puisse travailler ici? Mais avant ce terrible malentendu, j'étais Prêtresse et guérisseuse."{WORDMalentendu}
+{WORDMalentendu}"Hein? Mais qui êtes-vous? Et comment êtes-vous venus?"{BLOK010}"C'est nous qui posons les questions ici!"{BLOK011}"Nous sommes juste de passage et nous recherchons des informations."
+"Il faut que vous me sortiez d'ici. Je suis innocente!"{WORDMalentendu}
+"Vous devez me croire, je suis innocente. Je ne puis tout de même pas passer mes plus belles années ici. Aidez-moi, je vous en conjure!"{BLOK010}"Mais nous ne savons rien sur toi!"{BLOK011}"Non, il doit bien y avoir une raison pour que tu sois ici."{BLOK012}"Hé bien, on peut peut-être en parler."{BLOK013}"Pourquoi devrions-nous le faire?"
+"Je ne peux pas vous conter toute ma vie, avant que le gardien arrive et abrège la visite. Mais regardez-moi et jugez. Suis-je une criminelle? Non, je ne le suis pas. C'était une méprise, une erreur de justice!"{BLOK010}"Nous te croyons."{BLOK011}"Nous ne croyons pas qu'on puisse lire dans l'âme d'une personne."{BLOK012}"Nous ne te croyons pas."
+"Eh bien, c'est mon destin. Personne ne me croit, absolument personne!"
+"Vous me croyez? Alors aidez-moi! Je vous en conjure!"{WORDAide}
+"Evidemment qu'on ne peut pas. Mais on peut tout de même se faire une image des autres. Mais comment puis-je bien vous prouver mon innocence?"{WORDInnocence}
+"Exactement, il vaut mieux que vous ne me posiez plus de questions. sinon vous risquerez encore d'avoir des ennuis à cause de moi. Ce n'est bien sûr pas votre problème si des innocents sont derrière les barreaux. ^^C'est toujours la même chose. C'est à cause de gens comme vous qu'une telle erreur de justice a été commise."{WORDErreur de justice}
+"Que voulez-vous savoir?"{BLOK010}"L'objet de la condamnation."{BLOK011}"Quand est-ce que ça s'est passé?"{BLOK012}"Combien de temps encore devez-vous faire pénitence?"
+"Il s'agissait d'un patient qui était sous mes soins. Il était très malade, et je ne pouvais plus rien pour lui. On m'a reproché de ne pas m'être assez occupé de lui, mais c'était une maladie très grave et il était mal en point. J'ai usé de tout mon savoir, mais ça n'a malheureusement pas suffi."
+"C'était, il y a 3 ans."
+"Encore 7 ans. En tout, on m'a collé 10 ans pour ça. C'est particulièrement dur, parce que je suis innocente."
+"Le chef d'Umajo-Kenta n'est pas juge. Malheureusement, il se comporte comme s'il en était un. Manque de pot, il ne prend pas sa tâche très au sérieux. Si vous lui en parlez, il vous dira sûrement encore que je suis très certainement coupable. Mais il a en fait mauvaise conscience, car il sait bien qu'il a commis une injustice.^^Aidez-moi donc, je vous en supplie."{WORDAide}
+"Si vous voulez vraiment m'aider, alors laissez-moi sortir. La clé est suspendue à gauche de la porte de la geôle. J'arriverai bien à m'évader toute seule par la sortie principale.^^Une dernière chose, si vous deviez vraiment m'aider, ma gratitude vous est acquise!"{BLOK010}"Ce n'est pas nécessaire."{BLOK011}"Comment pouvez-vous nous aider?"{BLOK012}"Nous ne vous aiderons pas!"{WORDClé}
+"Qui sait, je pourrai peut-être faire quelque chose pour vous. Vous aurez peut-être encore besoin de mon aide."{WORDAide}
+"Je pourrai vous procurer des informations qui vous intéresseront sûrement."{WORDInformations}
+"Vous allez sûrement le regretter!"
+"Mhm, je pense que nous en parlerons le moment venu!"
+"En guise de reconnaissance, je vais vous rendre la pareille!"{WORDAide}
+"Très bien, dans ce cas, je vous raconte d'abord pourquoi je suis ici."{WORDPatient}
+"Oui oui, ça va. Allez demander."
+"Mhm, je pourrai sûrement vous aider. Mais pour ça, il faut que vous me rendiez un service."{WORDService}
+"Vous devez alors m'aider à quitter cette geôle."{WORDAide}
+"Je ne peux évidemment pas l'atteindre! Mais pour vous, c'est très facile. Elle pend juste à côté de la porte."
+"Ce dont j'ai vraiment besoin, c'est la clé qui est suspendue juste à côté de la porte de la geôle."{WORDClé}
+"C'est moi."
+"Merci beaucoup mes amis!^^Vous avez quand même un bon fond. Il faut que je veille maintenant, à ce que les gardiens ne me remarquent pas. Nous nous verrons en ville, et je vous manifesterai alors ma reconnaissance."

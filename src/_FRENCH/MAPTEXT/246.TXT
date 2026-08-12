@@ -1,0 +1,23 @@
+﻿-libre-
+Une porte.
+La porte coince, même si elle n'est pas fermée.
+Celui qui veut passer par les portes a le droit de passer par les portes!
+Cette porte ne s'ouvre pas manuellement.
+Un rideau magique.
+Il y a un trou dans le plafond. Mais il est trop haut pour que l'on puisse monter avec une corde.
+Ce champ n'est pas tout à fait pareil que ceux qu'on a pu voir jusqu'ici.
+Un escalier.
+"Qui vient me déranger? Qu'est-ce que vous faites là? C'est certainement Zebenno qui vous a donné la clé, ce vaurien. Ne me dérangez pas! J'ai assez de travail comme ça et je dois me consacrer à mes études. Juste un dernier tuyau du vieux Kossotto: Méfiez-vous des démons.^^Ahah."
+"Vous voilà enfin! J'ai déjà appris que vous me cherchiez. Et je sais que Sojekos m'a chargé de vous dévoiler un grand secret. Mais je ne vais pas le faire sans une compensation de votre part.^^Depuis longtemps déjà, nous essayons de comprendre le rituel pour ne pas tous être à la merci des Prêtres des Montagnes. Nous sommes déjà assez avancés, mais il nous manque cependant la formule magique essentielle. Nous ne pouvons plus nous montrer dans la Guilde des Mineurs, parce que nous avons déjà essayé de les espionner pendant leur rituel. Malheureusement en vain. Ils nous ont surpris plusieurs fois.^^Si vous parvenez à obtenir la formule magique et si vous me la donnez, je vous transmettrais le savoir, je le jure sur l'honneur."
+"Vous connaissez déjà la formule magique?"
+"Alors, cherchez-la, s'il vous plaît. Vous pouvez y arriver, parce qu'ils vous font encore confiance. Je trouve tout à fait équitable que vous nous rendiez ce service, à moi et aux autres Faiseurs d'Appareils, en compensation de la grande confiance que je vous témoigne en vous dévoilant ce secret."
+"La formule?"
+"Je ne peux imaginer que cette formule soit le puissant mot de passe du rituel."
+"Bonne Terre, bien sûr - c'est ça! J'aurais pu le trouver tout seul. Bien, promis c'est promis.^^Je vous remercie tout d'abord pour votre aide. Et je demande à l'un de vous de bien vouloir venir ici pour que je lui donne un parchemin et les explications nécessaires."
+{LEAD}{NAME} se dit prêt et rejoint Kossotto. Celui-ci lui remet un parchemin et lui donne ensuite une explication détaillée. Tous les autres écoutent attentivement, mais à part {LEAD}{NAME}, personne ne semble comprendre.^^Après quelque temps, Kossotto a fini et {LEAD}{NAME} donne aussi l'impression d'être complètement fini. En tout cas, un autre ingrédient important pour la création de la graine a été trouvé!
+"Je vous souhaite encore bonne réussite!"
+"Maintenant, je ne peux plus rien faire pour vous."
+"C'est 'Bonne Terre, ne me fais rien!'"
+"C'est 'Umajo Danu'"
+"Vous ne pouvez plus emmener le parchemin, parce que vous n'avez plus assez de place!"
+Un fût vide.

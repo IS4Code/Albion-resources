@@ -1,0 +1,9 @@
+﻿!
+"Salut! C'est gentil de passer!" {BLOK010}"Alors, comment te plais la vie ici en-dehors du Toronto?" {BLOK011}"Le documentaire avance?" {BLOK012}"Il faut qu'on y aille. A un de ces quatre, Joe!"
+"Fantastique! La planète dépasse en fait tout ce que tu as décrit, Tom. Je n'ai jamais été un amoureux de la nature, mais le spectacle offert ici est incroyable. Hofstedt et les bonnes gens ici s'occupent bien de moi, j'y tiendrai encore un petit moment!"
+"Parfait. Il y a tant de nouvelles impressions à retenir! Le plus difficile, c'est de couper le matériel de telle manière, que nos hommes à bord du Toronto réalisent déjà après quelques minutes de quel monde ravissant il s'agit en vérité. Il faut s'attendre à ce que l'IA essaie de perturber la diffusion."
+"Bon, salut. Tom, ne loupe rien!"
+"Salut! Ça devient sérieux, hein? Ecoutez-moi, je sais que je ne suis pas un grand guerrier, mais je peux certainement faire des choses bien utiles dans le Toronto, sur le chemin vers le réacteur. Si vous voulez, je suis de la partie!" {BLOK010}"Tu as raison, Joe. Tes connaissances peuvent peut-être nous aider. Viens avec nous!" {BLOK011}"Nous sommes encore en train de penser à la composition optimale du groupe. Attends encore, s'il te plaît."
+"Ca marche!"^^{INK 001}Joe rejoint le rang des compagnons.
+"Comme tu voudras. C'est peut-être mieux pour ma santé.^^A un de ces quatre."
+{INK 001}Le groupe est déjà au complet!{INK 002}^^"Eh, vous êtes déjà un paquet de gens. Il n'y a plus de place pour moi."

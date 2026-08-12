@@ -1,0 +1,26 @@
+﻿{BLOK000}"I am Stri Dji-Fadh, and the head of my guild."{WORDStri}{WORDDji-Fadh}
+ 
+"We see what we do here as a mixture of magic, art, and craft. We are one of the oldest guilds in Jirinaar and, as you surely know, we are able to create, change, and permanently modify plants into a desired form through magic. This means we can produce complete houses out of living plant material which are not only beautiful, but also perform all the functions necessary for the well-being of its residents." {WORDmagic}{WORDJirinaar}
+"Stri Akiir is head of our guild. He is an outstanding artist and magician who is devoted to our guild's needs. We all hope that some day he will become one of the Chosen." {WORDChosen}
+"We are all thoroughly shocked. Akiir's death is a great misfortune for our guild. The Dji- Kas are capable of a lot, but that? Unimaginable! Hopefully the Sebainah will take drastic measures.!"{WORDDji-Kas}
+"What a tragedy! Akiir's behavior is shameful. We suspect that knowledge of his impending death clouded his normally clear mind."
+"Sira is Akiir's only daughter. She joined the Dji-Kas, which made Akiir very angry." {WORDDji-Kas}
+
+"Oh, the seed throwers! I'm sure you've noticed that most of us do not have very friendly feelings toward the Dji-Kas. They often entice our greatest talents away with promises. Their craft lacks direction, dedication, and, apart from their healers, they are of no use to our society."
+"Our guild house competes with the council building for the title of most beautiful structure in Jirinaar. We are constantly maintaining and changing it, and we use it to demonstrate our knowledge, as you can see in the east wing." {WORDcouncil building}{WORDJirinaar}
+"He is the leader of the Dji-Kas."{WORDDji-Kas}
+"That murderer! He deserves to die, and nothing less!"
+"Since you have cleared the charges against him, he is chief of the Dji-Kas again."
+"He is Akiir's representative, a friendly and modest Iskai."{WORDIskai}
+"He has suffered greatly from Akiir's death. Hopefully, now that he is the head of our guild, his numerous tasks will distract him."
+"You can see that a great burden has been lifted from Bradir since you cleared up the complicated matter of Akiir's death."
+"I am sure the seed throwers plotted the murder! Who would have believed that their spiritual degeneration had gone so far!"
+"Well, I must confess that these events have shown how quickly one can come to hasty conclusions about the Dji-Kas."
+"You heard about that? Well, to be honest, Argim's story is an embarrassing part of our guild's history. ^ ^ He was head of the Dji-Fadh almost 150 years ago. At that time, the Dji-Fadh's guild house was located outside the city. It was a magnificent building near a Han, in the middle of the forest. Now, Argim was enormously talented, but he was also very fickle. This was the reason his greatest goal was rejected: to become one of the Chosen. ^ ^ When he found out he had been rejected, he lost control of himself. He swore to achieve immortality in spite of the rejection. In an irresponsible outbreak of his power, he destroyed the entire building and converted it into a strange place which today everyone avoids. They say he stamped his spirit on the place."{WORDHan}
+"There are places where the force of the Goddess is particularly strong and where magic acts are strengthened, yet often made difficult as well. This kind of energy center is called a Han." {WORDGoddess}
+dummy
+"Dsarii-ma and welcome to my guild, visitors. I've heard of your presence in the city. So, how do you like our guild house?"{BLOK010}"Not bad. A little chaotic, perhaps." {BLOK011}"A very impressive building. We are fascinated by your guild's art."
+"I don't know what accommodations you are used to, but maybe I really don't want to know! Obviously you lack any sense of aesthetics. I have things to do." ^ ^ {INK 001}Offended, Akiir turns away.
+"Your answer honors your sense of form. Personally, I believe buildings are the most important things a culture can produce, and creating them is the noblest art of all."
+"Dsarii-ma, visitors. You have something to discuss with me?"
+{INK 001}Akiir clearly indicates that he is no longer interested in talking.

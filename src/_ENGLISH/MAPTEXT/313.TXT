@@ -1,174 +1,174 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A cupboard.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿free
+A fireplace.
+A candlestick.
+A woven basket.
+A wooden table.
+A stool.
+A canopy bed. Because of the skulls, it could also be called a "Hell Bed."
+A writing table.
+A chair.
+A flaming fire burns in this column and shows a grimacing face in a dusky light. This gives the observer an anxious feeling.
+A column with a horrible grimacing face.
+A cot. Like most of the furniture here, it doesn't look very comfortable.
+A barrel.
+A carpet, woven of dried plant stems.
+A glass mug.
+Curtains.
+A chest.
+A cabinet.
+A torch.
+A number of incomprehensible manuscripts lie on the shelves.
+A large wooden tub.
+Large wooden shelves.
+This bed doesn't seem to be in use right now.
+Different cutting, stabbing, and shooting weapons; all which look extremely dangerous.
+A weapons shelf.
+A shield.
+An impaled skull. An unpleasant odor indicates that the horrible act happened recently.
+Battle capabilities are trained and tested on these straw dummies.
+A wooden pole wrapped with straw serves for training battle techniques.
+A bow and arrow target.
+A tray with foods.
+Herbs.
+A chest.
+A carafe.
+A ladle.
+A bucket.
+A spoon.
+A spoon and a fork.
+A drinking cup.
+A drinking cup.
+Eating utensils.
 A plate.
-A receptacle.
-
-
-
-
-
-
-
-
-
+A container.
+Vegetables.
+Cookies.
+A spice.
+A metal plate.
+A clay container.
+A large glass jar.
+A glass container.
+A wooden box.
+A large glass box.
 A bottle.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A tumbler.
-
-
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Note papers.
+A book.
+Several books.
+A book bound in leather. It looks valuable.
+Writing utensils.
+An open book. The left side has a technical drawing; the right side has descriptions of it.
+A short pencil.
+A heavy, short sword.
+A heavy dagger.
+A door.
+A huge kitchen stove for heating food and drinks.
+A wall hanging.
+Torn curtains.
+Shabby wooden beds.
+A decorated column.
+An animal pelt.
+Stairs going up.
+Stairs going down.
+Open drawers with small objects.
+A beaker.
+Fine shears.
+ A vial.
+A heavy sword.
+Vials.
+A magnifying glass.
+Large towels.
+A towel.
+A carpet.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+"We absolutely must try to get Khunag on his feet. ^ ^ He can probably give us good advice that we can use down here."
+{LEAD}{NAME} looks around. ^ ^ This is obviously an inhabited part of Khamulon.
+"We're in luck! The cave-in has led us directly to the inner region! We're near the main entrance. ^ ^ All the Kenget will immediately attack us here. ^ ^ I will give you directions to doors which lead us right to where they store the High Knowledge."
+The door is locked.
+"This is the main entrance to the inner region. The door is usually locked."
+Spell scrolls of the Kenget Kamulos lie here!
+{LEAD}{NAME} sees a crystal ax!
+Some powerful drinks are stored here!
+{LEAD}{NAME} sees an amulet here!
+"Don't go this way! This door does not lead to the room where the High Knowledge is stored."
+"This is the right door! It leads to the room of the High Knowledge!"
+"All doors leading from this hall go to the inner area's library rooms. They are usually well visited. ^ ^ Get ready for attacks!"
+"This is the anteroom to the storage place of the High Knowledge. ^ ^ We're just about there!"
+"This door leads to the sleeping rooms and is of no use to us. I believe we have to go north!"
+The door is latched.
+Arthor, the Master of Ceremonies; Rhain, who welcomed Tom and his companions to Khamulon; and Cuain, sit in the room behind the door! ^ ^ Baffled, the Kenget stare at the intruders.
+"What are you thinking! No impure person may enter this room. And no impure person will ever leave this room alive!"
+"Rhain, restrain yourself. Especially the impure must never make you lose your self-control."
+"Explain yourself. What do you want here? And how did you find your way in here!"
+"We were not admitted and therefore had to find our own way. It is important. Very important. Ultimately, it will affect your very existence and that of your order!"
+"Who are you, who is seeking death, that makes you speak here? And who are your companions?"
+"My name is Tom Driscoll and, like you, I come from the planet Earth. Only I was born there and came here in a sky-ship. My companions are friends who accompany me on my mission. Albion is in danger. The ship from which I came here has already begun to destroy your planet, noble Cuain. We need your High Knowledge in order to stop the destruction and destroy the ship."
+"You are a fool, Driscoll. For your heart is sincere, and does not feel the hate which accompanies you."
+"You have been betrayed, Earthling! The High Knowledge is here, but you will not get it. The Kenget will not flee from the final war that was prophesied long ago. It seems the time has come when Kamulos calls for the Last Battle."
+"I don't know what hate you mean, noble Cuain. But I do know that no one really knows who takes part in the Last Battle. And it has been said that men who were impure in life, may stand on the right side when they die a pure death. But no one knows whom of the living will be on the right side, when the time of the Last Battle comes. All of my companions want to save Albion. We stand on your side!"
+"Let us assume you are right, Earthling. Let us assume that in the Last Battle the Kenget will be joined by the just men, who have not conquered their anger, but stand for the right cause, whatever this may be. Let us assume that, to win the Last Battle, I must hand you our High Wisdom. Would I do this? Naturally I would!"
+"Let us further assume that in the Last Battle, the Iskai, even female Iskai and human beings will stand at our side. Then who stands on the other side? There aren't many left! Perhaps Khunag, the traitor? Yes, probably Khunag, right?"
+"But who do I see by your side? Did you think I wouldn't recognize you? You were able to change your face, traitor, but the lie in your eyes remains! Your cowardice, which poisons this room, remains!"
+"You have been deceived, Driscoll! You cannot be the messenger of the Last Battle! And even if you were, then you do not stand on our side! Why, Khunag, did you come here?"
+"What drives me, Cairnain? You know the answer! Who was it that set me up to murder the Cuain? I can still hear your voice: 'This is your order, Khunag. The task which Kamulos has assigned you. Go and slay Arghagh!' Revenge is what drives me, and that is the only reason I am here. You used me as your tool for power. The poor creatures here are mine. You will not spare them if you conquer me, but I will. And I will even give them the High Wisdom. And that is why they will still fight for me even though I have deceived them. Today, you will see your god."
+"What does that mean, Khunag?"
+"I'm sorry, Tom!"
+"None are interested in your lies, Khunag. Your sacrilege is irredeemable, just like your shame. You can fight this battle only with auxiliary troops. I've always been very suspicious about your means of fighting; always ensuring that your opponents die as painfully as possible. No, no one believes you here. But you're right, I will not spare your helpers when I have conquered you. Thus, you can see who is honorable here, Driscoll. I almost feel sorry for you, but you're on the wrong side."
+"We have nothing to do with your dirty intrigues!"
+"You are a fool, Driscoll, and you will always be a fool. For you are an instrument of my revenge. I loved Arghagh, but Cairnain drove us apart with his intrigues. He even succeeded in directing my good will against the Cuain. He used me for his purposes, just as I am now using you to avenge the old Cuain. I always knew that the traitor Cairnain was waiting for us in this room. But like I said: you will get your High Wisdom. If you help me one last time."
+"He might actually do that, Driscoll. He might give you the High Wisdom afterwards. However, I wouldn't be too sure if I were in your place. But there is no more time for idle conversation. No honorable word will ever come out of the Khunag's mouth. He has desecrated my sanctuary enough with his stinking statements. It is time for him to die. ^ ^ {FAT }Prepare to face Kamulos!"
+Fleeing is useless: Cairnain, the Cuain, now possessed by the god Kamulos, immediately attacks again!
+For a moment, silence reigns after the frightful battle. The two remaining Kenget Kamulos stare at the corpse of their Cuain, which is no longer possessed by the god Kamulos.
+"You... you have conquered the Cuain while he was possessed by Kamulos!"
+"For that you will die the three-year death, impure dog!"
+"Stop Arthor! You have seen what these fighters are capable of! Certainly they can be conquered if you call the others, but consider the consequences! {FAT } Kamulos {NORS} has been conquered in open combat by impure ones! The shock will be even greater for the others than for us."
+"By my honor, you are right!"
+"We will explain the death of the Cuain in an honorable way."
+"Impure ones, you have what you came for. You will remain alive in spite of your unspeakable deed. I will escort you out of Kamulos through an escape route. Never return to this place. Be silent about this event. Otherwise there is no place on this world where we will not find you."
+Rhain leads {LEAD}{NAME} and the companions silently through narrow passages up to a breach in the side of the mountain. Without any further words, he lets everyone step through the opening and closes the camouflaged door.

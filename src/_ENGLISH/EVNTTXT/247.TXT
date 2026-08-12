@@ -1,0 +1,12 @@
+﻿"{BLOK000} "It is my function to lead and coordinate the Council of the Just."
+"There you are again. Skeima Din, it's good that you dropped by. There are some disagreements in the council which have to be cleared up right now. Therefore, I don't have very much time to talk to you." {WORDdiscrepancies}{WORDrumors}
+"How can I explain it to you. One of our council members, Perron, believes that Gard and Riko are not making decisions for the good of the people. Now, Gard and Riko are somewhat inflexible sometimes. But still, that is a strong reproach by Perron, who sometimes acts too hastily. ^ ^ However, since Perron won't leave it alone, we've all gotten together and discussed the matter. That didn't make the mood around here any better. Gard and Riko are stubborn and maintain that they cannot and do not want to cooperate with Perron any longer. They don't respect him, but he really is an honest man and I'm not too sure about Gard and Riko. In any case, I'd rather be on Perron's side. If Gard and Riko stay obstinate, we can no longer work together reasonably in the council. Well, we have to deal with the problem somehow." {WORDGard}{WORDRiko}{WORDPerron}{WORDstubborn}{WORDmood}
+"Sometimes it's very difficult to cooperate with them."
+"Perron is very open and I know where I stand with him. Sometimes he overreacts a bit, but that's big problem."
+"Maybe Riko and Gard will still give in. Otherwise I'll have to think about another solution."
+"After the last discussion, it's not looking very good."{WORDdiscussion}
+"Unfortunately, this conversation has produced few useful results."
+"That's what our city is called."
+"That'th me."
+"Well, I'm still not sure if there is anything to it, but I have heard that horrible creatures keep coming out of that place. You better not go there. There is a taboo that forbids humans from entering this place, and also the Iskai run the shrine."
+"The council house is the most beautiful building in Beloveno. You should look around a bit. No one will stop you."

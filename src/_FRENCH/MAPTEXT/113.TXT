@@ -1,0 +1,225 @@
+﻿vide
+Aucun membre du groupe ne tient particulièrement à y toucher.
+Un grand canapé.
+Une grande armoire.
+Un gril.
+Un lit.
+Un fourneau.
+La couverture de lit.
+Couverts Iskais.
+Une assiette.
+Un récipient.
+Une saucisse.
+Un morceau de viande de style jambon.
+Une cuiller en bois.
+Herbes diverses.
+Fruits.
+Une spécialité carnée.
+Une timbale.
+Un bol.
+Une épice.
+Petites boîtes à épices.
+Un petit gobelet.
+Un couteau de cuisine.
+Pâtisserie.
+Plusieurs petites saucisses.
+C'est, d'après l'odeur, un flacon avec un liquide aux épices.
+Un torchon en tissu.
+Une serviette.
+Un seau.
+Une poêle à frire.
+Un pot.
+Dans ce chaudron, il y a un petit pot posé sur une grille, dans lequel on peut faire réchauffer doucement des aliments.
+Un coussin.
+Une grande poêle à frire.
+Une brosse à poils de bête.
+Une rigole.
+Un bassin.
+Une barrière d'eau.
+Une grande cruche en terre cuite.
+Une commode.
+Dans les compartiments de la commode, il y a un tas de petites bricoles superflues.
+Un coffre.
+Ce chaudron est assez gros. Il sert peut-être au stockage de provisions, d'eau ou d'aliments.
+Il y a une plante étrange dans ce bassin, qui pompe l'eau souterraine avec des mouvements de pulsation. Cette source sert manifestement à l'alimentation en eau.
+L'eau de cet étang sent mauvais et pourrit. Les eaux usées s'accumulent probablement ici.
+Plantes aquatiques.
+Petites plantes.
+Une plante exotique.
+Une plante rampante.
+Platzhalter für weitere Cutmap-Events.
+Un escalier. Il mène vers le bas, à travers le sol.
+Cet escalier mène vers le haut, à travers le plafond.
+Il s'agit ici vraisemblablement d'une sorte de lit. Il est garni de sable, qui offre un confort étonnant avec ses grains grossiers, mais arrondis.
+La forme énorme semble être une sorte de siège. Elle paraît végétale et vraisemblablement naturelle. La surface est douce et élastique.
+Le puits de la maison.
+Les rigoles servent apparemment à l'alimentation en eau potable. Elles traversent la maison comme des petits ruisseaux.
+L'odeur de moisi et les trous dans la forme permettent de déduire qu'il s'agit d'un W.C. Ce "meuble" est également d'origine végétale et prospère merveilleusement, sûrement grâce au dépôt régulier d'engrais.
+En ce lieu se règlent les vrais besoins urgents de ce monde.
+Dans cette poêle grésille un plat aux odeurs sucrées-épicées.
+Un siège.
+Une table en bois massif.
+Une grosse plante à feuilles.
+Une porte.
+Un couteau.
+Un stylet.
+Un poignard.
+Une dague.
+Un coutelas.
+Un couteau Iskai.
+Un poignard Iskai.
+Un stylet Iskai.
+Un coutelas Iskai.
+Un grand stylet Iskai.
+Une épée Iskai.
+Une grande épée Iskai.
+Une épée longue Iskai.
+Une lance Iskai.
+Une dague Iskai.
+Un petit stylet Iskai.
+Un grand stylet Iskai.
+Une grande épée Iskai.
+Un petit arc.
+Un arc.
+Une flèche.
+Une flèche longue.
+Un bouclier de cuir.
+Un petit bouclier Iskai.
+Un bouclier Iskai.
+Un grand bouclier Iskai.
+Un bonnet de cuir.
+Une bonnet de cuir Iskai.
+Un bonnet de métal Iskai.
+Un casque de métal Iskai.
+Un corselet Iskai.
+Un corselet de métal Iskai.
+Une armure légère Iskai.
+Une armure Iskai.
+Une bouteille vide.
+Une potion de soins verte.
+Une potion de soins turquoise.
+Une potion de soins bleue.
+Une potion rouge.
+Une potion violette.
+Une potion bleue.
+Une clé.
+Une corde.
+Une torche.
+Un bloc-notes Iskai.
+Un morceau de papier.
+Un classeur Iskai.
+Un bloc spirale Iskai.
+Un crayon.
+Un petit crayon.
+Un banc.
+Ce meuble aussi a littéralement poussé du sol et c'est un banc confortable.
+Un pieu en bois. En haut de celui-ci est accroché un panneau.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+Paltzhalter für weitere Cut-Map-Events.
+"Dsarii-ma, visiteurs du conseil."
+"Dsarii-ma. Je suis un simple scribe qui a beaucoup trop de travail. Excusez-moi, s'il vous plaît, honorables visiteurs."
+"Dsarii-ma. J'appartiens à la cellule du conseil pour l'exploitation des fleuves. Je ne crois pas que nous ayons grand chose à nous dire."
+"Dsarii-ma. Excusez-moi, la Sebainah m'a chargé de quelque chose qui ne souffre pas de retard."
+"Dsarii-ma. Si vous voulez, comme beaucoup d'étrangers, parler au Sebai Giz Frill, vous le trouverez dans son atelier dans l'aile orientale du bâtiment.^^Il est cependant souvent en voyage."
+"J'appartiens à la cellule du conseil pour les affaires matrimoniales. C'est parfois une lourde tâche, car les émotions priment souvent sur les arguments. Mais excusez, je parle trop, vous avez certainement autre chose à faire."
+"Dsarii-ma. Je vous suis certainement peu utile. Je suis un assistant de Vris et je m'occupe de l'entretien du bâtiment."
+"Dsarii-ma. Admirez les plantes merveilleuses dans la salle de réunion, elles sont sous mes soins!"
+Cette porte donne sur l'extérieur.
+{FAHI}- S E Q U E N C E S C R I P T -{NORS}^^ Tom et Rainer courent dans la salle de réunion, la fête est brusquement interrompue par le meurtre d'Akiir. L'équipe reçoit la mission d'élucider le meurtre. ^^Maintenant sont placés les bits qui signalent la situation après l'attentat! ^^Drirr adhère à l'équipe! ^^Puis on annonce que le meurtrier en fuite a été aperçu près de la maison de la Guilde des Dji-Kas. Tout le monde se met en route...
+Sonné, Tom arrive au bâtiment du conseil où il reçoit les premiers soins...
+Sonné, Rainer arrive au bâtiment du conseil où il reçoit les premiers soins...
+Bradir a l'air calme et serein lorsque la Sebainah lui parle.
+"Bradir, expliquez-nous votre réaction surprenante en voyant l'arme antique que le meurtrier portait sur lui."
+"Sebainah, le poignard était une partie de la solde du meurtrier. Il m'appartient. En le voyant, j'ai complètement craqué.^^ Je suis heureux que ce soit terminé."
+"Vous voulez dire que VOUS étiez le commanditaire? VOUS avez fait tuer Akiir, votre ami adoré?"
+"Non, par la Déesse! Ce n'est pas moi qui ai payé le meurtrier!"
+"Mais vous connaissez le commanditaire?"
+"Oui, Sebainah.^^C'était... Akiir lui-même."
+{CNTR}"QUOI?"
+{CNTR}"IMPOSSIBLE!"
+{CNTR}"Ce n'est pas possible!"
+"Je sais que Bradir était l'ami le plus proche et le plus sincère que mon père ait jamais eu. Laissons-le poursuivre."
+"Akiir savait depuis un an qu'il avait une maladie incurable. Il avait encore six mois à vivre, au plus. Quand il a appris la décision de Sira de partir pour la Guilde des Dji-Kas, il a changé à vue d'oeil et il est devenu de plus en plus imprévisible.^^ Il y a quelque temps, il est venu me voir avec ce plan de meurtre monté de toutes pièces. En dehors de la vengeance contre Fasiir, il voulait obtenir ainsi le départ de Sira de la Guilde des Dji-Kas.^^J'ai essayé pendant des jours de l'en dissuader, mais il n'a pas voulu en démordre. Il a fait appel à moi en tant qu'ami, avec honneur, pour accomplir sa dernière volonté. Je... je n'ai pas eu le choix!^^ Il a soudoyé le Dji-Kas Kriis avec une somme absurde et a chargé un assassin du peuple d'humains Kenget Kamulos de ce meurtre. Pour se débarrasser du meurtrier, le vieux centre de notre Guilde a été choisi comme point de rencontre, dans l'espoir que les fauves se chargent de faire disparaître le dernier témoin.^^ Ces dernières semaines ont été les pires de ma vie. Je suis tout à fait disposé à me soumettre à l'épreuve d'un Tri-Nadh, pour prouver ma bonne foi."
+Un long silence s'installe, alors que tout le monde essaye de digérer ce qui vient d'être dit.^^Sira, fille d'Akiir est la première à reprendre la parole:
+"Je connais Bradir depuis mon enfance, en tant qu'ami de notre famille. D'après moi, il n'a pas inventé tout ça. J'ai aimé mon père, mais je sais à quel point il pouvait être têtu. Dans ces conditions extrêmes...^^ Il a très bien pu réagir ainsi. Et ça à cause de MOI, oh, Déesse.^^ Je crois tout ce que Bradir a dit."
+"Moi aussi, je suis disposé à croire Bradir. Il est libéré des soupçons de meurtre.^^Retournez à votre Guilde, Bradir, vous avez certainement des explications à leur donner.^^Accusé à tort, Fasiir est immédiatement réhabilité.^^Kriis, le Dji-Kas soudoyé, devra répondre de sa trahison."
+"Notre devoir d'élucider le meurtre a-t-il ainsi été accompli, Sebainah Janiis?"
+"Parfaitement. Je vous remercie, hommes, et vous aussi, Drirr, pour avoir fait la lumière sur cette affaire.^^Maintenant, plus rien ne s'oppose à la poursuite de votre voyage."
+"Nous faisons une bonne équipe. Tom et Rainiir, si vous voulez, je vous accompagnerai dans votre voyage. J'ai envie de sensations fortes."
+"Mais bien sûr, Drirr! Je suis heureux de vous avoir avec moi!"
+"Tom et Rainiir, j'ai toujours été impulsif dans mes décisions.^^Moi aussi, je voudrais bien me joindre à vous pour un moment. Après ce qui s'est passé ici, je voudrais avoir un peu de recul par rapport à tout ça.^^Un voyage me fera du bien, et mes modestes talents magiques pourront certainement vous être utiles. Qu'en dites-vous?"
+"Vous êtes bien sûr bienvenue, Sira! Nous avons probablement encore un long voyage devant nous, et plus on est nombreux, mieux c'est!"
+"Même si le plan tragique d'Akiir me rend triste, je suis tout de même heureux que tout soit clarifié.^^Tom et Rainiir, vous êtes toujours les bienvenus à Jirinaar. Quand vous serez prêts à repartir, dites-le moi. ^^La séance est levée."
+Tom, Rainer, Drirr et Sira quittent la salle de la Sebainah.
+Tom et Rainer arrivent juste à temps dans le bâtiment du conseil.^^Dans la salle de réunion, Tom et Rainer tombent sur un petit groupe d'Iskai.^^ La Sebainah les salue:
+"Dsarii-ma, Tom et Rainiir, bienvenue à notre petite réunion.^^Puis-je vous présenter Akiir. C'est le chef de la Guilde des Modeleurs, ou Dji-Fadh, comme nous disons."
+"Dsarii-ma."
+"Et voici un membre du conseil..."
+La Sebainah est brusquement interrompue, lorsqu'un personnage masqué se précipite dans la salle.^^Choqués, Tom et Rainer remarquent qu'il s'agit d'un homme!
+Avant que quelqu'un puisse réagir, l'homme tire une petite flèche sur Akiir, qui s'effondre!
+"Stiriik! Attrapez cet homme!"
+"Akiir est mort. Qu'il vive dans la Déesse."
+"Le meurtrier s'est échappé par une fenêtre, Sebainah! Nous allons fouiller la ville!"
+"Nous devons faire vite. Envoyez chercher Drirr, le Stiriik pour les affaires humaines!^^ Vénérables membres du conseil, Briid, mon neveu, je vous prie de partir maintenant. Je suis désolée que la fête ait pris une tournure si tragique. ^^Tom et Rainiir, je dois vous parler."
+"Dsarii-ma, Sebainah Janiis."
+"Dsarii-ma, Drirr. Vous avez déjà été mis au courant de l'attentat contre Akiir?"
+"Je suis au courant. Quel choc!"
+"En effet!^^Drirr, vous avez certainement déjà entendu parler de nos visiteurs, Tom et Rainiir. Ils sont étrangers dans ce monde et ont particulièrement besoin de votre aide pour élucider ce crime."
+"Je vais faire de mon mieux pour les assister, Sebainah.^^Tom et Rainiir, je suis désolé de devoir faire votre connaissance dans ces conditions."
+"Dsarii-ma, Drirr. Nous sommes un peu dépassés par les événements."
+"Je veux bien le croire. Nous devrions peut-être d'abord échanger quelques mots avec Sebai-Giz Frill. Il peut certainement nous apprendre quelque chose sur la race humaine, à laquelle le meurtrier appartient.^^Allons dans sa pièce, il a sûrement déjà été mis au courant."
+"Drirr! Le meurtrier a été aperçu près de la maison de la Guilde des Mages Dji-Kas!"
+"Une trace! Allons tout de suite chez les Dji-Kas!"
+Tout le monde se hâte de rejoindre la maison de la Guilde des Mages.
+"Cette porte donne sur la pièce du chef de la ville, la Sebainah Janiis.^^ Je vais maintenant prendre congé de vous."
+"Tom et Rainir, l'heure est grave. Certains vont anticiper le jugement et vous soupçonner d'être impliqués dans le meurtre, juste parce que vous êtes des hommes. Je ne connais pas bien votre race, mais je suis d'avis que vous êtes horrifiés autant que moi face à cet événement."
+"Janiis, personne en fait ne nous a dit qu'il existe des HOMMES vivants dans ce monde! Nous sommes en train de nous remettre de ce choc!"
+"Vous ne le saviez pas? Mais je pensais...^ Vous avez dû mal comprendre ce que j'ai dit lors de notre première conversation. Vous auriez fait connaissance avec vos semblables sur l'île sur laquelle on voulait vous emmener."
+"Vous parlez comme si vous ne pouviez plus tenir votre offre après cet événement."
+"Parfaitement. Je dois malheureusement vous apprendre une partie des lois de notre peuple, qui gagnent de l'importance pour vous, après cet événement. Pour tenir compte du caractère souvent indiscipliné de nombreux Iskais, il existe une loi de la responsabilité des Clans. Dans les faits, la famille entière d'un criminel est tenue responsable pour le crime de celui-ci, afin de dissuader les malfaiteurs.^Si les Stiriik ne confondent pas tout de suite le malfaiteur, il appartient à la famille de trouver leur membre rebelle ou d'élucider le crime d'une autre manière. Ils sont cependant soutenus et contrôlés par au moins un Stiriik.^^Comme vous êtes les seuls hommes à Jirinaar, vous remplacez la famille. Vous êtes maintenant obligés d'élucider ce meurtre et de trouver les coupables. Je ne puis vous autoriser à poursuivre votre voyage qu'une fois la tâche accomplie."
+"Mais nous sommes toujours des étrangers dans ce monde. Comment pouvons-nous trouver les coupables?"
+"C'est pourquoi j'ai envoyé chercher un Stiriik compétent. Il va vous aider dans votre tâche."
+"Il ne semble pas qu'on ait vraiment le choix, non?"
+"Non, malheureusement. Je ne peux pas ignorer la loi, mais seulement vous souhaiter bonne chance pour votre chasse au meurtrier en fuite, et de ses commanditaires.."
+"Vous êtes sûre que ceci a été commandité par quelqu'un?"
+"Sans aucun doute. Les meurtriers appartiennent à un peuple d'humains célèbres pour ses assassins. Ces gens tuent rarement pour des motifs personnels. ^Vous devriez vous entretenir avec Frill, il est encore au palais, d'aprèsce qu'on dit. Il est certainement déjà en route pour nous rejoindre. ^^Ah, ça y est, voilà Drirr, le Stiriik qui va vous accompagner."
+{CNTR}{INK 001}Le panneau indique:{INK 006}^^Atelier du Sebai-Giz Frill {INK 006}
+{CNTR}{INK 001}Le panneau indique:{INK 006}^^Atelier de la Sebainah Janiis, chef de Jirinaar
+Drirr se joint à Tom et Rainer.^^Ensemble, ils entrent dans l'atelier du savant Frill, qui est juste de retour d'un long voyage.^^Drirr raconte qu'il passe pour le plus ancien Iskai de Nakiridaani, et qu'il dispose d'un énorme savoir.
+"Pourvu que les Stiriik de la garde urbaine trouvent bientôt une trace du meurtrier.^^Nous devrions peut-être aussi sillonner les rues de la ville."
+Tout le monde court à grand pas vers la maison de la Guilde des Mages de Jirinaar, les Dji-Kas.^^ Le meurtrier est introuvable dans la rue, nous entrons donc dans la maison...
+"Cette Sebainah semble être la chef. Je me demande bien ce qu'elle nous veut."
+Bradir est transporté rapidement chez la guérisseuse.^^Une fois qu'elle a pris soin de lui, une réunion a lieu dans le bâtiment du conseil, dans la salle de la Sebainah, où Bradir doit expliquer son comportement.^^ Avec Tom, Rainer et Drirr, Sira a été convoquée car elle est la fille d'Akiir.

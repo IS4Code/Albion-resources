@@ -1,0 +1,16 @@
+﻿{BLOK000}"Je suis, comme je vous l'ai déjà dit, le roi de Klouta."
+"Togi Din, voyageurs. Je suis le roi de tribu de Klouta." {BLOK010}"Togi Din, Tharnos. Nous sommes à la recherche d'un immense vaisseau métallique venu du ciel. Vous avez peut-être entendu parler d'un pareil incident?"{WORDKlouta}{WORDRoi de tribu}
+"Ah, ah, ah, vous avez perdu la raison? Excusez-moi, mais ça fait longtemps que je n'ai entendu de sottises pareilles. Vous devriez vous faire soigner par les druides d'Arjano, Ha ha, ah!"{WORDDruides}{WORDArjano}
+"Togi Din. Ah, encore ces voyageurs farceurs!"{WORDTraversée}
+"Je suis le chef de la Tuath de Klouta et l'homme le plus important ici. Tout ce que je décide est fait!"{WORDTuath}
+"Vous avez du mal à comprendre? Je suis le chef de tous les gens ici!"
+"Bon, vous voulez déjà quitter Klouta? Garris, le pêcheur, est un marin expérimenté, et il pourrait vous emmener en toute sécurité à Maini. Mais, pour ça il a besoin, et par conséquent vous aussi, de mon autorisation. Hé bien, je pourrais bien sûr vous accorder une telle autorisation. Vous pourriez, par contre, me rendre un petit service. Vous, en tant qu'étrangers, vous convenez mieux que quelqu'un de la région, car il s'agit d'une affaire qui exige beaucoup de discrétion. Vous devez me promettre de garder le silence absolu sur cet entretien!^^ Alors, voilà de quoi il s'agit: chez nous, on demande au roi d'être en pleine possession de ses capacités mentales et surtout physiques, car sinon il porte malheur à la Tuath. Il se trouve que ma femme et moi, nous attendons de la progéniture depuis longtemps. Nous commençons à perdre patience, comme le rassemblement des hommes en armes.^^C'est pourquoi, je voudrais acquérir une amulette des druides d'Arjano, qui puisse soutenir ma virilité. Vous comprendrez que je ne chargerais un de mes hommes de cette mission ou me rendrais moi-même à Arjano qu'à contrecoeur. Allez voir Bero, le druide et demandez-lui une amulette fortifiante. Rapportez-la moi, et je vous autoriserai à poursuivre votre voyage."{WORDDruides}{WORDArjano}{WORDTuath}
+"Non, non, étrangers! Nous avons conclu un accord! Rapportez-moi d'abord l'amulette de Bero, le druide, et puis on verra!"{WORDDruides}
+"Ah, ah, vous voulez encore me faire des farces? Ca fait longtemps que je vous ai déjà accordé mon autorisation! Allez voir avec ça, par exemple Garris, le pêcheur, et plus rien n'empêchera votre voyage!"
+"Ah, quelle joie! Vous avez eu l'amulette! Moi aussi, je vais tenir parole et vous notifier une autorisation. Vous voyez, vous avez fait une bonne affaire avec cette petite course!"
+"Exact, vous devez me procurer une telle amulette."
+"Une amulette excellente! Je sens déjà de nouvelles forces envahir mon corps!"
+"C'est mon nom."
+"Hé bien, si c'est comme ça, on devrait repartir au plus vite pour Maini, la grande île à l'est d'ici. Pouvez-vous nous dire si nous pouvons effectuer une telle traversée en bateau à partir d'ici, ô Tharnos?"
+"C'est le meilleur marin du village. Vous le trouverez dans sa cabane dans le coin nord-ouest de Klouta."
+"C'est le nom du grand pays à l'est de nous."

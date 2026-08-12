@@ -1,0 +1,15 @@
+﻿{BLOK000}"Je suis mage des Kenget Kamulos, mais j'ai pris mes distances par rapport à eux, et je mène maintenant ma propre vie."
+"Skeima Din,^^Vous parlez à Khunag. Que voulez-vous de moi? Je n'aime pas trop être dérangé. A moins que vous ne vouliez me parler d'une affaire importante."{WORDAffaire}
+"Skeima Din,^^ne me dérangez seulement si vous avez vraiment besoin de moi."{WORDAffaire}
+"Vous voulez me voir pour quelle affaire?" {BLOK010}"Pouvez-vous nous procurer de précieuses informations?" {BLOK011}"Vous avez l'air d'un mage savant." {BLOK012}"Nous cherchons un entraîneur." {BLOK013}"Que pensez-vous de la situation politique dans cette région?" {BLOK014}"Nous ne voulons pas vous déranger plus longtemps."
+"Non. Pourquoi devrais-je?"
+"Continuez à chercher. Je ne suis pas entraîneur."
+"Je ne vois pas de problèmes particuliers. Des désaccords occasionnels sont tout à fait normaux. Ou avez-vous une autre définition de problèmes?"
+"Skeima Din."
+"Bien vu. Je ne veux pas le cacher, je suis vraiment mage. Mais les temps, où j'exerçais mon métier, sont terminés. Néanmoins, mes pouvoirs magiques sont plus forts que jamais. Pourquoi ça vous intéresse-t-il autant?" {BLOK010}"Quelqu'un doté de pouvoirs comme vous nous serait bien utile pour notre voyage."
+"De quel genre de voyage s'agit-il?" {BLOK010}"Hé bien..."
+Ainsi, Tom relate les étapes les plus importantes de leur voyage et expose les objectifs futurs.^^"Une idée excitante de pouvoir visiter le vaisseau mère. Je me joindrais bien à vous, du moins pour un certain temps, si vous voulez que je vous accompagne."{BLOK010}"Mais avant, nous voudrions en apprendre un peu plus sur vous." {BLOK011}"Nous sommes contents si tu viens avec nous." {BLOK012}"Nous allons réfléchir à votre proposition."
+"Vous n'avez pas besoin de tout savoir sur moi. J'ai grandi ici et puis j'ai longtemps été chez les Kenget Kamulos. De cette époque viennent mes pouvoirs magiques. Mais ça fait longtemps que je vis ici ma vie et je peux faire tout ce que je veux.^^Je vais bien sûr vous aider avec ma magie, si je vous accompagne." {BLOK010}"Si tu veux, tu peux venir avec nous!" {BLOK011}"Nous allons réfléchir à votre proposition."
+"Dites-moi quelle est votre décision."
+"Bien, je viens avec vous."
+"Je crois que votre groupe est déjà assez grand."

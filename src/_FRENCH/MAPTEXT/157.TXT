@@ -1,0 +1,59 @@
+﻿vide
+Un petit interrupteur mécanique.
+Un interrupteur.
+Un immense levier d'interrupteur.
+Des structures semblables au verre sont encastrées dans le sol.
+Une porte.
+La porte est solidement verrouillée, il n'y a aucun verrou apparent.
+Une herse baissée. Elle n'a pas de verrou.
+Un puits rempli d'eau claire.
+Une flamme incandescente sort d'un disque en cuivre visible au sol.
+Un disque en cuivre sur le sol.
+Un disque en cuivre avec une grande ouverture.
+Une flamme baladeuse. Elle émet beaucoup de chaleur.
+Un mur transparent en matériau très solide.
+Ceci semble être une sorte de champ magnétique. Il émet un son à peine audible, les cheveux se dressent quand on s'approche et une douleur aiguë traverse les dents.
+Un gros trou dans le sol.
+Une ouverture est visible au plafond.
+Une colonne de pierre avec une partie creuse.
+Un feu brûle à l'intérieur de cette colonne de pierre.
+La porte est fermée.
+Un vieux fût.
+Un vase couvert de poussière. {LEAD}{NAME} jette un oeil à l'intérieur, mais ne trouve rien.
+Un coffre orné de métal.
+Un tas de bric-à-brac. {LEAD}{NAME} fouine un peu là-dedans, mais ne trouve rien d'utile.
+L'interrupteur ne bouge plus.
+Le mur paraît friable à cet endroit.
+{LEAD}{NAME} donne de grands coups contre le mur. Il s'écroule!
+{LEAD}{NAME} remplit un seau d'eau.
+{LEAD}{NAME} marche dans la flamme et se brûle!
+{LEAD}{NAME} verse un seau d'eau sur les flammes et les éteint!
+Une autre flamme est éteinte.
+{LEAD}{NAME} entre dans le champ magnétique et aussitôt une douleur terrible traverse son corps! Après quelques secondes qui semblent interminables, l'apparition lumineuse s'effondre.
+Le champ magnétique s'effondre lors du contact avec la baguette! La baguette, elle, tombe en poussière.
+Tout le monde peut se hisser vers le haut à l'aide de la corde!
+Une boule de feu volante. Elle émet une chaleur insupportable.
+Brusquement, tous ressentent une douleur insupportable, comme une brûlure: une boule de feu s'est approchée très près!
+"Incroyable. Je ne comprends pas tout à fait ce qui maintient la boule de feu en l'air. Est-ce une bulle de gaz en feu? Mais comment peut-elle être aussi solide, alors? Mystère."
+"Je commence à douter de ma raison! Ce champ ne semble pas être d'origine électrique et il n'y a pas non plus de source d'énergie apparente. Zut, mais qu'est-ce qui peut bien l'alimenter? Cette planète semble avoir été créée pour remettre en cause les fondements des sciences naturelles."
+Méfiez-vous! Ces structures en verre sont utilisées à des fins diverses et variées. Elles déclenchent, souvent en relation avec des apparitions de feu, des mécanismes cachés.
+Structure de sol activée.
+Ce mur est traversé par de nombreuses failles profondes.
+Saleté 
+Platzhalter
+Platzhalter
+Platzhalter
+Platzhalter
+Platzhalter
+Platzhalter
+Platzhalter
+Platzhalter
+Dans cette zone règne une chaleur étouffante. Le sol de la pièce est partiellement rougi, ces endroits émettent une chaleur mortelle.
+Une partie du sol chauffée au rouge. Elle dégage une chaleur intense.
+{LEAD}{NAME} et ses compagnons marchent dans la masse chauffée au rouge! Aussitôt une douleur aiguë traverse leurs jambes!
+Marchés dans la lave!
+{LEAD}{NAME} entre dans l'apparition lumineuse et tout ce qui l'entoure sombre dans la douleur! Une décharge se produit et atteint tous ses compagnons!
+L'apparition lumineuse émet un léger grésillement. Déjà, à proximité du champ lumineux, on ressent une douleur vive dans les os, plus encore que dans les parties interdites de l'université des druides.
+"Cette énorme flamme là-bas ne me plaît pas du tout..."
+Le mur s'enfonce d'un coup dans le plafond!
+Sous le bric-à-brac apparaît quelque chose de précieux!

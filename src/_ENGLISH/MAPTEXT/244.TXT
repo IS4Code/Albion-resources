@@ -1,30 +1,30 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿-free-
+The exit.
+{LEAD}{NAME}says "We won't get very far this way" and points to the ground. Now it becomes obvious to the others that the track stops right at the entrance. However the tunnel is easily accessible on foot.
+"Wow, I believe we just ran through a wall! It was probably just an illusion. But, boy, it sure looked real."
+A chest.
+A staircase.
+There is a hole in the ceiling.
+The hole, into which Tom and the others have fallen, is too high to be able to climb back up with a rope.
+A door.
+A table with a chest.
+A hot flame.
+"Ouch!" 
+"The door has opened!"
+This door cannot be opened with a key.
+A button on the wall.
+A pitfall.
+An iridescent, magic curtain.
+This door cannot be opened with a key.
+The handle sticks!
+A contact plate.
+{CNTR} An inscription on the wall. ^ {INK 006}{FAT } Get back!
+A handle.
+{LEAD}{NAME} discovers a hidden button on the wall!
+No lock, no latch, and no switch can be seen. The door probably can only be opened using some hidden mechanism. The colors of the flames are reflected very differently in the door. Red and green tones are very noticeable. But, the blue tones cannot be seen at all. The door is probably light-sensitive.
+"Look! ^ This wall has some kind of rail mechanism around the edge. It looks really peculiar. I guess it can be lowered from a lever in the floor. It also has a fireplace. Perhaps a fire energizes the mechanism. ^ ^ I really believe that walls like this can be controlled by the many levers."
+"Now what has this lever done? It is probably connected to one of these rail walls."
+"There is some kind of spring here."
+A terrifying noise is coming from the north. It sounds as if a hole were being drilled into the ground.
+"Did you hear that grinding? I believe that it came from the room where we came in."
+A wall on rails.

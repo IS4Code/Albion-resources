@@ -1,0 +1,4 @@
+﻿{BLOK000}"Je m'occupe du bâtiment du conseil et du bien-être de ses habitants. Je m'occupe du ravitaillement en provisions de toutes sortes et veille à l'entretien du bâtiment."
+"Dsarii-ma et bienvenue au bâtiment du conseil."
+"Dsarii-ma! Quel acte horrible que vos congénères ont perpétré dans cette maison respectable! Et en plus, j'avais presque attrapé l'homme en fuite!" {BLOK010}"Vous avez vu quelque chose lors du meurtre qui pourrait nous aider, Vris?"
+"Non, sauf peut-être que le meurtrier s'est enfui en direction du sud-ouest.^^ Et il avait cette odeur étrange, cette odeur de graine. J'ai vérifié toutes les épices de ma cuisine sans trouver quelque chose de semblable."

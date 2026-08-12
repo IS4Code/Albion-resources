@@ -1,0 +1,124 @@
+﻿ 
+Une boîte à fusibles.
+Un fauteuil.
+Une chaise longue.
+Le tableau de contrôle pour le réacteur atomique.
+Un panneau de service.
+Une console de contrôle.
+Une console de contrôle de vol.
+Un tableau de contrôle.
+Un W-C. chimique.
+Une armoire.
+Un évier.
+Serviettes.
+Nécessaires pour se laver les dents.
+Un témoin de surveillance de couloir.
+Témoins de contrôle.
+Une partie du réacteur.
+Fûts d'ordures, d'eau, de poison et de matières premières.
+Une console éteinte.
+Une lampe.
+Une assiette.
+Un verre.
+Un gobelet.
+Un récipient.
+Une bouteille.
+Un pot.
+Une boîte.
+Un récipient.
+Une salière et un poivrier.
+Sauce au soja.
+Un pot.
+Une petite boîte.
+Une pelle.
+Une bêche.
+Une clé plate.
+Un tournevis.
+Une console manuelle.
+Une ADP. (Assistance Digitale Personnelle)
+Une tenaille.
+Des couverts et un gobelet.
+Vaisselle.
+Une porte automatique.
+Une navette.
+Container.
+Une douche.
+Un véhicule.
+Marquages au sol.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Un sas immense.
+Cette lucarne dotée d'un filtre puissant permet de voir directement le coeur du TORONTO: le réacteur de fusion. Les forces maîtrisées d'un soleil couvrent l'énorme besoin en énergie de l'installation.
+La table de contrôle du réacteur.
+"Je veux parler de cette console, Tom. Si tu croises bien les doigts pour moi, je pourrais essayer de couper Ned, l'I.A, de l'alimentation en énergie. J'essaye tout de suite?"
+Joe doit-il essayer de manipuler la console? {BLOK000}Oui, essayons! {BLOK001}Non, juste un moment.
+"N'attendons pas trop longtemps. Je n'ai pas envie de me faire prendre."
+"Jusqu'à là ça a été. Essayons maintenant de ramener la graine jusqu'au réacteur. Je suis vraiment curieux de savoir ce qui se passera..."
+"Dois-je démarrer maintenant?"
+"C'est le réacteur! Regarde un peu cette lumière! Ils ont intégré une sorte de lucarne qui laisse passer seulement un millième de la lumière créée lors de la fusion. Un spectacle fantastique!"
+Joe se met au travail.
+"Voyons... Je ne suis pas un spécialiste de ces consoles, mais ceci devrait..."
+Tout à coup, Joe est interrompu par une voix sortant du haut-parleur!
+"Tom Driscoll, Joe Bernard, je vous somme de cesser immédiatement toute manipulation sur la console de contrôle.^^Plusieurs agents de la sécurité sont déjà en route pour vous rejoindre. Il faut que je vous fasse arrêter. N'opposez aucune résistance, les agents de la sécurité sont armés."
+"Mer-de! L'IA!"
+"Ned! Vous et Brandt, vous pensez vraiment pouvoir occulter la vérité sur cette planète?"
+!
+"Je dis tout simplement: oui.^^Les conditions sont favorables et les chances sont bonnes. L'existence de la société justifie un certain engagement."
+"{FAT }QUOI?{NORS} Vous nous dites en face que vous voulez délibérément détruire ce monde?^^Je..."
+"Qu'est-ce qui se passe avec cap'tain Brandt? S'il ne peut pas prouver ce qui s'est passé exactement pendant le vol, il perd sa licence à vie!"
+"C'est exact. Le Capitaine Brandt va se soumettre par la suite à un examen. DDT sera bien sûr obligé à ce moment-là de le licencier.^^Il va devoir finir sa vie comme le chômeur le plus riche des temps modernes.^^Je vais malheureusement devoir vous mettre tous les deux sous les verrous jusqu'à la fin de la mission. Ne vous inquiétez pas, vous aurez tout pour être à l'aise."
+"Mais bien sûr. Quand les poules auront des dents.^^Joe?"
+"Oui?"
+"On dégage. Au pas de charge."
+Tom et Joe se précipitent hors de la salle du réacteur! Ils fuient vers un sas dans la zone de l'infirmerie qui donne sur l'extérieur.
+Une porte automatique.
+"Eh, nous avons quelque chose à régler ici, tu te souviens? Tu ne veux tout de même pas sortir déjà d'ici?"
+Parties du réacteur.
+Tom se remet un peu lorsque ses compagnons pénètrent dans la salle du réacteur.
+"Jusqu'à là ça a été. Essayons maintenant de ramener la graine jusqu'au réacteur. Je suis vraiment curieux de savoir ce qui se passera..."
+"C'est raté. Le cirque est terminé, Driscoll. Déposez les armes!"
+"Colonel Priver! Laissez-moi vous expliquer..."
+Les Sécus réattaquent tout de suite.
+"Diable.^^J'ai passé des nuits entières avec plusieurs de ces hommes à jouer aux cartes.^^Diable."
+"Allons dans la salle du réacteur."
+"Punaise, heureusement qu'il n'y ait pas eu de combat pour une fois. Je connaissais personnellement plusieurs de ces hommes.^^O.K., allons dans la salle du réacteur."
+Le colonel Priver et ses hommes quittent la salle.
+Ses compagnons croient déjà toucher au but, c'est alors qu'ils aperçoivent un cylindre tout noir devant le noyau du réacteur. Juste un voyant de contrôle rouge et un appareil monté provisoirement sur le côté interrompent sa surface lisse.
+"C'est le véritable boîtier de l'IA!"
+"Très juste. Après avoir démontré votre disposition à employer la violence et vos penchants terroristes par votre attaque contre Le colonel Priver et ses hommes, je me vois dans l'obligation d'empêcher personnellement la destruction délibérée de propriété privée."
+"Très juste. Après que Le colonel Priver et ses hommes n'aient pas respecté leur contrats de travail, et ceci de façon illégale, je me vois dans l'obligation d'empêcher personnellement la destruction délibérée de propriété privée."
+"Ce... fût doit être dangereux pour nous? Je ne peux pas le croire!"
+"Je ne sais pas, le machin sur le côté du cylindre me semble être un laser haute performance..."
+{CNTR}{FAHI}L'IA attaque!
+Suit maintenant un combat entre l'équipe et L'IA abrité dans son boîtier indestructible et armé d'un laser. Si 2 membres de l'équipe ont perdu connaissance et que l'équipe se démoralise déjà, la GRAINE commence à briller. si on l'emploie maintenant, la séquence finale suivante apparaît.^^La séquence finale est en train de recevoir une bande son et d'être débuggée!
+L'IA réattaque tout de suite!
+Désespéré, Tom lance la graine incandescente en direction du noyau du réacteur!
+{INK 001}La graine devient le centre d'une lumière aveuglante!
+Un tremblement secoue l'immense TORONTO. Le métal de l'installation commence à vibrer, d'abord de façon inaudible, puis de plus en plus fort, et de pâles apparitions lumineuses passent par-dessus le vaisseau.^^Tout à coup, des vrilles et des fleurs de toutes les couleurs percent le métal!^^ L'acier crie au secours lorsqu'il est déchiré et déformé par la force des plantes!
+Même ceux de l'équipage qui n'ont pas été convaincu par le documentaire, fuient le vaisseau, horrifiés.^^Lorsqu'ils mettent le pied dehors, le TORONTO offre un spectacle incroyable...
+L'effet de la graine est plus simple que celui imaginé par ses créateurs, et pourtant plus fort qu'on ne l'aurait cru:^^ L'installation gigantesque du TORONTO est détruite en quelques minutes.^^ détruite? Ou recréée? Là où il y avait le produit gigantesque de la technologie terrestre,, il y a maintenant un oasis en plein milieu du désert.^^ Cette fois, l'irrationnel et la magie ont triomphé sur la puissance du rationnel.
+"Nous..."^^"Nous sommes encore en vie!"^^"{FAT }Nous sommes encore en vie!{NORS}"
+Ses compagnons blessés sont réveillés par le cri de Tom...
+"Regardez-moi ça! Tout est envahi par les plantes!"
+"Oui! Le colosse métallique est mort!"
+"Non. Maintenant, il vit."
+"L'énergie a disparu, l'IA est foutue!^^Je ne réalise toujours pas que nous avons survécu.^^Essayons de sortir d'ici. A quoi peut bien ressembler le TORONTO de l'extérieur?"
+"{FAT }Ouah!{NORS}"^^La graine a vraiment pris son job au sérieux! Quel spectacle!"
+"Ha! Ca c'est de la magie! Fantastique! Rien que de pouvoir raconter tout ça valait le coup d'affronter les dangers!"
+"C'est superbe! Quelle ironie: sans l'indescriptible énergie contenue dans le vaisseau, un tel effet aurait été impossible.^^La blessure dans le côté d'Animebona s'est refermée, la douleur a disparu."
+"La grande aventure est terminée, mes amis. Je suppose, que nous devons nous préoccuper maintenant de la vie quotidienne. Là-bas, il y a un tas d'hommes et de femmes, dont une à qui je tiens particulièrement, et à qui je dois expliquer que ce monde est désormais leur nouveau chez-soi et leur seul avenir.^^Partons ensemble..."
+{FAHI}{INK 003}{CNTR}T H E E N D
+"La graine fait exploser le réacteur! Nous sommes {FAT }MORTS{NORS}!"

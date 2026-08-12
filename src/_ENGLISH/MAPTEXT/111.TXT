@@ -1,227 +1,227 @@
-﻿
-
-
-
-
-
-
-
-
+﻿empty
+No member of the group is particularly eager to put their hand there.
+A large sofa.
+A large cabinet.
+A grill.
+A bed.
+A fireplace.
+The bedcover.
+Iskai cutlery.
 A plate.
-A receptacle.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A saucepan.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A container.
+A sausage.
+A ham-like piece of meat.
+A ladle.
+Different herbs.
+Fruits.
+A specialty meat.
+A drinking cup.
+A bowl.
+A spice.
+Small spice jars.
+A small cup.
+A kitchen knife.
+Cookies.
+A small sausage.
+This bottle contains an aromatic liquid.
+A cloth.
+A hand towel.
+A bucket.
+A roasting pan.
+A pot.
+Within this kettle, there is a small pot on a rod in which food can be heated slowly.
+A cushion.
+A large roasting pan.
+A fur brush.
+A water channel.
+A water basin.
+A water barrier.
+A large clay mug.
+A bureau.
+All kinds of unimportant small items lie in the drawers of this desk.
+A chest.
+This is a fairly large kettle. Perhaps it can store supplies, water, or food.
+In the water basin, there's a strange plant which pumps water out of the ground with its strong, pulsating motions. Apparently, this fountain serves as the water supply.
+The water in this pool smells bad and foul. This is probably where sewage is collected.
+Water plants.
+Herbaceous plants.
+An exotic plant.
+Climbing, grasping plant.
+Places for further Cutmap events.
+A staircase. It leads down through the floor.
+A staircase goes up through the floor.
+This is apparently some kind of bed. It is filled with sand, which offers astounding comfort because of its coarse but rounded grains.
+The enormous shape makes this look like sitting furniture. It acts like a plant. It has apparently grown. The surface is soft and elastic.
+The fountain of the house.
+The water channels probably serve for the drinking water supply. They run through the house like small brooks.
+The musty odor and the holes in the object lead to the conclusion that this is a kind of toilet. This "furniture" is also made from plants, and thrives vigorously because of its regular fertilization.
+This is where the really urgent activities in life are performed.
+A sweet, tart smelling dish is cooking in this pan.
+A seat.
+A massive wooden table.
+A large-leafed plant.
+A door.
+A knife.
+A short dagger.
+A dagger.
+A large dagger.
+A short sword.
+An Iskai knife.
+An Iskai dagger.
+An Iskai stiletto.
+An Iskai short sword.
+A large Iskai stiletto.
+An Iskai sword.
+A large Iskai sword.
+An Iskai long sword.
+An Iskai lance.
+A large Iskai dagger.
+A short Iskai stiletto.
+A large Iskai stiletto.
+A large Iskai sword.
+A small bow.
+A bow.
+An arrow.
+A long arrow.
+A leather shield.
+A small Iskai shield.
+An Iskai shield.
+A large Iskai shield.
+A leather cap.
+An Iskai leather cap.
+An Iskai metal cap.
+An Iskai metal helmet.
+An Iskai chest protector.
+An Iskai metal chest protector.
+Light Iskai armor.
+Iskai armor.
+An empty bottle.
+A green healing potion.
+A turquoise healing potion.
+A blue healing potion.
+A red drink.
+A violet drink.
+A blue drink.
+A key.
+A rope.
+A torch.
+An Iskai notepad.
+A piece of paper.
+An Iskai ring book.
+An Iskai ring pad.
+A pencil.
+A short pencil.
+A bench.
+This seat literally grows out of the ground and is quite comfortable.
+A wooden pole. There is a sign on the top.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+"I put all of the equipment that I still had with me in here."
+"Before we leave the house, we should go by our room. I have stored the rest of our equipment in the big cabinet."
+This trunk is open.
+The spacious cabinet is unlocked.
+"I've already seen parts of the house. The architecture is fantastic! Almost everything appears to consist of plants, heaven knows how they do it. And there is water almost everywhere. The people here bathe often and apparently they have no nudity taboo."
+"No wonder with this heat."
+"Pardon me for my enthusiasm, but look at the giant object over there. It is a kind of pump and functions without any mechanical parts. I believe the people who live here are very proud of their fountain."
+"Tom and Rainer, I have just come from the Sebai. He wishes to speak with you. Would you please follow me?"
+"Of course, we'll be glad to talk to him."
+"Now we'll hopefully learn the reason why we were saved."
+"Don't be ungrateful, Driscoll. But we probably should not talk with each other in our own language in the presence of this Sebai. It would probably be considered impolite."
+"Tom and Rainer, the chief of the Clan of the South Wind Hunters, Sebai-li Wrinn, I will leave you alone now."
+"He is still a CHILD, Driscoll! That can't be!"
+"I see. May I remind you of your advice only to speak Iskai?"
+{CNTR} The inscription of the shield says: ^ ^ {INK 006} Supply Chambers. ^ Children: Think of the consequences!
+"Just smell those aromas, Driscoll! This must be the kitchen."
+"This is where that hellishly hot stuff they fed us came from."
+"I love spicy food. We can't say it hurt us."
+"You didn't spend weeks with a bucket... well, let's change the subject."
+"I've already figured out what this is. Believe it or not, it's a kind of plant toilet!"
+"Hofstedt! ^ O.K. O.K. I will try to put it simply: ^ WHAT - HAPPENED?"
+"Do you remember the crash landing and our getting out? Good. Shortly after the shuttle exploded like in a bad American television show. My first memory after that is being transported on a stretcher. When I saw who was helping me, I immediately passed out again. ^ Driscoll, these beings are INTELLIGENT!"
+"I can see that this... house didn't grow out of the ground. Although, if you look at it more carefully..."
+"You don't understand, there is intelligent life here. We've made contact with the third non-human race! Their culture is fantastic and..."
+"Hofstedt, please! My head is spinning even without your attempts at explanation. Start from the beginning for goodness' sake. How could the instruments be so wrong? We set out with breathing masks expecting a Mars-like world, and end up in a damned jungle more dense than anything on Earth!"
+"I have no idea what went wrong. You can feel most of the facts with your own body. We find ourselves on an oxygen-rich, warm world with an enormous variety of flora and fauna. The gravity, as expected, is a bit under 1 G. ^ ^ Up to now our immune system has handled the local microorganisms. The explosion got you more than me. You've been unconscious for almost 30 days. ^ ^ Stop! Don't even try it! You shouldn't try to stand for at least another 30 days!"
+"I've noticed! Is anything else wrong with me?"
+"I don't think so. Some broken bones, burns, and probably minor internal injuries. The head injury gave me the most concern, but you appear to be completely coherent. Your prosthesis is operational."
+"Thank you. Continue."
+"I was back on my feet quite quickly and have made contact with our hosts. Where shall I begin?"
+"You're a scientist! Just stick to the facts."
+"I will try my best. The people here call themselves Iskai. As you've seen, they are built like humans only taller and thinner. Also, they still have all their body fur. ^ ^ They appear to have descended from beasts of prey, as you can tell from the shape of their head. Otherwise, their history runs somewhat parallel to that of Homo Sapiens. ^ ^ The Iskai are mammals with two sexes just like us. Their technology isn't too advanced, yet they are quite capable of astounding architectural feats. ^ ^ The people that live here have taken good care of us and they've helped me keep you alive."
+"Does that mean some kind of medicine man cured me?"
+"No. On the other hand: Who knows? I was completely out of it our first day here. The only thing I can remember is that one of these fellows was in the room and fumbled around with us a bit. I don't think he was trying to impress us with some kind of hocus pocus. He was working with glittering plant seeds. I was too weak to protest against it, but apparently it didn't hurt us. Then I used three of our medipacs to get you to your current state."
+"Drenis bat ardriiba na gendi?"
+"Kriidak na grriina, ah, strokiri. Badri?"
+"Frji wan drobia. Lanarii!"
+"Well, I can see you haven't wasted your time. You've learned their language in just four weeks."
+"I only know a couple of words. Except for the pronunciation, the dialect is astoundingly easy to learn. I'll give you a basic course during the next few days so that you can catch up."
+"Do it slowly, Hofstedt. I'm still trying to absorb all this. This situation is... I mean... What we are experiencing here is unbelievable! In real life, things like this don't happen to normal people..."
+"Heh, heh, be quiet, Driscoll! I'm sure anyone who has experienced something that only happens in movies would feel the same way. But this is really happening! Accept it, and you'll see that you'll be on your feet in no time. Then we must find a way to get back to the ship."
+"The ship, right. I'd be really surprised if it is still in orbit."
+"I think it will land at the predetermined point. From there, we can build a research station instead of a mining structure. That way your company can at least make some money on the exclusive rights to the first documentary."
+"We must find out where we are and how we can get to the landing point. Since our shuttle has been destroyed beyond repair, the trip to the Toronto could take a long time."
+"That's right. But, first we have to learn to communicate. Sleep for a while, and then we'll begin the first lesson."
+"O.K. And, Hofstedt..."
+"Yes?"
+"Thank you for everything."
+"These Iskai are a xenobiologist's dream! One moment, their similarity to human beings is frightening; and then the next, they are so alien. Just imagine the consequence of this Sebai ritual! Despite their short life span, the Iskai have quasi-immortality! ^ ^ What has also amazed me is that this world, so rich in raw materials, values the metal from our shuttle so much."
+"Dsarii-ma, guests of the house. If you intend to go hunting in the forests, you must first talk with Krinn, the Stri of the Hunt. He can give you good advice. You will recognize him by his gray-brown fur coat with gray stripes."
+{INK 001} The Iskai child looks with big eyes at the people in front of him. The sight has apparently left him dumbfounded.
+"Dsarii-ma! I hope you've enjoyed the hospitality of the South Wind Clan and feel welcome with us."
+"Dsarii-ma. You look really funny. Are you sick, or is something wrong with your fur?"
+"Dsarii-ma. Excuse me, I can only talk for a short time. I must prepare for the next hunt."
+"Dsarii-ma! You're no bigger than I am!"
+"Dsarii-ma. I am one of the people who found you. I will never forget that explosion as long as I live!"
+This door leads outside.
+This door has a good lock.
+{LEAD}{NAME} opens the lock with Wrinn's key.
+There is something interesting in this chest!
+The chest is locked.
+{LEAD}{NAME} opens the chest with a skeleton key.
+This spacious cabinet has a lot of storage space.
+Several weeks later: Tom has recovered, and has learned the basics of the Iskai language with Rainer's help. Today, for the first time, he feels strong enough to get out of bed.
+{FAHI}--SCRIPT SEQUENCE--{NORS} ^ ^ Picture: Tom wakes up and sees "his nurse" who surprises him with her, to put it mildly, non-human face. ^ ^ Rainer comes in and begins to explain the situation.
+"Never, Hofstedt! And even if Giria eats me, I won't stay in this sandbox a day longer!"
+"Your nurse surely won't be happy about that. But, please, take it easy - it looks as if you will be walking again shortly."
+"I'm doing O.K., aren't I? It's time to finally leave this room."
+"O.K. ^ But YOU talk to Giria!"
+"Tom! What are you doing up! Haven't I told you to save your strength? Now, it's not MY fault if you collapse! I'll tell Sebai-li Wrinn that you seem to have regained your strength."
+"Phew! I thought it would be worse! Hasn't she told us about this Sebai-whatever before?"
+"Yes. I think he is the head of this family. He must be very old if I understand her correctly."
+"That doesn't mean much compared to us. The Iskai apparently only get to be about 30 to 40 years old."
+"No wonder they are so frantic. They always seem to be running a top speed. Just look at Giria now. I wanted to thank her for her care, to calm her down, but she's already disappeared. ^ ^ Never mind, let's take a look around the house."
+This door leads out into the city. It is secured with a lock.
+{INVE}{NAME} unlocks the door with Wrinn's key.

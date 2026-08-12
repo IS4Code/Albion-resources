@@ -1,0 +1,7 @@
+﻿{BLOK000} "I'm one of the new members of the Council of the Just. The work is really challenging for me. I hope I can do everything." 
+"Welcome and Skeima Din. Let me introduce myself: My name is Mellthar, and I am one of the two new council members. Who would have thought that Gard and Riko were such crafty evil-doers, and that they were working with Kontos?" {BLOK010} "Well, some people have suspected this for a while..." {BLOK011} "People will always surprise you." {WORDtown hall}{WORDMellthar}
+"Oh, there you are again." {WORDtown hall}{WORDMellthar}
+"You mean Perron. Yes, we didn't take him seriously."
+"You can say that again."
+"That'th me."
+"It should be familiar to you by now."

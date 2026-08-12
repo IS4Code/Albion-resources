@@ -1,0 +1,7 @@
+﻿{BLOK000} "I build houses out of plants. I'm sure you've seen many of them around here."
+"What? Strange faces in our city? My name is Arrim, I welcome you to Srimalinar." {WORDSrimalinar}
+"Ah, I have already met you. I am not sure if I can help you in any way." {WORDSrimalinar}
+"Let's see... what is there worth knowing about our city? Well, you shouldn't come near our shrine. There is a taboo which forbids strangers from entering the shrine. You must respect this, because the place has specific significance for us. You must be very careful if you have shining objects with you. Never leave them lying around. There are small animals here which we call kritahs. They live in the caves in the mountain range and steal everything that shines and glitters. They are actually very shy animals, but sometimes you can see them." {WORDtaboo}{WORDshrine}{WORDkritahs}
+"Yes, better not go in there. Our religious ceremonies take place in there. It is a very solemn place for us."
+"This taboo has existed for as long as I can remember. There is a historical reason for the taboo, which I would rather not explain to you now."
+"Yes?"

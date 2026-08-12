@@ -1,0 +1,2 @@
+﻿{BLOK000}"Je vends des denrées."
+"Entrez donc et achetez!^^J'espère que vous avez grand faim! J'ai en ce moment beaucoup de fruits frais de Srimalinar."{BLOK010}"Oui, nous aimerions acheter des rations."{WORDSrimalinar}

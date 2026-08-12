@@ -1,0 +1,7 @@
+﻿{BLOK000}"Je suis conductrice de machines pour les robots d'exploitation. Pour l'instant, j'assure cependant la protection de l'entrepôt."{WORDConductrice}
+"Hi, Tom! Je n'ai pas trop l'temps. Le capitaine m'a mis de corvée pour préparer l'entrepôt pour l'atterrissage."{WORDAtterrissage}{WORDCapitaine}
+"Mais, tu sais bien. Normalement, pour nous autres, le boulot commence seulement après l'atterrissage, quand démarre l'exploitation des matières premières."
+"Quand les rapports de pesanteur sont sens dessus dessous lors de l'atterrissage, tout doit être évidemment bien attaché."
+"Oui, qu'est-ce qu'il y a d'autre, Tom?"
+{BLOK000}Que peux-tu dire de... {BLOK001}Regarde un peu ça... {BLOK004}A la prochaine! {BLOK005}Quel est ton job actuel?
+"Salut, Tom."

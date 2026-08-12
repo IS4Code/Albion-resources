@@ -1,0 +1,8 @@
+﻿{BLOK000}"Ici, mon titre de chef des druides ne vaut pas grand chose, et j'en suis ravi. Je suis ici l'égal de tout le monde."
+"Togi Din. J'espère que vous appréciez votre séjour ici. C'est une île de la paix, où on peut méditer pour puiser de nouvelles forces d'Animebona."{WORDAnimebona}{WORDMéditer}
+"La bénédiction de l'entité repose sur cet endroit. Ici, son pouvoir se manifeste plus fort que sur l'ensemble d'Albion. Il existe certains endroits sur l'île, où on peut grandir de corps et d'esprit grâce à une méditation calme et prolongée."{WORDAlbion}{WORDEntité}{WORDLieux}
+"Vous trouverez ces endroits si vous cherchez les fleurs de la Déesse."{WORDFleurs de la Déesse}
+"Ainsi sont appelées des petites fleurs de couleurs vives, dont on dit qu'elles poussent en des endroits particulièrement bénis par l'entité."
+"Dsarii-ma, mes amis. J'espère que vous progressez bien dans la recherche des connaissances pour la création de la graine."{WORDGraine}
+"Dsarii-ma, mes amis. Comme je vois, vous n'êtes pas encore partis pour le centre du danger, le Toronto. Dépêchez-vous, s'il vous plaît!"{WORDTORONTO}
+"Ah, Bero! Il va bien. Il a retrouvé sa forme olympique d'antan!"

@@ -1,0 +1,55 @@
+﻿vide
+Un interrupteur mécanique.
+Au mur il y a une petite touche mécanique.
+Un interrupteur minuscule est encastré dans le mur, qui passe facilement inaperçu.
+Des structures semblables au verre sont encastrées dans le sol.
+Une porte.
+La porte est solidement verrouillée, il n'y a aucun verrou apparent.
+Une herse baissée. Elle n'a pas de verrou.
+Un puits rempli d'eau claire.
+Une flamme incandescente sort d'un disque en cuivre visible au sol.
+Un disque en cuivre sur le sol.
+Un disque en cuivre avec une grande ouverture.
+Une flamme baladeuse. Elle émet beaucoup de chaleur.
+Un mur transparent en matériau très solide.
+Ceci semble être une sorte de champ magnétique. Il émet un son à peine audible, les cheveux se dressent quand on s'approche et une douleur aiguë traverse les dents.
+Un gros trou dans le sol.
+Une ouverture est visible au plafond.
+Une colonne de pierre avec une partie creuse.
+Un feu brûle à l'intérieur de cette colonne de pierre.
+La porte est fermée.
+Un vieux fût.
+Un vase couvert de poussière. {LEAD}{NAME} jette un oeil à l'intérieur, mais ne trouve rien.
+Un coffre orné de métal.
+Un tas de bric-à-brac. {LEAD}{NAME} fouine un peu là-dedans, mais ne trouve rien d'utile.
+L'interrupteur ne bouge plus.
+Le mur paraît friable à cet endroit.
+{LEAD}{NAME} donne de grands coups contre le mur. Il s'écroule!
+{LEAD}{NAME} remplit un seau d'eau.
+{LEAD}{NAME} marche dans la flamme et se brûle!
+{LEAD}{NAME} verse un seau d'eau sur les flammes et les éteint!
+Une autre flamme est éteinte.
+{LEAD}{NAME} entre dans le champ magnétique et aussitôt une douleur terrible traverse son corps! Après quelques secondes qui semblent interminables, l'apparition lumineuse s'effondre.
+Le champ magnétique s'effondre lors du contact avec la baguette! La baguette, elle, tombe en poussière.
+Tout le monde peut se hisser vers le haut à l'aide de la corde!
+Une boule de feu volante. Elle émet une chaleur insupportable.
+Brusquement, tous ressentent une douleur insupportable, comme une brûlure: une boule de feu s'est approchée très près!
+"Incroyable. Je ne comprends pas tout à fait ce qui maintient la boule de feu en l'air. Est-ce une bulle de gaz en feu? Mais comment peut-elle être aussi solide, alors? Mystère."
+"Je commence à douter de ma raison! Ce champ ne semble pas être d'origine électrique et il n'y a pas non plus de source d'énergie apparente. Zut, mais qu'est-ce qui peut bien l'alimenter? Cette planète semble avoir été créée pour remettre en cause les fondements des sciences naturelles."
+"Méfiez-vous! Ces structures en verre sont utilisées à des fins diverses et variées. Elles déclenchent, souvent en relation avec des apparitions de feu, des mécanismes cachés."
+Structure de sol activée.
+Ce mur est traversé par de nombreuses failles profondes.
+Saleté 
+Platzhalter
+Platzhalter
+Platzhalter
+Platzhalter
+Platzhalter
+Platzhalter
+Platzhalter
+Platzhalter
+"Ce sont donc les halls de Kamulos. Ils ont été construits à l'origine en tant que systèmes de défense pour la partie intérieure et remplissent toujours ce rôle. Certaines parties sont également utilisées comme salles d'examen pour les novices et les confirmés.^^ Ici en bas, on entreprend sans cesse des modifications, entre autres pour protéger la partie intérieure des rebelles, comme mon humble personne. Je donne de mes nouvelles, si quelque chose me paraît connu, mais je ne vais certainement pas être d'une grande utilité.^^ Chaque Kenget Kamulos qui nous rencontre va nous attaquer sans discussions. Nous ne pouvons plus dissimuler nos intentions."
+{LEAD}{NAME} pense apercevoir quelque chose d'intéressant dans le bric-à-brac!
+La flamme commence à poursuivre {LEAD}{NAME} et ses compagnons!
+Une colonne avec une grimace.
+Lorsque la flamme atteint la partie rouge du sol, elle s'éteint. Simultanément, la porte d'à côté s'ouvre!

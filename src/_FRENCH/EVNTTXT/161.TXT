@@ -1,0 +1,7 @@
+﻿{BLOK000}"Je suis la reine d'Aballon."{WORDAballon}
+"Togi Din, visiteurs d'Aballon. Bienvenue dans le verger de Gratogel." {BLOK010}" Nous sommes à la recherche d'un grand corps métallique, venu du ciel. Vous avez entendu parler d'un tel événement?"{WORDAballon}{WORDGratogel}
+"Vous êtes sérieux? Non, personne ne m'a parlé d'un tel miracle."
+"Togi Din. Que désirez-vous de moi?"
+"Ici poussent les plus beaux fruits de Gratogel. Danu et Lugh aiment apparemment notre pays autant que moi, et nous avons donc de bonnes récoltes, année après année."{WORDDanu}{WORDLugh}
+"Comme je l'ai déjà dit, nous sommes fiers que les plus beaux fruits de Gratogel poussent ici. Danu et Lugh aiment apparemment notre pays autant que moi, et nous avons donc de bonnes récoltes, année après année."{WORDDanu}{WORDLugh}
+"Vous êtes en face de la reine légitime d'Aballon.{WORDAballon}"

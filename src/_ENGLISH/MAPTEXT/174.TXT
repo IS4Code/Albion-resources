@@ -1,124 +1,124 @@
 ﻿ 
 A fuse box.
 An armchair.
-A couch.
-The control desk of the nuclear reactor.
-
+A cot.
+The control panel for the nuclear reactor.
+A service panel.
 A control console.
 A flight control console.
-A control desk.
+A control panel.
 A chemical toilet.
-A cupboard.
+A cabinet.
 A wash basin.
 Hand towels.
-Tooth brushes and toothpaste.
-An indicator for corridor security.
-Security indicators.
-Part of the reactor.
-Containers for garbage, water, toxic material and raw materials.
-A console, turned off.
+Toothbrush.
+A corridor surveillance monitor.
+Control monitors.
+A part of the reactor.
+Barrels with trash, water, raw, and toxic materials.
+A switched-off console.
 A lamp.
 A plate.
 A glass.
-A tumbler.
-A receptacle.
+A beaker.
+A container.
 A bottle.
-A pot.
-A can.
-A receptacle for fluids.
-A salt and pepper shaker.
+A metal can.
+A box.
+A container.
+Salt and pepper shakers.
 Soy sauce.
-A saucepan.
+A pot.
 A small can.
 A shovel.
 A spade.
-A spanner.
+A wrench.
 A screwdriver.
-A hand console.
-
-A pair of pliers.
-Cutlery and a mug.
-Crockery.
+A portable, hand-held console.
+A PDA (personal digital assistant).
+Tongs.
+Cutlery and a drinking cup.
+Dishes.
 An automatic door.
-A Shuttle.
-Containers.
+A shuttle.
+A container.
 A shower.
 A vehicle.
-
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Ground markings.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+A giant lock.
+This strong-filtered viewing port makes it possible to look directly into the heart of the Toronto: the fusion reactor. The tamed forces of a sun supply the installation's energy.
+The reactor control panel.
+"This is the console I was talking about, Tom. If you cross your fingers, I could make an attempt to cut off Ned, the AI, from the energy supply. Shall I try it?"
+Should Joe try to manipulate the console now? {BLOK000} Yes, let's try it! {BLOK001} No, wait a minute.
+"Let's not wait too long. I don't want to get caught."
+"We've succeeded in getting this far. Now let's try to bring the Seed to the reactor. I'm really anxious to see what will happen..."
+"Shall I start now?"
+"That's the reactor! Look at the light! They have installed a viewing port which allows only a small part of the fusion's light through. What a fantastic sight!"
+Joe gets to work.
+"Let's see. I'm no expert with these consoles, but this has to..."
+Suddenly, Joe is interrupted by a voice on the loudspeaker!
+"Tom Driscoll, Joe Bernard, stop your activities on the control console immediately. ^ ^ Some security personnel are already on the way. I must take both of you into custody. Do not resist; the security personnel are armed."
+"Oh no! The AI!"
+"Ned! Do you and Brandt really think you can conceal the truth about this planet?"
 !
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Simply put: Yes! ^ ^ The prerequisites are favorable and the chances are good. The existence of the company justifies taking some risk."
+"{FAT } WHAT? {NORS} You're telling us, right to our faces, that you consciously intend to destroy this world? ^ ^ I..."
+"What's with Captain Brandt? If he cannot show what happened on the flight, he will lose his license forever!"
+"That is right. Subsequently Captain Brandt will be subjected to an investigation. Then, naturally, DDT will be forced to fire him. ^ ^ He will have to spend his life as history's richest unemployed person. ^ ^ Unfortunately, I have to keep both of you locked up until the mission is over. Don't worry, we will provide all the conveniences you will need."
+"Sure. And the moon is made of green cheese. ^ ^ Joe?"
+"Yes?"
+"Let's go. Quick."
+Tom and Joe storm out of the reactor room! They are looking for a lock in the infirmary area which leads outside.
+An automatic door.
+"Hey, we have something to finish here, remember? You don't want to get out again, do you?"
+Parts of the reactor system.
+When the companions enter the reactor room, Tom comes to his senses.
+"We've succeeded in getting this far. Now let's try to bring the Seed to the reactor. I'm really anxious to see what will happen..."
+"Forget it. The show's over, Driscoll. Put your weapons down!"
+"Colonel Priver! Let me explain..."
+The security guards immediately attack again.
+"Damn. ^ ^ I've played cards all night with a some of these men. ^ ^ Damn."
+"Let's go into the reactor room."
+"Man, I'm happy that we didn't have to fight this time. I knew some of those guys personally. ^ ^ O.K., let's go into the reactor room."
+Colonel Priver and his men leave the room.
+Just as the companions think they've made it, they see a jet black cylinder standing in front of the reactor core. Only a red control light and a device that seems to have been hastily added on one side interrupt the polished surface.
+"That's the actual housing of the AI!"
+"Correct. By attacking Colonel Priver and his men you have proven that you are willing to use force and terrorist tactics. I must prevent further malicious destruction of private property myself."
+"Correct. After Colonel Priver and his men violated their employment contracts, I see that I am forced to prevent further malicious destruction of private property myself."
+"This... barrel is supposed to be a danger to us? I can't believe that!"
+"I don't know. That thing on the side of the cylinder looks like a high-powered laser to me..."
+{CNTR}{FAHI} The AI attacks!
+And now follows a battle between the party and the laser-armed AI in its indestructible housing. When two party members are unconscious, and the party begins to despair, the SEED begins to glow. If it is used now, the following final sequence appears. ^ ^ The final sequence is still being composed and debugged!
+The AI attacks immediately.
+In despair, Tom throws the glowing seed toward the reactor core!
+{INK 001} The seed becomes the center of a shining light!
+A trembling passes through the enormous structure of the Toronto. At first inaudible, the metal vibrates louder and louder, while pale sparkling lights crawl over the hull. ^ ^ Suddenly, shoots and blossoms in uncountable colors break through the metal! ^ ^ The steel screeches as it is torn apart and distorted by the force of the plants!
+Even those crew members who were not convinced by the documentation flee frightfully from the ship. ^ ^ When they emerge into the open, the Toronto presents an unbelievable sight...
+The effect of the seed is simpler than its creators believed, and yet stronger than anyone had held possible: ^ ^ Within minutes, the giant installation of the Toronto has been destroyed. ^ ^ Destroyed? Or recreated? The gigantic manifestation of terrestrial technology is replaced by an oasis in the middle of the desert. This one time, the irrational and magical have prevailed against the power of calculating reason.
+"We..." "We're still alive!" ^ ^ "{FAT } We're still alive! {NORS}"
+The wounded companions wake up at Tom's cry...
+"Look at that! Everything is overgrown with plants!"
+"Yes! The metal colossus is dead!"
+"No. It is alive now."
+"The energy is gone, the AI is gone! ^ ^ I still can't believe we've survived. ^ ^ Let's try to get out of here. I wonder what the Toronto looks like from the outside?"
+"{FAT } Wow! {NORS}" ^ ^ The seed took its job quite literally! What a sight!"
+"Ha! That's what I call magic! Fantastic! I can tell you, that alone was worth the danger!"
+"It's beautiful! What an irony: Without the ship's immeasurable energy, such a feat could not have been possible. ^ ^ The wound in Animebona's side has been closed, the pain is gone."
+"The great adventure is over, friends. Now we must get back to everyday business. Over there are a number of men and women, including one I care a lot about, to whom I have to explain that this world is now their new home and their only future. ^ ^ Let's go..."
+{FAHI}{INK 003}{CNTR}THE END
+"The seed detonates the reactor! We are {FAT }DEAD{NORS}!"

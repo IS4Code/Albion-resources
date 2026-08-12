@@ -1,10 +1,10 @@
 ﻿!
-
-
-
-
-
-
-
-
-
+There is an enormous machine here - apparently for mining large amounts of ore.
+"Oh look, a mini ore-digger. There's probably no more room in the machine sections and they are storing it here."
+A fluorescent light bulb. It radiates a cold, white light.
+An orange signal light.
+"O.K., that's that. This is the hall which surrounds the reactor core. From here, we should be able to get to the core."
+"We've finally reached our goal! You don't want to turn back now, {LEAD}{NAME}! Let's try to finish our task."
+"What came over me? I'm not going to turn back now that we've come so far!"
+A massive metal door.
+"The reactor hall! We've almost done it! Quick, into the reactor room!"

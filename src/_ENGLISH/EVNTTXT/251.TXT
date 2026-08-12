@@ -1,0 +1,10 @@
+﻿"{BLOK000} "It is my function to lead and coordinate the Council of the Just."
+"Skeima Din, we haven't met before. I'm the new council president. I'm sure you've heard the terrible history of my predecessor." {WORDhistory}{WORDsituation}
+"Skeima Din." {WORDhistory}{WORDsituation}{WORDtown hall}
+"I am Herras' successor. I don't know if you have heard the story. Herras was murdered in his bed at night. We suspect that Gard and Riko were the guilty parties since they have vanished. Perron always suspected that they couldn't be trusted." {WORDGard}{WORDRiko}
+"I am Zerruma."
+"I don't think they'll be seen around here again."
+"Perron is one of my council members."
+"That's what our city is called."
+"Kontos has converted his plans into action and is occupying the shrine and the surrounding area with his warriors. It's surprising how the inhabitants of Kounos stand behind their leader. He has a considerable amount of influence on them. I really wonder if it is actually the Iskais' fault that these horrible creatures appear. In any case, Kontos maintains that this is what's happening and his followers believe it. In any case, you can't really blame the Iskai for the way they are reacting. They, too, are sending warriors to the shrine and you can certainly imagine what is going on there. But it is clear that their taboo, pride, and religion are being disrespected and violated. Since you are a very mixed group, you may not be able to be served in some shops. The relation between Iskai and humans is very tense right now!"
+"The council house is the most beautiful building in Beloveno. You should look around a bit. No one will stop you."

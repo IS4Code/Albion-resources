@@ -1,0 +1,5 @@
+﻿{BLOK010} "I am a fighter, or warrior as some say. If you like, I will travel with you since I am always looking for company. I also like to travel around the world so I can see new things and gather experience."
+"Skeima Din, ^ ^ if you are looking for reinforcements for your group, I hereby offer my services. It can be advantageous to have a warrior with you. I am not a master warrior, but I have gathered a lot of experience. In any case, I would like to join you. ^ ^ It doesn't matter to me where I go and what goals you pursue, as long as I can travel around the world, learn about new things, and exercise myself in battle." {BLOK010} "We'd like you to come with us." {BLOK011} "Thank you for the offer, but our group is complete."
+"Good, I'll come with you."
+"Perhaps you will need reinforcements some other time."
+"I believe your group is large enough already."

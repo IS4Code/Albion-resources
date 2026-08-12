@@ -1,0 +1,72 @@
+﻿empty
+"That's what we call ourselves."
+"An experienced Former can grow a large sitting plant in 4 days. They are wonderful to sit on, and the children love to bounce around on them." {WORDFormer}
+"Yes, we have a lot more tasty things. Most come from the animals of the forest. The people prefer game, although the animal herders sell their meat at a slightly cheaper price."
+"In large houses, the waste water is passed from pipes in the walls into a basin. The plants clean the water before we return it to the river."
+free
+"Whoever can afford it has the water run throughout the entire house. It looks very beautiful, only you have to watch that the children don't play mischief with the water..." {WORDhouse}
+"We love to combine the beauty of nature with the comforts of home. The Formers of the Dji-Fadh guild know how to make complete structures out of plants! Of course, it's not cheap; there are houses which are made only of stone or sand, or only partially made of the plants of the Dji-Fadh. Especially the poor people live in 'dead houses', as we say." {WORDDji-Fadh}
+free
+free
+free
+free
+free
+free
+free
+free
+free
+"Maturity is reached at ten years old and then you are free from your elders' rules."
+"The women are fertile for only three months of the year. This time is called Fadhim and the celebration starts with a great feast. During this time, taboos are enforced for married people and their secondary partners."
+"The Sebai ritual is the most powerful magical act which we are capable of. It can be performed by anyone, however slight his magical talent. ^ You must know that the Trii of a newborn has very special abilities during the first week. If an adult touches the newborn's Trii against his, he can transfer his entire self into the spirit of the child. He or she can begin life anew; the body of the adult dies at the time of the ceremony. ^ Naturally, it is forbidden to perform the ritual without the council circle's approval. Besides the abduction of a newborn, this is the worst crime there is! According to our laws, the criminal and his entire family are punished by death. ^ Only a few special people, the Chosen, can undergo the ritual. Further, the ritual cannot be carried out without the newborn's mother's consent. Usually it is the partner or sister of the Chosen one. ^ ^ If the ritual is performed, the Chosen one receives the title of Sebai, followed by a number which indicates how often he or she has been through the ritual." {WORDmagic}{WORDTrii}{WORDChosen}
+"It is very difficult to attain the status of Chosen, to become eligible for the Sebai ritual, and the respective council must vote on it. ^ There are different possibilities for obtaining the honor of the ritual. For example, if someone has distinguished himself in courage or self-sacrificing devotion. If someone dies, a brother or a sister may be chosen as the Sebai in memory of this person. ^ Quite often, someone with a high ranking among the Stiriik will be chosen. In general, people with unique talents or knowledge are considered if they have used this knowledge for the good of many." {WORDSebai}
+"The Trii, which each of us bears on our forehead, is a very special organ. It is seen as the center of the spirit. Injuries to the Trii can lead to personality disorders, memory loss, and even death. ^ If two people place their Triis against each other, they can feel each other's emotions, and especially gifted individuals can read the other person's thoughts."
+free
+free
+free
+free
+"Most of us believe that after death we will return back to where we came from : the Great Consciousness which is formed by all of our ancestors and is often called the Goddess. They say that the more exemplary one's life is, the more one will remain oneself when one is incorporated into the Goddess."
+"The great city of the Iskai. Our ancestors live there."
+free
+free
+"I find that humans are interesting beings. They look like small, strong trees and with every step they set their roots into the ground. I have heard that they are very strong and can live to be incredibly old."
+free
+free
+free
+free
+free
+free
+free
+free
+free
+"Oh, clothing has a decorative meaning for us. It is considered very provocative to wear a lot of clothing, for what can excite someone's curiosity more than covering body parts?"
+free
+"I have heard rumors that you humans are completely at the mercy of your pains. We can control our pains, at least while we're awake. Children are only taught this technique when they are older so they can recognize serious injuries."
+"This word means 'beginner, learner,' and it is used as a title."
+"For the most part, this word is used with names. It means that the person is a master of his subject."
+free
+free
+free
+free
+free
+free
+free
+free
+free
+"I don't know anything about it."
+"There are many of them, but this is hardly the time to tell stories. Excuse me."
+"You wish to insult me? Oh, you mean what the word means! Ah, well...hir hir! It is the name of an animal which does not stand in high regard, because it feeds mostly on excrement!"
+"I don't know anything about it."
+"They are normally shy and do not attack. Although, I have heard they become aggressive when they are in a group. There is an entrance to a tunnel system near Kounos. There are supposedly a lot of kritahs there."{WORDKounos}
+"Actually, I think you went past Kounos on your journey. It is a small village where people live very traditional lives. It is on the plateau of the great mountain range."
+"Sugo is one of our favorite drinks. You really must try it sometime. I should warn you, though, that sugo is a fermented fruit juice with a highly stimulating effect. Anyone who is not familiar with sugo should drink it with caution. You wouldn't be the first strangers to not be able to carry on a conversation after two glasses."
+"That's the name of our country."
+"Our shrine has great religious significance for us. It is against our religion if strangers enter it, for they can destroy the eternal consciousness of our dead." {WORDconsciousness}{WORDdead}
+"All of our deceased brothers and sisters, who were fair and good in their lives, achieve the eternal consciousness there."
+"That is the great harbor city in Maini. It is on the south side of the great mountain range." {WORDMaini}
+"Our holy shrine is located south of Srimalinar, before the great mountain range. The consciousness of each good Iskai finds its eternal peace there. Please do not enter it. There is a taboo which forbids strangers from entering the shrine, and we consider it a serious attack on our rights if anyone does not respect this." {WORDtaboo}{WORDconsciousness}
+"Kontos is the druid leader of the mountain druids in Kounos. He's a very mysterious character. I don't like him!"
+"That's where we Iskai live on Maini. Although Srimalinar has a fairly large surface area, there are very few of us here. There is one tavern, and we have a magician's guild."
+"Fortunately, you have gotten rid of him."
+"Yes, my dear wife. She is always very concerned about me. But you can tell her that I won't work too long today."
+"That is Edjirr's wife."
+"There is a magician's guild in the middle of Srimalinar. You can't miss it."

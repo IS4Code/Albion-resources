@@ -1,0 +1,10 @@
+﻿{BLOK000}"I'm the owner of this shop."{WORDbusiness}
+"Dsarii-ma and welcome to the House of Useful Diversity!"{BLOK010}"Dsarii-ma, Wania. We would like to look at your goods."
+"My family has run this business for four generations now."{WORDfamily}
+"My husband is a sailor and has to be away a lot. Fortunately, I get along very well with his brother; he lives with us and is my secondary partner. And the children sure liven up the house!"{WORDsecondary partner}
+"As I've already said: ^ My husband is a sailor and has to be away a lot. Fortunately, I get along very well with his brother; he lives with us and is my secondary partner. And the children sure liven up the house!"{WORDsecondary partner}
+"Oh, Rabir works for me. Nice fellow; he's very good at finding quality products. Only sometimes he pays too high a price."
+"Didn't I tell you that? Rabir works for me. He's a nice fellow."
+"Here you can see my goods. Take a good look at all the different items! Look at the repellent, it keeps troublesome insects away."
+"That makes {PRIC} gold pieces. Do you agree with that, {INVE}{NAME}?"
+Wania hands {INVE}{NAME}the object.

@@ -1,0 +1,39 @@
+﻿{SUBJ}{NAME} vide un petit flacon d'un remède vert et se sent alors un peu mieux!
+Ce texte n'est pas intéressant.
+{SUBJ}{NAME} vide un petit flacon d'un remède turquoise et {HE  } se sent alors nettement mieux!
+{SUBJ}{NAME} vide un petit flacon d'un remède bleu et {HE  } sent immédiatement comme une guérison presque totale!
+{SUBJ}{NAME} boit le liquide rouge.^^Sa tête devient claire, et son esprit regagne un peu en énergie.
+{SUBJ}{NAME} boit le liquide violet.^^Une énorme partie de sa capacité de concentration revient!
+{SUBJ}{NAME} boit le liquide bleu.^^ Immédiatement, son esprit regagne la plus grande partie de son énergie!
+{SUBJ}{NAME} boit le liquide argent clair et sent que le poison dans son corps est neutralisé!
+Lorsque {SUBJ}{NAME} ingurgite la potion bronze, son esprit troublé devient clair et {HE  } a enfin repris connaissance!
+Une vague de douceur envahit le corps de {SUBJ}{NAME}, lorsqu'{HE  } avale le liquide doré. La maladie s'échappe de son corps!
+Grâce aux agents du Stimdrink, {SUBJ}{NAME} se sent mieux!
+Lorsque {INVE}{NAME} met l'anneau blanc au doigt, {HE  } remarque, qu'on ne peut plus le retirer! {INVE}{NAME} se sent plus faible!
+{CNTR}Quelqu'un a noté deux chiffres sur le lambeau d'un schéma de connexion:^^ {INK 006}12
+{CNTR}Quelqu'un a noté un chiffre sur le lambeau d'un schéma de connexion:^^ {INK 006}3
+{CNTR}Quelqu'un a noté un chiffre sur le lambeau d'un schéma de connexion:^^ {INK 006}4
+{CNTR}Quelqu'un a noté à toute hâte une suite de chiffres sur le morceau de papier:^^ {INK006}1001
+{CNTR}Il manque l'autre partie du document!
+Les deux parties de document se juxtaposent parfaitement. Le document original est reconstitué!
+{INVE}{NAME} prend l'épée d'obsidienne noire dans la main. Il est impossible de la lâcher et {INVE}{NAME} sent que l'arme consume sa vitalité et son endurance!
+L'épée rouge est maudite! {INVE}{NAME} ne peut plus s'en défaire et sent qu'elle pompe la force et l'énergie de combat de son corps!
+La poignée de cristal du poignard se lie de manière inséparable à la main de {INVE}{NAME} et {HE  } sent que la force quitte son corps!
+{INVE}{NAME} remarque qu'une malédiction repose sur la lame bleue: Le poignard rend à {INVE}{NAME} l'accès à la magie plus difficile!
+La pierre noire du casque dérobe le corps de {INVE}{NAME} de sa force, elle est maudite!
+"Cette amulette est signe de mon appartenance aux Dji Cantos. Je ne veux pas m'en séparer."
+"Il vaudrait mieux que je laisse l'amulette à sa place, elle est trop précieuse pour s'en séparer."
+{INK 001}Harriet émerge et se défend faiblement, lorsqu'on touche l'amulette et dit:{INK 002}^^"Non, s'il te plaît! Cette amulette est ma propriété privée!"
+La petite pierre rouge est solidement accrochée à la peau de Tom. On ne peut pas la détacher.
+"Excuse-moi, mais je préfère garder ce machin. J'en ai encore besoin!"
+{INK 001}Mellthas secoue la tête, il ne veut pas lâcher son nécessaire pour écrire. C'est son moyen de communication.
+"Ce machin est drôlement important. Il vaut mieux qu'on le laisse à sa place, avant que quelque chose n'y arrive."
+{INVE}{NAME} reprend ses esprits et dit:
+Le document contient des informations intéressantes. Il renvoie à un contrat entre Kontos, Gard et Riko. Les compagnons ne comprennent pas tout ce qui est marqué ici, car certaines choses sont notées sous forme de langage codé. Il s'agit probablement d'une sorte de contrat de participation à des précieux minéraux. Pour l'instant, on ne peut malheureusement pas avoir plus de précisions.^^On pourrait peut-être utiliser cette pièce à conviction pour régler le conflit entre Iskais et Mahinos!
+Tom a du mal à se séparer de la graine, le résultat de toutes les peines et de tous les dangers.
+Les documents sur le Grand Savoir ne sont apparemment compréhensibles que pour les vrais Maîtres de magie. Des descriptions compliquées et des rimes au mètre complexe couvrent le parchemin.
+On peut lire ici un curieux mélange de charabia à consonance magique et de descriptions techniques. Les Dji Cantos savent certainement en faire plus.
+{INK 001}Sur le morceau en parchemin est écrit:^^{INK 003}Le courage n'est pas toujours récompensé. Continue quand même à être courageux.
+{LEAD}{NAME} mange les herbes et sent qu'elles ont un pouvoir purificatoire pour le corps et l'esprit!
+{INK 001}{LEAD}{NAME}:{INK 002}^^ "Il vaut mieux qu'on laisse la clé à sa place. Je ne voudrais pas la perdre ici."
+{INK 001}{LEAD}{NAME}:{INK 002}^^ "Il vaut mieux qu'on laisse le document à sa place. Je ne voudrais pas le perdre ici."

@@ -1,0 +1,14 @@
+﻿"{BLOK000} "It is my function to lead and coordinate the Council of the Just."
+"There you are! I still don't understand it, but unfortunately your theory was correct. Someone actually tried to assassinate me. I don't know how to thank you. You've saved my life. In any case, a magnificent reward awaits you." {WORDreward}{WORDassassination}{WORDdiscrepancies}{WORDrumors}{WORDwarning}
+"It happened in the middle of the night. I heard the guards posted in front of my doors cry out. Had I not placed the heavy saber under my pillow, I wouldn't have been able to defend myself. My attackers were so surprised at my strong defense, that they just fled. They were disguised and I didn't recognize them, but I think it might have been Gard and Riko. Besides, they have recently disappeared. I don't have any proof yet, but I think there's a connection. If I had not been so well prepared, I would no longer be here. I hope you accept this reward as thanks. {WORDreward}{WORDPerron}{WORDwarning}
+"You have really earned it! Take this key and go into the council house treasury of Beloveno. Take anything you want."{WORDkey}
+"I already gave you the key, didn't I? My offer was serious - take everything you want!"{WORDkey}
+"The key is for the treasure chamber. I don't think you need any help finding it, do you?"
+"What do you expect? We have to get new council members since it is almost certain that Gard and Riko were part of the conspiracy. For now, I can handle the important matters."
+"I don't think they'll be seen around here again."
+"Perron is very open and I know where I stand with him. Sometimes he overreacts a bit, but that's big problem."
+"That's what our city is called."
+"That'th me."
+"Well, I'm still not sure if there is anything to it, but I have heard that horrible creatures keep coming out of that place. You better not go there. There is a taboo that forbids humans from entering this place, and also the Iskai run the shrine."
+"The council house is the most beautiful building in Beloveno. You should look around a bit. No one will stop you."
+"Yes, again, thank you very much for your information. Have you taken your reward?"

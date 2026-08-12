@@ -1,0 +1,17 @@
+﻿"{BLOK000} "It is my function to lead and coordinate the Council of the Just."
+"There you are again. Skeima Din, it's good that you dropped by. There are some disagreements in the council which have to be cleared up right now. Therefore, I don't have very much time to talk to you." {WORDdiscrepancies}{WORDrumors}
+"How can I explain it to you. One of our council members, Perron, believes that Gard and Riko are not making decisions for the good of the people. Now, Gard and Riko are somewhat inflexible sometimes. But still, that is a strong reproach by Perron, who sometimes acts too hastily. ^ ^ However, since Perron won't leave it alone, we've all gotten together and discussed the matter. That didn't make the mood around here any better. Gard and Riko are stubborn and maintain that they cannot and do not want to cooperate with Perron any longer. They don't respect him, but he really is an honest man and I'm not too sure about Gard and Riko. In any case, I'd rather be on Perron's side. If Gard and Riko stay obstinate, we can no longer work together reasonably in the council. Well, we have to deal with the problem somehow." {WORDGard}{WORDRiko}{WORDPerron}{WORDstubborn}{WORDmood}
+"Sometimes it's very difficult to cooperate with them."
+"Perron is very open and I know where I stand with him. Sometimes he overreacts a bit, but that's big problem."
+"Maybe Riko and Gard will still give in. Otherwise I'll have to think about another solution."
+"After the last discussion, it's not looking very good."{WORDdiscussion}
+"Unfortunately, this conversation has produced few useful results."
+"That's what our city is called."
+"That'th me."
+"Well, I'm still not sure if there is anything to it, but I have heard that horrible creatures keep coming out of that place. You better not go there. There is a taboo that forbids humans from entering this place, and also the Iskai run the shrine."
+"The council house is the most beautiful building in Beloveno. You should look around a bit. No one will stop you."
+"What do you mean?!" {BLOK010}"Oh, it's just a suspicion."{BLOK011}"We have very important information for you!"
+"Hmm, you shouldn't be so free with words such as Warning, Assassination, or Murder!"
+"Good, then tell me." {BLOK010} "Good, let me tell you. Where should I begin? We've talked with a lot of people in the city. Of course, we can't confirm the reliability of the information we have, but nevertheless, you must know that there are plans to murder you. We first learned of this from Perron. Since then, we have confirmed the information. Even if it should turn out to be a bad joke, then it is still probably better to have warned you once too often than once too few."
+"I cannot believe it. Naturally, I would like to thank you for giving me this information. I've already heard about it from Perron, but since I know Perron, I didn't take him too seriously, which might have been a mistake. In any case, I will be careful now and I'll also find somewhere else to stay. I am thankful for your information and, if it turns out that there actually was something planned, I will reward you!"
+"Yes, thank you, you've already told me about that. I will be on my guard and I thank you again for the warning."

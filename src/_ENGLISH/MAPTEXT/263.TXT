@@ -1,131 +1,131 @@
-﻿
-
-
-
-
-
-
-
-
+﻿-free-
+Branches and roots.
+A woven basket.
+A glass vessel for water and other drinks.
+A barrel.
+A magnificent animal pelt.
+A bucket.
+A clay bowl.
+A flask.
 A plate.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-
-
-
-
-
+A clay mug.
+A mug.
+A table knife.
+A fork.
+A spoon.
+A clay container.
+Rocks.
+A bowl.
+A farming tool.
+An ax.
+A chest cover.
+A wooden chest.
+A lavishly decorated wooden chest.
+The rest room.
+A cover.
+A large wooden tub.
+A large metal kettle.
+A cupboard.
+All kinds of insignificant items are on these shelves.
+A bureau.
+A broom.
+A grill.
+You can grill meat on it.
+A fireplace.
+A tipped-over carafe.
+A ladle.
+A decorative wall sword.
+A wooden table.
+A stool.
+A folded stool.
+A massive dining table.
+A tree stump.
+Two crossed spears.
+A large barrel filled with strange liquids.
+A faucet.
+A bedcover.
+A comfortable and beautifully decorated bed.
+This bed is plain, yet practical.
+A kitchen table.
+A fireplace.
+The fireplace radiates a pleasant warmth.
+A decorated pot.
+Dried herbs.
+A human skull.
+A decorative shield.
+A metal pot.
+A decorative sword.
+A door.
+A kettle.
+A knife.
+A short dagger.
+A dagger.
+A large dagger.
+A short sword.
+A sword.
+A stiletto.
+A throwing dagger.
+A small ax.
+An ax.
+A small bow.
+A bow.
+An arrow.
+A small, leather shield.
+A leather shield.
+A round shield.
+A large shield.
+A leather cap.
+An embossed cap.
+A metal half-bowl.
+A leather vest.
+Leather armor.
+An embossed leather vest.
+A pair of shoes.
+A pair of boots.
+An empty bottle.
+A green healing potion.
+A turquoise healing potion.
+A blue healing potion.
+A key.
+A rope.
+A ring.
+A torch.
+A hammer.
+Stairs. They lead upward.
+Stairs. They lead downward.
+A counter.
+A carpet mat.
+A houseplant.
+A flowerpot.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+"Have you ever been in our beautiful council house? It is definitely worth a visit. On the one hand, it is a magnificent historical building. On the other hand, many important people gather there."
+"I haven't felt right for a while. If it continues, I will have to go see Ramina. She is our healer. She will be able to help you too, if you need it. I think I'll take a little rest. Sitting down a lot seems to help. Don't you think so? Tomorrow morning, I'll sit over there. For now, I will sit here. At dark, I'll sit over there again. Before long, it will be time to go to sleep again."
+"I just don't get it. All my Daddy does is sit around all day and complain. Hopefully, he'll be better soon."
+"Skeima Din, I am Rukko. I live here. Do you like the house? I think it is just beautiful. But I can't go into any other houses, since it upsets the owners. And if I upset them, they'll all be mad at me. I don't want that."
+"I have to make the beds. If I can do it with no wrinkles today, I'll get a piece of sweet cake. So, please don't touch anything. Mommy is awfully picky."

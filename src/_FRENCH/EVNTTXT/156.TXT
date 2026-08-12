@@ -1,0 +1,23 @@
+﻿{BLOK000}"Je suis pêcheur et marin."{WORDMarin}
+"Togi Din, étrangers. Que peut un simple marin pour vous?" {BLOK010}"Togi Din, Garris! Nous cherchons une embarcation pour Maini, le pays à l'est."{WORDMarin}{WORDTraversée}
+"Mais bien sûr. Le prix de la traversée est de 200 pièces d'or. Cependant, chaque voyageur a besoin d'une autorisation de Tharnos, notre roi. Parlez-lui du voyage en bateau, vous le trouverez dans sa maison au milieu du village."{WORDTharnos}{WORDTraversée}
+"Vous avez une autorisation de Tharnos pour votre voyage?"
+"Tout est prêt pour votre voyage, nous pouvons y aller, dès que j'aurai reçu vos 200 pièces d'or."
+"Ah, l'autorisation de Tharnos, excellent. Si vous avez encore 200 pièces d'or sur vous, le voyage peut commencer!"
+"Je peux dire avec fierté de ne jamais avoir perdu de passager et d'être en plus le meilleur pêcheur du village!"
+"Togi Din, étrangers. Vous êtes prêts pour le voyage en bateau?^^Vous le savez, avec 200 pièces d'or et l'autorisation écrite de Tharnos, le voyage peut commencer!"
+"Togi Din! Je n'aurais pas cru vous revoir! Si vous voulez encore faire un voyage en bateau, je suis à votre disposition!"
+"Avant d'accepter l'argent pour le voyage, il me faudrait d'abord l'autorisation de Tharnos."
+"Parfait. Partons tout de suite!"
+"Togi Din, étrangers. Vous êtes prêts pour le voyage en bateau?^^Vous le savez, avec 200 pièces d'or et l'autorisation écrite de Tharnos, le voyage peut commencer!" {BLOK010}"Oui, nous avons de l'or et l'autorisation. Le voyage peut commencer." {BLOK011}"Nous avons tout, mais nous voulons attendre encore un peu."
+"Togi Din, étrangers. Vous êtes prêts pour le voyage en bateau?^^Vous le savez, avec 200 pièces d'or et l'autorisation écrite de Tharnos, le voyage peut commencer!" {BLOK010}"Nous n'avons malheureusement pas encore l'autorisation de Tharnos. Adieu."
+"Togi Din, étrangers. Vous êtes prêts pour le voyage en bateau?^^Vous le savez, avec 200 pièces d'or et l'autorisation écrite de Tharnos, le voyage peut commencer !" {BLOK010}"Il nous manque juste l'or. Nous reviendrons, quand nous aurons suffisamment d'or. Adieu."
+"Comme vous voudrez. A bientôt."
+"Parlez à Tharnos. Il vous donnera certainement son autorisation contre un petit service."
+"Bonne chance pour gagner cet or."
+"Togi Din! Je n'aurais pas cru vous revoir! Si vous voulez encore faire un voyage en bateau, je suis à votre disposition!" {BLOK010}"Oui, pourquoi pas. Voilà vos 200 pièces d'or." {BLOK011}"Non, merci. Peut-être plus tard."
+"Togi Din! Je n'aurais pas cru vous revoir! Si vous voulez encore faire un voyage en bateau, je suis à votre disposition!" {BLOK010}"Non, merci. Nous n'avons pas l'or pour l'instant."
+Le voyage avec Garris se déroule encore dans le calme et sans histoires.^^Bientôt {LEAD}{NAME} et ses compagnons arrivent sains et saufs à Beloveno.
+"Mais bien sûr. Le prix de la traversée est de 200 pièces d'or. Cependant, chaque voyageur a besoin d'une autorisation de Tharnos, notre roi. Parlez-lui du voyage en bateau, vous le trouverez dans sa maison au milieu du village." {BLOK010}"Nous avons déjà l'or et l'autorisation! Le voyage peut commencer." {BLOK011}"Nous avons tout, mais nous voulons attendre encore un peu."
+"Mais bien sûr. Le prix de la traversée est de 200 pièces d'or. Cependant, chaque voyageur a besoin d'une autorisation de Tharnos, notre roi. Parlez-lui du voyage en bateau, vous le trouverez dans sa maison au milieu du village." {BLOK010}"Nous n'avons pas encore l'autorisation de Tharnos!"
+"Mais bien sûr. Le prix de la traversée est de 200 pièces d'or. Cependant, chaque voyageur a besoin d'une autorisation de Tharnos, notre roi. Parlez-lui du voyage en bateau, vous le trouverez dans sa maison au milieu du village." {BLOK010}"Nous n'avons pas encore l'or, nous reviendrons plus tard."

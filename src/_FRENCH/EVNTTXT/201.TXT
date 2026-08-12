@@ -1,0 +1,43 @@
+﻿libre
+"Beloveno est la grande ville portuaire. Elle se situe au sud de la montagne. Suivez le col dans la montagne."{WORDCol}
+"Elle est dans la cabane où loge Kontos."
+"Je ne sais rien à ce sujet."
+"Je ne sais rien à ce sujet."
+"Le Sugo est une de nos boissons les plus populaires. Vous devriez le goûter absolument. Ca serait peut-être plus fair-play de ma part, de vous dire que le Sugo est un jus de fruit fermenté aux effets excitants. Celui qui ne connaît pas le Sugo, devrait l'apprécier avec modération! Vous ne seriez pas les premiers étrangers à ne plus pouvoir soutenir la conversation après deux verres de Sugo."
+"Je ne sais rien à ce sujet."
+"Nous aimons notre village et la vie sur les hauts plateaux."
+"Kontos est notre chef! Nous le suivons tous. Que ferions-nous sans lui."
+"Oui, il existe de nombreuses grottes dans la région. Des ermites vivent dans certaines d'entre elles, la plupart est simplement vide. Il y a une grotte particulièrement grande, mais que nous évitons. Elle est tellement grande, qu'on peut facilement s'y perdre et c'est malheureusement déjà arrivé. Déjà trois citoyens de Beloveno ont disparu dans la grotte. Si vous voulez quand même entreprendre une expédition dans les grottes, emmenez suffisamment de provisions et une corde. Vous trouverez les entrées le long de la montagne."
+"Vous avez peut-être déjà vu de petits animaux noirs pendant la nuit, qui se faufilent dans les rues. Nous les appelons les Kritahs et, mis à part leur habitude de voler des objets brillants, ils sont finalement assez inoffensifs. Les Kritahs vivent quelque part dans les grottes des massifs montagneux, mais où, exactement, je ne sais pas non plus."
+"Srimalinar est un joli petit village Iskai. Il se situe au nord de Kounos, de l'autre côté de la montagne."
+"C'est une voûte près du village de Srimalinar."
+"C'est vrai, il existe effectivement un col dans la montagne qui relie la partie nord et la partie sud de notre continent. A vrai dire, c'est un sentier très étroit, qu'on remarque à peine par endroits, puisqu'il est rarement emprunté. Il longe Beloveno et mène à Srimalinar plus au nord."{WORDPartie nord}{WORDPartie sud}{WORDKounos} {WORDSrimalinar}{WORDBeloveno}
+"Nous aimons les traditions et nous sommes fiers de notre passé."
+"Je ne sais rien à ce sujet."
+"C'est la partie nord de la Grande Montagne. Là, se situe Srimalinar. On y accède par le col."{WORDCol}
+"Nous appelons partie sud, tout ce qui se situe au sud de la Grande Montagne. Beloveno et le port en font partie aussi. Vous êtes déjà allé dans la partie côté nord?"{WORDPort}
+"Le tabou concerne la Chose Sacrée de Srima|linar. Les Iskais de ce village ne plaisantent pas avec ce tabou des temps anciens et se sentent offensés si quelqu'un enfreint ce tabou!"
+"Si vous cherchez des gens avec de grands pouvoirs magiques, adressez-vous à notre chef ou tentez votre chance à Srimalinar."{WORDSrimalinar}
+"Je ne sais rien à ce sujet."
+"La religion est très importante pour nous. Nous sommes ravis d'avoir pu en apprendre autant de Kontos."
+"Srimalinar est un village dans la partie nord du continent où vivent les Iskais. Là-bas, il existe aussi une Guilde des Mages."{WORDMagie}{WORDIskai}{WORDGuilde}
+"La Guilde des Mages la plus proche est à Srimalinar."{WORDMagie}{WORDSrimalinar}
+"Je ne sais rien à ce sujet."
+"Je ne sais rien à ce sujet."
+"Si vous cherchez des échoppes, allez à Beloveno ou à Srimalinar."
+"Le moyen de paiement reconnu sont les pièces d'or. En revanche, chez certaines personnes, on peut aussi obtenir beaucoup de choses par d'autres moyens, mais je n'en dirais pas plus...hihi."
+"Il existe trois zones climatiques sur Albion. Tempéré, chaud et désert. Moi personnellement, ma partie préférée c'est celle-ci, la partie tempérée."
+"Les métallurgistes vivent sur le continent est et ont le monopole de la production du métal. Vous les rencontrerez peut-être encore au cours de votre voyage."
+"Je ne peux pas vous dire grand chose sur les Kenget Kamulos. Ils sont particulièrement puissants et maîtrisent la magie noire. Je préfère ne rien avoir à faire avec eux... Ils vivent à l'est du continent."
+"Il y a un port à Beloveno."
+"Il n'y a des bateaux qu'à Beloveno."
+"Je veux dire le chemin par le col dans la montagne!"{WORDCol}
+"Je suis content quand je suis en bonne santé."
+"Ca existe à Beloveno."
+"Oui, il fait beau en ce moment, qu'en pensez-vous?"
+"Je ne sais rien à ce sujet."
+"Je ne sais rien à ce sujet."
+"Skeima Din. Ah bon, hé bien, ça signifie chez nous quelque chose comme 'Une journée merveilleuse'."
+"C'est comme ça que s'appelle notre pays."
+"Heureusement, vous l'avez tué."
+"La religion est très importante pour nous."

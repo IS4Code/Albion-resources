@@ -1,0 +1,7 @@
+﻿{BLOK000}"Oh, je tiens l'épicerie de cette ville."
+"Skeima Din. Nous n'avons pas déjà parlé ensemble? J'ai entendu dire que vous vous mêliez au conflit. Je trouve que c'est une bonne chose. Beaucoup de gens vous feront plutôt confiance, surtout à une époque où la confiance mutuelle est déjà durement éprouvée. Ah oui, à propos, je ne suis plus si sûr non plus en ce qui concerne la position de Kontos. J'ai appris d'une bonne amie qu'il existe une relation entre lui et les membres du conseil Gard et Riko, qui étaient fortement impliqués dans le complot contre Herras. Normalement, on devrait suivre cette piste et élucider l'affaire, s'il y a du vrai là-dedans. Bon, je ne suis certainement pas assez diplomate pour ce genre d'affaires. Mais si vous tenez à ce pays d'une façon ou d'une autre, alors essayez de faire quelque chose. Vous seriez les premiers à être reconnus comme médiateurs neutres par toutes les parties. Vous réussirez peut-être à trouver des preuves au profit ou aux dépens de Kontos."{WORDKontos}{WORDChose sacrée}
+"Comme je l'ai dit, je ne suis plus très sûr de ce que je dois penser de lui. Vous pouvez peut-être réunir des preuves à sa charge ou à sa décharge?{BLOK010}"A quel genre de preuves pensez-vous?"{BLOK011}"Mais comment on va faire pour les trouver?"
+"Il existe certainement des documents qui indiquent avec qui Kontos est allié."
+"Aucune idée. Et une telle recherche n'est certainement pas sans risques!"
+"Je crois que l'affaire est devenue assez sérieuse. Kontos et ses adeptes n'ont-ils pas déjà mis leur plan en oeuvre?"
+"C'est moi."

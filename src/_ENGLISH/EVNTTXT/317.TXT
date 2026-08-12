@@ -1,0 +1,10 @@
+﻿{BLOK000} "I am Birrh, healer and teacher of the healing art at this place. You look curious. What do you wish to know?" {WORDEns}
+"Ens is that which makes you alive. Ens is your I. Ens is that which differentiates you from the dead, as well as from all other things which exist."{BLOK010}"So Ens is the soul ?"
+"No. The soul is a classification of Animenkna. According to Bathrig, only humans have a soul. He says that animals do not have a soul. Do Iskai have a soul in this sense? Hard to say. In any case the soul is nothing more than the attempt of Animenkna to classify and categorize the Ens for himself. If you wanted to summarize the Ens with your words, then you would have to say that it is soul plus conscience. But of course the Ens is inseparable. ^ ^ And if I were to say your soul is the body of your Ens and your conscience is its actions., then I believe that this is the best explanation that can be understood by your way of thinking. But always remember that a body cannot be separated from its actions." {WORDBathrig}
+"Bathrig... I cannot deny that there is something fascinating about this being. No one turned Animebona against herself more cleverly. His words sounded like freedom and Animebona, and what he said was Animenkna." {WORDAnimebona}{WORDAnimenkna}
+"I wish you health and a peaceful Ens." {WORDEns}{BLOK010}"We need your help as a healer, Birrh."
+"Greetings, I hope you're getting the knowledge you need for creating the seed." {WORDseed}{BLOK010}"We need your help as a healer, Birrh."
+"As I see, you have not yet set off for the center of danger, the Toronto. May the blessing of Animebona be with you." {WORDAnimebona}{WORDToronto}{BLOK010}"We need your help as a healer, Birrh."
+"But of course! How can I help you?"{BLOK010}"We have wounded among us." {BLOK011} "We need to heal a disease."{BLOK012}"A cursed object is giving us problems."{BLOK013}"It isn't so bad, excuse us. We have to go."
+"Naturally. Farewell."
+"I'm familiar with most bodily injuries. If you need help, come to me anytime."

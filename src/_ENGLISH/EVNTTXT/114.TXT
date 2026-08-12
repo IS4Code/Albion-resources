@@ -1,0 +1,4 @@
+﻿{BLOK000}"I take care of the council building and its inhabitants. For example, I make sure there are sufficient supplies and that the building is in good shape."
+"Dsarii-ma and welcome to the council building."
+"Dsarii-ma! Oh what a horrible deed your fellow humans did in this noble house! And I almost had the fleeing human in my grasp!"{BLOK010}"Did you see anything at the murder scene that could help us, Vris?"
+"Nothing, except that the murderer may have fled in a southwest direction. ^ ^ And he had this strange smell, like seeds. I went through all the spices in my kitchen without finding anything similar."

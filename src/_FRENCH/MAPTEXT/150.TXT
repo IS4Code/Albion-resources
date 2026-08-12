@@ -1,0 +1,29 @@
+﻿!
+Quand on passe sur la dalle devant la porte, celle-ci s'illumine. Et la porte s'ouvre simultanément.
+La dalle s'illumine.
+Il y a une dalle avec une surface lumineuse et transparente.
+Une fois que cette dalle s'illumine, la porte à l'"ouest" de la pièce s'ouvre.
+Un interrupteur.
+La position de l'interrupteur ne change plus si l'on appuie encore une fois.
+La porte veut se refermer, mais reste ouverte. Apparemment, une cellule dans la porte a détecté quelqu'un.
+Il y a une armoire contre le mur nord.
+L'armoire est vide, prête à recevoir des objets.
+Une armoire.
+Le bruit venait d'assez loin sur la droite.
+Dès que la porte avec les voyants rouges s'ouvre, celle de derrière avec les voyants verts se referme. Le chemin du retour est barré!
+Ce doit être un Technorobot. Il exécute des tâches inconnues.
+Une porte. Il n'y a aucun mécanisme d'ouverture apparent.
+Une lampe fluorescente. Elle diffuse une lumière blanche et froide.
+Une poutrelle d'acier.
+Les murs semi-transparents marquent un accès au service. L'échelle du milieu mène vers le haut.
+Un clavier à dix touches pour entrer des codes.
+Une porte avec des voyants rouges sur les côtés. Il n'y a aucun mécanisme d'ouverture apparent.
+Une porte avec des voyants verts sur les côtés. Il n'y a aucun mécanisme d'ouverture apparent.
+Une porte avec des voyants bleus sur les côtés. Il n'y a aucun mécanisme d'ouverture apparent.
+Le code est apparemment correct: la porte à côté du clavier s'est ouverte.
+Il ne se passe rien.
+Yeap! Gagné!
+Une échelle. Elle mène vers le haut.
+Le clignotement rythmé de la dalle indique apparemment une fonction spéciale.
+Une lampe fluorescente défectueuse.
+{INK 001}Tom dépose l'arme dans l'armoire.{INK 002}^^ "Bon. Si j'arrive maintenant à l'armoire par l'autre côté de ce sas, je ruse les Sécus et l'arme m'appartient!"

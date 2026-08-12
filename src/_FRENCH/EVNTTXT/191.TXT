@@ -1,0 +1,8 @@
+﻿{BLOK000}"Je suis le directeur technique de tous les segments."{WORDSegments}{WORDDirecteur}
+"Salut, Driscoll."
+"Dès que ça coince quelque part, les techniciens viennent me voir et attendent une solution miracle. Mais bon, je ne veux pas me plaindre, ce vol s'est déroulé jusqu'à là sans accroc. Le TORONTO vaut vraiment son pesant d'or."{WORDTORONTO}
+"Hé bien, comme je l'ai déjà dit, dès que ça coince quelque part, les techniciens viennent me voir et attendent une solution miracle. Mais bon, je ne veux pas me plaindre, ce vol s'est déroulé jusqu'à là sans accroc. Le TORONTO vaut vraiment son pesant d'or."{WORDTORONTO}
+"Seul deux segments sur huit du TORONTO comportent des systèmes de survie: celui-ci et le segment où se trouvent les logements des Sécus, l'infirmerie et le noyau du réacteur. Les autres segments contiennent des machines et du matériel pour l'exploitation de matières premières et ne doivent pas être entretenus pendant le vol, et ne me causent donc pas de soucis."{WORDSécus}
+"Pas compris? Bon, encore une fois: Seul deux segments sur huit du TORONTO comportent des systèmes de survie: celui-ci et le segment où se trouvent les logements des Sécus, l'infirmerie et le noyau du réacteur. Les autres segments contiennent des machines et du matériel pour l'exploitation de matières premières et ne doivent pas être entretenus pendant le vol, et ne me causent donc pas de soucis."{WORDSécus}
+{BLOK000}Que peux-tu dire de... {BLOK001}Regarde un peu ça... {BLOK004}A la prochaine! {BLOK005}Quel est ton job actuel?
+"A une prochaine!"

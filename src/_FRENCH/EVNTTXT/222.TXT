@@ -1,0 +1,10 @@
+﻿{BLOK000}"Et oui, mes chéris...vu ma tenue excitante, vous devriez savoir où je travaille. Oh, vous pouvez toujours me rendre une petite visite. Cependant, la plupart des êtres masculins n'avouent pas facilement qu'ils fréquentent de temps en temps une maison close."
+"Skeima Din, Kariah vous salut. J'ai une information urgente pour vous! Ça presse vraiment!"{WORDInformation}
+"Skeima Din, vous avez réfléchi à mon information? Agissez vite, tant qu'il est encore temps, je vous prie. Vous y avez vraiment réfléchi?"{WORDInformation}{WORDOui}{WORDNon}
+"Ce n'est pas facile d'être une catin! Il y a quelques jours, un de mes clients m'a donné une information sérieuse, au cours d'une nuit, comme quoi Herras, président du 'Conseil des justes, devait être assassiné. Ce sont évidemment Riko et Gard qui sont derrière l'affaire.^^S'il vous plaît! Je ne peux pas vous le prouver, mais aidez-nous! Faites quelque chose. Personne d'autre ne me croit, vous êtes mon dernier espoir. S'il vous plaît! Empêchez cet attentat!^^Je sais aussi maintenant que l'attentat est imminent. Mais vous pouvez encore l'empêcher!"{WORDAttentat}{WORDInformation}
+"Alors faites-le, s'il vous plaît!"
+"Et vous êtes arrivés à quelle conclusion?"{BLOK010}"Nous devons attendre."{BLOK011}"Il faut voir ce que nous pouvons faire."
+"N'attendez pas trop longtemps! Le temps file, et Gard et Riko vont certainement passer à l'acte!"
+"Vous devez comprendre que je ne puis vous dire de qui je tiens cette information. Déjà, rien que par le fait de vous donner l'information, je m'expose à de grands dangers. J'ai eu encore une nouvelle information, selon laquelle l'attentat est imminent!"
+"L'attentat est imminent! Herras vous croira peut-être si vous le prévenez. Ou essayez d'arrêter Gard et Riko. Si Herras est mort, la partie mal intentionnée du conseil l'emporte! Essayez d'empêcher ça, je vous prie. La plupart des gens de la ville n'en sont pas conscients, ils ne voient pas le danger ou ne veulent pas le voir."
+"C'est moi."

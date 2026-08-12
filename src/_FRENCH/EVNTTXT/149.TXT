@@ -1,0 +1,10 @@
+﻿{BLOK000}"Je suis éleveur et je garde mon troupeau dehors."{WORDEleveur}{WORDTroupeau}
+"Dsarii-ma. Mais que voulez-vous du vieux Jiris?" {BLOK010}"Dsarii-ma. Pouvez-vous nous indiquer le chemin qui mène à la ruine des Dji-Fadh?"
+"Mais bien sûr. Mais vous êtes sûrs que vous voulez aller voir le vieil Argim? Il doit s'y passer des choses bizarres!^^ {INK 001}{LEAD}{NAME}:^ {INK 002}Nous n'y allons pas sans raison, ni par plaisir. Pouvez-vous nous aider?"^^ {INK 001}Jiris:^ {INK 002}"Bon d'accord. Prenez direction nord, jusqu'au lac. Contournez-le par l'est, jusqu'à la route abandonnée. Suivez-la jusqu'à la bifurcation sans issue vers l'ouest. Un peu plus loin, devrait se trouver le vieux pont, s'il ne s'est pas déjà écroulé dans le fleuve. soyez prudents là-bas."
+"Vous voulez encore y aller? Bon, ça ne me regarde pas. Alors:^ Prenez direction nord, jusqu'au lac. Contournez-le par l'est, jusqu'à la route abandonnée. Suivez-la jusqu'à la bifurcation sans issue vers l'ouest. Un peu plus loin, devrait se trouver le vieux pont, s'il ne s'est pas déjà écroulé dans le fleuve. Soyez prudents là-bas."
+"Notre famille exerce ce métier depuis longtemps déjà. Tout le monde ne peut ou ne veut pas se payer la viande chère des chasseurs, nous proposons la meilleure qualité à prix réduit. J'aime mon troupeau et mon métier: je ne suis pas un citadin et j'aime la vie à l'extérieur."
+"Comme je l'ai déjà dit: Notre famille exerce ce métier depuis longtemps déjà. Tout le monde ne peut ou ne veut pas se payer la viande chère des chasseurs, nous proposons la meilleure qualité à prix réduit. J'aime mon troupeau et mon métier: je ne suis pas un citadin et j'aime la vie à l'extérieur."
+"On appelle les bêtes Mimins. Elles sont calmes le plus souvent et leur viande est excellente. Je m'occupe d'elles et elles de moi."
+"Je ne l'ai pas déjà dit?^ On appelle les bêtes Mimins. Elles sont calmes le plus souvent et leur viande est excellente. Je m'occupe d'elles et elles de moi."
+"Dsarii-ma! Quel étrange visite! ^Oh, excusez-moi, mon comportement n'est pas aussi raffiné que celui des citadins, hi, hi!"
+"Dsarii-ma! Donc vous ne vous êtes pas encore fait bouffer, hi, hi!"

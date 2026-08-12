@@ -1,0 +1,89 @@
+﻿ 
+Une boîte à fusibles.
+Un fauteuil.
+Une chaise longue.
+Le tableau de contrôle pour le réacteur atomique.
+Un panneau de service.
+Une console de contrôle.
+Une console de contrôle de vol.
+Un tableau de contrôle.
+Un W-C. chimique.
+Une armoire.
+Un évier.
+Serviettes.
+Nécessaires pour se laver les dents.
+Un témoin de surveillance de couloir.
+Témoins de contrôle.
+Une partie du réacteur.
+Fûts d'ordures, d'eau, de poison et de matières premières.
+Une console éteinte.
+Une lampe.
+Une assiette.
+Un verre.
+Un gobelet.
+Un récipient.
+Une bouteille.
+Un pot.
+Une boîte.
+Un récipient.
+Une salière et un poivrier.
+Sauce au soja.
+Un pot.
+Une petite boîte.
+Une pelle.
+Une bêche.
+Une clé plate.
+Un tournevis.
+Une console manuelle.
+Une ADP. (Assistance Digitale Personnelle)
+Une tenaille.
+Des couverts et un gobelet.
+Vaisselle.
+Une porte automatique.
+Une navette.
+Container.
+Une douche.
+Un véhicule.
+Marquages au sol.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Un sas immense.
+Cette lucarne dotée d'un filtre puissant permet de voir directement le coeur du TORONTO: le réacteur de fusion. Les forces maîtrisées d'un soleil couvrent l'énorme besoin en énergie de l'installation.
+La table de contrôle du réacteur.
+"Je veux parler de cette console, Tom. Si tu croises bien les doigts pour moi, je pourrais essayer de couper Ned, l'I.A, de l'alimentation en énergie. J'essaye tout de suite?"
+Joe doit-il essayer de manipuler la console? {BLOK000}Oui, essayons! {BLOK001}Non, juste un moment.
+"N'attendons pas trop longtemps. Je n'ai pas envie de me faire prendre."
+"Enfin. C'est donc la salle du réacteur. Le réacteur de fusion est là-bas, tout au fond. Ça vaut la peine d'y jeter un coup d'oeil!^^A part ça, nous devrions regarder autour de nous pour la console."
+"Dois-je démarrer maintenant?"
+"C'est le réacteur! Regarde un peu cette lumière! Ils ont intégré une sorte de lucarne qui laisse passer seulement un millième de la lumière créée lors de la fusion. Un spectacle fantastique!"
+Joe se met au travail.
+"Voyons... Je ne suis pas un spécialiste de ces consoles, mais ceci devrait..."
+Tout à coup, Joe est interrompu par une voix sortant du haut-parleur!
+"Tom Driscoll, Joe Bernard, je vous somme de cesser immédiatement toute manipulation sur la console de contrôle.^^Plusieurs agents de la sécurité sont déjà en route pour vous rejoindre. Il faut que je vous fasse arrêter. N'opposez aucune résistance, les agents de la sécurité sont armés."
+"Mer-de! L'IA!"
+"Ned! Vous et Brandt, vous pensez vraiment pouvoir occulter la vérité sur cette planète?"
+!
+"Je dis tout simplement: oui.^^Les conditions sont favorables et les chances sont bonnes. L'existence de la société justifie un certain engagement."
+"{FAT }QUOI?{NORS} Vous nous dites en face que vous voulez délibérément détruire ce monde?^^Je..."
+"Qu'est-ce qui se passe avec cap'tain Brandt? S'il ne peut pas prouver ce qui s'est passé exactement pendant le vol, il perd sa licence à vie!"
+"C'est exact. Le Capitaine Brandt va se soumettre par la suite à un examen. DDT sera bien sûr obligé à ce moment-là de le licencier.^^Il va devoir finir sa vie comme le chômeur le plus riche des temps modernes.^^Je vais malheureusement devoir vous mettre tous les deux sous les verrous jusqu'à la fin de la mission. Ne vous inquiétez pas, vous aurez tout pour être à l'aise."
+"Mais bien sûr. Quand les poules auront des dents.^^Joe?"
+"Oui?"
+"On dégage. Au pas de charge."
+Tom et Joe se précipitent hors de la salle du réacteur! Ils fuient vers un sas dans la zone de l'infirmerie qui donne sur l'extérieur.
+Une porte automatique.
+"Eh, nous avons quelque chose à régler ici, tu te souviens? Tu ne veux tout de même pas sortir déjà d'ici?"
+Parties du réacteur.

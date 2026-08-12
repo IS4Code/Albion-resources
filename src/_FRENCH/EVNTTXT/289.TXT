@@ -1,0 +1,18 @@
+﻿{BLOK000}"J'imagine des mécanismes que je teste dans notre voûte d'essais."{WORDMécanismes}{WORDVoûte d'essais}
+"Désolé, suis très pressé en ce moment. Les prix de minerais ont encore terriblement augmenté et il faut d'abord que je règle plusieurs choses importantes ici.^^Je discuterai bien une autre fois avec vous."
+"Skeima Din. C'est affreux, le minerai de fer devient de plus en plus cher."{BLOK010}"Skeima Din Zebenno, nous te saluons de la part de Merdger."
+"De la part de Merdger?^^Encore merci, d'où connaissez-vous Merdger?"{BLOK010}"Nous l'avons rencontré par hasard."{BLOK011}"C'est un vieil ami à nous."{BLOK012}"Nous sommes allés le voir parce que nous voulons visiter votre voûte d'essais."
+"Oui, Merdger est d'un commerce agréable. Et il a vraiment inventé de supers trucs."{WORDInventions}
+"Ca m'étonnerait. Je connais tous ses amis. Si vous voulez raconter des balivernes, cherchez-vous une autre victime."
+"Mais que voulez-vous dans notre voûte d'essais. Vous voulez peut-être tester un de mes nombreux mécanismes?"{WORDVoûte d'essais}{WORDMécanismes}
+"Oui, il a inventé beaucoup de trucs supers. Ses dernières trouvailles sont des potions aux effets spéciaux. Vous avez déjà entendu parler d'huile dermotrope?"{WORDHuile dermotrope}
+"Parlez-en à Agida. Elle habite dans le sud et elle sait apprécier les effets de cette huile. Elle peut vous donner quelques bons tuyaux pour le voyage."
+"Normalement, ce n'est pas destiné au grand public. Nous y testons nos inventions. C'est étonnant tout ce qu'on peut faire quand on fait évoluer la technologie de façon méthodique. Je suis aussi très fier des nombreux mécanismes que j'ai inventé. Mais je ne peux bien sûr pas vous donner la clé."
+"Je fais évoluer la technologie de façon méthodique, en inventant toujours de nouveaux mécanismes de protection utilisés par la suite comme verrous, barrières ou autres. Il manque juste quelques cobayes."{WORDCobayes}
+"Je ne trouve pas suffisamment de gens compétents pour tester mes découvertes. Mes collègues ne peuvent évidemment pas le faire, après tout, ils étaient là pendant la phase de développement et ils connaissent déjà la plupart des inventions."{BLOK010}"Nous serions prêts à tester quelques choses."{BLOK011}"Vous trouverez sûrement quelqu'un."
+"J'espère aussi."
+"Mmmh, normalement je n'ai pas le droit, mais je vous laisserais la clé, si vous vouliez le faire une fois. Mais vous devez être prudents. Tout n'est pas tout à fait sans risques!"{BLOK010}"Non, on ne préfère pas."{BLOK011}"Oui volontiers, on fait attention."
+"Je peux comprendre. Je ne vous en veux pas pour ça."
+"Bon, d'accord. Je vous la donne. Mais ne le dites à personne."
+"Vous ne pouvez même plus l'emporter!"
+"Bien, il faut que j'y aille absolument. Merdger m'attend déjà. Je vous souhaite encore bonne chance."

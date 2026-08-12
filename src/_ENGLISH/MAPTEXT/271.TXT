@@ -1,132 +1,132 @@
-﻿
-
-
-
-
-
-
-
-
+﻿-free-
+Branches and roots.
+A woven basket.
+A glass vessel for water and other drinks.
+A barrel.
+A magnificent animal pelt.
+A bucket.
+A clay bowl.
+A flask.
 A plate.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-
-
-
-
-
-
+A clay mug.
+A mug.
+A table knife.
+A fork.
+A spoon.
+A clay container.
+Rocks.
+A bowl.
+A farming tool.
+An ax.
+A chest cover.
+A wooden chest.
+A lavishly decorated wooden chest.
+The rest room.
+A cover.
+A large wooden tub.
+A large metal kettle.
+A cupboard.
+All kinds of insignificant items are on these shelves.
+A bureau.
+A broom.
+A grill.
+You can grill meat on it.
+A fireplace.
+A tipped-over carafe.
+A ladle.
+A decorative wall sword.
+A wooden table.
+A stool.
+A folded stool.
+A massive dining table.
+A tree stump.
+Two crossed spears.
+A large barrel filled with strange liquids.
+A faucet.
+A bedcover.
+A comfortable and beautifully decorated bed.
+This bed is plain, yet practical.
+A kitchen table.
+A fireplace.
+The fireplace radiates a pleasant warmth.
+A decorated pot.
+Dried herbs.
+A human skull.
+A decorative shield.
+A metal pot.
+A decorative sword.
+A door.
+A kettle.
+A knife.
+A short dagger.
+A dagger.
+A large dagger.
+A short sword.
+A sword.
+A stiletto.
+A throwing dagger.
+A small ax.
+An ax.
+A small bow.
+A bow.
+An arrow.
+A small, leather shield.
+A leather shield.
+A round shield.
+A large shield.
+A leather cap.
+An embossed cap.
+A metal half-bowl.
+A leather vest.
+Leather armor.
+An embossed leather vest.
+A pair of shoes.
+A pair of boots.
+An empty bottle.
+A green healing potion.
+A turquoise healing potion.
+A blue healing potion.
+A key.
+A rope.
+A ring.
+A torch.
+A hammer.
+Stairs. They lead upward.
+Stairs. They lead downward.
+A counter.
+A carpet mat.
+A houseplant.
+A flowerpot.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+{CNTR} On the shield it says: {INK 006} Healer Ramina.
+This is the exit.
+"Can't you see that I'm busy? Get out of here!"
+"I've got clusters. It's a horrible disease. You better stay away from me, or you'll get it. You feel weak, sick, and get pimples on your legs. It takes a long time to recover from it."
+"Skeima Din. I had clusters, but I'm better now. Thanks to Ramina's good care I can leave the infirmary soon."
+"What do you want? I don't feel well. Please leave me alone..."

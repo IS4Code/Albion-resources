@@ -1,0 +1,5 @@
+﻿{BLOK000}"Je suis le tavernier."
+"Vous ne croyez donc pas que je vais encore vous servir? A votre place, je ne mettrais plus les pieds ici. Allez plutôt au lieu sacré et essayez d'empêcher Kontos et ses adeptes d'exécuter leurs plans. J'ai même maintenant des preuves évidentes contre Kontos!"{WORDPreuves}
+"Je vous les donne volontiers pour que vous voyiez à qui vous avez à faire. J'en ai d'ailleurs des copies. C'est malheureusement juste la partie d'un document que Kontos a voulu détruire. Mais on peut encore y lire un tas de choses!"
+"Mais je vous ai déjà donné le document."
+"Je suis Edjirr."

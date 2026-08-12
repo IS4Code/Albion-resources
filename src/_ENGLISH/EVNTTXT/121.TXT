@@ -1,0 +1,25 @@
+﻿{BLOK000}"I am a Dra, but, hopefully, not for much longer..."
+ 
+"Our magic is deeply rooted in this world. For example, all of our spells require us to concentrate our spiritual forces in a special kind of seed. We are also proud of the diversity of our craft. We know magic for creating and destroying, for injuring and for healing. ^ As a sign of our guild, we wear a special colored pattern on our pelts. The leader of the Dji-Kas is Sebai-fre Fasiir. He spends his entire time in the guild house."{WORDseed}{WORDhealing}{WORDFasiir}{WORDguild house}
+"Sebai-fre Fasiir has directed our guild for over 120 years. He is a living legend among the Dji-Kas and an outstanding teacher."
+"It is not the seed itself which develops the magic effect, but the spirit of the Dji-Kas which is used to find its focus. The seeds come from a strange plant called Triifalai, that means 'Trii of the Goddess.' They are sold in the guild house."{WORDTrii}{WORDGoddess}
+"Right at the entrance to the guild house you find Stri Rejira, a Mistress of the Healing Art. She will heal your injuries."
+"This is the name of a plant which produces seeds we greatly value. {WORDseed}"
+
+"Oh, the builders. The relationship between our guilds is sometimes a bit troubled. Our diverse craft attracts some of their most talented members. And who can blame them? Who wants to put all of his efforts into building houses, no matter how beautiful they are? Perhaps the Dji-Fadh are also angry because we built our guild house without their help."{WORDguild}
+"The guild house has been in the southwestern corner of Jirinaar for a long time. It was built by the Dji-Kas and houses many guild members and all Dra."{WORDDra}
+"We never ordered Akiir's murder! Kriis lied, the Goddess knows why. We have no reason to do such a shameful thing!"{WORDGoddess}
+"Let me thank you once more for having freed us from the suspicion of murdering Akiir!"
+"Akiir is the chief of the Formers, a guild which is, for the most part, at odds with us. Especially Akiir doesn't go out of his way to avoid conflicts."{WORDFormer}
+"You don't know Fasiir as well as those like me who deal with him on a daily basis. He would never have ordered such a crime! But I doubt you'll believe the words of a member of his guild."
+"I am really grateful that you have cleared his name."
+"I know nothing about a murder."
+dummy
+dummy
+dummy
+dummy
+dummy
+"Dsarii-ma, strangers."
+"Hmm, that fellow didn't appear to be in a good mood, don't you think Hofstedt?"
+{INK 001}Kriis doesn't answer, but just glances sullenly at {LEAD}{NAME}.
+"Agreed. But after all, not everyone can be in a good mood. The Iskai seem to be even more emotional than humans."

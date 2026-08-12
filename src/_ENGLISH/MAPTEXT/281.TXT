@@ -1,164 +1,164 @@
-﻿
-
-
-
-
-
-
-
-
+﻿empty
+No member of the group is particularly eager to put their hand there.
+A large sofa.
+A large cabinet.
+A grill.
+A bed.
+A fireplace.
+The bedcover.
+Iskai cutlery.
 A plate.
-A receptacle.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A saucepan.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A container.
+A sausage.
+A ham-like piece of meat.
+A ladle.
+Different herbs.
+Fruits.
+A specialty meat.
+A drinking cup.
+A bowl.
+A spice.
+Small spice jars.
+A small cup.
+A kitchen knife.
+Cookies.
+A small sausage.
+This bottle contains an aromatic liquid.
+A cloth.
+A hand towel.
+A bucket.
+A roasting pan.
+A pot.
+Within this kettle, there is a small pot on a rod in which food can be heated slowly.
+A cushion.
+A large roasting pan.
+A fur brush.
+A water channel.
+A water basin.
+A water barrier.
+A large clay mug.
+A bureau.
+All kinds of unimportant small items lie in the drawers of this desk.
+A chest.
+This is a fairly large kettle. Perhaps it can store supplies, water, or food.
+In the water basin, there's a strange plant which pumps water out of the ground with its strong, pulsating motions. Apparently, this fountain serves as the water supply.
+The water in this pool smells bad and foul. This is probably where sewage is collected.
+Water plants.
+Herbaceous plants.
+An exotic plant.
+Climbing, grasping plant.
+Places for further Cutmap events.
+A staircase. It leads down through the floor.
+A staircase goes up through the floor.
+This is apparently some kind of bed. It is filled with sand, which offers astounding comfort because of its coarse but rounded grains.
+The enormous shape makes this look like sitting furniture. It acts like a plant. It has apparently grown. The surface is soft and elastic.
+The fountain of the house.
+The water channels probably serve for the drinking water supply. They run through the house like small brooks.
+The musty odor and the holes in the object lead to the conclusion that this is a kind of toilet. This "furniture" is also made from plants, and thrives vigorously because of its regular fertilization.
+This is where the really urgent activities in life are performed.
+A sweet, tart smelling dish is cooking in this pan.
+A seat.
+A massive wooden table.
+A large-leafed plant.
+A door.
+A knife.
+A short dagger.
+A dagger.
+A large dagger.
+A short sword.
+An Iskai knife.
+An Iskai dagger.
+An Iskai stiletto.
+An Iskai short sword.
+A large Iskai stiletto.
+An Iskai sword.
+A large Iskai sword.
+An Iskai long sword.
+An Iskai lance.
+A large Iskai dagger.
+A short Iskai stiletto.
+A large Iskai stiletto.
+A large Iskai sword.
+A small bow.
+A bow.
+An arrow.
+A long arrow.
+A leather shield.
+A small Iskai shield.
+An Iskai shield.
+A large Iskai shield.
+A leather cap.
+An Iskai leather cap.
+An Iskai metal cap.
+An Iskai metal helmet.
+An Iskai chest protector.
+An Iskai metal chest protector.
+Light Iskai armor.
+Iskai armor.
+An empty bottle.
+A green healing potion.
+A turquoise healing potion.
+A blue healing potion.
+A red drink.
+A violet drink.
+A blue drink.
+A key.
+A rope.
+A torch.
+An Iskai notepad.
+A piece of paper.
+An Iskai ring book.
+An Iskai ring pad.
+A pencil.
+A short pencil.
+A bench.
+This seat literally grows out of the ground and is quite comfortable.
+A wooden pole. There is a sign on the top.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+Placeholder 2 for further Cut-Map-Events.
+This is the exit.
+"The wall! The wall!! Oh dear, the wall is turning. I believe I have drank too much."
+"Skeima Din, do you see anything you would like to buy? I am a peddler and I am looking for interesting things. I pay good prices since my supply is very small right now. Just show me if you have something interesting you'd like to sell."
+"Have you already been to Jikraii? She is the leader of the Magicians' guild. I am sure a visit there would be good for you."
+"Harvest work is exhausting. Only a relaxing, extended visit to the tavern helps. Especially the extended part, ha ha."
+"If you're looking for someone to talk to, then go see Edjirr. He's the host here and knows just about everything that happens in Srimalinar and the surrounding areas. Edjirr also knows a lot of people in Beloveno and Kounos. And everyone in Srimalinar knows Edjirr. He'll love to talk to you."
+"If you don't know your way around the place, I'll be glad to help you. Travel to the north in order to go past Kounos and the mountains to Beloveno. Travel to the east if you want to get acquainted with the Kenget Kamulos. And stay away from our sanctuary since there is a taboo which forbids strangers to go there. We make no exceptions and will make very sure that the taboo is maintained."
+"Skeima Din, please leave me alone now."
+"Skeima Din, I'm Jirra. I'm pleased to meet you. Have you brought any news from Beloveno? You did come from Beloveno, right? Of course, I'm very interested in politics and would very much like to be informed if something important is going on. And it changes a lot more than people think. Hasn't it also struck you how often people change their opinions? Just check it out. Talk with some people about something, and then talk to them a little later about the same thing. I'll bet you'll hear something different. Aside from that, if you're new here, I can give you a couple of tips for getting along and respecting our society and culture. For example, it is important that you do not enter the famous sanctuary of Srimalinar. There is a taboo that forbids strangers from visiting this site. We consider it to be a great violation of our religion if anyone breaks the taboo. This is a thinking and praying place which we have used for many generations. For a stranger to enter, it means ill-repute for all of us. Therefore, we ask that you please respect the taboo and stay away from this place."
+"Skeima Din, Jirra is my name. I believe we've already met. Didn't I already tell you about our sanctuary? There is a taboo that forbids strangers from visiting it. We consider it to be a great violation of our religion if anyone goes against the taboo. We have meditated and prayed there for many generations. For a stranger to enter means would be a sacrilege. Therefore, please respect the taboo and stay away from this place. Now, I know people are spreading rumors about our sanctuary, but all are unfounded. They say it is a magic workshop in which we practice black, evil magic. This is just as nonsensical as those legends about the horrible creatures who are supposed to come out of our sanctuary. Only these creatures really do exist, and unfortunately I just don't know where they come from. But they definitely don't come out of our shrine. There is almost always someone from our village there and no one has ever seen one of the creatures enter our sanctuary. I hope you haven't been influenced by this nonsense like the Celtic village of Kounos. Kontos has been spreading these rumors there. I really don't know why he is doing it, but hopefully I can find out and put an end to this nonsense. If you know anything about this, maybe you could tell me about it. Then, I will be glad to give you further information. I will see you when you come back. But, be sure to talk to all the important people in Kounos and Beloveno so you can find out more!"
+"You still dare to show yourself here? After everything that has happened? I don't understand you. The rumors and the poor arguments of the Celts are ridiculous. This place is no more dangerous than any other cave in this area. And you want to go in and violate our taboo? That would be a direct attack against our people. We can only react against it with anger and incomprehension. I don't know what you are thinking, but I just can't believe what you are doing. There will be a war, whether or not we understand your motives. In any case, we have to defend ourselves, and we will do that. Most of our warriors have already marched off to provide resistance. Now only a miracle can prevent the worst."
+{CNTR}HERE ^ New Sugo.
+Mellthas gesticulates to indicate that he has something important to tell. Then he writes eagerly on his piece of paper: ^ ^ "We should visit my friend Darios in Kounos. Perhaps he'll bring us a little closer to the truth."

@@ -1,184 +1,184 @@
-﻿
-
-
-
-
-
-
-
-
+﻿-free-
+Branches and roots.
+A woven basket.
+A glass vessel for water and other drinks.
+A barrel.
+A magnificent animal pelt.
+A bucket.
+A clay bowl.
+A flask.
 A plate.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A pair of pliers.
-
-
-
+A clay mug.
+A mug.
+A table knife.
+A fork.
+A spoon.
+A clay container.
+Rocks.
+A bowl.
+A farming tool.
+An ax.
+A chest cover.
+A wooden chest.
+A lavishly decorated wooden chest.
+The rest room.
+A cover.
+A large wooden tub.
+A large metal kettle.
+A cupboard.
+All kinds of insignificant items are on these shelves.
+A bureau.
+A broom.
+A grill.
+You can grill meat on it.
+A fireplace.
+A tipped-over carafe.
+A ladle.
+A decorative wall sword.
+A wooden table.
+A stool.
+A folded stool.
+A massive dining table.
+A tree stump.
+Two crossed spears.
+A large barrel filled with strange liquids.
+A faucet.
+A bedcover.
+A comfortable and beautifully decorated bed.
+This bed is plain, yet practical.
+A kitchen table.
+A fireplace.
+The fireplace radiates a pleasant warmth.
+A decorated pot.
+Dried herbs.
+A human skull.
+A decorative shield.
+A metal pot.
+A decorative sword.
+A door.
+A kettle.
+A knife.
+A short dagger.
+A dagger.
+A large dagger.
+A short sword.
+A sword.
+A stiletto.
+A throwing dagger.
+A small ax.
+An ax.
+A small bow.
+A bow.
+An arrow.
+A small, leather shield.
+A leather shield.
+A round shield.
+A large shield.
+A leather cap.
+An embossed cap.
+A metal half-bowl.
+A leather vest.
+Leather armor.
+An embossed leather vest.
+A pair of shoes.
+A pair of boots.
+An empty bottle.
+A green healing potion.
+A turquoise healing potion.
+A blue healing potion.
+A key.
+A rope.
+A ring.
+A torch.
+A hammer.
+Stairs. They lead upward.
+Stairs. They lead downward.
+A counter.
+A carpet mat.
+A houseplant.
+A flowerpot.
+A decorated ornament embedded in the floor.
+A beautiful ornament, decorated with a large crystal, embedded into the ground.
+A metal table.
+An anvil.
+A metal shield.
+A metal chest.
+A chimney for the forge.
+A wall hanging.
+An unoccupied cushion. It is very beautiful and normally used as decoration.
+Some valuable pieces of jewelry.
+Display boards with weapons and shields.
+An empty display board.
+A fire bowl.
+An extinguished fire bowl.
+A loose handle.
+A handle.
+A water place.
+A hammer.
+A small hammer.
+A hammer.
+A special hammer.
+Tongs.
+A file.
+A small file.
+A leather hole punch.
 A screwdriver.
-
-
-
-A tumbler.
-A spanner.
-
-
-
+A small screwdriver.
+A metal saw.
+ A precision tool.
+A beaker.
+A wrench.
+Shears.
+A bowl.
+Fine shears.
 A bottle.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Several bottles.
+ A vial.
+A red vial.
+A metal box.
+A metal object.
+A wire object.
+A metal bowl.
+Brass balls.
+A bowl with water.
+A bowl.
+A mortar.
+A magnifying glass.
+Forceps.
+A heavy, short sword.
+A decorated sword.
+A double stiletto.
+A long sword.
+A display cabinet.
+Shelves with valuable metal smith work, ornaments, and jewelry.
+A mining cart.
+Rails.
+A buffer stop.
+A chair.
+A diamond polishing machine.
+A metal bathtub.
+The exit.
+"None shall pass!"
+"But, we have an important reason! The future of your people may depend on it!"
+"Mmm, that sounds pretty important. Okay, we'll let you through. But I warn you, if you're lying, we'll get you for it."
+"Skeima Din."
+"I've got not time. I've got to do all of the bookkeeping for this season."
+"Good day, I've already heard from the guards that you have come here on an urgent matter. Have you seen Sojekos yet? He is the chief here. In any case, you should go to him."
+"Nja? Well, hmm! Well, I don't know what you want of me, nja?"
+"We didn't want to disturb you."
+"Nja? Nja. Skeima Din."
+"Heh heh, that was a real funny guy."
+"Skeima Din, has anyone shown you the accommodations here? In the middle part of the building, you will find the different conference rooms; in the northwest there is a dormitory; in the southwest, the kitchen and its supply rooms. You can also get a little bite to eat there if you're hungry. In the eastern part of the building, there are the guest rooms. There is a washroom and some beds. The exit is located in the middle corridor."
+"So, I need two more spice flies and Jabba-paste. Oh darn, I haven't mixed that yet. Could you please get out of my way? You're always under my feet..."
+"Where is Kotilla now? If you don't keep an eye on the little ones all the time... I told her she should stay here. If you see her, please tell her to come home immediately. She has to take a bath."
+"I don't want a bath! I don't want one!!! I had a bath ten days ago. I can't. I'm not going. She won't find me. I can hide really well. But please don't say that you saw me here."
+"I am the Ultimate Supreme Chief Director of Umajo-Kenta and I order you to bow down before me! All of you! Faces to the ground! And I herewith find you guilty of disobedience and condemn you all to the DEATH PENALTY, which is to be CARRIED OUT IMMEDIATELY..."
+A woman's voice is heard from the next room: "Prijukos, you've played enough today! Now come back in here; you still have to take a bath!"
+"Nooooooo! I don't want to take a bath! We always have to take baths! It's so horrible! Mommy, I'm still very clean since the last bath. I'd rather play the Ultimate Supreme Chief for a while..."
+"You come in here right now, IMMEDIATELY..."
+"I guess I'm gonna have to take a bath or she'll get really mad..."
+"But Mommy, I've already had a bath today... ohh, you're not Mommy. Who are you? You must be the important visitors!"
+"Tomorrow our cook is making more sweet cakes. Mmm, I love sweet cakes."
+"Skeima Din. May I present myself: Peukko is my name. I'm the representative for Sojekos. But, since he is in now, you should go directly to him if you have a request."
+"Would you like to have a little something to eat?"
+"Enjoy it."

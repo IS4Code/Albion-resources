@@ -1,7 +1,7 @@
-﻿{BLOK000}"I'm the captain of the ship. Something you should know by now.
-"What do you want, Driscoll? I don't have much time to talk, we're going to be landing soon." {BLOK010}"Sir, I just wanted to ask you, if you could give me a more exact time of departure for the shuttle flight."
-"I'm real sorry, Driscoll, I'm in a hurry. If you want to hear about your departure time, then you're going to have to listen to the loudspeaker reports."
-"I can't give you any exact information, Driscoll. But it can't be too much longer, now. The bridge will announce the time of departure within sufficiant time to be ready.^^Please excuse me now, but I still have a lot to do."
-"You were supposed to take off a long time ago, Driscoll. Didn't you here the announcements? Your in charge of when you take off, but you shouldn't be testing our patience that much."
-{BLOK004}Goodbye, Sir. {BLOK005}What isyour assignment?
-"Good bye, Driscoll."
+﻿{BLOK000}"As you should know, I am the captain of this ship." 
+"What is it, Driscoll? My time is precious so close to landing." {BLOK010}"Sir, I only wanted to ask if you could tell me a more precise deparutre time for the shuttle flight." 
+"Sorry, Driscoll, don't have time right now. Pay attention to the loudspeaker messages for your take-off time."
+"I cannot give you any more information, Driscoll. It would take me too long. The bridge will announce the take-off time over the loudspeaker shortly. ^ ^ Now please excuse me, I still have a lot to do." 
+"You should have launched a long time ago. Didn't you hear the announcement? When you go is up to you, but you shouldn't try our patience too much."
+{BLOK004}"Good bye, Sir."{BLOK005}"What is your job?"
+"Bye, Driscoll."

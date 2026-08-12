@@ -1,0 +1,9 @@
+﻿{BLOK000}"I am the chief of the Druids of Gratogel." {WORDdruids}{WORDGratogel}
+"Togi Din. Oh, by the Gods! I see that some of you are badly wounded. Go quickly to Makaio, near the entrance. He will be glad to treat your wounds. We can talk more after that." 
+"Togi Din, my helpful visitors. I hope you are making progress with your quest in Drinno." {WORDDrinno}{WORDBero}
+"I have read about that. A horrible device. However, there should be objects which one could use to neutralize such a field. The book spoke of a rainbow-colored rod."
+"Most of the trap systems down there were built for hasty attackers. I think many of the flames can be extinguished simply with water. So, fill a couple of buckets!"
+"Watch your step, my friends. Many demons are held just to be released against careless visitors who have tripped a mechanism."
+"The old symbol, hm? The past is too gray to remember its meaning. Unfortunately, I cannot say much about it."
+"Togi Din! Good to see you again. Can I do something for you?"
+"Farewell. I'm sure we'll see each other again."

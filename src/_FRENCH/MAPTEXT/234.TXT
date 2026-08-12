@@ -1,0 +1,176 @@
+﻿-libre-
+Branches et racines.
+Un panier tressé.
+Un récipient en verre pour l'eau et d'autres boissons.
+Un fût.
+Une magnifique peau de bête.
+Un seau.
+Un bol en terre cuite.
+Une corne pour boire.
+Une assiette.
+Une cruche en terre cuite.
+Une cruche.
+Un couteau de table.
+Une fourchette.
+Une cuiller.
+Un récipient en terre cuite.
+Pierres.
+Un bol.
+Un outil de labour.
+Une hache.
+Un couvercle de coffre.
+Un coffre en bois.
+Un coffre en bois artistiquement décoré.
+Le petit endroit paisible.
+Un couvercle.
+Un grand baquet de bois.
+Un grand chaudron métallique.
+Une étagère.
+On peut voir dans cette étagère un tas de choses sans importance.
+Une commode.
+Un balai.
+Un gril.
+On peut faire cuire de la viande dessus.
+Un fourneau.
+Une carafe renversée.
+Une cuiller en bois.
+Une épée murale décorative.
+Une table en bois.
+Un tabouret.
+Un tabouret replié.
+Une table à manger massive.
+Une souche.
+Deux lances croisées.
+Un grand fût avec d'étranges boissons.
+Une chantepleure.
+Une couverture de lit.
+Un lit confortable et joliment décoré.
+Ce lit est modeste mais fonctionnel.
+Un bahut.
+Une cheminée.
+Le feu de cheminée diffuse une chaleur agréable.
+Un pot artistiquement confectionné.
+Herbes séchées.
+Un crâne humain.
+Un bouclier décoratif.
+Un pot en métal.
+Une épée décorative.
+Une porte.
+Un chaudron.
+Un couteau.
+Un stylet.
+Un poignard.
+Une dague.
+Un coutelas.
+Une épée.
+Une pointe.
+Un poignard de jet.
+Une petite hache.
+Une hache.
+Un petit arc.
+Un arc.
+Une flèche.
+Un petit bouclier de cuir.
+Un bouclier de cuir.
+Un bouclier rond.
+Un grand bouclier.
+Un bonnet de cuir.
+Un bonnet clouté.
+Un bol de métal.
+Un gilet de cuir.
+Une armure de cuir.
+Un cuir clouté.
+Une paire de chaussures.
+Une paire de bottes.
+Une bouteille vide.
+Une potion de soins verte.
+Une potion de soins turquoise.
+Une potion de soins bleue.
+Une clé.
+Une corde.
+Un anneau.
+Une torche.
+Un marteau plat.
+Un escalier qui monte.
+Un escalier qui descend.
+Un comptoir.
+Un paillasson en forme de tapis.
+Une plante d'appartement.
+Un pot de fleur.
+Un ornement artistique enfoncé dans le sol.
+Un ornement artistique enfoncé dans le sol, sur lequel est posé un grand cristal.
+Une table en métal.
+Une enclume.
+Un bouclier de métal.
+Un coffre en métal.
+Une forge pour façonner des métaux.
+Une tapisserie.
+Un coussin vide. C'est un très bel exemplaire que l'on utilise normalement pour la décoration.
+Plusieurs parures précieuses.
+Tableaux de présentation avec armes et boucliers.
+Un tableau de présentation vide.
+Une coupelle de feu.
+Une coupelle de feu éteinte.
+Un levier branlant.
+Un levier.
+Un point d'eau.
+Un marteau.
+Un petit marteau.
+Un marteau plat.
+Un marteau spécial.
+Une tenaille.
+Une lime.
+Une petite lime.
+Un poinçon.
+Un tournevis.
+Un petit tournevis.
+Une scie à métaux.
+Un outil fin.
+Un gobelet.
+Une clé plate.
+Des ciseaux.
+Un bol.
+Des ciseaux fins.
+Une bouteille.
+Plusieurs bouteilles.
+Une fiole.
+Une fiole rouge.
+Une petite boîte en métal.
+Une forme en métal.
+Une forme en fil de fer.
+Un bol en métal.
+Boules de cuivre.
+Un bol d'eau.
+Un bol.
+Un mortier.
+Un verre grossissant.
+Une pincette.
+Un coutelas lourd.
+Une épée ornée.
+Une double pointe.
+Une épée longue.
+Une armoire de présentation.
+Etagères avec de précieux ouvrages en fer forgé, des bijoux et des gemmes.
+Un lorry.
+Rails.
+Un butoir.
+Une chaise.
+Un lapidaire diamantaire.
+Il y a une dalle à pression mécanique dans le sol.
+Des couteaux mobiles qui peuvent barrer le passage.
+Les couteaux sont ressortis. Le système de sécurité interdit cependant le chemin du retour.
+S'il existait un levier approprié, on pourrait l'utiliser ici.
+Un levier dans le mur.
+Un levier tombe à nouveau de l'interrupteur.
+Un levier branlant.
+C'est la sortie.
+L'accès à la cave des voûtes.
+{CNTR}Ici est inscrit:^{INK 006}Vers les voûtes.^{FAT }Accès armé uniquement!
+"C'est agréable de voir pour une fois quelqu'un à qui parler. Je vous le dis, c'est vraiment un boulot rasoir. Je suis assis toute la journée et je garde cet endroit. Il faut bien sûr que ce travail soit fait aussi, mais pourquoi moi? Tant pis, ça ne sert à rien de se plaindre."
+"Vous ne devriez pas laisser traîner les leviers ou les oublier dans les interrupteurs, sinon n'importe quel prisonnier peut fuir, si un d'entre eux devait avoir un jour la possibilité de quitter la voûte."
+"Je vous mets un levier sur la table pour que vous puissiez de nouveau quitter la prison. Ne laissez pas traîner les leviers comme ça. Le mécanisme est simple, vous allez sûrement le trouver tout de suite."
+{CNTR}"Eeh?!^^{FAHI}{INK 006}Stoooop!^Arrêtez-la!!!!"
+{CNTR}{INK 006}"Zut!^^Arrêtez-la, sinon elle va s'échapper!"
+{CNTR}{INK 006}"Trop tard!^^Bonne Terre, pardonne-moi....^{LEFT}Vous pouvez peut-être avertir la ville que Nelly s'est enfuie. Elle est très dangereuse. Les habitants de la ville doivent être alertés!^^Je me demande comment elle a pu sortir de sa cellule. Vous n'avez pas, par hasard...?^^Attendez..."
+"Je crois qu'il est préférable de partir maintenant..."
+{CNTR}{FAHI}{INK 006}"Stoooooooooop!"

@@ -1,0 +1,5 @@
+﻿{BLOK010}"Je suis combattante ou guerrière, comme disent certains. Si vous voulez, je vous accompagne dans votre voyage, je cherche toujours à lier connaissance et en plus, j'aime bien voyager à travers le monde pour voir de nouvelles choses et pour acquérir de l'expérience."
+"Skeima Din,^^si vous cherchez du renfort pour votre groupe, je vous propose donc mes services. Ça peut être avantageux pour vous d'avoir une guerrière parmi vous. Je ne suis pas encore un maître du combat, mais j'ai déjà accumulé beaucoup d'expérience, et puis on apprend toujours. En tout cas, j'aimerais bien me joindre à vous.^^Ca m'est égal où vous allez et quels buts vous poursuivez, tant que je vois du pays, que je découvre de nouvelles choses et que je peux m'exercer au combat." {BLOK010}"Vous pouvez nous accompagner volontiers." {BLOK011}"Merci pour la proposition, mais nous nous débrouillons très bien tout seuls."
+"Bien, je viens avec vous."
+"Vous aurez peut-être besoin plus tard de renfort."
+"Je crois que votre groupe est déjà assez grand."

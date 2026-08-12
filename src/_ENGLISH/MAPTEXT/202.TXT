@@ -1,65 +1,65 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
+﻿-free-
+Grass.
+Rocks.
+Low ground plants.
+Small branches and roots.
+Sedges.
+A small fruit tree.
+A round-topped tree.
+A broad-leafed tree.
+Rapids.
+A whirlpool.
+A water plant.
+The water is very deep and the current appears to be strong.
+Water plant sprouts.
+A blooming plant.
+A shade tree.
+These plants gleam in fascinating shades of color.
+Vegetables.
+A boulder.
+The water is very calm and clear enough to see the bottom. Numerous boulders lie in the water and there is almost no current.
+A fruit tree.
+A fence.
+A stalk plant. 
+A climbing, grasping plant.
+A bush.
+A large-leafed plant.
+A waterfall.
+A rock ledge.
+A plant growing on the ledge.
+This climbing plant has anchored itself into the irregular rock structure with thousands of roots. It appears to be very stable and has many branches to offer sufficient support for rock climbing.
+A wooden bridge.
+Grain fields.
+Mushrooms.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{CNTR} The shield says: ^ ^ {INK 006} House of Aretha, Queen of Aballon.
+{CNTR} Here it says: ^ ^ {INK 006} The Fruits of Aballon.
+{CNTR} On the weathered shield it is barely possible to make out: ^ ^ {INK 006} I Buy and Sell Many Things.
+{CNTR} "Oink?"
+{CNTR} "Rriik?"
+"Togi Din, young people! It certainly would be nice to be young and travel once more!"
+"Rifrako, that strange character, has an amulet which warns you when you are being hunted by a wild animal or something even worse. What a valuable thing to have!"
+"Togi Din, travelers. Go into Benno's Shop, the harvest was so good that he has dropped his prices!"
+"Togi Din, great people! My mother says I shouldn't speak to strangers, but I do it anyway!"
+"{CNTR} On the shield is written: ^ ^ {INK 006} To Aballon: Keep to the Southwest
+An eye-shaped symbol is embedded in the rock.
+"These symbols have been around for a very long time. They are found in many places around the planet, but nobody knows exactly where they came from or what their purpose is."
+{LEAD}{NAME} places the amulet with the symbol of the Goddess on the rock. ^ ^ A door creaks open and the companions enter the cave.
+"I can use the amulet of the Goddess I carry with me to open the entrance to the cave."
+Suddenly several shabby mean-looking persons jump out of a hiding place! ^ ^ They attack!

@@ -498,151 +498,151 @@
 
 
 
-Sofa
-Meat
-Sewage
-Herds
-Water
-Water tracks
-House
-Architecture
-Form giver
+sofa
+flesh
+sewage
+herds
+water
+water channels
+house
+architecture
+Former
 Dji-Fadh
-Magician
+magician
 Dji-Kas
-Clan
-Council
+clan
+council
 Sebainah
-Marriage
-Minor partner
-Brothers and sisters
-Maturity
-Fertility
+marriage
+secondary partner
+siblings
+maturity
+fertility
 Sebai
-Ritual
+ritual
 Chosen
 Trii
 Stiriik
-Laws
-Guild
-Magic
+laws
+guild
+magic
 Goddess
 Jirinaar
 Nakiridaani
-History
-People
-Council's hall
-Town gate
-Shopping
-Joint
-Port
-Brand
-Naked
-Healing
-Help
-Pain
+history
+humans
+council building
+city gate
+shopping
+tavern
+harbor
+mark
+naked
+healing
+help
+pain
 Dra
 Stri
 Akiir
-Murder
+murder
 Janiis
 Fasiir
 Rejira
 Argim
-Legends
-Skorrek
+legends
+skorrek
 heal
-Clothes
-Signature
-Food
-Weapons
-Equipment
-Buy
-Religion
-Marriage
-Society
+clothes
+signature
+food
+weapons
+equipment
+buy
+religion
+marriage
+society
 Iskai
-Kitchen
+kitchen
 Gridri
 Fadhiim
-Child
+child
 Giria
-Hunter
-Medicine
-Hunt
-Krondir
-Clirnate
-Training
-Cultures
+hunter
+medicine
+hunt
+krondir
+Klirna
+training
+cultures
 Kenget Kamulos
 Beloveno
 Umajo
-Trade
+trade
 Beloveno
-Scrivener
-Seed
-Grain
-Hall of Guildes
+writer
+seed
+grain
+guild house
 Triifalai
 Kriis
 Bradir
 Tri-Nadh
 Han
 Sira
-Representative
-Training
-Discipline
-Walls
-Well
-Domes
-Merchant
+representative
+training
+discipline
+walls
+fountain
+domes
+merchant
 Wania
-Wares
-Predators
-Kind of Fruit
-Pottery
-Rumour
-Navigator
-Shore liberty
-Fun
-Business
-Family
+wares
+predators
+fruit
+pottery
+rumor
+navigator
+land leave
+fun
+business
+family
 Rabir
 House of Winds
-Drinks
-Zoomi
-Trade
-Metal
-Heavenly metal
-Spices
-Reserve
-Stock-farmer
-Herd
-Cattle
-Ceile
-Trophy/Speedwell
-Guardianship
-Attio
+drinks
+zoomi
+trade
+metal
+heavenly metal
+spices
+warehouse
+cattle breeder
+herd
+cattle
+ceile
+trophy
+foster care
+attio
 Gods
 Danu
 Lugh
 Tuath
-Tribe
-King
-Tribal king
-Warrior
-Poet
-Trader
-Ordnance shop
+tribe
+king
+tribal king
+warrior
+poet
+trader
+weapon smith
 Umajo
-Law
-Druids
-Magic
-Healers
+law
+druids
+magic
+healers
 Albion
-Skull
-Grove
-Oak
+skull
+grove
+oak
 Drinno
 Canto
 Iskai
@@ -651,167 +651,167 @@ Arjano
 Gratogel
 Vanello
 Aballon
-Mountains
-Danger
+mountains
+danger
 Tharnos
 Oibelos
 Aretha
 Nemos
-Sea voyage
-Trip
-Strengthening amulet
-Sailor
+sea voyage
+journey
+strength amulet
+sailor
 Garris
-Artisan
-Shapes
+artisan
+shapes
 magical items
-Warrioress
-Queen
-Profession
-Fruits
-Bread
-Things to use
-Food
-School
-Father
-Teacher
-Forget
-Artefacts
+warrior
+queen
+profession
+fruits
+bread
+useful objects
+food
+school
+father
+teacher
+forget
+artifacts
 Bero
-Library
-TORONTO
+library
+Toronto
 DDT
 AI
 Ned
 Nugget
-Indi
+indi
 Joshi
 Floppy ears
 Hoika
 over-c
-Equipment
+complex
 Snoopy
-Envi
-Captain
-Captain
+environmentalist
+captain
+captain
 Brandt
-Data
+data
 HQ
 Hofstedt
-Secus
-Government
-Navigator
-Mathematician
-Flight
-Landing
-Dream
-Service deck
-Reserve systems
-Com room
-Secu
-Mining structures
-Robot
-Ore
-Life support
-Other
-Videos
-Machine technician
-Ladder
-Segments
-Government service
-Basement
-Storage room
+security
+government
+navigator
+mathematician
+flight
+landing
+dream
+service deck
+reserve systems
+COM room
+security
+mining structures
+robot
+ore
+life support
+other
+videos
+machine technician
+ladder
+segments
+government service
+basement
+storage room
 Mellthas
-Amulets
+amulets
 !!!
 God
-Courage
-Fear
-Honour
-Last battle
-Pride
-Fame
-Steps
-Brothers
-Companion
-Death
+courage
+fear
+honor
+Last Battle
+pride
+fame
+steps
+brothers
+companion
+death
 die
 Cuain
-Dmons
-Shrine
+demons
+shrine
 Khunag
-Battle
-Prayer
-Swords
+battle
+prayer
+swords
 Kledo
 Oqulo
-Training
-Rituals
-Spirit
-Assassins
-Kamulo's Sleep
+training
+rituals
+spirit
+assassins
+Kamulos' Sleep
 New year's eve
-Slaves
-Drugs
-Schedule
-Environment
-Nature
-Secret passageway
-Impure Person
+slaves
+drugs
+schedule
+environment
+nature
+secret passage
+Impure One
 Artorn
-Five High priests
-Blood of honor
-Fencing master
-Master magician
-Master of Ceremonies
-Greating
+five high priests
+Blood of Honor
+battle master
+magic master
+ceremony master
+greeting
 Jonatharh
-Cook
-Possibilities
-Leader
-Son
-Women
+cook
+possibilities
+leader
+son
+women
 Kamulos
 Animebona
 Animenkna
 !
 Celts
 Helromier
-Answer
+answer
 Vercingetorix
 Catuvellaunus
 Canto
 Saethar
 Bathrig
-Unknown god
+Unknown God
 !
-Bard
+bard
 Homer
-Aristotel
+Aristotle
 Broto
 Ulysses
 Entity
-Enlightened
+Enlightened Ones
 Ens
-Transportation caves
-Service person
-Feetless
-Arrival
+transport caves
+servant
+feet on the ground
+arrival
 meditate
-Places
-The goddess' flowers
-Spell scroll
-Reserve
-Fighter
+places
+Goddess' flowers
+spell scrolls
+affairs
+fighter
 Trenkiriidan
-Formgiver's House
-Amulet of the goddess
-Warniak
-Song
-Triifalai-Seed
-Art of healing
+Former building
+amulet of the goddess
+warniak
+song
+Triifalai seed
+healing
 Harriet
-Healers
+healers
 Rifrako
 Frill
 

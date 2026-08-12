@@ -1,0 +1,33 @@
+﻿{BLOK000}"I show visitors the achievements of the art of the Dji-Fadh."{WORDDji-Fadh}
+ 
+"We see what we do here as a mixture of magic, art, and craft. We are one of the oldest guilds in Jirinaar and, as you surely know, we are able to create, change, and permanently modify plants into a desired form through magic. This means we can produce complete houses out of living plant material which are not only beautiful, but also perform all the functions necessary for the well-being of its residents." {WORDmagic}{WORDJirinaar}
+"Stri Akiir is the chief of our guild. He is an outstanding artist and magician who works hard for our guild's interests. We all hope that he will become one of the Chosen some day."{WRNR----}
+"We are all thoroughly shocked. Akiir's death is a great misfortune for our guild. The Dji- Kas are capable of a lot, but that? Unimaginable! Hopefully the Sebainah will take drastic measures.!"{WORDDji-Kas}
+"What a tragedy! Akiir's behavior is shameful, but we suspect that learning of his impending death disturbed his otherwise very clear mind."
+"Sira is Akiir's only daughter. She joined the Dji-Kas, which made Akiir very angry." {WORDDji-Kas}
+
+"Oh, the seed throwers! I'm sure you've noticed that most of us do not have very friendly feelings toward the Dji-Kas. They often entice our greatest talents away with promises. Their craft lacks direction, dedication, and, apart from their healers, they are of no use to our society."
+"Our guild house competes with the council building for the title of most beautiful structure in Jirinaar. We are constantly maintaining and changing it, and we use it to demonstrate our knowledge, as you can see in the east wing."{WRNR----}{WORDJirinaar}
+"He is the leader of the Dji-Kas."{WORDDji-Kas}
+"That murderer! He deserves to die, and nothing less!"
+"Since you have cleared the charges against him, he is chief of the Dji-Kas again."
+"He is Akiir's representative, a friendly and modest Iskai."{WORDIskai}
+"He has suffered greatly from Akiir's death. Hopefully, now that he is the head of our guild, his numerous tasks will distract him."
+"You can see that a great burden has been lifted from Bradir since you cleared up the complicated matter of Akiir's death."
+"I am sure the seed throwers plotted the murder! Who would have believed that their spiritual degeneration had gone so far!"
+"Well, I must confess that these events have shown how quickly one can come to hasty conclusions about the Dji-Kas."
+"You heard about that? Well, to be honest, Argim's story is an embarrassing part of our guild's history. ^ ^ He was head of the Dji-Fadh almost 150 years ago. At that time, the Dji-Fadh's guild house was located outside the city. It was a magnificent building near a Han, in the middle of the forest. Now, Argim was enormously talented, but he was also very fickle. This was the reason his greatest goal was rejected: to become one of the Chosen. ^ ^ When he found out he had been rejected, he lost control of himself. He swore to achieve immortality in spite of the rejection. In an irresponsible outbreak of his power, he destroyed the entire building and converted it into a strange place which today everyone avoids. They say he stamped his spirit on the place."{WORDHan}
+"There are places where the force of the Goddess is particularly strong and where magic acts are strengthened, yet often made difficult as well. This kind of energy center is called a Han."{WRNR----}
+dummy
+"Dsarii-ma! Ah, you are the guests of the Hunter Clan I've heard so much about. Welcome to the guild house of the Dji-Fadh! Would you like to see some of our guild's craft?"{WORDDji-Fadh}{BLOK010}"Yes, we would like to have a little tour, Aliis!"
+"Well then, please follow me. The east wing, where we are now, was built solely for presenting the achievements of the Dji-Fadh."
+"Dsarii-ma! You don't want to buy a house, do you? Hir, hir!"
+"Dsarii-ma."
+"Dsarii-ma! Good to talk to you again!"
+SEQUENCE FOLLOWS!
+"Here you see a basin where we collect the house's waste water that is sent through pipe systems in the floor. The plants in the basin purify the water before it is returned to the river through an underground canal system."
+"This is a toilet made from a giant plant. The plant processes the fecal material rapidly and almost without odor. You only have to watch that it doesn't grow too large because of the regular fertilization."
+"Larger families are very fond of these sofas. They also are made of living plant tissue. ^ ^ The surface is soft and elastic. If it is damaged it simply grows closed again."
+"If you like, take a look at the house's fountain, a cherished object in larger clan houses. It is found in the south part of the house. I will leave you alone now to explore our guild house."
+"Thank you very much for guiding us, Aliis. Surely you understand that we cannot buy any of the works of your guild."
+"Hir, hir! Yes, I can imagine that! ^ ^ However, perhaps you would like to speak with the leaders of our guild. ^ ^ You will find them in the north part of the house. ^ ^ Farewell!"

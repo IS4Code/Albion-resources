@@ -1,0 +1,2 @@
+﻿{BLOK000} "I am buying food."
+"Come on in! ^ ^ I hope you are real hungry! Right now, I have a lot of fresh fruit from Srimalinar." {BLOK010} "Yes, we would like to buy rations." {WORDSrimalinar}

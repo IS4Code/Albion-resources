@@ -1,100 +1,100 @@
 ﻿ 
 A fuse box.
 An armchair.
-A couch.
-The control desk of the nuclear reactor.
-
+A cot.
+The control panel for the nuclear reactor.
+A service panel.
 A control console.
 A flight control console.
-A control desk.
+A control panel.
 A chemical toilet.
-A cupboard.
+A cabinet.
 A wash basin.
 Hand towels.
-Tooth brushes and toothpaste.
-An indicator for corridor security.
-Security indicators.
-Part of the reactor.
-Containers for garbage, water, toxic material and raw materials.
-A console, turned off.
+Toothbrush.
+A corridor surveillance monitor.
+Control monitors.
+A part of the reactor.
+Barrels with trash, water, raw, and toxic materials.
+A switched-off console.
 A lamp.
 A plate.
 A glass.
-A tumbler.
-A receptacle.
+A beaker.
+A container.
 A bottle.
-A pot.
-A can.
-A receptacle for fluids.
-A salt and pepper shaker.
+A metal can.
+A box.
+A container.
+Salt and pepper shakers.
 Soy sauce.
-A saucepan.
+A pot.
 A small can.
 A shovel.
 A spade.
-A spanner.
+A wrench.
 A screwdriver.
-A hand console.
-
-A pair of pliers.
-Cutlery and a mug.
-Crockery.
+A portable, hand-held console.
+A PDA (personal digital assistant).
+Tongs.
+Cutlery and a drinking cup.
+Dishes.
 An automatic door.
-A Shuttle.
-Containers.
+A shuttle.
+A container.
 A shower.
 A vehicle.
-
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A keypad for entering number codes.
-{TECF}{CNTR}ENTER ENTRY CODE:
-{TECF}{CNTR}INCORRECT CODE. ENTRY REFUSED.
-{TECF}{CNTR}CODE CORRECT. OPENING SERVICE PANEL.
-
-
-
-
-
-
+Ground markings.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+"There is a sketch of this area on that console over there."
+A console with a large screen.
+"At the end of the L-shaped section in the west, there should be an access to the service level. That's our destination."
+The door is locked.
+"That door doesn't lead to our destination anyway. We'll go on."
+"Everything is quiet. We don't seem to have triggered an alarm."
+"We haven't been discovered, yet. Hopefully, everything will continue to run smoothly."
+"Still no alarm. Almost too good to be true."
+"Shoot. The service panel we're looking for must be behind that."
+"Ah! In that niche over there is a console that'll give us access to the communications network."
+A code input keypad.
+A special screwdriver.
+Deactivated laser barriers.
+Activated laser barriers.
+"We have to be damn carefully with these laser barriers! The slightest contact is fatal!"
+A deactivated communications console.
+"O.K. Now I'm trying to input Joe's documentation concerning Albion into the onboard network. ^ ^ After this, I'm sure we'll have the AI and the security forces down our necks. Be prepared for a tough fight."
+Tom inserts the data tape with the recording of the life on this world into the console, and uses the chip Joe gave him to prevent the AI from interfering for as long as possible.
+"Let me at the thing. I will try to manipulate the console so that the showing is blocked from the AI for as long as possible."
+"After this, I'm sure we'll have the AI and the security forces down our necks. Be prepared for a tough battle."
+Joe inserts the data tape with the recording of the life on this world into the console, and messes it for a while.
+"That's it! The documentation is going out to all video screens and loudspeakers of the Toronto starting... Now!"
+{INK 001} The playback of the recording begins and Joe's voice suddenly comes from all loudspeaker systems: ^ ^ {INK 002} "To the crew of the entire Toronto installation. These are recordings which have been entered into the onboard system against the will of the ship's command. They document that there is highly developed life and even civilizations of intelligent life forms on this planet ^ ^ . We, Tom Driscoll, Joe Bernard, and a group of natives from the planet have entered the Toronto. Everyone is urgently requested to leave the ship. We have decided to take all necessary measures to prevent the Toronto from destroying this world. The ship's command will try to interrupt this transmission ahead of time. Now, hear and see how it really looks on this planet..." ^ ^ {INK 001} The documentary runs, uninterrupted so far, and shows scenes of the nature and inhabitants of Albion.
+An alarm siren mixes with Joe's loudspeaker voice!
+Security people appear!
+{INK 002} "There are the terrorists!" {INK 001} ^ ^ The security forces attack!
+The security forces immediately attack again!
+A ladder down.
+A keyboard for entering numerical codes.
+{TECF}{CNTR} ENTER ACCESS CODE.
+{TECF}{CNTR} WRONG CODE. ^ ^ ACCESS DENIED.
+{TECF}{CNTR} CORRECT CODE. SERVICE PANEL OPENING.
+"Ah, the service panel. The code for this access is 1712."
+"The opening code for this segment was... Ah yes, 1712!"
+{TECF}{CNTR}CODE CORRECT. OPENING DOOR.
+The bulkhead to the outside.
+"This section of the service deck is the only part that still lies between us and the fusion power plant. ^ ^ Let's go."
+"Done! Now let's find a console where we can enter our documentation concerning Albion; that will cause some trouble on board."

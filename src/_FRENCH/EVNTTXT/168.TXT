@@ -1,0 +1,3 @@
+﻿{BLOK000}"Je vends toutes sortes de bonne pitance."{WORDPlats}
+"Togi Din, voyageurs! Chez moi vous trouvez tous les délices d'Aballons à prix réduit." {BLOK010}"Oui, nous aurions besoin de quelques subsistances pour le voyage."
+"Vous le savez, Aballon est célèbre pour ses fruits, mais nos cochons aussi sont bien gras et leur chair savoureuse."

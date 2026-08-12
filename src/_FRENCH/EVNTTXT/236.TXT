@@ -1,0 +1,7 @@
+﻿{BLOK000}"Je suis membre du 'Conseil des justes'. je fais en sorte que tout se passe comme il faut."
+"Bienvenue à Beloveno. Je suis Gard, membre du 'Conseil des justes'."{WORDConseil}{WORDHôtel de ville}
+"Autre chose? Je suis très occupé, il y aura bientôt un autre siège du conseil."{WORDHôtel de ville}{WORDConseil}
+"Je suis un des trois membres du conseil. Mon collègue s'appelle Riko et puis il y a encore Perron. Riko n'est pas très loquace, mais c'est un type bien. En plus, je devrais peut-être dire que Perron est assez sensible et voit le mal partout. Ne vous laissez pas déstabiliser par lui. Pour finir, il y a encore Herras, le président du conseil. Vous pouvez rendre visite à chacun, si vous voulez. J'espère que vous appréciez votre séjour dans notre belle ville. Nous essaierons de vous rendre le séjour aussi agréable que possible. Si vous avez besoin de quoi que ce soit, dites-le moi. Je suis toujours à votre service."{WORDRiko} {WORDPerron}{WORDGard}
+"Riko et Perron sont les deux autres membres du conseil."
+"C'est moi."
+"Faites un tour, si vous voulez. Notre Hôtel de ville est assez grand."

@@ -1,0 +1,11 @@
+﻿{BLOK000} "I am the tavern keeper here. Have you tried my sugo yet? It's really good."
+"Come closer, Skeima Din! I have some information for you. Are you interested in it?" {BLOK012} "No, thanks." {BLOK013} "That depends." {BLOK014} "Yes, we are." {WORDinformation}
+"Well, if you're not interested, you're not interested. Would you like to buy rations?" {BLOK010} "Yes, please." {BLOK011} "No, thank you."
+"It should interest you. It concerns the council in Beloveno." {BLOK015} "Why should that interest us?" {BLOK016} "We are definitely interested."
+"Of course, I'd like something in return for the information... I would be interested in gold coins."
+"You might be able to use this information to your advantage."
+"Greetings. Make yourself at home. Would you like something to drink?" {BLOK010} "Yes, please." {BLOK011} "No, thank you."
+"I am Edjirr."
+"I have heard from a reliable source that a plot is being forged in the Council of the Just in Beloveno. The plan is to murder the president. There is someone of great influence on the council. I don't know who that is, but his influence will be stronger without Herras. ^ ^ Naturally I cannot guarantee that this is true. ^ ^ Oh yes, speak with Arrim who lives in the harvest workers' house. You can learn very important things from him."
+"Are you ready to pay 80 gold coins for that?"
+"Don't offer what you don't have."

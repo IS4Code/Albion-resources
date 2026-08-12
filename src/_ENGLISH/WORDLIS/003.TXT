@@ -998,223 +998,223 @@
 
 
 
-Umajo-kenta
-Metal
-Guilds
-Ritual
+Umajo-Kenta
+metal
+guilds
+ritual
 Mother Earth
-Wrath
-Bad luck
-Weapon smith
+wrath
+bad luck
+Weaponsmith
 Miners
-Mountain priest
-Diamond cutter
-Tool-and-dye-maker
-Price
-Joint
-Town hall
-Healers
-Healer
+Mountain Priests
+Diamond Polisher
+Equipmentmaker
+price
+tavern
+town hall
+healers
+healer
 Kounos
 Srimalinar
-Religion
+religion
 Iskai
-Plants
-Town gate
-Shops
-Currency
+plants
+city gate
+shops
+currency
 climate
 Kenget
 Kamulos
-Port
-Ship
-Schips
-Weather
+harbor
+ship
+ships
+weather
 Skeima Din
-Monopoly
-Salary
-Prisoner
-Guardsman
-Trough
-Pore oil
-Workshop
-Misunderstanding
-Innocence
-Patient
-Misjudgement
-Help
-Gratitude
-Information
-Favour
-Key
-Mine
-Prison
-Experiences
-Destinations
-Northern part
-Heat
+monopoly
+money
+prisoner
+guard
+drinks
+Porenoil
+workshop
+misunderstanding
+innocence
+patient
+misjudgment
+help
+gratitude
+information
+favor
+key
+mine
+prison
+experiences
+destinations
+northern part
+heat
 Agida
-Southern part
-Mountain range
-Leader
+southern part
+boulder belt
+guide
 Ohl
 Konny
 Nelly
-Game
-Ante
-Throwing the dice
-Thunder
-Donner rumble
-Thunder
-Riot
-Mommy
-Parents
-Search
-Danger
-Consolation
-Evil
+game
+stake
+throw the dice
+thunderbolt
+thunder rumble
+thunder
+riot
+mommy
+parents
+search
+danger
+consolation
+evil
 Zebenno
-Ore prices
-Developments
-Test dome
-Mechanisms
-Test persons
-Desert
-Water
-Well
-Prices
-Buy
-Wares
-Defend
-Hunter
-Metal shop
-Offer
-Magic Weapons
-Repairs
-Secret
-Beauty Queen
-Free game
-Gems
-Sharpen
-Exhibition
+ore prices
+developments
+test dome
+mechanisms
+test persons
+desert
+water
+fountain
+prices
+buy
+wares
+defend
+hunter
+smithy
+offer
+magic weapons
+repairs
+secret
+Queen of Beauty
+free game
+gems
+polish
+exhibition
 Mykonou
-People
-Collector
-Magic Gems
-Experience
-Trainer
-Request
-Preparations
-Work
-Mining
-Trade
-Mining tunnel
-Espionage
-Attempt
-Share
-Knowledge
-Circumstances
+members
+collectors
+magic gems
+experience
+trainer
+request
+preparations
+work
+mining
+trade
+mining tunnel
+espionage
+attempt
+share
+knowledge
+circumstances
 Kossotto
-Location
+location
 Edjirr
-Evidence
-Human
-Information
-Yes
-No
+evidence
+human
+information
+yes
+no
 Beloveno
 Arrim
-Opinion
-People
-Warrior
-Shrine
-Tabu
-Being
-Conflict
-Rumors
+opinion
+humans
+warrior
+shrine
+taboo
+creatures
+conflict
+rumors
 Zerruma
-Accounts
-War
+Kontos
+war
 Gard
 Riko
 Herras
-History
+history
 Perron
-Situation
-Attentat
-Pay
-Discrepancies
-Warning
-Position
-Mood
-Pronounciation
-Attempted murder
-Murder
-Murder
-Questions
+situation
+assassination
+reward
+discrepancies
+warning
+stubborn
+mood
+discussion
+murder attempt
+assassination
+murder
+questions
 Arrek
-Melthar
-Successor
-Time
-Who?
-Council
-Changes
-Connection
-Problems
-Belief
-Magic
-Plan
-Speech
+Mellthar
+successor
+lately
+who?
+council
+changes
+connection
+problems
+believe
+magic
+plan
+speech
 Kariah
-Praise
-Tip
-Pleasure House
-Continent
-Theories
-Map
+praise
+hint
+brothel
+continent
+theories
+map
 Aurino
-Sorrow
-Hunter
-Piece of land
+sorrow
+hunter
+piece of land
 Kryte
-Bad news
-Travel routine
-Passport
-Council of the just
-Sugo
+bad news
+travel routes
+pass
+Council of the Just
+sugo
 Ramina
-Cavern
-Caverns
-Kritah
-Kritahs
-Mountains pass
-Skull
-Inn
-Northern side
-Southern side
-Houses
-Building style
-Guild
-Town gate
-City gates
-Market place
-Metal maker
+cavern
+caverns
+kritah
+kritahs
+mountain pass
+skull
+inn
+northern side
+southern side
+houses
+building style
+guild
+city gate
+city gates
+market square
+Metalmakers
 Kenget Kamulos
-Country path
-Sickness
-Case
-Mother
+by land
+sick
+important
+mother
 Maini
-Awareness
-Dead
-Drinks
-Food
-Overnight stay
+consciousness
+dead
+drinks
+food
+overnight stay
 Drirra
-Attack
-Death
-Magicians' guild
-Magicians' guild
+attack
+death
+magicians' guild
+magicians' guild
 
 
 

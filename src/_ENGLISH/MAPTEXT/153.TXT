@@ -1,67 +1,67 @@
 ﻿!
-
-Floor panel lights up.
-Here there is a floor panel with a transparent illuminated surface.
-
+The service robot, normally busy with its mysterious tasks, moves purposefully toward {LEAD}{NAME} and {HIS } companions.
+Floor plate lights up.
+This looks like a floor plate with a transparent, luminous surface.
+There is a laser barrier right in front of {LEAD}{NAME}. The smell of hot metal hangs in the air. The light beams are so powerful, they make the dust in the air glow brightly.
 A switch.
-
-
-
-The wall cupboard is empty, ready to put objects in.
-A wall cupboard.
-
-
-
-A door. You can't see how to open it.
-A fluorescent tube. It sheds a cold white light.
-A steel girder.
-The translucent walls indicate a service entrance. The ladder in the centre leads upwards.
-
-A door with red lights at the side. There is no opening mechanism to be seen.
-A door with green lights at the side. There is no opening mechanism to be seen.
-A door with blue lights at the side.There is no opening mechanism to be seen.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The position of the switch does not change.
+{LEAD}{NAME} and {HIS } companions step into the laser barrier. It is a fast, merciful end. The beams cut through their bodies so quickly they don't even feel it. All are dead before the remains of their bodies hit the floor.
+The robot is completely destroyed by the laser barrier.
+The wall cabinet is empty, ready to receive objects.
+A wall cabinet.
+There is a wall cover here which is fastened with special screws.
+{LEAD}{NAME} loosens the screws. The cover plate falls to the floor and shows complicated electronic controls.
+A service robot.
+A door. No opening mechanism can be seen.
+A fluorescent light bulb. It radiates cold, white light.
+A steel beam.
+The semi-transparent walls mark a service access. The ladder in the middle goes up.
+A digital keypad for entering numerical codes.
+A door with red marking lights on the side. No opening mechanism can be seen.
+A door with green marking lights on the side. No opening mechanism can be seen.
+A door with blue marking lights on the side. No opening mechanism can be seen.
+{LEAD}{NAME} tears out some of the electronic components. Sparks fly out of the sabotaged controls.
+A service robot. He appears to be deactivated.
+{LEAD}{NAME} tears some of the components out of the wall. An electric shock passes through {HIS } limbs!
+The electronics here are thoroughly damaged.
+A switch, mounted to a Plexiglas wall with steel supports.
+The switch lights up briefly, but apart from that nothing happens.
+As soon as {LEAD}{NAME} operates the switch, the wall instantly disappears into the ceiling!
+A large control light.
+A blinking floor plate.
+There are complicated electronic components behind an opening in the wall.
+Upon operating the switch, the control and ceiling lights go on.
+All red fluorescent lights turn off immediately.
+"Apparently, we are dealing with a time-dependent control here."
+A switch with a control light beside it.
+"Ha! That noise is music to my ears! If the door doesn't open now, I'll be very surprised. I'd love to know what screwball programmed the systems down here!"
+"Shoot! I'll bet we have another damned time switch here."
+The light plates go out.
+"Damn! I assume we now have to activate the four switches in the corridor before we can get back. We'll never be able to do it in such a short amount of time. It is too far. The idiot who installed this should have his fingers chopped off!"
+"Yes! That was it! The Plexiglas walls behind us have raised! Now we have to handle the time switch!"
+"I think this leads to the hall in front of the reactor core, but that code entry panel is a big problem. I don't know the entry code!"
+"I think this leads to the hall in front of the reactor core, but that code entry panel is gonna be a problem. But... wait a minute... what about those notes we found! Those HAVE to refer to the code!"
+"A piece of paper with a number on it, well, well. You know it is strictly forbidden to write access codes down anywhere because of security regulations and so forth. ^ ^ Of course, I know a few Alzheimer's candidates who write down their codes and leave them lying around at their work site. They feel pretty silly by the fifth time their inspector has to save them because they've forgotten their codes. I think this might be where the paper came from. ^ ^ Of course the code doesn't seem to be complete, the paper is torn."
+"Hey, where are you going, man? We're almost there! Why in the world would you want to turn back now?"
+Some wires and components hang from this part of the wall. Apparently, it is being repaired, but the work is not completed yet.
+Should Joe try to make repairs? {BLOK000} "Yes, do it." {BLOK001} "No, better not."
+"Okay, that won't take long..."
+"So, that was it. Ha, that was probably the energy supply for the door over there. Look, it's open!"
+"Well, as you say."
+This is where Joe has made repairs.
+The laser barrier control is apparently not working properly. Parts of the barrier switch on and off at regular intervals.
+Ned, the humanoid body which serves the AI of the Toronto as the communications interface with the people on board, is standing in this room.
+This is a card reader. Apparently, it is intended to be a door lock, but the door is already open.
+A card reader.
+A code input keypad. The code has already been entered.
+A number of different colored control lights are mounted on this wall.
+Some completely identical persons emerge from the niches of this room and move toward {LEAD}{NAME} and {HIS }companions.
+"The AI bodies! So Ned actually has an entire arsenal of these androids!"
+"Sharp observation, Driscoll. I am surprised at how obstinately you act against the company's interests and the common good. As I'm sure you understand, I must use force to thwart this act of terrorism." ^ ^ {INK 001} The artificial bodies attack!
+{INK 001} Joe throws an interested glance at the place and says: ^ ^ {INK 002} "Hmm, let me see, I can probably repair that with just a few adjustments."
+"Oh no! Look at all these robots. I bet every one of them is programmed to attack!"
+"Tom Driscoll, I ask you for the last time to stop all activities directed against the company and turn yourself in to the ship's administration immediately."
+"Do you really believe we have come this far just to give in to the well-formulated yet laughable appeal of an AI?"
+"I was afraid you weren't going to be receptive to reasonable arguments. Be sure that you won't defeat this body as easily as the last time we met." ^ ^ {INK 001} The AI body attacks!
+"Look! The wall with the colored control lights has disappeared!"
+"A laser barrier! Those things are absolutely lethal! Let's try to figure out how to deactivate the lasers. We might be able to open some panels with a special tool. Maybe then we can deactivate the barriers."

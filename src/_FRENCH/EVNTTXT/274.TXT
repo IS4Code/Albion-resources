@@ -1,0 +1,3 @@
+﻿libre
+"Skeima Din,^^soyez silencieux, s'il vous plaît, et prenez garde aux malades alités. Si vous êtes blessés, je peux soigner vos blessures. Je m'y connais aussi en matière de malédiction et je peux vous aider dans la plupart des cas, si vous souffrez d'un handicap.^^Que puis-je faire pour vous?"{BLOK010}"Soignez nos blessures, s'il vous plaît."{BLOK011}"Nous souffrons de gros handicaps." {BLOK012}"Pouvez-vous ôter la malédiction d'un objet?"{BLOK013}"Quel est votre métier?"{BLOK014}"Merci beaucoup pour cet entretien."
+"Je peux soigner et guérir les gens."

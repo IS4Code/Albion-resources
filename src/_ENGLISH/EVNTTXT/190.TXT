@@ -1,7 +1,7 @@
-﻿{BLOK000}"I'm in charge of the transformer robots. But right now, I have to secure the supply room."{WORDMachine technician}
-"Hi, Tom! I don't have much time. The captain requested me to get the supply room ready for landing."{WORDLanding}{WORDCaptain}
-"Come on, you know. Normally, our job doesn't begin until after we land, then we start mining the raw materials."
-"The gravitational differentials are always changing during the landing, so you need to tie everything down."
-"So, what's going on, Tom?"
-{BLOK000}What can you tell me about... {BLOK001}Take a look at this...{BLOK004}See you soon! {BLOK005}What is your job at the moment?
+﻿{BLOK000}"I'm the machine driver for the mining robots. However, right now I'm taking care of the storage area." {WORDmachine technician}
+"Hi, Tom! I don't have much time. The captain picked me to prepare the storage room for the landing." {WORDlanding}{WORDcaptain}
+"Well, you know, normally our job begins after the landing, when we start mining the raw materials."
+"Because gravity will tilt during the landing, everything here has to be tied down."
+"Yes, what's up, Tom?"
+{BLOK000}"What can you say about..." {BLOK001}"Take a look at this..." {BLOK004}"See you soon!" {BLOK005}"What are you doing?"
 "Bye, Tom."

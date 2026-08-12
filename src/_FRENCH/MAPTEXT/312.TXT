@@ -1,0 +1,135 @@
+﻿libre
+Une cheminée.
+Un chandelier.
+Un panier tressé.
+Une table en bois.
+Un tabouret.
+Un lit avec un ciel. Avec ces têtes de mort, on pourrait l'appeler "lit d'enfer".
+Un bureau.
+Une chaise.
+Un feu flambe dans cette colonne, qui laisse apparaître une grimace dans une faible lumière, et suscite chez le spectateur un sentiment d'angoisse.
+Une colonne avec une horrible grimace.
+Un lit de guerrier. Comme la plupart des meubles ici, il est un peu repoussant.
+Un fût.
+Une sorte de tapis tressé de brins de végétaux.
+Une cruche en verre.
+Rideaux.
+Un coffre.
+Une armoire.
+Une torche.
+Il y a un tas de petites bricoles superflues dans les étagères.
+Un gros baquet en bois.
+Grandes étagères en bois.
+Ce lit n'est apparemment pas utilisé actuellement.
+Diverses armes tranchantes et contondantes et des armes à feu qui ont l'air assez dangereuses.
+Une étagère d'armes.
+Un bouclier.
+Un crâne empalé. Une odeur nauséabonde de décomposition indique que l'atrocité commise est assez récente.
+Ces poupées de paille servent à l'exercice et à l'entraînement au combat.
+Un pieu enveloppé de paille. Il sert à l'entraînement aux techniques de frappe.
+Une cible pour le tir à l'arc.
+Un plateau avec de la nourriture.
+Herbes.
+Un coffre.
+Une carafe.
+Une cuiller en bois.
+Un seau.
+Une cuiller.
+Une cuiller et une fourchette.
+Une timbale.
+Deux timbales.
+Couverts.
+Une assiette.
+Un récipient.
+Légumes.
+Pâtisserie.
+Une épice.
+Une assiette en métal.
+Un récipient en terre cuite.
+Un grand pot en verre.
+Un récipient en verre.
+Une boîte en bois.
+Une grande boîte en verre.
+Une bouteille.
+Notes.
+Un livre.
+Plusieurs livres.
+Un livre relié en cuir. Il a l'air d'avoir de la valeur.
+Ustensiles d'écriture.
+Un livre ouvert. Sur la page de gauche figure un croquis technique, la page de droite contient les descriptions correspondantes.
+Un petit crayon.
+Un coutelas lourd.
+Un coutelas lourd.
+Une porte.
+Ce fourneau de cuisine imposant sert à réchauffer des aliments et des boissons.
+Une tapisserie.
+Rideaux déchirés.
+Lits de bois misérables.
+Une colonne ornée.
+Une peau de bête.
+Un escalier qui monte.
+Un escalier qui descend.
+Tiroirs ouverts contenant des bricoles.
+Un gobelet.
+Des ciseaux fins.
+Une fiole.
+Une massue de combat.
+Fioles.
+Un verre grossissant.
+Grands torchons.
+Un torchon.
+Un tapis.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+{INK 001}Une esclave:{INK 002}^^ "Mon fils sera bientôt novice des Kledo. Il sera le plus courageux de tous les guerriers!"
+{INK 001}Une esclave:{INK 002}^^ "Parlez plutôt à Jonatharh, le chef des esclaves. Il est le plus souvent dans la cuisine."
+{INK 001}Une esclave:{INK 002}^^ "Je rêve souvent du monde à l'extérieur, et comment ce serait d'être libre."
+{INK 001}Une esclave:{INK 002}^^ "L'amour pour mon mari c'est tout ce qui m'apporte de la joie dans ma vie."
+{INK 001}Un esclave:{INK 002}^^ "Mmh? Quoi? Oh, des visiteurs! Oui. Mmh. Grr..."
+{INK 001}Un esclave:{INK 002}^^ "Pas de conversation, s'il vous plaît. Je ne veux pas avoir d'ennuis."

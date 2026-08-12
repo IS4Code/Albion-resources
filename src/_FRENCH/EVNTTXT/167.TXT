@@ -1,0 +1,2 @@
+﻿{BLOK000}"Je suis l'armurier de Vanello."
+"Togi Din, voyageurs. Que puis-je vous proposer pour rendre vos déplacements un peu plus sûrs?" {BLOK010}"Montrez-nous un échantillon de vos armes, s'il vous plaît."{BLOK011}"Pouvez-vous réparer ceci..." {BLOK012}"Adieu."

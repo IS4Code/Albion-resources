@@ -1,0 +1,18 @@
+﻿{LEAD}{NAME} leert ein Fläschchen mit grüner Medizin und fühlt sich danach etwas besser!
+Dieser Text ist nicht interessant.
+{LEAD}{NAME} leert ein Fläschchen mit türkis|farbener Medizin und {HE  } fühlt sich sehr viel besser!
+{LEAD}{NAME} leert ein Fläschchen mit blauer Medizin und {HE  } fühlt sich sofort fast völlig gesund!
+{LEAD}{NAME} trinkt die rote Flüssigkeit.^^{HIS } Kopf klärt sich, und ein wenig geistige Energie kehrt zurück.
+{LEAD}{NAME} trinkt die violette Flüssigkeit.^^Eine beträchtliche Menge an Konzentrations|fähigkeit kehrt zurück!
+{LEAD}{NAME} trinkt die blaue Flüssigkeit.^^ Sofort kehrt ein Großteil {HIS }er geistigen Energie zurück!
+{LEAD}{NAME} trinkt die silberhelle Flüssigkeit und spürt, wie das Gift in {HIS }em Körper neutralisiert wird!
+Als {LEAD}{NAME} den bronzenen Trank zu sich nimmt, klärt sich {HIS } verwirrter Geist und {HE  } ist endlich wieder bei sich!
+Eine Welle der Wohltat geht durch {LEAD}{NAME}'s Körper, als {HE } die goldene Flüssigkeit schluckt. Die Krankheit weicht aus {HIS }em Körper!
+Die Wirkstoffe und Verbandsmaterialien des Medipaks lassen {LEAD}{NAME} sich besser fühlen!
+Als {INVE}{NAME} den weißen Ring auf den Finger steckt, bemerkt {HE  }, daß er nicht mehr zu lösen ist! {INVE}{NAME} fühlt sich schwächer!
+{CNTR}Auf dem Fetzen eines Schaltplanes hat jemand zwei Ziffern notiert:^^ {INK 006}12
+{CNTR}Auf dem Fetzen eines Schaltplanes hat jemand eine Ziffer notiert:^^ {INK 006}3
+{CNTR}Auf dem Fetzen eines Schaltplanes hat jemand eine Ziffer notiert:^^ {INK 006}4
+{CNTR}Auf dem Zettel hat jemand hastig eine Ziffernfolge notiert:^^ {INK 006}1712
+{CNTR}Es fehlt das andere Teil des Dokuments!
+Die beiden Dokumentteile passen genau aneinander. Das urprüngliche Schriftstück ist wiederhergestellt!

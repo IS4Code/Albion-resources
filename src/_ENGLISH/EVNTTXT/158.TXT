@@ -1,0 +1,5 @@
+﻿{BLOK000}"I am a craftsperson."{WORDartisan}
+"Togi Din, strangers."
+"Yes, I decorate and paint clay pots and other objects. You will find the intricate forms that we love so much everywhere. "{WORDshapes}
+"Colors and symbols are very important to us. Intricate lines, which appear symmetrical, but turn out not to be upon closer examination, and mysterious forms which can be ornaments at one moment and faces of demons the next. All depends upon the light and the observer! Our greatest works of art can lend magical powers to objects through their symbols! Naturally, such objects are greatly cherished."{WORDmagic}{WORDmagical items}
+"There are traders who offer valuables like that in Vanello and also, I believe, in Aballon."{WORDVanello}{WORDAballon}

@@ -1,56 +1,56 @@
-﻿
-
+﻿empty
+A small mechanical switch.
 A switch.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A giant switch lever.
+Glass-like structures are embedded in the floor.
+A door.
+The door is tightly latched. No lock can be seen.
+A locked portcullis. There is no lock on it.
+A fountain filled with clear water.
+A hot flame comes out of the brass disk on the floor.
+A brass disk on the floor.
+A brass disk with a large opening in it.
+A flickering flame. It radiates a large amount of heat.
+A transparent wall made of very solid material.
+This seems to be a type of force field. It produces a buzzing so loud that hair stands on its end and the roots of {LEAD}{NAME}'s teeth ache from the noise.
+A large hole in the floor.
+There is an opening in the ceiling.
+A stone column with a cavity in it.
+A fire blazes inside this stone column.
+The door is locked tight.
+An old barrel.
+A dusty vase. {LEAD}{NAME} looks in it, but doesn't find anything.
+A trunk with metal fixtures.
+A heap of old junk. {LEAD}{NAME} pokes around in it but can't find anything useful.
+The switch can no longer be moved.
+The wall appears to be very fragile here.
+{LEAD}{NAME} hits the wall with a couple of strong blows. The wall collapses!
+{LEAD}{NAME} fills a bucket with water.
+{LEAD}{NAME} steps into the flame and gets burned!
+{LEAD}{NAME} dumps a bucket of water over the flame and extinguishes it!
+Another flame is extinguished.
+{LEAD}{NAME} runs into the force field and feels a tremendous pain run through {HIS } body! After a few endless seconds the luminous field collapses.
+Once the rod makes contact, the force field collapses! The rod turns into dust.
+Everyone manages to climb up with the rope!
+A floating fireball. It radiates an unbearable heat.
+Suddenly, everyone feels an unbearable burning sensation: a fireball has come too close!
+"Unbelievable. I don't understand what keeps this fireball in the air. Is it a burning gas bubble? But, how can it be so stable? Mysterious."
+"I'm beginning to doubt my sanity! This field does not appear to be of electrical origin and no other energy source can be detected. What in the world sustains it? This planet appears to have been created just to disturb the beliefs of physicists."
+"Beware! These glass-like structures are used for many purposes. They trigger concealed mechanisms, often connected to fire."
+Floor structure activated.
+This wall is penetrated by many deep cracks.
+-empty-
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+Placeholder
+A musty odor hangs in the air. This part is overgrown with moss and appears to be in ruins.
+"I am sure no one has been here for a long time."
+A chest with metal fixtures.
+The doors are closed tight.
+Structures that appear to be made of glass are embedded in the floor. The iron grating over them is tightly locked.
+{LEAD}{NAME} thinks there's something interesting under this trash!

@@ -1,0 +1,3 @@
+﻿free
+"Skeima Din, ^ ^ please be quiet and have some consideration for the patients in the beds. If you are injured, I can heal your wounds. I can also deal with curses and can often help if you are suffering from some type of handicap. ^ ^ What can I do for you?" {BLOK010} "Please heal our injuries." {BLOK011} "We suffer from some severe handicaps." {BLOK012} "Can you remove a curse from an object?" {BLOK013} "What is your profession?" {BLOK014} "Thank you very much for the conversation."
+"I can heal people and nurse them back to health."

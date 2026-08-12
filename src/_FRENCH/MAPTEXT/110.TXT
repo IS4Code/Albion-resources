@@ -1,0 +1,47 @@
+﻿{BLOK000}Bâtiment du conseil, siège de la Sebainah {BLOK001}Porte de la ville {BLOK002}Maison du Clan du Vent du Sud {BLOK003}Guilde Dji-Kas (Mages) et guérisseuse {BLOK004}Guilde Dji-Fadh (Modeleurs) {BLOK005}Auberge "La maison des vents" {BLOK006}Armurier {BLOK007}Epicerie {BLOK008}Bazar {BLOK009}Entraîneur de combat
+{CNTR}Le panneau indique:^^ {INK 006}Siège du conseil de Jirinaar
+{INK 001}Le jeune Iskai n'a apparemment pas l'habitude de voir des hommes. Il commence à glousser sans gêne et n'arrive pas à sortir un mot.
+"Dsarii-ma! Il faut que je dise à ma soeur que je vous ai vus! Elle va être jalouse!"
+"Dsarii-ma, hôtes de la ville. Si vous restez calmes et aimables, vous n'aurez pas de problèmes."
+"Dsarii-ma. Restez sur vos gardes dans la région du port. Là-bas, il y a pas mal de têtes brûlées qui cherchent les ennuis."
+"Dsarii-ma, hôtes de la ville. Profitez de votre visite dans notre cité!"
+"Dsarii-ma, visiteurs! J'espère que les nombreuses curiosités qu'offre notre ville vous plairont."
+"Pas envie de discuter avec vous."
+"Dsarii-ma. N'est-elle pas fantastique, cette grande ville? Je ne suis pas d'ici et je suis émerveillé à chaque fois!"
+"Il est préférable de ne pas lui dire que certains lotissements sur la terre comptent plus d'habitants que l'ensemble de Jirinaar..."
+"Dsarii-ma. Evitez les ennuis, nous les Stiriik, nous ne pouvons pas être partout."
+{CNTR}Le panneau annonce:^^ {INK 006}Wanja, la maison des produits utiles^ Entrez de la 6ème à la 19ème heure
+{CNTR}Le panneau indique:^^ {INK 006}Snird, la maison des armes^ Bienvenue de la 10ème à la 20ème heure
+{CNTR}On peut lire sur le panneau:^^ {INK 006}Maison des vents de Zirr & Viri^ Maison close
+{CNTR}L'inscription indique:^^ {INK 006}Frinja, la maison du bon repas ^Ouvert de la 6ème à la 21ème heure
+{CNTR}Le panneau indique:^^ {INK 006} Maison du Clan du Vent du Sud
+{CNTR}On peut lire sur le panneau:^^ {INK 006}Maison de la Guilde des Dji-Kas
+{CNTR}Le panneau indique:^^ {INK 006}Maison de la Guilde des Dji-Fadh^ Portes des membres de la Guilde
+{CNTR}L'inscription signale:^^ {INK 006}Maison de la Guilde des Dji-Fadh^ Entrée du public
+La porte est verrouillée et personne ne réagit lorsque {LEAD}{NAME} frappe à la porte. L'échoppe est apparemment fermée.
+Cette porte est fermée.
+{LEAD}{NAME} rencontre un des Iskais en tenue de combat postés à côté de la porte de la ville:^^ {INK 002}"Dsarii-ma, visiteurs de notre ville. Je vous prie de ne pas quitter la cité avant d'avoir parlé à Sebainah Janiis.^ De plus, la contrée sauvage qui entoure Jirinaar n'est pas sans dangers pour les étrangers qui ne connaissent pas les environs."
+"Dsarii-ma, visiteurs de notre ville. Je vous prie de ne pas quitter la cité avant d'avoir parlé à Sebainah Janiis.^ De plus, la contrée sauvage qui entoure Jirinaar n'est pas sans dangers pour les étrangers qui ne connaissent pas les environs."
+"Ici il y a d'ailleurs le bâtiment central des Stiriik, mes très chers collègues. L'accès est cependant réservé aux Stiriik, nous devons renoncer à le visiter. Entre nous, nous ne manquerons pas grand chose."
+"Dsarii-ma! N'oubliez pas de rendre visite à Sebainah Janiis."
+{INK 001}Tom et Rainer sont abordés par un Iskai dans une sorte de tenue de combat:^^{INK 002} "Dsarii-ma, visiteurs de notre ville. J'arrive vraiment à temps. Comme je vois, vos blessures sont guéries.^^Je voudrais vous souhaiter la bienvenue au nom de la Sebainah, présidente du conseil de Jirinaar. La Sebainah vous invite à une entrevue avec elle.^^Vous la trouverez dans le bâtiment du conseil, au centre de la ville. Le fleuve le contourne, et vu sa taille, vous ne pouvez pas le manquer. La Sebainah est là presque toute la journée, vous pouvez lui rendre visite à tout moment.^^Mais si vous le désirez, je peux vous y conduire tout de suite."
+"Désirez-vous être conduit tout de suite à la Sebainah?"
+"Ne tardez pas trop à rendre visite à la Sebainah.^ Excusez-moi maintenant."
+"Dsarii-ma. J'espère que votre entrevue avec la Sebainah s'est bien passée."
+L'Iskai se met en route vers le bâtiment du conseil. Comme il marche à grands pas, Tom et Rainer ont du mal à le suivre, mais ils atteignent bientôt le bâtiment du gouvernement de la ville et entrent à l'intérieur.
+"Toutes mes félicitations pour votre attitude hautement diplomatique, Driscoll! ^^De plus, vous avez humilié les gens qui nous ont sauvé la vie. Je voudrais également signaler que nous n'avons aucune idée de l'endroit où se trouve le métal de notre navette, ni comment le convertir en monnaie courante."
+La porte de la maison du Clan des Chasseurs est fermée par un verrou.
+{INVE}{NAME} ouvre la porte avec la clé de Wrinn.
+"Cette superbe maison appartient d'ailleurs à un riche commerçant. Il vit très retiré, on nous laissera certainement pas rentrer."
+"Ici habite un des membres du conseil. Jolie cabane, non?"
+Une espèce de fontaine.
+La porte de la maison du Clan des Chasseurs. Elle est fermée par un verrou.
+Une porte.
+{CNTR}{INK 003}{FAHI}YOP!^^1 heure passée!
+{INK 001}Un Stiriik s'approche et dit tout essoufflé à Drirr:^^{INK 002} "Dsarii-ma, Drirr! Un éleveur vient juste d'arriver dans la ville, il a vu entrer le meurtrier Kenget Kamulos dans les ruines de l'ancien centre des modeleurs!"
+"Nous devrions nous rendre au plus vite à l'ancien bâtiment des modeleurs. Nous allons peut-être pouvoir attraper le meurtrier!"
+"Merci, nous voulons d'abord visiter un peu la ville."
+"Dsarii-ma. Bienvenue à Jirinaar."
+"Dsarii-ma, et bon voyage!"
+"Le vieux bâtiment des modeleurs, ou le vieux Argim, comme disent certains, se situe au nord-est de la ville, je crois.^^Je n'y suis jamais allé..." ^^ Allons-y tout de suite, nous choperons peut-être le type là-bas!"
+{CNTR}Ici est indiqué en petites lettres:^^ {INK 006}L'art du combat.^ De la 8ème à la 19ème heure

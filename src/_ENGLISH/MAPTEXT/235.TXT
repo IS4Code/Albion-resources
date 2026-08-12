@@ -1,16 +1,16 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿{BLOK000} City Gate {BLOK001} Ore Mine Inn {BLOK002} Miners' Guild / Rooms {BLOK003} Equipment Makers' Guild {BLOK004} Weaponsmiths' Guild {BLOK005} Diamond Polishers' Guild {BLOK006} Mixed Goods {BLOK007} Foods
+Open between 8 a.m. and 8 p.m.
+A door.
+{CNTR} On the shield beside the door it says: {INK 006} Welcome to the Ore Mine Inn.
+Closed between 3 a.m. and 6 p.m.
+A closed door.
+A monument.
+These pots belong to the food trader.
+You can return to the desert through this city gate.
+"Every day I make my way to the prison so that I can relieve the other guard. Do you want to come with me? I'm warning you; it's a long and difficult way."
+"Ha! So we meet again. You're fools, ha ha. But I will not be unfair and I will give you some of the information I promised. The first piece of information: I was not entirely truthful when I explained my past to you. But, I would like to make up for that. If you're looking for a shortcut to the southern part of the continent, I can show you the entrance to the tunnel system. There are only a few of us who know where the portal is. If you're interested, we can meet at midnight in front of the city gate. Go on, don't bother me anymore. I need to return to my work."
+From not too far away, someone calls out: {CNTR}{INK 006} "We have her!" "Take that, you bitch!" {LEFT}{INK 001} There appears to be a huge battle, and according to the shouting, Nelly has come out badly.
+"Skeima Din, are you here for a visit or are you a new resident of Umajo-Kenta? Our city is getting so big."
+"I have to buy some more."
+"Hopefully you're here with peaceful intentions. I'm never quite sure when I run into a group of people I don't know."
+"Watch out for sand divers when you wander through the desert. They are horrible animals, and they can't be seen since they lurk under the sand. But they can hear steps many miles away."

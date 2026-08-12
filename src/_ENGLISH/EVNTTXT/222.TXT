@@ -1,0 +1,10 @@
+﻿{BLOK000}"Well, sweeties, I'm sure you can tell by my clothing where I work. Come visit me there sometime! Of course, most males aren't willing to admit that they go to a brothel now and then."
+"Skeima Din, Kariah welcomes you. I have urgent information for you! Very urgent!"{WORDinformation}
+"Skeima Din, have you thought about my information? Please act as soon as possible. Have you considered it all?" {WORDinformation}{WORDyes}{WORDno}
+"Life's not easy for a whore! Several nights ago, I received information that Herras, president of the Council of the Just, was to be murdered. Riko and Gard are behind it. ^ ^ Please! I can't prove it to you, but help! Do something about it. You are my last hope, please believe me. Prevent the assassination! ^ ^ I also know that the assassination will happen very soon. But you can still prevent it!" {WORDassassination}{WORDhint}
+"Then, please do it!"
+"What did you decide?" {BLOK010} "We have to wait." {BLOK011} "We'll see what we can do."
+"Don't wait too long. As time passes, Gard and Riko will certainly carry out their deed!"
+"You must understand, I cannot tell you from whom I received the information. Anyway, I put myself into great danger just for giving you the information. I've obtained new evidence that the assassination will take place very soon!"
+"The assassination will take place very soon! Maybe Herras will believe you if you try to stop Gard and Riko. When Herras is dead, the bad side of the council will have the majority. Please try to prevent that. Most people in the city are so blind they don't see the danger, or don't want to see it."
+"That'th me."

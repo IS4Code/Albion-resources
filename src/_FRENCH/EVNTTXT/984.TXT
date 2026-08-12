@@ -1,0 +1,39 @@
+﻿{BLOK000}"Je suis membre de Guilde des Dji-Kas."
+"Oui, Tom? Qu'as-tu sur le coeur?"{WORDDji-Kas}{WORDDji-Fadh} {BLOK010}"Je voudrais que tu me parles un peu de ton passé, Sira."
+"Mais avec plaisir, Tom. J'ai été élevée toute seule par mon père. Quelle que soit l'impression que tu as de mon père, dis-toi que c'était en fait un très bon Iskai. Je n'aurais pu espérer meilleur père, il m'a beaucoup aimé. Je n'ai jamais connu ma mère, à cause de cette malheureuse excursion de chasse de mon père avec ma mère et la soeur de Fasiir. Vous en avez entendu parler.^ Malgré tout, j'ai eu une enfance merveilleuse. Mon père était très aisé et j'ai reçu une excellente formation, au cours de laquelle s'est aussi révélé mon don pour la magie.^Ceci a d'ailleurs conduit au premier grand conflit dans ma vie avec mon père. Il estimait tout à fait normal que je mette mon don au service de sa Guilde, mais je me sentais cependant beaucoup plus attirée par les Dji-Kas. Il y a un an et demi, à peine majeure, j'ai rejoint la maison de la Guilde des Dji-Kas, pour prouver mon indépendance. Si seulement j'avais su que ça aboutirait à cette tragédie...^ En tout cas, ça me fait du bien de voyager, pour prendre du recul par rapport à tout ça."
+"Tu veux vraiment écouter mon histoire encore une fois, Tom? Ton intérêt part d'un bon sentiment. Alors: J'ai été élevée toute seule par mon père. Quelle que soit l'impression que tu as de mon père, dis-toi que c'était en fait un très bon Iskai. Je n'aurais pu espérer meilleur père, il m'a beaucoup aimé. Je n'ai jamais connu ma mère, à cause de cette malheureuse excursion de chasse de mon père avec ma mère et la soeur de Fasiir. Vous en avez entendu parler.^^ Malgré tout, j'ai eu une enfance merveilleuse. Mon père était très aisé et j'ai reçu une excellente formation, au cours de laquelle s'est aussi révélé mon don pour la magie.^Ceci a d'ailleurs conduit au premier grand conflit dans ma vie avec mon père. Il estimait tout à fait normal que je mette mon don au service de sa Guilde, mais je me sentais cependant beaucoup plus attirée par les Dji-Kas. Il y a un an et demi, à peine majeure, j'ai rejoint la maison de la Guilde des Dji-Kas, pour prouver mon indépendance. Si seulement j'avais su que ça aboutirait à cette tragédie...^^ En tout cas, ça me fait du bien de voyager, pour prendre du recul par rapport à tout ça."
+"La Guilde de mon père compte des grands artistes dans ses rangs, mais le côté sévère et droit au but de leur magie ne me correspond malheureusement pas."
+"Comme je disais, la Guilde de mon père compte des grands artistes dans ses rangs, mais le côté sévère et droit au but de leur magie ne me correspond malheureusement pas."
+"J'éprouve pour peu de choses dans la vie autant de passion que pour la magie Dji-Kas."
+{BLOK000}Que peux-tu dire de... {BLOK004}Merci pour cet entretien!
+"Oui, Tom? Qu'as-tu sur le coeur?"{WORDDji-Kas}{WORDDji-Fadh} {BLOK010}" Je voudrais que tu me parles un peu de ton passé, Sira." {BLOK011}"C'est fou que toi et Mellthas vous soyez tombés amoureux!"
+"Oui, je trouve aussi! J'ai déjà eu autrefois un contact avec un autre intellect, mais normalement, ça ne fonctionne seulement quand j'applique mon Trii contre celui d'un autre Iskai. Mellthas doit apparemment disposer d'un don particulier.^^En tout cas, j'étais vraiment surprise du contact, autant que lui. En l'espace de quelques secondes, nous en savions plus l'un de l'autre que ce que, normalement, on apprend de l'autre au cours de nombreuses années de vie commune. Son esprit est clair et honnête, et je... l'aime tout simplement beaucoup."
+"J'ai besoin de graines Triifalai pour pratiquer ma magie, Tom. Nous devrions toujours en avoir suffisamment sur nous en réserve."
+{BLOK000}Que peux-tu dire de... {BLOK003}Je voudrais que tu nous quittes pour un premier temps, Sira. {BLOK004}Merci pour cet entretien!
+"Oh. Dommage. Mais penses-y, si je m'en vais, Mellthas vient évidemment avec moi. Veux-tu vraiment que nous partions?" {BLOK000}"Oui, s'il te plaît." {BLOK001}"Non, excuse-moi."
+"Hé bien, je suis sûre que ça est important pour la réussite de notre mission et que ce ne sont pas des motifs personnels qui nous séparent.^^Si tu nous cherches, tu nous retrouveras à l'auberge de Srimalinar.^^Bonne chance à vous tous, adieu!"
+"Bien! J'ai déjà eu peur de t'avoir offensé quelque part."
+"Quelle joie de vous revoir. Mellthas et moi, nous avons passé du bon temps ici.^^Veux-tu que nous nous joignions de nouveau à toi, Tom?"
+"Ah. Finalement, on doit quand même vous accompagner, hein?"
+Sira et Mellthas doivent-ils se joindre au compagnons?
+"Oh, je pense que vous êtes déjà trop nombreux pour prendre Mellthas et moi. A plus tard."
+"Un peu d'action nous fera du bien, à Mellthas et moi, après notre période de repos."{INK 001}Sira et Mellthas rejoignent le groupe.
+"Comme tu voudras. A plus tard."
+"Oh, Déesse! Je n'ai plus de graines Triifalai! Sans elles, je ne peux pas pratiquer de magie!"
+"Tu as vraiment besoin de ces graines?"
+"Oui, c'est une des spécificités de la magie Dji-Kas. Nous concentrons notre pouvoir spirituel dans ces graines."
+"Où trouvons-nous ces graines, Sira?"
+"Elles sont vendues dans ma Guilde à Jirinaar. Mais parfois, on trouve aussi un de ces rares buissons Triifalai en pleine nature."
+Les compagnons font une halte pour se reposer. On se met à l'aise et commence à discuter. Mellthas y participe aussi, il lit sur les lèvres et fait de petites notes.^^Il se montre particulièrement intéressé par les Iskais, il s'efforce de lire sur leur partie buccale, d'une forme différente, et se laisse conter leur culture et ses spécificités.^^Lorsque la discussion porte sur l'organe frontal des Iskais, Mellthas, curieux, touche le Trii de Sira.^^Tous les deux sont tout à coup figés, comme touchés par la foudre!
+"Là, il y a... j'entends. Ses lèvres sont immobiles, mais je comprends..."
+"Impossible. Aucun homme ne peut lire le Trii. Mais...je peux le.... Dis-moi, ce que tu entends!"
+"Ca sonne bien, comme de la sympathie, non, plus, de l'affection. Quelque chose, que je n'ai jamais entendu de la part d'un homme. Bero, mon père adoptif, m'aime aussi. Mais ça c'est différent...troublant...je ne le comprends pas encore."
+{INK 001}Sira touche presque machinalement le front de Mellthas. {INK 002}"Etrange. Ça ne fait pas de différence, si je te touche ou non. Tu n'as pas de Trii. Et pourtant, c'est comme si tu en avais un. Qui es-tu, Mellthas?"
+"Qui je suis? Que sais-je? Sourd-muet. Craintif...Comment le décrire? Tous mes mots, même les plus fins, ne sont que la tentative de trouver une goutte d'eau particulière dans la mer. Fais attention, Sira, que je ne nous noie pas dans mes mots!"
+"Ah, Mellthas! "
+"Une mauvaise image?"
+"Pas mal, si tu écrivais un poème. Mais ici, il ne s'agit pas d'un poème.^^Les pensées.^Les nôtres.^Laisse-les tout simplement confluer!"
+"Alors, nous sommes un flot?"
+"Hihihi, oui, et nous devrions trouver prochainement le lit d'un flot..."
+Sira et Mellthas font part aux compagnons ahuris, qu'un contact spirituel a eu lieu entre les deux, quelque chose qui semblait jusqu'à la impossible entre un homme et un Iskai.^^En l'espace de quelques secondes, Sira et Mellthas se sont beaucoup rapprochés l'un de l'autre...^^L'événement alimente encore pendant longtemps les discussions des compagnons, jusqu'à ce qu'enfin tous soient pris de fatigue et aillent se reposer.
+"Ah, le souvenir de mon père m'est toujours douloureux et le sera certainement encore longtemps. Ce n'était pas un mauvais Iskai, pourvu qu'il ai trouvé la paix en la Déesse."{WORDDéesse}

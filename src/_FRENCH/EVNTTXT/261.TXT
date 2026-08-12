@@ -1,0 +1,3 @@
+﻿{BLOK000}"Je construis des maisons à partir de plantes, comme vous en avez certainement déjà vu."
+"Alors, vous n'êtes pas encore repartis?"
+"Oui?"

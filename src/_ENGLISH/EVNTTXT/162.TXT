@@ -1,0 +1,3 @@
+﻿{BLOK000}"I am a trader in both ordinary and extraordinary things... yes, hmm."{WORDmerchant}
+"Togi Din. Ahh, I see you are travelers, hmm? Good, very good! Have we met before? Well, doesn't matter, hmm? You must need something that can make your trip easier? Or have you brought something beautiful from faraway lands for old Rifrako, hmm?" {BLOK010}"Please show us what you have to offer, my good Rifrako."
+"Yes, I deal in beautiful things, useful things, and sometimes magical things, yes!"

@@ -1,0 +1,11 @@
+﻿{BLOK000}" Je suis le tavernier. Vous avez déjà goûté mon Sugo? Il est vraiment bon, les gars."
+"Approchez, Skeima Din! J'ai une information pour vous. Ça vous intéresse?{BLOK012}"Non, merci."{BLOK013}"Ca dépend."{BLOK014}"Absolument."{WORDInformation}
+"Hé bien, tant pis. Vous voulez acheter des rations?"{BLOK010}"Oui, volontiers."{BLOK011}"Non, merci."
+"Ça devrait vous intéresser. Il s'agit du conseil de Beloveno."{BLOK015}"Pourquoi ça devrait nous intéresser?"{BLOK016}"Nous serions effectivement intéressés."
+"Par contre, il me faudrait une compensation pour cette information... Des pièces d'or sonnantes et trébuchantes m'intéresseraient bien."
+"Vous pourriez peut-être tirer profit de cette information."
+"Je vous salue. Mettez-vous à l'aise. Vous voulez boire quelque chose?"{BLOK010}"Oui, volontiers."{BLOK011}"Non, merci."
+"Je suis Edjirr."
+"J'ai appris de source sûre qu'un complot se prépare dans le 'Conseil des justes' à Beloveno. Le président du conseil doit être assassiné. Il existe quelqu'un qui a beaucoup d'influence sur le conseil. Je ne sais pas non plus de qui il s'agit. En tout cas, son emprise est apparemment plus importante sans Herras.^^Je ne puis évidemment pas vous garantir que tout ça est vrai.^^Ah oui, parlez à Arrim, il habite dans la maison des moissonneurs. Il pourra également vous apprendre des choses très importantes."
+"Vous êtes prêts à débourser 80 pièces d'or pour ça?"
+"Ne proposez pas ce que vous n'avez pas!"

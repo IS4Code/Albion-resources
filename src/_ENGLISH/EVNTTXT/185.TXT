@@ -1,10 +1,10 @@
-﻿{BLOK000}"I'm a security officer with the rank of colonel."
-"Keep moving. There's nothing for you to see here." {BLOK010}"What's going on here? You're not just standing around here for fun."
-"You must certainly have heard about the Inspector's accident with the Over C com-command. The com-room is locked until further notice."{WORDCom room}
-"The room is going to stay closed until we're sure that there is no more danger. And now you can stop asking questions."
-"Don't get fresh, Driscoll. To you, I'm still a colonel."
-"{HIGH}Are you insane?^ {NORS}Give me that weapon immediately. This is going to have consequences for your personal records, I can promise you that!"^^ {INK 001}Priver takes away Tom's weapon.
-"What are you still doing here? We're not getting paid to talk."{WORDCom room}
-"You better disappear, Driscoll. I have an idea what I can do with a trouble maker like you."
-{BLOK000}What can you tell me about... {BLOK001}Will you take a look at this... {BLOK004}See ya. {BLOK005}What is your assignment?
-"Good bye."
+﻿{BLOK000}"I am a security officer with the rank of colonel."
+"Go on, there's nothing to see here." {BLOK010}"What happened? You're certainly not standing around here for your health."
+"You must have heard of the inspector's accident with the over-c COM unit. The COM unit is closed until further notice." {WORDCOM room}
+"The room remains closed to the crew until there is no longer any danger from the defective unit. That's enough questions."
+"Don't be a wise guy, Driscoll. For you, it's still colonel!"
+{HIGH} "Are you crazy?" ^ {NORS}"Hand over the weapon immediately! This will have serious consequences for your personal record, Driscoll, I promise you that." ^ ^ {INK 001}Priver takes the weapon from Tom.
+"What else do you want? We don't get paid for talking." {WORDCOM room}
+"Get out of here, Driscoll. I don't want to talk with troublemakers like you."
+{BLOK000}"What can you tell me about..."{BLOK001}"Look at this..."{BLOK004}"Bye."{BLOK005}"What's your job?"
+"Bye."

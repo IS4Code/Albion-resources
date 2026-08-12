@@ -1,0 +1,14 @@
+﻿{BLOK000}"Ma fonction au sein du 'Conseil des justes' consiste à tout diriger et à tout coordonner."
+"Vous voilà enfin! Je ne peux toujours pas le croire, mais vous avez malheureusement eu raison avec votre thèse. Un attentat a été effectivement perpétré à mon encontre. Je ne sais pas comment vous remercier, vous m'avez sauvé la vie! En tout cas, une grande récompense vous attend."{WORDRécompense}{WORDAttentat}{WORDDivergences}{WORDRumeurs} {WORDMise en garde}
+"C'est arrivé en pleine nuit, j'ai entendu crier les gardes que j'avais posté devant ma porte, grâce à votre mise en garde. Si je n'avais pas eu la grosse épée sous mon oreiller, je n'aurais certainement pas pu me défendre à temps. Ainsi mes agresseurs étaient tellement surpris de la vigueur de la riposte qu'ils ont pris la fuite. Ils étaient masqués, et je n'ai pas pu les reconnaître, mais il est fort possible que c'étaient Gard et Riko. D'ailleurs, ils n'ont pas réapparu depuis cet incident. Ce n'est évidemment pas une preuve, mais ça donne à penser à un lien de cause à effet. En tout cas, je voudrais encore vous remercier chaleureusement pour le tuyau. Si je n'avais pas été aussi bien préparé, je ne serais peut-être pas là aujourd'hui! J'espère que vous acceptez ma récompense en guise de remerciements."{WORDRécompense}{WORDPerron}{WORDMise en garde}
+"Vous l'avez bien mérité! Prenez cette clé et allez dans le coffre- fort de l'hôtel de ville de Beloveno. Prenez tout ce que vous voulez!"{WORDClé}
+"Vous avez déjà eu la clé? Mon offre est sérieuse, prenez ce que vous voulez!"{WORDClé}
+"La clé correspond au coffre-fort. Vous allez quand même bien trouver le coffre-fort?!"
+"Qu'attendez-vous? Nous devons, dans un premier temps, trouver de nouveaux membres du conseil, puisqu'il est pratiquement établi que Gard et Riko étaient impliqués dans le complot. Pour l'instant, je peux m'occuper des affaires les plus importantes et nous allons rechercher de nouveaux membres pour le conseil."
+"Je pense qu'ils ne réapparaîtront plus jamais ici."
+"Perron est très franc et je sais à quoi m'en tenir. Parfois, il réagit peut-être de façon un peu exagérée, mais ce n'est pas si grave."
+"C'est comme ça que s'appelle notre ville."
+"C'est moi."
+"Hé bien, je ne suis pas encore tout à fait sûr s'il y a du vrai là-dedans, mais j'ai entendu dire qu'il y a apparemment de plus en plus de créatures horribles qui sortent de ce lieu. Je vous conseille de ne pas y aller. Il existe un tabou qui interdit aux hommes de pénétrer ce lieu, et en plus la Chose Sacrée appartient aux Iskais."
+"L'hôtel de ville est le plus beau bâtiment de Beloveno. Vous pouvez faire un tour, personne ne vous en empêchera."
+"Oui, merci beaucoup encore pour votre renseignement. Vous avez déjà eu la récompense?"

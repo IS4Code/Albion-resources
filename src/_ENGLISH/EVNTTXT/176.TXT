@@ -1,0 +1,5 @@
+﻿{BLOK000}"I am the director of the library of Arjano." {WORDlibrary}{WORDArjano}
+"Togi Din. Welcome to the Arjano library. Please keep your voices down so you do not distract the students." {WORDlibrary}{WORDArjano}{WORDspell scrolls}{BLOK010}"Do you have any documents for sale on the subject of magic?"
+"Knowledge from many centuries is gathered here. Four hundred years ago, the art of printing was discovered so the library doesn't need as much room as in the old days. The parchment rolls must have taken up enormous space. Well, all the books we have here are about magic, philosophical thought or teaching material for children and novices. I'm afraid you won't find much that would interest you."
+"Well, actually, I do have some spell scrolls here which might be of interest to you."
+"Spell scrolls allow the ungifted to perform magic. ^ ^ However, if the scroll is read by someone knows the particular kind of magic, he or she can learn and use the spell permanently." 

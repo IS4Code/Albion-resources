@@ -1,67 +1,67 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿-free-
+Grass.
+Rocks.
+Low ground plants.
+Small branches and roots.
+Sedges.
+A small fruit tree.
+A round-topped tree.
+A broad-leafed tree.
+Rapids.
+A whirlpool.
+A water plant.
+The water is very deep and the current appears to be strong.
+Water plant sprouts.
+A blooming plant.
+A shade tree.
+These plants gleam in fascinating shades of color.
+Vegetables.
+A boulder.
+The water is very calm and clear enough to see the bottom. Numerous boulders lie in the water and there is almost no current.
+A fruit tree.
+A fence.
+A stalk plant. 
+A climbing, grasping plant.
+A bush.
+A large-leafed plant.
+A waterfall.
+A rock ledge.
+A plant growing on the ledge.
+This climbing plant has anchored itself into the irregular rock structure with thousands of roots. It appears to be very stable and has many branches to offer sufficient support for rock climbing.
+A wooden bridge.
+Grain fields.
+Mushrooms.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+The powerfully-built man gives {LEAD}{NAME} a dark glance and doesn't respond.
+{INK 001}The watchman on the right throws a sharp glance at {LEAD}{NAME} when {HE  } tries to examine the door. He says: ^ ^ {INK 002} "Strangers, you are wandering down dangerous paths. Surely, you do not hold life that frivolously that you intend to gain access to the Kenget Kamulos without going through us first?"
+There are barely visible, fine cracks in the rock here. ^ ^ All attempts at entry are in vain: No entry can be obtained here.
+"My God. We have survived!"
+Exhausted, the companions lie down so they can rest and regain their energy.
+"Khunag, we have to talk about what has happened with the Kenget Kamulos. ^ ^ You have used us as a tool for your revenge and have consequently risked all our lives."
+"I will not apologize for what has happened. Arghagh, the Cuain before that swine of a Cairnain, was the only human being whom I have loved. Cairnain ended the only happy period in my life. At least his death has given me some happiness. ^ ^ I am sure you know I am here for my own motives. ^ I believe, based on what has happened, that I must offer you my services as warrior again. If you say you can do without my talents, I will go. Tell me. What is your decision?"
+Should Khunag leave the group?
+"I will not have anything to do with anyone who is prepared to sacrifice his companions' lives for his own selfish purposes. ^ ^ I would like you to leave us, Khunag."
+"I find it hard to understand your motives, Khunag. ^ ^ But we do need your warrior abilities in battle. ^ ^ You can stay. But, be warned, don't deceive us again."
+"As you wish. Farewell."
+"My revenge is fulfilled. I place myself in the service of your mission until I have found a new purpose in life."
+An eye-shaped symbol is embedded in the rock.
+"These symbols have been around for a very long time. They are found in many places around the planet, but nobody knows exactly where they came from or what their purpose is."
+{LEAD}{NAME} places the amulet with the symbol of the Goddess on the rock. ^ ^ A door creaks open and the companions enter the cave.
+"I can use the amulet of the Goddess I carry with me to open the entrance to the cave."
+"This is the entrance to the home of the Kenget Kamulos. ^ ^ I think we should have someone with us who knows their way around before we go in. ^ ^ How about that Khunag character in Beloveno? I have heard that he was once a member of this cult. ^ ^ Let's ask him if he will accompany us in there."
+A small bush with seeds.

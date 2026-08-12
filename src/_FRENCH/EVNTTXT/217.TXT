@@ -1,0 +1,9 @@
+﻿{BLOK000}"Je tue des animaux sôvage dans les boués, je les coupe et je vonds la viande. Vu comme çô, vous pouvez dire que j'suis chôsseur, boucher et vondeur, hein."
+"Skeima Din, on ontond beaucoup pôrler de vous. Maini vous plaît? Vous ôvez déjô été à Kounos? Vous êtes pôssé chez Kontos? Un peu bizôrre comme type, hein."{WORDContinent}{WORDKounos}{WORDKontos}{WORDMaini}
+"Et oncor' une bonne journée. Puisqu'on ô déjô fait connaissonce."{WORDContinent}{WORDKounos}{WORDKontos}
+"J'cônnais le Kontos déjô depuis très longtomps. Aut'fois, c'était un type sympô et on pouvait vraimont discuter avec. Mais çô, c'est plus pôssible depuis longtomps. Il y ô des onnées, il ô commoncé ô s'intéresser ô lô môgie nouare et ô lô religion, et maint'nont il doué se prondre pour le druide le plus bôlèze qui soué. Ô fait, ô l'époque, il vivait même ici ô Beloveno. Puis il s'est lié d'ômitié ôvec Riko et depuis ce tomps-lô il s'est de plus en plus éloigné de moué, hein. Ontre-tomps, il ô trouvé beaucoup d'ôdeptes pour ses théories. Ben oué, fait c'qui veut. J'ponse que lô plupôrt vont vouér ôvec le tomps qu'il est plus très clair dons sa tête."{WORDContinent}{WORDKounos}{WORDMagie}{WORDThéories}
+"Eh ben, j'veux dire tout Maini ici, hein. Beloveno, Srimalinar, Kounos, tout. Tout l'côoté nord et sud du continont."
+"Vous ôvez déjô été lô-bôs, non? C'est l'villôge sur les platôs, lô où on vit oncor' de fôçon trôditionnelle, hein. On plus, Kontos honte les lieux lô-bôs. Vous vouayer déjô, j'l'aime pô trop."
+"J'comprond pô grond chôse ô lô môgie. Et j'on ai pô eu besoin jusqu'ô lô, hein."
+"Oof, je n'veux pô on dir' plus. Mais un type ôssi intelligont que Kontos est sûremont côpôble de concocter ben des chôoses, hein."
+"C'est moi."

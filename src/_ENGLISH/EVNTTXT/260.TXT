@@ -1,0 +1,9 @@
+﻿{BLOK000} "I build houses out of plants. I'm sure you've seen many of them around here."
+"Humans? You still dare to be here? Watch out, we don't think highly of you these days. But our warriors will defend our holy shrine. They are already there! If I were in your shoes, I would get out of here. You can fight with us, or would you rather watch?"{WORDopinion}
+"We only hear bad things about the humans. Does that surprise you? What would you say if someone shamefully took your most valuable possession. They have surrounded the place with warriors and, I don't know, they've probably already broken into our shrine and desecrated it. Anyway, these creatures are coming from somewhere else. You are wrong! And we will defend ourselves. We won't give up, even if it means war! Don't be surprised if you can no longer obtain goods here. We definitely are not going to support our enemies. Edjirr now has solid evidence against Kontos." {WORDhumans}{WORDwarrior}{WORDtaboo}{WORDcreatures}
+"There are humans in your group!"
+"We will defend it, that's for sure. Our warriors have already set off. Don't think that you can just do anything you want."
+"This taboo has existed as long as I can remember. It has historical reasons which I don't want to explain to you now. And Kontos and his followers have broken it!"
+free
+"Yes?"
+"None of us know where these creatures come from. They appear to be of magical origin, and most of them are found near the shrine. However, we've never seen them come OUT of our shrine."

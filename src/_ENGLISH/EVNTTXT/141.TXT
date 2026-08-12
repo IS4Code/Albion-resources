@@ -1,0 +1,6 @@
+﻿{BLOK000}"I am a navigator on the sea; I am on land leave now."{WORDnavigator}{WORDland leave}
+"Dsarii-ma. Can I help you?"
+"Yes, I've visited a lot of harbors, but mostly I travel between here and Beloveno." {WORDBeloveno}
+"Our ship is being overhauled right now. It'll probably take a while, so I'm looking for some fun in the city."{WORDfun}
+"You can usually have a lot of fun in the House of the Winds, a tavern in the harbor area. Drop by some time."{WORDharbor}
+"A harbor city in the east where a lot of trading is being done."

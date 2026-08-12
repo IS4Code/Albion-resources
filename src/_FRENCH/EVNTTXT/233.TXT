@@ -1,0 +1,15 @@
+﻿{BLOK000}"Je suis membre du 'Conseil des justes' et je dois veiller sur le respect des intérêts du peuple, ce qui n'est malheureusement pas très simple."
+"Skeima Din, entre-temps, notre conseil est au complet."{WORDChangements}{WORDConseil}{WORDAttentat}{WORDKontos}
+"Il y a tout d'abord deux nouveaux membres du conseil, qui remplacent Gard et Riko. Ils sont ouverts aux réformes et ça fait vraiment plaisir de travailler avec eux. A cette occasion, je voudrais vous remercier encore une fois pour votre aide. Si vous n'aviez pas prévenu Herras, il ne serait probablement plus en vie actuellement.^Et j'ai découvert quelque chose qui devrait aussi vous intéresser: il existe un lien entre Gard, Riko et Kontos. Riko ne l'a reconnu qu'indirectement au cours d'un entretien, mais je suis absolument sûr que c'est le cas. Kontos avait, par le biais de cette relation, une grande influence sur les affaires gouvernementales de Beloveno, aucun doute là-dessus. Par contre, je ne connais pas pour l'instant leurs vrais motifs. Je pense qu'ils dépassent largement le cadre de l'attentat contre Herras."{WORDRelation}
+"Comme je l'ai dit, je n'ai pas pu en apprendre beaucoup plus, mais je ne lâche pas prise."
+"Grâce à votre aide, tout fonctionne de nouveau super bien chez nous. Les nouveaux membres du conseil mettent du coeur à l'ouvrage et se mettent en route."
+"Je suis vraiment content que vous avez pu empêcher ça!"
+"Herras a reconnu qu'il n'a pas pris l'affaire assez au sérieux. Mais heureusement, ça s'est bien terminé."
+"Tenez-vous loin de lui!"
+"Oh la la, que dois-je dire. C'est le chaos général. Gard et Riko ont disparu, puisqu'ils ont été aperçus à l'attentat. De toute façon, ils n'auraient pas pu tenir leur position au conseil, car je suis maintenant sûr et certain qu'il existe un lien entre eux et Kontos. Kontos a pu ainsi étendre son influence à Beloveno.^J'ai malheureusement eu raison, et si vous m'aviez cru, on aurait peut-être pu empêcher l'attentat. Malheureusement, personne ne m'a cru!"{BLOK010}"Nous ne pouvions pas savoir, que vous aviez raison."{BLOK011}"Est-ce qu'on doit s'occuper de tout ici?"{BLOK012}"Nous sommes désolés..."
+"Bien sûr que non!"
+"Ce n'est pas ça qui va ramener Herras à la vie, mais je ne veux pas vous faire davantage de reproches."
+"Qu'est-ce qu'il y a encore à ajouter, Herras est mort."
+"Nous devons constituer un nouveau conseil, il n'y a pas d'autre solution."
+"Le conseil siège régulièrement à l'hôtel de ville, et parfois, lorqu'un événement particulier se présente, nous invitons toute la ville dans notre grande salle des fêtes. Mais ça n'arrive seulement s'il s'agit vraiment de quelque chose d'important. Nous avons ici un grand nombre de petites pièces, où nous pouvons discuter des problèmes, et elles peuvent également être louées pour les raisons les plus diverses. Dans l'aile sud de la maison se trouve la grande salle des fêtes, dont je vous ai parlé, et une salle de délibérations. Dans l'aile nord, vous trouverez une salle de conférence et dans le bâtiment central, il y a cuisine et salle à pain. Vous pouvez faire un tour, si vous voulez."
+"C'est moi."

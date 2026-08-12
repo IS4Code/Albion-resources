@@ -1,192 +1,192 @@
-﻿
-
-
-
-
-
-
-
-
+﻿-free-
+Branches and roots.
+A woven basket.
+A glass vessel for water and other drinks.
+A barrel.
+A magnificent animal pelt.
+A bucket.
+A clay bowl.
+A flask.
 A plate.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A pair of pliers.
-
-
-
+A clay mug.
+A mug.
+A table knife.
+A fork.
+A spoon.
+A clay container.
+Rocks.
+A bowl.
+A farming tool.
+An ax.
+A chest cover.
+A wooden chest.
+A lavishly decorated wooden chest.
+The rest room.
+A cover.
+A large wooden tub.
+A large metal kettle.
+A cupboard.
+All kinds of insignificant items are on these shelves.
+A bureau.
+A broom.
+A grill.
+You can grill meat on it.
+A fireplace.
+A tipped-over carafe.
+A ladle.
+A decorative wall sword.
+A wooden table.
+A stool.
+A folded stool.
+A massive dining table.
+A tree stump.
+Two crossed spears.
+A large barrel filled with strange liquids.
+A faucet.
+A bedcover.
+A comfortable and beautifully decorated bed.
+This bed is plain, yet practical.
+A kitchen table.
+A fireplace.
+The fireplace radiates a pleasant warmth.
+A decorated pot.
+Dried herbs.
+A human skull.
+A decorative shield.
+A metal pot.
+A decorative sword.
+A door.
+A kettle.
+A knife.
+A short dagger.
+A dagger.
+A large dagger.
+A short sword.
+A sword.
+A stiletto.
+A throwing dagger.
+A small ax.
+An ax.
+A small bow.
+A bow.
+An arrow.
+A small, leather shield.
+A leather shield.
+A round shield.
+A large shield.
+A leather cap.
+An embossed cap.
+A metal half-bowl.
+A leather vest.
+Leather armor.
+An embossed leather vest.
+A pair of shoes.
+A pair of boots.
+An empty bottle.
+A green healing potion.
+A turquoise healing potion.
+A blue healing potion.
+A key.
+A rope.
+A ring.
+A torch.
+A hammer.
+Stairs. They lead upward.
+Stairs. They lead downward.
+A counter.
+A carpet mat.
+A houseplant.
+A flowerpot.
+A decorated ornament embedded in the floor.
+A beautiful ornament, decorated with a large crystal, embedded into the ground.
+A metal table.
+An anvil.
+A metal shield.
+A metal chest.
+A chimney for the forge.
+A wall hanging.
+An unoccupied cushion. It is very beautiful and normally used as decoration.
+Some valuable pieces of jewelry.
+Display boards with weapons and shields.
+An empty display board.
+A fire bowl.
+An extinguished fire bowl.
+A loose handle.
+A handle.
+A water place.
+A hammer.
+A small hammer.
+A hammer.
+A special hammer.
+Tongs.
+A file.
+A small file.
+A leather hole punch.
 A screwdriver.
-
-
-
-A tumbler.
-A spanner.
-
-
-
+A small screwdriver.
+A metal saw.
+ A precision tool.
+A beaker.
+A wrench.
+Shears.
+A bowl.
+Fine shears.
 A bottle.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Several bottles.
+ A vial.
+A red vial.
+A metal box.
+A metal object.
+A wire object.
+A metal bowl.
+Brass balls.
+A bowl with water.
+A bowl.
+A mortar.
+A magnifying glass.
+Forceps.
+A heavy, short sword.
+A decorated sword.
+A double stiletto.
+A long sword.
+A display cabinet.
+Shelves with valuable metal smith work, ornaments, and jewelry.
+A mining cart.
+Rails.
+A buffer stop.
+A chair.
+A diamond polishing machine.
+The exit.
+An entrance to the tunnels.
+"Up to now, I've been caught every time. I saw a good niche on the right. I'll try to hide there."
+"My goodness, there's always so much dust getting into my lungs. It's really bad when you work underground for a long time. I should get something to cover my nose for when I go into these tunnels-otherwise, I can't breathe properly. This really isn't a very healthy place to work and, can you believe, all kinds of people complain that we ask too much for our ores and jewels!"
+"I clean the washrooms and bathrooms for the miners."
+"Skeima Din, Bekkina is my name. Are you visiting here? Well, great. Have a good look around. You might run into my husband. He is a Mountain Priest, and is always working around here. He only has one colleague and cannot take a lot of breaks. We have a hard time because of it. The rumors that we demand too much gold are completely exaggerated. No one is given anything here."
+"I'm a little tired. Unfortunately, I had to work all day yesterday. Please excuse me."
+"Have you seen Zebenno here? He really gets on my nerves. He's always complaining about our prices. He probably has nothing better to do. Well, I guess I'll find him myself. Have a nice day."
+"Well I'll be, visitors don't normally wander into my kitchen. But welcome. I am Rekkejos and I'm the cook here."
+"Meat and dumplings soup."
+"Fish pieces in herb sauce."
+"Vegetable souffléé with sugo."
+"Fresh pastries and vegetable paste."
+"Baked Acarva and tasty yellow mushrooms."
+"Today I'm making cross-laid rib fish with double-leafed herbs."
+"I can't decide-I'll probably make another pot."
+"Fruit souffléé with goat sauce."
+"Berry cake with meat sauce."
+"Bratwurst with tree salad."
+"Today, there's going to be a cold plate."
+"I can't think of anything more! What else can I make for today?"
+"Skeima Din. I help Rekkejos with the cooking. He's always busy, because all of the miners eat here. You can't imagine what kind of cooking feasts go on here. Of course, my master is a real chef."
+"Skeima Din. If you are visiting, I can arrange a room for the night."
+"Have you already heard of the great 'Stone of the 1000 Visions'? Mykonou, the old diamond polisher, told me about it."
+"Hello! You people say 'Hello', don't you?"
+"I'm playing right now. Do you want to join me?"
+"Ha ha, why are you wearing those funny clothes?"
+"Well, little one, when you are bigger your Mommy will explain it to you. We're not from around here and, where we come from, this is normal clothing."
+"Bah-I'm thirsty."
+"Would you like to know what's for dinner today?"
+"I believe that it's better if I go in there alone. The Miners have forbidden us to enter the tunnels. I have a better chance of getting in by myself."
+"I've found out the secret word of the ceremony. I hope it's the right one."
+A metal can.
+"Would you like to spend the night here?"

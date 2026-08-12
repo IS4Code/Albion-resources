@@ -1,6 +1,6 @@
-﻿{BLOK000}"I'm responsible for the life-support systems on board." {WORDLife support}
-"Hi there, Driscoll, You daredevil. Did you already here about Snoopy?" {WORDSnoopy}
-"Yes, Driscoll? What else do you want?"
-"All indications are green. I don't expect any problems. Maybe a little fecal product will enter into the fresh water system during landing, but you're used to that!"
-{BLOK000}What can you tell me about... {BLOK001}Take a look at this...{BLOK004}See you soon! {BLOK005}What is your job at the moment?
-"Well, see ya."
+﻿{BLOK000}"I am responsible for the life-support systems." {WORDlife support}
+"Hello, Driscoll, you daredevil. Have you heard about what happened to Snoopy?" {WORDSnoopy}
+"Hello, Driscoll. What's up?"
+"Everything's in the green. I'm not expecting any problems. If some feces get into the fresh water system during the landing, you'll find out."
+{BLOK000}"What can you say about..." {BLOK001}"Take a look at this..." {BLOK004}"See you soon!" {BLOK005}"What are you doing?"
+"Bye."

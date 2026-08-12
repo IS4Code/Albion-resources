@@ -1,0 +1,184 @@
+﻿ 
+Une boîte à fusibles.
+Un fauteuil.
+Une chaise longue.
+Le tableau de contrôle pour le réacteur atomique.
+Un panneau de service. Au milieu, il y a un clavier à code.
+Une console de contrôle.
+Une console de contrôle de vol.
+Un tableau de contrôle.
+Un W-C. chimique.
+Une armoire.
+Un évier.
+Serviettes.
+Nécessaires pour se laver les dents.
+Un témoin de surveillance de couloir.
+Témoins de contrôle.
+Une partie du réacteur.
+Fûts d'ordures, d'eau, de poison et de matières premières.
+Une console éteinte.
+Une lampe.
+Une assiette.
+Un verre.
+Un gobelet.
+Un récipient.
+Une bouteille.
+Un pot.
+Une boîte.
+Un récipient.
+Une salière et un poivrier.
+Sauce au soja.
+Un pot.
+Une petite boîte.
+Une pelle.
+Une bêche.
+Une clé plate.
+Un tournevis.
+Une console manuelle.
+Une ADP. (Assistance Digitale Personnelle)
+Une tenaille.
+Des couverts et un gobelet.
+Vaisselle.
+Une porte automatique.
+Une navette.
+Container.
+Une douche.
+Un véhicule.
+Marquages au sol.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+"Toujours ce rêve. Ca fait au moins la dixième fois; qu'est-ce que ça signifie?^^ Je ne peux pas non plus me souvenir d'avoir rêvé une seule fois en couleur...^^ Mais bon, je vais me dégourdir encore un peu les jambes. Pourvu qu'on me prévienne bientôt du départ du vol de reconnaissance en navette."
+"Salut mon grand! Alors, bien dormi?"
+"Christine! Content de te voir, chérie!^ Je suis littéralement assommé. Tu as eu raison une fois de plus. J'aurais dû dormir chez toi hier soir. J'ai encore fait ce rêve complètement fou. Il devient plus précis."
+"C'est fou. D'habitude, tu n'es pas une chochotte. C'est certainement dû au saut Hyper-C. Tu n'as qu'à rester chez moi cette nuit, et je vais te faire oublier tes cauchemars!"
+"Le rêve, c'était déjà avant et c'est pas vraiment un cauchemar, en fait. Il est seulement si intense!^^ Ah, tant pis. Je vais faire un petit tour. Je verrai peut-être captain Brandt et j'apprendrai l'heure du décollage avec Snoopy."
+"Snoopy? Mais tu n'as donc pas...? Bon sang, tu dois avoir le sommeil lourd. L'explosion s'est sentie dans tout le secteur!"
+"Explosion? Ne fais pas de mystères! De quoi est-ce que tu parles, Chris? Qu'est-ce qui s'est passé avec Snoopy?"
+"L'inspecteur était penché sur le SysCom pendant le saut Hyper-C. Le machin s'est surchargé et a littéralement explosé. Il paraît que les composants de Snoopy étaient éparpillés dans toute la pièce."
+"Oh, la vache! Punaise, il faut d'abord que je digère! Hofstedt est donc le seul délégué gouvernemental encore à bord."
+"Exact, j'ai entendu dire que tu dois effectuer le vol de reconnaissance avec lui à la place de Snoopy."
+"La journée commence bien. Mais Hofstedt est un mec bien, et mon plan de vol ne changera sûrement pas à cause de l'accident. Je vais aller causer un brin avec Joe à propos de cette affaire."
+"Ton pote est aujourd'hui affecté au nord-est du segment, près de l'entrée de la salle SysCom.^^ O.K. Je vais te laisser. J'ai beaucoup de travail. A plus tard, ma biche."
+"Salut, Christine."
+Cette porte est fermée.
+"Hum, Driscoll... Ne sois pas fâché, mais j'aimerais un peu de vie privée. Laisse-moi, s'il te plaît."
+"Il n'y a rien à voir ici. Passez votre chemin."
+{INK 001}Voilà Rainer Hofstedt, physicien, xénobiologiste et inspecteur délégué du gouvernement. Tout excité, il entame une conversation.
+"Driscoll! Quelle chance de vous voir! Est-ce que vous avez déjà appris la mort de l'inspecteur Beegle?"
+"Salut, Hofstedt. Oui, ma compagne vient de m'en faire part. Ça devait être horrible à voir!"
+"Cette tête de mule britannique! Il n'était peut-être pas technicien, mais il aurait dû savoir que l'utilisation du SysCom pendant le saut Hyper-C est risquée. Toute cette technologie de vitesse supérieure à la lumière est loin d'être complètement maîtrisée. Pauvre diable!"
+"Et vous êtes maintenant le seul représentant du gouvernement à bord, n'est-ce pas?"
+"Le seul fouineur, oui. Ne m'en parlez surtout pas!^^ Quoi qu'il en soit, je viens d'avoir une discussion avec capitaine Brandt. Il tient quand même au vol de reconnaissance, avec mon humble personne à la place de Beegle.^^ Il paraît que vous avez un nouveau passager, Driscoll."
+"Je ne veux pas paraître irrespectueux, mais la navette fait peu de cas des deux personnes qu'elle transporte. En ce qui me concerne, le vol peut avoir lieu comme prévu."
+"Je dois avouer que ça me fait très plaisir de participer au vol. Le départ devrait avoir lieu dans les prochains jours. Il faut apparemment attendre l'annonce du capitaine."
+"En effet.^ Nous nous reverrons certainement. plus tard, Hofstedt!"
+"Oui, à plus tard, Driscoll."
+"Bonjour, Driscoll. Bonne chance pour le vol."
+{INK 001}L'agent de la sécurité lance juste un mauvais regard à Tom. Il ne répond pas.
+"Salut, Driscoll! J'ai entendu dire que tu as un nouveau passager, puisqu'ils ont ramassé les restes de l'inspecteur à la petite cuiller.^Je croiserai les doigts pour toi pendant le vol, en tout cas."
+"Salut, Tom. Désolé, je suis pressé. Planning plein à craquer! A plus."
+"Salut, Tom. J'aimerais bien savoir à quoi ressemble la salle SysCom, là où Snoopy a sauté. Trop bête que les Sécus montent la garde."
+{INK 001}Tom tente d'obtenir les dernières informations à partir de la console. Avant, il peut lire ceci:{TECF}^^ {CNTR}{INK 002}***Données vidéo non disponibles***^ ***Liaison SysCom non activée***^^ Mode texte activé.
+"Salut, Driscoll. Alors, encore un coup d'oeil sur votre navette? Tout est OK avec l'engin."
+{TECF}FLASHINFO (Mode texte):^^{LEFT} "Union européenne: La 14e tentative d'introduction d'une monnaie unique officielle s'est heurtée à la résistance de l'Allemagne."
+{TECF}FLASHINFO (Mode texte):^^{LEFT} "Les héritiers McCartney saisissent cour internationale de justice. Est-ce que la tentative d'expropriation par le Brésil des héritiers McCartney menace les dernières parties de la forêt amazonienne encore unies? Certains états exigent la protection de la propriété de la communauté des cohéritiers avec l'intervention de troupes de protection."
+{TECF}FLASHINFO (Mode texte):^^{LEFT} "Rome. Le Pape J.Paul 14 a publié aujourd'hui son encyclique sur la protection de la vie. Dans ce texte, le Vatican réaffirme sa position vis-à-vis du contrôle des naissances et l'interruption volontaire de grossesse. L'encyclique donne toujours priorité à la vie face à des 'intérêts particuliers d'ordre individualiste', comme stipulé dans les textes. L'interruption volontaire de grossesse ne serait autorisée que si la vie de la mère en dépendait. Le souverain pontife qualifie la contraception comme une 'intervention hautement condamnable sur le terrain de la souveraineté biologique de Dieu'. Même une surpopulation croissante ne peut en aucun cas constituer un motif pour dévier de ce principe de civilisation."
+{TECF}FLASHINFO (Mode texte):^^{LEFT} "Bruxelles. Le ministre de l'intérieur des Etats-Unis d'Europe, John McDermott, a qualifié la dernière encyclique du Vatican de 'nouveau reniement des réalités de ce monde, si caractéristique pour cette secte.' A ce propos, McDermott a évoqué le nombre croissant d'adeptes de sectes religieuses, derrière lesquelles se cache en général un bon moyen d'accéder à la fortune des membres grâce à des lavages de cerveau. Le plus inquiétant reste le nombre important d'adolescents et d'adultes victimes de ces méthodes. McDermott a annoncé un contrôle renforcé du Vatican par des agents européens. L'industrie de l'armement du Vatican, qui connaît actuellement une énorme croissance, serait notamment visée. Dernièrement, les indices prouvant que le Vatican dispose également d'armes biologiques se sont multipliés."
+{TECF}FLASHINFO (Mode texte):^^{LEFT} "Stuttgart-Tokyo. Un porte-parole de la société DDT s'est prononcé aujourd'hui publiquement pour la première fois, pour réagir aux rumeurs selon lesquelles un vaisseau-usine de la société, le Toronto, aurait disparu pendant sa mission dans l'espace. Le fait est, d'après le porte-parole, que la radio du vaisseau est tombée en panne. Le vaisseau lui-même émet cependant toujours des signaux de position à partir d'une planète déserte du nom de Nugget, dans le secteur HR-13-4198. On suppose que les systèmes du vaisseau fonctionnent normalement et que les premiers cargo du Toronto arriveront sur la Terre dans quelques années. Une mission de sauvetage serait par conséquent inutile et arriverait même trop tard en cas de catastrophe, éventualité absolument exclue, comme le trajet vers cette planète durerait au moins trois ans. A la bourse, le cours des actions DDT n'a repris que légèrement à la suite de cette déclaration officielle."
+{TECF}FLASHINFO (Mode texte):^^{LEFT} "Strasbourg. Au congrès annuel des éducateurs sociaux européens, une résolution a été adoptée aujourd'hui, et ordonnant au gouvernement européen de rendre immédiatement illégale toute prière en présence de mineurs. On ne peut admettre, d'après la présidente des ESE, Annagret Bergmann-Lampe, que des enfants sans défense soient exposés aux scénarios souvent brutaux de Fin du Monde et de Rédemption de presque toutes les religions. Dernièrement, d'après la présidente, nous avons pu observer des graffitis à connotation religieuse dans plusieurs écoles européennes. Il ne suffit pas, selon Bergmann-Lampe, de châtier durement les malfaiteurs. Il faudrait, au contraire, les considérer et les traiter comme des toxicomanes."
+{TECF}FLASHINFO (Mode texte):^^{LEFT} "Genève. Les ministres des affaires étrangères des états européens, américains et asiatiques se sont rencontrés aujourd'hui pour leur conférence semestrielle sur la continuité de la coopération pacifique, Coccp. Les débats concernaient avant tout la guerre économique entre américains et asiatiques. Des accusations mutuelles portant sur les pratiques protectionnistes caractérisaient cette session. La menace de l'empereur asiatique d'abandonner le projet mutuel du tunnel sous la mer de Béring n'était cependant pas à l'ordre du jour. Une déclaration de clôture n'est pas attendue avant demain soir."
+{TECF}FLASHINFO (Texte):^^{LEFT}"Cette année, le Prix Gates pour la plasmaphysique a été décerné au chinois Huo Wong Gang pour ses travaux révolutionnaires dans le domaine de la recherche fondamentale. Wong Gang est le premier chinois à obtenir le Prix, doté de 470 millions de crédits. Le Prix Gates est décerné depuis 154 ans à des scientifiques et des hommes d'affaires d'exception."
+{TECF}FLASHINFO (Mode texte):^^{LEFT} "Un mot sur le sport. Golf. Dans le match de la Coupe des Nations entre l'Irak et les USA, le score est de 2:1 pour le grand favori américain, après 3 manches sur 5."
+{TECF}FLASHINFO (Mode texte):^^{LEFT} "Les séismes prévus pour demain, 9 septembre 2230. Dans la région du fossé Saint-André, on n'enregistre pas de secousses notables. Après le séisme de l'an dernier, de nouvelles tensions entre la plaque du continent américain et la plaque du pacifique ne se développent que très progressivement. La région de Los Angeles peut être sujette à quelques secousses légères, qui ne devraient cependant pas dépasser 3,5 sur l'échelle ouverte de Richter. Les régions côtières du Japon sont également très calmes, aucun séisme n'y est prévu. La partie nord de la Méditerranée, à l'ouest d'Athènes, pourrait en revanche connaître quelques remous. Les mesures des stations sismiques internationales prévoient un séisme de force 5, qui ne devrait cependant avoir que très peu d'incidences sur la capitale de la province grecque."
+{TECF}FLASHINFO (Mode texte):^^{LEFT} "Dans le conflit tarifaire opposant le syndicat des astronautes aux centres spatiaux supranationaux, aucun rapprochement des positions divergentes n'a pu encore être obtenu aujourd'hui. Les représentants des salariés menaçaient de déclencher des grèves surprises si le patronat ne présentait pas une proposition acceptable jusqu'au prochain tour des négociations. L'essentiel du conflit concerne un intéressement des scientifiques astronautes aux brevets issus de leurs expériences. Alors que le patronat place catégoriquement toute forme d'intéressement 'dans le domaine de l'utopie', selon porte-parole d'une société, la partie adverse invoque que, pour cette année seulement, 400 milliards de crédits de tantièmes allaient être distribués pour des brevets obtenus à partir de résultats de recherches dans l'espace. 'Nous aimerions bien avoir une partie du gâteau', a déclaré un porte-parole syndical."
+{TECF}FLASHINFO (Mode texte):^^{LEFT} "Nuremberg. Le président de l'Institut Européen pour l'Emploi, Jagoda, a présenté aujourd'hui son rapport pour le mois d'août. D'après ce rapport, 76 millions de personnes étaient sans emploi en août, ce qui correspond à un taux de chômage de 16,7%. Le porte-parole de l'opposition écologique-sociale au parlement européen, Guiseppe Piscator, condamnait à ce propos la politique anti-sociale désinvolte du gouvernement d'union, qui, selon lui, permettait aux sociétés supranationales de réaliser des profits records et restait en même temps inactive face à la transformation croissante en bidonvilles des grandes cités européennes. Piscator a dit mot pour mot: 'Il semble que le gouvernement ait un intérêt personnel à ce que l'Europe connaisse bientôt une situation à l'américaine. L'opposition ne va pas rester inerte face à cette rechute dans le capitalisme thatchérien!'"
+{TECF}FLASHINFO (Textmodus):^^{LEFT} "A partir de demain, l'école reprendra dans la majeure partie de l'Europe, après les grandes vacances d'été. Le ministère des transports de l'Union a donc appelé tous les pilotes Indi à la plus grande vigilance dans les jours à venir, puisque, comme chaque année, un grand nombre de nouveaux écoliers circuleront. Soyez donc prudents."
+"{TECF}FLASHINFO (Mode texte):^^{LEFT} Le 3 octobre, une polémique sans fin. La proposition du patronat de supprimer la fête nationale allemande du 3 octobre au profit de l'assurance responsabilité civile des apprentis rencontre toujours une vive opposition. Aujourd'hui, le rassemblement des Sudètes allemands expatriés s'est exprimé. Son président, Herbert Hupka VI, a mis en garde devant l'intention de rayer cette date de la conscience collective, avant que le pays sudète ne soit réintégré à l'Allemagne. Hier déjà, le gouvernement fédéral a formulé des réserves à l'encontre de ces plans. Une réaction du gouvernement d'Union reste à venir."
+{TECF}FLASHINFO (Mode texte):^^{LEFT} "Les séismes prévus pour demain, 9 septembre 2195. Dans la région du fossé Saint-André, on n'enregistre pas de secousses notables. Après le séisme de l'an dernier, de nouvelles tensions entre la plaque du continent américain et celle du Pacifique ne se développent que très progressivement. La région de Los Angeles peut être sujette à quelques secousses légères, qui ne devraient cependant pas dépasser 3,5 sur l'échelle ouverte de Richter. Les régions côtières du Japon sont également très calmes, aucun séisme n'y est prévu. La partie nord de la Méditerranée, à l'ouest d'Athènes, pourrait en revanche connaître quelques remous. Les mesures des stations sismiques internationales prévoient un séisme de force 5, qui ne devrait cependant avoir que très peu d'incidences sur la capitale de la province grecque."
+{TECF}FLASHINFO (Texte):^^{LEFT}"Cette année, le Prix Gates pour la plasmaphysique a été décerné au chinois Huo Wong Gang pour ses travaux révolutionnaires dans le domaine de la recherche fondamentale. Wong Gang est le premier chinois à obtenir le Prix, doté de 470 millions de crédits. Le Prix Gates est décerné depuis 154 ans à des scientifiques et des hommes d'affaires d'exception."
+{TECF}FLASHINFO (Mode texte):^^{LEFT} "Rome. Le Pape J.Paul 14 a publié aujourd'hui son encyclique sur la protection de la vie. Dans ce texte, le Vatican réaffirme sa position vis-à-vis du contrôle des naissances et l'interruption volontaire de grossesse. L'encyclique donne toujours priorité à la vie face à des 'intérêts particuliers d'ordre individualiste', comme stipulé dans les textes. L'interruption volontaire de grossesse ne serait autorisée que si la vie de la mère en dépendait. Le souverain pontife qualifie la contraception comme une 'intervention hautement condamnable sur le terrain de la souveraineté biologique de Dieu'. Même une surpopulation croissante ne peut en aucun cas constituer un motif pour dévier de ce principe de civilisation."
+{TECF}FLASHINFO (Mode texte):^^{LEFT} "Dans le conflit tarifaire opposant le syndicat des astronautes aux centres spatiaux supranationaux, aucun rapprochement des positions divergentes n'a pu encore être obtenu aujourd'hui. Les représentants des salariés menaçaient de déclencher des grèves surprises si le patronat ne présentait pas une proposition acceptable jusqu'au prochain tour des négociations. L'essentiel du conflit concerne un intéressement des scientifiques astronautes aux brevets issus de leurs expériences. Alors que le patronat place catégoriquement toute forme d'intéressement 'dans le domaine de l'utopie', selon porte-parole d'une société, la partie adverse invoque que, pour cette année seulement, 400 milliards de crédits de tantièmes allaient être distribués pour des brevets obtenus à partir de résultats de recherches dans l'espace. 'Nous aimerions bien avoir une partie du gâteau', a déclaré un porte-parole syndical."
+{TECF}FLASHINFO (Mode texte):^^{LEFT} "Genève. Les ministres des affaires étrangères des états européens, américains et asiatiques se sont rencontrés aujourd'hui pour leur conférence semestrielle sur la continuité de la coopération pacifique, Coccp. Les débats concernaient avant tout la guerre économique entre américains et asiatiques. Des accusations mutuelles portant sur les pratiques protectionnistes caractérisaient cette session. La menace de l'empereur asiatique d'abandonner le projet mutuel du tunnel sous la mer de Béring n'était cependant pas à l'ordre du jour. Une déclaration de clôture n'est pas attendue avant demain soir."
+{TECF}FLASHINFO (Mode texte):^^{LEFT} "Les héritiers McCartney saisissent cour internationale de justice. Est-ce que la tentative d'expropriation par le Brésil des héritiers McCartney menace les dernières parties de la forêt amazonienne encore unies? Certains états exigent la protection de la propriété de la communauté des cohéritiers avec l'intervention de troupes de protection."
+{TECF}FLASHINFO (Mode texte):^^{LEFT} "Union européenne: La 14e tentative d'introduction d'une monnaie unique officielle s'est heurtée à la résistance de l'Allemagne."
+Une console d'information.
+Un énorme sas.
+"Bonsoir, Tom! Entre, et passons une soirée agréable."
+Cette nuit, Tom n'est pas dérangé par son rêve...^^ Quelque temps plus tard, Tom quitte la cabine de Christine.
+C'est la porte de la cabine de Christine. Elle est absente pour le moment.
+C'est la porte de la cabine de Christine.^ Chris est apparemment là.
+{CNTR}Frapper à la porte?
+"Salut, Tom! Contente de te voir. Entre, on va se mettre à l'aise."
+Un clavier à code.
+{TECF}{CNTR}CODE ERRONE. ACCES REFUSE.
+{TECF}{CNTR}ENTRER CODE D'OUVERTURE:
+Tom descend au pont de maintenance.
+{TECF}{CNTR}CODE CORRECT. OUVERTURE DU PANNEAU.
+L'échelle mène vers le bas et le pont de maintenance.
+C'est effectivement la salle SysCom! Tom regarde autour de lui avec prudence, mais il n'y a personne. Il y a comme une odeur d'électronique fondue dans l'air.
+Voilà donc les restes du SysCom. L'explosion a en effet dû être dévastatrice.
+Tom est sur le point de se détourner, mais son regard s'arrête sur un objet, sous la console détruite. C'est une arme!
+"Bon sang, comment ce flingue a-t-il pu atterrir ici? Les armes sont strictement interdites à bord, sauf pour les Sécus!^^ Une découverte intéressante, en tout cas..."
+Le SysCom est détruit. Il n'y a rien d'autre d'intéressant à trouver.
+Le SysCom est détruit. Il y a quelque chose en-dessous!
+Morceaux du SysCom détruit.
+Sur les visages des officiers de la sécurité se lit d'abord l'ahurissement, puis la colère, lorsqu'ils voient quelqu'un sortir tranquillement du secteur gardé!
+"Arrêtez-vous, Driscoll! Comment êtes-vous entré dans le secteur fermé?^^ Ne bougez pas, nous allons vous fouiller!"
+Le colonel Priver fouille Tom...
+"C'est bon. Vous pouvez partir. Mais cela aura des conséquences pour votre dossier personnel, je puis vous l'assurer!"
+"Une arme! Driscoll, mais vous êtes fou? Cela aura des conséquences pour votre dossier personnel, vous pouvez en être sûr!^^ Tirez-vous maintenant, vous aurez de nos nouvelles!"^^{INK 001} Le colonel Priver a confisqué l'arme!
+"Encore vous! Dites-moi, vous cherchez des ennuis ou quoi?"
+"Restez calme!"^^{INK 001} Le colonel Priver fouille minutieusement Tom.
+C'est l'endroit où Tom dépose des effets personnels.
+C'était la pièce de l'inspecteur Beegle.
+Dans cette armoire, il y a un tas de cartouches!
+Des Stimdrinks. Un savant mélange de médicaments très efficaces.
+Il est facile de détourner les outils spéciaux de ce type de leur usage normal pour faire sauter des verrous mécaniques!
+On trouve ici de la nourriture sous forme de barres énergétiques.
+Une lampe fluorescente défectueuse.
+C'est le hangar des navettes du TORONTO. C'est d'ici que décollent les plus petits vaisseaux spatiaux.
+{INK 001}Une annonce est diffusée dans les haut-parleurs et résonne dans les couloirs du vaisseau:^^{INK 002}"Pilote Driscoll, navette préparée pour décollage. Ordre de décollage imminent."
+{INK 001}Une annonce est diffusée dans les haut-parleurs:^^{INK 002} "Pilote Driscoll, présentez-vous pour le départ du vol de reconnaissance."
+{INK 001}Une annonce est diffusée dans les haut-parleurs:^^{INK 002} Dernier appel au pilote Driscoll. Rendez-vous immédiatement au hangar des navettes pour le départ!
+"Bon, bon. Va falloir que j'y aille."
+Tom rejoint à grands pas le hangar des navettes. On l'attend déjà sur place.
+{FAHI}{CNTR}Maintenant, une séquence script: Tom & Rainer décollent et s'écrasent!
+Tom est déjà attendu dans le hangar des navettes. Il se précipite en courant vers la navette prête pour le départ.
+Ce sas mène aux cabines du personnel de commandement et du capitaine. L'accès est impossible aux autres membres d'équipage.
+C'est l'entrée du segment du TORONTO qui abrite l'infirmerie et les appartements du personnel de la sécurité. L'accès est interdit aux membres réguliers de l'équipage.
+"Ah enfin, ça y est. Je ne dois pas oublier tout ce que j'ai envie d'emmener pour le vol, au moment du départ."
+Ouaip.
+C'est le hangar des navettes.
+Le sas vers la passerelle de commandement. Très peu de membres d'équipage y ont accès, Tom n'en fait pas partie.
+C'est le mess du vaisseau, point de rencontre et salle de restauration de l'équipage.
+Devant l'entrée de la salle SysCom, où se trouvent les systèmes de communication du vaisseau, deux agents de la sécurité montent la garde.
+Derrière la porte du bas, il y a la salle où travaille actuellement Joe, un vieil ami de Tom.
+Se présenter pour le départ du vol de la navette? {BLOK000}Oui, décoller {BLOK001}Non, encore attendre
+Tom se dirige vers une console et confirme être prêt pour le décollage.^^ Peu après, dans le hangar des navettes...
+Tom décide d'ignorer l'appel dans un premier temps.
+{CNTR}{INK 002}Notez bien: ceci est une version preview. Nous vous prions de nous excuser pour les parties faisant défaut et pour le manque de précision dans les réglages.^^^^ {JUST}{INK 001} EN BREF POUR LA VERSION PREVIEW:^^ Vous êtes TOM DRISCOLL, pilote de navette à bord du TORONTO. Le TORONTO est un vaisseau spatial usine d'une société terrestre, dont la tâche consiste à exploiter des matières premières à grande échelle. La destination du TORONTO est une planète appelée NUGGET, un monde désert, riche en matières premières.^^ Vous allez bientôt effectuer un vol de reconnaissance avec l'inspecteur gouvernemental M. BEEGLE, surnommé SNOOPY, dans une petite navette, pour un premier examen approfondi de la planète de destination.^^{LEFT} Connaissances personnelles:^ CHRISTINE - Technicienne et votre partenaire actuelle.^ RAINER HOFSTEDT - Scientifique et second délégué gouvernemental à bord.^ JOE - Technicien et vieil ami.^^{JUST} Ce scénario sert d'introduction à l'action, il n'y a pas encore de combats. Parlez aux personnes pour obtenir plus d'informations quant à votre propre situation. Il y a aussi une énigme à résoudre; si vous réussissez, vous pouvez garder un objet qui facilitera votre progression.^^ L'action commence juste après l'intro (voir CD). TOM émerge de son rêve étrange et commence sa journée.^^^ {CNTR}EN AVANT!
+Lorsque Tom sort dans le couloir, il aperçoit Christine, sa compagne, s'approcher sur sa droite.^^Ravi, il va à sa rencontre pour lui parler.
+{FAHI}- S E Q U E N C E S C R I P T - {NORS}^^ Ici commencera une séquence script, qui décrira le vol vers Albion, la chute, les premiers pas sur la planète, l'explosion de la navette et le réveil chez les Iskais.
+"Driscoll, tout est prêt pour votre vol."
+"Toutes les données nécessaires pour déterminer le cap sont à votre disposition dans les systèmes de la navette, Mister Driscoll.^^Pendant le vol, je serai en liaison directe avec vous pour pouvoir vous transmettre immédiatement le résultat de l'analyse des données transmises."
+"Vous connaissez votre mission: exécution de séries de tests en orbite et sur place pour la vérification des données de la sonde. Emmenez Mister Hofstedt à bon port, Driscoll.^ Bonne chance."
+"Merci, Sir. Je ferai de mon mieux.^^Vous êtes prêt, Hofstedt?"
+"Bien sûr! Mettez les gaz, Driscoll!"
+A côté de la navette, Tom tombe sur capitaine Brandt ainsi que sur le corps androïde de Ned, l'intelligence artificielle du vaisseau, et bien sûr Rainer Hofstedt, son passager.
+Tom dirige la navette avec assurance en-dehors de l'immense vaisseau mère. ^^Le petit vaisseau spatial dispose d'une propulsion puissante, et les deux se retrouvent après quelques heures à proximité de la planète de destination...
+"Au bout de ce couloir, là-haut, Joe, cette vieille branche, est en train de travailler.^^Je devrais aller le voir bientôt."
+{CNTR}{INK 003}Bienvenue dans la^^^ {INK 006}{BIG }DEMO D'ALBION{NORS}{INK 003}
+{INK 003}Cette démo contient les deux premiers scénarios du jeu.^^Dans Albion, vous trouverez une grande diversité de caractéristiques comme par exemple des sorts, des commerçants et des entraîneurs, mais qui n'apparaissent qu'après un certain temps dans le jeu. Si vous voulez faire un petit tour du côté des combats et des donjons 3D, vous pouvez charger la partie "DEMO": A l'ouest, il y a l'entrée d'une grotte, et une ville un peu plus au sud-ouest. Essayez donc l'anneau de feu que Rainer Hofstedt porte sur lui lors d'un combat! ^^A propos des contrôles:^Vous CONTROLEZ les personnages en cliquant sur le bouton gauche de la souris; si vous voulez EXECUTER quelque chose, cliquez sur le bouton droit de la souris ou maintenez-le enfoncé.^^ A propos de l'histoire:^Vous êtes Tom Driscoll, pilote à bord d'un immense vaisseau spatial usine, le TORONTO. Votre job consiste à effectuer un vol de reconnaissance avec un haut fonctionnaire à bord d'une petite navette vers la planète de destination. Discutez avec les autres personnes à bord du TORONTO pour obtenir plus d'informations sur votre propre situation. ASTUCE: Vous trouverez dans ce premier scénario une arme et des munitions qui vous aideront dans les combats à venir.^^Nous vous souhaitons beaucoup de plaisir pour ce premier contact avec Albion. Vous pouvez d'ailleurs poursuivre votre partie démo si vous achetez ALBION (copiez tout simplement la partie dans le nouveau répertoire SAUVEGARDES).^^ Le jeu complet est disponible!

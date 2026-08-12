@@ -1,0 +1,7 @@
+﻿{BLOK000} "I'm one of the clan hunters."{WORDhunter}{WORDclan}
+"Dsarii-ma, guests of the house. I see that Giria has put you back on your feet." {WORDGiria}{BLOK010} "Dsarii-ma. What is the purpose of this part of the house?"
+"This is the resting area of the house. Since I was injured in a hunt, I will probably spend some time here." {WORDhunt}
+"Dsarii-ma. What can I do for you?"
+"Giria takes care of the wounded of our clan just as she helped you. She is a wonderful woman; but very easy to offend, so be careful." {WORDclan}
+"Yes, we were right on the heels of our prey, in the northwest part of Nakiridaani, when I ran into a group of krondirs. By the time the others had rushed to my aid, the krondirs had already started munching on me." {WORDNakiridaani}{WORDkrondir}
+"The krondirs are giant, dangerous predatory animals. They are feared opponents, the females are particularly wild. They have a Trii-like structure in the horn on their forehead, which is very valued as an ornament. ^ ^ But if, you are interested in hunting them, you should have a word with Krinn, the Stri of the hunt. You will recognize him by his gray-brown pelt." {WORDTrii}{WORDStri}

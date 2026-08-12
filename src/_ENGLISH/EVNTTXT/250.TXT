@@ -1,0 +1,14 @@
+﻿"{BLOK000} "It is my function to lead and coordinate the Council of the Just."
+"Nice of you to drop by - Skeima Din. At the moment, there is a very tense situation with Kontos' occupation of the shrine." {WORDsituation}{WORDassassination}{WORDdiscrepancies}
+"It happened in the middle of the night. I heard the guards posted in front of my doors cry out. Had I not placed the heavy saber under my pillow, I wouldn't have been able to defend myself. My attackers were so surprised at my strong defense, that they just fled. They were disguised and I didn't recognize them, but I think it might have been Gard and Riko. Besides, they have recently disappeared. I don't have any proof yet, but I think there's a connection. If I had not been so well prepared, I would no longer be here. I hope you accept this reward as thanks. {WORDreward}{WORDPerron}{WORDwarning}
+"You have really earned it! Take this key and go into the council house treasury of Beloveno. Take anything you want."{WORDkey}
+"I already gave you the key, didn't I? My offer was serious - take everything you want!"{WORDkey}
+"The key is for the treasure chamber. I don't think you need any help finding it, do you?"
+"What do you expect? We have to get new council members since it is almost certain that Gard and Riko were part of the conspiracy. For now, I can handle the important matters."
+"I don't think they'll be seen around here again."
+"Perron is very open and I know where I stand with him. Sometimes he overreacts a bit, but that's big problem."
+"That's what our city is called."
+"That'th me."
+"Kontos has converted his plans into action and is occupying the shrine and the surrounding area with his warriors. It's surprising how the inhabitants of Kounos stand behind their leader. He has a considerable amount of influence on them. I really wonder if it is actually the Iskais' fault that these horrible creatures appear. In any case, Kontos maintains that this is what's happening and his followers believe it. In any case, you can't really blame the Iskai for the way they are reacting. They, too, are sending warriors to the shrine and you can certainly imagine what is going on there. But it is clear that their taboo, pride, and religion are being disrespected and violated. Since you are a very mixed group, you may not be able to be served in some shops. The relation between Iskai and humans is very tense right now!"
+"The council house is the most beautiful building in Beloveno. You should look around a bit. No one will stop you."
+"Yes, again, thank you very much for your information. Have you taken your reward?"

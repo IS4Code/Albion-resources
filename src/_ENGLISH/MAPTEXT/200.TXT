@@ -1,97 +1,97 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿-free-
+A whirlpool.
+A rock ledge.
+Floating water plants.
+The water is deep and the current appears to be strong.
+Water plants.
+A rock.
+Giant air roots.
+Large, exotic plants.
+Dense jungle.
+A round-topped tree.
+A spider tree. Its red roots attract and poison insects.
+A leaf-bulb tree.
+A climbing, grasping plant.
+Low ground plants.
+Net plants.
+A stalk plant. 
+Rocks.
+Roots and broken-off branches.
+Mushrooms.
+A bush.
+A cactus-like plant.
+Rocks.
+A waterfall.
+A marsh.
+A plant has anchored itself in the rock here.
+A rock ledge.
+These plants gleam in fascinating shades of color.
+A semi-vegetable city wall.
+The city gate.
+A bridge pier.
+An Iskai bridge.
+Because of its numerous branches, this plant offers help in rock climbing. It has grown solidly into the rock wall with thousands of roots.
+The water is very calm and clear enough to see the bottom. Numerous boulders lie in the water and there is almost no current.
+Rapids.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+Places for further Cutmaps.
+There is an opening here which leads into subterranean parts of the collapsed building.
+The entrance to the city of Jirinaar.
+A plank of the rotten bridge collapses under {LEAD}{NAME} and injures {HIM }! The others go around the bridge.
+This has to be what remains of the former Dji-Fadh building!
+"This must be where we landed! Boy, someone's really cleaned up here. There is no trace of the shuttle..."
+"Hey, there is something we can use from the shuttle under the debris!"
+The ground is dug up here. This is the crash site of the shuttle.
+"Rriik?" ^ ^ {INK 001} The slender herd animal looks astonished at {LEAD}{NAME}, but then ignores {HIM }.
+A swarm of insect-like flying animals.
+The small, flying animals have a very painful sting!
+A krondir!
+A small, well-armored animal. It ignores {LEAD}{NAME} and {HIS } companions.
+A large, flying animal. It doesn't look aggressive.
+A bush with ripe seeds which sparkle slightly.
+This bush has been harvested. There are no more seeds on it. 
+"This is a Triifalai bush, a very rare plant. The seeds are used by the Dji-Kas for their magic. We should take the seeds with us, they are worth a lot of gold to the Dji-Kas!"
+When the stinging insects come too close, a little bottle of the insect repellent helps keep them away for a short time!
+Janiis accompanies Tom and {HIS } companions to the harbor where a ship is already waiting. ^ ^ They say good-bye, and the ship moves out of the harbor and out to sea...
+"I am worried about what lies ahead in our search for the Toronto's landing place."
+"Hopefully no dangerous obstacles."
+"Well, I think we did alright on our first criminal investigation. ^ ^ After all that has happened, I propose that we forget the formalities from here on out. What do you think, Rainer? And you, Drirr? Sira?"
+All agree to forget the formalities.
+The passage lasts many days. ^ ^ During this time, Drirr teaches everyone the language spoken by the humans on the next island.
+Finally land reappears...
+An eye-shaped symbol is embedded in the rock.
+"These symbols have been around for a very long time. They are found in many places around the planet, but nobody knows exactly where they came from or what their purpose is."
+{LEAD}{NAME} places the amulet with the symbol of the Goddess on the rock. ^ ^ A door creaks open and the companions enter the cave.
+"I can use the amulet of the Goddess I carry with me to open the entrance to the cave."
+{INK 006}{CNTR}{BIG } End of the ALBION DEMO{INK 003}{NORS} ^ ^ {JUST} We hope that you have had fun with this demo. If you would like to continue your journey with Tom Driscoll and his companions, you can do so at any time with the complete version of ALBION. ^ To give you an idea of the adventures which still lie ahead, we have included a couple of snapshots from the next chapters....
+{INK 002}{CNTR}{BIG }ALBION{INK 001}{NORS} ^ ^ ^ Now available everywhere!!

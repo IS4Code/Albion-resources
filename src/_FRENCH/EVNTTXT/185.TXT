@@ -1,0 +1,10 @@
+﻿{BLOK000}"Je suis officier de la sécurité du rang de colonel."
+"Passez votre chemin, il n'y rien à voir ici." {BLOK010}"Qu'est-ce qui s'est passé? Vous n'êtes quand même pas ici pour le plaisir."
+"Vous avez certainement entendu parler de l'accident de l'inspecteur avec le SysCom Hyper-C. L'accès à la salle SysCom est interdit jusqu'à nouvel ordre."{WORDSalle SysCom}
+"La salle SysCom restera fermée pour l'équipage jusqu'à ce que toute menace provenant de l'installation défectueuse soit exclue. Et les questions, ça suffit maintenant."
+"Ne soyez pas insolent, Driscoll. Pour vous, c'est encore colonel."
+"{HIGH}Vous êtes fou?^ {NORS}Donnez cette arme immédiatement! Ça aura des conséquences pour votre dossier personnel, Driscoll, je vous le promets!"^^ {INK 001}Priver prend l'arme de Tom.
+"Qu'est-ce que vous voulez encore? Nous ne sommes pas payés pour discuter."{WORDSalle SysCom}
+"Disparaissez, Driscoll. Je n'ai pas envie de discuter avec des agitateurs comme vous."
+{BLOK000}Que pouvez-vous me dire de... {BLOK001}Regardez ceci... {BLOK004}Au revoir. {BLOK005}Quelle est votre tâche?
+"Au revoir."

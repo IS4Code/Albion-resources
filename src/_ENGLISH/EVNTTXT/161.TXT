@@ -1,0 +1,7 @@
+﻿{BLOK000}"I am the queen of Aballon."{WORDAballon}
+"Togi Din, visitors of Aballon. Welcome to the orchard of Gratogel." {BLOK010}"We are searching for a large metal object which fell out of the sky. Have you heard about any such event?" {WORDAballon}{WORDGratogel}
+"Are you serious? No, no one has reported such a wonder to me."
+"Togi Din. What do you want from me?"
+"The most beautiful fruits in Gratogel grow here. Danu and Lugh love our land, probably as much as I do. We have good harvests year after year."{WORDDanu}{WORDLugh}
+"As I already said, we are proud of the fact that the most beautiful fruits in Gratogel grow here. Danu and Lugh love our land probably as much as I do, and so we have good harvests year after year." {WORDDanu}{WORDLugh}
+"You stand before the rightful queen of Aballon.{WORDAballon}"

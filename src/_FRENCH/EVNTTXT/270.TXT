@@ -1,0 +1,2 @@
+﻿{BLOK000}"Je suis vendeuse de boucliers, de corselets et d'autres vêtements de protection."
+"Skeima Din.^^Vous cherchez quelque chose de particulier? Je peux vous vendre toutes sortes de choses pour vous protéger: corselets, gilets, casques, bonnets, boucliers, bottes, etc. Evidemment, si vous êtes déjà blessés, allez plutôt voir Ramina et faites-vous soigner."{WORDRamina}{BLOK010}"Qu'est-ce que vous avez comme bonne choses à vendre?"

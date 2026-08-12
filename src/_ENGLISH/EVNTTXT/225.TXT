@@ -1,0 +1,4 @@
+﻿{BLOK000}"Well, sweeties, I'm sure you can tell by my clothing where I work. Come visit me there sometime! Of course, most males aren't willing to admit that they go to a brothel now and then."
+"Welcome, Kariah greets you. It's great that you have decided to drop by again. Everybody's been talking about you! I would like to thank you again for your assistance. The new council is doing some good work now and the mood in the city - no, the entire continent - has improved a lot. What are you going to do next?" {BLOK010} "It's hard to explain..." {BLOK011} "We are on a quest and must continue our journey."
+"Excellent. I'm assuming that I can't help you, otherwise you would have asked me for my assistance. In any case, I wish you good luck in your search and maybe we will meet again, who knows?"
+"That'th me."

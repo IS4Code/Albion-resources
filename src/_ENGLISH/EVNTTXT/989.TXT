@@ -1,0 +1,17 @@
+﻿!
+"What do you want, Tom?" {BLOK010}"Please tell me something about your past, Khunag."
+"Because of my capabilities as a magician, it is hard to deny that I was once a member of the Kenget Kamulos. My path has separated from my former brothers, and you don't need to know anything more about it . ^ ^ I prefer to keep my business to myself."{WORDKenget Kamulos}{WORDmagic}
+"It is useless to try and learn more about my past than I am ready to reveal, Tom. ^ ^ I was once a member of the Kenget Kamulos, and therefore have knowledge of their magic. My path has separated me from my former brothers, and you don't need to know anything more about it. ^ ^ As I have said, I prefer to keep my business to myself." {WORDKenget Kamulos}{WORDmagic}
+"Kenget Kamulos means warrior of the god Kamulos. It is an order which split off from the Arjano Druids many hundreds of years ago. They are true warriors and live according to the warrior principles of valor and honor. For years, they were my only family, but then... my life took another direction."
+"I was born to fight, but am trapped in a weak body. My magic serves the exclusive purpose of obtaining honor in battle. To feel currents of energy flowing through my spirit is a wonderful feeling. ^ ^ Unfortunately, I can no longer work with the masters of Oqulo to perfect my capabilities. I have turned to scrolls for further training. " {WORDOqulo}{WORDspell scrolls}
+"Scrolls are special magic documents. They dissolve into dust after they are used. ^ ^ They permit the ungifted to conjure a spell. ^ ^ And, under certain circumstances, if someone is familiar with the type of magic which such a scroll contains, he can permanently learn the magic."
+"What do you want, Tom?" {BLOK010}" I keep thinking about the fact that you have risked all of our lives, Khunag."
+"We have already spoken about that. ^ ^ You were the instrument of my revenge, that is correct. However, I still believe the assertion that Cairnain would have given us the high wisdom voluntarily is a lie. ^ ^ I have stood beside you in many battles, and consider the fulfillment of my revenge to be payment enough for that. I do not wish to discuss this matter any more."
+"As I said, I believe further discussion of this matter would be superfluous. If you want, I will go."
+"If you want, I will leave. We will not see each other again. Are you sure you can do without me?"
+"As you say. I wish you all the best luck in your enterprise. Farewell."
+"That's what I thought."
+{BLOK000}"What can you say about..."{BLOK004}"Thank you for the conversation."
+{BLOK000}"What can you say about..."{BLOK003}"I would like you to leave us."{BLOK004} "Thank you for the conversation."
+"There are two types of warriors in the Kenget Kamulos. The Kledo Kamulos, they fight with weapons and their body. And the Oqulo Kamulos, the warriors of the spirit."
+"What do you want, Tom?" {BLOK010}"I believe you are right, Khunag, we have to take the initiative. Lead us to the secret passage."

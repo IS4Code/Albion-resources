@@ -1,0 +1,5 @@
+﻿{BLOK000}"J'ai la réputation d'être un enseignant de talent des arts magiques." {WORDMagie}
+"Togi Din, mes enfants. Vous cherchez à enrichir votre savoir sur la magie des druides?" {BLOK010}"C'est juste, Ouktero. Enseignez-nous d'autres connaissances, s'il vous plaît."
+"J'ai passé la moitié de ma vie à transmettre le savoir de nos ancêtres, à mener un combat inéquitable contre l'oubli." {WORDOublier}
+"Hé bien, j'ai des disciples assidus et curieux, mais il y en a de moins en moins, de telle façon que notre nombre est largement en-dessous de celui des siècles précédents. Mais il y a de l'espoir ces derniers temps. Les récoltes des dernières années étaient tellement bonnes, que plus de jeunes s'intéressent de nouveau aux choses qui, du moins selon l'apparence, n'ont rien à voir avec la survie de tous les jours."
+"La magie, aussi appelée l'art des Dieux, est enracinée dans le savoir que nos ancêtres ont reçu de Danu et que nous essayons de conserver et d'enrichir. Ceux qui sont bénis du don pour les arts, ont besoin de longues années d'initiation et d'exercice, avant de devenir maître de leur matière."{WORDDanu}

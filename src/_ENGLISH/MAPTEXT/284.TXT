@@ -1,10 +1,10 @@
-﻿
-
-
-
-
-
-
-
-
-
+﻿{BLOK000} Inn {BLOK001} Mixed Goods {BLOK002} Guild of Magicians {BLOK003} Residence {BLOK004} City Gate
+A door.
+A fountain.
+Perhaps the residents of Srimalinar know something about the Toronto landing. {LEAD}{NAME} speaks to the Iskai about it.
+"I am sure I would know if something that big landed here or had been discovered. The area is fairly hilly. If this thing is actually as big as you say it is, then it couldn't have withstood the landing undamaged. There aren't any large, level clearings here. Also, Maini is heavily populated. Humans, Druids, and Iskai live here, and I don't believe that something like that would have gone unnoticed."
+"Would you like to know something about Srimalinar? The city is very old. Originally we all come from Nakiridaani. Our ancestors left in search of a new place to settle. After all, Nakiridaani is not that big. But there is a lot of room here, and the humans respect us. We're very thankful to them. We all regularly pray in our holy thinking place. This is also where our deceased ancestors find eternal rest. All who were fair and good in their lives achieve the eternal consciousness there. Please be aware, though, that there is a taboo which forbids strangers from visiting this place. We consider it to be a profound desecration of our religion if the taboo is broken."
+"Do you know your way around Srimalinar? We're actually only a small settlement, even though the village has a large surface area. But you will see that we're not really that big. There are only a few shops where you can buy things. But you must visit the inn! It is the most important meeting place in Srimalinar. Maybe you'd like to see some of the residences. Naturally, the guild of Magicians would be interesting for you; we're famous for our magic scholars and their extraordinary capabilities."
+"Daddy has to harvest the fields in front of the city. In the meantime, I just play here. But while everybody is harvesting, it's really boring. Nobody's here."
+"Last night, a kritah ran across my path again. I hate those creatures. They are harmless, but they steal shiny objects. They live in the rock caves on the edge of the mountain. Everyone says they're not dangerous, but in general, it is a bad omen to meet one of these animals. And, now, I've seen them again. What is going to happen? I'm already imagining the worst!"
+This door is locked tight. There doesn't seem to be anyone home.

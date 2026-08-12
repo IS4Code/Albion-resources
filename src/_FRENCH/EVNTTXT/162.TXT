@@ -1,0 +1,3 @@
+﻿{BLOK000}"Je suis marchand de choses habituelles et inhabituelles, oui, hein."{WORDCommerçant}
+"Togi Din. Aah, des voyageurs, à ce que je vois, hein? Bien, très bien! On se connaît? Non? Pff, pareil, hein? Vous avez certainement besoin de quelque chose pour vous faciliter le voyage, hein? Ou avez-vous apporté quelque chose de beau des pays lointains au vieux Rifrako, hein?" {BLOK010}"Montrez-nous votre offre, s'il vous plaît, mon cher Rifrako."
+"Oui, je fais du commerce avec de belles choses, des choses utiles et parfois des choses magiques!"

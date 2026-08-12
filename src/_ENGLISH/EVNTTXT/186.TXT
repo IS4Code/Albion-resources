@@ -1,8 +1,8 @@
-﻿{BLOK000}"I'm the navigator and mathemetician."{WORDNavigator}
-"Hello, Driscoll.Are you all set for the flight?"{WORDFlight}
-"Ah, Driscoll. Is there anything else I can do for you?"{WORDFlight}
-"I just rechecked the calculations for your flightplan. Everything's in the green area, there are no critical flight sectors. It's gonna be child's play."
-"Like I said, the calculations for your flight plan are finished, and double checked."
-"The job's not gonna be easy, even though we got Ned on board. Maybe because of him. During the whole flight, I've been testing the AI for malfunctions, but I can't find any. I think I found more things wrong with me during the testing. It's hard for a regular crewman to put his trust 100% in the AI systems, But I think that's going to change."{WORDAI}
-{BLOK000}What can you tell me about... {BLOK001}Take a look at this...{BLOK004}See you soon! {BLOK005}What is your job at the moment?
-"See you then."
+﻿{BLOK000}"I am mathematician and navigator." {WORDnavigator}
+"Hello, Driscoll. Well, is everything set for the flight?" {WORDflight}
+"Ah, Driscoll. What else can I do for you?" {WORDflight}
+"I've checked the calculations for your flight path again. Everything is in the green area - no critical points in the path. It should be child's play."
+"As I already said, the calculations for the flight path are finished and checked."
+"Fairly hard job this time. Even though, or maybe because, we have Ned the Wonder-AI on board. I've tried to find errors in the AI's calculations during the entire flight, but there are none. I think I'm removing the need for my own job by all that checking. No-one is prepared to trust an AI 100%, but I think it won't be long before that'll start to change. " {WORDAI}
+{BLOK000}"What can you say about..." {BLOK001}"Take a look at this..." {BLOK004}"See you soon!" {BLOK005}"What are you doing?"
+"Bye."

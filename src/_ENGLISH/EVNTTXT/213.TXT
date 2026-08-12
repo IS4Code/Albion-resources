@@ -1,0 +1,7 @@
+﻿{BLOK000} "Oh, I manage the food business here in the city."
+"Skeima Din. Haven't we talked before? I've heard that you are intervening in the conflict. I think it is great. Many will believe in you, especially when nobody trusts each other anymore. While we are on the subject: I'm not too sure what the situation is with Kontos. I've heard from a good friend that there is a connection between him and council members Gard and Riko, who were instrumental in the plot against Herras. I think this should be investigated! I'm probably not diplomatic enough for such a task. However, if you care about this land, then try to help. You will be seen as a neutral mediator. Maybe you can find proof for or against Kontos' guilt." {WORDKontos}{WORDshrine}
+"As I said, I am not sure anymore what to make of him. Maybe you can gather proof which will clear or condemn him?" {BLOK010} "And what kind of evidence are you thinking about?" {BLOK011} "How should we approach the matter?"
+"Certainly, there must be documents which show who is connected with Kontos."
+"No idea - a search like that is certainly not entirely safe!"
+"I believe that this has become quite serious. Haven't Kontos and his followers converted their plan into reality?"
+"That'th me."

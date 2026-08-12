@@ -1,0 +1,5 @@
+﻿{BLOK000}"I am considered a talented teacher of the magic arts." {WORDmagic}
+"Togi Din, my children. Do you seek to increase your knowledge of Druid magic?" {BLOK010}"Yes, that is true, Ouktero. Please teach us new knowledge."
+"I have spent half of my life mediating the knowledge of our forefathers and conducting an unequaled battle against forgetfulness." {WORDforget}
+"Well, I do have some students here who are industrious and eager to learn. But there are fewer and fewer of them, so our numbers are far less than they were in the past. But there has been some hope recently. The harvests in the past few years have been so good that more young people are getting interested in things that have nothing to do with daily survival."
+"Magic, also called the art of the gods, is rooted in knowledge which our forefathers received from Danu, and that we try to preserve and extend. Those who are blessed with the talent for magic need years of training and a exercise in order to become masters of their art." {WORDDanu}

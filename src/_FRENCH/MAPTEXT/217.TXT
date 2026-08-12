@@ -1,0 +1,79 @@
+﻿-libre-
+Une forteresse en pierre.
+Une dune de sable.
+Une colonne de pierre.
+Une grande falaise.
+Une fleur assiette.
+Une morille des sables.
+Cette plante se nourrit d'insectes.
+Une plante carnivore.
+Cactée à fleurs qui pousse très lentement.
+Parties de plantes.
+Petites plantes.
+Pierres.
+Touffes d'herbe.
+Racines, morceaux de bois et branches.
+Un château de pierre construit avec des rochers.
+Un rapide.
+L'eau est profonde et le courant semble être fort.
+Plantes aquatiques.
+Pousses de plantes aquatiques.
+Un tourbillon.
+Un arbre parasol.
+Ce genre d'arbres des steppes pousse bien sur sol très sec.
+Une fleur des steppes.
+Un rocher-tour.
+Graviers.
+Un grand pont de rochers.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Un mur d'enceinte.
+La porte de la ville.
+{LEAD}{NAME} dit soudain:^"Je me sens encore bizarre. Peut-être qu'on devrait prendre le truc qu'on a acheté à Umajo-Kenta."
+{LEAD}{NAME} dit soudain:^"Je me sens encore bizarre. On aurait dû acheter le truc à Umajo-Kenta. Ça nous aurait peut-être aidé maintenant."
+Le groupe est épuisé par la longue marche dans le désert. Les capacités des différents membres baissent de façon dramatique...
+Le groupe subit des dommages avec cette longue marche dans le désert.
+Je fais le voyage entre la prison et Umajo-Kenta pour chercher des denrées.
+Une entrée cachée.
+Tsssssss...
+"Bon, voyons si Ohl vient vraiment..."
+"Vous avez bien fait de venir. J'aimerais avoir une gemme pour vous rendre ce service."
+"Puis-je choisir une gemme dans vos possessions?"
+"Dans ce cas, je ne suis pas disposé à vous conduire à l'entrée!"
+"Vous n'avez malheureusement pas de gemme sur vous. Sans gemme, je ne vous montre pas l'entrée! Mais vous pouvez revenir me voir quand vous pourrez m'offrir une pierre."
+"Merci beaucoup, c'est une très belle pierre. D'ailleurs, je n'en possède que 27 de ce type, alors que j'ai déjà, par exemple, 235 Rubis. Vous ne pouvez pas savoir la joie que j'éprouve! Je vais la rajouter tout à l'heure à ma collection.^^Bon, alors suivez-moi. Je vais maintenant vous montrer l'entrée! Restez derrière moi, on peut facilement se perdre dans les falaises."
+"Nous voilà. A gauche dans cette grande falaise, vous pouvez apercevoir la porte. Elle est directement derrière la fleur de la plante carnivore. ^^Encore merci pour la gemme et bonne chance pour la route! Je dois hélas repartir tout de suite. Vous comprendrez facilement qu'après tout, on ne reçoit pas une gemme tous les jours. Cela fait beaucoup de travail. Il faut la polir, l'examiner, l'admirer, la montrer à mes amis, l'éclairer, l'exposer, etc. Je serai certainement occupé jusqu'à après-demain!^^Bonne chance, Skeima Din!"
+Un symbole en forme d'oeil est enfoncé dans la roche.
+"Ces symboles existent déjà depuis longtemps. On les trouve à certains endroits sur toute la planète, mais personne n'en connaît l'origine exacte."
+{LEAD}{NAME} place l'amulette avec le symbole de la Déesse sur la roche.^^Un portail s'ouvre en grinçant et les compagnons pénètrent dans la grotte.
+"Pour ouvrir l'entrée de la grotte, je peux utiliser l'amulette de la Déesse que je porte sur moi."
+"Quelle chaleur!^^Ceci est donc le pays des Umajo, le pays des forgerons. D'après nos informations, le grand vaisseau métallique s'est posé quelque part au sud de la chaîne de montagnes dans laquelle nous nous trouvons actuellement.^^Le mur que l'on aperçoit à l'ouest fait partie d'Umajo Kenta, la ville du métal et des gemmes."

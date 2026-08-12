@@ -1,0 +1,15 @@
+﻿!
+Embrumé par les gaz anesthésiants, Tom reprend doucement ses esprits. Deux agents de la sécurité le prennent entre eux et le conduisent dans le TORONTO.
+Le gaz fait encore effet sur Tom.^^La vue trouble et l'esprit embrumé, il aperçoit son comité d'accueil: capitaine Brandt, Christine, Joe, plusieurs membres d'équipage ainsi que le corps artificiel de Ned, de l'ordinateur de bord I.A.
+"Driscoll! Nous vous avons tout de même retrouvé en vie! Qu'est-ce que vous avez dû endurer!"
+"Tom, tu t'en es quand même tiré! Mec, je suis content de te revoir!"
+"{FAT }Tom!{NORS} Mon Dieu, que je puisse te revoir encore une fois! Comment vas-tu? Qu'est-ce qui s'est passé? Et où..."
+"Veuillez m'excuser, Mrs. Mocci, mais comme vous voyez, l'état général de Mr. Driscoll est très préoccupant. Il faut lui apporter des soins médicaux de toute urgence."
+"Gaz... Captn' Brandt, pourquoi... La planète est..."
+"Je pense aussi que nous devons emmener Mr. Driscoll immédiatement dans le département médical. C'est un miracle qu'il ait pu survivre aussi longtemps dans ce milieu hostile."
+"Mais, Sir, la planète est... Vous devez quand même savoir que...^^{FAT }La planète grouille de vie!{NORS}"
+"Exactement ce que je redoutais! Mr. Driscoll hallucine. Il faut immédiatement l'emmener à l'infirmerie."
+Les deux Sécus prennent de nouveau Tom entre eux et le traînent avec eux.
+"Tom!"
+"Patientez quelques jours, Mrs. Mocci. Vous allez pouvoir rendre visite à Mr. Driscoll dès qu'il se sera un peu remis."
+"Mais..."

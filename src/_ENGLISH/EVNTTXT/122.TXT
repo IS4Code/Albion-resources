@@ -1,0 +1,40 @@
+﻿{BLOK000} "I have the honor of being the head of the Dji-Kas."
+"I think he's a friend of Akiir."
+"Our magic is deeply rooted in this world. For example, we use a specific type of seed, concentrated with our spiritual forces, to cast spells. We are proud of our diverse art. We know magic that can create and destroy, injure and heal. ^ You can recognize our guild members by the colored pattern on their pelts." {WORDseed}{WORDhealing}{WORDFasiir}{WORDguild house}
+{INK 001} Fasiir acts amused. {INK 002} "Well, you are talking to him!"
+"It is not the seed itself which develops the magic effect, but the spirit of the Dji-Kas which is used to find its focus. The seeds come from a strange plant called Triifalai, that means 'Trii of the Goddess.' They are sold in the guild house."{WORDTrii}{WORDGoddess}
+"Right at the entrance to the guild house you find Stri Rejira, a Mistress of the Healing Art. She will heal your injuries."
+"This is the name of a plant which produces seeds we greatly value. {WORDseed}"
+
+"Oh, the builders. The relationship between our guilds is troubled sometimes. Many of their talented members feel attracted to our art, and transfer to our guild. I must also confess that I don't get along well with Akiir, the Stri of the Formers. There are old rivalries between us." {WORDguild}{WORDAkiir}
+"The guild house has been in the southwestern corner of Jirinaar for a long time. It was built by the Dji-Kas and houses many guild members and all Dra."{WORDDra}
+"We never ordered Akiir's murder! Kriis lied, the Goddess knows why. We have no reason to do such a shameful thing!"{WORDGoddess}
+"Let me thank you once more for having freed us from the suspicion of murdering Akiir!"
+"Akiir is the chief of the Formers, a guild which is, for the most part, at odds with us. Especially Akiir doesn't go out of his way to avoid conflicts."{WORDFormer}
+"You don't know Fasiir as well as those like me who deal with him on a daily basis. He would never have ordered such a crime! But I doubt you'll believe the words of a member of his guild."
+"I am really grateful that you have cleared his name."
+"I know nothing about a murder."
+dummy
+dummy
+dummy
+dummy
+dummy
+"Dsarii-ma and welcome to the house of the Dji-Kas. May I present myself: Fasiir, senior Stri of the Dji-Kas and Sebai-fre. ^ I've heard about the impressive, yet ultimately disastrous, magic of your flying machine. As you can imagine, I am very interested in talking to you. Can you briefly explain how your magic works?" {BLOK010} "I'd be glad to try, Fasiir." {BLOK011} "I don't think I could explain it successfully."
+"I thank you for your willingness to satisfy my curiosity." ^ ^ {INK 001}{LEAD}{NAME} begins to speak. ^ {INK 002} "We call it technology. There are advanced machines which enable us to travel through the air and from world to world. They are based primarily on simple principles, however..." ^ ^ {INK 001} It is a long explanation, often interrupted by Fasiir's surprisingly discerning questions. Then he says: ^ ^ {INK 002} "That is astonishing. If I understand correctly, your machines draw energy from matter, without having to resort to spiritual or magical means!"
+{INK 001} Rainer interjects. {INK 002} "Excuse me, Fasiir. I have heard you and other Iskai talk about magic, and it doesn't seem to fit in with the otherwise open nature of your people. We have relegated magic to the realm of superstition hundreds of years ago and..." ^ ^ {INK 001} Fasiir: ^ {INK 002} "Now I understand! So, you believe magic to be a superstitious belief which we use to understand the laws of the world! Believe me, that is not correct! You must come from a strange world, one that only knows about energy from matter. Let me demonstrate something to you! Please follow me into our experiment room!"
+"As you say. Naturally, you have the right to keep your secrets to yourself. Please excuse me, I have other things to do."
+-dummy-
+"Oh, I see you need our healing powers! Please, quickly go to the room near the entrance. They will help you there!"
+"Dsarii-ma." {BLOK010} "Excuse us if we have offended you, Sebai-fre. I will gladly try to explain our 'magic' if you think it's worth your while." {BLOK011} "Excuse me, we have to go."
+"Dsarii-ma, visitors. Can I do something else for you? I hope you don't want a second demonstration. After all, I'm not getting any younger, hir hir!"
+"Akiir! There was an incident many years ago, and since then we have been enemies. Something happened between us that... Pardon me, but I'd rather not talk about it."
+"As I have already said, I don't want to talk about our enmity."
+SEQUENCE FOLLOWS!
+{INK 001} Tom interjects: {INK 002} ^ ^ "Excuse me, Fasiir. I have heard you and other Iskai talk about magic, and it doesn't seem to fit in with the otherwise open nature of your people. We have relegated magic to the realm of superstition hundreds of years ago..." ^ ^ {INK 001} Fasiir: ^ {INK 002} "Now I understand! So, you believe magic to be a superstitious belief which we use to understand the laws of the world! Believe me, that is not correct! You must come from a strange world, one that only knows about energy from matter. Let me demonstrate something to you! Please follow me into our experiment room!"
+Fasiir leads his visitors into a room where a stone surface can be seen in the middle of the moss floor.
+"The most beautiful part of magic is that it can create things, even if it is only everyday objects. ^ ^ See here!"
+"Driscoll, I... Did you see that? That is... I mean... ^ ^ I'm going crazy! The tree is real! That was no trick!"
+"That is really something! These guys are no fakes, that's for sure. That was beyond any growth accelerators."
+"A kingdom for a couple of measuring instruments! They cannot poke fun at the laws of physics!"
+"I see, admittedly with satisfaction, that I was able to eliminate your doubts. I hope you now think a little bit differently of our talents. ^ ^ It was an honor for me to speak with you, {LEAD}{NAME}. Look around our place some more if you'd like, but for now I must return to my work."
+"In any case, thank you very much for the impressive demonstration of your abilities, Fasiir."

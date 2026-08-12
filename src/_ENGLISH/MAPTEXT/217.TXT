@@ -1,79 +1,79 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿-free-
+Strange, large desert rock formations.
+A sand dune.
+A stone column.
+A large rock.
+A plate flower.
+A sand mushroom.
+An insect-eating plant.
+A flesh-eating plant.
+A blooming cactus, which grows very slowly.
+Plant parts.
+Herbaceous plants.
+Rocks.
+Tufts of grass.
+Roots, pieces of wood, branches.
+A stone castle built of rocks.
+Rapids.
+The water is deep and the current appears to be strong.
+Water plants.
+Water plant sprouts.
+A whirlpool.
+A shade tree.
+These prairie trees thrive on very dry soil.
+A prairie flower.
+A tower rock.
+Gravel.
+A large rock bridge.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+Placeholder for further events.
+A city wall.
+The city gate.
+{LEAD}{NAME} says suddenly: ^ "I'm feeling strange again. Maybe we should take that stuff we bought in Umajo-Kenta."
+{LEAD}{NAME} says suddenly: ^ "I'm feeling strange again. If only we had bought that stuff in Umajo-Kenta. It would probably help us now."
+The group is very exhausted from wandering through the desert. Everyone's capabilities are draining drastically.
+The group is injured from all the wandering in the desert.
+"I'm traveling back and forth between the prison and Umajo-Kenta to get food."
+A blocked entrance.
+Ssssssss...
+"Let's see if Ohl is going to show up."
+"I'm glad you're here. But, to help you, I would first like a jewel."
+"Can I look in your backpack for a jewel?"
+"In that case, I will not lead you to the entrance."
+"Unfortunately, you do not have a jewel. I will not show you the entrance unless you can give me a jewel! However, we can gladly meet again if you can offer me a stone."
+"Thank you very much, that's a very beautiful stone. I only have 27 of this kind, while I have 235 rubies. You just can't imagine how happy I am! I'll add it to my collection later. ^ ^ Beautiful, now follow me. I will show you the entrance! Always stay behind me. You can easily lose your way between the boulders."
+"Well, here we are. You can see the door in that large boulder on the left. It is right behind the flower of the insect-eating plant. ^ ^ Thanks again for the jewel, and I wish you well on your journey! I really have to get back now, I'm sure you understand, it's not every day you get a new jewel. It's a lot of work-I have to polish it, examine it, scrutinize it, illuminate it, display it, show it to my friends, etc. I will surely be busy until the day after tomorrow! ^ ^ Have a good trip, Skeima Din!"
+An eye-shaped symbol is embedded in the rock.
+"These rock symbols have been around for a long time. They are found on the entire planet, but nobody knows where they came from."
+{LEAD}{NAME} places the amulet with the symbol of the Goddess on the rock. ^ ^ The door creaks open and the companions enter the cave.
+"I can use the amulet of the Goddess I carry with me to open the entrance to the cave."
+"This heat is incredible! ^ ^ This is the land of the Umajo, the Metalmakers. According to our information, the great metal ship went down somewhere south of these mountains. ^ ^ The wall to the west, is part of Umajo Kenta, the city of metal and jewels."

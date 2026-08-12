@@ -1,0 +1,6 @@
+﻿{BLOK000} "Well, here with the Dji Cantos or Enlightened Ones, I have a similar function as the Jirinaar: I study history." {WORDEnlightened Ones}
+"Dsarii-ma, friends. Now, how do you like our little gathering place?"{BLOK010}"A beautiful complex, and the park around the house is like paradise. You must come here often."
+"That is true. In Jirinaar, I am well known for my frequent travels. Now you see where most of them lead. The transport caves allow all of us to frequently gather and exchange ideas." {WORDtransport caves}
+"Dsarii-ma, good to talk with you again."
+"Dsarii-ma, friends. I hope you are making good progress in acquiring the knowledge we need to make the seed." {WORDseed}
+"Dsarii-ma, friends. As I see, you haven't yet left for the center of danger, the Toronto. I wish you luck and the blessing of Animebona in your enterprise." {WORDAnimebona}{WORDToronto}

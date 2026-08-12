@@ -1,66 +1,66 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿-free-
+Grass.
+Rocks.
+Low ground plants.
+Small branches and roots.
+Sedges.
+A small fruit tree.
+A round-topped tree.
+A broad-leafed tree.
+Rapids.
+A whirlpool.
+A water plant.
+The water is very deep and the current appears to be strong.
+Water plant sprouts.
+A blooming plant.
+A shade tree.
+These plants gleam in fascinating shades of color.
+Vegetables.
+A boulder.
+The water is very calm and clear enough to see the bottom. Numerous boulders lie in the water and there is almost no current.
+A fruit tree.
+A fence.
+A stalk plant. 
+A climbing, grasping plant.
+A bush.
+A large-leafed plant.
+A waterfall.
+A rock ledge.
+A plant growing on the ledge.
+This climbing plant has anchored itself into the irregular rock structure with thousands of roots. It appears to be very stable and has many branches to offer sufficient support for rock climbing.
+A wooden bridge.
+Grain fields.
+Mushrooms.
+A city wall.
+A gate in the city wall.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+No answer.
+The ship has a small crew of unusually quiet Iskai who seem to know Frill well.
+Frill assumes navigation of the boat and so begins a several day voyage to the south.
+Finally, a curtain of mist comes into view on the horizon. The small ship rapidly approaches it...
+Blocked. Danger! Cave may collapse!.
+A cave entrance.
+The gate in the lattice fence is solidly locked. There is no keyhole present.
+From this side, you can see a latch which can open the fence. {LEAD}{NAME} opens the door.
+To Srimalinar and Kounos via the mountain pass to the west.
+Access to the mountain pass via the climbing plants.
+free
+free
+An eye-shaped symbol is embedded in the rock.
+"These symbols have been around for a very long time. They are found in many places around the planet, but nobody knows exactly where they came from or what their purpose is."
+{LEAD}{NAME} places the amulet with the symbol of the Goddess on the rock. ^ ^ A door creaks open and the companions enter the cave.
+"I can use the amulet of the Goddess I carry with me to open the entrance to the cave."
+A small bush with seeds.

@@ -1,0 +1,18 @@
+﻿{BLOK000}"I'm thinking of mechanisms which I can try out in our testing vault."{WORDmechanisms}{WORDtest dome}
+"I'm sorry, I'm in a hurry right now. The ore prices have risen drastically again, and I have to clarify some important things here first. ^ ^ I'll be glad to talk to you another time."
+"Skeima Din. It's horrible. Metal ore is constantly becoming more expensive."{BLOK010} "Skeima Din, Zebenno, Merdger asked us to greet you."
+"A greeting from Merdger? ^ ^ Thank you very much. How do you know Merdger?"{BLOK010} "We met him by accident."{BLOK011}"He's an old friend of ours."{BLOK012}"We went to see him because we want to visit your test chamber."
+"Yes, Merdger is a pleasant fellow. And he's developed many fascinating things."{WORDdevelopments}
+"I can hardly believe that. I know all his friends. If you want to tell fairy tales, go find someone else."
+"What do you want in my test chamber? Maybe you want to test one of my many mechanisms?"{WORDtest dome}{WORDmechanisms}
+"Yes, he has constructed many great things. Some of his latest are drinks with special abilities. Have you ever heard of Porenoil?"{WORDPorenoil}
+"Ask Agida about that. She lives in the south and she can really appreciate this oil. She can also give you a couple of good travel tips."
+"Actually, it isn't meant for the public. We test our new mechanisms there. It's astonishing what you can achieve by consistently extending technology. I'm very proud of the many things I've developed. But that is all neither here nor there. I cannot give you the key."
+"I create new protective mechanisms which are later used as locks, barriers, and other such things. It's just a pity that we do not have enough people to test them." {WORDtest persons}
+"I don't find enough people who are able to competently test my mechanisms. My colleagues can't do it since they have been too involved in the development and already understand most of the inventions." {BLOK010}"We would be prepared to test some things."{BLOK011}"We're sure you'll find someone."
+"I hope so, too."
+"Hmmm, I shouldn't do really this, but I'll let you have the key if you like. But you have to be careful. Not everything is entirely safe." {BLOK010} "On second thought, maybe we better don't." {BLOK011} "By all means. We'll be careful."
+"I can understand that. I'm not angry at you."
+"Well, good. I'll give it to you, but don't tell anyone about it."
+"You've got no room for the key!"
+"I really must go now. Merdger is already waiting for me. I wish you all the best."

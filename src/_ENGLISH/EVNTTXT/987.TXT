@@ -1,0 +1,12 @@
+﻿!
+"What's up, old man? We have to hurry before we're discovered!"{BLOK010}"Joe, thanks again for helping me out."{BLOK011}"You're right, we can talk later."
+"Hey, you know you can't tell when I'm blushing. Anyway, I trust you more than the company. Of course, if it turns out you're talking nonsense, I'll be oh so glad to tear you apart."
+"Stop the hymns of praise, otherwise I'll start believing that I really am a great guy. Now, let's find the way to the reactor controls."
+"What's up, old man?"{BLOK010}"Are you sure you want to participate in the attack on the Toronto?"{BLOK011}"Tell me again about the documentary that you have made."{BLOK012}"Let's go on."
+"I really don't want to think about it. I'm sure I'll hide behind your backs while the bullets are whistling behind our ears, but I'll also give you a better chance of getting through the service deck and to the reactor."
+"Well, first, I took a couple pictures of the surroundings, the house, and a couple of people. Then, Frill took me to this great Iskai city. Man, what colors! ^ ^ I think the people on the Toronto...well, their eyes will practically pop out of their heads when they see all this. We should load the documentary into a suitable console as soon as we get on board. We might be able to use the confusion to our advantage." 
+"OK. Let's go."
+"Well, if you think you can do without me... ^ ^ What am I going to do? I don't want to play the rejected son. If you change your mind, you'll find me in the house of the Enlightened Ones. Till then."
+{BLOK003} "I'd like you to leave us for a while, Joe."
+"What's up, old man?"{BLOK010}"Do you have any tips?"{BLOK011}"Let's go."
+" On the service level, we should look for panels behind which there are controls. Perhaps we could put a couple of locks out of order that way. I'll let you know if we run into something interesting."

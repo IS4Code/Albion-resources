@@ -1,0 +1,72 @@
+﻿"vide"
+"Nous nous appelons nous-mêmes comme ça."
+"Un modeleur expérimenté fait pousser l'une des plantes siège en moins de 4 jours. Nous sommes merveilleusement assis, et les enfants adorent faire les fous dessus.{WORDModeleur}"
+"Oui, nous avons un tas de choses délicieuses. La plupart provient des animaux des bois. Les gens préfèrent le gibier, même si les éleveurs proposent leur viande un peu moins chère."
+"Dans les grandes maisons, les eaux usées s'écoulent par des tuyaux dans les murs dans un bassin. Les plantes qui s'y trouvent purifient l'eau avant d'être rejetée dans le fleuve."
+libre
+"Celui qui en a les moyens, se fait installer l'eau dans la maison à découvert. C'est superbe, mais il faut juste faire attention aux enfants, pour qu'ils ne chahutent pas avec l'eau..."{WORDMaison}
+"Nous aimons combiner la beauté de la nature au confort de la maison. Les modeleurs de la Guilde des Dji-Fadh peuvent faire pousser des édifices entiers à partir de plantes! Par contre, ce n'est pas bon marché. Il y a des maisons, uniquement construites de pierre et de sable, ou qui ne sont constituées que partiellement de plantes des Dji-Fadh. Ce sont surtout les gens plus démunis qui vivent dans les "maisons mortes", comme nous disons." {WORDDji-Fadh}
+libre
+libre
+libre
+libre
+libre
+libre
+libre
+libre
+libre
+"La majorité est atteinte à dix ans et l'on est alors indépendant des décisions des frères et soeurs aînés et de celles des parents."
+"Il se trouve que les femmes ne sont fertiles que trois mois par an, c'est l'époque du Fadhiim et son arrivée est célébrée par une grande fête. A cette époque, des tabous pour les mariés et les partenaires secondaires entrent en vigueur."
+"Le rituel Sebai représente l'acte magique le plus puissant dont nous sommes capables, et il peut être exécuté par chacun, quel que soit son talent magique.^ Vous devez savoir que le Trii d'un nouveau-né a des caractéristiques très particulières durant la première semaine. Si un adulte touche avec son Trii celui du nouveau-né, il peut transmettre son Moi tout entier à l'esprit de l'enfant. Lui ou elle peut recommencer une nouvelle vie, le corps de l'adulte meurt pendant la cérémonie.^ Il est bien entendu interdit d'exécuter le rituel sans l'autorisation du cercle du conseil. Avec l'enlèvement d'un nouveau-né, c'est le pire des crimes qui soient! Le criminel et toute sa famille sont condamnés à mort d'après nos lois.^ Seulement très peu de personnes ayant des mérites particuliers, les élus, ont le droit d'exécuter le rituel. Par ailleurs, le rituel ne peut évidemment être exécuté qu'avec le consentement de la mère du nouveau-né. Le plus souvent, il s'agit de la partenaire de l'élu ou d'une soeur d'une élue.^ Le rituel exécuté, l'élu ou l'élue reçoit le titre de Sebai, suivi d'un complément qui indique combien de fois le Sebai a déjà eu le droit d'exécuter le rituel."{WORDMagie}{WORDTrii}{WORDElu}
+"Il est difficile d'accéder au statut de l'élu, c'est-à-dire d'être autorisé à exécuter le rituel Sebai, et dépend finalement toujours des voix du cercle du conseil concerné.^ Il existe différentes possibilités pour connaître l'honneur de ce rituel. Par exemple, lorsque quelqu'un a fait preuve d'un courage hors du commun ou d'un sacrifice particulier. Si lui ou elle en meurt, le frère ou la soeur a le droit de devenir Sebai en la mémoire de cette personne. ^Il arrive aussi souvent que quelqu'un ayant un rang élevé chez les Stiriik soit élu. D'une manière générale, il est question de personnes ayant des talents et un savoir extraordinaires, si elles ont utilisées ces qualités pour le bien de beaucoup d'autres personnes." {WORDSebai}
+"Le Trii, que chacun d'entre nous porte sur le front, est un organe très particulier. Il est considéré comme siège de l'esprit, et des blessures entraînent des changements de personnalité et des pertes de mémoire jusqu'à la mort.^ Si deux personnes appliquent leur Trii l'un contre l'autre, elles peuvent ressentir les émotions de l'autre et les plus doués parviennent même à lire les pensées."
+libre
+libre
+libre
+libre
+"La plupart parmi nous pense retourner après la mort à l'endroit d'où nous venons tous: la grande conscience formée par tous nos ancêtres et souvent désignée aussi comme la Déesse. On dit, plus on vit de manière exemplaire, plus on reste soi-même quand on s'identifie à la Déesse."
+"La grande ville des Iskais. Là-bas vivent nos ancêtres."
+libre
+libre
+"Je trouve que les hommes sont des êtres intéressants. Ils ressemblent à des petits arbres solides, et on a l'impression qu'à chaque pas ils s'enracinent brièvement dans le sol. J'ai entendu dire qu'ils seraient très forts et qu'ils pourraient devenir incroyablement vieux."
+libre
+libre
+libre
+libre
+libre
+libre
+libre
+libre
+libre
+"Oh, les habits ont chez nous plutôt un sens décoratif. Ça passe pour de la provocation que de se montrer avec beaucoup d'habits, car qu'est-ce qui pourrait bien susciter plus de curiosité que le fait de voiler des parties de son corps?"
+libre
+"J'ai entendu des rumeurs, selon lesquelles vous, les hommes, seraient livrés complètement à vos douleurs! Hé bien, nous pouvons contrôler nos douleurs volontairement, du moins dans l'état d'éveil. Cette technique n'est enseignée que tardivement aux enfants, pour qu'ils se rendent compte du caractère sérieux des blessures."
+"Ce mot signifie "débutant, apprenti" et est utilisé comme complément de nom."
+"Le plus souvent, on trouve ce mot en liaison avec un nom. Cela signifie que le concerné est un maître dans sa matière."
+libre
+libre
+libre
+libre
+libre
+libre
+libre
+libre
+libre
+"Je ne sais rien à ce sujet."
+"Il y en a beaucoup, mais ce n'est certainement pas le moment pour raconter des histoires, veuillez m'excuser."
+"Vous voulez me vexer? Ah, la signification du mot? Ah bon, hi, hi! Et bien, il s'agit du nom d'un animal qui ne jouit pas spécialement d'une grande considération, parce qu'il se nourrit essentiellement d'excréments!"
+"Je ne sais rien à ce sujet."
+"Ils sont normalement craintifs et n'attaquent pas. Même si j'ai déjà entendu dire qu'ils deviennent agressifs quand ils sont en meute. Près de Kounos, il existe une entrée dans un système de grottes. Il y a apparemment là-bas un très grand nombre de Kritahs."{WORDKounos}
+"Vous avez dû normalement passer à côté de Kounos au cours de votre voyage vous menant ici. C'est un petit hameau où les gens vivent encore de façon assez traditionnelle. Il est situé sur les plateaux de la Grande Montagne."
+"Le Sugo est une de nos boissons les plus populaires. Vous devriez le goûter absolument. Ce serait peut-être plus fair-play de ma part, de vous dire que le Sugo est un jus de fruit fermenté aux effets excitants. Celui qui ne connaît pas le Sugo devrait l'apprécier avec modération. Vous ne seriez pas les premiers étrangers à ne plus pouvoir soutenir la conversation après deux verres de Sugo."
+"C'est comme ça que s'appelle notre pays."
+"Notre Chose Sacrée a une grande signification religieuse pour nous. C'est une violation dans le cadre de notre religion, si des étrangers s'y rendent, car ils peuvent déranger la conscience éternelle de nos morts."{WORDConscience}{WORDMorts}
+"Tous nos frères et soeurs, honnêtes et généreux pendant leur vie, accèdent à la conscience éternelle après avoir été inhumés."
+"C'est la grande ville portuaire de Maini. Elle est sur le côté sud de la Grande Montagne."{WORDMaini}
+"Notre lieu sacré se situe au sud de Srimalinar, face à la Grande Montagne. La conscience de chaque bon Iskai y trouve la paix éternelle. N'y allez pas, s'il vous plaît. Il existe un tabou qui interdit aux étrangers de s'y rendre, et nous le considérons comme une offense sérieuse à notre droit, si quelqu'un ne s'y tient pas."{WORDTabou}{WORDConscience}
+"Kontos est le chef druide des Mahinos à Kounos. Un caractère impénétrable. Je ne l'aime pas!"
+"Nous, les Iskais, nous habitons ici sur Maini. Même si Srimalinar est assez grand par sa superficie, nous ne sommes en revanche pas très nombreux. Il y a une taverne et nous avons ici une Guilde des Mages."
+Heureusement, vous l'avez tué.
+"Oui, ma chère femme. Elle se fait toujours beaucoup trop de soucis pour moi. Mais vous pouvez lui dire que je ne vais pas travailler si longtemps aujourd'hui."
+"C'est la femme d'Edjirr."
+"Il existe ici une Guilde des Mages. En plein centre de Srimalinar. Normalement, on ne peut pas la manquer."

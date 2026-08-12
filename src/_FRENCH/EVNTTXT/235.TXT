@@ -1,0 +1,6 @@
+﻿{BLOK000}"Je suis membre du 'Conseil des justes' et je dois veiller sur le respect des intérêts du peuple, ce qui n'est malheureusement pas très simple."
+"Bienvenue, ravi de vous revoir."{WORDChose sacrée}{WORDHôtel de ville}
+"Vous savez au fait que tout le monde vous admire? Ça n'est peut-être pas à notre avantage, mais sans votre présence, certaines choses dans ce conflit se seraient passées autrement et sûrement pas mieux. Votre diplomatie a été très précieuse pour nous à ce moment-là et je voudrais vous remercier chaleureusement, au nom du conseil et de Beloveno."{WORDKontos}
+"C'est très bien que vous ayez libéré Kounos et nous de lui."
+"Le conseil siège régulièrement à l'hôtel de ville, et parfois, lorqu'un événement particulier se présente, nous invitons toute la ville dans notre grande salle des fêtes. Mais ça n'arrive seulement s'il s'agit vraiment de quelque chose d'important. Nous avons ici un grand nombre de petites pièces, où nous pouvons discuter des problèmes, et elles peuvent également être louées pour les raisons les plus diverses. Dans l'aile sud de la maison se trouve la grande salle des fêtes, dont je vous ai parlé, et une salle de délibérations. Dans l'aile nord, vous trouverez une salle de conférence et dans le bâtiment central, il y a cuisine et salle à pain. Vous pouvez faire un tour, si vous voulez."
+"C'est moi."

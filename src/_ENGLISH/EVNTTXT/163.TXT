@@ -1,0 +1,2 @@
+﻿{BLOK000}"I am ceile of Oibelos, although formerly I wanted to join the Umajo." {WORDceile}{WORDOibelos}{WORDUmajo}
+"Togi Din, visitors."

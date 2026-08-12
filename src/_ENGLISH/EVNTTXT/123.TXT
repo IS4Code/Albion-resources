@@ -1,0 +1,28 @@
+﻿{BLOK000}"Thanks to you, I am still the head of the Dji-Fadh, friends."
+"You can imagine that I have mixed feelings about him. One should not want to ruin the life of another, even out of friendship."
+"Our magic is deeply rooted in this world. For example, we use a specific type of seed, concentrated with our spiritual forces, to cast spells. We are proud of our diverse art. We know magic that can create and destroy, injure and heal. ^ You can recognize our guild members by the colored pattern on their pelts." {WORDseed}{WORDhealing}{WORDFasiir}{WORDguild house}
+{INK 001} Fasiir acts amused. {INK 002} "Well, you are talking to him!"
+"It is not the seed itself which develops the magic effect, but the spirit of the Dji-Kas which is used to find its focus. The seeds come from a strange plant called Triifalai, that means 'Trii of the Goddess.' They are sold in the guild house."{WORDTrii}{WORDGoddess}
+"Right at the entrance to the guild house you find Stri Rejira, a Mistress of the Healing Art. She will heal your injuries."
+"This is the name of a plant which produces seeds we greatly value. {WORDseed}"
+
+"Oh, the builders. The relationship between our guilds is troubled sometimes. Many of their talented members feel attracted to our art, and transfer to our guild. I must also confess that I don't get along well with Akiir, the Stri of the Formers. There are old rivalries between us." {WORDguild}{WORDAkiir}
+"The guild house has been in the southwestern corner of Jirinaar for a long time. It was built by the Dji-Kas and houses many guild members and all Dra."{WORDDra}
+"I am trying to forgive Akiir because he was in an extreme situation. I'm sure he was not himself."
+"Let me thank you once more for having freed us from the suspicion of murdering Akiir!"
+"Akiir is the chief of the Formers, a guild which is, for the most part, at odds with us. Especially Akiir doesn't go out of his way to avoid conflicts."{WORDFormer}
+"That's my name, that's correct."
+"That's my name, that's correct."
+"The murder meant the beginning of a trying time for me. Fortunately, my friends, you were able to clear everything up."
+dummy
+dummy
+dummy
+dummy
+dummy
+"Dsarii-ma, friends! First, let me thank you for clearing up that horrible matter with Akiir! He must have been quite upset when he heard of his impending death! ^ However, thanks to you, my name is cleared. I will never be able to repay you for what you have done for me, but please accept this small token of my appreciation. It might help you on your journeys. I have kept it under lock and key for a long time since it is such a dangerous weapon. It was probably produced by a human magician. However, I am sure it is in good hands with you." ^ ^ {INK 001} Fasiir hands over a dagger with a green crystal blade.
+"Can I help you in any other way, friends?" {WORDBradir}{WORDAkiir}{BLOK010}{INK 001} Sira: {INK 002} "I would like to increase my knowledge, Fasiir."
+"Can I help you in any other way, friends?" {WORDBradir}{WORDAkiir}
+"Dsarii-ma and welcome, friends. Can I help you in any way?" {WORDBradir}{WORDAkiir}{BLOK010}{INK 001} Sira: {INK 002} "I would like to increase my knowledge, Fasiir."
+"Kriis, that miserable skorrek! He's still in the custody of the Stiriik. It's a difficult case. I find his behavior unforgivable, to put it mildly."
+"Dsarii-ma and welcome, friends. Can I help you?" {WORDBradir}{WORDAkiir}
+"Why yes, Sira, I will be glad to teach you. And at no charge, of course."

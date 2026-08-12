@@ -1,0 +1,63 @@
+﻿-libre-
+Une forteresse en pierre.
+Une dune de sable.
+Une colonne de pierre.
+Une grande falaise.
+Une fleur assiette.
+Une morille des sables.
+Cette plante se nourrit d'insectes.
+Une plante carnivore.
+Cactée à fleurs qui pousse très lentement.
+Parties de plantes.
+Petites plantes.
+Pierres.
+Touffes d'herbe.
+Racines, morceaux de bois et branches.
+Un château de pierre construit avec des rochers.
+Un rapide.
+L'eau est profonde et le courant semble être fort.
+Plantes aquatiques.
+Pousses de plantes aquatiques.
+Un tourbillon.
+Un arbre parasol.
+Ce genre d'arbres des steppes pousse bien sur sol très sec.
+Une fleur des steppes.
+Un rocher-tour.
+Graviers.
+Un grand pont de rochers.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+Platzhalter für weitere Events.
+{LEAD}{NAME} dit soudain:^"Je me sens encore bizarre. Peut-être qu'on devrait prendre le truc qu'on a acheté à Umajo-Kenta."
+{LEAD}{NAME} dit soudain:^"Je me sens encore bizarre. On aurait dû acheter le truc à Umajo-Kenta. Ça nous aurait peut-être aidé maintenant."
+Le groupe est épuisé par la longue marche dans le désert. Les capacités des différents membres baissent de façon dramatique...
+Le groupe subit des dommages avec cette longue marche dans le désert.
+Tsssss...

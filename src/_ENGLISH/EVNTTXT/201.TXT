@@ -1,0 +1,43 @@
+﻿free
+"Beloveno is the harbor city. It lies south of the great mountain range. Follow the mountain pass." {WORDmountain pass}
+"She is in the hut where Kontos lives."
+"I don't know anything about it."
+"I don't know anything about it."
+"Sugo is our favorite drink, you must try it! But I must warn you that sugo is a fermented fruit juice with a highly stimulating effect. Anyone who is not familiar with sugo should drink it with caution! You would not be the first strangers who weren't able to carry on a conversation after just two glasses."
+"I don't know anything about it."
+"We like our village and we love life on the high plateau."
+"Kontos is our leader. We all follow him! What would we do without him?"
+"Yes, there are numerous caves here. Hermits live in some of them, most are just empty. There is an especially large cave which we always avoid. It is so large that you can get lost in it forever, and unfortunately that has already happened. Three citizens from Beloveno have disappeared in this cave. However, if you want to go into the caves, be sure to take plenty of supplies and a rope with you. You'll find the entrances along the mountain range."
+"You've probably already seen the small black animals that scurry around here at night. We call them kritahs, and aside from the fact that they have a habit of stealing small shiny objects, they are fairly harmless. The kritahs live somewhere in the mountain caves, but I don't know exactly which ones."
+"Srimalinar is a small, beautiful Iskai village. It lies north of Kounos, on the other side of the mountain range."
+"That's a vault near the village of Srimalinar."
+"That is correct. There is actually a pass over the mountain range which connects the north and south sides of our continent. It's a very narrow path, hardly recognizable because it isn't used very often. It goes from Beloveno, past our village, and then leads north to Srimalinar." {WORDnorthern side}{WORDsouthern side}{WORDKounos}{WORDSrimalinar}{WORDBeloveno}
+"We love tradition and are proud of our past."
+"I don't know anything about it."
+"That is the part north of the great mountain range. That's where Srimalinar is. You can get there over the mountain pass." {WORDpass}
+"Everything south of the great mountain range is the south side. It includes Beloveno and the harbor. Have you already been to the north side?" {WORDharbor}
+"The taboo refers to the shrine of Srimalinar. The Iskai in this village take this old taboo very seriously!
+"If you are looking for people with great magical abilities, then turn to our leader or look in Srimalinar."{WORDSrimalinar}
+"I don't know anything about it."
+"Religion is very important for us. We are happy that Kontos has taught us so much."
+"Srimalinar is a village on the north side of the continent where the Iskai live. There is also a magician's guild there." {WORDmagic}{WORDIskai}{WORDguild}
+"The closest magic guild is in Srimalinar." {WORDmagic}{WORDSrimalinar}
+"I don't know anything about it."
+"I don't know anything about it."
+"If you are looking for shops, then go to Beloveno or Srimalinar."
+"Gold pieces are used here. Of course, some people take other currencies, but I won't go into that any further... hee hee."
+"There are three climate zones on Albion: temperate, warm, and desert. Personally, I like it here in the temperate part best."
+"The Metalmakers live on the eastern continent and have a monopoly on metal production. Perhaps you will run into them on your journey."
+"I can't tell you a lot about the Kenget Kamulos, except that they are extremely powerful and that they use black magic. I'm happy when I don't have to have anything to do with them... They live on the east side of the continent."
+"There is a harbor in Beloveno."
+"Ships can only be found in Beloveno."
+"I mean the way over the mountain pass!" {WORDpass}
+"I am happy when I am healthy."
+"That's in Beloveno."
+"Yes, nice weather, huh?"
+"I don't know anything about it."
+"I don't know anything about it."
+"Skeima Din. Well , basically it means "a beautiful day."
+"That's the name of our country."
+"Fortunately, you have done away with him."
+"Religion is very important for us."

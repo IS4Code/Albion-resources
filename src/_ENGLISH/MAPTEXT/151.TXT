@@ -1,48 +1,48 @@
 ﻿!
-The floor panel in front of the door lights up when trodden on, and at the same time the door opens.
-Floor panel lights up.
-Here there is a floor panel with a transparent illuminated surface.
-When this floor panel lights up, the door in the "west" of the room opens.
+When the floor plate in front of the door is stepped on, it lights up. At the same time, the door opens.
+Floor plate lights up.
+This looks like a floor plate with a transparent, luminous surface.
+After this floor plate lights up, the door on the "west" side of the room opens.
 A switch.
-
-The door tries to close, but remains open. A sensor must have registered that someone else is in the doorway.
-There is a wall cupboard on the "north" wall.
-The wall cupboard is empty, ready to put objects in.
-A wall cupboard.
-The noise came from the right, quite a distance away.
-As soon as the door with the red lights opens, the one at the back with the green markings shuts. The way back is blocked!
-
-A door. You can't see how to open it.
-A fluorescent tube. It sheds a cold white light.
-A steel girder.
-The translucent walls indicate a service entrance. The ladder in the centre leads upwards.
-
-A door with red lights at the side. There is no opening mechanism to be seen.
-A door with green lights at the side. There is no opening mechanism to be seen.
-A door with blue lights at the side.There is no opening mechanism to be seen.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A wall cupboard.
-
-Nothing's happening.
+The position of the switch does not change.
+The door tries to close but stays open. Apparently, a sensor is detecting a presence in the doorway.
+There is a wall cabinet on the "north" wall.
+The wall cabinet is empty, ready to receive objects.
+A wall cabinet.
+The noise came from the right.
+When the door with the red lights opens, the one with the green marking closes. The way back is blocked!
+A service robot.
+A door. No opening mechanism can be seen.
+A fluorescent light bulb. It radiates cold, white light.
+A steel beam.
+The semi-transparent walls mark a service access. The ladder in the middle goes up.
+A digital keypad for entering numerical codes.
+A door with red marking lights on the side. No opening mechanism can be seen.
+A door with green marking lights on the side. No opening mechanism can be seen.
+A door with blue marking lights on the side. No opening mechanism can be seen.
+"So far, so good. Let's try to get from here to the reactor area without disturbing anything. If we do, we'll have Ned and the security guards on us immediately. We must operate several strange control devices to get through here."
+A service robot. He appears to be deactivated.
+Tom fumbles around a bit with the robot until Joe comes to his aid. After some adjustments, the service machine actually comes to electronic life and begins to move.
+Joe makes some adjustments on the robot. The robot actually comes to electronic life and begins to run back and forth uncontrollably.
+A switch, mounted to a Plexiglas wall with steel supports.
+The switch lights up briefly, but apart from that nothing happens.
+As soon as {LEAD}{NAME} operates the switch, the wall instantly disappears into the ceiling!
+A large control light.
+A blinking floor plate.
+"This type of floor plate is generally controlled by service robots. They can trigger the floor plate as they go over it. So, we should be able to open the door."
+Upon operating the switch, the control and ceiling lights go on.
+All red fluorescent lights turn off immediately.
+"Apparently, we are dealing with a time-dependent control here."
+A switch with a control light beside it.
+"Ha! That noise is music to my ears! If the door doesn't open now, I'll be very surprised. I'd love to know what screwball programmed the systems down here!"
+"Shoot! I'll bet we have another damned time switch here."
+The light plates go out.
+"Damn! I assume we now have to activate the four switches in the corridor before we can get back. We'll never be able to do it in such a short amount of time. It is too far. The idiot who installed this should have his fingers chopped off!"
+"Yes! That was it! The Plexiglas walls behind us have raised! Now we have to handle the time switch!"
+"I think this leads to the hall in front of the reactor core, but that code entry panel is a big problem. I don't know the entry code!"
+"I think this leads to the hall in front of the reactor core, but that code entry panel is gonna be a problem. But... wait a minute... what about those notes we found! Those HAVE to refer to the code!"
+"A piece of paper with a number on it, well, well. You know it is strictly forbidden to write access codes down anywhere because of security regulations and so forth. ^ ^ Of course, I know a couple of Alzheimer's candidates who write down their codes and leave them lying around at their work site. They feel pretty silly by the fifth time their inspector has to save them because they've forgotten their codes. I think this might be where the paper came from. ^ ^ Of course the code isn't all here, the paper is torn."
+"Hey, where are you going, man? We're almost there! Why in the world would you want to turn back now?"
+A wall cabinet.
+Someone forgot a small piece of paper in the cabinet.
+Nothing happens.

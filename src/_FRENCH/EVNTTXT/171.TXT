@@ -1,0 +1,4 @@
+﻿{BLOK000}"Je suis le guérisseur suprême d'Arjano."{WORDGuérisseur}{WORDArjano}
+"Togi Din, voyageurs. Puis-je vous aider? Comme vous êtes à la recherche de Bero disparu, mes services de guérisseur sont bien sûr gratuits pour vous."{WORDBero}{WORDGuérisseur} {BLOK010}"Oui, Makaio. Nous avons des blessés parmi nous." {BLOK011}"Nous avons besoin de guérir une sorte de maladie." {BLOK012}"Un objet maudit nous cause problème."
+"Togi Din! Ah, les sauveurs de Bero, la vieille tête de mule! Puis-je vous être utile?" {BLOK010}"Oui, Makaio. Nous avons des blessés parmi nous." {BLOK011}"Nous avons besoin de guérir une sorte de maladie." {BLOK012}"Un objet maudit nous cause problème."
+"Mon don pour la guérison de blessures s'est déjà révélé pendant mon enfance. depuis, la bénédiction de Danu me donne tous les jours la joie et le pouvoir d'aider les autres."{WORDDanu}

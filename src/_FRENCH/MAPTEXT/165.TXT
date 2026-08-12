@@ -1,0 +1,33 @@
+﻿!
+!
+!
+!
+!
+"Le voyage était agréable jusqu'à maintenant, Driscoll."
+"Merci, je suis de bonne humeur de vol aujourd'hui.^^Il y a beaucoup de routine dans mon job, mais voler vers une nouvelle planète, ça reste toujours le summum!"
+"A qui le dites vous! Heureusement que mon service ne le sait pas, mais je renoncerais même à mon salaire pour vivre cet instant."
+"Nous arrivons maintenant à portée de vue!^^Regardez ça, Hofstedt! Ça ne m'a pas l'air d'être un monde désert."
+"En effet! Beaucoup de nuages, et la couleur serait inhabituelle pour des nuages de poussière, si l'on pense que la teinte jaune provient du soleil."
+"Je vais parler avec le TORONTO. Essayez d'obtenir entre-temps quelque chose sur vos instruments.^^Navette à TORONTO! Ned, comment est la liaison?"
+"La communication est excellente, Mr. Driscoll. Vous êtes maintenant à portée de vue de l'objectif?"
+"Oui. Selon toute apparence, la planète n'est pas forcément déserte. Monsieur Hofstedt est en train d'interroger les instruments."
+"Intér...ant. Oh, je cr.. que la li..son devient plus faib.. Mais conti..uez."
+"L'épaisse couche de nuage rend les mesures difficiles.^^L'analyse indique en effet de grandes quantités de matières premières...^^La proportion d'eau semble plus importante que pré..."
+"Un ins.ant, Mr. Hofst..t. La liai.on est de plus en plus faib.. Av..-.ous des prob.èmes? Mr. Driscoll?"
+"Non. Tout semble être en zone verte."
+"Ouah! Je n'aurais pas dû en parler!^^ Panne des servos! Les circuits de secours faiblissent rapidement! Essaye d'opérer manuellement!^^ Hofstedt?"
+"Essaye de faire un check-up!"
+"Mr. Dr..coll? Votre affi..ge d'état indiq.. des valeurs crit.ques. Exige rapport!"
+"Défaillance de plusieurs systèmes! Commandes manuelles O.K.! Essaye de faire demi-tour!"
+"Nous avons des problèmes avec l'alimentation en énergie. Je... EH!"
+"Ca a fait un boum! Merde, je perds le contrôle!^^ Hofstedt, accrochez-vous!^^ON PERD DE L'ALTITUDE!"
+La navette est déjà dans le champ de gravitation de la planète et descend sur elle en piqué!^^Des coups violents secouent le petit vaisseau lorsqu'il pénètre dans l'atmosphère.^^ Tom travaille avec fébrilité et réussit avec les restes des contrôles manuels un atterrissage forcé assourdissant...^^^^Lentement, les deux hommes reviennent à eux.
+"Ooh, ma tête!^^Je ne volerais plus de si tôt avec vous, Driscoll."
+"Certainement pas dans cette navette.^^D'ailleurs, vous pouvez me remercier d'être toujours en vie! Le pilote automatique n'aurait jamais descendu la caisse saine et sauve!"
+"O.K., O.K. C'est vrai.^^Et maintenant?"
+"Maintenant, on attrape les masques et on sort. ^^S'il y a assez d'air pour respirer, on fait l'état des réserves et on commence à bricoler pour établir un contact radio.^^S'il n'y a pas assez d'air... Bonne nuit."
+Eh, mince.^^Tant pis. Ça ne sert à rien de s'attarder.^^Allons-y!"
+"MON DIEU! C'est ça alors le monde désert! Je deviens fou! Regardez!"
+"Fantastique! Sentez un peu! Ecoutez! Ça grouille de vie!"
+"Comment la sonde a-t-elle pu envoyer de telles données? C'est sensationnel!"
+"Eloignons-nous d'abord de la navette. Dans cette atmosphère riche en oxygène, il pourrait..."

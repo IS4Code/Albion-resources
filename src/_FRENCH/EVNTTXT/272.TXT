@@ -1,0 +1,2 @@
+﻿{BLOK000}"Je suis vendeuse."
+"Skeima Din,^^vous trouverez sûrement chez moi tout ce que vous désirez. Je peux vous proposer toutes sortes de choses, de la torche à la potion guérissante. En plus, vous ne pourrez acheter nulle part ailleurs à Beloveno des spécialités comme les anneaux."{BLOK010}"Nous voudrions acheter quelque chose."{BLOK011}"Nous voudrions vendre quelque chose."{WORDBeloveno}

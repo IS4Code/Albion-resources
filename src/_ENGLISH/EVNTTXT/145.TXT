@@ -1,0 +1,6 @@
+﻿{BLOK000}"This public house belongs to me and my husband."
+"Dsarii-ma! Welcome to the House of the Winds! What can I do for you?"{BLOK010}"Dsarii-ma. We're looking for a place to stay the night."{BLOK011}"Dsarii-ma! Something good to eat, please."
+"The House of the Winds is open day and night. You can always get a room here. We're also known for our good food and tasty drinks."
+"Yes, we have many kinds brewed from different types of fruit; some are strong and others less strong. Our zoomi is particularly famous. Here, try one on the house!"{INK 001} ^ ^ {INK 001}Viria gives {LEAD}{NAME} a small glass with a green, iridescent liquid in it.{INK 002}{BLOK010}"You've made me curious, Viria. To your health!"{BLOK011}"Thank you very much, Viria, but I need a clear head today."
+{INK 001}{LEAD}{NAME} gulps the zoomi down. A taste explosion immediately takes {HIS } breath away! {HE  } blurts out: ^ ^ {INK 002}"WHOA!"{INK 001} ^ ^ Suddenly, everything swims around in front of {LEAD}{NAME}'s eyes...
+"You don't know what you're missing, {LEAD}{NAME}!"

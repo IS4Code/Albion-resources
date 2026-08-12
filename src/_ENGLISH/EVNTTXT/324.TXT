@@ -1,0 +1,6 @@
+﻿{BLOK000}"I work here in the house and manage the Enlightened Ones' affairs."{WORDaffairs}{WORDEnlightened Ones}
+"Ah, visitors! Greetings, welcome to the House of the Enlightened Ones."
+"No great treasures are stored in this house, but there is a great amount of knowledge here. For example, there are many interesting spell scrolls. I'm allowed to sell some of them. I try to bring a little gold into the household since the people here don't like to deal with such profane matters." {WORDspell scrolls}
+"Well, as far as I understand it, they enable the ungifted to practice magic. Of course the spell scrolls disintegrate after use. However, someone who already knows the particular scroll's type of magic can permanently learn the spell."{BLOK010}"Please show us the spell scrolls you have for sale."
+"Like everyone else here, I like to work for these people. They are a little unworldly at times, so I try to improve our finances a little by selling spell scrolls."{WORDspell scrolls}
+"Greetings, visitors! Would you like to look at the spell scrolls we have for sale?"{BLOK010}"Yes, we would. Show us what you have."

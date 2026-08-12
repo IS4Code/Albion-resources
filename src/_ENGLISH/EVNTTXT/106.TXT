@@ -1,0 +1,7 @@
+﻿{BLOK000}"I am a huntress, like many in our Clan. However, the last Fadhiim was a happy occasion for me. I am expecting a child, so I stay at home. Since I like to cook, I help out in the kitchen."{WORDFadhiim}{WORDchild}{WORDkitchen}
+"Dsarii-ma, honored guests."
+"Dsarii-ma. Do you want to talk to me?"
+"Dsarii-ma. I hear you're on the track of Akiir's murderer. I wish you good luck on the hunt!"
+"Yes, I'm working together with Gridri. He is a master cook and I can learn a lot from him." {WORDGridri}
+"Well, as I said, Gridri is our clan's cook and a master of tasty dishes."
+"Yes, I love children! They keep you busy, but it's worth it."

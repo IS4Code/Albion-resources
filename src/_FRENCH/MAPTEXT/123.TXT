@@ -1,0 +1,22 @@
+﻿!
+Un grand récipient en terre cuite. Il n'y a rien de valeur à l'intérieur.
+Un fût. Il ne contient rien d'intéressant.
+Un amas de bric-à-brac. {LEAD}{NAME} fouine un peu là-dedans, mais ne découvre rien de valeur.
+Ce tas de métal est visiblement issu des restes de la navette. {LEAD}{NAME} ne parvient pas à trouver là-dedans quelque chose en état de fonctionner.
+Un coffre à provisions. Il ne contient rien ce qui vaudrait la peine d'être emmené.
+Une sorte de gros champignon.
+A cet endroit, le mur végétal semble être fragilisé: des failles profondes traversent le matériau organique. On pourrait sûrement réussir à faire quelque chose avec un outil approprié.
+{LEAD}{NAME} prend de l'élan pour donner un grand coup avec une pioche. Le mur s'écroule et libère un passage!
+Tout à coup, plusieurs choses se produisent en même temps: ^Derrière, le plafond s'effondre, alors que les murs devant se mettent à bouger et sont abattus par des griffes tranchantes! ^^Des créatures pareilles à des fauves sortent de l'ouverture ainsi créée et attaquent!
+Dans ce vase, il y a des aliments rendus impérissables.
+{LEAD}{NAME} trouve ici quelques rations.
+{LEAD}{NAME} pense voir quelque chose d'intéressant sous ce bric-à-brac!
+Un coffre à provisions.
+{LEAD}{NAME} aperçoit quelque chose sous les décombres de métal tranchant qui attire son attention!
+{LEAD}{NAME} trouve quelque chose d'utile dans ce coffre.
+{INK 001}{LEAD}{NAME} trouve un chronomètre dans les décombres de métal. Tom dit:{INK 002}^^ "Incroyable! Cette montre fonctionne encore!"
+{INK 001}Tom:{INK 002}^^ "Tiens, tiens! Voilà quelques cartouches encore entières!"
+{INK 001}Tom:{INK 002}^^ "Quelle chance! Ces Stimdrinks sont éraflés, mais utilisables!"
+On trouve quelque chose d'intéressant sous ce tas de vieilleries.
+"Un effondrement!^Et c'est quoi ces animaux? Ils ont l'air agressifs, faites attention Driscoll!"
+"L'endroit où le mur s'est écroulé est quelque part par ici. Nous pourrions peut-être faire disparaître l'éboulement à l'aide de la pioche dans le coffre."

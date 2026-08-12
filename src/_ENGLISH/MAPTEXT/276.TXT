@@ -1,6 +1,6 @@
 ﻿ 
-
-
-
-
-
+A door.
+The door has no lock. It cannot be opened by hand or with a key.
+Whoever sees the amulet must die!
+{LEAD}{NAME} finds 10 gold coins.
+"It's incredible, but this wall is an illusion-we can simply go through it."

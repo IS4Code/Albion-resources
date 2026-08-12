@@ -1,0 +1,12 @@
+﻿{BLOK000}"I am a free hunter and adventurer, and do whatever strikes my fancy."
+"Dsarii-ma! What strange faces in the city! One leaves for a short time and suddenly there are new and interesting people in the city!"{BLOK010}"I hope your journey was successful?"
+"Oh, I'm happy to have gotten back alive. At the beginning of the journey, I was near the haunted place where old Argim used to roam. ^ ^ There are some very strange predators there."{WORDArgim}{WORDpredators}
+"Yes, most of them are very aggressive. The worst was a creature with a mouth in the floor and a couple of glowing, grasping arms. It was insatiable, I tell you! Fortunately, I discovered a fruit which paralyzed it."{WORDfruit}
+"They're inedible, but in an encounter with these mouths they're very useful. I'd be glad to let you have some, for a reasonable price."{BLOK010}"Yes, the fruits could be of use to us."{BLOK011}"No thank you. We wouldn't know what to do with them."
+"As you say. I must admit that you don't run across this type of creature everywhere."
+"Dsarii-ma!"
+"Dsarii-ma! Well, do you need the fruits that stun the mouths after all?"{BLOK010}"Yes, the fruits could be useful to us."{BLOK011}"No, thank you. We wouldn't know what to do with them."
+"I'll let you have five of the fruits for 40 gold pieces, agreed?"
+"I'm sorry, but you don't have enough gold."
+{INK 001}Vrik hands over some fruits. ^ ^ {INK 002}"Here you are."
+"Ha, you don't have enough room to carry the fruits! Come again when you aren't so loaded down."

@@ -1,0 +1,10 @@
+﻿{BLOK000}"Ma fonction au sein du 'Conseil des justes' consiste à tout diriger et à tout coordonner."
+"Skeima Din, nous ne nous connaissons pas encore. Je suis le nouveau président du conseil. Vous êtes certainement au courant de la terrible affaire dont mon prédécesseur a été victime."{WORDHistoire}{WORDSituation}
+"Skeima Din."{WORDHistoire}{WORDSituation}{WORDHôtel de ville}
+"Je suis le successeur d'Herras. Je ne sais pas si vous êtes au courant de l'affaire. Herras a été assassiné dans son lit pendant la nuit. Nous supposons que Gard et Riko sont les responsables, car ils n'ont jamais réapparu depuis. En plus, Perron soupçonnait depuis longtemps qu'on ne pouvait pas leur faire confiance."{WORDGard}{WORDRiko}
+"Je suis Zerruma."
+"Je pense qu'ils ne réapparaîtront plus jamais ici."
+"Perron est un de mes membres du conseil."
+"C'est comme ça que s'appelle notre ville."
+"Kontos est passé à l'acte et a occupé la cave et le terrain avec ses guerriers. C'est quand même étonnant à quel point les habitants de Kounos soutiennent leur chef. Il a une grande influence sur eux. Je trouve assez douteux d'accuser les Iskais d'être responsables de l'apparition de ces horribles créatures. Kontos le prétend en tout cas, et ses adeptes le croient. En tout cas, on ne peut pas reprocher aux Iskais leur façon de réagir face à cette déclaration de guerre. Ils sont en train d'envoyer à leur tour des guerriers au lieu sacré, et la suite, vous pouvez certainement l'imaginer. Mais c'est évident, puisque leur tabou a été brisé, leur fierté et leurs croyances souillées. Comme votre groupe est assez mélangé, il peut vous arriver de ne plus être servis dans certaines échoppes. Le climat entre les Iskais et les hommes est très tendu en ce moment!"
+"L'hôtel de ville est le plus beau bâtiment de Beloveno. Vous pouvez faire un tour, personne ne vous en empêchera."

@@ -1,0 +1,11 @@
+﻿{BLOK000} "Oh, I manage the food business here in the city."
+"Skeima Din, I don't know you. Are you on a visit here?" {BLOK010} "Yes, we are on a long journey." {BLOK011} "Why do you want to know?'
+"Skeima Din. Ah, we spoke recently." {WORDtravel routes}
+"Then, in any case, I wish you all the best and much luck on your journey. Do you know the major travel routes from Beloveno?" {WORDtravel routes}
+"We don't see foreign travelers very often in our city. Do you know the major travel routes from Beloveno?" {WORDtravel routes}
+"Mm, you haven't been here very long, have you? I'd travel to Kounos if I were you. On the one hand, there are very interesting people there. On the other hand, it is on the way to Srimalinar and I am sure the people there can give you advice and other support. Kounos is a small village on the plateau of the mountain range. The trip there is not very easy, but you don't look as if you give up quickly." {WORDKounos}
+"It really annoys me when the person I am talking to doesn't listen to me. But, anyway, I would go to Kounos. On the one hand, there are very interesting people there. On the other hand, it is on the way to Srimalinar and I am sure the people there will give you advice and materials. Kounos is a small village on the plateau of the mountain range. The trip there is not very easy, but you don't look like the type to give up quickly." {WORDKounos}
+"People always talk about a pass road which leads to Kounos, but that's really an old story. There really was a pass road at one time, but we really don't travel to Kounos or Srimalinar too often. Moreover, there was a constant conflict about who should maintain the road. There was never an agreement and so no one took care of the pass. Meanwhile, the pass became so wild and overgrown that no one can find it anymore. Nevertheless, if you can climb, you can find the way. Look for climbing plants which overgrow the rock walls and climb up to the plateau in the north." {WORDmountain pass}
+"Look for the old pass, even though the pass road doesn't really exist any more." {WORDpass}
+"As they say, look for the old pass, or the no longer existing pass road." {WORDpass}
+"That'th me."

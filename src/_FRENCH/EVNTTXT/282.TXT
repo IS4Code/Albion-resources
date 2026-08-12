@@ -1,0 +1,15 @@
+﻿{BLOK000}"Je suis en fait Faiseur d'Appareils, mais je me suis spécialisé dans la création de lotions et de potions magiques."{WORDPotions}
+"Je vous salue, je suis Merdger et membre de la Guilde des Faiseurs d'Appareils."{WORDFaiseurs d'appareils}
+"Normalement, elles sont réservées aux initiés..."
+"On vous a conseillé mon huile dermotrope?^^Mhm, bon d'accord, je vous vends un petit flacon pour 15 pièces. Un petit flacon suffit d'ailleurs pour six personnes par prise."{BLOK010}"Non merci, ça ne nous intéresse pas."{BLOK011}"Oui, nous en prenons un."{BLOK012}"Il nous en faudrait 5 pour 75 pièces."
+"Bon, tant pis."
+"Je vous remercie. Son effet est garanti. Buvez-en toutes les 8 heures, lorsque vous marchez dans le désert."
+"Vous n'avez malheureusement pas assez de pièces d'or sur vous."
+"Vous n'avez malheureusement pas assez de place pour emmener ça!"
+"Faites donc un tour dans notre maison de la Guilde. Par contre, nos dernières trouvailles, les plus importantes, sont développées dans notre atelier souterrain. Vous n'y avez évidemment pas accès."{WORDAtelier}
+"Comme je l'ai dit, cet atelier n'est pas ouvert au public. Ni moi ni Zebenno ne vous donnerons la clé!"{WORDClé}{WORDZebenno}
+"Zebenno est également Faiseur d'Appareils. Il a le double de la clé. Il vaut mieux ne pas lui demander la clé, car il est influençable.^^Mhm, je vois déjà , vous allez lui en parler. Mais je vous aurai prévenu. S'il vous donne la clé, et qu'il vous arrive quelque chose en bas...Vous en serez responsables."{BLOK010}"Cher Merdger, nous le sommes de toute façon."{BLOK011}"Vous nous avez prévenu, nous vous en remercions et nous serons prudents."{BLOK012}"Nous n'allons pas descendre."
+"Bon d'accord, comme vous voulez."
+"C'est mieux comme ça. De toute façon, ça ne vous regarde pas."
+"Je ne suis pas fou au point de vous donner ma clé!? Zebenno ne le fera pas non plus, j'espère. Car c'est un type gentil. Passez donc le voir et saluez-le de ma part. Vous le trouverez le plus souvent chez les mineurs, il s'y plaint tout le temps du prix du minerai, s'il n'a rien de mieux à faire."{WORDPrix du minerai}
+"Oui, ça devient vraiment de plus en plus cher. L'armurier est évidemment encore plus concerné. Parce qu'il a besoin de plus de métal que nous. Que faire? Nous ne pouvons pas exploiter nous-mêmes le minerai, à cause du rituel. Les mineurs profitent de leur savoir pour nous le faire payer."{WORDRituel}{WORDMineurs}

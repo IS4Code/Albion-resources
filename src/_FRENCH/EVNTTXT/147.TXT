@@ -1,0 +1,4 @@
+﻿{BLOK000}"Je vends des denrées et des épices de toutes sortes."{WORDDenrées}{WORDEpices}
+"Dsarii-ma! Quelles délicatesses puis-je vous servir?" {BLOK010}"Dsarii-ma. Nous serions intéressés par des subsistances non périssables pour le voyage."
+"Hé bien, de la viande non périssable et beaucoup de fruits des bois."
+"Le fin du fin! Mais pour vous, voyageurs, ça est sûrement moins intéressant."

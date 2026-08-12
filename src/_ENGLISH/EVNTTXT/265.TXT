@@ -1,0 +1,5 @@
+﻿{BLOK000} "I am the tavern keeper here."
+"You don't really believe that I will serve you? If I were you, I wouldn't stay around here. I now have solid evidence against Kontos."
+"Give evidence."
+"I have already given you the document."
+"I am Edjirr."

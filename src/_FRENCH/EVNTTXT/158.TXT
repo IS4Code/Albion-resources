@@ -1,0 +1,5 @@
+﻿{BLOK000}"Je suis artisane d'art."{WORDArtisane d'art}
+"Togi Din, étrangers."
+"Oui, je décore et je peins des récipients en terre cuite et d'autres objets. Vous trouverez partout ces formes enlacées, que nous aimons tant."{WORDFormes}
+"Le plus important pour nous, ce sont les couleurs et les symboles. Les lignes harmonieuses qui semblent symétriques, mais qui ne le sont pas à y regarder de près, et les formes étranges qui, d'un moment à l'autre, sont des ornements ou des grimaces de démons. Tout dépend de la lumière et du spectateur! Les plus grands de notre art sont capables d'attribuer de véritables pouvoirs magiques aux objets à l'aide de leurs symboles! Ces objets sont évidemment très convoités."{WORDMagie}{WORDObjets magiques}
+"Il existe à Vanello et également à Aballon, je crois, des commerçants qui proposent parfois des objets aussi précieux."{WORDVanello}{WORDAballon}

@@ -1,173 +1,173 @@
-﻿
-
-
-
-
-
-
-
-
+﻿empty
+No member of the group is particularly eager to put their hand there.
+A large sofa.
+A large cabinet.
+A grill.
+A bed.
+A fireplace.
+The bedcover.
+Iskai cutlery.
 A plate.
-A receptacle.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A saucepan.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A container.
+A sausage.
+A ham-like piece of meat.
+A ladle.
+Different herbs.
+Fruits.
+A specialty meat.
+A drinking cup.
+A bowl.
+A spice.
+Small spice jars.
+A small cup.
+A kitchen knife.
+Cookies.
+A small sausage.
+This bottle contains an aromatic liquid.
+A cloth.
+A hand towel.
+A bucket.
+A roasting pan.
+A pot.
+Within this kettle, there is a small pot on a rod in which food can be heated slowly.
+A cushion.
+A large roasting pan.
+A fur brush.
+A water channel.
+A water basin.
+A water barrier.
+A large clay mug.
+A bureau.
+All kinds of unimportant small items lie in the drawers of this desk.
+A chest.
+This is a fairly large kettle. Perhaps it can store supplies, water, or food.
+In the water basin, there's a strange plant which pumps water out of the ground with its strong, pulsating motions. Apparently, this fountain serves as the water supply.
+The water in this pool smells bad and foul. This is probably where sewage is collected.
+Water plants.
+Herbaceous plants.
+An exotic plant.
+Climbing, grasping plant.
+Places for further Cutmap events.
+A staircase. It leads down through the floor.
+A staircase goes up through the floor.
+This is apparently some kind of bed. It is filled with sand, which offers astounding comfort because of its coarse but rounded grains.
+The enormous shape makes this look like sitting furniture. It acts like a plant. It has apparently grown. The surface is soft and elastic.
+The fountain of the house.
+The water channels probably serve for the drinking water supply. They run through the house like small brooks.
+The musty odor and the holes in the object lead to the conclusion that this is a kind of toilet. This "furniture" is also made from plants, and thrives vigorously because of its regular fertilization.
+This is where the really urgent activities in life are performed.
+A sweet, tart smelling dish is cooking in this pan.
+A seat.
+A massive wooden table.
+A large-leafed plant.
+A door.
+A knife.
+A short dagger.
+A dagger.
+A large dagger.
+A short sword.
+An Iskai knife.
+An Iskai dagger.
+An Iskai stiletto.
+An Iskai short sword.
+A large Iskai stiletto.
+An Iskai sword.
+A large Iskai sword.
+An Iskai long sword.
+An Iskai lance.
+A large Iskai dagger.
+A short Iskai stiletto.
+A large Iskai stiletto.
+A large Iskai sword.
+A small bow.
+A bow.
+An arrow.
+A long arrow.
+A leather shield.
+A small Iskai shield.
+An Iskai shield.
+A large Iskai shield.
+A leather cap.
+An Iskai leather cap.
+An Iskai metal cap.
+An Iskai metal helmet.
+An Iskai chest protector.
+An Iskai metal chest protector.
+Light Iskai armor.
+Iskai armor.
+An empty bottle.
+A green healing potion.
+A turquoise healing potion.
+A blue healing potion.
+A red drink.
+A violet drink.
+A blue drink.
+A key.
+A rope.
+A torch.
+An Iskai notepad.
+A piece of paper.
+An Iskai ring book.
+An Iskai ring pad.
+A pencil.
+A short pencil.
+A bench.
+This seat literally grows out of the ground and is quite comfortable.
+A wooden pole. There is a sign on the top.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+"Dsarii-ma! Excuse me, I'm very busy now."
+"Dsarii-ma, worthy visitors. Look around and learn about our art!"
+"Dsarii-ma. I have no time for a conversation now, I have to study."
+{LEAD}{NAME}'s attempt to start a conversation come to nothing, as {HIS } conversation partner is concentrating deeply and mumbles incomprehensible words.
+"Dsarii-ma. Excuse me, I still have work to do."
+"Dsarii-ma, Visitor. I'm very new here. Someone else can give you better information."
+"Dsarii-ma. Unfortunately, I don't have much time, honored visitor. The fountain in one of our buildings is not working properly. If only I'd become a hunter!"
+"Dsarii-ma, guests of the guild house. I hope you like our art and tell your distant homeland about it!"
+"Dsarii-ma. I was accepted into the guild only recently. Isn't this a beautiful building?"
+This door leads outside.
+The door is latched.
+"There is a tank here into which household waste water is dumped from pipes in the floor. The plants in the tank clean the water before it is returned to the river through an underground canal system."
+"This is a toilet made from a giant plant. The plant processes the fecal material rapidly and almost without odor. You only have to watch that it doesn't grow too large because of the regular fertilization."
+"This furniture is very popular in larger families. It is made of living plant material. ^ ^ The texture is soft and elastic and, if it is damaged, the damaged area grows back by itself."
+"If you like, you can go look at the house's fountain. It is quite in demand in larger clan houses. You will find it in the south part of the building. Now I will leave you alone to explore our guild house."
+"Thank you very much for guiding us, Aliis. Surely you understand that we cannot buy any of the works of your guild."
+"Ha ha! Yes, I figured as much! ^ ^ In any case, perhaps you would like to speak with Akiir, our chief, or Bradir, his representative. You'll find them in the northern part of the building. Take care!"
 !
-
-
-
-
+After the battle, Bradir drops to his knees. The pain drives the confused look from his face and his eyes become clear.
+"We must take him to the healer, quickly. Otherwise, we will never understand why he attacked us."
+Bradir is quickly transported to the healer. ^ ^ As soon as he is treated, there is a gathering in the council building in the room of the Sebainah, where Bradir must explain his actions. ^ ^ In addition to Tom, Rainer, and Drirr, Sira, the daughter of the murdered Akiir, has also been summoned.
+{CNTR} On the shield it says: {INK 006} ^ ^ North: Leader of the guild, East: Demonstration Wing, ^ ^ South: Fountain Area, West: Teaching Area

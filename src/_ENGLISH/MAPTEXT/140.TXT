@@ -1,136 +1,136 @@
-﻿
-
-
-
-
-
-
-
-
+﻿-free-
+Branches and roots.
+A woven basket.
+A glass vessel for water and other drinks.
+A barrel.
+A magnificent animal pelt.
+A bucket.
+A clay bowl.
+A flask.
 A plate.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-
-
-
-
-
-
-
-
-
-
+A clay mug.
+A mug.
+A table knife.
+A fork.
+A spoon.
+A clay container.
+Rocks.
+A bowl.
+A farming tool.
+An ax.
+A chest cover.
+A wooden chest.
+A lavishly decorated wooden chest.
+The rest room.
+A cover.
+A large wooden tub.
+A large metal kettle.
+A cupboard.
+All kinds of insignificant items are on these shelves.
+A bureau.
+A broom.
+A grill.
+You can grill meat on it.
+A fireplace.
+A tipped-over carafe.
+A ladle.
+A decorative wall sword.
+A wooden table.
+A stool.
+A folded stool.
+A massive dining table.
+A tree stump.
+Two crossed spears.
+A large barrel filled with strange liquids.
+A faucet.
+A bedcover.
+A comfortable and beautifully decorated bed.
+This bed is plain, yet practical.
+A kitchen table.
+A fireplace.
+The fireplace radiates a pleasant warmth.
+A decorated pot.
+Dried herbs.
+A human skull.
+A decorative shield.
+A metal pot.
+A decorative sword.
+A door.
+A kettle.
+A knife.
+A short dagger.
+A dagger.
+A large dagger.
+A short sword.
+A sword.
+A stiletto.
+A throwing dagger.
+A small ax.
+An ax.
+A small bow.
+A bow.
+An arrow.
+A small, leather shield.
+A leather shield.
+A round shield.
+A large shield.
+A leather cap.
+An embossed cap.
+A metal half-bowl.
+A leather vest.
+Leather armor.
+An embossed leather vest.
+A pair of shoes.
+A pair of boots.
+An empty bottle.
+A green healing potion.
+A turquoise healing potion.
+A blue healing potion.
+A key.
+A rope.
+A ring.
+A torch.
+A hammer.
+Stairs. They lead upward.
+Stairs. They lead downward.
+A counter.
+A carpet mat.
+A houseplant.
+A flowerpot.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+"Togi Din, travelers. Of course, you may enter Arjano."
+"Togi Din. I hope you find Bero alive. I must confess I wouldn't dare go into the forbidden part!"
+"Togi Din, Bero's Saviors. Your deed will be the substance of many stories!"
+"Togi Din, travelers. This is Arjano, the Guardian of Knowledge. Welcome to the Center of the Druids of Gratogel. ^ ^ Anyone can see that you come from far away. May I ask what your purpose is here?"
+"Togi Din. We come to ask the Druid Bero for a special amulet."
+"You want to see Bero, hmm? ^ ^ Please be patient. I will be back shortly."
+"So, this is the Center of the Druids. Judging from the access going down, the rest of the center is underground. ^ ^ I was shocked when I saw the little hut."
+"Ah, there is the man in the white gown again!"
+"Strangers, I have talked with our chief, Nemos. ^ ^ He is ready to meet with you."
+{LEAD}{NAME}and {HIS } companions follow the Druid under the earth...

@@ -1,143 +1,143 @@
-﻿
-
-
-
-
-
-
-
-
+﻿-free-
+Branches and roots.
+A woven basket.
+A glass vessel for water and other drinks.
+A barrel.
+A magnificent animal pelt.
+A bucket.
+A clay bowl.
+A flask.
 A plate.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A clay mug.
+A mug.
+A table knife.
+A fork.
+A spoon.
+A clay container.
+Rocks.
+A bowl.
+A farming tool.
+An ax.
+A chest cover.
+A wooden chest.
+A lavishly decorated wooden chest.
+The rest room.
+A cover.
+A large wooden tub.
+A large metal kettle.
+A cupboard.
+All kinds of insignificant items are on these shelves.
+A bureau.
+A broom.
+A grill.
+You can grill meat on it.
+A fireplace.
+A tipped-over carafe.
+A ladle.
+A decorative wall sword.
+A wooden table.
+A stool.
+A folded stool.
+A massive dining table.
+A tree stump.
+Two crossed spears.
+A large barrel filled with strange liquids.
+A faucet.
+A bedcover.
+A comfortable and beautifully decorated bed.
+This bed is plain, yet practical.
+A kitchen table.
+A fireplace.
+The fireplace radiates a pleasant warmth.
+A decorated pot.
+Dried herbs.
+A human skull.
+A decorative shield.
+A metal pot.
+A decorative sword.
+A door.
+A kettle.
+A knife.
+A short dagger.
+A dagger.
+A large dagger.
+A short sword.
+A sword.
+A stiletto.
+A throwing dagger.
+A small ax.
+An ax.
+A small bow.
+A bow.
+An arrow.
+A small, leather shield.
+A leather shield.
+A round shield.
+A large shield.
+A leather cap.
+An embossed cap.
+A metal half-bowl.
+A leather vest.
+Leather armor.
+An embossed leather vest.
+A pair of shoes.
+A pair of boots.
+An empty bottle.
+A green healing potion.
+A turquoise healing potion.
+A blue healing potion.
+A key.
+A rope.
+A ring.
+A torch.
+A hammer.
+Stairs. They lead upward.
+Stairs. They lead downward.
+A counter.
+A carpet mat.
+A houseplant.
+A flowerpot.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+"If you want to talk to the people around here, go to the tavern. That's the meeting place in our village. Also, Kontos lives there, in the cellars under the hut."
+"Mellthas! ^ ^ MELLTHAS! It's great of you to visit me! What brings you here?"
+Mellthas' face shows joy as he eagerly begins to write on his note paper.
+"Have you brought your friends with you? That's wonderful, you're all welcome in my home."
+"Skeima Din. Are you Mellthas' friends? ^ ^ That's wonderful. He's told me about you. When you see Mellthas, please send him my best and tell him I hope he is well."
+"We will do that when we see him again."
+"Thank you. In any case, you're welcome here."
+"I'm actually very happy that you're visiting me. But, I'm in a hurry at the moment. Kontos is making his speech soon and I must attend. But, please, come by another time. Then I'll be glad to tell you more about myself and our village."
+"It's great of you to drop in. Of course, I'm not in the best of moods at the present time. Kontos' last speech has really made me think. It's not that I doubt his intelligence, but sometimes he's just too radical for me."
+"The mood here is highly explosive right now. Kontos intends to occupy the shrine of Srimalinar. But er... you didn't hear that from me. We're all behind Kontos, but sometimes I'm not sure if his decisions are correct. Most people are convinced of it, however, unfortunately, I'm not. I don't know anything about the strange creatures and that shrine has been there as long as I've been alive. Why should it suddenly be dangerous? ^ ^ The whole thing will probably just blow over. In any case, most of us are standing behind our leader. I don't know, perhaps my doubts are unjustified."
+"I don't know if you realized it or not, but most people in our village already left for the shrine of Srimalinar. We have decided to occupy it and to destroy the evil within it. Kontos says that the Iskai are experimenting with black magic there. ^ ^ I will soon go and stand beside my brothers."
+"It's great of you to drop in again. Thanks for everything you've done for us."
+"I would do anything for Kontos! Even if I have to risk my life. Then, at least I will know why."
+"Don't think that we're all unfriendly. However, strangers must prove themselves here before they gain our respect."
+"Skeima Din. My name is Kleronna. I'm almost as old as my brother now. Although Mommy says that I can't catch up with him. But I can!"
+At a distance, two people are talking and {LEAD}{NAME} manages to catch a few scraps of the conversation: ^ ^ "...it's been said that Herras has gone to Beloveno... probably from his own rows... very tragic situation..." ^ ^ Unfortunately, because of the noise they can't hear anything more... When the Mahinos notice that the companions are listening to their conversation, they immediately change the subject.
+"I have to tell you something important!"

@@ -1,0 +1,11 @@
+﻿{BLOK000}"Oh, je tiens l'épicerie de cette ville."
+"Savez-vous déjà que l'ensemble de Kounos va occuper la Chose Sacrée de Srimalinar?"{BLOK010}"D'où tenez-vous ça?"{BLOK011}"Vous êtes sûr?"{BLOK012}"Nous allons empêcher ça!"{WORDChose sacrée}
+"Hé bien, les choses deviennent sérieuses. Kontos a convaincu ses adeptes d'occuper le lieu sacré de Srimalinar et d'y anéantir le mal! Parlez-lui, il saura vous expliquer son attitude." {WORDLe mal}{WORDChose sacrée}
+"Maintenant, tout Beloveno le sait. Un coursier de Kounos nous l'a communiqué. Allez-y et demandez-le à Kontos."
+"Tout le monde le sait. Ce genre de choses se sait?!?"
+"Sûr et certain, un coursier nous l'a communiqué."
+"Pourquoi ça? Si la Chose Sacrée est vraiment dangereuse, c'est quand même bien que l'on fasse quelque chose, non!"
+"Je crois bien qu'il faut faire quelque chose!"
+"C'est de pire en pire avec ces méchantes créatures qui sortent de là-bas! Tout le monde en parle! Mais heureusement, Kontos fait quelque chose! Mais, demandez-lui tout simplement, il vous expliquera le problème mieux que moi."{WORDKontos}{WORDLe mal}
+"Heureusement, il y a des gens comme lui!"
+"C'est moi."

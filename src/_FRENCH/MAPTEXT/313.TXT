@@ -1,0 +1,174 @@
+﻿libre
+Une cheminée.
+Un chandelier.
+Un panier tressé.
+Une table en bois.
+Un tabouret.
+Un lit avec un ciel. Avec ces têtes de mort, on pourrait l'appeler "lit d'enfer".
+Un bureau.
+Une chaise.
+Un feu flambe dans cette colonne, qui laisse apparaître une grimace dans une faible lumière, et suscite chez le spectateur un sentiment d'angoisse.
+Une colonne avec une horrible grimace.
+Un lit de guerrier. Comme la plupart des meubles ici, il est un peu repoussant.
+Un fût.
+Une sorte de tapis tressé de brins de végétaux.
+Une cruche en verre.
+Rideaux.
+Un coffre.
+Une armoire.
+Une torche.
+Un tas de manuscrits incompréhensibles se trouve dans les étagères.
+Un gros baquet en bois.
+Grandes étagères en bois.
+Ce lit n'est apparemment pas utilisé actuellement.
+Diverses armes tranchantes et contondantes et des armes à feu qui ont l'air assez dangereuses.
+Une étagère d'armes.
+Un bouclier.
+Un crâne empalé. Une odeur nauséabonde de décomposition indique que l'atrocité commise est assez récente.
+Ces poupées de paille servent à l'exercice et à l'entraînement au combat.
+Un pieu enveloppé de paille. Il sert à l'entraînement aux techniques de frappe.
+Une cible pour le tir à l'arc.
+Un plateau avec de la nourriture.
+Herbes.
+Un coffre.
+Une carafe.
+Une cuiller en bois.
+Un seau.
+Une cuiller.
+Une cuiller et une fourchette.
+Une timbale.
+Deux timbales.
+Couverts.
+Une assiette.
+Un récipient.
+Légumes.
+Pâtisserie.
+Une épice.
+Une assiette en métal.
+Un récipient en terre cuite.
+Un grand pot en verre.
+Un récipient en verre.
+Une boîte en bois.
+Une grande boîte en verre.
+Une bouteille.
+Notes.
+Un livre.
+Plusieurs livres.
+Un livre relié en cuir. Il a l'air d'avoir de la valeur.
+Ustensiles d'écriture.
+Un livre ouvert. Sur la page de gauche figure un croquis technique, la page de droite contient les descriptions correspondantes.
+Un petit crayon.
+Un coutelas lourd.
+Un coutelas lourd.
+Une porte.
+Ce fourneau de cuisine imposant sert à réchauffer des aliments et des boissons.
+Une tapisserie.
+Rideaux déchirés.
+Lits de bois misérables.
+Une colonne ornée.
+Une peau de bête.
+Un escalier qui monte.
+Un escalier qui descend.
+Tiroirs ouverts contenant des bricoles.
+Un gobelet.
+Des ciseaux fins.
+Une fiole.
+Une massue de combat.
+Fioles.
+Un verre grossissant.
+Grands torchons.
+Un torchon.
+Un tapis.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+"Nous devrions essayer à tout prix de remettre Khunag sur pieds.^^Il peut certainement nous donner des tuyaux précieux ici en bas."
+{LEAD}{NAME} scrute les alentours.^^C'est visiblement une partie habitée de Khamulon.
+"Nous avons de la chance! La percée nous mène directement dans la partie intérieure! Nous sommes près de l'entrée principale.^^Tous les Kenget ici vont également nous attaquer tout de suite.^^A certaines portes, je vous donnerai des indications de direction qui nous mèneront directement à l'endroit où l'on garde le Grand Savoir. Nous y trouverons le parchemin magique convoité."
+La porte est fermée.
+"C'est une entrée principale de la partie intérieure. Cette porte est généralement verrouillée."
+Ici, il y a des parchemins magiques des Kenget Kamulos!
+{LEAD}{NAME} voit une hache de cristal!
+Ici sont gardées des potions efficaces!
+{LEAD}{NAME} voit une amulette!
+"Pas par là! Cette porte ne donne pas sur la pièce où est gardée le Grand Savoir."
+"C'est la bonne porte! Elle mène vers la pièce du Grand Savoir!"
+"De ce hall, toutes les portes donnent sur des salles de bibliothèque de la partie intérieure. Elles sont généralement très fréquentées.^^ Attendez-vous à des attaques!"
+"C'est la pièce précédent l'endroit où l'on garde le Grand Savoir.^^ Nous avons bientôt réussi!"
+"Cette porte donne sur les dortoirs et ne nous intéresse pas. Je crois que nous devons aller en direction du nord!"
+Cette porte est verrouillée.
+Dans la pièce derrière la porte sont assis Arthor, le Maître de cérémonie, Rhain, qui a accueilli Tom et ses compagnons, ainsi que le Cuain en personne!^^ Ebahis, les Kenget fixent les intrus.
+"Qu'est-ce qui vous prend! Aucun impur ne doit entrer dans cette pièce. Et aucun impur ne sortira vivant de cette pièce!"
+"Rhain, un peu de modération. Justement, ce qui est impur ne doit jamais troubler ton esprit."
+"Expliquez-vous. Qu'est-ce que vous voulez? Et comment avez-vous trouvé le chemin?"
+"On ne nous a pas laissé entrer, et nous avons donc dû nous frayer un chemin. C'est important. Très important même. Finalement, il s'agit aussi de votre existence et de celle de votre ordre!"
+"Qui es-tu, voué à la mort, pour prendre la parole? Et qui sont tes compagnons."
+"Je m'appelle Tom Driscoll et je viens comme vous de la planète Terre. Je suis seulement né là-bas, et je suis arrivé ici avec un vaisseau du ciel. Mes compagnons sont des amis qui m'accompagnent dans ma mission difficile. Car l'existence même d'Albion est en danger. Le vaisseau, avec lequel je suis venu, a déjà commencé la destruction de votre planète, grand Cuain. Nous avons besoin de votre Grand Savoir pour l'arrêter et le détruire."
+"Tu es dupe, Driscoll. Car ton coeur est franc, sans sentir la haine qui t'habite."
+"On t'a trompé, Terrien! Le Grand Savoir est ici. Mais tu ne l'auras pas. Les Kenget ne vont pas se soutirer à la Grande Bataille, qui a été prédit depuis longtemps. Le moment est apparemment venu où Kamulos appelle à la Dernière Bataille."
+"Je ne sais pas de quelle haine vous parlez, grand Cuain. Mais aussi, je sais que personne ne sait vraiment qui participera finalement à la Dernière Bataille. Et il était dit, qu'il était possible que même des hommes, impurs pendant leur vie, seraient du bon côté, si seulement ils mouraient d'une mort pure. Mais personne ne sait qui parmi les vivants sera du bon côté, quand la Dernière Bataille arrivera. Tous mes compagnons tiennent à sauver Albion. Nous sommes de votre côté!"
+"Supposons que tu as raison, Terrien. Supposons que dans la Dernière Bataille, les hommes honnêtes combattent au côté des Kenget, qui ne maîtrisent peut-être pas leur peur, mais soutiennent la bonne cause, quelle qu'elle soit. Supposons qu'il faut, pour gagner la Dernière Bataille, que je te remette le Grand Savoir. Est-ce que je le ferais? Je le ferais, évidemment!"
+"Supposons aussi que, lors de la Dernière Bataille, même les Iskais, même des femmes Iskais et des hommes soient avec nous. Qui est alors de l'autre côté? Pas grand monde, je suppose! Peut-être le traître Khunag? Oui, Khunag certainement, non?"
+"Mais qui vois-je à tes côtés? Penses-tu que je ne t'ai pas reconnu? Tu as pu changer de visage, traître! Le mensonge dans tes yeux reste! La lâcheté, qui empoisonne cette pièce, reste!"
+"On t'a trompé, Driscoll! Tu ne peux pas être le messager de la Dernière Bataille! Et si c'est le cas, alors tu n'es pas de notre côté! Pourquoi es-tu venu ici, Khunag?"
+"Ce qui m'amène, Cairnain? Tu le sais très bien! Qui jadis m'avait poussé à assommer le Cuain. J'entends encore ta voix me dire: 'Ceci est ta mission Khunag. La mission que Kamulos t'a imposé. Va et assomme Argagh!' C'est la vengeance qui m'amène. Et je suis uniquement là pour ça. J'étais ton instrument sur le chemin du pouvoir. Ces pauvres nains sont le mien. Tu ne vas pas les épargner, si tu me bats, mais moi oui. Et je leur laisserai même le Grand Savoir. Et c'est pourquoi, ils se battront encore pour moi, maintenant qu'ils savent que je les ai trompé. Le jour est arrivé où tu regarderas Dieu en face."
+"Qu'est-ce que ça veut dire, Khunag?"
+"Désolé, Tom!"
+"Tes mensonges n'intéressent personne ici, Khunag. Ton crime est indélébile. Tout comme ton ignominie de te présenter de nouveau au combat qu'avec des renforts. Les moyens avec lesquelles tu te battais me paraissaient déjà suspects à l'époque, toujours soucieux de laisser mourir tes adversaires de façon particulièrement douloureuse. Non, personne ici ne te croit plus. Mais il est vrai que je n'épargnerais pas tes aides lorsque je t'aurais battu. Grâce à ça, Driscoll, tu peux voir qui de nous deux est honnête. Ça me fait presque de la peine pour toi, mais tu es du mauvais côté."
+"Nous n'avons que faire de vos sales intrigues!"
+"Tu es vraiment dupe, Driscoll. Et tu le resteras. Car tu es et tu resteras l'instrument de ma vengeance. J'ai aimé Argagh. Mais Cairnain nous a séparé avec ses intrigues. Et à la fin, il a réussi à employer ma bonne volonté contre Cuain. Il m'a utilisé à ses fins, comme je vous utilise maintenant pour venger le vieux Cuain. J'ai toujours su que le traître Cairnain nous attendait ici dans cette pièce. Mais comme je l'ai dit: le Grand Savoir sera le tien. Si tu m'aides encore une fois."
+"Peut-être qu'il le fera vraiment, Driscoll. Peut-être qu'il te donnera après le Grand Savoir. A ta place, je n'en serais pas si sûr. Mais à quoi bon toutes ces discussions inutiles. Les lèvres de Khunag ne prononceront jamais aucun mot honorable. Il a suffisamment souillé ma Chose Sacrée avec ses allégations puantes. Il devient temps pour lui de mourir.^^ {FAT }Préparez-vous à regarder Kamulos en face!"
+La fuite est vaine: Cairnain, le Cuain, maintenant l'incarnation du dieu Kamulos, réattaque tout de suite!
+Il y a un moment de silence après le terrible combat.^^Décontenancés, les deux Kenget Kamulos restants fixent le cadavre de leur Cuain, que le dieu Kamulos a de nouveau quitté.
+"Vous... vous avez vaincu le Cuain dans son incarnation de Kamulos!"
+"Pour ça, vous allez mourir la mort de trois ans, impurs!"
+"Arrêtez-vous, Arthor! Vous avez vu ce dont ils sont capables en tant que guerriers! Ils peuvent être battus, si nous appelons les autres, mais pensez à cette scène!^^{FAT }Kamulos{NORS} a été vaincu par des impurs dans un combat ouvert! Le choc sera encore plus grand pour les autres que pour nous."
+"Sur mon honneur, vous avez raison!"
+"Nous allons expliquer la mort du Cuain de manière honorable."
+"Impurs, vous êtes en possession de ce pourquoi vous êtes venus. Vous resterez en vie, malgré votre acte inconcevable. Je vais vous conduire par un passage, servant à l'évasion, en-dehors de Kamulos.^^Ne revenez plus jamais dans ce lieu.^^Gardez le silence sur cet incident.^^Autrement, il n'existe aucun endroit dans ce monde, où nous ne pourrions pas vous retrouver."
+Rhain conduit {LEAD}{NAME} et ses compagnons sans mot dire à travers les passages étroits jusqu'à une percée dans le flanc de la montagne. Sans un mot de plus, il laisse passer tout le monde par l'ouverture et referme la porte camouflée.

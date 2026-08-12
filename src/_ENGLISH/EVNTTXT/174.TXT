@@ -1,0 +1,10 @@
+﻿{BLOK000} "As you should know, I am a Druid and particularly knowledgeable about amulets." {WORDamulets}
+"Togi Din, my rescuers! Great to see you again... especially you Mellthas, and you Sira!" {WORDMellthas}{WORDSira}
+"Togi Din, my rescuers! Good to see you again!"
+"My great passion, as you know. If I had at least found Canto's amulet, I would have been spared the disgrace of my expedition's failure."{BLOK010}"Would Canto's amulet really be worth the risk?"
+"They are an interesting people. Their forehead organ is particularly fascinating. I would like to talk with one of their scholars sometime. Maybe I will take a trip to Jirinaar."
+"A charming, er, person, {LEAD}{NAME}. No wonder one that even a human being could fall in love with her."
+"Sira, I am happy and thankful for what you have done for Mellthas." {WORDIskai}
+"{LEAD}{NAME}, I couldn't love a son of my own body more than I love Mellthas. I am proud of his knowledge. I'm also proud that he has found someone, human or not, who loves him and who is helping him overcome his handicap."
+"Mellthas, you know that I love you like a son. Be careful while you are traveling with your companions." {WORDIskai}
+"Canto is the spiritual ancestor and legendary forefather of all Druids. They say that he was the one who led the humans to this land hundreds or thousands of years ago. His wisdom and knowledge were great - so great that many honor him almost as a god. Old books mention that he wore an amulet. It is supposed to have been given to him by Danu herself. Many wonderful things are said about Canto's amulet. For example, it is supposed to protect the wearer from all weapons and magic. Naturally, it is only a legend, but it was worth the risk to me."

@@ -1,0 +1,24 @@
+﻿{BLOK000}"I am Stri Dji-Fadh and representative of Akiir." {WORDrepresentative}{WORDAkiir}
+ 
+"We see what we do here as a mixture of magic, art, and craft. We are one of the oldest guilds in Jirinaar and, as you surely know, we are able to create, change, and permanently modify plants into a desired form through magic. This means we can produce complete houses out of living plant material which are not only beautiful, but also perform all the functions necessary for the well-being of its residents." {WORDmagic}{WORDJirinaar}
+"Stri Akiir is head of our guild and I am proud to call him my friend. He is an outstanding artist and magician who works hard for our guild's interests. We all hope he becomes one of the Chosen someday."{WORDChosen}
+!
+!
+"Sira is Akiir's only daughter. She transferred to the Dji-Kas, which made Akiir very angry." {WORDDji-Kas}
+ 
+"Oh, the seed throwers! I'm sure you've noticed that most of us do not have very friendly feelings toward the Dji-Kas. They often entice our greatest talents away with promises. Their craft lacks direction, dedication, and, apart from their healers, they are of no use to our society."
+"Our guild house competes with the council building for the title of most beautiful structure in Jirinaar. We are constantly maintaining and changing it, and we use it to demonstrate our knowledge, as you can see in the east wing." {WORDcouncil building}{WORDJirinaar}
+"He is the leader of the Dji-Kas."{WORDDji-Kas}
+"That murderer! He deserves to die, and nothing less!"
+!
+"That is my name, yes."
+dummy
+dummy
+dummy
+dummy
+"You heard about that? Well, to be honest, Argim's story is an embarrassing part of our guild's history. ^ ^ He was head of the Dji-Fadh almost 150 years ago. At that time, the Dji-Fadh's guild house was located outside the city. It was a magnificent building near a Han, in the middle of the forest. Now, Argim was enormously talented, but he was also very fickle. This was the reason his greatest goal was rejected: to become one of the Chosen. ^ ^ When he found out he had been rejected, he lost control of himself. He swore to achieve immortality in spite of the rejection. In an irresponsible outbreak of his power, he destroyed the entire building and converted it into a strange place which today everyone avoids. They say he stamped his spirit on the place."{WORDHan}
+"There are places where the force of the Goddess is particularly strong and where magic acts are strengthened, yet often made difficult as well. This kind of energy center is called a Han." {WORDGoddess}
+dummy
+"Dsarii-ma, travelers. What brings you to me?"
+"I support Akiir in his work, and instruct the advanced Dra. I am very happy doing this; and, by the Goddess, I hope I never have to do anything else."{WORDGoddess}{WORDDra}
+"As I already said, I really like to work with Akiir."

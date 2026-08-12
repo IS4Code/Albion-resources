@@ -1,0 +1,36 @@
+﻿vide
+"Le cheptel est à la base de toute richesse. Celui qui détient un rang élevé chez nous, possède aussi le plus souvent des bêtes qu'il loue en partie à ses Ceile."{WORDCeile}
+"Un Ceile, ou accompagnateur, fait partie de la suite de l'homme, qui lui a payé son prix d'honneur. Il renonce donc, contre une certaine somme d'argent et une location de bêtes à prix réduit, à une partie de ses droits légaux, comme par exemple le port d'armes, et est tenu de donner sa voix au propriétaire lors de réunions, ce dernier élève ainsi sa position et gagne en influence."{WORDBête}{WORDLoi}
+"Il est de coutume de faire adopter ses enfants à l'âge de 7-8 ans par une autre famille, le père adoptif est appelé Attio. Là, l'enfant apprend un métier et l'adoption encourage le lien entre les familles. L'adoption prend fin à l'âge de 14 ans pour les filles et 17 pour les garçons."
+"Oh, il existe une multitude de divinités, mais les plus grandes d'entre elles sont Lugh, le grand Dieu de la motivation, des voyageurs et du commerce, ainsi que Danu, la grande Déesse et mère, dont l'incarnation est Albion, notre monde.^ A part ça, il existe les dieux des paysans, des artisans, des poètes et des guerriers, ainsi que de nombreuses divinités de moindre importance, vénérées par les habitants des régions respectives.^^ On enseigne la vie après la mort, que nous continuons à vivre dans un autre pays merveilleux."{WORDGuerrier}{WORDArtisan}{WORDPoète}{WORDAlbion}
+"La Tuath ou tribu est la communauté de tous les Clans et de leurs familles et est dirigée par le roi de tribu."{WORDRoi de tribu}
+"Le roi est notre maître suprême, qui décide du bien de la Tuath, même s'il confère avec le rassemblement des hommes en armes des affaires importantes. Il est l'incarnation de la Tuath, et sa tâche essentielle consiste à veiller sur l'harmonie entre nous les hommes et le pays. L'harmonie avec le pays est nécessaire, pour espérer une bonne récolte, des bêtes en bonne santé, peu de maladies et le maintien de la paix."{WORDTuath}{WORDBête}
+"Tout homme chez nous est aussi guerrier, si la paix est rompue. Il n'existe pas beaucoup d'hommes chez nous qui se destinent uniquement au maniement des armes, sans exercer un autre métier, car la paix règne dans le pays.
+"Les poètes sont hautement considérés chez nous, et sont même craints par de puissants guerriers, car une épigramme percutante peut nuire autant à la réputation de l'intéressé qu'une défaite peu glorieuse."{WORDGuerrier}
+"Il existe beaucoup d'honorables métiers de l'artisanat, ceux du potier, du forgeron grossier, du tisserand d'étoffe et celui du vannier. Les armuriers, qui appartiennent tous à la Guilde des Umajo, détiennent un rang particulier."{WORDUmajo}
+"La Guilde des Umajo est dans un grand pays chaud, loin à l'est d'ici. Ils veillent sur le secret comment extraire le minerai des entrailles de Danu sans provoquer sa colère. Ils fabriquent des parures et surtout des armes, et prétendent avoir le privilège d'être les seuls à pouvoir fabriquer ces armes. Ce sont les seuls à enseigner l'art de la fabrication d'armes. Ainsi, tous les armuriers viennent du pays des Umajo ou sont des gens d'ici, qui ont appris leur métier là-bas ou chez un membre de la Guilde et qui font maintenant aussi partie de la Guilde. Il y a apparemment même eu une guerre avec les Umajo dans les temps anciens. Depuis, ils sont un peu plus généreux côté prix et en ce qui concerne la formation d'armuriers locaux. Mais on dit qu'ils poursuivent encore aujourd'hui des rebelles, qui, sans être membres de la Guilde, exercent le métier d'armurier."{WORDDanu}
+"Le plus souvent, c'est un druide formé à cet effet, qui se charge de prononcer un jugement dans un litige opposant deux parties."{WORDDruides}
+"Les druides sont nos savants. Ils maîtrisent l'écriture, conservent le savoir de nos ancêtres et l'enrichissent. Leurs tâches sont multiples et diverses. Il y a ceux qui prononcent des jugements ou qui sont envoyés pour enseigner aux enfants, et d'autres qui sont les médiateurs entre les Dieux et les hommes. Il y a des guérisseurs et des maîtres des arts magiques parmi eux. Leur centre est l'école d'Arjano, là vivent et enseignent les plus grands d'entre eux."{WORDMagie}{WORDArjano}{WORDDieux}{WORDGuérisseur}
+"La magie est l'art des Dieux. Elle est exercée par des druides particulièrement doués, qui sont hautement considérés et sont dits bénis."{WORDDruides}{WORDDieux}
+"Vous serez guéris de vos blessures à Arjano."
+"Nous appelons ainsi le monde dans lequel nous vivons."
+"La tête est le siège de toute la force, de la puissance et de la personnalité d'un homme. C'est pourquoi beaucoup d'entre nous conservent les crânes des grands ennemis vaincus, pour qu'ils leur portent chance."
+"D'après la légende, il y a très très longtemps, nos ancêtres ont foulé là-bas pour la première fois la terre d'Albion. Certains en doutent, car l'endroit est situé dans les terres et ne se trouve pas sur la mer. Mais, là-bas pousse un arbre très très vieux, qui n'existe nulle part ailleurs dans le monde. Il est vénéré par nous et surtout par les druides comme Chose Sacrée."{WORDAlbion}{WORDDruides}
+"Ainsi est appelée la partie interdite d'Arjano. Il y a longtemps, quelque chose de grave s'y est passé, et maintenant l'endroit est habité par des démons! Drinno est complètement verrouillée et il est tabou d'y séjourner."
+"Canto est un héros légendaire, presqu'un Dieu! Il a conduit nos ancêtres dans cette contrée et était le plus sage et le plus puissant de tous les druides!"
+"Ah, les porteurs de pelage. Hé bien, certains en parlent avec dédain, d'autres les respectent particulièrement en tant que guerriers."
+"Je n'en sais pas grand chose."
+"Je n'en sais pas grand chose."
+"Je n'en sais pas grand chose."
+"Je n'en sais pas grand chose."
+"Klouta est un village sur la côte ouest."
+"C'est le nom de l'école des druides ici sur Gratogel. Elle est tout près d'ici, au nord de notre village. Nous sommes fiers d'être voisins des druides."{WORDDruides}
+"C'est le nom du pays dans lequel vous vous trouvez."
+"Ici c'est Vanello, oh ignorant! Nous vivons de l'élevage et des bonnes récoltes que nous accorde la bénédiction des druides d'Arjano."{WORDDruides}{WORDArjano}
+"Aballon est un village au sud de la Grande Montagne."
+"Gratogel est scindée par une grande chaîne de montagne en une partie nord et une partie sud. Il y a juste un chemin qui la traverse par une gorge profonde et on dit que le passage n'est pas tout à fait sans risques."{WORDDanger}
+"On entend parler d'agressions de voyageurs qui traversent la Grande Montagne."
+"Tharnos est le roi de tribu de Klouta." {WORDRoi de tribu}
+"Oibelos est notre roi, son nom soit loué!" {WORDRoi de tribu}
+"C'est le nom de la reine d'Aballon."
+"Nemos est le chef des druides d'Arjano, un homme respecté par nous et ses semblables."{WORDDruides}{WORDArjano}

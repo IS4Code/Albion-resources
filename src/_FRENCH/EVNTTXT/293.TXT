@@ -1,0 +1,4 @@
+﻿-libre-
+"Skeima Din,^^J'espère que vous êtes ici pour affaires."{BLOK010}"Nous sommes intéressés par des parures et des gemmes."{BLOK011}"Quel est votre métier?"{BLOK012}"Merci beaucoup pour cet entretien."
+"Adieu!"
+"Je polis des pierres brutes et puis j'en fais des parures, ou je les vends directement."

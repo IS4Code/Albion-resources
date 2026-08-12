@@ -1,0 +1,134 @@
+﻿-libre-
+Branches et racines.
+Un panier tressé.
+Un récipient en verre pour l'eau et d'autres boissons.
+Un fût.
+Une magnifique peau de bête.
+Un seau.
+Un bol en terre cuite.
+Une corne pour boire.
+Une assiette.
+Une cruche en terre cuite.
+Une cruche.
+Un couteau de table.
+Une fourchette.
+Une cuiller.
+Un récipient en terre cuite.
+Pierres.
+Un bol.
+Un outil de labour.
+Une hache.
+Un couvercle de coffre.
+Un coffre en bois.
+Un coffre en bois artistiquement décoré.
+Le petit endroit paisible.
+Un couvercle.
+Un grand baquet de bois.
+Un grand chaudron métallique.
+Une étagère.
+On peut voir dans cette étagère un tas de choses sans importance.
+Une commode.
+Un balai.
+Un gril.
+On peut faire cuire de la viande dessus.
+Un fourneau.
+Une carafe renversée.
+Une cuiller en bois.
+Une épée murale décorative.
+Une table en bois.
+Un tabouret.
+Un tabouret replié.
+Une table à manger massive.
+Une souche.
+Deux lances croisées.
+Un grand fût avec d'étranges boissons.
+Une chantepleure.
+Une couverture de lit.
+Un lit confortable et joliment décoré.
+Ce lit est modeste mais fonctionnel.
+Un bahut.
+Une cheminée.
+Le feu de cheminée diffuse une chaleur agréable.
+Un pot artistiquement confectionné.
+Herbes séchées.
+Un crâne humain.
+Un bouclier décoratif.
+Un pot en métal.
+Une épée décorative.
+Une porte.
+Un chaudron.
+Un couteau.
+Un stylet.
+Un poignard.
+Une dague.
+Un coutelas.
+Une épée.
+Une pointe.
+Un poignard de jet.
+Une petite hache.
+Une hache.
+Un petit arc.
+Un arc.
+Une flèche.
+Un petit bouclier de cuir.
+Un bouclier de cuir.
+Un bouclier rond.
+Un grand bouclier.
+Un bonnet de cuir.
+Un bonnet clouté.
+Un bol de métal.
+Un gilet de cuir.
+Une armure de cuir.
+Un cuir clouté.
+Une paire de chaussures.
+Une paire de bottes.
+Une bouteille vide.
+Une potion de soins verte.
+Une potion de soins turquoise.
+Une potion de soins bleue.
+Une clé.
+Une corde.
+Un anneau.
+Une torche.
+Un marteau plat.
+Un escalier qui monte.
+Un escalier qui descend.
+Un comptoir.
+Un paillasson en forme de tapis.
+Une plante d'appartement.
+Un pot de fleur.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+Platzhalter für weitere Cutmap-Events.
+"Qu'est-ce que vous faites ici?^^Si vous voulez aller à Beloveno, c'est au sud. Si vous voulez aller à Srimalinar, c'est au nord."
+"Vous avez déjà parlé à Kontos? C'est le grand chef de notre village. Il est très intelligent. Il peut vous en apprendre, des choses! ^^Dans la cave de notre grand chef, il y a une grande pièce dans laquelle nous tenons régulièrement des réunions. Kontos y expérimente aussi la magie du feu. C'est un excellent mage. Mais ses zones d'expérimentations sont protégées."
+"Skeima Din,^^vous avez certainement quelque chose que je pourrais vous acheter à prix d'or. C'est mon gagne-pain. J'achète des objets aux gens et je les revends. On en vit bien. Plutôt bien, je ne suis pas malheureux..."
+"Ne me touche pas, sinon j'appelle mon grand frère!"
+"Skeima Din,^^vous êtes déjà allé chez Kontos, notre grand chef? Il peut résoudre tous vos problèmes, à condition d'avoir le temps."
+"Vous connaissez la nouvelle? Il est maintenant prouvé qu'on fait des recherches sur la magie noire dans la Chose Sacrée de Srimalinar. Les doutes existent depuis longtemps, mais maintenant, nous avons des preuves. Les Iskais aspirent effectivement à la suprématie mondiale. Ces sales bêtes!^^ Ils font des recherches en cachette depuis des années pour trouver des armes miracles. Les créatures terribles que l'on rencontre de plus en plus souvent à proximité de la Chose Secrète en sont la meilleure preuve. Elles prouvent que la grande magie noire est utilisée et expérimentée en ce lieu. Kontos a tout à fait raison. Notre seule chance est de montrer notre force et d'éviter le pire. Certes, les habitants de Beloveno ne croient pas que nous ayons raison. Mais si nous attendons jusqu'à ce qu'ils s'en aperçoivent, il sera trop tard. Nous allons donc faire ce que nous avons à faire!^^Ah oui, si vous ne me croyez pas, allez donc voir ces fous d'Iskai vous-mêmes pour vous rendre compte. Je vous l'assure: ils ne vont pas vous laisser entrer dans leur Chose Sacrée, car sinon tout le monde saurait ce qui s'y passe. Ainsi, ils agissent sous le couvert d'un tabou et mènent le monde par le bout du nez. Nous n'allons pas tomber dans ce piège! S'ils le veulent, qu'ils le fassent croire à d'autres!"
+"Le moment est venu. Nous allons mettre fin à la magie Iskai et occuper leur soi-disant Chose Sacrée. Nous allons pouvoir résoudre le problème des créatures, que les Iskais appellent sans cesse. C'est le moment idéal. Si nous attendons encore, il sera certainement trop tard. Alors, aidez-nous, et battez-vous avec nous aux côtés de Kontos contre le mal et contre les Iskais. Nous allons maintenant nous rendre à la Chose Sacrée. Il faut vaincre les Iskais et contrer le mal en ce lieu. Venez donc nous aider!"
+"Vous avez quelque chose à vendre?"

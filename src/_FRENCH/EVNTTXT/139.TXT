@@ -1,0 +1,5 @@
+﻿{BLOK000}"Je suis artisane et je fabrique des récipients en terre cuite."{WORDRécipients}
+"Dsarii-ma! Alors, vous existez vraiment! J'avais déjà pris votre présence ici pour une rumeur."{WORDRumeur}
+"Dsarii-ma! Vous voulez encore quelque chose de moi?"
+"Oui, bon nombre de pots et de bols que vous voyez à Jirinaar sont de moi."{WORDJirinaar}
+"Hé bien, les gens racontent parfois beaucoup de choses et exagèrent encore plus."

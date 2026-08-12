@@ -1,0 +1,14 @@
+﻿{BLOK000}"Je n'ai pas encore de métier."
+Le visage de la fille est complètement gonflé. Des larmes coulent de ses yeux et, lorsqu'elle s'adresse à vous, elle parle d'une voix basse et tremblottante:^^"Vous avez vu la méchante femme qui ont poignardé ma môman?^^D'abord, elle lui a volé tout son or. Quand môman s'est défendue, elle a pris un couteau et le lui a mis dans le dos!"{WORDAgitation}{WORDPitié}
+"Tout le village est à la recherche de la femme. Tout le monde dit que Nelly est revenue. Nelly est une méchante femme. Tout le monde la cherche. Même le chef du village."{WORDNelly}{WORDRecherche}
+"C'est la méchante femme qui a poignardé ma môman, huuuhhhhh."{WORDMôman}
+"Elle était toujours là quand j'avais besoin d'elle. Et maintenant, j'ai plus personne."{WORDParents}
+"Les gens disent que je peux habiter dans la maison du chef du village. Mon pôpa ne vit plus depuis déjà un certain temps."
+"Je dois le dire à tous les gens ici, pour qu'ils aident tous à retrouver Nelly. Elle fait sûrement encore du mal! Ohl l'a déjà vu avant. Elle est sûrement encore dans la ville."{WORDOhl}
+"Oui, il aide à chercher.^^Vous aidez aussi?"{BLOK010}"Oui, bien sûr."{BLOK011}"Peut-être plus tard."{BLOK012}"Non, certainement pas."
+"C'est bien. Mais vous devez faire attention. Elle est très dangereuse!"{WORDDanger}
+"S'il vous plaît, aidez-nous."
+"Dommage."
+"Oui, elle a un couteau pointu. Et Ohl dit qu'elle a encore d'autres armes. Vous devez faire attention."
+"Merci!^^S'il vous plaît, aidez-nous à la chercher. Sinon Nelly va encore faire plus de mal."{WORDLe mal}{WORDRecherche}
+"Nelly doit aller en prison, parce qu'elle fait du mal. Elle a réussi à en sortir, on sait pas comment."

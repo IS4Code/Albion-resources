@@ -1,0 +1,5 @@
+﻿{BLOK000}"Je vends des fruits, du pain et de la viande."{WORDFruits}{WORDPain}{WORDChair}
+"Togi Din, mes voyageurs affamés. Puis-je vous proposer mes subsistances exquises?" {BLOK010}"Oui, nous aurions bien besoin de quelques vivres."
+"Je conseille des fruits séchés pour le voyage. J'ai de la marchandise spécialement bonne des célèbres vergers d'Aballon!"{WORDAballon}
+"Oui, de l'excellent pain longue durée d'ici et de Vanello."{WORDVanello}
+"J'ai de la viande salée et du poisson fumé de notre village."

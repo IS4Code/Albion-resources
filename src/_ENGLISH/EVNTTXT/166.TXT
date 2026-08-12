@@ -1,0 +1,3 @@
+﻿{BLOK000}"I deal in tools and various useful objects."{WORDuseful objects}
+"Togi Din, honored customers. Would you like to see my wares?"{BLOK010}"Yes, please. What can you offer us?"
+"Nun, I would gladly show you my wares..."

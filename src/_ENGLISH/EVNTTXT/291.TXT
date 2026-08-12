@@ -1,0 +1,3 @@
+﻿{BLOK000} "I am a trader. I buy and sell all kinds of things. My goods are always of the highest quality."
+"Welcome to my wonderful shop. You're sure to find something good here. Or would you rather sell me something? I can offer you other services too, thanks to my magic training. I can remove cursed objects and give you extensive information about the objects. Naturally all of this isn't free..." {BLOK010} "Can we take a look at your goods?" {BLOK011} "We would like to have an object investigated.{BLOK012}Please help us, we have a cursed object that we can't get rid of."{BLOK013}"Thanks for the talk."
+"Farewell."

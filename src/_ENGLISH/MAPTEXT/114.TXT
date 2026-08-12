@@ -1,204 +1,204 @@
-﻿
-
-
-
-
-
-
-
-
+﻿empty
+No member of the group is particularly eager to put their hand there.
+A large sofa.
+A large cabinet.
+A grill.
+A bed.
+A fireplace.
+The bedcover.
+Iskai cutlery.
 A plate.
-A receptacle.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A saucepan.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A container.
+A sausage.
+A ham-like piece of meat.
+A ladle.
+Different herbs.
+Fruits.
+A specialty meat.
+A drinking cup.
+A bowl.
+A spice.
+Small spice jars.
+A small cup.
+A kitchen knife.
+Cookies.
+A small sausage.
+This bottle contains an aromatic liquid.
+A cloth.
+A hand towel.
+A bucket.
+A roasting pan.
+A pot.
+Within this kettle, there is a small pot on a rod in which food can be heated slowly.
+A cushion.
+A large roasting pan.
+A fur brush.
+A water channel.
+A water basin.
+A water barrier.
+A large clay mug.
+A bureau.
+All kinds of unimportant small items lie in the drawers of this desk.
+A chest.
+This is a fairly large kettle. Perhaps it can store supplies, water, or food.
+In the water basin, there's a strange plant which pumps water out of the ground with its strong, pulsating motions. Apparently, this fountain serves as the water supply.
+The water in this pool smells bad and foul. This is probably where sewage is collected.
+Water plants.
+Herbaceous plants.
+An exotic plant.
+Climbing, grasping plant.
+Places for further Cutmap events.
+A staircase. It leads down through the floor.
+A staircase goes up through the floor.
+This is apparently some kind of bed. It is filled with sand, which offers astounding comfort because of its coarse but rounded grains.
+The enormous shape makes this look like sitting furniture. It acts like a plant. It has apparently grown. The surface is soft and elastic.
+The fountain of the house.
+The water channels probably serve for the drinking water supply. They run through the house like small brooks.
+The musty odor and the holes in the object lead to the conclusion that this is a kind of toilet. This "furniture" is also made from plants, and thrives vigorously because of its regular fertilization.
+This is where the really urgent activities in life are performed.
+A sweet, tart smelling dish is cooking in this pan.
+A seat.
+A massive wooden table.
+A large-leafed plant.
+A door.
+A knife.
+A short dagger.
+A dagger.
+A large dagger.
+A short sword.
+An Iskai knife.
+An Iskai dagger.
+An Iskai stiletto.
+An Iskai short sword.
+A large Iskai stiletto.
+An Iskai sword.
+A large Iskai sword.
+An Iskai long sword.
+An Iskai lance.
+A large Iskai dagger.
+A short Iskai stiletto.
+A large Iskai stiletto.
+A large Iskai sword.
+A small bow.
+A bow.
+An arrow.
+A long arrow.
+A leather shield.
+A small Iskai shield.
+An Iskai shield.
+A large Iskai shield.
+A leather cap.
+An Iskai leather cap.
+An Iskai metal cap.
+An Iskai metal helmet.
+An Iskai chest protector.
+An Iskai metal chest protector.
+Light Iskai armor.
+Iskai armor.
+An empty bottle.
+A green healing potion.
+A turquoise healing potion.
+A blue healing potion.
+A red drink.
+A violet drink.
+A blue drink.
+A key.
+A rope.
+A torch.
+An Iskai notepad.
+A piece of paper.
+An Iskai ring book.
+An Iskai ring pad.
+A pencil.
+A short pencil.
+A bench.
+This seat literally grows out of the ground and is quite comfortable.
+A wooden pole. There is a sign on the top.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+Place holder for further Cut-Map Events.
+{CNTR} The inscription says: ^ ^ {INK 006} Room of the Stri Dji-Kas
+{CNTR} On the shield it says: ^ ^ {INK 006} Room of the Dra Dji-Kas
+The tree looks very strange; its roots lie on the stone floor. Nevertheless, it appears to be very healthy. What's keeping it alive is unknown.
+"Dsarii-ma. No matter what else is going on, I have to concentrate on my studies. The other Dra think I am crazy, but magic is more important to me than their petty business."
+"Dsarii-ma. Please look for someone else to talk to, I have to think."
+{INK 001} The person they speak to does not react. He appears to be thinking deeply.
+"Dsarii-ma, visitors of our guild. Excuse me, I still have a lot to do."
+"Darn it! Another experiment failed! Krrrrsss! You better find someone who is in a better mood to talk to!"
+{INK 001} The person they speak to acts very absent-minded. With a glance toward Tom, he says: ^ ^ {INK 002} "Say, human, do you also have times when you can't think of anything but one certain woman? Ah, it doesn't matter..."
+"Dsarii-ma, Dsarii-ma. I'm looking for my test data again. These young Dra have nothing but nonsense in their heads. Anyhow, they always manage to... Excuse me."
+This door leads outside.
+{FAHI}--SCRIPT SEQUENCE--{NORS} ^ ^ The fugitive murderer has been seen in this house, the bribed Dji-Kas Kriis says that he never gave the order for the murder. Sira is frightened and has disappeared.
+When {LEAD}{NAME} attempts to examine the contents of the chest, the warehouseman notices and says:
+"Honored Guests, this is not a store or market! ^ ^ I must ask you to leave our possessions alone!"
+A stone area is embedded in the moss floor.
+Fasiir leads his visitors into a room with a stone area in the moss floor.
+"The most beautiful part of magic is that it can create things, even if it is only everyday objects. ^ ^ See here!"
+"Driscoll, I... Did you see that? That is... I mean... ^ ^ I'm going crazy! The tree is real! That was no trick!"
+"That is really something! These guys are no fakes, that's for sure. That was beyond any growth accelerators."
+"A kingdom for a couple of measuring instruments! They cannot poke fun at the laws of physics!"
+"I see, admittedly with satisfaction, that I was able to eliminate your doubts. I hope you now think a little bit differently of our talents. ^ ^ It was an honor for me to speak with you, {LEAD}{NAME}. Look around our place some more if you'd like, but for now I must return to my work."
+"In any case, thank you very much for the impressive demonstration of your abilities, Fasiir."
+"Dsarii-ma, hunters of Akiir's murderers! ^ ^ Let me assure you, we had nothing to do with the murder of Akiir! Kriis, that traitor, has paid bribes which brings suspicion on Fasiir, our leader."
+"Dsarii-ma. You are searching for Akiir's murderer, right? Find the truth and you will discover that Fasiir and our guild are innocent of the crime!"
+"Dsarii-ma, Hunters of the Murderer. Unfortunately, I cannot tell you anything about the incident except that we would never commit such a crime. Kriis, that trader, lied!"
+Tom and Rainer, as well as their new companion, Drirr, enter the guild house of the Dji-Kas Magicians. They are accompanied by two Stiriik, the local police. First they meet Sira, the daughter of the murdered Akiir, who has "defected" to the guild of the Dji-Kas.
+"Have you heard about the death of your father, Sira?"
+"Yes, I... never even got the chance to speak to him again. Oh, Goddess, it is... ^ ^ Do you know who's behind the murder?"
+"I grieve with you, Sira. No, we still have no clue. However, they say that the fugitive murderer has been seen near this building."
+Fasiir, the Head of the Dji-Kas Magicians, enters.
+"Dsarii-ma. I have heard about Akiir's murder. What brings you to us?"
+"The murderer was seen near your guild. May we look around a little?"
+"Of course. We have nothing to hide. ^ ^ Come!"
+Suddenly an Iskai and a human emerge in the corridor. ^ ^ {FAT } He is the fugitive murderer! {NORS} When the Iskai notices he has been seen, he throws a glowing seed!
+When the blinding light passes, only the Iskai remains. The murderer has disappeared!
+"I believe that the murderer has disappeared to the south! After him! Stiriik, take this accomplice!"
+"Damn! He escaped through a window again."
+Drirr turns to the Iskai who produced the blinding light.
+"Well, who are you and why have you helped the murderer escape?"
+{INK 001} Fasiir, the chief of the Dji-Kas, intrudes: ^ ^ {INK 002} "His name is Kriis, he is, WAS, a member of our guild. ^ ^ Kriis, you miserable skorrek, why did you let the murderer come into our building?"
+"But Fasiir, you, yourself, gave me the order! And now you want to sacrifice me? That won't get you anywhere! You paid the murderer yourself!"
+"WHAT? ^ ^ Are you out of your mind? Drirr, don't believe a word of it! I had nothing to do with this thing!"
+"I know the reason for the hostility between you, Fasiir, and Akiir very well. You have a motive for the murder!"
+"After all these years, would I choose this time to..."
+"Stiriik, please take Kriis and Fasiir into custody until we have caught the murderer and have found out the truth."
+"Drirr, I would like to leave. I cannot stay here any longer. I have to be alone and think everything over."
+{INK 001} Drirr turns to Tom and Rainer: ^ ^ {INK 002} ^ ^ "We almost had the murderer! In any case, he's no longer in this house. Perhaps we can still catch him somewhere in the city."
+All need some time before they can see anything after the blinding light.
+"Good, Drirr, we'll go. Only one more thing: ^ What is the story between Fasiir and the murdered Akiir?"
+"Well, to make a long story short, Akiir was once married to Fasiir's sister. On a hunting trip with Akiir, Fasiir's sister lost her life. Fasiir blamed Akiir for the death of his sister since Akiir insisted on the trip in spite of bad weather. That is the reason for their lasting enmity. ^ ^ Now, let us search the city."
+{CNTR} On the shield it says: ^ ^ {INK 006} West: Rejira, the Healer
+{CNTR} On the shield it says: ^ ^ {INK 006} Warehouse of the Dji-Kas. Sales only from 7 a.m. to 9 p.m. by Stri Krai
+{CNTR} On the shield it says: ^ ^ {INK 006} Workroom of Fasiir, chief of the Dji-Kas

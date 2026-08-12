@@ -1,148 +1,148 @@
 ﻿ 
 A fuse box.
 An armchair.
-A couch.
-The control desk of the nuclear reactor.
-
+A cot.
+The control panel for the nuclear reactor.
+A service panel.
 A control console.
 A flight control console.
-A control desk.
+A control panel.
 A chemical toilet.
-A cupboard.
+A cabinet.
 A wash basin.
 Hand towels.
-Tooth brushes and toothpaste.
-An indicator for corridor security.
-Security indicators.
-Part of the reactor.
-Containers for garbage, water, toxic material and raw materials.
-A console, turned off.
+Toothbrush.
+A corridor surveillance monitor.
+Control monitors.
+A part of the reactor.
+Barrels with trash, water, raw, and toxic materials.
+A switched-off console.
 A lamp.
 A plate.
 A glass.
-A tumbler.
-A receptacle.
+A beaker.
+A container.
 A bottle.
-A pot.
-A can.
-A receptacle for fluids.
-A salt and pepper shaker.
+A metal can.
+A box.
+A container.
+Salt and pepper shakers.
 Soy sauce.
-A saucepan.
+A pot.
 A small can.
 A shovel.
 A spade.
-A spanner.
+A wrench.
 A screwdriver.
-A hand console.
-
-A pair of pliers.
-Cutlery and a mug.
-Crockery.
+A portable, hand-held console.
+A PDA (personal digital assistant).
+Tongs.
+Cutlery and a drinking cup.
+Dishes.
 An automatic door.
-A Shuttle.
-Containers.
+A shuttle.
+A container.
 A shower.
 A vehicle.
-
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A keypad for entering number codes.
-{TECF}{CNTR}ENTER ENTRY CODE:
-{TECF}{CNTR}INCORRECT CODE. ENTRY REFUSED.
-{TECF}{CNTR}CODE CORRECT. OPENING SERVICE PANEL.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Ground markings.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+The security guards are barely out sight of the others when Tom feels a sharp pain in the neck. The injection makes everything around him turn to darkness.
+Sometime later, Tom comes to in a hospital bed.
+"Damn! My head! What was that stupid stunt all about? Have they all gone nuts?"
+"The door is barred! Driscoll, you're in trouble. Something is wrong here."
+The door is barred and cannot be opened.
+A console for monitoring body functions.
+"They've turned this hospital room into a prison cell!"
+"Tom! Wait, I'm trying to come in!"
+The door opens suddenly and Tom's old friend Joe comes in.
+"Joe! Finally, a friendly soul! What's going on? Why am I held here like a crimi..."
+"Stop, stop! Quiet down, man. ^ ^ First, it's great that you're still alive. We had pretty much written you and Hofstedt off."
+"Sorry, old man. I'm happy to see you, too."
+"That's good. I don't know how much time we have. You might have noticed that I opened the door with a doctored card."
+"I already guessed that your visit here was unofficial. Just tell me what happened!"
+"I can't right now! First, you tell me. Everything, short and sweet."
+"Short and sweet? Man, you've no idea..."
+Tom describes his unbelievable experiences as compactly as possible. He reports on the Iskai and humans and his adventures on a world swarming with life. ^ ^ Joe becomes more and more astonished.
+"Wow. I have to digest this sitting down. ^ ^ If I hadn't known you for so long I'd actually believe that you were a little nuts. All of that actually happened?"
+"You know that I couldn't have made all of that up. Hofstedt can confirm everything for you if he had not remained with the Dji Cantos."
+"Yes, that would help explain it. But that this world is..."
+"Now it's your turn, my friend. What happened here."
+"Everything is going as normal. And that's exactly the problem."
+"You aren't going to tell me that nobody here has noticed that something is wrong with this planet!"
+"Think a minute! If you had landed on Earth in the middle of the Gobi Desert, and had seen nothing more of the planet, what would you think then?"
+"The landing site was chosen cleverly, that's for sure. That only leaves the conclusion that the AI and Captain Brandt gave false data to the crew."
+"Obviously. But aside from that, several things have happened. ^ ^ The fact that the atmosphere is more breathable than was believed before is hard to ignore. ^ ^ In addition, during the first mining, we ran into awfully strange and tough beasts. Such highly developed forms of life could hardly be present on an almost lifeless planet."
+"And no one became suspicious."
+"Well. The creatures were repulsed by the security forces. In the beginning there was a completely crazy series of inexplicable crashes and accidents. That kept us so busy that we hardly had time to sleep, let alone think. ^ ^ The captain opted for the "brute force" method. It cost us a lot of ammunition and material, but with all of the armament we brought with us, we simply glided over all of the problems. ^ ^ Slowly, all of the incidents subsided. The bonuses were doubled, and many on board just looked the other way. No one else had an opportunity to learn anything about this world. After all, you know its forbidden to leave the installation area ."
+"It all fits together perfectly. It's now very clear why they've put me in cold storage. ^ ^ I was too naive. However, I would never have suspected DDT would use such drastic methods. Somehow someone will find out!"
+"Maybe. Maybe not. ^ ^ Of course, the death of Inspector Beegle now appears in a new light."
+"Right. He could have noticed the manipulation of the probe data and tried to make contact with his office when they discovered him."
+"The intentional overloading of the over-c console can only be done by Ned, the onboard computer. If the AI is actively involved in the whole affair, and we have to assume that, then we should be very careful. There's not much on board the Toronto which cannot be controlled by the AI."
+"Nevertheless we have to get out of here and talk with the other people on board! I know a lot of them. When they know everything about this world, I cannot imagine that they will continue to work on the destruction of the planet, bonus or no."
+"Maybe. In any case, it 's going to be enough trouble just to stop the operation. ^ ^ But that's not the problem. The problem is the AI."
+"What can it do? Cut off our power? Ned may have cameras, but there certainly aren't machine guns screwed to them."
+"A couple of weeks ago, I discovered something that probably only a few people on board know: There is not just one of the artificial bodies through which the AI communicates with us. There are dozens! ^ ^ And the things are dangerous, especially in this number. If Ned is in the position to control all bodies at the same time, and gets serious, there will be a massacre!"
+"Oh you're kidding me! You mean, DDT would use force against its own people?"
+"You can figure that out for yourself. If a ship of this size does not fulfill its mission, it is a major financial loss. ^ ^ It would be the end of the company. ^ ^ That's a motive for extraordinary efforts and measures, don't you think?"
+"O.K. ^ ^ I could tell you a long story about how this planet and its inhabitants have become a part of me on my long journey here and so on and so forth. ^ ^ I'll add only one thing: ^ ^ This world will only be dug up over my dead body, O.K.?"
+Joe looks at Tom quietly for a while. After pausing to think he says:
+"There must be fantastic places in this world and I would surely like to see them. ^ ^ I'm sure I'll regret it, but... I'm with you."
+"What can I say? I..."
+"How about 'Thank you' ? Ha, forget it!"
+"Do you have any idea what we can do next?"
+"We have to try and paralyze the AI's energy supply. Then, we can speak to the entire crew and the security people. I'm assuming that the security people aren't all blood-thirsty. Then, we could have a little revolution without running the risk of a blood bath by the AI bodies."
+"I'm assuming that we can't simply pull the plug on the AI, right?"
+"I knew you were gonna ask that. ^ ^ The Central Computer which contains Ned's artificial mind is located in a special housing which even outer space conditions can't hurt. The energy supply is wireless. Our only chance lies in the central control room of the fusion power plant. There has to be a console there which can interrupt the energy transfer to the AI."
+"What are our chances of getting in there?"
+"Normally not so good. ^ ^ However, two things can help us. First, the power plant is in the same section we're in now. Secondly, the AI is conferring with the captain, probably about you, right now. Ned's verbal communication with a human being always requires more computer time than all other tasks. This means that the Toronto continues to be controlled, but other CPU-intensive tasks are suppressed. ^ ^ For example, the visual evaluation of camera pictures. ^ ^ To cut a long story short: we could try to reach the power plant room unnoticed through the service level, cut off the AI, and tell the people on board about this planet."
+"Sounds good. Off to the power plant."
+"That's all you can say about it? ^ ^ Well. First, we have to find an access to the service deck. They have cleared this section, but we shouldn't leave this section, otherwise we'll have security down on our backs immediately. They will lock us up before you can let out a peep of your story."
+"Sounds good! Let's go!"
+A door opener. ^ ^ Beside the keypad there is a slot for inserting code cards. ^ ^ The code has already been entered.
+A door opener. ^ ^ Beside the keypad there is a slot for inserting code cards.
+"There has to be a service panel behind this door where we can climb down into the service level."
+"This lock leads outside. It's sure to have a high alarm priority. If we open it, we'll have the AI and the security forces down on our necks immediately."
+"This goes into the main area of the medical station and the quarters of the security forces. There's a lot of people there. It would be better if we try and find an entrance to the service level from here."
+"Can you open the door? It shouldn't be more difficult than how you opened my door, right?"
+"Oh, probably. But, I only had {FAT } one {NORS} programmable card. Do you know how difficult it is to come by those things? Moreover, it looks as if this door can only be opened with a code."
+"And where are we to get this code?"
+"No idea."
+Here's a piece of paper with a code number on it.
+"Ha! There's nothing like human failure! ^ ^ It's good that there are so many people who can't remember their code numbers. Let's try it!"
+A keyboard for entering numerical codes.
+{TECF}{CNTR} ENTER ACCESS CODE.
+{TECF}{CNTR} WRONG CODE. ^ ^ ACCESS DENIED.
+{TECF}{CNTR} CORRECT CODE. SERVICE PANEL OPENING.
+"Ah, the service panel. The code for this access is 1712."
+"The access code is 1712."
+{TECF}{CNTR}CODE CORRECT. OPENING DOOR.
+The door is locked.
+There's a green code card in this cabinet!
+When Tom looks at the lock more closely, Joe says:
+"I'm going to repeat it again: leave the thing alone. We're sure to trigger an alarm."
+A number of stimdrinks are stored here.
+"Well, from that paper we found, man!"
+A ladder. It leads downward.
+On the way through the service deck, Tom and Joe barely escape the security forces. ^ ^ They run quickly through the infirmary area to find the lock to the outside.
+Tom and Joe have almost reached the lock to the outside, when they see one of the AI bodies blocking the way to freedom!
+"Tom Driscoll, Joe Bernard, your resistance against ship rules and your apparent readiness to go against the interests of the firm unfortunately make drastic measures unavoidable. ^ ^ I'm sorry."
+The AI body raises a weapon!
+Damaged by the fireball, the AI body staggers around helplessly.
+"My God! ^ ^ What was {FAT } that {NORS} ? How'd you do that?"
+"A little present that they gave me on the island of the Dji Cantos. ^ ^ Any more questions?"
+"Dozens. But no more doubts about your story."
+"Good. ^ ^ O.K., let's beat it. It will be hard enough to get through the desert unnoticed."

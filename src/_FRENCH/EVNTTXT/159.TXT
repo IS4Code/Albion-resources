@@ -1,0 +1,9 @@
+﻿{BLOK000}"Je suis une guerrière."{WORDGuerrière}
+"Togi Din, étrangers. Vous désirez?"
+"Ne dites rien! Je sais que ça vous semble un métier inhabituel pour une femme! Même si, le plus souvent chez nous, la femme garde les enfants et le foyer, il est tout à fait possible pour une femme, qui en a la force et la volonté, d'exercer tous les métiers. Regardez-moi, je peux me mesurer avec n'importe quel homme au combat, et j'en ai renvoyé déjà plus d'un chez le guérisseur, qui se sentait plus fort!" {BLOK010}"Ferina, vous avez peut-être envie de m'entraîner au combat rapproché?"
+"Je n'aime pas trop répéter les choses!"
+"Togi Din! Vous voulez vous entraîner encore un peu?" {BLOK010}"Oui, j'aurais encore besoin d'un entraînement au combat rapproché!"
+{INK 002}"Bon d'accord, {LEAD}{NAME}, donnez-moi {PRIC} or et je vous apprendrai des coups, dont vous ne soupçonnez même pas l'existence!"
+Ferina peut avoir l'air vantarde, mais elle connaît son métier. Après quelque entraînement avec elle, {LEAD}{NAME} sent que ses aptitudes au combat rapproché se sont améliorées.
+"Repassez donc, si vous voulez en apprendre plus, {LEAD}{NAME}.^^Adieu!"
+{LEAD}{NAME} remet la somme. L'entraînement avec Ferina commence.

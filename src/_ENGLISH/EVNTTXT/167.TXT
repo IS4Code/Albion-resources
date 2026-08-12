@@ -1,0 +1,2 @@
+﻿{BLOK000}"I am the weapon smith of Vanello."
+"Togi Din, travelers. What can I offer you to make your journey easier?"{BLOK010}"Please show us a selection of your weapons."{BLOK011}"Can you repair this..."{BLOK012}"Farewell."

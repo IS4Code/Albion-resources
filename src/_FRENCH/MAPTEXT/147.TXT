@@ -1,0 +1,79 @@
+﻿vide
+Un interrupteur mécanique.
+Au mur il y a une petite touche mécanique.
+Un interrupteur minuscule est encastré dans le mur, qui passe facilement inaperçu.
+Une dalle. Il semble qu'elle peux s'enfoncer sous les pas.
+Une porte.
+La porte est solidement verrouillée, il n'y a aucun verrou apparent.
+Une herse baissée. Elle n'a pas de verrou.
+Un puits rempli d'eau claire.
+Une flamme incandescente sort d'un disque en cuivre visible au sol.
+Un disque en cuivre sur le sol.
+Un disque en cuivre avec une grande ouverture.
+Une flamme baladeuse. Elle émet beaucoup de chaleur.
+Un mur transparent en matériau très solide.
+Ceci semble être une sorte de champ magnétique. Il émet un son à peine audible, les cheveux se dressent quand on s'approche et une douleur aiguë traverse les dents.
+Un gros trou dans le sol.
+Une ouverture est visible au plafond.
+Une colonne florale qui décorait jadis ces pièces.
+Des sièges témoignent que ces pièces étaient autrefois habitées par des hommes.
+Un tabouret pourri.
+Un vieux fût.
+Un vase couvert de poussière. {LEAD}{NAME} jette un oeil à l'intérieur, mais ne trouve rien.
+Un coffre orné de métal.
+Un tas de bric-à-brac. {LEAD}{NAME} fouine un peu là-dedans, mais ne trouve rien d'utile.
+L'interrupteur ne bouge plus.
+Le mur paraît friable à cet endroit.
+{LEAD}{NAME} donne de grands coups contre le mur. Il s'écroule!
+{LEAD}{NAME} remplit un seau d'eau.
+{LEAD}{NAME} marche dans la flamme et se brûle!
+{LEAD}{NAME} verse un seau d'eau sur les flammes et les éteint!
+Une autre flamme est éteinte.
+{LEAD}{NAME} entre dans le champ magnétique, et aussitôt une douleur terrible traverse son corps! Le champ magnétique s'agrandit et touche le groupe!^^ Après d'interminables secondes, l'apparition lumineuse s'évanouit.
+Le champ magnétique s'effondre lors du contact avec la baguette! La baguette, elle, tombe en poussière.
+Tout le monde peut se hisser vers le haut à l'aide de la corde!
+Une boule de feu volante. Elle émet une chaleur insupportable.
+Brusquement, tous ressentent une douleur insupportable, comme une brûlure: une boule de feu s'est approchée très près!
+"Incroyable. Je ne comprends pas tout à fait ce qui maintient la boule de feu en l'air. Est-ce une bulle de gaz en feu? Mais comment peut-elle être aussi solide, alors? Mystère."
+"Je commence à douter de ma raison! Ce champ ne semble pas être d'origine électrique et il n'y a pas non plus de source d'énergie apparente. Zut, mais qu'est-ce qui peut bien l'alimenter? Cette planète semble avoir été créée pour remettre en cause les fondements des sciences naturelles."
+La dalle s'enfonce un petit peu.
+Dalle enfoncée.
+Ce mur est traversé par de nombreuses failles profondes.
+Saleté 
+Platzhalter
+Platzhalter
+Platzhalter
+Platzhalter
+Platzhalter
+Platzhalter
+Platzhalter
+Platzhalter
+Le mur disparaît en un clin d'oeil dans le plafond!
+Les murs rouges disparaissent et libèrent les créatures!
+La porte située à droite des interrupteurs s'est ouverte!
+La porte ne bouge pas, elle est bloquée.
+"Mes amis, c'est de ma faute si nous sommes tombés. {FAT }Je{NORS} vais traverser ces champs lumineux pour que nous puissions progresser."
+Le plafond s'est déjà refermé quand le groupe atterrit bruyamment sur le sol de l'étage inférieur!
+"Drirr! Tu vas finir par tous nous tuer! Ne touche pas à des interrupteurs avant que nous soyons tous d'accord!"
+"Aïe, mince, ça fait mal! Oui, vous avez peut-être raison. Je vais essayer de me maîtriser. Avant de me bouffer, essayons de savoir où nous avons atterri."
+"Dirr est blessé et inconscient! Il a chèrement payé sa curiosité."
+{LEAD}{NAME} actionne l'interrupteur et un mur s'élève sur sa droite. Malheureusement, c'est le mur qui est DERRIERE celui qui barre le passage.
+Le mur vert s'élève, mais quelque chose semble avoir bougé derrière!
+Les murs rouges disparaissent et libèrent les créatures!
+Oh, mon Dieu! Sortons d'ici tout de suite! Nous pourrons peut-être enfermer les monstres!
+Le groupe tombe dans le trou!
+La porte de droite se ferme.
+La porte de droite s'ouvre.
+"J'ai un mauvais pressentiment. Regardez les bêtes derrière les murs: Tout ça sent le piège!"
+"Exact. Mais la dalle de commande là-bas est verte. Jusqu'à maintenant, elles ont toujours eu des effets positifs."
+Une herse. Elle paraît mobile.
+Accepter la proposition de Drirr?
+"Ton courage est remarquable, Drirr. Je ne vois pas d'autre solution non plus. Bonne chance."
+"Hors de question! Il doit y avoir un autre chemin. C'est de la folie pure de traverser tous ces champs lumineux."
+Drirr respire un grand coup et s'élance à travers tous les champs lumineux!^^Il crie de douleur et s'effondre au dernier champ lumineux.
+"O Déesse! Le pauvre! Apportons lui des soins le plus vite possible!"
+Le bruit sourd d'une herse qui s'ouvre retentit.
+{LEAD}{NAME} pense apercevoir quelque chose d'intéressant dans le bric-à-brac!
+Une petite lame enduite de poison entaille le doigt de {LEAD}{NAME}!
+{LEAD}{NAME} et les autres utilisent une corde pour descendre dans le vide.
+"Que d'éboulis par ici! On dirait une carrière."

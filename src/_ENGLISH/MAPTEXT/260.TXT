@@ -1,159 +1,159 @@
-﻿
-
-
-
-
-
-
-
-
+﻿-free-
+Branches and roots.
+A woven basket.
+A glass vessel for water and other drinks.
+A barrel.
+A magnificent animal pelt.
+A bucket.
+A clay bowl.
+A flask.
 A plate.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-Place marker for other Cutmap Events.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A clay mug.
+A mug.
+A table knife.
+A fork.
+A spoon.
+A clay container.
+Rocks.
+A bowl.
+A farming tool.
+An ax.
+A chest cover.
+A wooden chest.
+A lavishly decorated wooden chest.
+The rest room.
+A cover.
+A large wooden tub.
+A large metal kettle.
+A cupboard.
+All kinds of insignificant items are on these shelves.
+A bureau.
+A broom.
+A grill.
+You can grill meat on it.
+A fireplace.
+A tipped-over carafe.
+A ladle.
+A decorative wall sword.
+A wooden table.
+A stool.
+A folded stool.
+A massive dining table.
+A tree stump.
+Two crossed spears.
+A large barrel filled with strange liquids.
+A faucet.
+A bedcover.
+A comfortable and beautifully decorated bed.
+This bed is plain, yet practical.
+A kitchen table.
+A fireplace.
+The fireplace radiates a pleasant warmth.
+A decorated pot.
+Dried herbs.
+A human skull.
+A decorative shield.
+A metal pot.
+A decorative sword.
+A door.
+A kettle.
+A knife.
+A short dagger.
+A dagger.
+A large dagger.
+A short sword.
+A sword.
+A stiletto.
+A throwing dagger.
+A small ax.
+An ax.
+A small bow.
+A bow.
+An arrow.
+A small, leather shield.
+A leather shield.
+A round shield.
+A large shield.
+A leather cap.
+An embossed cap.
+A metal half-bowl.
+A leather vest.
+Leather armor.
+An embossed leather vest.
+A pair of shoes.
+A pair of boots.
+An empty bottle.
+A green healing potion.
+A turquoise healing potion.
+A blue healing potion.
+A key.
+A rope.
+A ring.
+A torch.
+A hammer.
+Stairs. They lead upward.
+Stairs. They lead downward.
+A counter.
+A carpet mat.
+A houseplant.
+A flowerpot.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+Places for further Cutmap events.
+This barrel is broken and probably unusable.
+This is the exit.
+Snacks and cold meals are prepared here.
+The group has just entered "The Open Path Inn." It is stuffy and warm in the tavern. The lively chatter of the numerous guests makes normal conversation almost impossible.
+{CNTR} On the shield it says: {INK 006} Announcement.
+{CNTR} On the shield it says: {INK 006} City Park Hotel: Overnight Stay Without Bathroom Privileges.
+This door has a delicate lock, and serves as a passage between the tavern and the boarding house. However, since both buildings can be reached from the street, there is no need to open the door.
+Tom is already caught up in the hustle and bustle...
+"I believe the bar is inside."
+"I don't like it when strangers talk to me. I won't join your religion sect and I won't buy any documents from you. Please do not disturb me any longer."
+"Please give me a little money. Do you have any spare change for me?"
+{LEAD}{NAME} gives the beggar 0.8 gold coins. ^ ^ "Thank you very much!"
+{LEAD}{NAME} gives the beggar 0.8 gold coins. ^ ^ "Oh, that's really generous. As thanks, I'd like to tell you a little secret. The host keeps all of his money in the kitchen under a towel on the shelf! Remember, you didn't hear it from me."
+"It's a shame."
+"I advise you to take torches and a rope with you when you visit any of the caves in the great mountains. I got lost there once."
+"Bah-What kind of conceited characters are you? You probably think you can impress me, huh? Well, you're wrong. I only let myself be impressed by extraordinary people-like Khunag, when he shows me one of his spectacular magic tricks. Have you met him yet? A funny guy. I think he's a rebellious Druid of the Kenget Kamulos, but it's hard to figure him out. He lives with Kariah."
+"Have you been in our guest house? Travelers of both sexes like to visit it. Perhaps you've already met Kariah, she works there. She's always very friendly and talkative, but sometimes this causes problems. You can imagine that some customers don't appreciate it very much."
+"How time passes-When I was as young as you are, I was able to enjoy life in an entirely different way. Old age does have its advantages, but you haven't learned that yet."
+"I have to go eat now. Just let me through. Hmm, you're not from here, right? More and more strangers are wandering around here. But don't take it personally: it just strikes me as odd."
+"I am Gato Mork, Keeper of the Holy Law, and I order you to spend 1000 gold coins to a good purpose-or I will rip your hide with my knife, ha ha. Seriously, right now I'm reading a book about the famous Gato Mork, who supports the poor and keeps an eye on the rich. He always used his life for justice. He was a great man."
+(coughs) "I can hardly stand it in here. The air is just horrible! It stinks, it's hot, and it's so loud that you have to shout in order to be heard. If my boyfriend didn't always drag me into places like this, it would be so much better for my lungs. But he likes to go to bars like this, and I simply love him."
+"Would you like a room for the night?"
+Suddenly, an old acquaintance from Jirinaar stands in front of {LEAD}{NAME}. It is Frill, the historian of the council, who helped uncover the murder plot with his knowledge about Bradir's dagger.
+"Dsarii-ma! I am so glad I finally found you!"
+"Dsarii-ma, Frill! What a surprise to see you again! Why are you looking for us?"
+"I would like you to come with me to a place where some people are interested in talking with you. I cannot say more until we are there."
+"It sounds very secretive, honorable Frill. But we'll be glad to do it if this will help us get closer to our goal."
+"Oh, I can guarantee it!"
+"But first, we must try to mediate in the conflict that is about to occur between the Iskai from Srimalinar and a Celtic village. You should know that Mellthas and I have a special interest in friendly coexistence of humans and Iskai." {INK 001} Sira elaborates on how she and Mellthas have become closer, and about the threatening confrontation between the Celts and Iskai.
+"I completely and entirely agree with you. You must try to prevent the worst! The last thing we need is a war between our races. I will wait here at the Inn until you have tried your best. Good luck!"
+"Promise me something and then give nothing, that's just what I want!"
+90 gold pieces are hidden here. Should Tom and the others become thieves?
+"You must talk to Kariah from time to time. Because of her profession, she has lots of crazy stories to tell. You can generally find her in her home."

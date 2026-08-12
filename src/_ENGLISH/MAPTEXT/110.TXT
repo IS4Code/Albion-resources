@@ -1,47 +1,47 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿{BLOK000} Council Building, Seat of the Sebainah {BLOK001} City Gate {BLOK002} House of the South Wind Clan {BLOK003} Dji-Kas Guild (Magicians) and Healer {BLOK004} Dji-Fadh Guild (Formers) {BLOK005} Tavern "House of the Winds"{BLOK006} Weapon Smith {BLOK007} Food Shop {BLOK008} Mixed Goods {BLOK009} Battle Trainer
+{CNTR} On the shield it says: ^ ^ {INK 006} Jirinaar Council House
+{INK 001} The young Iskai is not used to the look of human beings. He begins to giggle uncontrollably and can't get a word out.
+"Dsarii-ma! I have to tell my sister I've met you! She will be so jealous!"
+"Dsarii-ma, Guests of the City. Behave peacefully and friendly and you will have no problems here."
+"Dsarii-ma. Be careful in the harbor area. There are a lot of hotheads there."
+"Dsarii-ma, Guests of the City. Enjoy your visit to our city!"
+"Dsarii-ma, visitors! I hope you like the many charming views which our city has to offer."
+"I do not wish to talk to you."
+"Dsarii-ma. Isn't the size of the city fantastic? I live in the countryside and it never ceases to amaze me!"
+"We'd better not tell him that many apartment complexes on Earth have more residents than all of Jirinaar..."
+"Dsarii-ma. Don't get into trouble, we Stiriik cannot be everywhere."
+{CNTR}The shield announces: ^ ^ {INK 006} Wanja, House of Useful Goods. ^ Enter from the 6th to the 19th hour.
+{CNTR} On the shield it says: ^ ^ {INK 006} Snird House of Weapons. ^ Welcome from the 10th to the 20th hour.
+{CNTR} On the shield one can read: ^ ^ {INK 006} Zirr & Viri's House of the Winds. ^ Public House.
+{CNTR} The inscription says: ^ ^ {INK 006} Frinja, House of Good Food. ^ Open from 6 a.m. to 9 p.m.
+{CNTR} On the shield it says: ^ ^ {INK 006} House of the South Wind Clan.
+{CNTR} The following can be read on the shield: ^ ^ {INK 066} Guild House of the Dji-Kas.
+{CNTR} The shield says: ^ ^ {INK 006} Guild House of the Dji-Fadh. ^ Guild Members' Entrance.
+{CNTR} The inscription says: ^ ^ {INK 006} Guild House of the Dji-Fadh. ^ Public Entrance.
+The door is latched and no one reacts to {LEAD}{NAME}'s knocking. The shop must be closed.
 This door is locked.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{LEAD}{NAME} is addressed by one of the Iskai dressed in battle armor standing beside the city gate. ^ ^ {INK 002} "Dsarii-ma, Visitor of our City. I must ask you not to leave the city before you have spoken with Sebainah Janiis. ^ Moreover, the wilderness which surrounds Jirinaar is dangerous for strangers who are not familiar with the area."
+"Dsarii-ma, visitors of our city. I must ask you not to leave the gate before you have spoken with Sebainah Janiis. ^ Moreover, the wilderness which surrounds Jirinaar is dangerous for strangers who are not familiar with the area."
+"By the way, my valued colleagues, here is the main building of the Stiriik. Of course, only Stiriik can access the building so we won't be able to go sightseeing. But, just between us, we won't be missing a lot."
+"Dsarii-ma! Don't forget to speak to Sebainah Janiis."
+{INK 001} Tom and Rainer are addressed by an Iskai dressed in battle armor. ^ ^ {INK 002} "Dsarii-ma, visitors of our city. I have come just in time. I see you have recovered from your wounds. ^ ^ In the name of the Sebainah, the chief of the council, I would like to welcome you to Jirinaar. The Sebainah would like to have a discussion with you. ^ ^ She can be found in the council building, the building in the middle of the city. It is surrounded by the river and can't be missed because of its large size. The Sebainah is in the council building almost every hour of the day. You can visit her at any time. ^ ^ Of course, if you wish, I can take you to her immediately."
+"Do you want me to take you to the Sebainah immediately?"
+"Don't wait too long before you visit the Sebainah. Now, please excuse me."
+"Dsarii-ma. I hope your conversation with the Sebainah was pleasant."
+The Iskai makes his way to the council building. Tom and Rainer have trouble keeping up with his fast walk, but they soon reach the city's government building and enter.
+"Congratulations on your extremely diplomatic action, Driscoll! Not only have you offended the people who have saved our lives, but I would also like to point out that we have no idea where the pieces of our shuttle are and how we can exchange them for the local currency."
+The door to the Hunter Clan's house is secured with a lock.
+{INVE}{NAME} opens the door with Wrinn's key.
+"This magnificent house belongs to a rich merchant. He lives a very reclusive life. I doubt we can get in here."
+"One of the councilors lives here. Nice little house, huh?"
+A kind of fountain.
+The door to the house of the Hunter Clan. It is secured with a lock.
+A door.
+{CNTR}{INK 003}{FAHI}YO! ^ ^ One hour passed!
+{INK 001} A Stiriik comes up to Drirr and says breathlessly: ^ ^ {INK 002} "Dsarii-ma, Drirr! A cattle breeder just came into the city who says he saw the Kenget Kamulos murderer go into the ruins of the old Former center!"
+"We should go to the old Former building as quickly as possible. Perhaps we can still catch the murderer!"
+"Thank you, first we would like to look around the city a little."
+"Dsarii-ma. Welcome to Jirinaar."
+"Dsarii-ma and have a nice journey!"
+"The old Former building, or the old Argim as some say, lies to the northeast of the city, I believe. ^ ^ I have never been there. ^ ^ Let's go there immediately... Perhaps we can catch the guy there!"
+{CNTR} In small script it says here: ^ ^ {INK 006} The Art of Battle. 8 a.m. to 7 p.m.

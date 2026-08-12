@@ -1,0 +1,31 @@
+﻿{BLOK000}"My greatest talent, for which I am very thankful to the Goddess, is the healing art."{WORDhealing}
+ 
+"Our magic is deeply rooted in this world. For example, all of our spells require us to concentrate our spiritual forces in a special kind of seed. We are also proud of the diversity of our craft. We know magic for creating and destroying, for injuring and for healing. ^ As a sign of our guild, we wear a special colored pattern on our pelts. The leader of the Dji-Kas is Sebai-fre Fasiir. He spends his entire time in the guild house."{WORDseed}{WORDhealing}{WORDFasiir}{WORDguild house}
+"Sebai-fre Fasiir has directed our guild for over 120 years. He is a living legend among the Dji-Kas and an outstanding teacher."
+"It is not the seed itself which develops the magic effect, but the spirit of the Dji-Kas which is used to find its focus. The seeds come from a strange plant called Triifalai, that means 'Trii of the Goddess.' They are sold in the guild house."{WORDTrii}{WORDGoddess}
+"I am thankful for my talent, even if it is bad for my private life. Sometimes I don't leave the guild house all day."{WORDguild house}
+"This is the name of a plant which produces seeds we greatly value. {WORDseed}"
+
+"Oh, the builders. The relationship between our guilds is sometimes a bit troubled. Our diverse craft attracts some of their most talented members. And who can blame them? Who wants to put all of his efforts into building houses, no matter how beautiful they are? Perhaps the Dji-Fadh are also angry because we built our guild house without their help."{WORDguild}
+"The guild house has been in the southwestern corner of Jirinaar for a long time. It was built by the Dji-Kas and houses many guild members and all Dra."{WORDDra}
+"We never ordered Akiir's murder! Kriis lied, the Goddess knows why. We have no reason to do such a shameful thing!"{WORDGoddess}
+"Let me thank you once more for having freed us from the suspicion of murdering Akiir!"
+"Akiir is the chief of the Formers, a guild which is, for the most part, at odds with us. Especially Akiir doesn't go out of his way to avoid conflicts."{WORDFormer}
+"You don't know Fasiir as well as those like me who deal with him on a daily basis. He would never have ordered such a crime! But I doubt you'll believe the words of a member of his guild."
+"I am really grateful that you have cleared his name."
+"I know nothing about a murder."
+dummy
+dummy
+dummy
+dummy
+dummy
+"Dsarii-ma, travelers. Are you looking for someone to heal your wounds?"{BLOK010}"Yes, Rejira, we need your help."{BLOK011}"Actually no, but we would like some medicine."{BLOK012}"No, thank you very much, we just wanted to look around."
+"How nice! People don't drop by often enough."{BLOK010}"Yes, let's have a chat." {BLOK011}"Unfortunately, we have to go, Rejira."
+{INK 001}{LEAD}{NAME}tells a little about what has happened during the journey. Rejira is very happy: ^ ^ {INK 002} "Thank you very much. I love exciting conversations!"
+"What a shame. Good luck on the rest your journey."
+"Oh, wait. I believe I have a little present here for you."
+SOON COMING: HEALER-SCREEN!
+SOON COMING: MERCHANT-SCREEN!
+"It was a nice talking to you. Take care of yourselves!"
+"How can I help you?"{BLOK010}"We have injuries, Rejira." {BLOK011}"I believe one of us is sick."{BLOK012}"We have a problem with a cursed object."
+"I can offer you drinks that can strengthen the body and spirit."

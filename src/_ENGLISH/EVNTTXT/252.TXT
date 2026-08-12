@@ -1,0 +1,8 @@
+﻿"{BLOK000} "It is my function to lead and coordinate the Council of the Just."
+"Ah, I'm happy every time I see you. If only the circumstances were better. It looks like there will be a war between the Iskai and the humans. I, too, am going there right away. I may be able to calm down the parties and straighten out some things where Kontos and ourselves are concerned." {WORDKontos}{WORDwar}{WORDshrine}
+"Most of the Iskai believe that all humans stand united behind Kontos, but that is not true."
+"If we do not succeed in stopping Kontos, there will be a war. I don't know what Kontos thinks he can achieve by this, but he certainly has something in mind. If you have any evidence against Kontos, then go and use it."
+"By now Iskai and human warriors have assembled there. If you have any evidence against Kontos, then go there and use it."
+"I don't think they'll be seen around here again."
+"The council house is the most beautiful building in Beloveno. You should look around a bit. No one will stop you."
+"That'th me."

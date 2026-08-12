@@ -1,0 +1,12 @@
+﻿{BLOK000}"Je sers des plats et des boissons."
+"Skeima Din et bienvenue dans l'auberge joyeuse La mine."{WORDLa mine}{WORDUmajo-kenta}{WORDBoissons}{WORDPasser la nuit}
+"Merci bien, je n'ai pas besoin d'objet, {FAT }mais{NORS} si vous voulez déjà donner quelque chose, je pourrais peut-être me permettre de vous signaler qu'il est de coutume ici, que les étrangers payent une tournée. Qu'en pensez-vous?"{BLOK010}"Nous voulons payer une tournée."
+"C'est le nom de notre auberge, et il existe d'ailleurs une vrai mine ici. Faites donc un tour à la Guilde des Mineurs tout au nord-ouest de la ville."{WORDMineurs}
+"Vous le feriez vraiment? Ça fait par contre 5 pièces d'or. Votre parole tient toujours?"
+"Dommage."
+"Je le fais chez vous seulement, si vous payez d'avance."
+"C'est très généreux de votre part, encore merci. Reparlez-moi donc une fois la tournée servie."
+"Skeima Din mes amis,^^dois-je vous dévoiler un petit secret?"{WORDSecret}
+"Notre prestidigitatrice est affreusement prétentieuse, hé hé. Appelez-la donc 'reine de beauté'. Et vous verrez, ça vous ouvrira des portes."
+"Vous voulez manger ou boire quelque chose?"{BLOK010}"Oui, volontiers."{BLOK011}"Non, merci."
+"Vous ne pouvez malheureusement pas passer la nuit ici, mais allez donc dans la maison des Mineurs. Ils sont très hospitaliers et accueillent volontiers les visiteurs de notre ville pour une nuit."

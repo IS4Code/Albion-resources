@@ -1,0 +1,9 @@
+﻿{BLOK000} "I am a member of the Council of the Just and, as hard as it is, I must see to it that the interests of the people are taken into account."
+"I would like to speak to you about a very important matter. Do you have time?" {BLOK010} "Certainly, what's going on?" {BLOK011} "No, unfortunately we have a lot to do." {WORDtown hall}{WORDPerron}{WORDBeloveno}
+"That is really sad, but I respect your decision."
+"Gard and Riko haven't shown up for the last council meetings. They are acting very strangely. I believe they're planning something. You get along with most of the residents of Beloveno and the other villages, so I'd like you to tell me anything about these council members that I don't know about. When you find out what they are planning, please tell me. The recent events are not normal. I hope it will not lead to a conflict. Can you do me this favor?" {BLOK012} "We believe so."{BLOK013} "We will see what we can do." {BLOK014} "It's highly unlikely."
+"That pleases me. I won't abuse your trust, but it is important to me to see how things are developing."
+"I see that you are also conspiring against me..."
+"The council meets regularly in the council house, and sometimes, when there is a great occasion, we invite the entire city into our great meeting hall. There are a lot of small rooms which we use for discussions and which can be rented for other purposes. In the south wing is the great meeting hall and a meeting room. In the north wing you will find the smaller rooms, and in the middle are the kitchen and dining room. Feel free to look around."
+"That'th me."
+"I hope that you like our city. Visit the harbor in the south, or make a trip to Kounos or Srimalinar."

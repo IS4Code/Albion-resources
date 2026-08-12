@@ -1,0 +1,6 @@
+﻿{BLOK000}"Well, I study and sometimes I help cut up the game the hunters bting back. If I can't sneak away, that is."
+"Oh, the humans! Ah, I mean, Dsarii-ma!"{BLOK010}"Dsarii-ma. How old are you?"
+"Dsarii-ma. Do you want something from me?"
+"I'm already four years old. Soon I will learn how to suppress pain. But it will be a long time before I'm mature!"{WORDpain}{WORDmaturity}
+"I don't know if humans can do that, but we have a way. I guess you can learn to think pain away. I'm going to learn how to do that next. My older brothers and sisters can do that already.{WORDsiblings}"
+"I already said that. Soon I'm going to learn how to think pain away."

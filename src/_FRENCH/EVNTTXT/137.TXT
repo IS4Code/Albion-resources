@@ -1,0 +1,9 @@
+﻿{BLOK000}"Je suis commerçant et sur la route pour le compte de Wania."{WORDWania}
+"Dsarii-ma! Vous êtes alors les hommes, dont j'ai entendu parler!" {WORDHommes}
+"Dsarii-ma. Ainsi, nous nous revoyons."{WORDMarchandises}
+"J'achète des marchandises pour son échoppe."{WORDMarchandises}
+"Tout ce qui pourrait être utile à quelqu'un. Ah oui, vous avez peut-être quelque chose à proposer?" {BLOK010}"Oui, je crois que j'ai quelque chose pour vous." {BLOK011}"Non, non. Pas en ce moment."
+"Dommage. Je suis réputé pour mes bons prix. Je veux que les gens reviennent, vous savez."
+"Dsarii-ma. Ainsi, nous nous revoyons." {BLOK010}"Nous aurions quelque chose à vous proposer, Rabir."
+"Vous trouverez l'échoppe de Wania dans la région du port, au sud-est de la ville. Ça vaut le détour!"
+"Hé bien, qu'avez vous à me proposer, {LEAD}{NAME}?"

@@ -1,0 +1,8 @@
+﻿{BLOK000}"Je vends les armes et les armures. En plus, vous pouvez être sûrs d'avoir le conseil avisé d'un chasseur expérimenté. Je rachète aussi volontiers des affaires, si vous avez quelque chose d'intéressant sur vous."{WORDChasseur}
+{WORDOffre}"Skeima Din,^^Vous trouverez ici tout ce dont un voyageur a besoin pour se défendre et se protéger efficacement. Ou avez-vous quelque chose d'intéressant à me proposer?"{WORDDéfendre} {BLOK010}"Pouvons-nous voir les armes et les armures?"{BLOK011}"Nous voudrions vendre quelque chose."{WORDForge}
+"Mais c'est vrai, le danger est partout. Surtout pour des gens qui portent sur eux des objets de valeur.^^Vous avez l'air de savoir vous servir d'armes. Le mieux, c'est que vous jetiez un coup d'oeil sur mon assortiment. Vous serez enthousiasmés, car il n'y a, à ma connaissance, pas d'autre échoppe qui dispose d'un tel éventail d'une qualité aussi exceptionnelle."
+"Je dois avouer que ça remonte déjà à loin, mais j'ai quand même acquis beaucoup d'expérience pendant cette période, et je m'y connais bien en armes de tout genre."
+"La forge est à côté. Vous pouvez aller voir le forgeron. Il peut vous réparer des armes. Et vous pouvez bien sûr aller le voir à l'oeuvre, si vous le souhaitez."
+"Oh, l'offre est particulièrement riche. Nous avons des munitions en grandes quantités et de grandes armes lourdes. Si je ne me trompe, nous avons en ce moment même quelques armes magiques à vendre."{WORDArmes magiques}
+"Ce sont des pièces très rares. Je pense que vous ne pourrez acheter ce genre de choses nulle part ailleurs. Et en plus à un prix tout à fait raisonnable."
+"Non merci, je n'accepte pas les cadeaux."

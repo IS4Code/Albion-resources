@@ -1,0 +1,10 @@
+﻿!
+Il y a une machine énorme, apparemment pour l'exploitation de grandes quantités de minerais.
+"Oh, une mini-pelleteuse à minerais, tiens donc. Il n'y avait apparemment plus de place dans les segments à machines et ils ont déposé les machins ici."
+Une lampe fluorescente. Elle émet une lumière blanche et froide.
+Une lampe de signalisation orange.
+"O.K. C'est bon. Ce que tu vois ici, c'est le hall qui entoure le noyau du réacteur. A partir d'ici, nous devrions pouvoir accéder au noyau lui-même."
+"Nous avons enfin atteint notre but! Tu ne vas tout de même pas faire demi-tour maintenant, {LEAD}{NAME}! Essayons de mener notre mission à bien!"
+"Qu'est-ce qui me prend? Je ne vais tout de même pas faire demi-tour maintenant que nous y sommes!"
+Une porte massive en métal.
+"Le hall du réacteur! Nous avons presque réussi! Vite, dans la salle du réacteur!"
