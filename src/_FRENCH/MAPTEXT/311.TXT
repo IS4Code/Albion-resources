@@ -1,4 +1,4 @@
-﻿libre
+libre
 Une cheminée.
 Un chandelier.
 Un panier tressé.
@@ -184,7 +184,7 @@ Une ouverture apparaît dans le mur!
 Dans le coffre, il y a quelques boissons!
 "Ne me dérangez pas dans mes études, s'il vous plaît! Je préférerais que vous quittiez ma chambre."
 {INK 002}"Salut, visiteurs. Veuillez m'excuser, il faut que je me concentre sur mes études."
-{INK001}Le novice présent crie:^^{INK 002} "Eh! Ne touchez pas à ça, s'il vous plaît! Je serais ravi, si vous quittiez ma chambre!"
+{INK 001}Le novice présent crie:^^{INK 002} "Eh! Ne touchez pas à ça, s'il vous plaît! Je serais ravi, si vous quittiez ma chambre!"
 Subitement, un cri retentit d'un passage caché!
 {CNTR}{INK 002}"Qu'est-ce que vous faites ici?"^^{FAHI}ALERTE!
 {INK 002}"Vous avez tenté de violer les parties intérieures de Khamulon!"
