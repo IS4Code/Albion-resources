@@ -1,4 +1,4 @@
-﻿vide
+vide
 Aucun membre du groupe ne tient particulièrement à y toucher.
 Un grand canapé.
 Une grande armoire.
@@ -216,7 +216,7 @@ Tout le monde se hâte de rejoindre la maison de la Guilde des Mages.
 "Non, malheureusement. Je ne peux pas ignorer la loi, mais seulement vous souhaiter bonne chance pour votre chasse au meurtrier en fuite, et de ses commanditaires.."
 "Vous êtes sûre que ceci a été commandité par quelqu'un?"
 "Sans aucun doute. Les meurtriers appartiennent à un peuple d'humains célèbres pour ses assassins. Ces gens tuent rarement pour des motifs personnels. ^Vous devriez vous entretenir avec Frill, il est encore au palais, d'après ce qu'on dit. Il est certainement déjà en route pour nous rejoindre. ^^Ah, ça y est, voilà Drirr, le Stiriik qui va vous accompagner."
-{CNTR}{INK 001}Le panneau indique:{INK 006}^^Atelier du Sebai-Giz Frill {INK006}
+{CNTR}{INK 001}Le panneau indique:{INK 006}^^Atelier du Sebai-Giz Frill {INK 006}
 {CNTR}{INK 001}Le panneau indique:{INK 006}^^Atelier de la Sebainah Janiis, chef de Jirinaar
 Drirr se joint à Tom et Rainer.^^Ensemble, ils entrent dans l'atelier du savant Frill, qui est juste de retour d'un long voyage.^^Drirr raconte qu'il passe pour le plus ancien Iskai de Nakiridaani, et qu'il dispose d'un énorme savoir.
 "Pourvu que les Stiriik de la garde urbaine trouvent bientôt une trace du meurtrier.^^Nous devrions peut-être aussi sillonner les rues de la ville."
