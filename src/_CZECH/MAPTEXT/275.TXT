@@ -1,4 +1,4 @@
-﻿-free-
+-free-
 Větve a kořeny.
 Pletený košík
 Skleněná nádoba na vodu a ostatní drinky.
@@ -126,7 +126,7 @@ Places for further Cutmap events.
 Places for further Cutmap events.
 {CNTR} Mohu se s vámi vidět, pouze objednáte-li se předem. ^ Navštivte Nodda, ^ podepsán Kontos.
 "Svět je nááádherný, tralalalali."
-"Předpokládám, že nevíte, že sem Otikro chodí každé ráno. Je to úžasný trenér bojových technik."
+"Předpokládám, že nevíte, že sem Garadd chodí každé ráno. Je to úžasný trenér bojových technik."
 "Skeima Din."
 "Když k nám do vesnice naposled přišli cizinci, propukla tu strašná nákaza, která zahubila dva členy našeho kmene. Doufejme, že vy žádnou takovou strašnou nákazu nepřinášíte."
 "Nemáte tu takovou možnost nákupu jako v Belovenu. My všichni se tu navzájem dobře známe a víme, co kdo potřebuje, proto tu máme také spíš řekněme výměnný obchod. Z toho vyplývá, že u nás budete marně hledat různé obchody."

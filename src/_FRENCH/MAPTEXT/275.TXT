@@ -1,4 +1,4 @@
-﻿-libre-
+-libre-
 Branches et racines.
 Un panier tressé.
 Un récipient en verre pour l'eau et d'autres boissons.
@@ -126,7 +126,7 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 {CNTR}Je ne puis vous recevoir que sur invitation.^Adressez-vous à Nodd.^signé Kontos.
 "Le monde est bôôôô, tralalala."
-"Vous ne savez sûrement pas qu'Otikro passe tous les matins. C'est un excellent entraîneur de combat."
+"Vous ne savez sûrement pas qu'Garadd passe tous les matins. C'est un excellent entraîneur de combat."
 "Skeima Din."
 "La dernière fois que nous avons eu de la visite dans le village, une terrible maladie s'est déclarée et a coûté la vie à deux de nos frères de tribu.^^Pourvu que vous n'apportiez pas vous aussi une maladie aussi grave."
 "Vous ne pouvez pas faire de courses chez nous comme à Beloveno. Car nous nous connaissons tous et nous échangeons les choses dont nous avons besoin. C'est pourquoi nous n'avons pas besoin d'échoppes."

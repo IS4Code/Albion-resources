@@ -1,4 +1,4 @@
-﻿-frei-
+-frei-
 Äste und Wurzeln.
 Ein geflochtener Korb.
 Ein Glasgefäß für Wasser und andere Getränke.
@@ -126,7 +126,7 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 {CNTR}Ich kann Euch nur mit Einladung empfangen.^Wendet Euch an Nodd.^gez. Kontos.
 "Die Welt ist schöööön, tralalala."
-"Bestimmt wißt Ihr nicht, daß jeden Morgen Otikro hier vorbei kommt. Er ist ein hervorragender Kampftrainer."
+"Bestimmt wißt Ihr nicht, daß jeden Morgen Garadd hier vorbei kommt. Er ist ein hervorragender Kampftrainer."
 "Skeima Din."
 "Als das letzte Mal Besuch in unser Dorf kam, brach danach eine schreckliche Krankheit aus, die zwei unserer Stammesbrüder das Leben kostete.^^Hoffentlich bringt Ihr nicht auch so eine schlimme Krankheit mit."
 "Einkaufen wie in Beloveno könnt Ihr bei uns nicht. Denn wir kennen uns alle untereinander und tauschen die Dinge, die wir brauchen aus. Deshalb brauchen wir keine Läden."
