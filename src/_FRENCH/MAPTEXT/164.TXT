@@ -21,7 +21,7 @@ C'est un buisson arc-en-ciel. Bizarrement, il est illuminé, même s'il n'a pas 
 La gueule dans le sol est immobile.
 "Quel machin horrible! Nous devrions faire un grand détour."
 "Toute forme de vie a le droit d'exister, Driscoll. Mais ça ne veut pas dire que nous devons nous proposer comme amuse-gueule par amour pour la créature, là je suis de votre avis."
-"Je n'ai jamais vu quelque chose de pareil. ça a vraiment l'air mortel, en effet."
+"Je n'ai jamais vu quelque chose de pareil. Ça a vraiment l'air mortel, en effet."
 {LEAD}{NAME} s'approche trop de la gueule et tombe dans l'énorme gosier! La force des mâchoires est horrible!
 {LEAD}{NAME} lance un morceau de viande dans le gosier affamé. L'effet est immédiat: Visiblement rassasiée, l'énorme gueule se referme!
 Le gosier est bien fermé.
@@ -53,8 +53,8 @@ Une aiguille avance brusquement et s'enfonce dans les doigts de {LEAD}{NAME} qui
 Un vieux coffre qui date apparemment de l'époque où ce bâtiment était habité. Il a un verrou en filigrane.
 {LEAD}{NAME} et les autres aperçoivent devant eux le cadavre de l'assassin. Les fauves ont fait du bon travail.^^ Cependant, {LEAD}{NAME} aperçoit quelque chose scintiller parmi les restes!
 {INK 001}Drirr:{INK 002}^^ "Le Kenget Kamulos avait un poignard antique et décoratif de notre peuple sur lui, une pièce unique! ^Enfin une trace. Peut-être que le vieux savant Frill peut en faire quelque chose. Nous devrions lui rendre visite dans le bâtiment du conseil."
-{INK 001}Rainer:{INK 002}^^ "Le gars était en possession d'un poignard Iskai orné. ça a l'air d'être une pièce exceptionnelle.^Enfin une trace! Peut-être que le vieux savant Frill peut en faire quelque chose. Nous devrions lui rendre visite dans le bâtiment du conseil."
-{INK 001}Tom:{INK 002}^^ "Le gars était en possession d'un poignard Iskai orné. ça a l'air d'être une pièce exceptionnelle.^Enfin une trace! Peut-être que le vieux savant Frill peut en faire quelque chose. Nous devrions lui rendre visite dans le bâtiment du conseil."
+{INK 001}Rainer:{INK 002}^^ "Le gars était en possession d'un poignard Iskai orné. Ça a l'air d'être une pièce exceptionnelle.^Enfin une trace! Peut-être que le vieux savant Frill peut en faire quelque chose. Nous devrions lui rendre visite dans le bâtiment du conseil."
+{INK 001}Tom:{INK 002}^^ "Le gars était en possession d'un poignard Iskai orné. Ça a l'air d'être une pièce exceptionnelle.^Enfin une trace! Peut-être que le vieux savant Frill peut en faire quelque chose. Nous devrions lui rendre visite dans le bâtiment du conseil."
 Une grosse plante. Elle recueille l'eau qui tombe du plafond.
 {LEAD}{NAME} percute la plante, mais elle ne bouge pas.
 Plante touchée.

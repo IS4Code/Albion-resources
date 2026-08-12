@@ -20,6 +20,6 @@
 "Il existe des endroits, où le pouvoir de la Déesse se ressent particulièrement fort et où les actions magiques sont renforcées, mais souvent aussi plus difficiles. Un tel centre d'énergie s'appelle un Han."{WORDDéesse}
 dummy
 "Dsarii-ma!"
-"ça fait partie des connaissances de base de notre Guilde. Ce n'est pas très passionnant, mais j'arrive bientôt aux choses artistiques, comme les coupoles."{WORDCoupoles}
+"Ça fait partie des connaissances de base de notre Guilde. Ce n'est pas très passionnant, mais j'arrive bientôt aux choses artistiques, comme les coupoles."{WORDCoupoles}
 "Comme je l'ai dit, ça fait partie des connaissances de base de notre Guilde. Ce n'est pas très passionnant, mais j'arrive bientôt aux choses artistiques, comme les coupoles."{WORDCoupoles}
 "Oui, les coupoles que vous trouvez sur certains toits, sont des structures végétales qui se composent en partie de compartiments remplis d'eau de différentes couleurs. Ainsi, elles peuvent laisser passer la lumière."

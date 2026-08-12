@@ -1,7 +1,7 @@
 ﻿!
 "Dsarii-ma, mes amis. Comment est la situation entre les Mahinos et les Iskais?" {BLOK010}"Malheureusement encore très tendue, Frill."
 "Alors, j'espère que vous pourrez entreprendre quelque chose contre l'escalade. Retardons encore un peu notre départ. Bonne chance!"
-"Dsarii-ma, mes amis. Comment est la situation entre les Mahinos et les Iskais?" {BLOK010}"Bonne nouvelle, les habitants de Kounos se sont rendus compte entre-temps que Kontos a abusé d'eux. ça n'a pas été simple pour eux de reconnaître qu'ils se sont laissés mener par le bout du nez comme des petits enfants. Mais après tout, ils n'avaient pas le choix. Nous pensons en tout cas, qu'une relation saine va de nouveau naître entre les tribus."
+"Dsarii-ma, mes amis. Comment est la situation entre les Mahinos et les Iskais?" {BLOK010}"Bonne nouvelle, les habitants de Kounos se sont rendus compte entre-temps que Kontos a abusé d'eux. Ça n'a pas été simple pour eux de reconnaître qu'ils se sont laissés mener par le bout du nez comme des petits enfants. Mais après tout, ils n'avaient pas le choix. Nous pensons en tout cas, qu'une relation saine va de nouveau naître entre les tribus."
 "C'est vraiment une bonne nouvelle! Il n'y a donc plus rien qui s'oppose à un petit voyage en bateau. On part tout de suite?" {BLOK010}"Oui, pourquoi pas!" {BLOK011}"Non, nous voulons attendre encore un peu."
 "Bien. Alors, suivez-moi, s'il vous plaît."
 "D'accord. Je vous attends ici. A bientôt."

@@ -2,7 +2,7 @@
 "Skeima Din et bienvenue dans l'auberge joyeuse La mine."{WORDLa mine}{WORDUmajo-kenta}{WORDBoissons}{WORDPasser la nuit}
 "Merci bien, je n'ai pas besoin d'objet, {FAT }mais{NORS} si vous voulez déjà donner quelque chose, je pourrais peut-être me permettre de vous signaler qu'il est de coutume ici, que les étrangers payent une tournée. Qu'en pensez-vous?"{BLOK010}"Nous voulons payer une tournée."
 "C'est le nom de notre auberge, et il existe d'ailleurs une vrai mine ici. Faites donc un tour à la Guilde des Mineurs tout au nord-ouest de la ville."{WORDMineurs}
-"Vous le feriez vraiment? ça fait par contre 5 pièces d'or. Votre parole tient toujours?"
+"Vous le feriez vraiment? Ça fait par contre 5 pièces d'or. Votre parole tient toujours?"
 "Dommage."
 "Je le fais chez vous seulement, si vous payez d'avance."
 "C'est très généreux de votre part, encore merci. Reparlez-moi donc une fois la tournée servie."

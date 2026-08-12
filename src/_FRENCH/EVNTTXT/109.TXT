@@ -2,7 +2,7 @@
 "Dsarii-ma, hôtes de la maison."
 "Dsarii-ma, visiteurs. Vous voulez encore savoir quelque chose de moi?"
 "Les membres de notre Guilde sont, pour la plupart, tout le temps en train de chasser des herbivores ou des carnivores sauvages, tel le Krondir ou le Warniak. Moi-même, ça fait trois ans que je n'y participe plus, car je suis trop vieux. Pensez que j'ai déjà atteint la trente-huitième année. Le Clan m'a invité récemment de me proposer pour le rituel Sebai auprès du conseil. Je m'en suis senti très honoré, mais j'ai refusé." {WORDConseil}{WORDSebai}{WORDClan}{WORDWarniak}{WORDKrondir} {BLOK010}"Vous refuserez le rituel, Krinn? Peut-on savoir pourquoi?"
-"C'est une question de point de vue personnel. Il est communément admis qu'un nouveau-né n'a pas de personnalité. Mais j'aurais quand même l'impression de prendre, même d'anéantir une vie.^ ça mis à part, j'ai eu une vie épanouie et je ne crains pas la mort."
+"C'est une question de point de vue personnel. Il est communément admis qu'un nouveau-né n'a pas de personnalité. Mais j'aurais quand même l'impression de prendre, même d'anéantir une vie.^ Ça mis à part, j'ai eu une vie épanouie et je ne crains pas la mort."
 "Comme je l'ai expliqué, je préfère rester dans cette belle maison en raison de mon âge."{WORDMaison}
 "En raison de ma grande expérience, j'apprends aux jeunes chasseurs tout ce qu'il faut savoir pour survivre et pour avoir du succès à la chasse, et pour chasser des carnivores, tels les Krondir et les Warniak."{WORDKrondir}{WORDWarniak}
 "Comme vous le savez déjà, j'apprends aux jeunes chasseurs tout ce qu'il faut savoir pour survivre et pour avoir du succès à la chasse."

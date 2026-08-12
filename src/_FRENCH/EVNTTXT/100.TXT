@@ -38,7 +38,7 @@
 "Quelqu'un tu as tapé sur le Trii? Ca, tu devrais le savoir toi-même."
 "Je suppose que tu poses cette question pour les étrangers qui t'accompagnent."
 "Pour doter un document d'un assentiment, on le marque avec l'odeur personnelle d'un individu à côté du nom du signataire. Chacun de nous possède des glandes odorantes derrière les oreilles, qui produisent une senteur que l'on ne peut pas confondre."
-"Oh, les habits ont chez nous plutôt un sens décoratif. ça passe pour de la provocation que de se montrer avec beaucoup d'habits, car qu'est-ce qui pourrait bien susciter plus de curiosité que le fait de voiler des parties de son corps?"
+"Oh, les habits ont chez nous plutôt un sens décoratif. Ça passe pour de la provocation que de se montrer avec beaucoup d'habits, car qu'est-ce qui pourrait bien susciter plus de curiosité que le fait de voiler des parties de son corps?"
 "Si vous cherchez de l'aide pour guérir vos blessures, adressez-vous aux Dji-Kas, ils comptent des guérisseurs capables dans leurs rangs."{WORDDji-Kas}
 "J'ai entendu des rumeurs, selon lesquelles vous, les hommes, seraient livrés complètement à vos douleurs! Hé bien, nous pouvons contrôler nos douleurs volontairement, du moins dans l'état d'éveil. Cette technique n'est enseignée que tardivement aux enfants, pour qu'ils se rendent compte du caractère sérieux des blessures."
 "Ce mot signifie "débutant, apprenti" et est utilisé comme complément de nom."

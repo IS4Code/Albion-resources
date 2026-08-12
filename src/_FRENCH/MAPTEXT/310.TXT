@@ -127,7 +127,7 @@ Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
 Platzhalter für weitere Cutmap-Events.
-Les Kenget prennent aux compagnons l'or avec lequel ils voulaient payer le Grand Savoir!^^ {LEAD}{NAME} et les autres sont jetés sans ménagements dans une geôle humide.^^ça dure un petit moment avant qu'ils ne s'en remettant tous.
+Les Kenget prennent aux compagnons l'or avec lequel ils voulaient payer le Grand Savoir!^^ {LEAD}{NAME} et les autres sont jetés sans ménagements dans une geôle humide.^^Ça dure un petit moment avant qu'ils ne s'en remettant tous.
 "Bravo, Khunag! Quelle idée géniale d'emprunter le passage secret!"
 "A mon époque, le passage n'était pas encore surveillé!"
 "Que devons nous faire maintenant d'après toi? A part nous réjouir d'avance de toutes ces tortures exclusives que nous ont promis tes anciens acolytes..."

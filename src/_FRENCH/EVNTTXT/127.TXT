@@ -20,7 +20,7 @@ dummy
 dummy
 dummy
 "Dsarii-ma, voyageurs. Vous cherchez des soins pour vos blessures?" {BLOK010}"Oui, Rejira, nous avons besoin de votre aide." {BLOK011}"En fait, non, mais il nous faudrait des remèdes." {BLOK012}"Non, merci beaucoup. Nous voulions juste passer vous voir."
-"Que c'est gentil! ça n'est que trop rare que les gens viennent me voir juste pour discuter." {BLOK010}"Oui, faisons un petit brin de causette." {BLOK011}"Nous devons malheureusement partir, Rejira."
+"Que c'est gentil! Ça n'est que trop rare que les gens viennent me voir juste pour discuter." {BLOK010}"Oui, faisons un petit brin de causette." {BLOK011}"Nous devons malheureusement partir, Rejira."
 {INK 001}{LEAD}{NAME} raconte quelques épisodes de leur voyage. Rejira est ravie:^^ {INK 002}"Merci beaucoup. J'adore les discussions passionnantes!"
 "Vraiment dommage. Bonne chance pour vos voyages."
 "Oh, attendez. Je crois que j'ai encore un petit cadeau pour vous."

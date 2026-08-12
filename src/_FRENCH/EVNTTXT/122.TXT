@@ -34,7 +34,7 @@ SEQUENCE SUIT!
 Fasiir conduit ses visiteurs dans une chambre de la maison, où l'on aperçoit une dalle de pierre enfoncée dans le sol couvert de mousse.
 "Le plus beau dans la magie, c'est sûrement de pouvoir créer des choses, ne serait-ce que pour la vie courante.^^Regardez!"
 "Driscoll, je... Vous avez vu ça? Mais c'est..., je veux dire... ^^ Je délire! C'est un vrai arbre! Ce n'était pas un petit tour de prestidigitation!"
-"C'est vraiment dingue, j'avoue! Ces types ne sont pas des charlatans, c'est sûr. ça n'a en tout cas rien à voir avec des accélérateurs de croissance."
+"C'est vraiment dingue, j'avoue! Ces types ne sont pas des charlatans, c'est sûr. Ça n'a en tout cas rien à voir avec des accélérateurs de croissance."
 "Un empire pour quelques instruments de mesure! Ils ne peuvent tout même pas se payer la tête des lois de la nature!"
 "Je vois, j'avoue avec satisfaction, que j'ai pu dissiper quelques doutes.^^J'espère que vous avez un peu changé votre avis à propos de notre art.^^ C'était un honneur pour moi de vous avoir parlé {LEAD}{NAME}. Faites encore un petit tour, je dois malheureusement retourner à mes occupations."
 "Merci beaucoup en tout cas pour cette impressionnante démonstration de votre savoir-faire, Fasiir."

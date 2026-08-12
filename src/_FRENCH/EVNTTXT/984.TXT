@@ -28,7 +28,7 @@ Les compagnons font une halte pour se reposer. On se met à l'aise et commence �
 "Là, il y a... j'entends. Ses lèvres sont immobiles, mais je comprends..."
 "Impossible. Aucun homme ne peut lire le Trii. Mais...je peux le.... Dis-moi, ce que tu entends!"
 "Ca sonne bien, comme de la sympathie, non, plus, de l'affection. Quelque chose, que je n'ai jamais entendu de la part d'un homme. Bero, mon père adoptif, m'aime aussi. Mais ça c'est différent...troublant...je ne le comprends pas encore."
-{INK 001}Sira touche presque machinalement le front de Mellthas. {INK 002}"Etrange. ça ne fait pas de différence, si je te touche ou non. Tu n'as pas de Trii. Et pourtant, c'est comme si tu en avais un. Qui es-tu, Mellthas?"
+{INK 001}Sira touche presque machinalement le front de Mellthas. {INK 002}"Etrange. Ça ne fait pas de différence, si je te touche ou non. Tu n'as pas de Trii. Et pourtant, c'est comme si tu en avais un. Qui es-tu, Mellthas?"
 "Qui je suis? Que sais-je? Sourd-muet. Craintif...Comment le décrire? Tous mes mots, même les plus fins, ne sont que la tentative de trouver une goutte d'eau particulière dans la mer. Fais attention, Sira, que je ne nous noie pas dans mes mots!"
 "Ah, Mellthas! "
 "Une mauvaise image?"

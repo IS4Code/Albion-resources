@@ -1,7 +1,7 @@
 ﻿{BLOK000}" Je suis le tavernier. Vous avez déjà goûté mon Sugo? Il est vraiment bon, les gars."
-"Approchez, Skeima Din! J'ai une information pour vous. ça vous intéresse?{BLOK012}"Non, merci."{BLOK013}"Ca dépend."{BLOK014}"Absolument."{WORDInformation}
+"Approchez, Skeima Din! J'ai une information pour vous. Ça vous intéresse?{BLOK012}"Non, merci."{BLOK013}"Ca dépend."{BLOK014}"Absolument."{WORDInformation}
 "Hé bien, tant pis. Vous voulez acheter des rations?"{BLOK010}"Oui, volontiers."{BLOK011}"Non, merci."
-"ça devrait vous intéresser. Il s'agit du conseil de Beloveno."{BLOK015}"Pourquoi ça devrait nous intéresser?"{BLOK016}"Nous serions effectivement intéressés."
+"Ça devrait vous intéresser. Il s'agit du conseil de Beloveno."{BLOK015}"Pourquoi ça devrait nous intéresser?"{BLOK016}"Nous serions effectivement intéressés."
 "Par contre, il me faudrait une compensation pour cette information... Des pièces d'or sonnantes et trébuchantes m'intéresseraient bien."
 "Vous pourriez peut-être tirer profit de cette information."
 "Je vous salue. Mettez-vous à l'aise. Vous voulez boire quelque chose?"{BLOK010}"Oui, volontiers."{BLOK011}"Non, merci."

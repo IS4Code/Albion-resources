@@ -78,7 +78,7 @@ Cette porte est fermée.
 "Il n'y a rien à voir ici. Passez votre chemin."
 {INK 001}Voilà Rainer Hofstedt, physicien, xénobiologiste et inspecteur délégué du gouvernement. Tout excité, il entame une conversation.
 "Driscoll! Quelle chance de vous voir! Est-ce que vous avez déjà appris la mort de l'inspecteur Beegle?"
-"Salut, Hofstedt. Oui, ma compagne vient de m'en faire part. ça devait être horrible à voir!"
+"Salut, Hofstedt. Oui, ma compagne vient de m'en faire part. Ça devait être horrible à voir!"
 "Cette tête de mule britannique! Il n'était peut-être pas technicien, mais il aurait dû savoir que l'utilisation du SysCom pendant le saut Hyper-C est risquée. Toute cette technologie de vitesse supérieure à la lumière est loin d'être complètement maîtrisée. Pauvre diable!"
 "Et vous êtes maintenant le seul représentant du gouvernement à bord, n'est-ce pas?"
 "Le seul fouineur, oui. Ne m'en parlez surtout pas!^^ Quoi qu'il en soit, je viens d'avoir une discussion avec le capitaine Brandt. Il tient quand même au vol de reconnaissance, avec mon humble personne à la place de Beegle.^^ Il paraît que vous avez un nouveau passager, Driscoll."

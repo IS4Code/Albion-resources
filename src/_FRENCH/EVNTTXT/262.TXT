@@ -1,6 +1,6 @@
 ﻿{BLOK000}"Je suis le tavernier. Vous avez déjà goûté mon Sugo? Il est vraiment bon, les gars."{WORDSugo}
 "Bienvenue au 'Grand fût'. Vous êtes étrangers dans la ville. Mais bon, vous trouverez peut-être quand même des interlocuteurs sympas. Vous venez de Beloveno?"{WORDBeloveno}
-"Je vous salue. Je ne suis malheureusement pas de bonne humeur! ça est dû au fait que j'ai entendu des rumeurs sur Kontos qui me frustrent. Mais je ne sais pas si je peux croire ces informations. Allez donc vous-mêmes parler à Kontos si vous voulez apprendre quelque chose là-dessus. Il est chef druide des Mahinos à Kounos.^^Mais je ne veux pas pourrir l'ambiance? Mettez-vous à l'aise. Vous voulez acheter des rations?"{BLOK010}"Oui, volontiers."{BLOK011}"Non, merci."
+"Je vous salue. Je ne suis malheureusement pas de bonne humeur! Ça est dû au fait que j'ai entendu des rumeurs sur Kontos qui me frustrent. Mais je ne sais pas si je peux croire ces informations. Allez donc vous-mêmes parler à Kontos si vous voulez apprendre quelque chose là-dessus. Il est chef druide des Mahinos à Kounos.^^Mais je ne veux pas pourrir l'ambiance? Mettez-vous à l'aise. Vous voulez acheter des rations?"{BLOK010}"Oui, volontiers."{BLOK011}"Non, merci."
 "Je m'en doutais déjà que vous veniez de là. Alors vous avez certainement déjà été à Kounos. C'est un petit hameau sur les plateaux de la montagne."
 "Non? Il faut absolument que vous y alliez. Vous y rencontrerez sûrement beaucoup de gens intéressants."
 "Je suis Edjirr."
