@@ -142,7 +142,7 @@ Khunag:{INK 002}^ "Le hall de colonnes central."
 Khunag:{INK 002}^ "Le hall des cellules des novices."
 "Ne faites pas de bêtises, visiteurs!^^Comme vous voyez, il est facile de défendre la zone d'accès!"
 "Salut, visiteurs. Vous ne pouvez quitter l'installation qu'en compagnie d'un Kenget."
-"ça veut dire que nous devons d'abord attendre la décision des Kenget concernant l'achat du Grand Savoir.^^Mais croyez-moi, ils refuseront."
+"Ça veut dire que nous devons d'abord attendre la décision des Kenget concernant l'achat du Grand Savoir.^^Mais croyez-moi, ils refuseront."
 {INK 001}Un esclave:{INK 002}^^ "Nous avons rarement de la visite. Je me suis parfois demandé, s'il existait effectivement des hommes en-dehors de Khamulon."
 {INK 001}Un esclave:{INK 002}^^ "Nous ne sommes pas autorisés à parler aux visiteurs."
 {INK 001}Une esclave:{INK 002}^^ "Mon fils sera bientôt novice des Kledo. Il sera le plus courageux de tous les guerriers!"
@@ -194,7 +194,7 @@ D'autres Kenget Kamulos apparaissent!
 Les Kenget Kamulos réattaquent tout de suite!
 "Emmenez-les dans la partie de la geôle!"
 La garde conduit le groupe à l'intérieur de la montagne. De larges couloirs faiblement éclairés traversent la montagne. L'installation doit être gigantesque!
-"Salut. ça n'arrive pas souvent d'avoir de la visite à Khamulon.^^Justifiez votre présence. Pas de politesses, s'il vous plaît! Allez, droit au but."
+"Salut. Ça n'arrive pas souvent d'avoir de la visite à Khamulon.^^Justifiez votre présence. Pas de politesses, s'il vous plaît! Allez, droit au but."
 Comme vous voudrez. Nous sommes venus pour vous proposer un marché.^^Nous voulons acquérir un enregistrement d'un aspect spécifique de votre art magique pour un montant en or important. Il s'agit du savoir, comment maîtriser par la magie de grandes quantités d'énergie."
 "{FAT }Vous voulez le Grand Savoir?{NORS}^^Vous avez le front de nous demander une des clés de notre savoir magique?"
 "C'est vrai. {FAT }Vous{NORS} nous avez demandé d'être franc. Nous avons une mission importante."

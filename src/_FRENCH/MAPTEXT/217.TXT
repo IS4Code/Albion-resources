@@ -59,7 +59,7 @@ Platzhalter für weitere Events.
 Un mur d'enceinte.
 La porte de la ville.
 {LEAD}{NAME} dit soudain:^"Je me sens encore bizarre. Peut-être qu'on devrait prendre le truc qu'on a acheté à Umajo-Kenta."
-{LEAD}{NAME} dit soudain:^"Je me sens encore bizarre. On aurait dû acheter le truc à Umajo-Kenta. ça nous aurait peut-être aidé maintenant."
+{LEAD}{NAME} dit soudain:^"Je me sens encore bizarre. On aurait dû acheter le truc à Umajo-Kenta. Ça nous aurait peut-être aidé maintenant."
 Le groupe est épuisé par la longue marche dans le désert. Les capacités des différents membres baissent de façon dramatique...
 Le groupe subit des dommages avec cette longue marche dans le désert.
 Je fais le voyage entre la prison et Umajo-Kenta pour chercher des denrées.

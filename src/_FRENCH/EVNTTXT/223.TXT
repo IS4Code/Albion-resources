@@ -3,7 +3,7 @@
 "Mhm, parfois vous êtes vraiment bizarre... Je me réjouie en tout cas qu'il y ait encore des gens comme vous. C'est un compliment, je suis sérieuse."{WORDCompliment}
 "Vous l'avez mérité!"
 "J'aimerais bien y aller. Il y a beaucoup de choses qui ont changé maintenant."
-"Ah tiens, vous voilà encore. C'est donc bien arrivé comme je l'avais dit. Et je l'ai souvent répété. Herras est mort et je suis d'avis que vous avez une bonne part de responsabilité. ça vous aurait coûté quoi, d'empêcher ça? Quoi donc?^^Bon d'accord, Herras est mort et on ne peut plus revenir en arrière. Veuillez m'excuser, je ne suis pas d'humeur à soutenir une conversation."{WORDConseil}{WORDHerras}
+"Ah tiens, vous voilà encore. C'est donc bien arrivé comme je l'avais dit. Et je l'ai souvent répété. Herras est mort et je suis d'avis que vous avez une bonne part de responsabilité. Ça vous aurait coûté quoi, d'empêcher ça? Quoi donc?^^Bon d'accord, Herras est mort et on ne peut plus revenir en arrière. Veuillez m'excuser, je ne suis pas d'humeur à soutenir une conversation."{WORDConseil}{WORDHerras}
 "Je ne veux plus en parler avec vous. Si vous aviez entrepris quelque chose, il serait encore en vie!"
 "C'est moi."
 "Qu'est-ce qui se passe avec Herras?"

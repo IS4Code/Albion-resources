@@ -130,7 +130,7 @@ Platzhalter für weitere Cutmap-Events.
 "Togi Din, voyageurs. C'est Arjano, la gardienne du savoir. Bienvenue au centre des druides de Gratogel.^^On voit bien que vous venez de loin. Puis-je savoir quelle est votre requête?"
 "Togi Din. Nous sommes venus pour demander au druide Bero une amulette spéciale."
 "Vous voulez voir Bero, mmmh?^^Je vous demande de patienter. Je reviens tout de suite."
-"C'est donc le centre des druides. A en juger par l'accès vers le bas, l'installation a été construite sous terre.^^ça m'a déjà choqué quand j'ai vu la petite cabane."
+"C'est donc le centre des druides. A en juger par l'accès vers le bas, l'installation a été construite sous terre.^^Ça m'a déjà choqué quand j'ai vu la petite cabane."
 "Ah, voilà de nouveau l'homme avec son habit blanc!"
 "Etrangers, j'ai conféré avec Nemos, notre chef.^^Il est d'accord pour s'entretenir avec vous."
 {LEAD}{NAME} et ses compagnons suivent le druide sous terre...

@@ -18,7 +18,7 @@
 "Je ne vous ai pas déjà raconté ce que nous avons comme problèmes?"{BLOK020}"Si, vous l'avez déjà fait."{BLOK021}"Nous ne pensons pas."
 "Hé bien oui, maintenant le problème a atteint de telles proportions que nous devons absolument réagir. Mes frères de tribu sont du même avis que moi et soutiennent mon plan à fond."{WORDPlan}
 "Nous allons faire ce qu'il y a à faire! Nous allons occuper la Chose Sacrée et empêcher que les Iskais causent encore plus de dégâts avec leur lieu de prière. Nous allons peut-être devoir détruire l'atelier de magie, mais ça se décidera sur place."{BLOK022}"Mais le tabou?"
-"Nous allons bien sûr ignorer le tabou. Beloveno peut s'estimer heureux qu'on fasse le sale boulot à sa place. Nous allons occuper le lieu et aussi vite que possible. Il faut que ce soit fait!"{BLOK023}"ça ne signifie-t-il pas la guerre entre les Iskais et les hommes?"
+"Nous allons bien sûr ignorer le tabou. Beloveno peut s'estimer heureux qu'on fasse le sale boulot à sa place. Nous allons occuper le lieu et aussi vite que possible. Il faut que ce soit fait!"{BLOK023}"Ça ne signifie-t-il pas la guerre entre les Iskais et les hommes?"
 "Ecoutez, je n'aime pas répéter les choses. Nous devons sauver le pays avant que les horribles créatures ne l'emportent! Et il faut agir le plus rapidement possible, car le pouvoir ennemi grandit d'heure en heure!"
 "Qui pensez-vous avoir en face de vous?"
 "Je n'ai rien à voir avec ça. Que voulez-vous faire avec ça? Jetez-le, c'est une falsification sans aucune valeur."

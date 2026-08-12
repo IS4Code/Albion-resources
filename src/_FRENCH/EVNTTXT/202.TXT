@@ -27,7 +27,7 @@
 "La plupart des bateaux transportent des marchandises vers et à partir d'Umajo-Kenta. Il existe aussi des transports de personnes. Un bateau circule régulièrement entre Beloveno et Umajo-Kenta."{WORDUmajo-kenta}{WORDBateau}
 "Oui, il fait beau en ce moment, qu'en pensez-vous?"
 "Skeima Din. Ah bon, hé bien, ça signifie chez nous quelque chose comme 'Une journée merveilleuse'."
-"Nous possédons un monopole sur la production du métal. ça est dû au fait que personne d'autre que nous sait comment exploiter du minerai de fer sans provoquer la colère de la Bonne Terre, notre mère."{WORDMère}{WORDMineurs}
+"Nous possédons un monopole sur la production du métal. Ça est dû au fait que personne d'autre que nous sait comment exploiter du minerai de fer sans provoquer la colère de la Bonne Terre, notre mère."{WORDMère}{WORDMineurs}
 "Il existe une mine de minerais de fer par ici, elle se situe dans le coin nord-ouest de la ville. En plus, il existe aussi une auberge de ce nom tout près de là."
 "C'est tout au nord du continent. Très loin, si on y va à pied. L'entrée se trouve dans une grande falaise."
 "Vous la connaissez?^^Laissez Nelly tranquille de préférence. Sinon elle risque de vous mener par le bout du nez en faisant l'innocente. Vous ne la connaissez pas évidemment, sinon vous sauriez tout ce qu'elle a fait."

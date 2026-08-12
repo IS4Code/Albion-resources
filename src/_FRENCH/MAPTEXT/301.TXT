@@ -66,7 +66,7 @@ La table de contrôle du réacteur.
 "Je veux parler de cette console, Tom. Si tu croises bien les doigts pour moi, je pourrais essayer de couper Ned, l'I.A, de l'alimentation en énergie. J'essaye tout de suite?"
 Joe doit-il essayer de manipuler la console? {BLOK000}Oui, essayons! {BLOK001}Non, juste un moment.
 "N'attendons pas trop longtemps. Je n'ai pas envie de me faire prendre."
-"Enfin. C'est donc la salle du réacteur. Le réacteur de fusion est là-bas, tout au fond. ça vaut la peine d'y jeter un coup d'oeil!^^A part ça, nous devrions regarder autour de nous pour la console."
+"Enfin. C'est donc la salle du réacteur. Le réacteur de fusion est là-bas, tout au fond. Ça vaut la peine d'y jeter un coup d'oeil!^^A part ça, nous devrions regarder autour de nous pour la console."
 "Dois-je démarrer maintenant?"
 "C'est le réacteur! Regarde un peu cette lumière! Ils ont intégré une sorte de lucarne qui laisse passer seulement un millième de la lumière créée lors de la fusion. Un spectacle fantastique!"
 Joe se met au travail.
