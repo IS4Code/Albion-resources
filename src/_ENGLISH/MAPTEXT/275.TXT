@@ -126,7 +126,7 @@ Places for further Cutmap events.
 Places for further Cutmap events.
 {CNTR} I can only see you by invitation. ^ Go see Nodd, ^ signed Kontos.
 "The world is beauuuutiful, tralalala."
-"I guess you don't know that Otikro comes by here every morning. He is an outstanding battle trainer."
+"I guess you don't know that Garadd comes by here every morning. He is an outstanding battle trainer."
 "Skeima Din."
 "The last time a visitor came to our village, a horrible disease broke out which killed two members of our tribe. Hopefully you aren't carrying any bad diseases like that with you."
 "You cannot buy things here like in Beloveno. We all know each other and trade for the things we need. Therefore, we need no stores."
