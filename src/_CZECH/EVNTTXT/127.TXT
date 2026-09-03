@@ -21,7 +21,7 @@ dummy
 dummy
 "Dsarii-ma, poutníci. Hledáte někoho, kdo vyléčí vaše zranění?"{BLOK010}"Ano, Rejiro, potřebujeme vaši pomoc."{BLOK011}"Vlastně ne, ale rádi bychom nějaké léky."{BLOK012}"Ne, děkujeme, pouze se rozhlížíme kolem."
 "Jak milé! Lidé to často nepřiznají."{BLOK010}"Ano, pojďme si promluvit." {BLOK011}"Naneštěstí musíme jít, Rejiro."
-{INK 001}{LEAD}{NAME}pověděl něco málo o tom, co se přihodilo během cesty. Rajira byla velmi štastná: ^ ^ {INK 002} "Velice vám děkuji. Mám ráda vzrušující rozhovory!"
+{INK 001}{LEAD}{NAME} pověděl něco málo o tom, co se přihodilo běheme cesty. Rejira byla velmi štastná:^ ^{INK 002} "Velice vám děkuji. Mám ráda vzrušující rozhovory!"
 "Jaká hanba. Hodně štěstí na zbytku vaší cesty."
 "Oh, počkejte. Myslím, že tady pro vás mám malý dárek."
 SOON COMING: HEALER-SCREEN!

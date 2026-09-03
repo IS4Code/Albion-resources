@@ -1,5 +1,5 @@
 ﻿{BLOK000} Městská brána {BLOK001} Hornická krčma {BLOK002} Cech horníků / Pokoje {BLOK003} Spolek výrobců výstroje a nářadí {BLOK004} Cech kovářský {BLOK005} Cech brusičů diamantů {BLOK006} Smíšené zboží {BLOK007} Jídlo
-Otevřeno mezi 8 a.m. a 8 p.m.
+Otevřeno mezi 8 hod a 20 hod.
 Dveře.
 {CNTR} Na emblému vedle dveří stojí: {INK 006} Vítejte do Hornické krčmy.
 Zavřeno mezi 3 a.m. a 6 p.m.

@@ -127,14 +127,14 @@ Tom a jeho společníci si sotva zvykli na elegantní architekturu domu, když n
 !
 "Irkith, učenec ság a příběhů z dávných časů."
 "Buďte zdrávi cizinci."
-"A konečně Harriet, náš nejmladší člen. Slyší hlas Animebona."
+"A konečně Harriet, náš nejmladší člen. Slyší hlas Animebony."
 "Zdravím tě Tome Driscolle a Rainere Hofstedte."
-"Tome, vysvětlím vám, kde jste a co od vás chceme. Musím být stručný, proto se vám má řeč bude možná zdát neskromná. ^ ^  Jsme skupina lidí, kteří si říkají Dji Cantos nebo taky Osvícení. Skutečné jméno naší organizace, směsice Iskaiských a lidských výrazů, vyjadřuje, že naše organizace byla založena před dávnými lety lidmi a Iskai. členové naší skupiny mají hlubší znalosti o struktuře tohoto světa než běžní učenci. Kdykoliv pozoruhodný člověk dosáhne určitého stupně znalostí, prozradíme mu naše tajemství, které z něho dělá jednoho z Osvícených Dji Cantos. ^ ^ Naše společnost začala, když se lidé stěhovali na Albionu. Velký Cantos, vůdce lidí, založil naši skupinu téměř před 2000 lety společně se dvěma nejvýznamnějšími učenci Iskaiů. Sdíleli znalost energie, která umožnila lidským bytostem transport právě sem. Je to také zdroj magie tohoto světa. Oni a my, jako jejich dědici, víme o existenci Animebona, bytosti tohoto světa." 
+"Tome, vysvětlím vám, kde jste a co od vás chceme. Musím být stručný, proto se vám má řeč bude možná zdát neskromná. ^ ^  Jsme skupina lidí, kteří si říkají Dji Cantos nebo taky Osvícení. Skutečné jméno naší organizace, směsice Iskaiských a lidských výrazů, vyjadřuje, že naše organizace byla založena před dávnými lety lidmi a Iskai. členové naší skupiny mají hlubší znalosti o struktuře tohoto světa než běžní učenci. Kdykoliv pozoruhodný člověk dosáhne určitého stupně znalostí, prozradíme mu naše tajemství, které z něho dělá jednoho z Osvícených Dji Cantos. ^ ^ Naše společnost začala, když se lidé stěhovali na Albionu. Velký Cantos, vůdce lidí, založil naši skupinu téměř před 2000 lety společně se dvěma nejvýznamnějšími učenci Iskaiů. Sdíleli znalost energie, která umožnila lidským bytostem transport právě sem. Je to také zdroj magie tohoto světa. Oni a my, jako jejich dědici, víme o existenci Animebony, bytosti tohoto světa." 
 "Pokračuj prosím. Co je význačné na této Animeboně?"
-"Animebona je souhrnem veškerého života tohoto světa a dokonce má své vlastní myšlení a cíle. Stopy jejích kořenů se dají nalézt ve spoustě regionů v Albionu, jako bohyně Iskaiů nebo Danu lidí. ^ ^ Byla to ona, kdo mluvil s Cantosem a vedla lidi sem skrz Zemi Mlhy.
+"Animebona je souhrnem veškerého života tohoto světa a dokonce má své vlastní myšlení a cíle. Stopy jejích kořenů se dají nalézt ve spoustě oblastí v Albionu, jako bohyně Iskaiů nebo Danu lidí. ^ ^ Byla to ona, kdo mluvil s Cantosem a vedla lidi sem skrz Zemi Mlhy.
 "Omluvte mě, ale bude ještě spousta času později na ukojení vaší žízně po znalostech, důstojný Rainere. ^ ^ Prozatím pouze potřebujete znát, že se znalostmi tohoto světa jsme převzali určitou odpovědnost. Od té doby, co Frill oznámil váš příjezd do Jirinaar naší skupině, sledovali jsme vás a zapisovali si informace."
 "Víte, kde se nachází naše největší vesmírná loď Toronto?"
-"Ano Tome Driscolle, opravdu víme kde tento gigantický kovový kolos přistál, a i když přistál na Velké Poušti, muselo nás to zajímat. ^ ^ Ta loď je ztělesněním všech důvodů, proč Cantos před mnoha lety vedl své lidi z Animenkna. Nyní nás Helromier vyrovnal, nebo se to přinejmenším zdá."
+"Ano Tome Driscolle, opravdu víme kde tento gigantický kovový kolos přistál, a i když přistál na Velké Poušti, muselo nás to zajímat. ^ ^ Ta loď je ztělesněním všech důvodů, proč Cantos před mnoha lety vedl své lidi z Animenkny. Nyní nás Helromier vyrovnal, nebo se to přinejmenším zdá."
 "Nemosi, naprosto nerozumím tomu, co říkáš. Cožpak obyvatelé Albionu doposud nenašli Toronto?"
 "Podle našich informací ne. Ale my nejsme vševědoucí, Tome Driscolle. ^ ^ Až doposud tvé činy dokazovaly tvoji důvěryhodnost. Proto bychom rádi vybudovali spojení mezi našimi a tvými lidmi. Rádi bychom znali cíle Helromierů na našem světě."
 "Podle našich informací ne. Ale my nejsme vševědoucí, Tome Driscolle. ^ ^ Až doposud tvé činy dokazovaly tvoji důvěryhodnost. Proto bychom rádi vybudovali spojení mezi našimi a tvými lidmi. Rádi bychom znali cíle Helromierů na našem světě."
@@ -176,7 +176,7 @@ Tom se svými společníky vešli do vstupní haly Cantova domu. Osvícení se r
 "Musíme přemýšlet. Jsem rád, že tři z Helromierů, včetně učence, přešli na naši stranu. Možná, že společně nalezneme cestu jak odvrátit nastávající hrozbu."
 Zatímco Tom a Joe odpočívali, jeden z Osvícených a Rainer udržovali živou a horlivou diskusi. Příští den se Tomovi a jeho společníkům dostalo jejich rozhodnutí.
 "Myslíme si, že jsme našli možné řešení. Určitě to bude nejobtížnější magická operace, jakou jsme kdy podnikli, ale může nám poskytnou aspoň jakous takous šanci."
-"Neříkal jsi, že magie nemůže zaútočin na Toronto?"
+"Neříkal jsi, že magie nemůže zaútočit na Toronto?"
 "A to byl právě náš problém. Ale s pomocí Rainera Hofstedta se o to můžeme pokusit. Neměli bychom zaútočit na Animenkny, technologický základ Helromierů; měli bychom z toho udělat část magického procesu, abychom mohli z kovového kolosu přesednout do něčeho jiného."
 "Bohužel plán má jednu nebo dvě vady."
 "To, co se Rainer Hofstedt snaží říci je to, že vytvoříme magický artefakt. Jeho síla bude obrovská, ale ne úplně předvídatelná. A musí být použit na velký zdroj energie uvnitř lodi."

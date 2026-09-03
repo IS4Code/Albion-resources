@@ -124,13 +124,13 @@ Places for further Cutmap events.
 Places for further Cutmap events.
 Places for further Cutmap events.
 Places for further Cutmap events.
-"Togi Din, travelers. Of course, you may enter Arjano."
-"Togi Din. I hope you find Bero alive. I must confess I wouldn't dare go into the forbidden part!"
-"Togi Din, Bero's Saviors. Your deed will be the substance of many stories!"
-"Togi Din, travelers. This is Arjano, the Guardian of Knowledge. Welcome to the Center of the Druids of Gratogel. ^ ^ Anyone can see that you come from far away. May I ask what your purpose is here?"
-"Togi Din. We come to ask the Druid Bero for a special amulet."
-"You want to see Bero, hmm? ^ ^ Please be patient. I will be back shortly."
-"So, this is the Center of the Druids. Judging from the access going down, the rest of the center is underground. ^ ^ I was shocked when I saw the little hut."
-"Ah, there is the man in the white gown again!"
-"Strangers, I have talked with our chief, Nemos. ^ ^ He is ready to meet with you."
-{LEAD}{NAME}and {HIS } companions follow the Druid under the earth...
+"Togi Din, poutníci. Ovšem, vy chcete uvidět Arjano."  
+"Togi Din. Já doufám, že je Bero naživu. Musím přiznat, že bych do zakázané části nešel!"         
+"Togi Din, Berovi zachránci. Váš skutek bude v mnoha příbězích!"            
+"Togi Din, poutníci. Toto je Arjano,  Opatrovnictví Znalostí. Vítejte v Centru všech Druidů z Gratogelu.          ^ ^ Každý vidí, že jste přišli z daleka. Můžu se zeptat, proč jste došli až sem?"    
+"Togi Din. Přišli jsme, abychom se zeptali Bera na amulet,"    
+"Chcete vidět Bera? Hmm.    ^ ^ Prosím, vyčkejte na mě. Za chvíli jsem tu."
+"Tak tohle je Centrum Druidů. Když šel dolů, hlavní části Centra budou asi dole v podzemí.                        ^ ^ Lekl jsem se, když jsem viděl tu chatrč."
+"Ach, ten muž v bílém se vrátil zezdola!"      
+"Cizinci, mluvil jsem s našm vedoucím, Nemosem.  ^ ^ Je připraven na setkání."     
+{LEAD}{NAME} s {HIS } společníci  následovali druida do podzemí.     

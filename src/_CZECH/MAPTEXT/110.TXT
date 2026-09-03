@@ -1,4 +1,4 @@
-﻿{BLOK000} Poradní budova, sídlo Sebainah {BLOK001} Městská brána {BLOK002} Dům klanu Jižního větru {BLOK003} Bratrstvo Dji-Kas  (Magicians) a Healer {BLOK004} Bratrstvo Dji-Fadh (Formers) {BLOK005} Taverna "Dům větrů"{BLOK006} Výroba zbraní {BLOK007} Potraviny {BLOK008} Smíšené zboží {BLOK009} Učitel boje
+﻿{BLOK000} Poradní budova, sídlo Sebainah {BLOK001} Městská brána {BLOK002} Dům klanu Jižního větru {BLOK003} Bratrstvo Dji-Kas (Mágové) a léčitel    {BLOK004} Bratrstvo Dji-Fadh (Tvůrci)  {BLOK005} Taverna "Dům větrů"{BLOK006} Výroba zbraní {BLOK007} Potraviny {BLOK008} Smíšené zboží {BLOK009} Učitel boje
 {CNTR} Na vývěsním štítu stojí: ^ ^ {INK 006} Jirinaar Poradní dům
 {INK 001} Mladý Iskai není zvyklý na podobu lidských bytostí. Začne se nekontrolovaně smát a nemůže ze sebe vypravit ani slovo.
 "Dsarii-ma! Musím říct svojí sestře, že jsem vás potkal. Bude strašně žárlit!"

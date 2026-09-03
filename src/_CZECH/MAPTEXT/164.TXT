@@ -58,7 +58,7 @@ Stará truhla,která je tu pravděpodobně ještě od dob, kdy budova byla obydl
 Masivní rostlina. Její povrch chytá vodu ze stropu.
 {LEAD}{NAME} strčil do rostliny, ale ta se ani nehla.
 Dotkl se rostliny.
-To bylo lehké vítězství. Průhledná struktura byla zničena. yed. Chvění proběhlo tímto prostorem a žijící aura opustila toto místo. ^ ^ Všechno okolo  {LEAD}{NAME} a jeho přátel se stalo šedivým a bez života.
+To bylo lehké vítězství. Průhledná struktura byla zničena. Chvění proběhlo tímto prostorem a žijící aura opustila toto místo.      ^ ^ Všechno okolo  {LEAD}{NAME} a jeho přátel se stalo šedivým a bez života.
 "Tato bitva mě nenaplnila uspokojením. I když to tu bylo nebezpečné, toto místo mělo zvláštní krásu. Bojím se, že jsme zničili něco co dodávalo speciální životní energii do starého centra Předešlých."
 Toto jsou zůstatky zabijáka.
 Toto náleží Akiirově vrahovi.

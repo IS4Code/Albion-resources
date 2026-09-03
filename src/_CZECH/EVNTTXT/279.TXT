@@ -6,7 +6,7 @@
 "Dobrá, pak mě následujte."
 "Jasně. Budu tady na vás čekat. Zatím."
 "Dsarii-má! Jste připraveni na malý výlet k moři?" {BLOK010} "Ano, proč ne?" {BLOK011} "Ne, chtěli bychom počkat o trochu déle."
-"Tome, než půjdete, tak bych vám rád něco řekl, . ^ ^ Po všem to vzrušení,já s Mellthas bychom měli rádi nějaký čas pro sebe. Chtěl bych  abyste vy a zbytek party šel na chvíli bez nás. ^ ^ Až si odpočinem, rádi se k vám opět připojíme Nebojte !!!! ^ ^ Budeme v hospodě v Srimalinaru, kdybyste nás hledali."
+"Tome, než půjdete, tak bych vám rád něco řekl, . ^ ^ Po všem to vzrušení,já s Mellthas bychom měli rádi nějaký čas pro sebe. Chtěl bych  abyste vy a zbytek party šel na chvíli bez nás. ^ ^ Až si odpočinem, rádi se k vám opět připojíme. Nebojte se! ^ ^ Budeme v hospodě v Srimalinaru, kdybyste nás hledali."
 "Chápu. Přeji tobě a Mellthasovi krásné chvilky v Srimalinaru. Brzo se zase uvidíme. ^ ^ Nashle!"
 {INK 001}Sira a Mellthas říkají nashledanou. Ostatní následují. Frilla na malé lodi, okamžitě odplouvá...
 "Nashledanou. Zatím, Tome! ^ ^ Oh, pokud potřebujete nějaké vybavení, tak si ho klidně vemte..." ^ ^ {INK 001}Sira a Mellthas nabízejí vybavení.

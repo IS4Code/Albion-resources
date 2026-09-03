@@ -29,7 +29,7 @@ Malý červený kamínek se přilepí Tomovi na kůži. Nemůže se uvolnit.
 {INK 001}Mellthas zavrtí hlavou, chce si své psací prostředky nechat. Je to jeho jediný prostředek komunikace.
 "Je to velmi důležité. Měli bychom to raději nechat kde to je, než se něco stane."
 {INVE}{NAME} probere se z bezvědomí a říká:
-Listina obsahuje zajímavé informace. Upozorňuje na dohodu, kterou uzavřeli Kontos, Gard, and Riko. Cestovatelé nerozumějí všemu co je tam napsáno, protože většina toho je v jistém zakódovaném jazyce. Jde patrně o nějaký druh smlouvy, jak rozdělit cenné předměty. Nic víc v tuto chvíli nemůžeme říct. ^^ Možná tenhle malý důkaz poslouží k vyjasnění konfliktu, který mezi sebou mají Iskai a Mahinos!
+Listina obsahuje zajímavé informace. Upozorňuje na dohodu, kterou uzavřeli Kontos, Gard, a Riko. Cestovatelé nerozumějí všemu, co je tam napsáno, protože většina toho je v jistém zakódovaném jazyce.  Jde patrně o nějaký druh smlouvy, jak rozdělit cenné předměty. Nic víc v tuto chvíli nemůžeme říct. ^^ Možná tenhle malý důkaz poslouží k vyjasnění konfliktu, který mezi sebou mají Iskai a Mahinos!
 Tom se nechce vzdát semínka - kvůli kterému bylo tolik potíží a nebezpečí.
 Zápiskům, které obsahují Nejvyšší moudrost, mohou zřejmě porozumět jen opravdoví mistři magie. Pergamen pokrývají složité návody a básně plné spletitých veršů.
 Je tu napsána podivná směs kouzelnicky znějící hatmatilky a technické návody. Dji Cantos by pravděpodobně věděl, co to znamená.

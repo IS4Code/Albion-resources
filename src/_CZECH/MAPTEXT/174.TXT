@@ -76,7 +76,7 @@ Najednou byl Joe vyrušen rozhlasem!
 "Ale ne! Palubní počítač!"
 "Nede! Jak jste si s Brandtem mohli myslet, že se vám podaří zatajit pravdu o této planetě?"
 !
-"Prostě zadej: Ano! ^ ^ Předpoklady jsou příznivé a šance dobré. Existence společnosti ospravedlňuje určité procento rizika."
+"Prostě řekni: Ano! ^ ^ Předpoklady jsou příznivé a šance dobrá. Existence společnosti ospravedlňuje určité procento rizika."
 "{FAT } Cože? {NORS} Vy nám říkáte přímo do tváře, že jste při plném vědomí zamýšlel zničit tento svět! ^ ^ Já..."
 "Co uděláme s kapitánem Brandtem? Když nedokáže zjistit, co se stalo během letu, ztratí svoji licenci navždycky!"
 "To je pravda. Následně bude kapitán Brandt podroben důkladnému vyšetřování. Pak bude přirozeně DDT donuceno ho propustit. ^ ^ Bude muset strávit zbytek svého života jako historicky nejbohatší nezaměstnaný. ^ ^ Bohužel vás musím oba držet pod zámkem dokud mise neskončí. Nemějte ale strach, poskytnu vám veškeré pohodlí, které byste mohli potřebovat."

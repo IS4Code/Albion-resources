@@ -174,10 +174,10 @@ Fasiir zavedl návštěvníky do místnosti s kamennou podlahou, která spočív
 "Dsarii-ma, pronásledovatelé Akiirových vrahů! ^ ^ Chtěli bychom vás ujistit, že s vraždou Akiiry nemáme nic společného! Kriis, ten zrádce, dostal zaplaceno za to, aby se pokusil uvalit vinu na Fasiira, našeho vůdce."
 "Dsarii-ma. Hledáte vraha Akiiry, správně? Najděte pravdu a přijdete na to, že je Fasiir a náš cech nevinný!"
 "Dsarii-ma, pronásledovatelé vraha. Bohužel vám nemůžu o celém incidentu říct nic víc než to, že my bychom nikdy něco takového nespáchali. Kriss, ten obchodník, lže!"
-Toa a Rainer, stejně tak jako jejich nový společník, Drirr, vstoupili do cechovního domu Dji-Kas Mágů. Doprovázeli je dva Stiriikové, místní policie. Nejdříve se setkali se Sirou, dcerou zavražděného Akiiry, která se k cechu Dji-Kas dostala jaksi "omylem".
+Tom a Rainer, stejně tak jako jejich nový společník, Drirr, vstoupili do cechovního domu Dji-Kas Mágů. Doprovázeli je dva Stiriikové, místní policie. Nejdříve se setkali se Sirou, dcerou zavražděného Akiira, která se k cechu Dji-Kas dostala jaksi "omylem".
 "Slyšela jsi už o smrti svého otce, Siro?"
 "Ano, já... už nikdy nebudu mít možnost si s ním promluvit. Ach, bohyně, to je... ^ ^ Nevíte, kdo to mohl udělat?"
-"Cítím s tebou, Siro. Ne, ještě ne. Ale slyšeli jsme, že byl uprchlí vrah viděn poblíž této budovy."
+"Cítím s tebou, Siro. Ne, ještě ne. Ale slyšeli jsme, že byl uprchlý vrah viděn poblíž této budovy."
 Fasiir, představený cechu Dji-Kas Mágů, vstoupil.
 "Dsarii-ma. Slyšel jsem o Akiirově vraždě. Co vás k nám přivádí?"
 "Vrah byl viděn poblíž vaší budovy. Můžeme se tu trochu porozhlédnout?"
@@ -194,7 +194,7 @@ Drirr se otočil k Iskai, který vytvořil to oslnivé světlo.
 "Znám důvod nenávisti mezi tebou, Fasiire, a Akiirem moc dobře. Měl jsi motiv vraždit!"
 "Po všech těch letech, zvolil bych si snad teď..."
 "Stiriiku, vezměte Kriise i Fasiira do vazby a držte ho tam do té doby, než nenajdeme vraha a nedozvíme se pravdu."
-"Drirre, rád bych odešel. Už tu nemůžu déle zůstat. Musím být sama a všechno si ještě jednou probrat."
+"Drirre, rád bych odešla. Už tu nemůžu déle zůstat. Musím být sama a všechno si ještě jednou probrat."
 {INK 001} Drirr se otočil k Tomovi a Rainerovi: ^ ^ {INK 002} ^ ^ "Už jsme ho skoro měli! Každopádně už není v tomto domě. Ale mohli bysme ho ještě chytnout někde ve městě."
 Po oslnivém záblesku zůstávají oči všech ještě částečně oslněny.
 "Dobře, Drirre, vyrazíme. Jen ještě jednu věc: ^ O co šlo mezi Fasiirem a Akiirem?"

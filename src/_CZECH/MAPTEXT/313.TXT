@@ -150,7 +150,7 @@ Arthor, Pán Ceremonií; Rhain, který přivítal Toma a jeho společníky Khamu
 "Kdo jsi, kdož hledá smrt a dovoluje si zde promluvit? A kdo jsou tví společníci?
 "Jmenuji se Tom Driscoll, a jako ty, pocházím z planety Země. Pouze jsem se tam narozdíl od tebe i narodil a přiletěl jsem sem ve vesmírné lodi. Moji společníci jsou přátelé, kteří mne doprovázejí na mé misi. Albion je v nebezpečí. Loď, ze které přicházím, již začala ničit vaši planetu, vznešený Cuaine. Potřebujeme vaše Vyšší vědění k zastavení zániku a zničení lodi."
 "Jsi blázen Driscolle. Tvé srdce je zdvořilé a necítí nenávist, která tě doprovází."
-"Byl jsi zrazen pozemšťane! Vyšší vědění je zde, ale ty je nedostaneš. Kengeťané neutečou z poslední války, která byla předpovězena dávno předtím. Vypadá to, že nadešel čas, kdy volání Kamulosů po Poslední bitvě bylo vyslyšeno."
+"Byl jsi zrazen pozemšťane! Vyšší vědění je zde, ale ty je nedostaneš. Kengeťané neutečou z poslední války, která byla předpovězena dávno předtím. Vypadá to, že nadešel čas, kdy volání Kamulose po Poslední bitvě bylo vyslyšeno."
 "Nevím, jakou nenávist máš na mysli, vznešený Cuaine. Ale já vím, že nikdo ve skutečnosti neví, kdo se zúčastnil poslední bitvy. A říká se, že i muži, kteří byli nečestní, mohou zemřít na té správné straně. Ale nikdo neví, čí život se ocitne na té správné straně, když nastane Poslední bitva. Všichni mí společníci chtějí zachránit Albion. Jsme na vaší straně!"
 "Předpokládejme, že máš pravdu pozemšťane. Předpokládejme, že Poslední bitva Kengeťanů bude podpořena právě muži, kteří nepřekonali svůj vztek, ale staví se za jedinou správnou věc, která tu přichází v úvahu. Předpokládejme, že k tomu, abych vyhrál Poslední bitvu ti musím poskytnout naše Vyšší vědění. Měl bych to udělat? Samozřejmě že ano!"
 "Předpokládejme dále, že v Poslední bitvě Iskaiové, dokonce i ženy Iskaiů a lidské bytosti budou na naší straně. Pak tedy, kdo bude stát na straně druhé? Moc jich nezbývá. Možná Khunagové, zrádci? Ano, určitě Khunagové, mám pravdu?"
@@ -171,4 +171,4 @@ Po hrozné bitvě na okamžik zavládne ticho. Zbylý Kenget Kamulos hledí na m
 "Při vší úctě máte pravdu!"
 "Cuainovu smrt vyložíme důstojnou cestou."
 "špinavče, máš to, po čem jsi šel. Zůstaneš naživu i navzdory svému nevýslovnému činu. Vyprovodím tě ven z Kamulosu únikovou cestou. Už se sem nikdy nevracej. O této události nikdy nikomu neříkej. Jinak nebude žádné místo na světě, kde by ses před námi mohl schovat."
-Rjaom směřuje s {LEAD}{NAME} a společníky tiše skrz úzké průchody k trhlině v horském svahu. Bez dalších slov nechává každého projít skrz otevírající a zavírající se maskované dveře.
+Rhain směřuje s {LEAD}{NAME} a společníky tiše skrz úzké průchody k trhlině v horském svahu. Bez dalších slov nechává každého projít skrz otevírající a zavírající se maskované dveře.

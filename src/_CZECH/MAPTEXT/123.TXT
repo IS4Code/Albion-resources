@@ -7,7 +7,7 @@ Truhla. Neobsahuje nic co by se vyplatilo brát s sebou.
 Velká houbě podobná rostlina.
 Zeď z rostlin vypadá na tomto místě křehká; hluboké zlomy pronikly materiálem. Vypadá to, že by se zde se správným vercajkem  dalo něčeho dosáhnout.
 {LEAD}{NAME} udeřil do zdi mocnou ranou krumpáčem. Zeď se sesunula a vytvořila průchod!
-Náhle se stalo několik věcí najednou: ^ The zeď za skupinou spadla, zdi před ní se pohly a byli roztrhány superostrými drápy! ^ ^ Zabijácké nestvůry vyšli z nově vytvořené pasáže a útočí!
+Náhle se stalo několik věcí najednou: ^ Zeď za skupinou spadla, zdi před ní se pohnuly a byly roztrhány superostrými drápy!   ^ ^ Zabijácké nestvůry vyšly z nově vytvořené pasáže a útočí!
 V této váze bylo nalezeno trvanlivé jídlo.
 {LEAD}{NAME} se podařilo najít jídlo.
 {LEAD}{NAME} myslí, že je něco zajímavého pod tímto smetím!

@@ -149,28 +149,28 @@ Place holder for further Cut-Map Events.
 Place holder for further Cut-Map Events.
 Place holder for further Cut-Map Events.
 Place holder for further Cut-Map Events.
-{CNTR}The planet: Into the jungle.
-{CNTR}The planet: Forest and waterfall.
-{CNTR}The planet: Through the desert.
-{CNTR}2D: Iskai interior design.
-{CNTR}2D: Iskai inn.
-{CNTR}2D: Dark druids: Gloomy but beautiful.
-{CNTR}2D: The "decadent".
-{CNTR}2D: The descendants of the Celts.
-{CNTR}3D: The cursed Dji-Fadh place (organic dungeon).
-{CNTR}3D: Jirinaar, city of the Iskai.
-{CNTR}3D: Halls of the dark druids.
-{CNTR}3D: Mixed Pixlers dungeon.
-{CNTR}3D: The little cave.
-{CNTR}3D: On board of the Toronto.
+{CNTR}Kontinent: Nakiridaani       
+{CNTR}Kontinent: Gratogel              
+{CNTR}Kontinent: Pouste Umajo        
+{CNTR}2D: Jirinaar - Dji-Fadh   
+{CNTR}2D: Dům větrů 
+{CNTR}2D: Kamulon, poradní místnost, Cuain  
+{CNTR}2D: Drinno v Arjanu
+{CNTR}2D: Domky Keltů v Belovenu       
+{CNTR}3D: Původní dům Dji-Fadh (zivotaschopný)        
+{CNTR}3D: Jirinaar, město Iskaiů      
+{CNTR}3D: Kobky Kenget Kamulose    
+{CNTR}3D: Nižší Drinno          
+{CNTR}3D: Jeskyně Bohyně  
+{CNTR}3D: Servisní podlaží Toronta
 {CNTR}{FAHI}{INK 006}Welcome to the incredible ALBION-shortcut-map {NORS}(TM) {FAHI}!{NORS} ^ ^ {INK 001}Press Alt-F7 to return to this map at any time.
-{CNTR}Beloveno, the port town of the south.
+{CNTR}Beloveno, přístavní město na jihu    
 {CNTR}{INK 001}Welcome to a work-in-progress - version of ^ {HIGH}ALBION{NORS}. ^ {JUST} Please keep in mind that this version is BY NO MEANS REPRESENTATIVE OF THE GAMEPLAY of the finished product! There are still some essential parts of the program missing. Please refer to the printed manual which is enclosed with this CD. ^ ^ Currently you are in a demo-map, which gives you access to different areas of ALBION. Press Alt-F7 to return to this map. Just go through the doors to take a look at the exceptionally wide range of in-game-graphics. Except for the user-interface, all texts are still in German, sorry. ^ ^ How to play: Simply put, if you want to move, use the left mouse-button, if you want to do or to cancel something, press (or hold down) the right mouse-button. That's it, have fun poking around. ^ ^ PLEASE TAKE A LOOK AT THE MANUAL!
 REMARK: It's possible to do some simple puzzle-solving in the next 3D-scenario. Your goal is simply to reach the exit of this level, a ladder similar to the one where you've been entering the map. If you find a keyboard on the wall, the correct code is 1042.
 REMARK: The next 2D-scenario allows you to do some puzzles based on the functions of the program that are already included. There are a lot of hints by one of the members of your party since this is still a beginners scenario, but alas, they're in German, too.
 REMARK: This is one of the game's areas which we have started to fill with life. The persons who don't answer if you try to speak to them, will come up with a special dialogue screen shortly.
 REMARK: To leave the next room, step on the green plate on the floor, and watch the greenish transparent walls!
-An Isle of Peace: The Dji Cantos place.
+Ostrov míru - Dji Cantos               
 Rainer
 Drirr
 Sira

@@ -3,7 +3,7 @@ Velký kamenný kvádr.
 Dveře.
 Dveře jsou zamčené a nedají se otevřít. Nikdo tu pravděpodobně zrovna není.
 Zde se kontroluje dodané zboží.
-Je tu velká plaza (???) s fontánou, stoly nádobkami a nádobami. Skoro to vypadá na tržiště.
+Je tu velké náměstí s fontánou, stoly, nádobkami a nádobami. Skoro to vypadá na tržiště.
 {INK 006}{CNTR} Chrániče, přilbice a brnění.
 {INK 006}{CNTR} Vrhací, sečné a bodné zbraně.
 {INK 006}{CNTR} Smíšené zboží.

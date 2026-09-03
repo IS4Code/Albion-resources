@@ -2,14 +2,14 @@
 krátká dýka
 dýka
 dlouhá dýka
-krátký-meč
+krátký meč
 meč
 obouručák
 Lughova dýka
 Danusovo světlo
-bodná rána
+bodák
 dvojitý zásah
-těžký krátký-meč
+těžký krátký meč
 dekorativní meč
 vrhací dýka
 dlouhý meč
@@ -23,7 +23,7 @@ bojová palice
 bojové kladivo
 Iskai nůž
 Iskai dýka
-Iskai stiletto
+Iskai stilet
 Iskai krátký meč
 velký Iskai stilet
 Iskai meč
@@ -33,7 +33,7 @@ Iskai kopí
 velká Iskai dýka
 Iskai krátký stilet
 Bradirův stilet
-big Iskai sword
+velký Iskai meč
 malý luk 
 luk
 dlouhý luk
@@ -58,7 +58,7 @@ kožená přilba
 hřeby pobitá přilba
 kovový polokrunýř
 kovová helma
-Iskai kořená přilba
+Iskai kožená přilba
 Iskai kovová přilba
 Iskai kovová helma
 kožená vesta
@@ -74,63 +74,63 @@ boty
 vysoké boty
 prázdná láhev
 zelený léč. lektvar
-turecký léč. lektvar
+tyrkys. léč. lektvar
 modrý léčivý lektvar
 červený lektvar
 fialový lektvar
 modrý lektvar
-Hunter-clan key
+klíč Klanu Lovců
 klíč
 zbrojařův klíč
 klíč ke dveřím
 klíč od vězení
 klíč od truhly
 klíč k žaláři
-Herrassin klíč
+Herrassův klíč
 klíč od dveří
-Klíč pána příšer
+Klíč Pána příšer
 provaz
-hadí látka
-krystalová látka 
-Danusův obojek
-ledový kruh
-ohnivý kruh
-kruh hněvu
-kruh zbožnosti
+hadí hůlka
+krystalová hůlka
+Danusův kroužek
+ledový prsten
+ohnivý prsten
+prsten hněvu
+prsten zbožnosti
 kniha
 louč
 louč (hořící)
-bedna
-bedna
-krabice
+nádoba
+nádoba
+nádoba
 talíř
 bylinky
 bylinky
 zákusky
 koření
-bedna
+nádoba
 plechovka
-bedna
-bedna
-bedna
+nádoba
+nádoba
+nádoba
 kuchyňský nůž
-bedna
+nádoba
 láhev
 láhev
 kniha
 příbor
-šálek
+sklenice
 kniha
-bedna
-bedna
-bedna
-bedna
-bedna
+nádoba
+nádoba
+nádoba
+nádoba
+nádoba
 láhev
 vonný kořen
 láhev
 rozbitá lahev
-bedna
+nádoba
 láhev
 kniha
 polštář
@@ -141,27 +141,27 @@ ovoce
 studená pečeně
 lahev
 lahev
-košík
+vědro
 hadr
 ručník
 šálek
 kartáč na chlupy
 lžíce
 šálek
-ulita
+miska
 koření
 ovoce
-malá  bedna
+malá nádoba
 příbor
 talíř
 vidlička
-bedna
+nádoba
 salám
 šunka
 lžíce
 kleště
-kartotéka
-malá kartotéka
+pilník
+malý pilník
 krumpáč
 šroubovák
 kladivo
@@ -180,67 +180,67 @@ francouzský klíč
 kovová krabička
 kovová konstrukce
 drátěná konstrukce
-kovová mušle
+kovová miska
 mosazné kuličky
 ampulka
 ampulky
 červená ampulka
 kladivo
 nůžky
-mísa
+miska
 francouzský klíč
 ostré nůžky
 láhev
-lahvička
-láhev s vodou
-mísa
-minomet
+lahvičky
+miska s vodou
+miska
+hmoždíř
 lupa
 pinzeta
 uzený salám
-hliněná mísa
-hliněná mísa
+hliněná miska
+hliněná miska
 vidlička
 stolní nůž
 talíř
 lžíce
-hliněná bedna
-bliněná bedna
-hliněná bedna
-hliněná bedna
-hliněná bedna
-hliněná bedna
+hliněná nádoba
+hliněná nádoba
+hliněná nádoba
+hliněná nádoba
+hliněná nádoba
+hliněná nádoba
 příbor
 džbánek
-hliněná bedna
-roh na pití
+hliněná nádoba
+kalíšek
 talíř
 hliněný džbán
 naběračka
-hliněná bedna
-hliněná bedna
-hliněná bedna
-hliněná bedna
-hliněná bedna
-košík
+hliněná nádoba
+hliněná nádoba
+hliněná nádoba
+hliněná nádoba
+hliněná nádoba
+vědro
 polštář
 těžký krátký meč
 těžká dýka
-kovové brnění
+kovový talíř
 kniha
 kniha vázaná v kůži
-noty
-tužka
+poznámky
+brko
 kniha
 kniha
-košík
-košík
+vědro
+vědro s vodou
 zelenina
 kovový hrnek
 zákusky
 naběračka
-skleněná bedna
-skleněná bedna
+skleněná nádoba
+skleněná nádoba
 velká sklen. nádoba
 talíř
 talíř
@@ -249,18 +249,18 @@ láhev
 dřevěný džbán
 velký skleněný džbán
 velká skleněná váza
-hliněná bedna
-hliněná bedna
-hliněná bedna
+hliněná nádoba
+hliněná nádoba
+hliněná nádoba
 proutěný koš
 Iskaiský pozn. blok
 poznámky
-Iskai zvonící kniha
+Iskai kroužkový blok
 Iskaiský bloček
 tužka
 krátká tužka
 páka
-vědro vody
+vědro s vodou
 oko monstra
 kompas
 hodiny
@@ -273,7 +273,7 @@ modrá kódová karta
 červená kódová karta
 zelená kódová karta
 tyrkys. kódová karta
-notebook
+poznámky
 tyrkys. hud. krystal
 modrý hud. krystal
 červ. hud. krystal
@@ -286,22 +286,22 @@ sekera
 dlouhý šíp
 šíp
 pás blesků
-kanystr
+patrona
 paklíč
-stimdrink
-kovové brnění
-kovové brnění
+stimulační nápoj
+kovový talíř
+kovový talíř
 sklenice
 šálek
 šálek
-bedna
-bedna
+nádoba
+nádoba
 láhev
 láhev
 šálek
-nádobka
-nádobka
-nádobka
+nádoba
+nádoba
+nádoba
 konzerva
 pohár
 číše
@@ -351,24 +351,24 @@ amulet síly
 Porenoil
 vonná voda
 křišťálová dýka
-Dýka slunce
+dýka slunce
 Ohnivé ostří
 Kamulosův pohled
 Berla mrazilka
 krystal. vrh. sekera
 přilba s křišťálem
-Helma Lungova palice
+Helma Lughova dlaň
 listina
 část listiny
 část listiny
 Snový štít
 Lughův štít
-zkázonosná koule
-krondir Trii
+warniakova koule
+krondirovo Trii
 diamant
 Tharnosovo svolení
-Ohňová koule
-dotek plemene
+Ohnivá koule
+Dotek plamene
 Meč stínů
 Rudý meč
 Křišťálová dýka
@@ -379,7 +379,7 @@ pracovní oděv
 oděv
 Kámen vidění
 znalost želez. magie
-"Vyšší vědomí"
+"Vyšší vědění"
 Kengetův znak
 SEMíNKO
 SEMíNKO
@@ -389,74 +389,74 @@ kódová zpráva-část 3
 mapa sklepení
 video kamera
 zálohovací zařízení
-Joevům čip
+Joeův čip
 světelná hůl
 světelná hůl
 amulet bohyně
 malá koule Warniaka
 Dji Cantosův kámen
 Trnová past
-spěch
-Názor na život
+Spěch
+Pohled na život
 protijed
 lék proti šílenství
 antibiotikum
-ledový úlomek
-levový křišťál
-lavina mrazu
-lék proti oslnění
-oslepující jiskra
+Zmrzlá štěpina
+Zmrzlý krystal
+Zmrzlá lavina
+Lehké hojení
+Oslepující jiskra
 Oslepující paprsek
 Oslepující bouře
-uspávací výtrus
+Uspávací výtrusy
 Trnová past
-odstranit past
-Lék proti paralýze
-vyléčit opilost
-léčit slepotu
-léčit otravu
-infikace houbami
-světlo
-regenerace
-pohled na mapu
-Ten kdo nosí život
+Odstranění pasti
+Vyléčit ochrnutí
+Vyléčit opilost
+Vyléčit slepotu
+Vyléčit otravu
+Houbovitost
+Světlo
+Regenerace
+Pohled na mapu
+životabudič
 Teleport
 Rychlý ústup
-levitace
+Levitace
 kámen
-Bohyní hněv
-podráždění
-zotavení
-Bersek
-vyhnat ducha
-vyhnat duchy
-exodus démonů
-Malá ohňová koule
-Kouzelný štít
-Hojivý lektvar
-chlouba
+Hněv Bohyňe
+Dráždění
+Zotavení se
+Berserk
+Zahnat démona
+Zahnat démony
+Démonní exodus
+Malá ohnivá koule
+Magický štít
+Hojení
+Nahlodávání
 šok
 Panika
-Otrávený kámen
-Blesk
-déšť ohně
-hromový blesk
-Ohňobití
-Bouře
-past s bleskem
-Velká past s bleskem
+otrávený kámen
+úder blesku
+Ohnivý déšť
+Hrom
+Ohnivý pozdrav
+Hromobití
+Blesková past
+Velká blesková past
 Blesková mina
 Velká blesková mina
-Ukrást život
-ukrást magii
-osobní ochrana
+Kradení života
+Kradení magie
+Osobní ochrana
 Kamulosův pohled
-odstranit past
+Odstranění pasti
 berla šokovka
 těžká zbraň
 Iskaiské obutí
 barevná mapa
 mapa pokladu
 Mellthasovy zápisky
-Mellthasovo písátko
+Mellthasova tužka
 laser

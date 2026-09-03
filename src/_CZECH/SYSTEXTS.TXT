@@ -1,4 +1,4 @@
-﻿	ALBION System texts (ENGLISH)
+﻿	ALBION System texts (CZECH)
 
 	*** Party member portraits ***
 
@@ -71,7 +71,7 @@
 
 	*** Inventory item pop-up menu ***
 
-[0015:Položit]
+[0015:Zahodit]
 [0016:Naučit se kouzlo]
 [0017:Prozkoumat]
 [0018:Vypít]
@@ -94,10 +94,10 @@
 [0057:I]
 [0058:II]
 [0059:III]
-[0677:Poškození : %d]
-[0678:Ochrana : %d]
-[0679:Váha : %d Kg]
-[0680:Nesená váha : %ld z %ld g]
+[0677:Poškození: %d]
+[0678:Ochrana: %d]
+[0679:Váha: %d Kg]
+[0680:Nesená váha: %ld z %ld g]
 
 
 	*** Items ***
@@ -148,7 +148,7 @@
 [0050:Zahodit]
 [0727:Kolik zlata zahodit?]
 [0728:Skutečně zahodit zlato?]
-[0729:Kolik zahodit zlata?]
+[0729:Kolik zahodit jídla?]
 [0730:Skutečně zahodit jídlo?]
 [0052:Kolik vzít zlata?]
 [0515:Kolik vzít jídla?]
@@ -191,7 +191,7 @@
 
 	*** Race names ***
 
-[0456:Terran]
+[0456:člověk]
 [0457:Iskai]
 [0458:Kelt]
 [0459:Kenget Kamulos]
@@ -412,10 +412,10 @@
 [0216:Trnová past]
 [0217:Odstranění pasti]
 
-[0218:VYMAZáNO]
-[0219:Léčivé opojení]
-[0220:Léčivá slepota]
-[0221:Léčivá otrava]
+[0218:Vyléčit ochrnutí]
+[0219:Vyléčit opilost]
+[0220:Vyléčit slepotu]
+[0221:Vyléčit otravu]
 [0222:Houbovitost]
 
 [0223:Světlo]
@@ -433,7 +433,7 @@
 	*** Spell names for class 1 ***
 
 [0233:Regenerace]
-[0234:Výhled na mapě]
+[0234:Pohled na mapu]
 [0235:životabudič]
 [0236:Teleport]
 [0237:Hojení]
@@ -523,7 +523,7 @@
 [0303:Kradení života]
 [0304:Kradení magie]
 [0305:Osobní ochrana]
-[0306:Pohled Kamulosův]
+[0306:Kamulosův pohled]
 [0307:Odstranění pasti]
 
 [0308:]
@@ -749,7 +749,7 @@
 [0492:Co víš o tomto předmětu...?]
 [0493:Rád by ses k nám připojil?]
 [0494:Rád bych vás opustil.]
-[0495:Slušnej pokec!]
+[0495:Rozloučit se.]
 [0500:Jaké je tvé povolání?]
 
 
@@ -836,7 +836,7 @@
 [0603:Nikdo v téhle partě není unaven!]
 [0604:Parta odpočívala až do konce.]
 [0605:Parta odpočívala osm hodin.]
-[0606:{SUBJ}{NAME} se nemůže zotavit. {HE  } nemá dostatek jídla!]
+[0606:{SUBJ}{NAME} se nemůže zotavit. Nemá dostatek jídla!]
 
 
 	*** Conditions ***
@@ -845,7 +845,7 @@
 [0610:Otráven]
 [0611:Nemocen]
 [0612:Vyčerpán]
-[0613:Paralyzován]
+[0613:Ochrnut]
 [0614:Na útěku]
 [0615:Opit]
 [0616:Slepý]
@@ -861,7 +861,7 @@
 
 	*** Left Inventory 1 ***
 
-[0632:{INVE}{NAME} ({SEXC}), % let starý, {RACE}, {CLAS}, úroveň %d.]
+[0632:{INVE}{NAME} ({SEXC}), %d let starý, {RACE}, {CLAS}, úroveň %d.]
 [0633:životní body]
 [0634:Magické body]
 [0667:Zkušenostní body]
@@ -928,7 +928,7 @@
 
 	*** Game languages ***
 
-[0663:Terran]
+[0663:Lidský]
 [0664:Iskai]
 [0665:Keltský]
 
@@ -973,7 +973,7 @@
 [0705:Uložit hru]
 [0706:Možnosti]
 [0707:Shlédnout intro]
-[0708:Credits]
+[0708:Autoři]
 [0709:Konec hry]
 [0710:Skutečně chceš skončit?]
 [0711:Kterou uloženou hru chceš obnovit?]
@@ -981,7 +981,7 @@
 [0713:Skutečně chceš přepsat tuto uloženou hru?]
 [0714:Napiš, prosím, název pro tuto uloženou hru:]
 [0715:Skutečně chceš začít novou hru?]
-[0716:(Empty position)]
+[0716:(Prázdná pozice)]
 [0717:Nebyly nalezeny žádné uložené hry!]
 [0775:{INK 006}{BIG }{CNTR} Nedostatek místa na pevném disku!]
 
@@ -989,7 +989,7 @@
 	*** Options ***
 
 [0741:Hlasitost hudby]
-[0742:Hlasitost FX]
+[0742:Hlasitost zvuků]
 [0743:Velikost 3D okna]
 [0415:úroveň detailů v boji]
 [0416:Rychlost textů v boji]
@@ -1033,7 +1033,7 @@
 	*** Various messages ***
 
 [0759:{INK 006}Je příliš zraněn, aby byl vyléčen!]
-[0761:{INK 006}{CNTR}{BIG }{SUBJ}{NAME} je nemocen,^^{NORS}a {HE  } cítí, že {HIS } tělo bylo trvale poškozeno!]
+[0761:{INK 006}{CNTR}{BIG }{SUBJ}{NAME} je nemocen ^^{NORS}a {HE  } cítí, že {HIS } tělo bylo trvale poškozeno!]
 [0417:{INK 006}{CNTR}{BIG }Smrt ukončila cestu.^^{NORS}Každý v partě je smrtelně zraněn. Dříve či později zemřou.]
 [0421: Výchozí obrazovka]
 [0167:Bod byl označen!]

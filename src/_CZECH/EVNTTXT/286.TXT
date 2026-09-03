@@ -2,7 +2,7 @@
 "Chtěli jste mě vidět?"{BLOK010}"Ano, můžete nám pomoct?"
 {WORDKonny}"Chtěli jste mě vidět?"{BLOK010}"Ano, můžete nám pomoct?"{BLOK011}"Konny nás posílá. říká, že znáte cestu přes skály."
 "Je mi líto, nemyslím, že bych vám mohl pomoct."
-"Konny vás poslala? ^ ^ Ano, znám cestu přes skály. Můžu vás zavést ke vchodu. Samozřejmě za malou odměnu. šperk by byl dobrý. Sami vchod nenajdete. Co říkáte?"{BLOK010}"Ano, přijímáme."{BLOK011}"Chcete moc!" {BLOK012}"Přijal byste zlaťáky?"
+"Konny vás poslala? ^ ^ Ano, znám cestu přes skály. Můžu vás zavést ke vchodu. Samozřejmě za malou odměnu. Chtěl bych modrý drahokam. Co byste tomu vy řekli?" "{BLOK010}"Ano, přijímáme."{BLOK011}"Chcete moc!" {BLOK012}"Přijal byste zlaťáky?"
 "Skeima Din, Doufám, že znáte cestu. "
 "To je dobré. Setkáme se před městkou v šest večer. Já počkám za městem. Budu čekat maximálně hodinu, tak buďte dochvilní. Nezapomeňte na ten šperk!"
 "Cože? Už dlouho nemám pravidelný příjem a sbírku diamantů. Jak bych si to mohl dovolit?" {BLOK010} "To není náš problém nebo je?"

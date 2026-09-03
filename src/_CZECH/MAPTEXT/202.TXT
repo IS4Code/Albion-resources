@@ -51,7 +51,7 @@ Places for further Cutmap events.
 {CNTR} Emblém hlásá: ^ ^ {INK 006} Dům Arethy, královny Aballonu.
 {CNTR} Zde stojí: ^ ^ {INK 006} Ovoce Aballonu.
 {CNTR} Na vybledlém emblému je sotva čitelný nápis: ^ ^ {INK 006} Nakupuji a prodávám mnoho užitečného.
-{CNTR} "Oink?"
+{CNTR} "Kvík!"
 {CNTR} "Rriik?"
 "Togi Din, mládeži! Určitě by bylo velmi pěkné být znovu mladý a cestovat."
 "Ten podivín Rifrako vlastní amulet, který jeho nositele varuje před blížící se divokou zvěří, nebo ještě něčím mnohem horším. Velmi cenná a užitečná věcička."
