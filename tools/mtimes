@@ -1,0 +1,13 @@
+#!/bin/sh
+set -euo pipefail
+
+# Updates mtime of every file to match its last commit time
+
+dir="$1"
+
+git ls-files -- "$dir" | while IFS= read -r path; do
+  date="$(git log -1 --format='%cd' --date=format:'%Y%m%d%H%M.%S' -- "$path")"
+  if [ -n "$date" ]; then
+    touch -t "$date" -- "$path"
+  fi
+done

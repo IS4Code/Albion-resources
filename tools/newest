@@ -1,0 +1,20 @@
+#!/bin/sh
+set -euo pipefail
+
+# Updates target mtime to that of the newest input
+
+target="$1"
+shift 1
+
+newest=""
+for file in "$@"; do
+  if [ -s "$file" ]; then
+    if [ -z "$newest" ] || [ "$file" -nt "$newest" ]; then
+      newest="$file"
+    fi
+  fi
+done
+
+if [ -n "$newest" ]; then
+  touch -r "$newest" -- "$target"
+fi
