@@ -56,7 +56,7 @@ Stará truhla, která patrně pamatuje ještě dobu, kdy byla tato budova osídl
 {INK 001}Rainer:{INK 002} ^ ^ "Měl s sebou starodávnou ozdobnou dýku Iskaie, unikátní kousek! ^ Konečně stopa! Možná nám řekne víc starý učenec Frill. Měli bysme ho vyhledat v koncilovém domě.
 {INK 001}Tom:{INK 002} ^ ^ "Měl s sebou starodávnou ozdobnou dýku Iskaie, unikátní kousek! ^ Konečně stopa! Možná nám řekne víc starý učenec Frill. Měli bysme ho vyhledat v koncilovém domě.
 Velká rostlina. Její povrch je uzpůsoben k zachytávání odkápávajících kapek ze stropu.
-Když se {LEAD}{NAME} rostliny, začali se její kořeny hýbat. Rostlina odběhla!
+Když se {LEAD}{NAME} dotkl rostliny, začaly se její kořeny hýbat. Rostlina odběhla!
 Rostlina se rozechvěla.
 Tohle vypadá jako pozůstatky vraha.
 Zřejmě tato mrtvola patřila Akiirivu vraha (a očividně ještě patří).

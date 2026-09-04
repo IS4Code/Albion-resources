@@ -173,7 +173,7 @@ Tom se prozatím ještě rozhodl výzvu ignorovat.
 Když vyšel Tom do chodby, uviděl jak se k němu blíží Christina, jeho dívka. ^ ^ Rozhodl se s ní promluvit.
 {FAHI} - SCRIPT SEQUENCE - {NORS} Here begins a script sequence which presents the flight to Albion, the crash, the first steps on the planet, the explosion of the shuttle, and the awakening at the Iskai.
 "OK, Driscolle, pro tvůj let je již všechno připraveno."
-"Všechna data, která budete během letu potřebovat, máte k dispozici v palubním počítači, pana Driscoll. ^ ^ Během letu budu komunikovat přímo s vámi, takže budeme moci okamžitě vyhodnotit došlá data."
+"Všechna data, která budete během letu potřebovat, máte k dispozici v palubním počítači, pane Driscoll. ^ ^ Během letu budu komunikovat přímo s vámi, takže budeme moci okamžitě vyhodnotit došlá data."
 "Znáte své pokyny: proveďte kontrolní měření na orbitu a na stavební plošině a mi je pak porovnáme s výsledky zaslanými sondou. Dostaňte pana Hofstedta bezpečně dolů, Driscolle. ^ Hodně štěstí."
 "Děkuji, pane. Pokusím se. ^ ^ Jste připraven, Hofstedte?'
 "Jistě! šlápněte na to!'

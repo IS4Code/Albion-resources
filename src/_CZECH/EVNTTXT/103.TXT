@@ -2,7 +2,7 @@
 "Dsarii-ma, moji bývalí pacienti!"
 {INK 001}Tohle je Giria, která se postarala o Tomova a Rainerova zranění. {INK 002} ^ ^ "Dsarii-ma! Jsem šťasten, že se nám povedlo vás vyléčit, Tome. Když si poprvé přišel do našeho domu, říkal jsem si, že by to byl zázrak. Ale vaše rasa, zdá se, je velmi odolná. {WORDhealing}{BLOK010}"Girio! Rád vás znovu vidím. Rádi bychom vám poděkovali za všechno, co jste pro nás udělala."{BLOK011}"Ah, Giria. Neuvěříte, jak rádi jsme unikli z vaší tyranie v nemocničním pokoji!"
 "Byla to pro mne čest. Po všech těch poškrábaných a pokousaných lovcích, byla vaše léčba zajímavou změnou. {WORDhunter}"
-"Jak lichotivé. Možná bys upřednostnila, kdybychom tě nechali se zvířaty v lese?"
+"Jak lichotivé. Možná bys upřednostnil, kdybychom tě nechali se zvířaty v lese?"
 Uražená Giria ukončila rozhovor.
 "Oh, znovu ti příjemní lidé."{BLOK010}"Girio, omluv nás, prosím. Pouze jsme žertovali. My víme, že ti máme mnoho co poděkovat."{BLOK011}"Hej, jenom jsme se snažili napodobit váš divný humor!"
 "Přijímám vaši omluvu. Možná jsem byla trochu hrubá. Někdy zapomínám, že vy, lidé, nemůžete ovládat bolest."{WORDpain}

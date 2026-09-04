@@ -154,5 +154,5 @@ Ve sklepě je o něco chladněji než nahoře.
 "Musím se vrátit do postele a přitom nejsem ještě vůbec unavený!"
 "Iskaiské děti jsou podobnější svým lidským protějškům víc, než by kdo věřil."
 "Dsarii-ma, vy širokoúhlí lidé!"
-Osoba {INK 001}{LEAD}{NAME} zamumlala: {INK 002} ^ ^ "Dsarii-ma. Ham nahahelou helist, nehuhu hluhit."
+{INK 001}Osoba na vás zamumlala: {INK 002} ^ ^ "Dharii-ha. Ham nahahelou helist, nehuhu hluhit."
 Test

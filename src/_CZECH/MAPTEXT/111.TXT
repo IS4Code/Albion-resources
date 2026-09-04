@@ -149,18 +149,18 @@ Place holder for further Cut-Map Events.
 Place holder for further Cut-Map Events.
 Place holder for further Cut-Map Events.
 Place holder for further Cut-Map Events.
-"Dám veškeré vybavení, které jsem s sebou dosud měl, sem."
+"Dal jsem veškeré vybavení, které jsem s sebou měl, sem."
 "Než opustíme dům, měli bychom jít do našeho pokoje. Uložil jsem zbytek našeho vybavení do té velké skříně."
 Tahle police je otevřená.
 Prostorný kabinet je odemčený.
 "Už jsem viděl některé části domu. Ta architektura je úžasná! Skoro všechno je uděláno z rostlin, jenom bůh ví jak to dělají. A skoro všude je voda. Lidé se tady často koupou a nahota tady zřejmě není žádné tabu. "
 "Není divu při tomhle vedru."
 "Omlouvám se za svoje nadšení, ale podívejte se támhle na ten obrovský předmět. Je to pumpa a funguje bez jakýchkoliv mechanických částí. Ti lidé, co tu žijí, jsou na svou fontánu určitě velmi pyšní."
-"Tome a Rainere, právě jsem přišel od Sebai. Přeje si s vámi mluvit. Následujte mě, prosím."
+"Tome a Rainere, právě jsem přišla od Sebai. Přeje si s vámi mluvit. Následujte mě, prosím."
 "Jistě, rádi si s ním promluvíme."
 "Teď se snad konečně dozvíme, proč jsme byli zachráněni."
 "Nezlobte se, Driscolle. Asi bychom mezi sebou neměli v přítomnosti Sebai hovořit naším jazykem. Asi by to bylo neslušné."
-"Tome and Rainer, představený klanu Bojovníků jižního větru Sebai-li Wrinn, Teď vás nechám o samotě."
+"Tome a Rainere, představený klanu Bojovníků jižního větru Sebai-li Wrinn, Teď vás nechám o samotě."
 "Je to ještě DíTě, Driscolle! To není možné!"
 "Smím vám připomenout, že jste chtěli mluvit pouze Iskaisky?"
 {CNTR} Nápis na štítu říká: ^ ^ {INK 006} Zásobovací komory. ^ Děti: myslete na následky!
@@ -169,14 +169,14 @@ Prostorný kabinet je odemčený.
 "Mám rád kořeněná jídla. Nemůžeme říct, že by nám to ublížilo."
 "Ty jsi nestrávil týdny s kýblem... no, změňme téma."
 "Už jsem zjistil, co to je. Věř mi nebo ne, je to záchod z rostlin!"
-"Hofstedt! ^ O.K. O.K. Pokusím se to zjednodušit: ^ WHAT - HAPPENED?"
+"Hofstedt! ^ O.K. O.K. Pokusím se to zjednodušit: ^ CO - SE - STALO?"
 "Pamatuješ si naše nouzové přistání a to jak jsme vystupovali z lodi? Dobře. Krátce po tom raketa explodovala jako v nějaké špatné americké televizní show.  Moje první vzpomínka po té expolozi je jak nás nesli na nosítkách. Když jsem uviděl, kdo nám pomáhá, zase jsem hned omdlel. ^ Driscoll, tahle stvoření jsou INTELIGENTNí!"
-"Je mi jasné ... , že ten dům nevyrostl ze země. Ačkoliv, když se na něj podíváš pozorněji..."
+"Je mi jasné, že tento... dům asi nevyrostl ze země. Ačkoliv, když se na něj podíváš pozorněji..."
 "Ty tomu nerozumíš, Je tady inteligentní život. Kontaktovali jsem třetí nelidskou rasu! Jejich kultura je fantastická a..."
 "Hofstedt, prosím! Točí se mi hlava i bez tvých pokusů o vysvětlení. Začni proboha od samého začátku. Jak to, že přístroje nefungovaly? Vystoupili jsme s dýchacími přístroji, protože jsem čekali svět jako na Marsu a skončili jsme v proklatý džungli, která byla hustší než cokoliv na Zemi!"
 "Netuším, co bylo špatně. Většinu faktů můžeš cítit vlastním tělem. Jsme na teplé planetě bohaté na kyslík, kde je neuvěřitelné bohatá fauna a flora. Gravitace je podle očekávání o něco nižší než 1 G. ^ ^ Až dosud se náš imunitní systém poradil se všemi místními mikroorganismy. Ta exploze tě zasáhla víc než mě. Byl jsi téměř 30 dní v bezvědomí. ^ ^ Přestaň! Ani to nezkoušej! Neměl bys vstávat ještě nejmíň 30 dní!"
 "Všiml jsem si! Je se mnou ještě něco?"
-"Myslím, že ne. Pár zlomených kostí, popáleniny a asi nějaká malá vnitřní zranění. Nejvíc jsem si dělal starosti s tím zraněním hlavy, ale zdá se, že jsi úplně v pořádku. Tvoje prostata je operovatelná ."
+"Myslím, že ne. Pár zlomených kostí, popáleniny a asi nějaká malá vnitřní zranění. Nejvíc jsem si dělal starosti s tím zraněním hlavy, ale zdá se, že jsi úplně v pořádku. Tvoje protéza je provozuschopná."
 "Díky. Pokračuj."
 "Docela rychle jsem byl zase na nohou a kontaktoval jsem naše hostitele. Kde začneme?"
 "Ty jsi vědec! Prostě se drž faktů."
@@ -197,7 +197,7 @@ Prostorný kabinet je odemčený.
 "O.K. A Hofstedte..."
 "Ano?"
 "Dík za všechno."
-"Tato rasa Iskai je hotovým rájem každého xenobiologa! V jednom okamžiku je jejich podobnost s lidskou rasou děsivá a v druhém je to naprosto odlišná rasa. Jen si představte následky toho rituálu Sebai! I přes svůj krátký životní cyklus jsou praktičti nesmrtelní! ^ ^ Co mě také naprosto udivilo je tento svět - jeho nesmírné nerostné ale především rostliné bohatství, avšak žádné zpracované suroviny, což činní naši loď docela cennou."
+"Tato rasa Iskai je hotovým rájem každého xenobiologa! V jednom okamžiku je jejich podobnost s lidskou rasou děsivá a v druhém je to naprosto odlišná rasa. Jen si představte následky toho rituálu Sebai! I přes svůj krátký životní cyklus jsou prakticky nesmrtelní! ^ ^ Co mě také naprosto udivilo je tento svět - jeho nesmírné nerostné ale především rostliné bohatství, avšak žádné zpracované suroviny, což činní naši loď docela cennou."
 "Dsarii-ma, hosté tohoto domu. Pokud byste zamýšleli jít lovit do lesů, musíte si nejdřív promluvit s Krinnem, Stri Lovu. Může vám dát dobrou radu. Poznáte ho podle jeho hnědo-šedého koženého pláště s šedými pruhy."
 {INK 001} Iskaiské dítě vyvalilo svá kukadla na lidi před sebou. Zjevně ho to, co uvidělo, ohromilo.
 "Dsarii-ma! Doufám, že jste si užili pohostinnosti klanu Jižního větru dosytosti a bylo vám s námi dobře."

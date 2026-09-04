@@ -70,7 +70,7 @@ Konzole na monitorování životních funkcí.
 "Tome! Počkej, zkouším se dostat dovnitř!"
 Dveře se najednou otevřely a objevil se v nich starý Tomův přítel Joe.
 "Joe! Konečně s přízněná duše! O co tu jde? Proč mě tu drží jako nějakýho krimi..."
-"Klid, klid! Uklidni se. ^ ^ Předně je důležité, že jsi vůbec naživu. Už jsme si mysleli, že jste s Hofstedtem mrtvý."
+"Klid, klid! Uklidni se. ^ ^ Předně je důležité, že jsi vůbec naživu. Už jsme si mysleli, že jste s Hofstedtem mrtví."
 "Promiň, kamaráde. Jsem taky rád, že tě vidím."
 "To je v pořádku. Nevím, kolik máme ještě času. Možná sis všiml, že jsem otevřel dveře za pomoci falešné karty."
 "Už mě napadlo, že tvá návštěva tady asi není oficiální. Prostě mi řekni, co se to tu děje!"
@@ -112,8 +112,8 @@ Joe se chvíli mlčky díval na Toma. Pak po chvilce přemýšlení řekl:
 "To zní dobře. Hurá na reaktor!"
 "To je všechno, co k tomu řekneš? ^ ^ No dobře. Nejdřív musíme najít přístup na servisní podlaží. Tato sekce byla vyklizena, ale my bysme ji neměli opouštět, jinak se nám za zadek okamžitě přilepí bezpečnostní jednotky a zabásnou nás dřív, než stačíš říct švec. A už vůbec nepočítej s tím, že bys jim snad stačil odvyprávět svůj příběh."
 "No dobře. Tak dem už?"
-Otvírač dveří (?) ^ ^ Vedle číselného panelu je slot na vložení kódové karty. ^ ^ Kód už byl zadán.
-Otvírač dveří (?) ^ ^ Vedle číselného panelu je slot na vložení kódové karty.
+Otvírač dveří. ^ ^ Vedle číselného panelu je slot na vložení kódové karty. ^ ^ Kód už byl zadán.
+Otvírač dveří. ^ ^ Vedle číselného panelu je slot na vložení kódové karty.
 "Za těmito dveřmi by měl být servisní panel, a tam by se nám také mělo podařit slézt do servisního podlaží."
 "Tyto dveře jsou přechodové. Jsem si jistý, že mají vysokou prioritu při spouštění poplachu. Když je otevřeme, okamžitě po nás půjdou bezpečnostní jednotky i palubní počítač."
 "Tohle vede do hlavní oblasti nemocniční stanice a ke kasárnám bezpečnostních jednotek. Je tam hodně lidí. Bude lepší, když se pokusíme najít vchod do servisního podlaží odsud."
@@ -141,8 +141,8 @@ Na cestě přes servisní podlaží se Tomovi a Joeovi podařilo taktak uniknout
 Tom a Joe téměř dosáhli východu, když zahlédli jednoho z androidů, jak jim blokuje cestu ke svobodě.
 "Tom Driscoll, Joe Bernard, váš odpor proti lodním ustanovením a vaše zřejmá snaha postavit se proti zájmům firmy, učinila použití hrubé síly jako jediné možné cesty. ^ ^ Je mi líto."
 Android pozvedl svou zbraň!
-Poškozen ohnivou koulí (fireballem), android beznadějně zavrávoral.
-"Můj bože! ^ ^ Co to {FAT } bylo {NORS} ? Jaks to dokázal?"
+Poškozen ohnivou koulí, android bezmocně zavrávoral.
+"Můj bože! ^ ^ Co to {FAT } bylo {NORS}? Jaks to dokázal?"
 "Malý dárek, který mi dali na ostrově Dji Cantos. ^ ^ Nějaké další otázky?"
-"Hafo. Ale už nemám pochybnosti o tvém příběhu."
+"Hodně. Ale už nemám pochybnosti o tvém příběhu."
 "Dobrá. ^ ^ O.K., Jdem do toho. Bude dost těžký dostat se přes tu zatracenou poušť nezpozorován."

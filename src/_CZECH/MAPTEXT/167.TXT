@@ -151,7 +151,7 @@ Place holder for further Cut-Map Events.
 Place holder for further Cut-Map Events.
 Tento dům je zařízen ve velmi spartánském stylu. 
 Prostor z měkkého mechu je vlože v kamené podlaze.
-"Vlastník tohot domu je legendou, alepoň mezi Stiriiky. Nikdy nemluví víc než by to bylo nutné, a někteří si myslí, že je to blázen: Al e nikdo na světě toho neví tolik o bojia lukostřelbě."
+"Vlastník tohoto domu je legendou, alepoň mezi Stiriiky. Nikdy nemluví víc než by to bylo nutné, a někteří si myslí, že je to blázen: Ale nikdo na světě toho neví tolik o boji a lukostřelbě."
 {INK 001}{LEAD}{NAME} mluví s Iskaiem, který, atypický mezi svými lidmi, sedí  se stoickým klidem u stolu. Jizvami posetý Iskai povídá:
 "Vy si přejete znát jak bojovat.{LEAD}{NAME}. Jste připraveni?{BLOK000} "Ano, učte mě." {BLOK001} "Raději ne. "
 "{PRIC} zlato teď."

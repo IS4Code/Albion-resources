@@ -19,7 +19,7 @@ dummy
 dummy
 dummy
 dummy
-"Dsarii-ma, přátelé! Prvně mi dovolte poděkovat za vyjasnění té strašné věci s Akiirem! Musel byt zcela zlomený, když se dozvěděl o své blížící se smrti! ^ Avšak, díky vám, je mé jméno očištěno. Nikdy se vám nebudu schopen odvděčit za to, co jste pro mne udělali, ale přijměte, prosím, tento malý důkaz mého uznání. Mohl by vám pomoci na vašich cestách. Schovával jsem ho pod zámkem dlouhou dobu, protože je to příliš nebezpečná zbraň. Byla vyrobena lidskými kouzelníky. Avšak jsem si jist, že u vás bude v dobrých rukou" ^ ^ {INK 001} Fassir předává dýku se zeleným, krystalickým ostřím.
+"Dsarii-ma, přátelé! Prvně mi dovolte poděkovat za vyjasnění té strašné věci s Akiirem! Musel být zcela zlomený, když se dozvěděl o své blížící se smrti! ^ Avšak, díky vám, je mé jméno očištěno. Nikdy se vám nebudu schopen odvděčit za to, co jste pro mne udělali, ale přijměte, prosím, tento malý důkaz mého uznání. Mohl by vám pomoci na vašich cestách. Schovával jsem ji pod zámkem dlouhou dobu, protože je to příliš nebezpečná zbraň. Byla vyrobena lidskými kouzelníky. Avšak jsem si jist, že u vás bude v dobrých rukou" ^ ^ {INK 001} Fasiir předává dýku se zeleným, krystalickým ostřím.
 "Mohu vám pomoci nějakým jiným způsobem, přátelé?" {WORDBradir}{WORDAkiir}{BLOK010}{INK 001} Sira: {INK 002} "Ráda bych si rozšířila své znalosti, Fasiire."
 "Mohu vám pomoci nějakým jiným způsobem, přátelé?"{WORDBradir}{WORDAkiir}
 "Dsarii-ma a vítejte, přátelé. Mohu vám nějakým způsobem pomoci?" {WORDBradir}{WORDAkiir}{BLOK010}{INK 001} Sira: {INK 002} "Ráda bych si rozšířila své znalosti, Fasiire."

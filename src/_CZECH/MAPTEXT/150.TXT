@@ -1,5 +1,5 @@
 ﻿!
-Když někdo šlápne na desku přede dveřma, tak se rozsvítí (deska). V tom samém okamžiku se otevřou i dveře.
+Když někdo šlápne na desku přede dveřmi, rozsvítí se. V tom samém okamžiku se otevřou i dveře.
 Nášlapný plát se rozsvítil.
 Tohle vypadá jako plát s průhledným, světélkující povrchem.
 Když se tato deska rozsvítila, dveře na "západní" straně této místnosti se otevřely.
@@ -10,7 +10,7 @@ V severní zdi je výklenek.
 Výklenek je prázdný, čeká tu na den, kdy do něho někdo něco dá.
 Výklenek.
 Zprava sem dolehl hluk.
-Jakmile se dveře s červenými světly otevřely, takmile nemile se ty se zelenými zavřely. Cesta zpátky není možná!
+Jakmile se dveře s červenými světly otevřely, dveře se zelenými světly se zavřely. Cesta zpátky není možná!
 Tohle je servisní robot. Vykonává neznámý úkol.
 Dveře. Není tu vidět žádný mechanismus na otvírání.
 Fluoreskující žárovka. Vyzařuje studené bílé světlo.

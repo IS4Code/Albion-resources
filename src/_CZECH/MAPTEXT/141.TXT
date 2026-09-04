@@ -148,12 +148,12 @@ Places for further Cutmap events.
 "Mohu se zeptat, kde je Země vašich Otců a jak jste se dostali až sem?"
 "Když byla Země našich Otců zničena Křižáky, Velký Canto a Danu vedli skupinu Vybraných skrz Království Mlhy až sem do Albionu."
 "Teď mi povězte, co vás sem přivádí, a proč chcete hovořit s Berem?"
-"BYli jsme požádáni, abychom přinesli specifický amulet. Myslíme, že bychom kvůli tomu měli vidět Bera."
+"Byli jsme požádáni, abychom přinesli specifický amulet. Myslíme, že bychom kvůli tomu měli vidět Bera."
 "Rozumím. Bohužel s ním nemůžete hovořit. Nemohu s ním hovořit ani já."
 "Proč, je nemocný, nebo se mu něco stalo?"
 "Ne. Je mrtvý."
 "Byl na cestě?"
-"Ne tak docela.Je stále v této budově.   ^ ^ Vidím, že budu muset začít více odzadu. Jak víte, tato budova je velmi, velmi stará. Byla založena krátce po příchodu Vybraných. Božstvo, DAnu, nám projevil přízeň a nechal nás postavit tuto budovu na jeho výsostné půdě....ano.^ ^ Teď, je zde nepočítaně částí této budovy - mnohem více pokojů neýž bychom mohli užít. Velká část budovy byla uzavřena  na takřka 400 let. Došlo k neshodám se skupinou Druidů, které jsme nazývali Uctívači Ohně, a ti se potom stali známým cechem Kenget Kamulos. ^ ^ Později došlo k velkým nepokojům a nedorozuměním, které vedli až k nechtěnému exodu rebelů. Stavba stále nese stopy po válce a je vyplněna ďábelskými mechanismy a osídle nechutnými zplozenci pekel. ^ ^ I přes všechny tyto vědomosti, slezl Bero dolů do této prokleté části budovy zvané Drinno, aby nalezl nějaké magické artefakty."
+"Ne tak docela.Je stále v této budově.   ^ ^ Vidím, že budu muset začít více odzadu. Jak víte, tato budova je velmi, velmi stará. Byla založena krátce po příchodu Vybraných. Božstvo, Danu, nám projevil přízeň a nechal nás postavit tuto budovu na jeho výsostné půdě....ano.^ ^ Teď, je zde nepočítaně částí této budovy - mnohem více pokojů neýž bychom mohli užít. Velká část budovy byla uzavřena  na takřka 400 let. Došlo k neshodám se skupinou Druidů, které jsme nazývali Uctívači Ohně, a ti se potom stali známým cechem Kenget Kamulos. ^ ^ Později došlo k velkým nepokojům a nedorozuměním, které vedli až k nechtěnému exodu rebelů. Stavba stále nese stopy po válce a je vyplněna ďábelskými mechanismy a osídle nechutnými zplozenci pekel. ^ ^ I přes všechny tyto vědomosti, slezl Bero dolů do této prokleté části budovy zvané Drinno, aby nalezl nějaké magické artefakty."
 "A vy myslíte, že my jsme ti praví, kteří by ho měli zachránit?"
 "Přesně tak."
 "Nebylo by lepší dát dohromady dobře vyzbrojenou partu válečníků z této oblasti?"
@@ -162,10 +162,10 @@ Places for further Cutmap events.
 "Práci? jestli tím myslíš, že bychom se měli podívat dolů, pak jsem s tebou."
 "Já neodejdu při prvních známkách nebezpečí. Zůstanu s tebou Tome."
 "Dobře. Já bych nazval všechny nebzpečí pouhými pověrami, kdybyych neviděl podivné věci, které se zde dějí...divné... ^ ^ Neočekávejte ode mne hrdinské činy, ale já půjdu."
-"Dobrá, jsem rád, že jste se rozhodli jít. Mohl bych vám krít záda. BYlo velmi náročné ho zdržet od toho úmyslu jít dolů, do Driina.^ ^ Dovolte mi představit Beroova nevlastního syna Mellthase. Je sice hluchoněmý, ale jeho duch je čistý jako paprsky slunce. Rád vás bude doprovázet."
+"Dobrá, jsem rád, že jste se rozhodli jít. Mohl bych vám krýt záda. Bylo velmi náročné ho zdržet od toho úmyslu jít dolů, do Driina.^ ^ Dovolte mi představit Beroova nevlastního syna Mellthase. Je sice hluchoněmý, ale jeho duch je čistý jako paprsky slunce. Rád vás bude doprovázet."
 {INK 001} Mellthasova tvář ukázala trochu strnulý úsměv, ale on ihned napsal něco na na kousek papíru:{INK 002} ^ ^ "Jsem velmi potěšen! Jen prosím, vydejme se brzy na cestu, jsem velmi znepokojen!
 "Bero si připravil jídelní dávky, před tím, než slezl dolů. Není hlupák. Já myslím, že by se někde zabarikádoval, pokud by měl potíže. ^ ^ Pravděpodobně není důvod spěchat, ale nemáte mnoho času....... ^ ^ Arjanští Druidové vás budou podporovat, jakbude v jejich moci. já vám přeji Lughhovo požehnání. Pokud si ještě budete přát se mnou hovořit, budu ve východní části tohoto podlaží."
-{INK 001} Mellthas napsal na kus papíru a ukázal:(INK 002} ^ ^ "řekněte my, až budete hotovi k sestupu. Dovedu vás ke vchodu. Prosím pospěšte."
+{INK 001} Mellthas napsal na kus papíru a ukázal:{INK 002} ^ ^ "řekněte mi, až budete hotovi k sestupu. Dovedu vás ke vchodu. Prosím pospěšte."
 Druidové vypadají zděšeně, že je někdo zraněný. Poskytli mu první pomoc.
 Návrat se obešel bez závažnějších potíží.  Bero je zdraven s upřímným a úvítáním a několika příkřejšími slovy. Všichni vatoupili do místnosti Nema, hlavy Druidů.
 "Bero, já myslím, že tě ušetřím důtek. Ty sám víš co všechno jsi riskoval.."

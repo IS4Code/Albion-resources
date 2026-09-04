@@ -1,5 +1,5 @@
 ﻿{BLOK000}"Jsem bezpečnostní důstojník s hodností plukovníka."
-"Pokračujte, tady není nic k vidění." {BLOK010}"Co se stalo? S ohledem na vaše zdraví byste se zde neměl zdržovat."
+"Pokračujte, tady není nic k vidění." {BLOK010}"Co se stalo? Přece tu nestojíte jen tak pro zábavu."
 "Musel jste slyšet o inspektorově nehodě s over-c COM jednotkou. Ta je až do odvolání uzavřena." {WORDCOM room}
 "Místnost zůstává pro posádku uzavřena, dokud zde bude hrozit nebezpečí od vadné jednotky. Konec otázek."
 "Buď rozumný chlapec, Driscolle. Pro tebe je to stále plukovník!"

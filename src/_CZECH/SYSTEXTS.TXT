@@ -1,4 +1,4 @@
-﻿	ALBION System texts (ENGLISH)
+﻿	ALBION System texts (CZECH)
 
 	*** Party member portraits ***
 
@@ -94,10 +94,10 @@
 [0057:I]
 [0058:II]
 [0059:III]
-[0677:Poškození : %d]
-[0678:Ochrana : %d]
-[0679:Váha : %d kg]
-[0680:Nesená váha : %ld z %ld g]
+[0677:Poškození: %d]
+[0678:Ochrana: %d]
+[0679:Váha: %d kg]
+[0680:Nesená váha: %ld z %ld g]
 
 
 	*** Items ***
@@ -437,7 +437,7 @@
 	*** Spell names for class 1 ***
 
 [0233:Regenerace]
-[0234:Zobrazení mapu]
+[0234:Pohled na mapu]
 [0235:Životabudič]
 [0236:Teleport]
 [0237:Hojení]
@@ -849,7 +849,7 @@
 [0610:Otráven]
 [0611:Nemocen]
 [0612:Vyčerpán]
-[0613:Paralyzován]
+[0613:Ochrnut]
 [0614:Na útěku]
 [0615:Opit]
 [0616:Slepý]

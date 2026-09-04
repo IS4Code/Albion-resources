@@ -23,7 +23,7 @@
 "Stiriik jsou odpovědni za dodržování zákonů. Pohánějí před soud zločince a snaží se vnést trochu pořádku do našich životů. ^ ^ Od člena Stirrik je požadováno velkém množství disciplíny, vlastnosti, které si velice vážíme. Avšak jak je tomu často s ideály... V některém případě mnoho rekrutů nevydrží u Stiriik dlouho."
 "Zákony jsou projednávány radou a pokud jsou porušeny, jsou vynuceny Stiriik. Avšak celá rodina zločince je ve snaze zabránit narušování pořádku odpovědna za jeho chování. Pokud Stitiik okamžitě nedopadnou zločince, je úkolem rodiny najít vzpurného člena, nebo jinak zločin vyřešit. V tomto případě jsou samozřejmě podporováni a sledováni nejméně jedním Shiriikem."{WORDcouncil}{WORDStiriik}
 "Cech Dji je organizací mnoha určitých povolání, a těch je zde velké množství: cech Tvůrců Dji-Fadh, Kouzelníků, Kupců, a cech Lovců."{WORDDji-Fadh}{WORDDji-Kas}{WORDbuy}
-"Umění nesmí být vykonáváno rukama a pouze několik ho může vykonávat hlavou. Pouze málo má nadání měnit věci nebo je tvořit z ničeho silovou svých duchů a s požehnáním Bohyně. Zde jsou pouze dva cechy zabývající se magií, Tvůrci nebo Dji-Fadh a Dji-Kas." {WORDDji-Fadh}{WORDDji-Kas}{WORDGoddess}
+"Umění nesmí být vykonáváno rukama a pouze několik ho může vykonávat hlavou. Pouze málo má nadání měnit věci nebo je tvořit z ničeho silou svých duchů a s požehnáním Bohyně. Zde jsou pouze dva cechy zabývající se magií, Tvůrci nebo Dji-Fadh a Dji-Kas." {WORDDji-Fadh}{WORDDji-Kas}{WORDGoddess}
 "Většina z nás věří, že po smrti se vrátíme tam, odkud jsme přišli: Velké Vědomí, které je tvořeno všemi našimi předky a často je nazýváno Bohyně. říkají, že čím více příkladný život povedeme, tím více zůstaneme sami sebou po začlenění do Bohyně."
 "Jirinaar je největší město našeho lidu. Má dlouhou historii a jeho přístav ho činí obchodním střediskem Nakiridaani."{WORDNakiridaani}{WORDhistory}
 "Nakiridaani je jméno země v níž se nyní nacházíš. Je to rozlehlý ostrov slavný pro svou džungli a jeho rozmanité rostliny a zvířata."
@@ -49,8 +49,8 @@
 "Tragédie, která, věřím, tvoří dějiny."
 "Je Sebainah Nakiridaani. Obvykle ji můžeš najít v budově rady ve středu města."
 "Je starší Stri Dji-Das, milovaný občan města."{WORDDji-Kas}{WORDStri}
-"Nikdy bych nevěřil, že Fassir by byl schopen zavraždit Akiira!"{WORDAkiir}
-"Ihned jsem cítil, že Fassir není typ Iskai, který by byl schopen vraždy."
+"Nikdy bych nevěřil, že Fasiir by byl schopen zavraždit Akiira!"{WORDAkiir}
+"Ihned jsem cítil, že Fasiir není typ Iskai, který by byl schopen vraždy."
 "Je nejnadanější ranhojička ve městě. Báječná žena; je vždy přístupná jednání."
 "Argim byl hlavou Dji-Fadh před téměř 150 lety a jeho život se stal jednou z našich legend. Tenkrát byl cechovní dům Dji-Fadh mimo město. Byla to velkolepá stavba. Argim měl ve svém oboru velké nadání, ale nestálou povahu. To byl důvod, proč jeho nejvyšší cíl byl zamítnut: stát se jedním z Vyvolených. Když se dozvěděl o rozhodnutí, přestal se ovládat. Přísahal, že vzdor všemu dosáhne nesmrtelnosti. V nezodpovědné demonstraci síly zničil celou stavbu a změnil ji v divné místo, kterému se nyní každý vyhýbá. říká se, že tomu místu vtiskl svého ducha."{WORDDji-Fadh}{WORDChosen}
 "Je jich zde spousta, ale toto je sotva čas na vyprávění příběhu. Omluvte mě."

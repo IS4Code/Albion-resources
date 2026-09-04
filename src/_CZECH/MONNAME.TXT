@@ -1,4 +1,4 @@
-﻿Fear 1
+﻿Strach 1
 
 
 
@@ -7,13 +7,11 @@
 
 
 
-Magician 1
-
-Animal 1
-Fear 2
-Fear 3
-
-
+Čaroděj 1
+Ochranka 1
+Bestie 1
+Strach 2
+Strach 3
 
 
 
@@ -24,36 +22,38 @@ Fear 3
 
 
 
-Magician 2
-Magician 3
-
-Animal 2
-Animal 3
-Storm 1
-Storm 2
-Storm 3
-Plague 1
-Plague 2
-Plague 3
-Beastmaster
 
 
-
-Sanddiver 1
-Sanddiver 2
-Sanddiver 3
-Service robot
-AI Body 1
-AI Body 2
-Bandit 1
-Bandit 2
-Bandit 3
+Čaroděj 2
+Čaroděj 3
+Ochranka 2
+Bestie 2
+Bestie 3
+Bouře 1
+Bouře 2
+Bouře 3
+Mor 1
+Mor 2
+Mor 3
+Pán zvířat
 
 
 
-
+Písečný červ 1
+Písečný červ 2
+Písečný červ 3
+Servisní robot
+Android 1
+Android 2
+Bandita 1
+Bandita 2
+Bandita 3
 
 
 
 
-AI Body 2
+
+
+
+
+Android 2
