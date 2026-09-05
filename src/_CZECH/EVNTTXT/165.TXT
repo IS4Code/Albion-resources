@@ -1,4 +1,4 @@
-﻿{BLOK000}"Obchoduji s ovocem, chlebem a masem."{WORDfruits}{WORDbread}
+﻿{BLOK000}"Obchoduji s ovocem, chlebem a masem."{WORDplody}{WORDchleba}
 "Togi Din, hladoví poutníci. Mohu vám nabídnout něco z mých vynikajících zásob?"{BLOK010}"Ano, mohly by se nám hodit nějaké zásoby jídla."
 "Na vaši cestu vám doporučuji sušené ovoce. Mám obzvlášť dobré produkty ze slavných polí Aballonu!"{WORDAballon}
 "Ano, vynikající trvanlivý chléb je pečen zde a ve Vanellu."{WORDVanello}

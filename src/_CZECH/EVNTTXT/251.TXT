@@ -1,6 +1,6 @@
 ﻿"{BLOK000} "To je má funkce, vést a řídit Rada Spravedlnosti."
-"Skeima Din, my jsme se předtím neviděli. Jsem nový president rady. Jsem si jistý, že znáte strašlivou historii mého předchůdce." {WORDhistory}{WORDsituation}
-"Skeima Din." {WORDhistory}{WORDsituation}{WORDtown hall}
+"Skeima Din, my jsme se předtím neviděli. Jsem nový president rady. Jsem si jistý, že znáte strašlivou historii mého předchůdce." {WORDhistorie}{WORDsituace}
+"Skeima Din." {WORDhistorie}{WORDsituace}{WORDradnice}
 "Jsem Herrasuv následník. Nevím jestli jste slyšeli ten příběh. Herras byl zavražděn v noci ve své posteli. Myslíme, že Gard a Riko jsou tím vinni, jelikož uprchli. Perron vždycky říkal,v že jim nemůžeme věřit." {WORDGard}{WORDRiko}
 "Já jsem Zerruma."
 "Nemyslím, že už je tady uvidíme."

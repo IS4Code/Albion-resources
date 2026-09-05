@@ -1,5 +1,5 @@
 ﻿{BLOK000} "Já jsem tady hospodský. Dali jste si už moje sugo? Je opravdu dobré."
-"Pojďte blíž, Skeima Din! Mám pro vás nějaké informace. Zajímá vás to?" {BLOK012} "Ne, díky." {BLOK013} "Podle toho o co jde." {BLOK014} "Ano, zajímá." {WORDinformation}
+"Pojďte blíž, Skeima Din! Mám pro vás nějaké informace. Zajímá vás to?" {BLOK012} "Ne, díky." {BLOK013} "Podle toho o co jde." {BLOK014} "Ano, zajímá." {WORDinformace}
 "Dobře, když vás to nezajímá , tak vás to nezajímá. Chcete si koupit nějaké jídlo?" {BLOK010} "Ano, prosím." {BLOK011} "Ne, díky."
 "Mohlo by vás to zajímat. Týká se to rady v Belovenu." {BLOK015} "Proč by nás to mělo zajímat?" {BLOK016} "Tak to nás to zajímá."
 "Samozřejmě, ale nic není zadarmo... co takhle nějaké zlaťáky."

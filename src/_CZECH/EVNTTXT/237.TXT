@@ -1,5 +1,5 @@
 ﻿{BLOK000} "Jsem členem koncilu Spravedlivých. Starám se o to, aby se všem žilo dobře."
-"Mm, neviděl jsem vás tu už někdy? To opravdu nemáte nic lepšího na práci než tu do všeho strkat nos?" {BLOK010} "Je pro nás důležité mluvit s lidmi." {BLOK011} "Nemysleli jsme, že bysme vás vyrušovali." {WORDcouncil}{WORDtown hall}{WORDRiko}{WORDPerron}{WORDGard}
+"Mm, neviděl jsem vás tu už někdy? To opravdu nemáte nic lepšího na práci než tu do všeho strkat nos?" {BLOK010} "Je pro nás důležité mluvit s lidmi." {BLOK011} "Nemysleli jsme, že bysme vás vyrušovali." {WORDkoncil}{WORDradnice}{WORDRiko}{WORDPerron}{WORDGard}
 "Neryjte nosem ve všem. Není to zdravé."
 "Co mě znepokojuje je to, že všude slyšíte samé lži a pak si na jejich základě vytváříte falešný dojem."
 "Mám moc práce a nemůžu vás pravidelně zásobovat informacemi. Cizinci by se stejně neměli zatahovat do všeho."

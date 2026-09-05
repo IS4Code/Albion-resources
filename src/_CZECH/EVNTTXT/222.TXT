@@ -1,7 +1,7 @@
 ﻿{BLOK000}"No, broučánci, myslím že můžete podle mého oděvu uhádnout, kde pracuji. Přijďte mě tam někdy navštívit! Samozřejmě většina mužů není ochotna připustit, že čas od času zajdou do bordelu."
-"Skeima Din, Kariah vás vítá. Mám pro vás naléhavou informaci! Velmi naléhavou!"{WORDinformation}
-"Skeima Din, přemýšleli jste o tom, co jsem vám řekla? Prosím jednejte, jak jen to půjde. Zvážili jste to všechno?"{WORDinformation}{WORDyes}{WORDno}
-"Děvka nemá lehký život! Před několika nocemi, jsem obdržela konkrétní zprávu, že Herras, prezident koncilu Spravedlnosti, má být zavražděn. Jsou za tím Riko a Gard. ^ ^ Prosím! Nemůžu vám to dokázat, ale potřebuji vaši pomoc! Udělejte s tím něco. Jste moje poslední naděje; prosím věřte mi. Zabraňte atentátu!" ^ ^ Taky vím, že k němu dojde již velmi brzo. Ale pořád ho můžete ještě odvrátit!"{WORDassassination}{WORDhint}
+"Skeima Din, Kariah vás vítá. Mám pro vás naléhavou informaci! Velmi naléhavou!"{WORDinformace}
+"Skeima Din, přemýšleli jste o tom, co jsem vám řekla? Prosím jednejte, jak jen to půjde. Zvážili jste to všechno?"{WORDinformace}{WORDano}{WORDne}
+"Děvka nemá lehký život! Před několika nocemi, jsem obdržela konkrétní zprávu, že Herras, prezident koncilu Spravedlnosti, má být zavražděn. Jsou za tím Riko a Gard. ^ ^ Prosím! Nemůžu vám to dokázat, ale potřebuji vaši pomoc! Udělejte s tím něco. Jste moje poslední naděje; prosím věřte mi. Zabraňte atentátu!" ^ ^ Taky vím, že k němu dojde již velmi brzo. Ale pořád ho můžete ještě odvrátit!"{WORDvražda}{WORDnápověda}
 "Prosím, udělejte to!"
 "Jak jste se rozhodli?" {BLOK010} "Musíme počkat." {BLOK011} "Uvidíme, co budeme moci udělat."
 "Nečekejte příliš dlouho! čas plyne a Gard s Rikem dříve či později vykonají ten hrozný čin!"

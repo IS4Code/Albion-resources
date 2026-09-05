@@ -1,4 +1,4 @@
-﻿{BLOK000}"Jsem zodpovědný za život-udržující systémy." {WORDlife support}
+﻿{BLOK000}"Jsem zodpovědný za život-udržující systémy." {WORDživotní podpora}
 "Nazdar, Driscollle, ty troufalče. Slyšel jsi už, co se stalo Snoopymu?" {WORDSnoopy}
 "Nazdar, Driscolle. Co se děje?"
 "Všechno je v zeleném. Neočekávám žádné problémy. Pokud se během přistání do systému na čerstvou vodu dostanou nějaké sedliny, najdeš je."

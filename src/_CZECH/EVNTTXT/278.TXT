@@ -1,6 +1,6 @@
 ﻿{BLOK000} "Já jsem mág od Kenget Kamulů, ale distancuji se od nich a teď žiji na vlastní pěst."
-"Skeima Din, ^ ^ mluvíte s Khunagem. Co od mne chcete? Jsem nerad rušen, i když pro něco důležité." {WORDimportant}
-"Skeima Din, ^ ^ prosím nerušte mě, pokud to není vyloženě potřeba." {WORDimportant}
+"Skeima Din, ^ ^ mluvíte s Khunagem. Co od mne chcete? Jsem nerad rušen, i když pro něco důležité." {WORDdůležité}
+"Skeima Din, ^ ^ prosím nerušte mě, pokud to není vyloženě potřeba." {WORDdůležité}
 "O čem chcete se mnou mluvit?" {BLOK010} "Mohl byste nám podat užitečnou informaci?" {BLOK011} "Vypadáte jako mág." {BLOK012} "Hledáme učitele." {BLOK013} "Co si myslíte o místní politické situaci?" {BLOK014} "Už vás nebudeme obtěžovat."
 "Ne, proč bych měl?"
 "Tak podívejte; Já nejsem žádný učitel."

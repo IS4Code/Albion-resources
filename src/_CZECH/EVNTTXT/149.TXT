@@ -1,4 +1,4 @@
-﻿{BLOK000}"Jsem chovatel dobytka a mířím se svým stádem ven."{WORDcattle breeder}{WORDherd}
+﻿{BLOK000}"Jsem chovatel dobytka a mířím se svým stádem ven."{WORDchovatel dobytka}{WORDstádo}
 "Dsarii-ma. Co potřebujete od starého Jirise?"{BLOK010}"Dsarii-ma. Můžete nám říci, jak se dostaneme do ruin Dji-Fadh?"
 "Ano. Ale jste si jistí, že se chcete setkat se starým Argimem? Předpokládá se, že se tam dějí divné věci! ^ ^ {INK 001}{LEAD}{NAME}: ^ {INK 002}"Máme k cestě tam dobrý důvod. Můžete nám pomoci?" ^ ^ {INK 001}Jiris: ^ {INK 002}"Tak, dobře. Držte se severně až k jezeru. Pokračujte podél jeho východní strany, dokud nenarazíte na opuštěnou cestu. Sledujte ji, dokud neuvidíte mrtvou západní větev. Pokud se budete ještě chvíli držet těchto instrukcí, měli byste vidět starý most, pokud už nespadl do řeky. Buďte opatrní."
 "Chcete tam jít znovu? Dobře, to není můj problém. Tak tedy: Držte se severně až k jezeru. Pokračujte podél jeho východní strany, dokud nenarazíte na opuštěnou cestu. Sledujte ji, dokud neuvidíte mrtvou západní větev. Pokud se budete ještě chvíli držet těchto instrukcí, měli byste vidět starý most, pokud už nespadl do řeky. Buďte opatrní."

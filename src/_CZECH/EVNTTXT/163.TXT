@@ -1,2 +1,2 @@
-﻿{BLOK000}"Jsem Oibelův stoupa, ačkoliv dříve jsem se chtěl připojit k Umaju." {WORDceile}{WORDOibelos}{WORDUmajo}
+﻿{BLOK000}"Jsem Oibelův stoupa, ačkoliv dříve jsem se chtěl připojit k Umaju." {WORDstoupa}{WORDOibelos}{WORDUmajo}
 "Togi Din, návštěvníci."

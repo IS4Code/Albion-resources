@@ -21,7 +21,7 @@ dummy
 dummy
 "Dsarii-ma. Neptejte se mě, prosím, na Akiira. Byl mým přítelem a dosud nemohu uvěřit, že je mrtev."{BLOK010}"Omluvte nás, ale byli jsme pověřeni nalezením vrahů. Mohl byste nám říci vše, co by nám mohlo pomoci?"
 "Dsarii-ma. Předpokládám, že dosud hledáte prchajícího vraha."{BLOK010}"To je pravda, Bradire. Přihodilo se vám něco?"
-"Oh, Bohyně! Tak naše zákony byly v této věci rovněž sepsány vámi, lidmi. Dokonce i když nejste odpovědný za to, co se přihodilo! Ale k vaší otázce: naneštěstí nemohu pomoci. Já skutečně nevím, co se to ve Fasiirovi vzalo."{WORDFasiir}{WORDmurder}
+"Oh, Bohyně! Tak naše zákony byly v této věci rovněž sepsány vámi, lidmi. Dokonce i když nejste odpovědný za to, co se přihodilo! Ale k vaší otázce: naneštěstí nemohu pomoci. Já skutečně nevím, co se to ve Fasiirovi vzalo."{WORDFasiir}{WORDvražda}
 "Nikdy na tuhle záležitost nezapomenu. Nedokážete si představit, jak moc bych vám rád pomohl, ale nemohu vám říci nic nového."
 "Skutečně bych si přál, abych vám mohl pomoci. Sbohem!"
 {INK 001}Když {LEAD}{NAME} tiše ukázal dýku, Bradir ucukl a dokonce i lidé rozeznali ztrápený pohled v jeho očích. Popošel blíže a řekl: ^ ^ {INK 002}"To je divné. Chvíle, které jsem se bál mi nejvíce přinesla úlevu. Odpusť mi, Akiire!" ^ ^ {INK 001}{FAT }Bradir útočí!

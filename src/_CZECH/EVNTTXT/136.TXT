@@ -1,6 +1,6 @@
 ﻿{BLOK000}"Jsem Stri Dji-Fadh, a hlava mého cechu."{WORDStri}{WORDDji-Fadh}
  
-"Vidíme to co děláme jako směs magie, umění a řemesla. Jsme jeden z nejstarších cechů v Jirinaaru a, jak jistě víte, jsme pomocí naší magie schopni tvořit, měnit a natrvalo proměňovat rostliny. To znamená, že můžeme vyrábět celé domy z živého rostlinného materiálu, který není pouze krásný, ale také splňuje nutné předpoklady pro kvalitu obydlí." {WORDmagic}{WORDJirinaar}
+"Vidíme to co děláme jako směs magie, umění a řemesla. Jsme jeden z nejstarších cechů v Jirinaaru a, jak jistě víte, jsme pomocí naší magie schopni tvořit, měnit a natrvalo proměňovat rostliny. To znamená, že můžeme vyrábět celé domy z živého rostlinného materiálu, který není pouze krásný, ale také splňuje nutné předpoklady pro kvalitu obydlí." {WORDmagie}{WORDJirinaar}
 "Stri Akiir je hlavou našeho cechu. Je největším umělcem a kouzelníkem, který tvrdě pracuje v zájmech našeho cechu. Všichni doufáme, že se jednoho dne stane jedním z Vyvolených."{WRNR----}
 "Jsme skutečně šokováni. Ariirova smrt je pro náš cech velkou ztrátou. Dji- Kas jsou schopni čehokoliv, ale tohle? Nepředstavitelné! Naštěstí Sebainah učinila drastická opatření!"{WORDDji-Kas}
 "Taková tragédie! Akiirovo chování je hanebné, ale předpokládáme, že poznání jeho blížící se smrti narušilo jeho jinak čistou mysl."

@@ -1,16 +1,16 @@
 ﻿{BLOK000}"Díky vám jsem dosud hlavou Dji-Fadh, přátelé."
 "Dokážete si představit, že mám ohledně něj smíšené pocity. člověk by neměl chtít ničit život druhého, dokonce i nepřátel."
-"Naše magie je v tomto světě hluboce zakořeněna. Například, všechny naše kouzla od nás vyžadují soustředit své duševní síly ve zvláštním druhu semen. Jsme také pyšní na pestrost našeho řemesla. Známe magii k tvoření a ničení, zraňování a hojení. ^ Jako znak našeho cechu, nosíme na kůži zvláštně zabarvený vzor. Vůdce Dji-Kas je Sebai-fre FAsiir. Všechen svůj čas tráví v cechovním domě." {WORDseed}{WORDhealing}{WORDFasiir}{WORDguild house}
+"Naše magie je v tomto světě hluboce zakořeněna. Například, všechny naše kouzla od nás vyžadují soustředit své duševní síly ve zvláštním druhu semen. Jsme také pyšní na pestrost našeho řemesla. Známe magii k tvoření a ničení, zraňování a hojení. ^ Jako znak našeho cechu, nosíme na kůži zvláštně zabarvený vzor. Vůdce Dji-Kas je Sebai-fre FAsiir. Všechen svůj čas tráví v cechovním domě." {WORDsemínko}{WORDhojení}{WORDFasiir}{WORDcechovní dům}
 {INK 001} Fassi jedná legračně. {INK 002} "Tedy, hovoříte s ním!"
-"Není to semeno samotné, které vytváří magický efekt, ale duch Dji-Kas, který bývá nalezen v jeho středu. Semena pocházejí ze zvláštní rostliny, nazývané Triifalai, což znamená 'Trii Bohyně.' Jsou prodávána v cechovním domě."{WORDTrii}{WORDGoddess}
+"Není to semeno samotné, které vytváří magický efekt, ale duch Dji-Kas, který bývá nalezen v jeho středu. Semena pocházejí ze zvláštní rostliny, nazývané Triifalai, což znamená 'Trii Bohyně.' Jsou prodávána v cechovním domě."{WORDTrii}{WORDbohyně}
 "Vpravo od vchodu do cechovního domu najdete Stri Rejiru, Mistryni v Léčebném Umění. Ona zahojí vaše zranění."
-"To je jméno rostliny, která produkuje semena velké hodnoty. {WORDseed}"
+"To je jméno rostliny, která produkuje semena velké hodnoty. {WORDsemínko}"
  
 "Oh, stavitelé. Vztahy mezi našimi cechy jsou občas trochu problematické. Naše rozmanitá řemesla přitahují některé jejich nejtalentovanější členy. A kdo je může obviňovat? Kdo by nechtěl vložit celé své úsilí do stavby domů, bez ohledu na to, jak jsou krásné? Možná jsou Dji-Fadh trochu rozhněvaní, protože jsme postavili náš cechovní dům bez jejich pomoci."
 "Cechovní dům byl dlouhou dobu v jihozápadním rohu Jirinaaru. Vystavěn Dji-Kas byl domovem mnoha členů cechu a všech Dra."{WORDDra}
 "Pokouším se Akiirovi odpustit, protože byl v krajní situaci. Jsem si jistý, že nebyl sám."
 "Dovolte mi ještě jednou poděkovat, že jste nás očistili od podezření z Akiirovy vraždy!"
-"Akiir je hlavou Tvůrců, cechu, který se od nás v mnohem liší. Zvláště pak Akiir nechce opustit svou cestu vyhýbání se konfliktům."{WORDFormer}
+"Akiir je hlavou Tvůrců, cechu, který se od nás v mnohem liší. Zvláště pak Akiir nechce opustit svou cestu vyhýbání se konfliktům."{WORDDřívější}
 "Správně, to je mé jméno."
 "Správně, to je mé jméno."
 "Podezření z vraždy na chvíli padlo na mě. Naštěstí, přátelé, jste byli schopni dát vše do pořádku."

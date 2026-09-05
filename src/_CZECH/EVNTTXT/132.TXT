@@ -1,6 +1,6 @@
-﻿{BLOK000}"Jsem Stri Dji-Fadh a především jsem zodpovědný za vyučování Dra." {WORDStri}{WORDDji-Fadh}{WORDDra}{WORDinstructing}
+﻿{BLOK000}"Jsem Stri Dji-Fadh a především jsem zodpovědný za vyučování Dra." {WORDStri}{WORDDji-Fadh}{WORDDra}{WORDinstruování}
  
-"Vidíme to co děláme jako směs magie, umění a řemesla. Jsme jeden z nejstarších cechů v Jirinaaru a, jak jistě víte, jsme pomocí naší magie schopni tvořit, měnit a natrvalo proměňovat rostliny. To znamená, že můžeme vyrábět celé domy z živého rostlinného materiálu, který není pouze krásný, ale také splňuje nutné předpoklady pro kvalitu obydlí." {WORDmagic}{WORDJirinaar}
+"Vidíme to co děláme jako směs magie, umění a řemesla. Jsme jeden z nejstarších cechů v Jirinaaru a, jak jistě víte, jsme pomocí naší magie schopni tvořit, měnit a natrvalo proměňovat rostliny. To znamená, že můžeme vyrábět celé domy z živého rostlinného materiálu, který není pouze krásný, ale také splňuje nutné předpoklady pro kvalitu obydlí." {WORDmagie}{WORDJirinaar}
 "Stri Akiir je hlavou našeho cechu. Je největším umělcem a kouzelníkem, který tvrdě pracuje v zájmech našeho cechu. Všichni doufáme, že se jednoho dne stane jedním z Vyvolených."{WRNR----}
 "Jsme skutečně šokováni. Ariirova smrt je pro náš cech velkou ztrátou. Dji- Kas jsou schopni čehokoliv, ale tohle? Nepředstavitelné! Naštěstí Sebainah učinila drastická opatření!"{WORDDji-Kas}
 "Taková tragédie! Akiirovo chování je hanebné, ale předpokládáme, že poznání jeho blížící se smrti narušilo jeho jinak čistou mysl."
@@ -20,7 +20,7 @@
 "Jsou zde místa, kde síla Bohyně je obzvlášť silná a kde magické skutky jsou posíleny a často také obtížnější. Tento druh energetických center nazýváme Han."{WRNR----}
 dummy
 "Dsarii-ma, návštěvníci."
-"Učím nováčky našeho cechu principům našeho umění. Je to velmi obtížné, protože je zde velký nedostatek kázně."{WORDdiscipline}
-"Neříkal jsem vám už, že učím Dra?"{WORDdiscipline}
+"Učím nováčky našeho cechu principům našeho umění. Je to velmi obtížné, protože je zde velký nedostatek kázně."{WORDdisciplína}
+"Neříkal jsem vám už, že učím Dra?"{WORDdisciplína}
 "Ano, běžný problém mladého Iskai."{WORDIskai}
 "Spousta z nich s tím má potíže. Například, často se ptají na tytéž otázky bez přemýšlení."

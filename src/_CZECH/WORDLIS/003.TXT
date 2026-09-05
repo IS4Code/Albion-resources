@@ -1013,8 +1013,8 @@ Obchodník s výbavou
 cena
 hostinec
 radnice
-hojič
 hojiči
+hojič
 Kounos
 Srimalinar
 víra

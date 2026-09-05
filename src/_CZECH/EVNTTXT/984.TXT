@@ -36,4 +36,4 @@ Má se Sira a Mellthas opět přidat k partě?
 "A pak budeme jedna řeka?"
 "Hirhirhir, ano. A hned potom bychom si měli najít hezkou mělčinu...."
 Sira a Mellthas oznámili překvapeným společníkům, že mezi nimi došlo k mentálnímu kontaktu, což jest něco, co se doposud pokládalo na nemožné mezi lidmi a Iskai. ^ ^ Během několika sekund se Sira a Mellthas hodně sblížili... ^ ^ Dlouho poté tato událost nutila ostatní přátele k živelné polemice, dokud si únava nevybrala na všech svou daň ve formě hlubokého spánku.
-"Ah, pomyšlení na mého otce mě stále trápí a pravděpodobně ještě dlouho bude. On nebyl špatný Iskai a já jen doufám, že teď našel svůj klid v Bohyni." {WORDGoddess}
+"Ah, pomyšlení na mého otce mě stále trápí a pravděpodobně ještě dlouho bude. On nebyl špatný Iskai a já jen doufám, že teď našel svůj klid v Bohyni." {WORDbohyně}

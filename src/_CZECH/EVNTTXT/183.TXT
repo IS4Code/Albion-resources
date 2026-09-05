@@ -1,5 +1,5 @@
-﻿{BLOK000}"Kontrolovala jsem dnes už čtyřikrát přistávací systém." {WORDlanding}
-"Ahoj miláčku. Tak, projdeme se, než člun odstartuje? Právě jsem přezkoušela systémy téhle mamutí plechovky chystající se na přistání." {WORDflight}{WORDlanding}{WORDdream}
+﻿{BLOK000}"Kontrolovala jsem dnes už čtyřikrát přistávací systém." {WORDpřistání}
+"Ahoj miláčku. Tak, projdeme se, než člun odstartuje? Právě jsem přezkoušela systémy téhle mamutí plechovky chystající se na přistání." {WORDlet}{WORDpřistání}{WORDsen}
 "Bongiorno, drahoušku. Co se stalo?
 "Pokud všechno pracuje a my předpokládáme že bude, tak se za čtyřicet pět minut pěkně zhoupneme. Potom by přistání mělo být za námi a části lodi se přetočí vodorovně. Pak budou jednotlivé segmenty orientované podle gravitace. Nezapomeňte si uklidit předměty ve vašich kabinách."
 "Nedělej si starosti, broučku. Systémy i jejich zálohy jsou ve skvělé formě. Vše pracuje bezchybně."

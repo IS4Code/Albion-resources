@@ -1,9 +1,9 @@
-﻿{BLOK000}"Jmenuji se Krinn. Jsem Stri Lovu v Klanu Jižního Větru. Jsem odpovědný za výcvik mladých lovců."{WORDhunt}{WORDtraining}{WORDStri}
+﻿{BLOK000}"Jmenuji se Krinn. Jsem Stri Lovu v Klanu Jižního Větru. Jsem odpovědný za výcvik mladých lovců."{WORDlov}{WORDvýcvik}{WORDStri}
 "Dsarii-ma, hosté domu."
 "Dsarii-ma, návštěvníci. Ještě byste ode mne něco rádi?"
-"Většina členů našeho klanu vždy loví divoká zvířata, jako jsou krondirové nebo warniakci. Já jsem se neúčastnil lovu po tři roky. Jsem na to příliš starý: víš, dosáhl jsem již svého 38 roku. Nedávno mne Klan navrhl radě na obřad Sebai. Byl jsem velmi poctěn, ale odmítl jsem." {WORDcouncil}{WORDSebai}{WORDclan}{WORDwarniak}{WORDkrondir}{BLOK010} "Vy jste odmítl obřad, Krinne? Můžete mi říci proč?"
+"Většina členů našeho klanu vždy loví divoká zvířata, jako jsou krondirové nebo warniakci. Já jsem se neúčastnil lovu po tři roky. Jsem na to příliš starý: víš, dosáhl jsem již svého 38 roku. Nedávno mne Klan navrhl radě na obřad Sebai. Byl jsem velmi poctěn, ale odmítl jsem." {WORDkoncil}{WORDSebai}{WORDklan}{WORDwarniak}{WORDkrondir}{BLOK010} "Vy jste odmítl obřad, Krinne? Můžete mi říci proč?"
 "Je to záležitost mé osobní víry. Obecně se předpokládá, že novorozeně nemá vlastní osobnost. Nicméně by mi to připadalo, jako kdybych uhasil život. ^ Stranou toho, měl jsem plný život a nebojím se jeho konce."
-"Jak jsem vám vysvětlil, kvůli svému věku bych raději zůstal v této nádherné budově." {WORDhouse}
+"Jak jsem vám vysvětlil, kvůli svému věku bych raději zůstal v této nádherné budově." {WORDdům}
 "Díky svým rozsáhlým zkušenostem, mohu učit mladé lovce všemu, co potřebují, včetně lovu dravců, jakými jsou krondirové a warniakove." {WORDkrondir}{WORDwarniak}
 "Jak už víte, učím mladé lovce všemu, co potřebují pro přežití a úspěšný lov."
 "Oh ano, slyšel jsem o Akiirove vrahovi. Hodně štěstí při lovu!"

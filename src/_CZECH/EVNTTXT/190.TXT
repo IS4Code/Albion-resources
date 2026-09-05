@@ -1,5 +1,5 @@
-﻿{BLOK000}"řídím těžební roboty. Avšak právě teď dávám pozor na skladovací prostory." {WORDmachine technician}
-"Ahoj, Tome! Nemám mnoho času. Kapitán mě vybral pro přípravu skladovacích prostor na přistání." {WORDlanding}{WORDcaptain}
+﻿{BLOK000}"řídím těžební roboty. Avšak právě teď dávám pozor na skladovací prostory." {WORDstrojní technik}
+"Ahoj, Tome! Nemám mnoho času. Kapitán mě vybral pro přípravu skladovacích prostor na přistání." {WORDpřistání}{WORDkapitán}
 "Tedy, jak víš, normálně naše práce začíná až po přistání, když začínáme těžit suroviny."
 "Protože nás gravitace během přistáni trochu nachýlí, vše zde musí být přivázáno."
 "Ano, co se stalo, Tome?"

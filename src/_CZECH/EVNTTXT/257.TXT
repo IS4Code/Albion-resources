@@ -1,6 +1,6 @@
 ﻿{BLOK000} "Stavím domy z rostlin. Jsem si jisty, že jste jich tady kolem viděli hondě."
-"Skeima Din, nepotkali jsme se už? Slyšeli jste ty řeči o Kontosovi?" {WORDrumors}
-"Nikdo z nás neví, co si o tom máme myslet. Kontos svým vesničanům říká, že jsme odpovědní za výskyt těch příšer kolem svatyně. Déle se tomuto problému vyhýbat nemůžeme. Ale je pobuřující říkat, že je to naše práce! Kdybyste věřili Kontosovi, tak jsme zlí. Zeptejte se hospodského Edjirra. Myslí si to samé co já. ^ ^ slyšeli jste o tom?" {BLOK010} "Ano." {BLOK011} "Ne." {WORDshrine}{WORDcreatures}{WORDtaboo}
+"Skeima Din, nepotkali jsme se už? Slyšeli jste ty řeči o Kontosovi?" {WORDpověsti}
+"Nikdo z nás neví, co si o tom máme myslet. Kontos svým vesničanům říká, že jsme odpovědní za výskyt těch příšer kolem svatyně. Déle se tomuto problému vyhýbat nemůžeme. Ale je pobuřující říkat, že je to naše práce! Kdybyste věřili Kontosovi, tak jsme zlí. Zeptejte se hospodského Edjirra. Myslí si to samé co já. ^ ^ slyšeli jste o tom?" {BLOK010} "Ano." {BLOK011} "Ne." {WORDsvatyně}{WORDpotvory}{WORDtabu}
 "Vidíte? Nevím proč to říká. Co myslí, že dokáže?"
 "Ne? Dobře, možná to není tak důležité..."
 "Ano, raději tam nevstupujte. Právě tam probíhají naše náboženské obřady. Je to pro nás posvátné místo."

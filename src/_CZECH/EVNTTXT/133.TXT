@@ -1,6 +1,6 @@
-﻿{BLOK000}"Jsem Dra Dji-Fadh. Právě se učím, jak vypěstovat zdi."{WORDwalls}
+﻿{BLOK000}"Jsem Dra Dji-Fadh. Právě se učím, jak vypěstovat zdi."{WORDstěny}
  
-"Vidíme to co děláme jako směs magie, umění a řemesla. Jsme jeden z nejstarších cechů v Jirinaaru a, jak jistě víte, jsme pomocí naší magie schopni tvořit, měnit a natrvalo proměňovat rostliny. To znamená, že můžeme vyrábět celé domy z živého rostlinného materiálu, který není pouze krásný, ale také splňuje nutné předpoklady pro kvalitu obydlí." {WORDmagic}{WORDJirinaar}
+"Vidíme to co děláme jako směs magie, umění a řemesla. Jsme jeden z nejstarších cechů v Jirinaaru a, jak jistě víte, jsme pomocí naší magie schopni tvořit, měnit a natrvalo proměňovat rostliny. To znamená, že můžeme vyrábět celé domy z živého rostlinného materiálu, který není pouze krásný, ale také splňuje nutné předpoklady pro kvalitu obydlí." {WORDmagie}{WORDJirinaar}
 "Stri Akiir je hlavou našeho cechu. Je největším umělcem a kouzelníkem, který tvrdě pracuje v zájmech našeho cechu. Všichni doufáme, že se jednoho dne stane jedním z Vyvolených."{WRNR----}
 "Jsme skutečně šokováni. Ariirova smrt je pro náš cech velkou ztrátou. Dji- Kas jsou schopni čehokoliv, ale tohle? Nepředstavitelné! Naštěstí Sebainah učinila drastická opatření!"{WORDDji-Kas}
 "Taková tragédie! Akiirovo chování je hanebné, ale předpokládáme, že poznání jeho blížící se smrti narušilo jeho jinak čistou mysl."
@@ -20,6 +20,6 @@
 "Jsou zde místa, kde síla Bohyně je obzvlášť silná a kde magické skutky jsou posíleny a často také obtížnější. Tento druh energetických center nazýváme Han."{WRNR----}
 dummy
 "Dsarii-ma!"
-"To je část našich základních cechovních znalostí. Nic obzvlášť vzrušujícího, ale brzy se dostanu k uměleckým částem, jako jsou střešní kopule."{WORDdomes}
-"Jak už jsem řekl, je to část našich základních cechovních znalostí. Nic obzvlášť vzrušujícího, ale brzy se dostanu k uměleckým částem, jako jsou střešní kopule."{WORDdomes}
+"To je část našich základních cechovních znalostí. Nic obzvlášť vzrušujícího, ale brzy se dostanu k uměleckým částem, jako jsou střešní kopule."{WORDkopule}
+"Jak už jsem řekl, je to část našich základních cechovních znalostí. Nic obzvlášť vzrušujícího, ale brzy se dostanu k uměleckým částem, jako jsou střešní kopule."{WORDkopule}
 "Ano. Kopule, které můžete vidět na některých střechách jsou rostlinné struktury, složené především z vodou naplněných buněk různých barev. To je způsob, jakým skrze ně může pronikat světlo."

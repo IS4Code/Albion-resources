@@ -1,4 +1,4 @@
-﻿{BLOK000}"Jsem lovkyně, jako spousta v našem Klanu. Avšak poslední Fadhiim byl pro mne šťastnou událostí. čekám dítěte, tak zůstávám doma. Protože ráda vařím, pomáhám v naší kuchyni."{WORDFadhiim}{WORDchild}{WORDkitchen}
+﻿{BLOK000}"Jsem lovkyně, jako spousta v našem Klanu. Avšak poslední Fadhiim byl pro mne šťastnou událostí. čekám dítěte, tak zůstávám doma. Protože ráda vařím, pomáhám v naší kuchyni."{WORDFadhiim}{WORDdítě}{WORDkuchyň}
 "Dsarii-ma, vzácní hosté."
 "Dsarii-ma. Chcete se mnou mluvit?"
 "Dsarii-ma. Slyšela jsem, že jste na stopě Akiirve vrahovi. Přeji vám hodně štěstí v lovu!"

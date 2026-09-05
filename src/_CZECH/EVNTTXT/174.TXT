@@ -1,4 +1,4 @@
-﻿{BLOK000} "Jak byste měli vědět, jsem Druid a obzvláště znalý amuletů." {WORDamulets}
+﻿{BLOK000} "Jak byste měli vědět, jsem Druid a obzvláště znalý amuletů." {WORDamulety}
 "Togi Din, moji zachránci! Rád vás znovu vidím... zvláště vás Mellthasi a vás Siro!" {WORDMellthas}{WORDSira}
 "Togi Din, moji zachránci! Rád vás znovu vidím!"
 "Má velká vášeň, jak víte. Kdybych nalezl alespoň Cantův amulet, bylo by tím částečně omluveno selhání mé výpravy."{BLOK010}"Byl by Cantův amulet skutečně hoden takového rizika?"

@@ -1,4 +1,4 @@
-﻿{BLOK000}"Jsem válečnice."{WORDa warrior?}
+﻿{BLOK000}"Jsem válečnice."{WORDbojovník?}
 "Togi Din, cizinci. Co chcete?"
 "Neříkejte to! Já vím, myslíte si, že je to pro ženy neobvyklé povolání! Pokud ženy našeho lidu obyčejně pečují o dům a děti, ženy, které mají vůli a sílu vykonávat jakoukoliv profesi. Podívejte se na mě, mohu se v boji vypořádat s mnoha muži a mnoho z nich, kteří věřili, že jsou silnější jsem poslala k ranhojiči!"{BLOK010} "Ferino, nechtěla byste mne cvičit v boji z blízka?"
 "Obzvlášť nerada se opakuji!"

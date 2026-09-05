@@ -1,5 +1,5 @@
 ﻿free
-"Beloveno je přístavní město. Leží jižně od velkého pásu hor. Sledujte horský průsmyk." {WORDmountain pass}
+"Beloveno je přístavní město. Leží jižně od velkého pásu hor. Sledujte horský průsmyk." {WORDhorský průchod}
 "Je v chatrči, kde žije Kontos."
 "Nic o tom nevím."
 "Nic o tom nevím."
@@ -11,17 +11,17 @@
 "Možná jste už viděli malá černá zvířátka, která v noci cupitají ulicemi. říkáme jim kritahové, a kromě toho, že mají ve zvyku krást malé lesklé předměty, jsou celkem neškodná. Kritahové žijí v některých horských jeskyních, ale bohužel vám nemohu říct ve kterých přesně."
 "Srimalinar je krásná, malá iskaiská vesnička. Leží na sever od Kounosu, na druhé straně horského úbočí."
 "To je sklepení blízko vesnice Srimalinar."
-"Správně, přes úbočí hor vede stezka, která spojuje severní a jižní část naší země. Je to velmi úzká cestička, která je sotva vidět, protože se málokdy používá.Vede přes Kounos a pak pokračuje na sever do Srimalinaru."{WORDnorthern side}{WORDsouthern side}{WORDKounos}{WORDSrimalinar}{WORDBeloveno}
+"Správně, přes úbočí hor vede stezka, která spojuje severní a jižní část naší země. Je to velmi úzká cestička, která je sotva vidět, protože se málokdy používá.Vede přes Kounos a pak pokračuje na sever do Srimalinaru."{WORDseverní strana}{WORDjižní strana}{WORDKounos}{WORDSrimalinar}{WORDBeloveno}
 "Milujeme tradici a jsme pyšní na svou minulost."
 "Nic o tom nevím."
-"To je severní část velkého horského pásu. Tam je Srimalinar. Můžete se dam dostat cestou přes hory."{WORDpass}
-"Všechno dál na jih od velkého horského pásu je jižní strana. Patří tam Beloveno a přístav. Už jste byli někdy na severní straně?" {WORDharbor}
+"To je severní část velkého horského pásu. Tam je Srimalinar. Můžete se dam dostat cestou přes hory."{WORDpas}
+"Všechno dál na jih od velkého horského pásu je jižní strana. Patří tam Beloveno a přístav. Už jste byli někdy na severní straně?" {WORDpřístav}
 "Toto tabu se týká kaple v Srimalinaru. Iskaiové v této vesnici berou toto staré tabu velmi vážně!"
 "Pokud hledáte lidí se silnými magickými schopnostmi, pak musíte do vesnice Kontos v Kounosu, nebo hledejte v Srimalinaru." {WORDSrimalinar}
 "O tom nic nevím."
 "Náboženství je pro nás velmi důležité. Jsme šťastní, že nás Kontos tolik naučil."
-"Srimalinar je vesnice na severu země, kde žijí Iskaiové. Je tam také společenství kouzelníků." {WORDmagic}{WORDIskai}{WORDguild}
-"Nejbližší společenství kouzelníků je v Srimalinaru." {WORDmagic}{WORDSrimalinar}
+"Srimalinar je vesnice na severu země, kde žijí Iskaiové. Je tam také společenství kouzelníků." {WORDmagie}{WORDIskai}{WORDcech}
+"Nejbližší společenství kouzelníků je v Srimalinaru." {WORDmagie}{WORDSrimalinar}
 "Nic o tom nevím."
 "Nic o tom nevím."
 "Jestli hledáte nějaké obchody, jdětě do Belovena, nebo do Srimalinaru."
@@ -31,7 +31,7 @@
 "O Kenget Kamulos vám toho moc neřeknu, jen že mají nesmírnou moc a že používají černou magii. Jsem rád, když s nimi nemusím mít nic společného....žijí na východní straně země."
 "V Belovenu je přístav."
 "Lodě jsou jen v Belovenu."
-"Myslím cestu přes horský průsmyk!" {WORDpass}
+"Myslím cestu přes horský průsmyk!" {WORDpas}
 "Jsem rád, když jsem zdravý."
 "To je v Belovenu."
 "Ano, pěkné počasí, že?"

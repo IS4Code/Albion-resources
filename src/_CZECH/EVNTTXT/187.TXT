@@ -1,7 +1,7 @@
-﻿{BLOK000} "Jsem vedoucí mechanik. Právě nyní testuji operační kapacitu těžební jednotky."{WORDmining structures}
+﻿{BLOK000} "Jsem vedoucí mechanik. Právě nyní testuji operační kapacitu těžební jednotky."{WORDdůlní stroje}
 "Nazdar, Driscolle. Jak to jde? Brzy dosáhneme Nuggetu, pak už nechci o práci ani slyšet." {WORDNugget}
 "Nazdar, Driscolle. Jak to jde?"
-"Tedy, nejprve si námi dovezené systémy natěží dostatek rudy pro další výrobu robotů. To bude výsledkem samo-udržovacího procesu, jenž produkuje více a více rudy, kterou můžeme vystřelovat domů v levných kontejnerech." {WORDrobot}{WORDore}
+"Tedy, nejprve si námi dovezené systémy natěží dostatek rudy pro další výrobu robotů. To bude výsledkem samo-udržovacího procesu, jenž produkuje více a více rudy, kterou můžeme vystřelovat domů v levných kontejnerech." {WORDrobot}{WORDruda}
 "Nové modely jsou obrovské, s integrovanými samo-opravnými okruhy. Tyto věci jsou nezničitelné."
 "Na Nuggetu se předpokládají všechny druhy rud."
 {BLOK000}"Co můžeš říci o..." {BLOK001}"Podívej se na tohle..." {BLOK004}"Uvidíme se brzy!" {BLOK005}"Co děláš?"

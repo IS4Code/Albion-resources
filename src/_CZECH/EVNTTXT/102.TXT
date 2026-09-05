@@ -1,11 +1,11 @@
 ﻿empty
 "Toto je to, co nazýváme každým z nás. Myslím každým... dobře... každým Iskai."
-"Velké pohovky? Jsou báječné! Skotačení na nich je spousta legrace! Dělají je Tvůrci." {WORDFormer}
+"Velké pohovky? Jsou báječné! Skotačení na nich je spousta legrace! Dělají je Tvůrci." {WORDDřívější}
 "Hmm, výtečně!"
 "Vždy to smrdí od té doby, co používáme vodu odtud."
 "Ne, nic mne nenapadá."
 "Myslím, že všechny potoky v domě jsou nádherné. Když se nikdo nedívá, můžete do nich vhodit libovolný předmět a ten poté proplouvá skrze celý dům!"
-"Myslím, že je stavějí Tvůrci."{WORDFormer}
+"Myslím, že je stavějí Tvůrci."{WORDDřívější}
 "Tvůrci mohou hovořit s rostlinami, a poté z nich dělají co chtějí!"
 "Dji-Kas, to jsou kouzelníci! Rád bych uměl to co dovedou oni!"
 "To je abych tak řekl rodina z rodin!"
@@ -27,7 +27,7 @@
 "Bohyně na nás dává pozor a mi se po smrti stáváme její součástí. A pokud jste nebyli dobří, potrestá vás věčným zapomněním."
 "Jirinaar je největší město na světě. Tedy, přinejmenším na Nakiridaani."{WORDNakiridaani}
 "Nakiridaani je jméno naší země."
-"Och, nic o tom nevím! Ale v radě jsou chytří lidé, kteří, jsem si jist, o tom něco vědí."{WORDcouncil}{WORDcouncil building}
+"Och, nic o tom nevím! Ale v radě jsou chytří lidé, kteří, jsem si jist, o tom něco vědí."{WORDkoncil}{WORDbudova koncilu}
 "Lidé vypadají legračně-tak širocí a nemají žádnou srst!"
 "Skutečně nevím. Ve středu města, myslím."
 "Městská brána je někde na jihu."

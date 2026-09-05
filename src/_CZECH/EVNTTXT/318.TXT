@@ -1,4 +1,4 @@
-﻿{BLOK000}"Jsem Mairi, bard. Svůj život jsem zasvětil hudbě a zpěvu." {WORDsong}
+﻿{BLOK000}"Jsem Mairi, bard. Svůj život jsem zasvětil hudbě a zpěvu." {WORDpíseň}
 "Zdravím vás, hosté Cantosova domu."
 "Právě jsem dokončil novou verzi velmi staré písně. Je to asi ta nejdůležitější píseň, kterou známe, protože je to Píseň světa. ^ ^ Chtěli byste ji slyšet?" {BLOK010}" S radostí, Mairi."{BLOK011}"Někdy jindy, spěcháme."
 "Udělejte si pohodlí. Je to dlouhá píseň..."

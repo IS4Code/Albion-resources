@@ -1,4 +1,4 @@
-﻿{BLOK000}"Jsem Tharnosův válečník a nemám žádné další povolání!" {WORDTharnos}{WORDwarrior}{WORDprofession}
+﻿{BLOK000}"Jsem Tharnosův válečník a nemám žádné další povolání!" {WORDTharnos}{WORDbojovník}{WORDprofese}
 "Togi Din, návštěvníci."
-"Tedy, většina mužů nosících zbraně jsou také řemeslníci nebo dokonce básníci. Já jsem na druhé straně pyšný, že složím svému králi pouze zbraní."{WORDpoet}{WORDtrader}
+"Tedy, většina mužů nosících zbraně jsou také řemeslníci nebo dokonce básníci. Já jsem na druhé straně pyšný, že složím svému králi pouze zbraní."{WORDbásník}{WORDobchodník}
 "Pokud se zajímáte o zbraně, měli byste jít do Vanella. Je tam Umajo, který zná své řemeslo."{WORDVanello}{WORDUmajo}
