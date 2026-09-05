@@ -26,7 +26,7 @@ Servisní robot. Vypadá, že je deaktivován.
 Elekronika zde je na cimpcamr. 
 Spínač, připevněný k plexiglasu železnými podpěrami.
 Spínač se na krátkou chvíli rozsvítil, ale nic se nestalo.
-Jakmile (LEAD}{NAME} použil spínač, zeď překvapivě okamžitě zmizela ve stropě! Uh...?
+Jakmile {LEAD}{NAME} použil spínač, zeď překvapivě okamžitě zmizela ve stropě! Uh...?
 Velké kontrolní světlo.
 Blikající podlahová deska.
 Za otvorem ve zdi jsou komplikované elektronické součástky. 

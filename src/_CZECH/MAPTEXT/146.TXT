@@ -55,14 +55,14 @@ Něco se pohlo v severozápadním rohu místnosti!
 "Podívejte na to! Ty zrůdy za červenými zdmi. Jestli se dostanou ven, tak jsme ztraceni. Dejte pozor na každý krok."
 "Podívej na modré desky. Teď můžeme usoudit, že červené jsou nebezpečné a zelené mají spíše positivní efekt. Ale co může znamenat ta modrá. Pojďme se na to podívat..."
 "Nevím. Nejspíš bychom měli být opatrní. Kdo ví co můžeme přivolat."
-"Nevím. Nejspíš bychm měli být opatrní. Kdo ví co můžeme uvolnit. Když si vzpomenuna tůj poslední experiment s těmihle deskami, Drirr....."
+"Nevím. Nejspíš bychm měli být opatrní. Kdo ví co můžeme uvolnit. Když si vzpomenu na tvůj poslední experiment s těmihle deskami, Drirre....."
 "Dobrá, byloby zajímavé vědět co se stane, ale my....."
-"Přesně tak. Buďte v pozoru. Celá budova se chystá spadnout na naše hlavy!" ^ ^ {INK 001} S touto poznámkou Drirr vstoupila na jednu z modrých desek.
+"Přesně tak. Buďte v pozoru. Celá budova se chystá spadnout na naše hlavy!" ^ ^ {INK 001} S touto poznámkou Drirr vstoupil na jednu z modrých desek.
 {CNTR}{HIGH} S prasknutím zmizela velká část nístnosti!
 "Celá budova se na nás chystá spadnout!"
 Mříže nemohou být manipulovány. je to zablokováno.
-{LEAD}{NAME} slyšel jednoho z {HIS } přátel říct: ^ ^ {INK 002} "Velmi směšné(LEAD}{NAME}! Užili jste si pád?" {INK 001} Poté všichni zapluly do hloubek!
+{LEAD}{NAME} slyšel jednoho z {HIS } přátel říct: ^ ^ {INK 002} "Velmi směšné, {LEAD}{NAME}! Užili jste si pád?" {INK 001} Poté všichni zapluly do hloubek!
 {LEAD}{NAME} myslí {HE  } viděl něco zajímavého pod košem!
-Planoucí tekutina vytriskla(LEAD}{NAME} do tváře!
+Planoucí tekutina vytryskla {LEAD}{NAME} do tváře!
 "Podívejte ..... zrůda za zelenou zdí! Když jsem se na to podíval, málem jsem si učůrnul! Staré pověrčivé strachy se vkrádají do našich myslí..."
 "Toto je Démon, magický nepřítel, symbol strachu."

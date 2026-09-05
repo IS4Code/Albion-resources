@@ -158,7 +158,7 @@ Place holder for further Cut-Map Events.
 "Dsarii-ma. Já vám mnoho nepomůžu. Jsem jeden z Vrisových uklízečů a mám na starost tuto budovu."
 "Dsarii-ma. Podívejte na ty krásné rostliny v předsíni. Já se o ně starám!"
 Dveře vedou ven.
-{FAHI}-SCRIPT SEQUENCE--{NORS} ^ ^ Tom a Rainer vběhli do zassedací haly kde byla ceremonie přerušena Akiirovým vrahem. Celá parta posléze dostala za úkol vyřešit tuto vraždu. Získals další informace o vraždě. Drirr se přidává k partě!!!^ ^ Posléze je zjištěno, že uprchlý vrahoun byl spatřen v blízkosti Dji-kas gildovního domu. Všichni se tam vydávají...
+{FAHI}-SCRIPT SEQUENCE--{NORS} ^ ^ Tom a Rainer vběhli do zassedací haly kde byla ceremonie přerušena Akiirovým vrahem. Celá parta posléze dostala za úkol vyřešit tuto vraždu. Získals další informace o vraždě. Drirr se přidává k partě! ^ ^ Posléze je zjištěno, že uprchlý vrahoun byl spatřen v blízkosti Dji-kas gildovního domu. Všichni se tam vydávají...
 První pomoc je poskytnuta úplně grogy Tomovi po jeho příchodu do radní budovy.
 Unavený Rainer obdržel první pomoc krátce poté co vstopil do radní budovy...
 Bradir začíná ztrácet klid spolu s tím jak Sebainah k němu hovoří.
@@ -177,13 +177,13 @@ Nastalo dlouhé ticho ve které se všichni snaží ztrávit podivný příběh.
 "Bradir byl přítel mojí rodiny už od mého dětství, podle mého tedy za toto nemůže. Milovala jsem svého otce, ale...vím, že občas dokázal být velmi tvrdohlavý. Navíc v těchto extrémních podmínkách... ^ ^ Klidně takhle mohl reagovat. A klidně i kvůli mně, bože můj to je hrozné. ^ ^ Věřím Bradirovým slovům."
 "Já také věřím Bradirovi. Je mimo podezření. ^ ^ Vrať se do svého cechu, Bradire. Budeš tam toho muset mnoho vysvětlit. ^ ^ Fasiir, který byl křivě obžalovaný, bude okamžitě rehabilitován. ^ ^ Kriis, podplacený člen Dji-Kas, bude muset za sebe zodpovídat."
 "Znamená to, že jsme vyřešili vraždu. Je to tak Sebainahu Janiis?"
-"Ano, tak to je. Děkuji vám lidé, a tobě také Drirr, za vyřešení této věci. Nic víc nestojí v cestě vašim dobrodružným cestám." 
+"Ano, tak to je. Děkuji vám lidé, a tobě také, Drirre, za vyřešení této věci. Nic víc nestojí v cestě vašim dobrodružným cestám." 
 "Jsme dobrý tým. Tome a Rainere, pokud chcete, velmi ráda vás doprovodím na cestách. Alespoň zažiju něco vzrušení."
-"Skvěle, Drirr! Jsem rád, že jseš s námi."
+"Skvěle, Drirre! Jsem rád, že jseš s námi."
 "Tome a Rainere, já vždycky dělám impulsivní rozhodnutí^ ^ Já bych se chtěla také přidat. Po tom co se zde stalo. Chci se odtud dostat a půjdu úplně kamkoliv, slibuji. ^ ^ Výlet mi udělá jen dobře, a moje magické schopnosti by zas naopak mohly pomoci vám. Co myslíte moji přátelé?
 "Samozřejmě jseš vítána Siro. Máme před sebou zřejmě ještě velmi dlouhou cestu a čím více nás bude tím lépe!"
 "I když Akiirův tragický plán ve mne zanechal smutný pocit, jsem velmi rád, že se věci konečně ujasnily. ^ ^ Tome a Rainere, jste stále vítaní hosté zde v městě Jirinaar. Když se budete chtít vydat na cesty pohovořte se mnou. Nyní náše schůzka skončila."
-Tom, Rainer, Drirr, a Sira opustili Sebainahovu místnost.
+Tom, Rainer, Drirr a Sira opustili Sebainahovu místnost.
 Tom a Rainer vstoupili do radnice právě včas. ^ ^ V setkávací místnosti nalezli velmi malou skupinu Iskaiů. ^ ^ Sebainah je ihned zdraví:
 "Dsarii-ma, Tome a Rainere, vítejte na našem setkání. Představuji vás Akiirovi, který je hlavou cechu Tvůrců, taktéž mu řikáme cech Dji-Fadh."
 "Dsarii-ma."
@@ -195,13 +195,13 @@ Než může kdokoliv zareagovat, člověk vystřelil malou šipku. Akiir padl k 
 "Vrah unikl skrze okno, Sebainahu! S okamžitou platností začneme prohledávat město!"
 "Musíme jednat rychle. pošlete pro Driir - Stiriika pro lidské zájmy a potřeby. ^ ^ Ctění členové rady, Briid, můj synovče: Prosím nyní mne opusťte. Jsem smutna, že měl obřad tak tragický konec. ^ ^ Tome a Rainere, musím s vámi hovořit."
 "Dsarii-ma, Sebainahu Janiis.
-"Dsarii-ma, Drirr. Byl jsi informován o Akiirově vraždě??"
+"Dsarii-ma, Drirre. Byl jsi informován o Akiirově vraždě??"
 "Ano, jaký to šok!"
-"Skutečně,  Drirr, jsm se jist, že už jsi slyšela o našech dvou návštěvnících. Jsou tu cizí a potřebují tvou pomoct, aby mohli vyřešit zločin."
+"Skutečně,  Drirre, jsm se jist, že už jsi slyšela o našech dvou návštěvnících. Jsou tu cizí a potřebují tvou pomoct, aby mohli vyřešit zločin."
 "Budu vedle nich se vším co mám, Sebeinahu, přísahám. ^ ^ Tome a Rainere, omlouvám se, že se setkáváme za takových okolností."
-"Dsarii-ma, Drirr. Jsme trochu přešlý z toho co se stalo."
+"Dsarii-ma, Drirre. Jsme trochu přešlý z toho co se stalo."
 "Věřím tomu co říkaš. Měly bychom pravděpodobně hovořit se Sebai-Giz Frill nejdříve. Mohl by nám říct o lidském pokolení ze kterého vzešel i vrah. Pojďme do jeho místnosti. Jsem si jist, že nám poradí."
-"Drirr! Proradný vrah byl spatřen v blízkosti cechovního domu mágů Dji-Kas!"
+"Drirre! Proradný vrah byl spatřen v blízkosti cechovního domu mágů Dji-Kas!"
 "Stopa! Pojďme ihned do domu Dji-Kas!"
 Všichni z nich pospíchali do domu Mágů.
 "Tyto dveře vedou do místnosti starosty města Sebainah Janiise. A teď vás opustím.
@@ -218,7 +218,7 @@ Všichni z nich pospíchali do domu Mágů.
 "Bezpochyby. Vrah přísluší k lidské rase, která je slavná pro jejich zabijácké schopnosti. Tihle lidé málokdy vraždí kvůli vlastním zájmům. Měli byste si pohovořit s Frillem, slyšel jsem, že je opět v paláci. Jistě už je na cestě sem.  ^ ^ áhh, tady je Drirr, Stiriik, který vás bude doprovázet.
 {CNTR}{INK 001} Vývěsní štít říká: ^ ^ {INK 006} ^ ^ Pracovna Sebai-Giz Frilla{INK 006}
 {CNTR}{INK 001} Vývěsní štít říká: ^ ^ {INK 006} ^ ^ Pracovna Sebainaha Janiise, starosty Jirinaaru.
-Drirr se přidala k Tomovi and Rainerovi. ^ ^ Společně se vydali do pracovny mudrce, Frilla, který se právě vrátil z dlohé cesty ^ ^ Drirr říká Frill je nejstarší Iskai z Nakiridaani a je velice moudrý.
+Drirr se přidal k Tomovi and Rainerovi. ^ ^ Společně se vydali do pracovny mudrce Frilla, který se právě vrátil z dlohé cesty ^ ^ Drirr říká, že Frill je nejstarší Iskai z Nakiridaani a je velice moudrý.
 "Naštěstí, Stiriik z Městské Hlídky uvidí vraha velmi brzy. ^ ^ "Asi bychom měli prohledat ulice města."
 Všichni ihned pospíchali do cechovního domu Mágů Jirinaaru, Dji-Kas. ^ ^ Vrah nebyl bohužel nalezen na ulici, takže všichni vstoupili do domu.....
 "Tato  Sebainah vypadá jako místní šéf. Jsem zvědav, co po nás bude chtít."

@@ -38,7 +38,7 @@ Druh fontány.
 Dveře domu klanu Lovců jsou chráněny zámkem.
 Dveře.
 {CNTR}{INK 003}{FAHI}YO! ^ ^ Uplynula hodina!
-{INK 001} Stiriik přichází k Drirr a bez dechu říká: ^ ^ {INK 002} "Dsarii-ma, Drirr! Do města právě přišel chovatel dobytka, kteří říká, že viděl jít vraha  Kenget Kamulos do zbořenin starého Former centra!"
+{INK 001} Stiriik přichází k Drirrovi a bez dechu říká: ^ ^ {INK 002} "Dsarii-ma, Drirre! Do města právě přišel chovatel dobytka, kteří říká, že viděl jít vraha  Kenget Kamulos do zbořenin starého Former centra!"
 "Měli bychom jít co nejrychleji do staré radní budovy. Možná tam toho vraha ještě můžeme chytit!"
 "Díky, nejdříve bychom se rádi trochu porozhlédli po městě."
 "Dsarii-ma. Vítejte v Jirinaar."

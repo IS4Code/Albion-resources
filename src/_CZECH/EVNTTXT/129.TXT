@@ -28,5 +28,5 @@ dummy
 Bitva pokračuje, dokud se Bradir nevzdá, nebo není "zabit". Pokud je "zabit", ukáže se, že je dosud naživu. Pak vysvětlí Akiirovy úmysly. Ve skutečnosti to byl plánovaný únik do Sebainah, což vysvětluje předcházející události.
 Po bitvě Bradir klesne na kolena. Bolest způsobila zmatený výraz jeho tváře a jeho oči se staly čistými.
 "Musíme ho vzít k ranhojiči, rychle. Jinak se nikdy nedozvíme, proč nás napadl."
-Bradir je rychle dopraven k ranhojiči. ^ ^ Jakmile je vyléčen, koná se shromáždění v budově rady v pokoji Sebainah, kde Bradir musí vysvětlit své počínání. ^ ^ Navíc byli předvoláni i Tom, Reiner, Drirr a Sira, dcera zavražděného Akiira.
+Bradir je rychle dopraven k ranhojiči. ^ ^ Jakmile je vyléčen, koná se shromáždění v budově rady v pokoji Sebainah, kde Bradir musí vysvětlit své počínání. ^ ^ Navíc byli předvoláni i Tom, Rainer, Drirr a Sira, dcera zavražděného Akiira.
 ONLY FOR DEBUGGING! CARRY OUT BRADIR ENCOUNTER?

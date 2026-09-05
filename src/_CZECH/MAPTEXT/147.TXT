@@ -54,9 +54,9 @@ Dveře na pravo od spínačů se otevřely!
 S bránou se nedá hnout; je zablokovaná.
 "Přátelé, to je moje chyba, že jsme sem spadli. {FAT } Já {NORS} projdu těmito světelnými poli abychom mohli pokračovat v cestě."
 Strop se opět uzavřel potom, co jím všichni propadli do podlaží!
-"Drirr! Ty jsi nás všechny vehnal do záhuby! Zatraceně, nedotýkej se svými zbrklými prsty žádného spínače, dokud s tím nebudeme všichni souhlasit!"
-"Ou, sakra to bolí! Ano možná máš pravdu. Pokusím se dát dohromady. Před tím než mě sežvýkáte, zjistěme jak jsme přežili přistání."
-"Teď Drirr je zraněná a v bezvědomí! Těžce zaplatila za svou zvědavost."
+"Drirre! Ty jsi nás všechny vehnal do záhuby! Zatraceně, nedotýkej se svými zbrklými prsty žádného spínače, dokud s tím nebudeme všichni souhlasit!"
+"Ou, sakra to bolí! Ano možná máš pravdu. Pokusím se dát dohromady. Před tím než mě sežvýkáte, zjistěme, jak jsme přežili přistání."
+"Teď je Drirr zraněný a v bezvědomí! Těžce zaplatil za svou zvědavost."
 {LEAD}{NAME} pohnul spínačem, a napravo od něj {HIM } povstala zeď. Bohužel, je to zeď za ním, takže blokuje cestu...co se dá dělat.
 Zvedla se zelená zeď, ale za skupinou se také něco pohnulo!
 červená zeď zmizela a vypustila příšery!
@@ -67,13 +67,13 @@ Dveře napravo se otevřely.
 "Mám z toho špatný pocit. Podívejte na ty stvůry za zdí; všechno tady vypadá jako past!"
 "Souhlas. Ale deska se spínači před námi je zelená. Zelené mají mít vždy positivní efekt."
 Mříž. To vypadá, že se s ní dá pohybovat. 
-Souhlasíš s  Drirřinou pomocíí?
-"Tvá odvaha je pozoruhodná, Drirr. Já, také nevidím jinou možnost. Mnoho štěstí."
+Souhlasíš s  Drirrovou pomocíí?
+"Tvá odvaha je pozoruhodná, Drirre. Já také nevidím jinou možnost. Mnoho štěstí."
 "Tudy ne! Tady musí být jiná cesta. Snažit se projít skrz tyto světelná pole je čisté bláznovství.
-Drirr se z hluboka nadechla a prosprintovala skrz pole! ^ ^ Bolestí vykřikla a sesula se na posledním poli.
-"Ou, BOže!!!! Ubohý přítel! Rychle pojďme jí pomoct!
+Drirr se zhluboka nadechl a prosprintoval skrz pole! ^ ^ Bolestí vykřikl a sesul se na posledním poli.
+"Ou, BOže!!!! Ubohý přítel! Rychle, pojďme mu pomoct!
 Je slyšet tlumený zvuk otevírajících se mříží.
 {LEAD}{NAME} myslí {HIS } viděl něco něco zajímavého pod košem!
-Malá jedem pomazaná šipka řízla (LEAD}{NAME} do prstu.
+Malá jedem pomazaná šipka řízla {LEAD}{NAME} do prstu.
 {LEAD}{NAME} a další použili provaz k sestupu do hloubek.
-"Podívejte na tu hromadu oblázků. To vypadá jako kořiszt!"
+"Podívejte na tu hromadu oblázků. To vypadá jako kořist!"

@@ -127,10 +127,10 @@ Places for further Cutmap events.
 "Já myslím, že je třeba vstoupit na tyto podlažní desky ve správném pořadí, aby to vyvolalo nějakou odezvu."
 "Víš možná se mýlím, ale pojal jsem dojem, že ten zkřížený obrazec na podlaze ve tvaru mečů, není pouhá schoda okolností a náhod. Je to podivné.."
 "Podívejte na šedou kámenou desku na zdi. Zajímalo by mne, jestli se stane něco zvláštního, pokud ji stisknu!"
-{INK 001}{LEAD}{NAME} zírá na kamennou desku. Uprostřed je část, která se dá stisknout.  Než může kdokoliv cokoliv říci, Drirr povídá: ^ ^ {INK 002} "Na co čekáme? Nechte mě to zkusit!" ^ ^ {INK 001} Drirr stopnula na kamenou desku naprosto bez otálení. Okamžitě však z podlahy vyletěly ostré čepele a zablokovaly cestu!
-"Dobrá práce,Drirr, můj zvědavý příteli. A teď nám pověz co máme dělat dál?"
-"Dobrá. Alespoň čepele nevyskočily pod naše nohy. Co je s tou deskou tady? Vyskočila nahoru, když jsme tu první , s Driinou pomocí stiskli.."
-{INK 001}{LEAD}{NAME}:{INK 002} "ARGHH..sakra! Tos měla být ty Drirr, čí kožich se měl připálit!"
+{INK 001}{LEAD}{NAME} zírá na kamennou desku. Uprostřed je část, která se dá stisknout.  Než může kdokoliv cokoliv říci, Drirr povídá: ^ ^ {INK 002} "Na co čekáme? Nechte mě to zkusit!" ^ ^ {INK 001} Drirr stoupnul na kamenou desku naprosto bez otálení. Okamžitě však z podlahy vyletěly ostré čepele a zablokovaly cestu!
+"Dobrá práce, Drirre, můj zvědavý příteli. A teď nám pověz co máme dělat dál?"
+"Dobrá. Alespoň čepele nevyskočily pod naše nohy. Co je s tou deskou tady? Vyskočila nahoru, když jsme tu první, s Drirrovou pomocí, stiskli.."
+{INK 001}{LEAD}{NAME}:{INK 002} "ARGHH..sakra! Tos měl být ty, Drirre, čí kožich se měl připálit!"
 "Podívejte sem! čepele zajely zpátky do podlahy! Co říkáte! Pojďme dál!"
 "TA věc spustila mechanismus. čepele vyjely z podlahy!!"
 Zvuk tisknoucích se kamených desek je slyšet z jihovýchodního směru.
