@@ -1,5 +1,6 @@
 #!/bin/sh
 set -euo pipefail
+export LC_ALL=C
 
 # Forms WORDLIST entry from file
 

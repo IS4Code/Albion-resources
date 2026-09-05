@@ -1,5 +1,6 @@
 #!/bin/sh
 set -euo pipefail
+export LC_ALL=C
 
 # Identifies indices of XLD libraries that have any parts
 

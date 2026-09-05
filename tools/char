@@ -1,5 +1,6 @@
 #!/bin/sh
 set -euo pipefail
+export LC_ALL=C
 
 # Forms a character file from base data and name files
 

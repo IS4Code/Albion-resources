@@ -1,5 +1,6 @@
 #!/bin/sh
 set -euo pipefail
+export LC_ALL=C
 
 # Creates sed script to replace characters with their corresponding mapping via a given character map
 
@@ -36,7 +37,7 @@ tr -d "\r" | {
   # Remove BOM
   printf 's/\357\273\277//g\n'
   # Replace all unmapped unsafe characters
-  printf 's/[^-\1-%s]%s[^\003]%s/?%s/g\n' ' %\./0-9:;A-Z\[\]^_a-z{|}' '\(' '\)' '\1'
+  printf 's/[^]\1-%s-]%s[^\003]%s/?%s/g\n' ' %./0-9:;A-Z[^_a-z{|}' '\(' '\)' '\1'
   # Remove remaining characters
   printf 's/[\r\002\003]%s//g\n' '\+'
 }
