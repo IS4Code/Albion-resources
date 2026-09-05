@@ -1,11 +1,11 @@
 ﻿empty
 "Toto je to, co nazýváme sami sebou."
-"Zkušený Tvůrce může vypěstovat velkou sedací rostlinu ve 4 dnech. Jsou báječné na sezení a děti kolem nich rády skotačí." {WORDDřívější}
+"Zkušený Tvůrce může vypěstovat velkou sedací rostlinu ve 4 dnech. Jsou báječné na sezení a děti kolem nich rády skotačí." {WORDTvůrci}
 "Ano, máme množství výtečných věcí, obvykle z lesní zvěře. Lidé dávají přednost zvěřině, ačkoliv chovatelé dobytka nabízejí své maso o něco levněji. {WRNR----}"
 "Ve velkých domech je odpadová voda prohnána skrze trubky ve zdech do bazénu. Rostliny v něm ji vyčistí před tím, než je vrácena do řeky."{BLOK010}"Není příliš špinavá. řeka může znečištěnou vodu pohltit. Proč taková vydání?"
 "Jsou zde dva menší klany, které se živí chovem dobytka. Jejich stáda jsou většinou blízko města."
 "Každý, kdo si to může dovolit má vodu tekoucí skrze celý dům. Vypadá to překrásně, jenom musíš dávat pozor, aby s ní děti netropili neplechu..." {WORDdům}
-"Velmi rádi spojujeme krásy přírody s pohodlími domova. Tvůrci z cechu Dji-Fadh mohou vystavět celé stavby z rostlin! Samozřejmě, není to levné; jsou zde domy, které jsou zbudovány z kamene a písku a pouze částečně z rostlin od Dji-Fadh. Především chudí lidé žijí v tom, co nazýváme 'mrtvé domy'."{WORDDřívější}{WORDDji-Fadh}{WORDcech}
+"Velmi rádi spojujeme krásy přírody s pohodlími domova. Tvůrci z cechu Dji-Fadh mohou vystavět celé stavby z rostlin! Samozřejmě, není to levné; jsou zde domy, které jsou zbudovány z kamene a písku a pouze částečně z rostlin od Dji-Fadh. Především chudí lidé žijí v tom, co nazýváme 'mrtvé domy'."{WORDTvůrci}{WORDDji-Fadh}{WORDcech}
 "Dji-Fadh, neboli Tvůrci, jsou jedním z nejstarších cechů v Jirinaaru. Sami sebe považují především za stavitele a, s jejich magií, mohou upravit rostliny a přeměnit je v trvalé stavby. Cechovní dům Dji-Fadh se nachází v severozápadním rohu Jirinaaru. Od té dávné události s Argimem získává na vlivu."{WORDmagie}{WORDJirinaar}{WORDArgim}{WORDcech}
 "Měl bys vědět, ze Dji-Kas je jméno cechu kouzelníků Jirinaaru. Najdeš je v jihozápadní části města. Zde jsou prováděny četné pokusy s magicky nadanými z našeho lidu. Magie Dji-Kas je umění s mnoha stránkami: lečí, tvoří a ničí." {WORDmagie}{WORDJirinaar}{WORDcech}
 "Většina rodin náleží k větším společenstvím, Klanům. Klany povstaly postupem mnoha let skrze příbuzenské vztahy, věrnosti několika rodin, nebo někdy třebas jen z hospodářských důvodů. Mnoho klanů se specializovalo na určitou profesi, je to lov, řemesla nebo cokoliv. Sebai většiny vlivných rodin jsou hlavy klanů a někteří z nich jsou vysláni jako zástupci do rady Jirinaaru."{WORDSebai}

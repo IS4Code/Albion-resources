@@ -506,7 +506,7 @@ voda
 vodní kanály
 dům
 architektura
-Dřívější
+Tvůrci
 Dji-Fadh
 magik
 Dji-Kas
@@ -536,7 +536,7 @@ městská brána
 nakupování
 hostinec
 přístav
-znamení
+značka
 nahá
 hojení
 pomoc
@@ -550,7 +550,7 @@ Fasiir
 Rejira
 Argim
 legendy
-neřád
+skorrek
 hojit
 šaty
 podpis
@@ -623,7 +623,7 @@ stoupa
 trofej
 nevlastní rodiče
 attio
-Gods
+bohové
 Danu
 Lugh
 Tuath
@@ -804,7 +804,7 @@ kouzelné svitky
 aféry
 bojovník
 Trenkiriidan
-Stará budova
+budova Tvůrců
 Božský amulet
 warniak
 píseň

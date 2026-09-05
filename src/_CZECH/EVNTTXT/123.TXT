@@ -10,7 +10,7 @@
 "Cechovní dům byl dlouhou dobu v jihozápadním rohu Jirinaaru. Vystavěn Dji-Kas byl domovem mnoha členů cechu a všech Dra."{WORDDra}
 "Pokouším se Akiirovi odpustit, protože byl v krajní situaci. Jsem si jistý, že nebyl sám."
 "Dovolte mi ještě jednou poděkovat, že jste nás očistili od podezření z Akiirovy vraždy!"
-"Akiir je hlavou Tvůrců, cechu, který se od nás v mnohem liší. Zvláště pak Akiir nechce opustit svou cestu vyhýbání se konfliktům."{WORDDřívější}
+"Akiir je hlavou Tvůrců, cechu, který se od nás v mnohem liší. Zvláště pak Akiir nechce opustit svou cestu vyhýbání se konfliktům."{WORDTvůrci}
 "Správně, to je mé jméno."
 "Správně, to je mé jméno."
 "Podezření z vraždy na chvíli padlo na mě. Naštěstí, přátelé, jste byli schopni dát vše do pořádku."

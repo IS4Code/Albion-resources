@@ -1,11 +1,11 @@
 ﻿empty
 "Toto je to, co nazýváme každým z nás. Myslím každým... dobře... každým Iskai."
-"Velké pohovky? Jsou báječné! Skotačení na nich je spousta legrace! Dělají je Tvůrci." {WORDDřívější}
+"Velké pohovky? Jsou báječné! Skotačení na nich je spousta legrace! Dělají je Tvůrci." {WORDTvůrci}
 "Hmm, výtečně!"
 "Vždy to smrdí od té doby, co používáme vodu odtud."
 "Ne, nic mne nenapadá."
 "Myslím, že všechny potoky v domě jsou nádherné. Když se nikdo nedívá, můžete do nich vhodit libovolný předmět a ten poté proplouvá skrze celý dům!"
-"Myslím, že je stavějí Tvůrci."{WORDDřívější}
+"Myslím, že je stavějí Tvůrci."{WORDTvůrci}
 "Tvůrci mohou hovořit s rostlinami, a poté z nich dělají co chtějí!"
 "Dji-Kas, to jsou kouzelníci! Rád bych uměl to co dovedou oni!"
 "To je abych tak řekl rodina z rodin!"

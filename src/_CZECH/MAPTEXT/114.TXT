@@ -188,7 +188,7 @@ Když záblesk pominul, zůstal pouze Iskai. Vrah zmizel!
 "Zatraceně! Už zase uprchl oknem."
 Drirr se otočil k Iskai, který vytvořil to oslnivé světlo.
 "No, kdo jsi a proč si pomohl vrahovi utéct?"
-{INK 001} Fasiir, vůdce Dji-Kas, se vložil do rozhovoru: ^ ^ {INK 002} "Jmenuje se Kriis a BYL naším členem. ^ ^ Kriisi, ty mizernej prevíte, proč si dovolil vrahovi vejít do naší budovy?"
+{INK 001} Fasiir, vůdce Dji-Kas, se vložil do rozhovoru: ^ ^ {INK 002} "Jmenuje se Kriis a BYL naším členem. ^ ^ Kriisi, ty mizernej skorreku, proč jsi dovolil vrahovi vejít do naší budovy?"
 "Ale Fasiire, ty, ty sám jsi mi k tomu dal rozkaz! A teď mě chceš obětovat? Tím si nijak nepomůžeš! To ty jsi vrahovi zaplatil!"
 "COžE? ^ ^ Zešílel jsi? Drirre, nevěř mu ani slovo! Nemám s tím nic společného!"
 "Znám důvod nenávisti mezi tebou, Fasiire, a Akiirem moc dobře. Měl jsi motiv vraždit!"

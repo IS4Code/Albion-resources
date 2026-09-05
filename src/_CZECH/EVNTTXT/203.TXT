@@ -1,6 +1,6 @@
 ﻿empty
 "Tomu říkáme my."
-"Zkušený Tvůrce umí vypěstovat velkou rostlinu na sezení za 4 dny. Skvěle se na nich sedí a děti kolem nich rády skáčou." {WORDDřívější}
+"Zkušený Tvůrce umí vypěstovat velkou rostlinu na sezení za 4 dny. Skvěle se na nich sedí a děti kolem nich rády skáčou." {WORDTvůrci}
 "Ano, máme mnohem víc chutných věcí. Většinou se dělají z lesních zvířat. Lidé raději loví, ale chovatelé zvířat prodávají maso za mírně nižší ceny."
 "Ve velkých budovách proudí odpadní voda trubkami ve zdi do nádrže. Rostliny vyčistí vodu, než ji vrátíme do řeky."
 free

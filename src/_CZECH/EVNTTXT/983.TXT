@@ -13,7 +13,7 @@
 {BLOK000}"Co mi můžeš říci o..."{BLOK004}"Dík za konverzaci" {BLOK005}"Jaké je přesně tvoje profese, Drirre?"
 {BLOK000}"Co mi můžeš říci o..."{BLOK004}"Dík za konverzaci!"
 "Měli bychom vyrazit do městských ulic, možná tam na toho chlápka ještě narazíme."
-"Jak si slyšel, vrah utekl do starého cechu Tvůrců. Argim bude mít velkou radost!" {WORDStará budova}{WORDArgim}
+"Jak si slyšel, vrah utekl do starého cechu Tvůrců. Argim bude mít velkou radost!" {WORDbudova Tvůrců}{WORDArgim}
 "Jistě si už slyšel příběh o starém Agrimovi. Když se zbláznil, zničil starý cech Tvůrců, který se nacházel na severovýchod od Jirinaaru. Teď to místo má hodně špatnou pověst, dějí se tam prý dost divné věci. Docela by mě zajímalo, proč vrah utekl právě tam."{WORDArgim}
 "Naše jediná naděje je, že se schovává někde v těchhle chodbách. Pojďme to tu prohledat pořádně."
 "Dobrá, našli jsme jeho ostatky. Ale pořád ještě musíme zjisti, kdo vraha vlastně najal."
