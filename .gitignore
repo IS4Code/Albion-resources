@@ -1,6 +1,7 @@
 XLDLIBS
 
 *.SED
+*.CON
 *.OEM
 *.ANSI
 *.LIB

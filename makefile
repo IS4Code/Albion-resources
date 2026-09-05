@@ -39,6 +39,7 @@ base: \
 	$(OUT_DIR)/PALETTE.000 \
 	$(OUT_DIR)/SLAB \
 	$(OUT_DIR)/SPELLDAT.DAT \
+	$(OUT_DIR)/CHARMAP.CON \
 	$(call xlds,3DBCKGR,.IMG) \
 	$(call xlds,3DFLOOR,.RAW) \
 	$(call xlds,3DOBJEC,.RAW) \
@@ -113,6 +114,10 @@ $(TOOLS_DIR)/.empty:
 	$(TOOLS_DIR)/cmap < $< > $@
 	$(TOOLS_DIR)/newest $@ $^
 
+%.CON: %.TXT
+	$(TOOLS_DIR)/chconv < $< > $@
+	$(TOOLS_DIR)/newest $@ $^
+
 %.TXT.OEM: %.TXT $(SRC_LANG_DIR)/CHARMAP.TXT.SED
 	$(TOOLS_DIR)/text $(SRC_LANG_DIR)/CHARMAP.TXT.SED $< > $@
 	$(TOOLS_DIR)/newest $@ $^
@@ -172,6 +177,10 @@ $(OUT_DIR)/SLAB: $(SRC_DIR)/SLAB.RAW | $(OUT_DIR)
 	$(TOOLS_DIR)/newest $@ $^
 
 $(OUT_DIR)/SPELLDAT.DAT: $(SRC_DIR)/SPELLDAT.DAT | $(OUT_DIR)
+	cat $< > $@
+	$(TOOLS_DIR)/newest $@ $^
+
+$(OUT_DIR)/CHARMAP.CON: $(SRC_LANG_DIR)/CHARMAP.CON | $(OUT_DIR)
 	cat $< > $@
 	$(TOOLS_DIR)/newest $@ $^
 

@@ -1,0 +1,13 @@
+#!/bin/sh
+set -euo pipefail
+export LC_ALL=C
+
+# Creates a simple character mapping code from non-ASCII UTF-8 characters
+
+tr -d "\r" | {
+  while read -r chr ord; do
+    if [ "${#chr}" -gt 1 ]; then
+      printf "%s\\$(printf '%03o' "$ord")" "$chr"
+    fi
+  done
+}
